@@ -1,12 +1,12 @@
 ![MITRA Logo](dm-logo-full.avif)
 
-# MITRA-parallel: A Large-Scale Parallel Corpus for Ancient Buddhist Languages
+# MITRA-parallel: A Large-Scale Parallel Corpus for Sanskrit, Buddhist Chinese, and Tibetan
 
 [![arXiv](https://img.shields.io/badge/arXiv-2024.XXXX-blue)](https://github.com/dharmamitra/mitra-semantic-similarity)
 
 ## Overview
 
-**MITRA-parallel** is a large-scale, sentence-aligned parallel corpus for ancient Buddhist languages, including Sanskrit, Buddhist Chinese, and Tibetan. The dataset is designed to support research in machine translation, semantic retrieval, and philological studies of Buddhist and classical Asian literature. It is introduced in the paper:
+**MITRA-parallel** is a large-scale, sentence-aligned parallel corpus for Sanskrit, Buddhist Chinese, and Tibetan. The dataset is designed to support research in machine translation, semantic retrieval, and philological studies of Buddhist and classical Asian literature. It is introduced in the paper:
 
 > **MITRA: A Large-Scale Parallel Corpus and Multilingual Pretrained Language Model for Machine Translation and Semantic Retrieval for Pāli, Sanskrit, Buddhist Chinese, and Tibetan**  
 > Sebastian Nehrdich, Kurt Keutzer  
