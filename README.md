@@ -12,10 +12,9 @@
 > Sebastian Nehrdich, Kurt Keutzer  
 > [arXiv preprint](https://github.com/dharmamitra/mitra-semantic-similarity)
 
-The MITRA framework includes:
-- A novel pipeline for multilingual parallel passage mining (MITRA-parallel)
+This repository includes:
 - A corpus of 1.74 million parallel sentence pairs between Sanskrit, Chinese, and Tibetan
-- Domain-specific pretrained language models (Gemma 2 MITRA) for translation and semantic retrieval
+- Links to the model weights of domain-specific pretrained language models (Gemma 2 MITRA) for translation and semantic retrieval
 
 ## Data Structure
 
@@ -60,7 +59,7 @@ If you use this dataset or models, please cite:
 ```
 
 ## Acknowledgments
-- The MITRA project is supported by the [Tsadra Foundation](https://tsadra.org), and collaborative partners including [monlam.ai](http://monlam.ai) and the [https://khyentsefoundation.org/kf-projects/kumarajiva-project/](Kumarajiva project).
+- The MITRA project is supported by the [Tsadra Foundation](https://tsadra.org), and collaborative partners including [monlam.ai](http://monlam.ai) and the (https://khyentsefoundation.org/kf-projects/kumarajiva-project/)[Kumarajiva project].
 - For more information and updates, see the [project website](http://dharmamitra.org) 
 
 ## License
