@@ -1,0 +1,420 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+T05D4005:178a-10	རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སྐུ་གསུམ་དང་ལྡན་པའི་སངས་རྒྱས་ཤའཀྱ་ཐུབ་པས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་དམ་པའི་ཆོས་མང་པོ་གསུངས་པ་ཐམས་ཅད་བསྡུས་པ་ནི་ལུང་གི་ཆོས་གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་སུ་འདུས	T05n1110u_001:8	 traikāyikenaṃ sarvākārajñena buddhena bhagavatā śākyamuninā sarvasattvahitāya bahuvidhā saddharmadeśanā pravartitā |  saṅgraha ( dṛṣṭyā )  dharmaḥ ( buddhavacanāni )  dvādaśasu pravacanāṅgeṣu saṅgṛhyate |
+T05D4005:178a-11	ཏེ་། དེའི་ནང་ནས་མདོའི་སྡེ་ཞེས་བྱ་བར་འདིར་འགྱུར་ལ་།	T05n1110u_001:13	 idaṃ tāvat ( triskandhasūtraṃ )  teṣu sūtrāṅge parigaṇyate |
+T05D4005:178a-12	བཅུ་གཉིས་པོ་ཡང་བསྡུས་པས་སྡེ་སྣོད་གསུམ་སྟེ་།	T05n1110u_001:15	 dvādaśāṅgānyapi piṭakatraye saṅgṛhyante |  teṣu ( tripiṭakeṣu )
+T05D4005:178a-4	འཕགས་པ་འཇམ་དཔལ་ལ་ཕྱག་འཚལ་ལོ་༎	T05n1110u_001:2	 āryamañjuśriye ( kumārabhūtāya ) namaḥ
+T05D4005:178a-5	བཅོམ་ལྡན་འདས་ཤའཀྱ་ཐུབ་པ་ལ་ཕྱག་འཚལ་ལོ་༎	T05n1110u_001:3	 namo bhagavate śākyamunaye
+T05D4005:178a-6	བདེ་གཤེགས་གང་ཞིག་མི་རྟོག་ཐུགས་ཆུད་རྟོག་མེད་ཐམས་ཅད་མཁྱེན་༎	T05n1110u_001:4	 budhvā yo hyavikalpatāṃ ca sugato'kalpyānaśeṣāṃśca saḥ
+T05D4005:178a-8	བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་དག་བྱེད་བྱང་ཆུབ་ལྟུང་བཤགས་ནི་༎ སེམས་ཅན་ཀུན་ལ་ཕན་ཕྱིར་ལུང་དང་མན་ངག་གིས་བཤད་བྱ་༎	T05n1110u_001:5	 kārūṇyātiśayājjagaddhitakaro natvā ca taṃ gautamam |  sattvānāṃ hitakāmyayā''ptavacanāt sūtrācca vakṣyami tāṃ  bodhyāpattikadeśanāṃ jinasutavyāpattisaṃśodhinīm | |
+T05D4005:178b-0	དེ་ལས་༄༡༧༨བ་འདི་ནི་མདོ་སྡེ་ཞེས་བྱ་བར་ཡང་འགྱུར་ལ་།	T05n1110u_001:17	 idaṃ ( triskandhasūtra )  sūtrapiṭake ( 'ntarbhūtaṃ ) bhavati |
+T05D4005:178b-1	གཙོར་ནི་ཐེག་པ་ཆེན་པོའི་འདུལ་བ་ཡིན་ཏེ་།	T05n1110u_001:19	 mukhyatastāvadidaṃ mahāyānavinaya ( piṭaka )
+T05D4005:178b-10	དགོས་པའི་དོན་ལ་ནི་རྣམ་པ་ལྔ་སྟེ་།	T05n1110u_001:37	 pañcaprakārāṇi prayojanādīni |
+T05D4005:178b-11	བརྗོད་བྱ་ནི་བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་དང་དེ་འདག་པའི་ཐབས་སོ་༎	T05n1110u_001:38	 abhidheya stavad ( ādikarmikāṇāṃ )  bodhisattvānām āpattayastacchuddhikaraṇopāyaśca |
+T05D4005:178b-12	རྗོད་བྱེད་ནི་གཞུང་དེ་དག་གོ་༎	T05n1110u_001:40	 abhidhānaṃ tu granthagatāni sarvāṇi vacāni |
+T05D4005:178b-13	དགོས་པ་ནི་ལྟུང་བ་དེ་དག་པར་བྱེད་པའོ་༎	T05n1110u_001:41	 prayojanaṃ hi ( tāsām )  āpattīṇāṃ śuddhireva |
+T05D4005:178b-14	དགོས་པའི་ཡང་དགོས་པ་ནི་། དེས་སངས་རྒྱས་ཉིད་འཐོབ་པའོ་༎	T05n1110u_001:43	 prayojana- prayojanaṃ ( prayojananiṣṭhā )  tadupāyena buddhatvāvāptiḥ |
+T05D4005:178b-16	འབྲེལ་པ་ནི་ཐབས་དང་ཐབས་ལས་བྱུང་བ་སྟེ་ཤུགས་ཀྱིས་བསྟན་པའོ་༎	T05n1110u_001:45	 sambandha-stāvadupāyopeyabhāva eva yaḥ khalvarthato nirdiṣṭaḥ |
+T05D4005:178b-17	བསྡུས་པའི་དོན་ནི་ཕུང་པོ་གསུམ་མམ་། བདུན་དག་པའམ་།	T05n1110u_001:46	 ayaṃ saṃkṣepārthaḥ- triskandhānāṃ sapta ( skandhānāṃ )
+T05D4005:178b-19	ཡང་ན་སྟོབས་བཞི་ཁོ་ན་ཡིན་ནོ་༎	T05n1110u_001:47	 vā śuddhiḥ catvāri vā balāni |
+T05D4005:178b-2	གཞི་དང་ཡན་ལག་གཉིས་ཀ་སྟོན་པའི་ཕྱིར་རོ་༎	T05n1110u_001:20	 meva, ( yato hyasmin )  vastuno'ṅgasya cobhayornirdeśo vartate |
+T05D4005:178b-20	ཞར་ལ་བརྒལ་ལན་ལ་སོགས་པ་གསུམ་ཡང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:48	 trividhavivādādīnāṃ codya-parihārāśca sahaivāvagantavyāḥ |
+T05D4005:178b-21	མན་ངག་ནི་མངོན་པར་རྟོགས་པ་སྟེ་། མཚམས་མེད་པ་ལ་སོགས་པ་བྱས་པ་ཆེན་པོས་ནི་། བར་མ་ཆད་པར་ཤིན་ཏུ་འགྱོད་པས་སྟོབས་བཞི་པོ་འདིས་ཟླ་བ་འམ་ལོ་ལ་སོགས་པར་ཡན་ལག་ལྔས་ས་ལ་གཏུགས་ཤིང་བཤགས་པས་དག་པའི་མཚན་མ་འབྱུང་ཞིང་དག་པར་འགྱུར་རོ་༎	T05n1110u_001:49	 tadayamupadeśābhiprāyaḥ- ānantaryādi ( pañca )  mahāpātakānyapi nirantarātyantavipratisāreṇa ebhiścaturbalaiḥ māsaṃ varṣa yāvat pañcabhiraṅgaiḥ sabhūmisparśa ( praṇāmena )  pratideśanayā śuddhalakṣaṇānvitāni bhavanti,  śuddhāni bhavantīti |
+T05D4005:178b-24	བར་པས་ནི་ཐུན་དྲུག་དུ་ཟླ་བ་གཅིག་ཏུའོ་༎	T05n1110u_001:53	 madhye ( pāpagraste )  sati māsaṃ yāvat ( pratidinaṃ )  ṣaḍvāraṃ ( pratideśayet )
+T05D4005:178b-25	ཐ་མས་ནི་ཐུན་གསུམ་དུ་ཞག་བདུན་དུའོ་༎	T05n1110u_001:56	 kṣudrakāṇāṃ ( pāpakānāṃ kṛte )  ( pratidinaṃ )  triṣu yāmeṣviti sapta dināni ( uparyuktavidhinā pratideśanā ) kartavyā |
+T05D4005:178b-26	ལྟུང་བ་བྱུང་གི་དོགས་པ་ལ་ནི་ཆོས་ཀྱི་ཡན་ལག་གཅིག་གིས་སོ་ཞེས་བྱ་བ་ནི་མན་ངག་གི་དོན་ཡིན་ནོ་༎	T05n1110u_001:59	 yadi āprattisaṃsparśāśaṅkā syāttadā dharmaikāṅgena ( pratideśanā ) vidheyā |  ayamevopadeśasya ( vāstavikaḥ ) arthaḥ |
+T05D4005:178b-27	འོ་ན་འདི་ན་བདག་གིས་ཐོས་པ་ལ་སོགས་པ་དང་པོ་དང་ཐ་མ་མེད་པས་བཀའ་མ་ཡིན་ནོ་ཞེ་ན་། དེ་ནི་མ་ཡིན་ཏེ་།	T05n1110u_001:61	 yadi pūrva 'evaṃ mayā śrutam' iti tathā ante ( bhagavato bhāṣitamabhyanandan )  ityādyantayoḥ ( vacanayoḥ)  abhāvānnedaṃ buddhavacanamiti cenna,
+T05D4005:178b-3	དེ་ལ་སྔོན་བྱུང་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལྟད་མོ་ཅན་ལ་སོགས་པ་ལས་དང་པོ་པ་སོ་ལྔས་རྒྱལ་པོའི་ཁབ་ཏུ་བསོད་སྙོམས་ལ་བྱོན་པས་ཆང་འཚོང་མའི་བུ་འོག་ཏུ་ཤི་བའི་ལྟུང་བ་བཤགས་པའི་དོན་དུ་འཕགས་པ་ཉེ་བ་འཁོར་ལ་བསྐུར	T05n1110u_001:22	 asyedaṃ paurāṇikaṃ ( kathānakam )  tathāhi-kautukādīnāṃ pañcatriṃśat ādikarmikāṇāṃ bodhisattvānāṃ rājagṛhe piṇḍāya caratāmavamardena tadā madyavikretuḥ ( ekaḥ )  putro mṛtaḥ |  tadāpattideśanāyai upālinā prārthito bhagavān ( buddhaḥ )
+T05D4005:178b-5	རྗེས་སུ་འཇུག་པ་ནི་བྱང་ཆུབ་སེམས་དཔའི་རིགས་ཅན་གྱི་ལམ་གྱི་ཡན་ལག་ཏུ་འགྱུར་རོ་༎	T05n1110u_001:27	 bodhisattvakulasya mārgāṅgatvenedamanuvartate |
+T05D4005:178b-6	ཡང་ན་རྒྱལ་པོའི་ཁབ་ཀྱི་བྲམ་ཟེ་ཁམས་པ་སྐྱེས་ཞེས་བྱ་བས་ཉ་པ་སོ་ལྔ་ལ་ལམ་ལོག་པ་བསྟན་པས་ཉ་མགོ་བོ་སོ་ལྔ་བར་གྱུར་པའི་དོན་དུ་ཡིན་ནོ་ཞེས་ལ་ལ་ནས་བཤད་དེ་༎	T05n1110u_001:28	 athavā rājagṛhe ( samupajātena )  puroja nāmadheyena brāhyaṇena pañcatriṃśad- vyādhakānadhikṛtya mithyā mārgo deśitaḥ falataḥ pañcatriṃśacchiraskamatsyarūpeṇa ( saḥ )  samutpannaḥ |  tadarthamidaṃ ( sūtraṃ )
+T05D4005:178b-7	དེ་ནི་དཀོན་མཆོག་བརྩེགས་པའི་གཞུང་མ་ཡིན་ནོ་༎	T05n1110u_001:33	 kintu ratnakūṭe nāstīdaṃ vacanamiti |
+T05D4005:178b-8	དེ་ཉིད་བཤད་པ་ནི་དགོས་པ་ལ་སོགས་པ་ལ་སོགས་པ་བཞིར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:34	 asyāḥ ( bodhyāpattideśanāyāḥ )  vyākhyānaṃ prayojanādinā prakāracatuṣkeṇāvagantavyam |  kāni tāni ( prayojanādīni)
+T05D4005:179a-0	འཕགས་པ་དཀོན་མཆོག་བརྩགས་པ་ཆོས་ཀྱི་རྣམ་གྲངས་སྟོང་ཕྲག་བརྒྱ་པར་གླེང་གཞི་ལ་སོགས་པར་འདི་དག་ཐམས་ཅད་༄༡༧༩ཨ་༌་༎	T05n1110u_001:64	 āryaratnakūṭadharmaparyāya- śatasāhasrikāsūtre nidānādisarvasyābhihitatvāt tata eva cāṃśato'sya ( triskandhasūtrarasya )
+T05D4005:179a-1	གསུངས་པའི་ཕྱིར་རོ་༎ འདི་ནི་དེའི་ནང་ནས་དུམ་བུར་བཏོན་པས་དེ་མེད་པ་ལ་འགལ་བ་ཅི་ཡང་མེད་དོ་༎	T05n1110u_001:65	 nirgatatvād asmin ( triskandhasūtre )  ( evaṃ mayā śrutamityādyantavacanayoḥ )  abhāvānnāsti virodhākhyo doṣaḥ |  ( yadyevaṃ ) tarhi ( atra )
+T05D4005:179a-10	འདས་པ་དང་མ་འོངས་པའི་སངས་རྒྱས་ནི་དབང་པོར་མ་བཞག་སྟེ་། ཀུན་རྫོབ་ལ་འགལ་བའི་ཕྱིར་རོ་༎	T05n1110u_001:83	 nātra atītā anāgatāśca buddhāaḥ sākṣirūpeṇa samuddhṛtāḥ saṃvṛtito virodhāt |
+T05D4005:179a-12	ཀུན་ལ་དེ་བཞིན་གཤེགས་པ་མེད་ལ་བཞི་སྨོས་པ་ནི་དོན་གྱིས་ཤེས་པར་བྱས་ལ་བློས་དམིགས་པ་སྟེ་།	T05n1110u_001:84	 atroddhṛtānāṃ sarveṣāṃ ( buddhānāṃ nāmnā saha )  tathāgata iti ( śabdaprayogo )  caturbhiḥ sahaiva |  ataśca arthata evaṃ ( sarveḥ saha tathāgataśabdasya vidyamānatvaṃ )  jñātavyaṃ manasā cālamambitavyam |
+T05D4005:179a-13	བསྣན་ན་ནི་བཀའ་ལས་འདའ་བར་འགྱུར་ལ་། ཚིག་བསྡུས་ནས་བསྟན་པའི་ཕྱིར་རོ་༎	T05n1110u_001:91	 ( śabdaśaḥ tathāgata- ( śabda )  yogena vacanavirodhaḥ syāt ,  samastapadaiḥ deśitatvāditi |  atra tāvaccaturbhirbalaiḥ pāpadeśanā kartavyā |  yato hi ( bhagavatā)
+T05D4005:179a-15	སྟོབས་བཞི་ཁོ་ནས་སྡིག་པ་འཆགས་པ་ནི་སངས་རྒྱས་ཀྱི་ཆོས་བཞི་བསྟན་པ་དང་། མ་སྐྱེས་དགྲའི་འགྱོད་པ་བསལ་བའི་མདོར་དེ་བཞི་ཤིན་ཏུ་བསྔགས་པ་ཡིན་ནོ་ཞེས་བྱ་བ་ནི་བྱང་ཆུབ་སེམས་དཔའ་གཉིས་ལ་གདམས་པའོ་༎	T05n1110u_001:96	 buddhena 'caturdharmanirdeśa' ajātaśatrukaukṛtyavinodanasūtrayośca eteṣāṃ caturṇā ( balānāṃ )  mahatī anuśaṃsā kṛtā |  idaṃ ( sūtradvayaṃ )  deayorbodhisattvayoḥ kṛte samupadiṣṭam |  atra ( triskandhasūtre)
+T05D4005:179a-16	དེ་ལ་ཆོས་འདི་ཅི་ཞེ་ན་།	T05n1110u_001:101	 ko nāma dharmaḥ ?
+T05D4005:179a-17	འཕགས་པ་ཉེ་བ་འཁོར་གྱིས་ཞུས་པ་ཞེས་གསུངས་ཏེ་།	T05n1110u_001:102	 ityupālinā pṛcchā kṛtā |
+T05D4005:179a-18	དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་ཉེ་བའི་གནས་ཉེ་གནས་ལ་འདུལ་བའི་བཀའ་སྡུད་པ་པོར་གཏད་པས་དགྲ་བཅོམ་པས་ཞུས་པས་སོ་༎ འདུལ་བ་གཏན་ལ་དབབ་པ་ནི་ཐེག་པ་ཆེན་པོ་པའི་ལྟུང་བའི་གཞི་ལ་སོགས་པ་འདིས་གཏན་ལ་འབེབས་པའོ་༎	T05n1110u_001:103	 ayaṃ tasmin samaye bhagavato buddhasyāntevāsitvāt vinayavacanāni saṃgātupālernidiṣṭatvācca arhatparipṛcchayokto vinayaviniścayaḥ,  yato hi mahāyānāpattivastūnyanena nirdhāritāni |
+T05D4005:179a-21	སྤྱི་ནི་དཀོན་མཆོག་བརྩེགས་པ་ཞེས་སྨོས་སོ་༎	T05n1110u_001:107	 sāmānyenedaṃ ratnakūṭamabhidhīyate,
+T05D4005:179a-22	འདི་ལ་ཕུང་པོ་གསུམ་པ་ཞེས་ཀྱང་གསུངས་ཏེ་།	T05n1110u_001:108	 triskandha ityapyabhidhīyate |
+T05D4005:179a-23	ཕྱག་འཚལ་བའམ་བཤགས་པ་ལ་སོགས་པ་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་ལ་སོགས་ཏེ་།	T05n1110u_001:109	 namaskārapratideśanādyaparimita- puṇyaskandhādīnāṃ ( nirdeśakaḥ )
+T05D4005:179a-24	ཕུང་པོ་གསུམ་པ་ཆུང་དུ་ཡིན་ལ་། ཆེན་པོ་ནི་མ་ཡིན་ནོ་༎	T05n1110u_001:111	 na tu bṛṃhīyān |
+T05D4005:179a-26	བྱང་ཆུབ་ཀྱི་ལྟུང་བ་བཤགས་པ་ཞེས་པ་ལ་། བྱང་ཆུབ་ནི་བྱང་ཆུབ་ཆེན་པོའི་རྒྱུ་སྟེ་།	T05n1110u_001:112	 atra bodhyāpattideśanāyāṃ bodherabhiprāyastāvanmahābodhyarthakaḥ |
+T05D4005:179a-28	དེ་ལ་སེམས་དཔའ་ཞེས་བྱ་བ་ནི་ལྷག་མའོ་༎	T05n1110u_001:113	 sattva ityavaśiṣṭaṃ ( padam ) |
+T05D4005:179a-29	ཡང་ན་བྱང་ཆུབ་ལས་ཉམས་པས་ན་བྱང་ཆུབ་ཀྱི་ལྟུང་བ་ཞེས་གསུམ་པར་སྦྱར་རོ་༎	T05n1110u_001:114	 athavā bodhyā pātayatīti bodhyāpattiriti tṛtīyāyāḥ prayogaḥ karaṇīyaḥ |
+T05D4005:179a-3	འོ་ན་ལྟུང་བའི་དངོས་གཞི་མེད་པར་བཤགས་པ་དེ་མི་ཤེས་སོ་ཞེ་ན་།	T05n1110u_001:69	 āpattimūlasyābhāvāt kasyāpi pratideśanā na jñāyeteti cet ?
+T05D4005:179a-4	དེ་ནི་འདིའི་དང་པོ་དང་མཇུག་གོ་༎	T05n1110u_001:70	 idaṃ tvasya ( granthasya )  āyantābhyāṃ ( bhāgābhyāṃ jñātuṃ ) śakyate |
+T05D4005:179a-5	སངས་རྒྱས་སུམ་ཅུ་སོ་ལྔ་ཁོ་ནར་ངེས་པ་ནི་སྔོན་གྱི་གདུལ་བྱ་སོ་ལྔའི་དོན་དང་སངས་རྒྱས་ཉེ་བ་ལ་དགོངས་པ་སྟེ་།	T05n1110u_001:72	 pañcatriṃśadbuddhānāṃ niścita (saṃkhyā)  nirdhāraṇaṃ ,  pūrvoktānāṃ pañcatriṃśadvineyānām iṣṭasampādanaṃ ca ( teṣāṃ )  buddhānāṃ naikaṭayābhiprāyeṇaiveti |
+T05D4005:179a-6	གཞན་མ་བྱོན་ཞིང་ཕྱག་མི་འཚལ་བ་ནི་མ་ཡིན་ཏེ་།	T05n1110u_001:76	 nedamasya tātparya yadatrānyeṣāṃ ( buddhānāṃ )  asamāveśo vā anyeṣu praṇāmābhāvo vā |
+T05D4005:179a-8	ཕྱོགས་ཆད་པ་ནི་མེད་དེ་།	T05n1110u_001:80	 nātra diśāviśeṣeṇa prayojanam,
+T05D4005:179a-9	སྤྲུལ་པའི་སྐུ་སྐུ་ཚེ་རིང་བ་དང་དེ་ལྟར་བཞུགས་པ་དོན་མཛད་པ་འདིའི་ཕྱོགས་བཅུ་ན་རྟེན་པ་སྟེ་ཕྱོགས་བཅུ་ཞེས་པའོ་༎	T05n1110u_001:81	 api tu dīrghāyuṣṭvānnirmāṇakāyasya tadanukūladiśāsu vidyamānatvāt daśasu dikṣu (vidyamānasattvānāṃ )  hitārtha daśidigāśrayaṇāccātra 'daśasu dikṣu' ityevaṃ ( kathitam ) |
+T05D4005:179b-0	དེ་ཡང་བྱང་ཆུབ་སེམས་དཔའ་ལས་དང་པོ་བ་༄༡༧༩བ་དང་༏་མོས་པས་སྤྱོད་པ་ལ་གནས་པ་སྟེ་། ས་དང་པོ་ལ་སོགས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ནི་མ་ཡིན་པར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:115	 ime hi ādikarmikabodhisattvā adhimukticaryābhūmisthitā ( vineya )  -janāḥ , na tu prāthamabhūmikā bodhisattvā ti jñātavyam |
+T05D4005:179b-10	དྲང་པོར་འདུག་ལ་ཡང་དག་ལྟོས་༎	T05n1110u_001:130	 ṛjuḥ sthitvā ca sampaśyenmahatī saiva deśanā |
+T05D4005:179b-12	ཡང་དག་མཐོང་ན་རྣམ་བར་གྲོལ་༎	T05n1110u_001:131	 draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate | |
+T05D4005:179b-15	ཀུན་རྫོབ་ཀྱི་བཤགས་པ་ནི་སྟོབས་བཞིས་འགྱོད་པ་དང་བཅས་པའི་ཤེས་པས་ཕྱག་འཚལ་བ་ལ་སོགས་པ་ཐམས་ཅད་བྱ་བ་ནི་སྒྱུ་མ་ལྟ་བུའི་བློ་དང་ལྡན་པས་བཤགས་པ་ནི་ཆུང་ངུའོ་༎	T05n1110u_001:133	 (2) sāṃvṛtikī pratideśanā- iyaṃ tāvaccaturbhibalaiḥ sakaukṛtyena ca manasā sarva namaskārādikaṃ māyopamabuddhyā karaṇīyamiti |  ( iyaṃ hi ) laghupratideśanā |
+T05D4005:179b-16	དེ་ཡང་དང་པོར་འདི་ཞུས་པའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་དོན་དུ་འོད་ཟེར་གྱིས་འདི་ནས་ལྟོས་པའི་ཕྱོགས་བཅུའི་སངས་རྒྱས་སུམ་ཅུ་རྩ་བཞི་དང་། དེ་དག་ལ་སོགས་པ་མང་པོ་སྤྱན་དྲངས་ཏེ་། འདིར་ནམ་མཁའ་ལ་བཞུགས་པ་ལ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་འགྱོད་པ་དང་བཅས་པས་མཆོད་ཅིང་སེམས་བསྐྱེད་ནས་སྐྱབས་སུ་སོང་སྟེ་།	T05n1110u_001:135	 etadartha ( sūtrārtham upālinā )  nivedite sati bhagavān teṣāṃ bodhisattvānāmarthāya raśmibhirdaśadigavasthitān catustriṃśadbuddhādīn anekān nimantrayāmāsa |  atrākāśasthitānāṃ ( buddhabodhisattvānāmagre uktāpattikāḥ )
+T05D4005:179b-18	ཕྱག་འཚལ་ནས་སྡིག་པ་བཤགས་པ་ལ་སོགས་པ་ལན་ཅིག་བྱས་པས་སྡིག་པ་ཐམས་ཅད་དག་སྟེ་ས་དང་པོ་ལ་སོགས་པ་ལ་གནས་པར་གྱུར་ཏོ་༎	T05n1110u_001:138	 bodhisattvāḥ sakaukṛtyāḥ pūjāṃ cittotpādaṃ śaraṇagamanaṃ namaskārāt prabhṛti pāpadeśanaṃ yāvat yugapat kṛtvā sarvapāpaiḥ suviśuddhāḥ ( bhūtvā  prathamabhūmisthitā abhūvan |
+T05D4005:179b-19	དེའི་རྗེས་སུ་ཞུགས་པ་ནི་གནས་དབེན་པར་མནདལ་དང་། མཆོད་པ་དང་འདི་རྣམས་ཀྱི་བྲིས་སྐུ་ལ་བརྟེན་ཏེ་།	T05n1110u_001:140	 tadanu tadanuyāyināṃ tāvāt vijane sthāne maṇḍalena pūjayā ( pañcatriṃśadbuddhānāṃ )
+T05D4005:179b-2	དེའི་ལྟུང་བ་ནི་དེ་བྱུང་ན་ངན་སོང་དུ་འགྲོ་བ་སྟེ་།	T05n1110u_001:117	 asyāmāpattau satyāṃ durgatau gamyate |
+T05D4005:179b-20	བླ་མའི་མན་ངག་གིས་སེམས་བསྐྱེད་པ་ལ་སོགས་པ་བྱས་ལ་བཤགས་པས་སྡིག་པ་ཐམས་ཅད་དག་པར་འགྱུར་ལ་།	T05n1110u_001:141	 citropasthānena gurūpadeśa (123)  taścittotpādādinā saha pratideśanākaraṇena sarvapāpaviśuddhirbhaviṣyatīti |
+T05D4005:179b-21	འབྲས་བུ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འཐོབ་པར་འགྱུར་རོ་ཞེས་བྱ་བ་ནི་འདིའི་ཚུལ་ལོ་༎	T05n1110u_001:144	 phalataśca samyaksaṃbuddhatvamavāpsyate |  ayamevāsya vidhiriti |  tada (nantaraṃ)
+T05D4005:179b-22	དེ་ལ་བཤགས་པའི་ཐབས་དངོས་ལ་། དང་པོ་རྟེན་གྱི་སྒོ་ནས་སྡིག་པ་བཤགས་པ་ནི་། བདག་མིང་འདི་ཞེས་བྱ་བ་ཞེས་༄༡༨༠ཨ་༌་༎ བྱ་བ་ལ་སོགས་པས་གསུངས་སོ་༎	T05n1110u_001:147	 sarvaprathamaṃ yathārthapratideśanā tāvat āśrayabalainaivaṃ pāpapratideśanam- 'ahaṃ amukānāmā' ityādinā abhihitam |
+T05D4005:179b-3	དེ་ཡང་ལྟུང་བ་དང་། སྦོམ་པོ་དང་། ཕམ་པ་དང་། ཉེས་བྱས་དང་། ཉེས་པ་མེད་པ་དང་། ཕྲ་མོའི་རིམ་པ་མདོ་འདིའི་སྟོད་དང་། གཞན་ལས་ཤེས་པར་བྱ་ལ་།	T05n1110u_001:118	 asyā āpatteḥ sthūlāyāḥ sūkṣmāyāḥ pārājayika-duṣkṛtāduṣkṛtānāṃ ca kramaḥ sūtrasyāsya (122)  pūrvabhāgād anyebhyaśca ( granthebhyaḥ ) jñātavyaḥ |
+T05D4005:179b-4	བཤགས་པའི་ཐབས་ནི་རྒྱས་པར་། མདོ་འདིའི་མཇུག་ནས་ཤེས་པར་བྱ་སྟེ་།	T05n1110u_001:121	 pratideśanāgatopāyāḥ sūtrasyāsyāntime ( bhāge )  vistareṇāvaseyāḥ |
+T05D4005:179b-6	འདི་ནི་ལྟུང་བ་དེའི་དག་བྱེད་འབའ་ཞིག་ཡིན་ནོ་༎	T05n1110u_001:123	 idaṃ tāvadāpattīnāṃ viśodhanamātram |
+T05D4005:179b-7	དེ་དག་བྱུང་ན་བཤགས་པ་ནི་དག་པར་བྱེད་པའོ་༎	T05n1110u_001:124	 tāsu āpattiṣu satīṣu pratideśanaiva viśuddhiḥ |
+T05D4005:179b-8	དེ་ཡང་གཉིས་ཏེ་།	T05n1110u_001:125	 sā'pi dvividhā -
+T05D4005:179b-9	དོན་དམ་གྱི་བཤགས་པ་ནི་འགྱོད་པ་བསལ་བའི་མདོ་ལྟར་ཆོས་ཐམས་ཅད་རང་བཞིན་མེད་པར་ཡིད་ལ་བྱ་བ་ནི་བཤགས་པ་ཆེན་པོ་སྟེ་།	T05n1110u_001:126	 (1) pāramarthikī pratideśanā- ( iyaṃ )  ( ajātaśatruḥ )  kaukṛtya- vinodasūtrānusāraṃ sarvadharmaniḥsvabhāvatācintanameva |  iyaṃ hi mahāpatideśanā | yathoktam -
+T05D4005:180a-12	སངས་རྒྱས་ལ་སོགས་པ་ལའོ་༎	T05n1110u_001:155	 kasmin ? buddhadiṣu |
+T05D4005:180a-13	གང་གིས་ཤེ་ན་། ངག་དང་ཡིད་ཀྱིས་ཏེ་སྐྱབས་སུ་འགྲོ་བའི་ངོ་བོ་ལ་སོགས་པ་ཡང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:156	 katham ? vācā cittena ca |  ( ityevaṃ ) śaraṇagamanasvarūpādikamapi jñātavyam |
+T05D4005:180a-15	དེ་ལ་སངས་རྒྱས་ནི་སྟོན་པ་དང་འབྲས་བུ་སྟེ་། སྐུ་གསུམ་བདག་ཉིད་ཅན་ལ་།	T05n1110u_001:158	 atra buddhasya ( tātparyadvayam)  - śāstā phalaprāptaśca yaśca trikāyātmakaḥ |
+T05D4005:180a-17	བདག་སྐྱབས་སུ་འགྲོ་བ་ནི་དེ་ལ་བློ་གཏོང་པའོ་༎ འདིར་ཕྱག་འཚལ་བ་ནི་ལུས་དང་ངག་དང་ཡིད་ཀྱིས་ཏེ་དེ་ལྟར་ངེས་པར་འགྲོའོ་ཞེས་པའོ་༎	T05n1110u_001:160	 idaṃ tāvad asmākaṃ taccharaṇagamanasya tātparyam yad ( buddhyā )  namaskārārtho'pyatra kāyavākcittaistathaiva suniyatatvaṃ nāma |
+T05D4005:180a-19	དེ་བཞིན་དུ་ཆོས་ནི་བསྟན་པ་དང་ལམ་མོ་༎ དེ་ཡང་ལུང་དང་རྟོགས་པ་དང་དོན་དམ་པ་སྟེ་རྒྱུ་དང་འབྲས་བུའི་བདག་ཉིད་དོ་༎ དགེ་འདུན་ནི་། སྒྲུབ་པ་པོ་དང་རྟེན་ཏེ་མི་ཕྱེད་པས་ན་དགེ་འདུན་ནོ་༎ དེ་ཡང་བྱང་ཆུབ་སེམས་དཔའ་དང་ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཏེ་འདིར་བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཕྱིར་མི་ལྡོག་པའི་དགེ་འདུན་ཡིན་པར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:165	 so'pi āgamādhigamaparamārthātmakaḥ ,  hetuphalātmaka ( ityarthaḥ ) |  saṃgho'pi pratipannakāśrayābhedyārthakatvena saṃgha ( ucyate ) |  so'pi śrāvaka-pratyekabuddha-bodhisattvasaṃgha iti ( trividhaḥ ) |  atra tu bodhisattvasaṃgha iti avaivartikasaṃgha evābhipretaḥ |
+T05D4005:180a-2	དེ་ལ་རྟེན་སངས་རྒྱས་སུམ་ཅུ་རྩ་ལྔ་ལ་སོགས་པ་ལ་མཆོད་པ་བྱས་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་རྣམ་པ་གཉིས་བསྐྱེད་པ་འདིར་ཤེས་པར་བྱས་ལ་།	T05n1110u_001:148	 idamatra jñātavyaṃ yat āśrayabhūtān pañcatriṃśadbuddhān sampūjya samabhyarcya dvividhibodhicittotpārdo vidheyaḥ |
+T05D4005:180a-24	དེ་ལྟར་རྟེན་གྱི་སྟོབས་བསྟན་ནས་། ད་ནི་རྣམ་པར་སུན་འབྱིན་པས་ཀུན་དུ་སྤྱོད་པའི་སྟོབས་ཀྱི་སྒོ་ནས་སྡིག་པ་འཆགས་པ་ནི་།	T05n1110u_001:170	 ityevam āśrayabalaṃ pratipādya idānīṃ vidūṣaṇāasamudācārabalena pāpadeśanārtha tathāgate tyādyuktam |
+T05D4005:180a-26	དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ་༎ དེ་ཡང་སྡིག་པའི་དངོས་པོ་བཤགས་པའི་ཡན་ལག་ཏུ་སངས་རྒྱས་སུམ་ཅུ་སོ་ལྔ་ལ་ཕྱག་འཚལ་བས་སྡིག་པ་དག་པར་གྱུར་པ་ཡིན་ནོ་༎	T05n1110u_001:171	 tadapi pāpavastupratideśanāṅgatvena pañcatriṃśadbuddheṣu namaskaraṇameva,  anena pāpaśuddhirbhavatīti |  tatra ( krameṇa )
+T05D4005:180a-28	དེ་ལ་མ་འོངས་པས་ནི་།	T05n1110u_001:174	 āgāminaḥ sarve buddhāḥ sammukhāgatā ratna-siṃha-padam- (124)
+T05D4005:180a-29	སངས་རྒྱས་འདི་དག་བདག་གི་མདུན་དུ་པདམ་དང་སེང་གེ་དང་རིན་པོ་ཆེ་དང་ཟླ་བའི་གདན་ལ་རབ་ཏུ་བྱུང་བ་སྤྲུལ་པའི་སྐུ་མཚན་དང་དཔེ་བྱད་འོད་དང་ལྡན་པ་། སྐུ་མདོག་དང་། ཞིང་དང་། ཕྱོགས་དང་། མཚམས་དང་། ཆོས་གོས་ལ་སོགས་པ་དང་། ཕྱག་༄༡༨༠བ་མཚན་དང་། རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་ཅན་འཁོར་མང་པོ་དང་བཅས་པ་འོག་ནས་འབྱུང་བ་བཞིན་དུ་དབུས་ནས་བརྩམས་ཏེ་ཕྱོགས་བཅུར་རིམ་པ་བཞིན་དུ་བཞུགས་པ་ལ་དམིགས་ཏེ་།	T05n1110u_001:176	 candrāsaneṣu ( virājitāḥ )  pravrajitanirmāṇakāyāḥ lakṣaṇānuvyañjanaprabhāyuktāḥ kāyavarṇa-kṣetra-digdigantara-cīvarāyudhādīn dhārayitvā vajraparyaṅkamudrāsthitā vividhaparṣadbhiḥ saha buddhāḥ vakṣyamāṇakrameṇa madhyabhāgata ārabhya kramaśaḥ daśasu diśāsu virājamānā ālambanīyāḥ |  ( tānabhilakṣya namaskārādi karaṇīyam ) |  tadapi ( kalpanayā )
+T05D4005:180a-3	དེ་ནས་སྐྱབས་སུ་འགྲོ་བ་ནི་གཉིས་པའོ་༎	T05n1110u_001:149	 tadanantaraṃ dvitīyataḥ śaraṇagamanaṃ kartavyam |
+T05D4005:180a-4	དེ་ལ་བདག་མིང་འདི་ཞེས་བྱ་བ་ནི་། སྤྱིར་བཏང་ཡང་དམིགས་ཀྱིས་བདག་གི་ཐ་མལ་པའི་མིང་ཆེ་གེ་མོ་ཞེས་བརྗོད་པར་བྱ་སྟེ་།	T05n1110u_001:150	 atra 'ahaṃ amukanāmā' iti sāmānyato'pi ( nirdeśe )
+T05D4005:180a-6	དཔེར་ན་འཇིག་སྡེའི་ནང་ནས་འཇིགས་བྱེད་ཆེན་པོ་ཞེས་བྱ་བ་ལྟ་བུའོ་༎	T05n1110u_001:151	 viśeṣataḥ svamasādhāraṇaṃ nāmoccāraṇīyam bhīmaseneṣu mahābhīmasenavat |
+T05D4005:180a-7	གཞན་དུ་ན་བདག་ཏུ་མ་ཟད་དེ་དགེ་བའི་བཤེས་གཉེན་ནི་བདག་ལ་ཕན་འདོགས་པའོ་༎ ཕ་མ་ནི་ཕན་འདོགས་པའི་ཞིང་ངོ་༎	T05n1110u_001:152	 na kevalaṃ svayameva,  api tu anyaiḥ kalyāṇamitrairye ātmānamupakṛtavantaḥ mātāpitarau yau kṛtajñatāyā bhājanabhūtau ,
+T05D4005:180a-9	སེམས་ཅན་མཐའ་ཡས་པ་ནི་ནམ་མཁའ་ཁྱབ་པའི་སེམས་ཅན་ཏེ་བདག་གིས་ཕན་གདགས་པའི་ཡུལ་ལོ་༎ དེ་དག་དང་བཅས་པར་སྐྱབས་སུ་འགྲོ་བའོ་༎ གང་ལ་ཞེ་ན་།	T05n1110u_001:154	 anantaiśca sattvaiḥ āgaganaṃ vyāpibhiḥ sattvairye ātmanā upakāryāḥ taiḥ sarveḥ saha śaraṇaṃ gantavyam |
+T05D4005:180b-1	ལུས་མང་པོར་སྤྲུལ་ཅིང་། ངག་སྒྲ་དང་། ཡིད་ཀྱི་མོས་པས་ཞབས་ལ་ཕྱག་འཚལ་བྱའོ་༎	T05n1110u_001:180	 anekakāyān nirmāya vākcittādhimuktyā taccaraṇeṣu namaskaraṇīyamiti |
+T05D4005:180b-10	དེ་ལ་དང་པོ་མི་མཇེད་ཀྱི་བདག་པོ་དབུས་ན་བཞུགས་པའི་སངས་རྒྱས་དེའི་ཡོན་ཏན་ནི་དེ་བཞིན་གཤེགས་པ་ཞེས་གསུངས་ཏེ་།	T05n1110u_001:189	 eteṣu prathamaṃ tāvanmadhye virājamānasya lokapaterbuddhasya guṇā(nākhyātuṃ)  tathāgatetyādyāha |  ( tathāgata-tātparya )
+T05D4005:180b-11	སྒྲའི་སྟོབས་ལས་དེ་བཞིན་ཉིད་གསུང་བ་དང་། རྟོགས་པ་དང་། དེ་བཞིན་ཉིད་དུ་གཤེགས་ཤིང་སླར་བྱོན་པ་སྟེ་།	T05n1110u_001:192	 śabdabalena tathatā- ( adhigama )  -vānityuktam,  tathatādhigamalīnatvāt punarāgatatvācca ( tathāgata ityucyate ) |
+T05D4005:180b-12	འདིས་ནི་ཐམས་ཅད་ལས་ཁྱད་པར་དུ་འཕགས་པའོ་༎	T05n1110u_001:195	 ata eva sa sarvebhyaḥ ( āryapudgalebhyo devebhyaśca )
+T05D4005:180b-13	དགྲ་བཅོམ་པ་ནི་ཉོན་མོངས་པ་དང་ཤེས་བྱའི་སྒྲིབ་པའི་དགྲ་བསད་པའོ་༎	T05n1110u_001:196	 viśiṣṭa iti |  kleśajñeyāvaraṇārīṇāṃ hantṛtvād arhan iti |
+T05D4005:180b-14	དེས་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལས་ཁྱད་པར་དུ་འཕགས་པའོ་༎	T05n1110u_001:198	 anena bodhisattvebhyastasya vaiśiṣṭyaṃ ( prardiśatam ) |
+T05D4005:180b-15	ཡང་དག་པར་ནི་ཕྱིན་ཅི་མ་ལོག་པ་སྟེ་།	T05n1110u_001:199	 samyagi ti aviparītam |
+T05D4005:180b-16	དེས་ནི་འཁོར་བ་དང་ཐེག་པ་དམན་པ་ལས་སོ་༎	T05n1110u_001:200	 anena saṃsārād hīnayānācca ( vaiśiṣṭyaṃ pratipāditam )
+T05D4005:180b-17	རྫོགས་པ་ནི་ཚོགས་གཉིས་དང་བདག་གཞན་གྱི་དོན་གྱི་སྐུ་གཉིས་སོ་༎	T05n1110u_001:201	 sampanna iti sambhāradvayena sva-parārtha- ( sampadbhyāṃ ca sampannaṃ )
+T05D4005:180b-18	སངས་རྒྱས་ནི་སྤངས་པ་དང་ཡེ་ཤེས་ཀྱི་བྱེ་བྲག་གིས་གཉིས་སོ་༎	T05n1110u_001:203	 prahāṇasya jñānasya ca bhedadvayena buddho bhavatīti |
+T05D4005:180b-19	དེ་གཉིས་ཀྱིས་འཁོར་བ་དང་མྱ་ངན་ལས་འདས་པའི་གང་ཟག་ཐམས་ཅད་ལས་ཁྱད་པར་དུ་འཕགས་པར་བསྟན་ཏོ་༎	T05n1110u_001:204	 ābhyāṃ tāvat saṃsāranirvāṇasthitebhyaḥ sarvapudgalebhyo viśiṣṭaḥ ( buddhaḥ )
+T05D4005:180b-20	དེའི་མཚན་ཉིད་ནི་ཤའཀྱ་ཐུབ་པ་སྟེ་།	T05n1110u_001:205	 pradarśitaḥ śākyamuniriti tadarthaḥ |
+T05D4005:180b-21	དེ་ནི་ཡེ་ཤེས་དང་ནུས་པ་དང་ཡོན་ཏན་ནོ་༎ དེ་ལ་ཡེ་ཤེས་ནི་ཤའ་ནི་མ་ལུས་པའོ་༎	T05n1110u_001:207	 'śā' iti jñānam aśeṣajñānamityarthaḥ |
+T05D4005:180b-23	ཀྱ་ནི་རྟོག་པའོ་༎	T05n1110u_001:208	 'kya' ityavabodhaḥ |
+T05D4005:180b-24	མུ་ནེ་ནི་གཉིས་སུ་མེད་པར་བསྡོམས་པའོ་༎	T05n1110u_001:209	 'muniḥ' ityadvayatayā yuktatvam |  muniḥ ( śākya )
+T05D4005:180b-25	ཐུབ་པ་ནི་ཤའཀྱའི་རྒྱལ་པོའི་རིགས་ཡིན་པས་དེ་དོན་ཡོད་ཅིང་དེ་ལས་སྐྱེས་པའི་གདུག་པ་ཐུབ་པ་སྟེ་ལས་སོ་༎	T05n1110u_001:211	 iti vā śākyarājavaṃśe jātatvād doṣajanmanāṃ vijetā iti |
+T05D4005:180b-27	ཤའཀྱ་སྟེ་ཁྱད་པར་དུ་འཕགས་པའོ་༎	T05n1110u_001:213	 guṇena śākya- ( śabda )
+T05D4005:180b-28	དེའི་སྐུ་དང་གསུང་དང་ཐུགས་བསྡམས་པ་ཐུན་མོང་མ་ཡིན་པ་ནི་ཐུབ་པའོ་༎	T05n1110u_001:217	 kāyavākcittānāma- sādhāraṇasaṃvareṇa sa muniḥ |
+T05D4005:180b-29	དེ་ལ་ཕྱག་འཚལ་བ་ནི་དང་བའི་དད་པས་སྒོ་གསུམ་གྱིས་ཕྱག་བྱ་བའོ་༎	T05n1110u_001:218	 tasmai namaskāra iti tribhirdvāraiḥ śraddhāprasādayogena namaskaraṇam |  ayaṃ ( buddhaḥ )
+T05D4005:180b-3	ཡང་ན་བློ་དམན་བས་ནི་ཐམས་ཅད་ཞལ་གཅིག་པ་།	T05n1110u_001:181	 athavā mandaprajñāḥ ( tathāvidhālambanabhāvanāyāmasamarthāḥ )  ( purūṣā )
+T05D4005:180b-30	འདི་ཡང་དབུས་སུ་གདན་ལ་། སེར་པོ་ཆོས་འཆད་པར་བསམ་༄༡༨༡ཨ་༌་༎	T05n1110u_001:220	 madhyāsanāsīnaḥ pīta ( varṇaḥ )  dharmopadeśamudrānvita ityavagantavyam |
+T05D4005:180b-4	ཕྱག་གཉིས་ཆོས་འཆད་པ་འམ་།	T05n1110u_001:183	 api ekamukhaḥ dvihastaḥ dharmadeśanā ( mudrāvirājitaḥ )
+T05D4005:180b-5	བསོད་སྙོམས་ལ་གཤེགས་པ་འམ་། ས་གནོན་པ་ལ་སོགས་པའི་ཕྱག་རྒྱར་བསམས་ཏེ་། དཀར་པོ་ལ་སོགས་པ་གང་ལྟར་མོས་པར་ཐམས་ཅད་མཉམ་པར་བསམས་ཏེ་ཕྱག་བྱའོ་༎	T05n1110u_001:184	 piṇḍapātārtha cārikāṃ caran vā bhūmisparśādimudrāsthito vā buddhaḥ iti viditvā sarvāṃśca (buddhān)  śvetavarṇādīn yathāruci samānavarṇān viditvā namaskaraṇīyāḥ |
+T05D4005:180b-8	འདི་དག་ནི་བདག་ཅག་གི་སྟོན་པ་གཙོ་བོ་ཡིན་ལ་།	T05n1110u_001:186	 eteṣvasmākaṃ śāstā pramukhaḥ |
+T05D4005:180b-9	དེ་མ་གཏོགས་པ་རྣམས་ནི་བསྐལ་པ་མང་པོར་བཞུགས་པ་ཡིན་པར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:187	 enaṃ vihāya śeṣāḥ ( anye buddhāḥ )  anekakalpaparyantaṃ virājanta iti jñātavyam |
+T05D4005:181a-1	མོ་༏་། སྔ་མ་ལྟར་ཁྱད་པར་ལྔ་དང་། བཤད་པ་གསུམ་པོ་ནི་འོག་མ་ལ་ཡང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:222	 pūrvavat pañca viśeṣaṇāni trisraśca vyākhyāḥ paścād āgāmibhiḥ ( sarvabuddhaiḥ )  ca sambaddhā ityavabodhyam |
+T05D4005:181a-2	ཡེ་ཤེས་ལ་སོགས་པ་ནི་དཔེ་དང་དོན་གྱིས་སྒྲའི་སྟོབས་ཀྱིས་ཚང་བ་དང་གཉིས་དང་གཅིག་ལ་ཡང་བཤད་པར་བྱའོ་༎	T05n1110u_001:224	 jñānādīnāṃ tātparya dṛṣṭānta- ( balena )  arthabalena ca śabdadvayena ekena vā vyaktīkariṣyate |
+T05D4005:181a-20	ཡོན་ཏན་ནི་སྡེ་སྟེ་ཡོན་ཏན་གྱི་ཚོགས་མང་པོ་མངའ་བའོ་༎	T05n1110u_001:272	 seneti guṇaḥ |  ayaṃ hi anekaguṇagaṇānvita iti |
+T05D4005:181a-21	དཔལ་དགྱེས་ནི་ལྷོ་ནུབ་དགའ་བ་དང་ལྡན་པའི་ཞིང་ན་།	T05n1110u_001:274	 (6) dakṣiṇapaścimāyāṃ diśi nandavatī ( buddha )  kṣetre ( tathāgataḥ )  vīranandī, piṅgala ( varṇaḥ )  ( hastadvaye kramaśaḥ )
+T05D4005:181a-22	དམར་སེར་ཉི་མ་དང་པདམ་དམར་པོ་བསྣམས་པའོ་༎	T05n1110u_001:278	 sūrya raktapadaṃ ca dhārayan ( virājate ) |
+T05D4005:181a-23	དེ་ཡང་དཔལ་ནི་ཡེ་ཤེས་དང་ལས་ཏེ་སྔ་མ་བཞིན་དུ་ཤེས་པར་བྱའོ་༎	T05n1110u_001:279	 atra vīreti jñānaṃ karma ca |  ( arthastvasya )  pūrvavadavagantavyaḥ |
+T05D4005:181a-24	ཡོན་ཏན་ནི་དགྱེས་པ་སྟེ་ཐུགས་རྗེ་ཆེན་པོས་སེམས་ཅན་གྱི་དོན་མཛད་པ་ལ་ཐུགས་བཞུགས་པའོ་༎	T05n1110u_001:282	 nandanaṃ ( eteṣāṃ ) guṇaḥ |  karūṇānvitena manasā ime sattvahitāya pravṛttāḥ santīti |  (7) ( tathāgataḥ )
+T05D4005:181a-25	ནུབ་སྣང་བ་དང་ལྡན་པའི་ཞིང་ན་དམར་པོ་།	T05n1110u_001:285	 ratnāgniḥ pratīcyāṃ ( diśi )  ābhāsavatī ( buddha- )  kṣetre'sti ( śāstā ) |  rakta ( varṇa )
+T05D4005:181a-26	རིན་པོ་ཆེ་དང་མེའི་དཀྱིལ་འཁོར་བསྣམས་པ་ནི་རིན་ཆེན་མེ་སྟེ་།	T05n1110u_001:289	 -maṇiratnam agnimaṇḍalaṃ ca ( hastayoḥ kramaśaḥ )
+T05D4005:181a-27	དེ་ལ་རིན་ཆེན་ནི་ཡེ་ཤེས་ཏེ་རྟོག་པ་མེད་པར་དོན་འབྱུང་བའོ་༎	T05n1110u_001:290	 dhārayan virājate |  ratnamityatra jñānam |  ( yena ratnavad )  kalpanārahitena arthāḥ prāpyante |
+T05D4005:181a-3	སྟེང་ནམ་མཁའི་སྙིང་པོའི་ཞིང་ན་བཞུགས་པ་སྔོན་པོ་རྡོ་རྗེ་གཉིས་བསྣམས་པ་ནི་རྡོ་རྗེ་སྙིང་པོས་རབ་ཏུ་འཇོམས་པའོ་༎	T05n1110u_001:226	 (2) upariṣṭād gaganagarbha( buddha )  - kṣetre sthitaḥ nīla ( varṇaḥ )  ( hastayoḥ )  dhṛtavajradvayaḥ ,  ( sa ca tathāgataḥ )  vajragarbhapramardī iti |
+T05D4005:181a-4	དེ་ལ་རྡོ་རྗེ་ནི་རྡོ་རྗེ་ལྟར་རྟོག་པ་མེད་པའི་ཡེ་ཤེས་སོ་༎	T05n1110u_001:232	 atra 'vajram' iti vajropamaṃ nirvikalpakaṃ jñānam |
+T05D4005:181a-5	སྙིང་པོ་ནི་ཐམས་ཅད་ཀྱི་སྐྱེ་གནས་ཏེ་ཡོན་ཏན་ནོ་༎	T05n1110u_001:233	 tacca sarvaguṇotpattisthānatvād 'garbhaḥ' ityapi |
+T05D4005:181a-6	ལས་ནི་ཉོན་མོངས་པ་ལ་སོགས་པ་ཐམས་ཅད་འཇོམས་པའོ་༎	T05n1110u_001:234	 kleśādīnāṃ sarveṣāṃ ( vipakṣāvaraṇānāṃ )  prahāṇaṃ tatkāritram |
+T05D4005:181a-7	རིན་ཆེན་འོད་འཕྲོ་ནི་ཤར་ཕྱོགས་རིན་ཆེན་ཡོད་པའི་ཞིང་ན་དཀར་པོ་རྡོ་རྗེ་དང་ཉི་མ་བསྣམས་པ་བཞུགས་སོ་༎	T05n1110u_001:236	 (3) pūrvasyāṃ diśi ratnabhava( buddha )  ratnārcīḥ śveta ( varṇaḥ )  vajraṃ sūrya ca dhārayan virājate |
+T05D4005:181a-8	དེ་ལ་རིན་ཆེན་ནི་རིན་པོ་ཆེ་ལྟར་སྟོབས་ལ་སོགས་པའི་ཡོན་ཏན་ཐམས་ཅད་འབྱུང་བས་ན་ཡོན་ཏན་ནོ་༎	T05n1110u_001:241	 atra ratnamiti ratnavatsarvavidha ( prātihāryādi )  - balānvitatvāt,  tadidaṃ ( eteṣāṃ ) guṇaḥ |
+T05D4005:181a-9	ཡེ་ཤེས་ནི་འོད་དེ་རང་བཞིན་གསལ་བས་མི་ཤེས་པའི་མུན་པ་མེད་པའོ་༎	T05n1110u_001:244	 arciriti jñānaprakāśaḥ |  tatsvabhāvasya sphuṭatvāttena ajñānāndhakāro'panīyate |
+T05D4005:181b-0	ཡང་༄༡༨༡བ་ན་ཡོན་ཏན་ནི་རིན་ཆེན་ཏེ་ཏིང་ངེ་འཛིན་དང་འཇིག་རྟེན་ལས་འདས་པའི་ཕུན་སུམ་ཚོགས་པ་ཐམས་ཅད་འབྱུང་བའོ་༎	T05n1110u_001:294	 athavā ratnaṃ ( eteṣāṃ )  guṇaḥ, ( yena )  samādhyādayaḥ sarvāḥ lokottarasampattayaḥ prāpyante |
+T05D4005:181b-1	མེ་ནི་ལས་ཏེ་ཡེ་ཤེས་དང་བརྩོན་འགྲུས་ཆེན་པོས་སེམས་ཅན་གྱི་དོན་མཛད་ཅིང་ཉོན་མོངས་པ་ལ་སོགས་སྲེག་པའོ་༎	T05n1110u_001:297	 agniriti ( teṣāṃ )  kāritram, ( yena )  te jñānena mahatā vīryeṇa ca sattvahitaṃ prasādhya kleśādīṃśca dahanti |  (8) ( tathāgataḥ )
+T05D4005:181b-10	ཤེས་རབ་དང་ཐུགས་རྗེས་སྤྱན་གྱིས་ཆོས་ཉིད་དང་སེམས་ཅན་གྱི་དོན་གསལ་བའོ་༎	T05n1110u_001:322	 te mahāprajñākarūṇānetrābhyāṃ dharmatāṃ prakāśayanti sattvahitaṃ ca sādhayantītyarthaḥ |
+T05D4005:181b-11	ལས་ནི་དོན་ཡོད་པ་སྟེ་། འདིས་སེམས་ཅན་ཐམས་ཅད་མངོན་པར་མ་ཐོབ་དང་ངེས་པར་ལེགས་པའི་འབྲས་བུ་གདོན་མི་ཟ་བར་ཡོད་པར་མཛད་པའོ་༎	T05n1110u_001:323	 amoghaścaiteṣāṃ kāritram,  yena te sarvasattvān abhyudayaniḥ śreyasaphalayorniyamena sthāpayanti |  (10) ( tathāgataḥ )
+T05D4005:181b-13	རིན་ཆེན་ཟླ་བ་ནི་། བྱང་ཤར་འོད་ཟེར་ཅན་གྱི་ཞིང་ན་དཀར་ལྗང་། རིན་པོ་ཆེ་དང་ཟླ་བ་བསྣམས་པའི་སངས་རྒྱས་སོ་༎	T05n1110u_001:326	 ratnacandraḥ pūrvottaradiśāyāṃ marīcikānāmni ( buddhakṣetre tiṣṭhati ) |  ( ayaṃ ) haritaśveta ( varṇaḥ )  ratnaṃ candraṃ ca dhārayan buddhaḥ evāsti |
+T05D4005:181b-16	དེའི་ཡོན་ཏན་ནི་རིན་པོ་ཆེའོ་༎	T05n1110u_001:330	 ratnamityeteṣāṃ guṇaḥ |
+T05D4005:181b-17	ཟླ་བ་ནི་ཡེ་ཤེས་དང་ལས་ཏེ་སྔ་མ་ལྟར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:331	 candra iti jñānam,  yaccaiteṣāṃ kāritram |  ( arthastvasya )  pūrvavadavagantavyaḥ |
+T05D4005:181b-18	འདིའི་འོག་ན་ཐལ་བས་ཁྱབ་པའི་ཞིང་ན་དྲི་མ་མེད་པ་སྟེ་དུད་ཁ་འམ་ཐལ་པའི་མདོག་ཅན་མེ་ལོང་དྲི་མ་མེད་པ་བསྣམས་པ་བཞུགས་ཤིང་འཚོའོ་༎	T05n1110u_001:335	 (11) tadanantaraṃ ( tathāgataḥ )  nirmalaḥ bhasmavyāpini ( buddha- )  kṣetre ( virājate ) |  ( ayaṃ ) dhūma ( varṇaḥ )  bhasma ( varṇo ) va |  nirmalādarśadvayaṃ dhārayan tiṣṭhati |
+T05D4005:181b-19	དེ་ལ་དྲི་མ་མེད་པ་ནི་ཡེ་ཤེས་ཏེ་སྒྲིབ་པ་སྤངས་པའོ་༎	T05n1110u_001:342	 nirmalamityatra jñānam,  yaccāvaraṇaprahāṇaṃ ( karoti ) |
+T05D4005:181b-2	རིན་ཆེན་ཟླ་འོད་ནི་ནུབ་བྱང་འོད་བཟང་པོའི་ཞིང་ན་དཀར་པོ་༏	T05n1110u_001:301	 ratnacandraprabhaḥ śukla ( varṇaḥ )  paścimottaradiśāyāṃ suprabhe ( buddha- )  kṣetre'sti ( śāstā ) |
+T05D4005:181b-20	ནུས་པ་ནི་གཞན་དྲི་མ་མེད་པར་བྱེད་པའོ་༎	T05n1110u_001:344	 anyān ( sattvān )  nirmalīkartumasti tatsāmarthyam |
+T05D4005:181b-21	སྟོབས་ལ་སོགས་པ་གློ་བུར་བའི་དྲི་མ་དང་བྲལ་བས་ཤིན་ཏུ་གསལ་བ་ནི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:346	 āgantukamalīmasabalādirahitatvādatyanta-prakāśitatvaṃ ( teṣāṃ ) guṇaḥ |
+T05D4005:181b-22	དེ་ལ་སྔ་མ་ལྟར་ཕྱག་འཚལ་བའོ་༎	T05n1110u_001:347	 ebhyaḥ pūrvavannamaskāro vidheyaḥ |
+T05D4005:181b-23	དེ་དག་ནི་བཅུ་ཚན་དང་པོའོ་།	T05n1110u_001:348	 prathamaṃ daśakam |
+T05D4005:181b-24	༎ ། ཡང་བཅུ་ཚན་གཉིས་པ་ནི་༎ དཔའ་སྦྱིན་ཞེས་བྱ་བ་ལ་སོགས་པ་སྟེ་།	T05n1110u_001:349	 (12) śūradatta ityādinā dvitīyaṃ daśakam |
+T05D4005:181b-26	དེ་ལ་དེའི་ཡང་སྟེང་གི་ཕྱོགས་ན་དཔལ་དང་ལྡན་པའི་ཞིང་ན་དེ་བཞིན་གཤེགས་པ་དཔས་བྱིན་དཀར་པོ་ཤིང་དཔལ་འབྲས་ཀྱི་སྡོང་བུ་ལོ་མ་འབྲས་བུ་དང་བཅས་པ་བསྣམས་པ་བཞུགས་ནས་སེམས་ཅན་གྱི་དོན་མཛད་པ་ཡིན་ལ་།	T05n1110u_001:350	 tathāgataḥ śūradattaḥ śukla ( varṇaḥ )  ūrdhvadiśāyāṃ śrīvatsanāmake buddhakṣetre ( virājate ) |  ime ( dvābhyāṃ hastābhyāṃ )  patraphalayuktaṃ śrīphalavṛkṣaṃ dhārayanti sattvārtha ca kurvanti |
+T05D4005:181b-27	འདིར་སྟེང་དུ་གདན་ལ་བཞུགས་པར་བསམས་ཏེ་བདག་གིས་ཕྱག་འཚལ་བ་བྱས་པས་སྡིག་པར་དག་པར་འགྱུར་རོ་༎	T05n1110u_001:354	 atremān ūrdhvamāsane virājamānān vicintya svataḥ namaskārakaraṇena pāpāni viśudhyanti |
+T05D4005:181b-3	རིན་པོ་ཆེ་དང་ཟླ་བ་བསྣམས་པའོ་༎	T05n1110u_001:304	 ( hastayoḥ ) ratnaṃ candra ( maṇḍalaṃ )  ca dhārayati |
+T05D4005:181b-4	དེ་ལ་རིན་ཆེན་ནི་སྔ་མ་ལྟར་ཡོན་ཏན་ནོ་༎	T05n1110u_001:306	 ratnamatrāpi pūrvavadeteṣāṃ guṇaḥ |
+T05D4005:181b-5	ཟླ་བ་ནི་ཡེ་ཤེས་ཏེ་ཡེ་ཤེས་རྫོགས་ཤིང་གསལ་ལེ་ཤིན་ཏུ་བསིལ་བའོ་༎	T05n1110u_001:307	 candraś ( caiteṣāṃ ) jñānamiti |  jñānamasya paripūrṇaṃ atyantaśītalaṃ prakāśamānamityarthaḥ |
+T05D4005:181b-6	འོད་ནི་ལས་ཏེ་ལས་དང་ཉོན་མོངས་པ་ལ་སོགས་པ་བསལ་ཏེ་དོན་གྱི་ཆོས་ཉིད་གསལ་བར་བྱེད་པའོ་༎	T05n1110u_001:309	 prabhā caiteṣāṃ kāritram |  karmāṇi kleśādīṃśca ( āvaraṇāni )  apakṛṣya dharmatāṃ prakāśayatītyarthaḥ | (127)
+T05D4005:181b-7	བྱང་ཕྱོགས་རྔ་སྒྲའི་ཞིང་ན་མཐོང་བ་དོན་ཡོད་ལྗང་གུ་སངས་རྒྱས་ཀྱི་སྤྱན་གཉིས་བསྣམས་པའོ་༎	T05n1110u_001:314	 amoghadarśanaḥ harita ( varṇaḥ )  udīcyāṃ diśi dundubhighoṣe ( nāma buddha- )  kṣetre ( virājate ) |  buddhacakṣurdvayaṃ dhārayati |
+T05D4005:181b-8	དེའི་ཡེ་ཤེས་ནི་མཐོང་བ་སྟེ་ཡེ་ཤེས་མ་བསྒྲིབས་པའོ་༎	T05n1110u_001:319	 darśanamityeṣāṃ jñānam,  anāvaraṇajñānamityarthaḥ |
+T05D4005:181b-9	ཡང་ན་མཐོང་བ་ནི་ཡོན་ཏན་ཏེ་།	T05n1110u_001:321	 athavā darśanameteṣāṃ guṇaḥ |
+T05D4005:182a-0	དེ་ལ་དཔའ་༄༡༨༢ཨ་༌་༎ བ་ནི་གཉིས་སུ་མེད་པའི་ཡེ་ཤེས་ཀྱིས་རྟོག་པ་ཐམས་ཅད་འཇོམས་པས་སོ་༎	T05n1110u_001:355	 atra 'śūraḥ' ityanenāyaṃ advayajñānadvārā sarvavikalpaprahāyaka ityamipretaḥ |
+T05D4005:182a-10	ཡང་ཚངས་པ་ནི་རང་ཉིད་དང་གཞན་དག་པར་བྱེད་པའི་ཡོན་ཏན་ཚད་མེད་པ་མངའ་བས་ན་ཚངས་པ་སྟེ་ཡོན་ཏན་ནོ་༎	T05n1110u_001:372	 ( malaśodhanam )  eva tatkāritram |  athavā brahyeti sva-paraviśuddhikārakāṇāṃ aparimitaguṇānāṃ yogādayaṃ ( tathā )  brahyetyabhidhīyate |  ( ayameva ) tadguṇaḥ |  (14) ( tathāgataḥ )
+T05D4005:182a-11	ཚངས་པས་བྱིན་ནི་ཤར་ལྷོ་མྱ་ངན་མེད་པའི་ཞིང་ན་སེར་པོ་ཟླ་བ་དང་པདམ་བསྣམས་བའོ་༎	T05n1110u_001:378	 brahyadattaḥ dakṣiṇapūrvadiśāyāṃ aśokanāmake ( buddhakṣetre )  ( śāstā ) vidyate |  pīta ( varṇaḥ )  ayaṃ ( dvābhyāṃ hastābhyāṃ kramaśaḥ )  candraṃ padmaṃ ca dhārayan ( virājate ) |
+T05D4005:182a-12	དེ་ཡང་ཚངས་པ་ནི་ཡེ་ཤེས་དང་ཡོན་ཏན་ཏེ་སྔ་མ་དང་འདྲའོ་༎	T05n1110u_001:383	 atra brahyeti tajjñānaṃ guṇaśca |  etayorvyākhyānaṃ pūrvavad ( avagantavyam ) |  tena ( guṇena )
+T05D4005:182a-13	དེས་སེམས་ཅན་ཐམས་ཅད་ལ་དག་པའི་བདེ་བ་སྦྱིན་པ་ནི་ལས་སོ་༎	T05n1110u_001:386	 sarva sattvebhyo viśuddhasukhapradātṛtvaṃ nāma tatkāritram |
+T05D4005:182a-14	ཆུ་ལྷ་ནི་ལྷོ་ཕྱོགས་དྲི་མ་མེད་པའི་ཞིང་ན་སྔོན་པོ་ཆུའི་དཀྱིལ་འཁོར་ན་ཆོས་འཆད་པའི་ཕྱག་རྒྱ་ཅན་ནོ་༎	T05n1110u_001:387	 (15) ( tathāgataḥ )  varūṇaḥ dakṣiṇadiśāyāṃ vimale ( buddha )  kṣetre ( tiṣṭhati ) |  nīla ( varṇo ) 'yaṃ jalamaṇḍalamadhye dharmacakramudrayā ( virājate ) |
+T05D4005:182a-15	དེ་ཡང་ཆུ་ནི་ཡེ་ཤེས་ཏེ་ཤིན་ཏུ་དྲི་མ་མེད་ཅིང་དང་བའོ་༎	T05n1110u_001:391	 varūṇena ( jalena )  tajjñānaṃ dyotyate,  yadatyantaṃ vimalaṃ svacchaṃ ca |
+T05D4005:182a-16	ཡང་ན་ལས་ནི་ཐུགས་རྗེ་ཆེན་པོས་དམ་པའི་ཆོས་ཀྱིས་སེམས་ཅན་གྱི་རྒྱུད་བརླན་པར་མཛད་པས་ན་ཆུའོ་༎	T05n1110u_001:394	 athavā ( jalamiti )  tatkāritram |  arthāt mahākarūṇayā ( ayaṃ )  sattvasantatiṃ saddharmena ārdrayati |
+T05D4005:182a-17	ལྷ་ནི་ཡོན་ཏན་ཏེ་མཐུ་དང་རྫུ་འཕྲུལ་ལ་སོགས་པ་དང་ལྡན་པའོ་༎	T05n1110u_001:398	 ( ata ) eva tajjalam |  deva iti guṇavācakaḥ ( śabdaḥ)  śakti-ṛddhyādibhiśca yuktaḥ |  (16) ( tathāgataḥ )
+T05D4005:182a-18	ལྷོ་ནུབ་གསལ་བའི་ཞིང་ན་དཀར་པོ་།	T05n1110u_001:402	 varūṇadevaḥ dakṣiṇapaścimadiśāyāṃ ābhāvatyāṃ ( buddhakṣetre ) ( śāstā ) |  ( ayaṃ hi ) śveta ( varṇaḥ ) |
+T05D4005:182a-19	ཆུ་ལྷའི་དཀྱིལ་འཁོར་དང་མེ་ལོང་བསྣམས་པ་ནི་ཆུ་ལྷའི་ལྷའོ་༎	T05n1110u_001:404	 dvābhyāṃ ( hastābhyāṃ krameṇa )  maṇḍalam ādarśa ca dhārayan ( virājate ) |
+T05D4005:182a-2	ཡང་ན་ཡོན་ཏན་ནི་དཔའ་བ་སྟེ་།	T05n1110u_001:356	 athavā śūra iti tadguṇaḥ |
+T05D4005:182a-20	དེ་ལ་ཆུ་ནི་ཡེ་ཤེས་ཏེ་སྔ་མ་བཞིན་ནོ་༎	T05n1110u_001:406	 atra jalena ( arthād )  varūṇena tajjñānam ( abhidhīyate ) |  pūrvavadasya ( vyākhyānam ) |
+T05D4005:182a-21	ལས་ནི་ལྷ་སྟེ་རྫུ་འཕྲུལ་ལ་སོགས་པས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་མཛད་པའོ་༎	T05n1110u_001:409	 deva iti tatkāritram,  ṛddhyādibhi sarvasattvārthakaraṇam |
+T05D4005:182a-22	དེའི་ཡང་ལྷ་ནི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:411	 ayamapi 'deva' -śabdaḥ guṇavācakaḥ |
+T05D4005:182a-23	དཔལ་བཟང་ནི་ནུབ་ཕྱོགས་བདེ་བ་ཅན་གྱི་ཞིང་ན་བཞུགས་བ་དམར་པོ་པདམ་དང་དཔག་བསམ་གྱི་ཤིང་བུ་བསྣམས་པ་ཡིན་ལ་།	T05n1110u_001:412	 (17) ( tathāgataḥ )  bhadraśrīḥ paścimadiśāyāṃ sukhāvatīkṣetre ( tiṣṭhati ) |  raktavarṇo'yam |  ( dvābhyāṃ hastābhyāṃ kramaśaḥ )  padmaṃ kalpavakṣaṃ ca dhārayan ( virājate ) |
+T05D4005:182a-24	དཔལ་ནི་ཡོན་ཏན་ཏེ་བདག་དང་གཞན་གྱི་དོན་ཕུན་སུམ་ཚོགས་པའོ་༎	T05n1110u_001:417	 atra śrīriti tadguṇaḥ, sa ca (129)  sva parārthasampad |
+T05D4005:182a-25	བཟང་པོ་ནི་ཡེ་ཤེས་དང་ལས་ཏེ་།	T05n1110u_001:420	 bhadreti jñānaṃ kāritraṃ ca,
+T05D4005:182a-26	ཡེ་ཤེས་ཤིན་ཏུ་མཆོག་ཏུ་གྱུར་པ་དང་། གཞན་མྱ་ངན་ལས་འདས་པའི་ལམ་བཟང་པོས་མྱ་ངན་ལས་འདས་པར་འདྲེན་པར་མཛད་པའོ་༎	T05n1110u_001:421	 taccānuttarajñānamiti |  ebhiḥ nairvāṇika- bhadramārgeṇa pare ( vineya- )  janā nirvāṇābhimukhamākṛṣyante |
+T05D4005:182a-3	གཞན་ལ་ཕུན་སུམ་ཚོགས་པ་ཐམས་ཅད་དང་བདེ་བ་ཐམས་ཅད་ཐོགས་བ་མེད་པར་མཛད་པའོ་༎	T05n1110u_001:357	 ime parebhyaḥ sarvasukhopakaraṇāni sarvadā anirbādhaṃ vitaranti |
+T05D4005:182a-5	ཁམས་གསུམ་གྱི་སེམས་ཅན་ཐམས་ཅད་ལ་ཇི་ལྟར་འདོད་པའི་བྱ་བ་འམ་དགོས་པ་སྦྱིན་པའོ་༎	T05n1110u_001:359	 ( ime ) traidhātukebhyaḥ sarvasattvebhyaḥ yathābhilaṣitavastupradānaṃ kurvanti |
+T05D4005:182a-6	དེ་ལ་སྒོ་གསུམ་དང་བས་ཕྱག་འཚལ་བར་བྱའོ་༎	T05n1110u_001:360	 ebhyastribhiḥ ( kāya-vāk- citta- )  dvāraiḥ saprasādaṃ namaskāraḥ karaṇīyaḥ | (128)
+T05D4005:182a-7	ཤར་ཕྱོགས་སྒྲིབ་པ་དང་བྲལ་བའི་ཞིང་ན་དཔལ་ཆངས་པ་དམར་སེར་པདམ་དང་ཉི་མ་བསྣམས་པའོ་༎	T05n1110u_001:363	 (13) ( tathāgataḥ )  brahyā pūrvadiśāyāṃ vigatāvaraṇanāmake ( buddha )  kṣetre ( tiṣṭhati ) |  piṅgalavarṇo'yaṃ ( dvābhyāṃ hastābhyāṃ kramaśaḥ )  padam sūrya ca dhārayan ( virājate |
+T05D4005:182a-8	དེ་ལ་སྒྲིབ་པ་ཐམས་ཅད་དང་བྲལ་བའི་ཡེ་ཤེས་ནི་ཚངས་པའོ་༎	T05n1110u_001:368	 atra sarvāvaraṇarahitaṃ jñānameva brahma |
+T05D4005:182a-9	ཡང་ན་ཚངས་པ་བཞིན་དུ་སེམས་ཅན་ཐམས་ཅད་འཁོར་བ་ནས་དག་པར་བྱེད་པ་ནི་ཚངས་པ་སྟེ་ལས་སོ་༎	T05n1110u_001:369	 athavā ( ayaṃ )  sarvasattvānāṃ sāṃsārika ( mala )  -śodhakatvād brahyavad 'brahyeti' , ( idaṃ )
+T05D4005:182b-0	ནུབ་བྱང་དྲི་བཟང་པོས་ཁྱབ་པའི་ཞིང་ན་སངས་རྒྱས་ཙནདན་དཔལ་དམར་༄༡༨༢བ་སེར་ཙནདན་གྱི་སྡོང་པོ་དང་དཔལ་འབྲས་བསྣམས་པ་བཞུགས་པའོ་༎	T05n1110u_001:424	 (18) ( tathāgataḥ )  candanaśrīḥ uttarapaścimadiśāyāṃ sugandhavyāpini ( buddhakṣetre ) śāstā |  ( ayaṃ hi ) piṅgala ( varṇaḥ )  candanavṛkṣaṃ śrīphalaṃ ca dhārayan virājate |
+T05D4005:182b-1	དེའི་ཡེ་ཤེས་ནི་ཙནདན་ཏེ་།	T05n1110u_001:429	 tajjñānamevātra candanam,
+T05D4005:182b-10	དེ་ལ་འོད་ནི་ཡེ་ཤེས་ཏེ་།	T05n1110u_001:452	 prabhāsa iti tajjñānam |
+T05D4005:182b-11	ཉི་མ་ལྟ་བུའི་ཡེ་ཤེས་དེས་ནི་རང་དང་གཞན་གྱི་ཉོན་མོངས་པ་དང་ཤེས་བྱའི་སྒྲིབ་པའི་མུན་པ་སེལ་བའོ་༎	T05n1110u_001:453	 sūryasadṛśena tajjñānena svaparakleśajñeyāvaraṇāndhakāraṃ dūrībhavati |
+T05D4005:182b-12	དཔལ་ནི་ཡོན་ཏན་དང་ལས་ཏེ་སྔ་མ་ལྟར་གཉིས་སུ་ཤེས་པར་བྱའོ་༎	T05n1110u_001:454	 śrīriti tadgunāḥ karmāṇi ceti |  tānyapi pūrvavad dvividhānītyavāgantavyam |  (21) ( tathāgataḥ )  aśokaśrīḥ ( varṇena )  śvetanīlaḥ |
+T05D4005:182b-13	མྱ་ངན་མེད་པའི་དཔལ་ནི་འོག་གི་ཕྱོགས་སྒྲིབས་པ་དང་བྲལ་བའི་ཞིང་ན་སྐུ་མདོག་སྔོ་སྐྱ་ཤིང་མྱ་ངན་མེད་པ་བསྣམས་པ་བཞུགས་ཏེ་།	T05n1110u_001:459	 adhodiśāyām āvaraṇavigate ( buddha )  -kṣetre ( saḥ ) śāstā |  ( hastābhyāṃ )  aśokaviṭapaṃ dhārayan virājate |
+T05D4005:182b-14	དེ་ཡང་མྱ་ངན་མེད་པ་ནི་ཡེ་ཤེས་ཏེ་འཁོར་བ་ལས་འདས་ཤིང་སྒྲིབ་པ་ཐམས་ཅད་དང་བྲལ་བའོ་༎	T05n1110u_001:463	 atrāśoka iti jñānam,  yat saṃsārāpagatam āvaraṇarahitaṃ ca |
+T05D4005:182b-15	ཡང་ན་ལས་ནི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་མྱ་ངན་ཏེ་སྡུག་བསྔལ་དང་འཁོར་བ་བྲལ་བར་མཛད་པས་ན་དེ་དག་མེད་པའོ་༎	T05n1110u_001:465	 athavā ( aśoketi )  tatkāritram,  samastasattvānāṃ śokāt saṃsāraduḥkhānmocakatvāt sa (130)  ( śoka- ) rahita ityabhidhīyate |
+T05D4005:182b-16	དཔའ་ནི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:470	 śrīriti tadguṇaḥ |
+T05D4005:182b-17	དེ་ལ་སྔ་མ་ལྟར་སྒོ་གསུམ་དང་བས་ཕྱག་འཚལ་བར་བྱའོ་༎	T05n1110u_001:471	 ebhyastribhirdvāraiḥ prasādayuktena ( manasā )  namaskāraḥ karanīyaḥ |
+T05D4005:182b-18	དེ་དག་ནི་བཅུ་ཚན་གཉིས་པའོ་།	T05n1110u_001:473	 ( idaṃ dvitīyaṃ daśakam )
+T05D4005:182b-19	༎ ། ཡང་བཅུ་ཚན་གསུམ་པ་ནི་།	T05n1110u_001:474	 (22) idānīṃ tṛtīyaṃ daśakamārabhyate |
+T05D4005:182b-2	མ་རིག་པ་ལ་སོགས་པའི་གདུང་བ་བསིལ་ཞིང་དག་པའོ་༎	T05n1110u_001:430	 anena avidyādisantāpamapasārya śītalīkaraṇāt athavā candanamiti tadguṇaḥ,
+T05D4005:182b-20	དེའི་ཡང་སྟེང་གི་ཕྱོགས་ན་སྲེད་པ་དང་བྲལ་པའི་ཞིང་ན་སྲེད་མེད་ཀྱི་བུ་སྔོན་པོ་༎	T05n1110u_001:475	 ūrdhvadiśāyāṃ tṛṣṇāvigate (buddha)  kṣetre nārāyaṇaḥ ( śāstā ) bhavati |  hastābhyāṃ )
+T05D4005:182b-21	རི་རབ་དང་པདམའི་ཕྱག་རྒྱ་ཅན་འཁོར་ལ་ཆོས་འཆད་ཅིང་སེམས་ཅན་རྣམས་ལ་འཚོ་སྐྱོང་ངོ་༎	T05n1110u_001:479	 merū padmaṃ ca dhārayan dharmacakramudrayā sthitaḥ san parivārajanebhyaḥ ( śiṣyebhyaḥ )  dharmamupadiśan sattvān yāpayati |
+T05D4005:182b-22	དེ་ཡང་སྲེད་མེད་ནི་ཡེ་ཤེས་ཏེ་རྟོག་པ་དང་བྲལ་བའོ་༎	T05n1110u_001:481	 atrāpi nārāyaṇo nāma tajjñānam yat sarva (vidha)  kalpanārahitamiti |
+T05D4005:182b-23	ལས་ནི་སྲེད་པ་མེད་པ་སྟེ་སེམས་ཅན་འཁོར་བ་ལ་ཆགས་པ་དང་བྲལ་བར་མཛད་པའོ་༎	T05n1110u_001:483	 (sarva) sattvānāṃ saṃsārāsaktitṛṣṇābhyāṃ mocane ( sadā )  tatparatvaṃ tatkāritram |
+T05D4005:182b-24	དེའི་བུ་ནི་སངས་རྒྱས་ཏེ་དེ་ལས་སྐྱེས་ཤིང་བྱམས་པ་ལ་སོགས་པའི་ཡོན་ཏན་དང་ལྡན་པས་ན་བུ་ཞེས་བཤད་དོ་༎	T05n1110u_001:485	 apatya iti buddhaḥ |  yastadutpannaḥ maitryādiguṇayuktaśca |  ( ata eva ) apatyaḥ putra iti vā'bhihitaḥ |
+T05D4005:182b-3	ཡང་ན་ཙནདན་ནི་ཡོན་ཏན་ཏེ་སྟོབས་ལ་སོགས་པའི་ཡོན་ཏན་ཆེན་པོས་ཐམས་ཅད་དུ་ཁྱབ་པའོ་༎	T05n1110u_001:431	 balādiguṇena sarvatra vyāpanāt |  śrīrityetasya kāritramarthaḥ,
+T05D4005:182b-4	དཔལ་ནི་ལས་ཏེ་སྔ་མ་བཞིན་དུ་ཤེས་པར་བྱའོ་༎	T05n1110u_001:433	 asya vyākhyānaṃ pūrvavadavagantavyam |  (19) ( tathāgataḥ )
+T05D4005:182b-5	གཟི་བརྗིད་མཐའ་ཡས་ནི་བྱང་ཕྱོགས་གཟི་བརྗིད་དང་ལྡན་པའི་ཞིང་ན་དམར་པོ་ཉི་མ་གཉིས་བསྣམས་པ་འཁོར་མང་པོ་དང་བཅས་པ་བཞུགས་སོ་༎	T05n1110u_001:435	 anantaujāḥ rakta ( varṇaḥ )  uttaradiśāyāṃ tejasvatyāṃ ( buddhakṣetre )  ( śāstā ) vidyate |  ( ayaṃ dvābhyāṃ hastābhyāṃ kramaśaḥ )  sūryamaṇḍaladvayaṃ dhārayan bahulairanuyāyibhiḥ parivṛto virājate |
+T05D4005:182b-6	དེའི་ཡེ་ཤེས་ནི་གཟི་བརྗིད་དེ་གསལ་བའི་ཡེ་ཤེས་ཀྱིས་གཞན་གསལ་བར་མཛད་ཅིང་ཟིལ་གྱིས་གནོན་པའི་ནུས་པ་ཅན་ནོ་༎	T05n1110u_001:440	 tajjñānamevātraujaḥ |  prabhāsvarajñānena viparītaṃ ( andhakāraṃ )
+T05D4005:182b-7	མཐའ་ཡས་ནི་ལས་དད་ཡོན་ཏན་ཏེ་སེམས་ཅན་གྲངས་མེད་པའི་དོན་མཛད་པ་དང་། གཟུགས་ཅན་དང་གཟུགས་ཅན་མ་ཡིན་པའི་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པའོ་༎	T05n1110u_001:442	 prakāśīkurvan tathāprabhāvakṣamaḥ |  ananteti tatkarmāṇi guṇāśca ,  taiśca asaṃkhyasattvānāṃ kalyāṇaṃ bhavatīti |  ( sa ca ) aparimitaiḥ rūpyarūpiguṇaiḥ samanbitaḥ |  (20) ( tathāgataḥ )
+T05D4005:182b-8	བྱང་ཤར་དོན་ཡོད་པ་དང་ལྡན་པའི་ཞིང་ན་འོད་དཔལ་དཀར་པོ་།	T05n1110u_001:447	 prabhāsaśrīḥ śveta ( varṇaḥ ) |  sa cottarapūrvadiśāyām amoghavatyāṃ ( buddhakṣetre )
+T05D4005:182b-9	འོད་དཀར་པོའི་དཀྱིལ་འཁོར་བསྣམས་པ་བཞུགས་ཤིང་འཚོ་སྐྱོང་བའོ༎	T05n1110u_001:449	 ( śāstā ) vidyate |  ( sa ātmanaḥ karakamalayoḥ )  śvetaprabhāmaṇḍalaṃ dhārayan jīvanaṃ ca yāpayan virājate |
+T05D4005:183a-0	ཤར་ཕྱོགས་མེ་ཏོག་ཆེར་རྒྱས་པ་ཞེས་བྱ་བའི་ཞིང་ན་༄༡༨༣ཨ་༌་༎	T05n1110u_001:489	 kusumaśrīḥ pūrvadiśāyāṃ kusumavikāsanāmake ( buddha )  kṣetre ( śāstā ) bhavati |
+T05D4005:183a-1	སེར་པོ་མེ་ཏོག་སེར་པོ་དང་ཤིང་ཐོག་དཔལ་འབྲས་བསྣམས་པའི་སངས་རྒྱས་མེ་ཏོག་དཔལ་བཞུགས་ཏེ་དེའི་ཡོན་ཏན་ནི་མཚན་ལ་སོགས་པ་རྒྱས་ཤིང་མཛེས་པ་དང་། ཡེ་ཤེས་མེ་ཏོག་ལྟར་རྒྱས་པའོ་༎	T05n1110u_001:491	 ( ayaṃ ) pīta ( varṇaḥ ) |  ( hastābhyāṃ kramaśaḥ )  pītakusumaṃ śrīphalaṃ ca dhārayan virājate |  tadguṇasampallakṣaṇaiḥ suśobhitaṃ vyāptaṃ ca |  kusumavattajjñānaṃ vikasitam |
+T05D4005:183a-10	རྣམ་པར་རོལ་བ་ནི་ལས་ཏེ་།	T05n1110u_001:509	 vikrīḍiteti tatkāritram,
+T05D4005:183a-11	རྫུ་འཕྲུལ་ལ་སོགས་པས་སེམས་ཅན་གྱི་དོན་མཛད་པའོ་༎	T05n1110u_001:510	 yato hi ṛddhyādibhiḥ sattvārthaḥ sādhayate |
+T05D4005:183a-12	ཐུགས་ཀྱི་ཡེ་ཤེས་ཀྱིས་དོན་བྱའི་ཐབས་ལ་སོགས་པ་གསལ་བར་རྟོགས་པ་ནི་མངོན་པར་མཁྱེན་པའོ་༎	T05n1110u_001:511	 cittena jñānena vā ( hitādi- )  kāryāṇāṃ sphuṭam upāyāvagamaḥ 'abhijñā' iti | (131)
+T05D4005:183a-13	ལྷོ་ཕྱོགས་པདམ་དང་ལྡན་བའི་ཞིང་ན་དེ་བཞིན་གཤེགས་པ་པདམའི་འོད་ཟེར་རྣམ་པར་རོལ་པ་མངོན་པར་མཁྱེན་པ་དམར་པོ་པདམ་དང་ཉི་མའི་ཕྱག་རྒྱ་ཅན་ནོ་༎	T05n1110u_001:514	 (25) dakṣiṇadiśāyāṃ padmāvatyāṃ ( buddha- )  kṣetre padmajyotirvikrīḍitābhijñastathāgato virājate |  sa rakta ( varṇaḥ )  ( hastābhyāṃ )  padmaṃ sūryaṃ ( maṇḍalaṃ )
+T05D4005:183a-14	དེ་ལ་པདམ་ནི་ཡེ་ཤེས་ཏེ་པདམ་ཉེས་བསམ་གོས་ལ་མ་ཆགས་ཤིང་རྒྱས་པའོ་༎	T05n1110u_001:519	 ca dhārayantyā mudrayā tiṣṭhati |  atra padmami ti tajjñānam,  yat padmasya ( jalasya paṅkasya ca )  doṣea nirliptaṃ virajaskaṃ vikasitaṃ ca |
+T05D4005:183a-15	འོད་ཟེར་ནི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:523	 jyotiriti tadguṇaḥ |
+T05D4005:183a-16	རྣམ་པར་རོལ་པ་ལ་སོགས་པ་ནི་ལས་སོ་༎	T05n1110u_001:524	 vikrīḍitetyādi tatkāritram |
+T05D4005:183a-17	ལྷོ་ནུབ་ནོར་བུ་ཡོད་པའི་ཞིང་ན་ནོར་དཔལ་དམར་པོ་དཀར་བའི་མདངས་ཅན་ཕྱག་རྒྱ་རིན་པོ་ཆེ་གཉིས་ཅན་ནོ་དེ་ལ་ནོར་ནི་ཡེ་ཤེས་ཏེ་།	T05n1110u_001:525	 (26) dakṣiṇa-paścimadiśāyāṃ maṇivartane ( nāma buddha )  kṣetre ( tathāgataḥ )  dhanaśrīḥ śuklaprakāśayuktaḥ raktavarṇaśca ( tiṣṭhati ) |  mudrayā ratnadvayaṃ dhārayan ( virājate ) |
+T05D4005:183a-18	ཡེ་ཤེས་ཆེན་པོ་མི་ཟད་པ་དང་། ནོར་བུའི་ཡོན་ཏན་དང་འདྲ་བའི་ཡོན་ཏན་ཆེན་པོ་དང་ལྡན་པས་འདོད་པ་ཐམས་ཅད་བསྐང་བ་ནི་ལས་སོ་༎	T05n1110u_001:530	 atra dhanamiti jñānam,  yaccākṣayaṃ mahājñānamabhidhīyate,  tacca cintāmaṇiguṇa iva mahāguṇānvitaṃ ca |  ( ataḥ ) sarvecchāparipūraṇaṃ tāvat tatkāritram |
+T05D4005:183a-19	ཡོན་ཏན་ནི་དཔལ་ཏེ་གཉིས་སོ་༎	T05n1110u_001:534	 śrīriti guṇaḥ |  sā ( śrīḥ ) dvividhā |
+T05D4005:183a-2	དཔལ་ནི་ལས་ཏེ་།	T05n1110u_001:496	 śrīriti tatkāritram |
+T05D4005:183a-20	ནུབ་ཕྱོགས་གསལ་པ་དང་ལྡན་པའི་ཞིང་ན་དྲན་པའི་དཔལ་སེར་པོ་པོ་ཏི་དང་རལ་གྲི་ཅན་ནོ་༎	T05n1110u_001:536	 (27) paścimadiśāyāṃ prabhāvatī ( nāmake )  ( buddha )  smṛtiśrīḥ ( śāstā )  pīta ( varṇaḥ ) |  ( hastābhyāṃ kramaśaḥ )  pustakaṃ khaṅgaṃ ca ( dhārayan virājate ) |
+T05D4005:183a-21	དེ་ལ་དྲན་པ་ནི་ཡེ་ཤེས་ཏེ་། ཡེ་ཤེས་ཆེན་པོ་མི་བརྗེད་པའི་གཟུངས་དང་ལྡན་པ་དང་། ཡང་ཡོན་ཏན་ནི་དྲན་པ་སྟེ་། རྣམ་པར་ཐར་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:543	 atra smṛtiriti tajjñānam,  avismṛtamahājñānadhāraṇyā samanvitatvāt |  athavā smṛtireva teṣāṃ ( pramukhaḥ )  guṇaḥ, acintyavimuktiguṇānvitatvācca |
+T05D4005:183a-24	ལས་ནི་དཔལ་ལོ་༎	T05n1110u_001:547	 śrīreva tatkāritramapi |
+T05D4005:183a-25	ནུབ་བྱང་མཚན་མ་མེད་པའི་ཞིང་ན་ལྗང་གུ་ཕྱག་གཉིས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་དབུའི་སྟེང་དུ་འདོགས་པ་ནི་མཚན་དཔལ་ཤིན་ཏུ་ཡོངས་གྲགས་སོ་༎	T05n1110u_001:548	 (28) paścimottaradiśāyāṃ animitta ( buddha- )  kṣetre harita ( varṇaḥ )  ( tathāgataḥ )  suparikīrtitanāmadheyaśrīḥ |  hastābhyāṃ tathāgatoṣṇīṣaṃ svaśirasi dhārayan ( virājate ) |
+T05D4005:183a-4	ཤར་ལྷོ་ཚངས་བས་ཁྱབ་པའི་ཞིང་ན་དེ་བཞིན་གཤེགས་པ་ཚངས་པའི་འོད་ཟེར་རྣམ་པར་རོལ་བས་མངོན་བར་མཁྱེན་པ་དཀར་པོ་པདམ་དང་འོད་ཕུད་བསྣམས་པའོ་༎	T05n1110u_001:498	 (24) dakṣiṇapūrvadiśāyāṃ brahmavyāpini ( buddhakṣetre )  brahmajyotirvikrīḍitābhijño nāma tathāgataḥ śvetavarṇaśca |  padmam apareṇa ca prakāśapuñjaṃ dhārayan ( virājate ) |
+T05D4005:183a-5	དེ་བཞིན་གཤེགས་པ་ནི་སྔ་མ་ལྟར་ཏེ་འདིར་ཡང་དགྲ་བཅོམ་པ་ལ་སོགས་པའང་སྔ་མ་ལྟར་བ་ལྟའོ་༎	T05n1110u_001:502	 atrāpi tathāgata ( śabdasya )  arthaḥ pūrvavat arhannādayo'pi pūrvavadeva draṣṭavyāḥ |
+T05D4005:183a-6	བར་འདིར་དེ་བཞིན་གཤེགས་པ་གཉིས་བསྟན་པ་ནི་གང་འོག་ལའང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:504	 ( sūtra ) madhye buddhadvayena saha tathāgataviśeṣaṇayogaḥ,  ataḥ pūrvavartiṣu paścādvartiṣu ca ( sarvabuddheṣu viśeṣaṇamidam )  avagantavyam |
+T05D4005:183a-7	དེ་ཡང་ཆངས་པ་སྟེ་ཡེ་ཤེས་སོ་༎ འོད་ཟེར་ནི་ནུས་པ་སྟེ་།	T05n1110u_001:507	 atra brahmeti jñānam prakāśabalaṃ ca,
+T05D4005:183a-9	ཤིན་ཏུ་གསལ་ཞིང་ནུས་པ་ཆེན་པོ་དང་ལྡན་པའོ་༎	T05n1110u_001:508	 yato hi sa atyantaṃ jyotiṣmān balānvitaśca |
+T05D4005:183b-0	དེ་ལ་མཚན་ནི་༄༡༨༣བ་ཡེ་ཤེས་ཏེ་།	T05n1110u_001:553	 nāmadheyeti tajjñānam ,
+T05D4005:183b-1	མི་ཟད་པའི་ཡེ་ཤེས་འཛིན་པའོ་༎	T05n1110u_001:554	 akṣayaṃ jñānaṃ bibhrāṇāste ( vidyante ) |
+T05D4005:183b-10	། བྱང་ཤར་རོལ་པ་དང་ལྡན་པའི་ཞིང་ན་ཤིན་ཏུ་རྣམ་པར་གནོན་པའི་དཔལ་དཀར་པོ་ས་གནོན་པའི་ཕྱག་རྒྱ་ཅན་ནོ་༎	T05n1110u_001:570	 (30) uttarapūrvadiśāyāṃ līlāvatyāṃ ( buddha- )  ( tathāgataḥ )  suvikrāntaśrīḥ bhūmisparśamudrayā sthitaḥ |
+T05D4005:183b-11	དེ་ལ་ཤིན་ཏུ་ནི་ཡེ་ཤེས་ཏེ་ཡང་དག་པའི་ཡེ་ཤེས་སོ་༎	T05n1110u_001:574	 'su' iti tajjñānam,  tacca samyagjñānamiti |
+T05D4005:183b-12	ལས་ནི་རྣམ་པར་གནོན་པ་སྟེ་།	T05n1110u_001:576	 vikrānteti tatkarma,
+T05D4005:183b-13	སེམས་ཅན་ཐམས་ཅད་ཀྱི་བདུད་དང་ཉོན་མོངས་པ་ལ་སོགས་པ་ཐམས་ཅད་འཇོམས་པའོ་༏	T05n1110u_001:577	 yena sarvasattvānāṃ māradamanaṃ kleśadamanaṃ ca sampādyate |
+T05D4005:183b-14	། དཔལ་ནི་ཡོན་ཏན་ཏེ་སྔ་མ་ལྟར་གཉིས་སོ་༎	T05n1110u_001:578	 śrīriti teṣāṃ guṇaḥ |  ( tadvyākhyānaṃ )  dvividhaṃ pūrvavadeva |
+T05D4005:183b-15	འོག་གི་ཕྱོགས་ན་ཉོན་མོངས་པ་མེད་པའི་ཞིང་ན་ག-ཡུལ་ལས་ཤིན་ཏུ་རྣམ་པར་རྒྱལ་བ་ནི་ནག་པོ་ཁྲབ་དང་རལ་གྲི་བསྣམས་པའོ་༎	T05n1110u_001:581	 (31) adhaḥ stanyāṃ diśāyām akliṣṭa ( nāmake )  ( tathāgata )  vijitasaṃgrāmastiṣṭhati |  kavacaṃ khaḍgaṃ ca dhārayan ( virājate ) |
+T05D4005:183b-16	དེའི་ལས་ནི་ག-ཡུལ་ལས་རྒྱལ་བ་སྟེ་། སེམས་ཅན་ཐམས་ཅད་ཀྱི་ལས་དང་ཉོན་མོངས་པའི་ག-ཡུལ་ངོ་བཟློག་པའོ་༎	T05n1110u_001:588	 saṃgrāmavijaya stāvadeteṣāṃ karma ( anena )
+T05D4005:183b-2	དཔལ་ནི་ལས་སོ་༎	T05n1110u_001:555	 śrīriti tatkarma |
+T05D4005:183b-26	ཡེ་ཤེས་ཀྱིས་སེམས་ཅན་གྱི་མ་རིག་པ་སེལ་བའོ་༎	T05n1110u_001:609	 yato hi tena jñānena sattvānām avidyāyā nivāraṇaṃ kriyate |
+T05D4005:183b-27	བཀོད་པ་ནི་ཡེ་ཤེས་ཏེ་དཔག་ཏུ་མེད་པའི་ཡེ་ཤེས་སོ་༎	T05n1110u_001:610	 vyūheti tajjñānam,  yadaparimitaṃ ( paripūrṇa ) ca |
+T05D4005:183b-28	དཔལ་ནི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:612	 śrīriti guṇavaiśiṣṭyam | (133)
+T05D4005:183b-29	ནུབ་ཕྱོགས་དཔལ་དང་ལྡན་པའི་ཞིང་ན་༎	T05n1110u_001:614	 (34) paścimāyāṃ khalu diśāyāṃ śrīvatse ( buddha- )  kṣetre ( tathāgataḥ )
+T05D4005:183b-3	ཤིན་ཏུ་ཡོངས་གྲགས་ནི་ཡོན་ཏན་ཏེ་།	T05n1110u_001:556	 suparikīrtiteti tadguṇaḥ |
+T05D4005:183b-30	རིན་ཆེན་པདམས་རྣམ་པར་གནོན་པ་དམར་པོ་རིན་པོ་ཆེ་དང་པདམ་བསྣམས་པའོ་༎	T05n1110u_001:616	 ratnapadmavikrāmī rakta ( varṇaḥ ) ( tiṣṭhati ) |  maṇiratnaṃ padmaṃ ca dhārayan ( virājate ) |
+T05D4005:183b-4	འཇིག་རྟེན་གྱི་ཁམས་སུ་སྙན་པ་ཁྱབ་པར་གྱུར་པའི་གྲགས་པ་ཆེན་པོའོ་༎	T05n1110u_001:557	 ( samasteṣu ) lokadhātuṣu prathitatvameva suparikīrtitatvam |
+T05D4005:183b-5	བྱང་ཕྱོགས་དབང་པོ་གསལ་བའི་ཞིང་ན་དབང་པོ་ཏོག་གི་རྒྱལ་མཚན་གྱི་རྒྱལ་པོ་སེར་པོ་རིན་པོ་ཆེ་ཏོག་དང་རྒྱལ་མཚན་ཅན་ནོ་༎	T05n1110u_001:558	 (29) uttaradiśāyām indraprabha ( buddha- )  kṣetre pīta- ( varṇaḥ )  ( tathāgata )  indraketudhvajarājaḥ ( svīyahastābhyāṃ kramaśaḥ )  ratnaketuṃ dhvajaṃ ca dhārayan ( virājate ) |
+T05D4005:183b-6	དེ་ལ་དབང་པོ་ཏོག་ནི་ཡེ་ཤེས་ཏེ་།	T05n1110u_001:563	 indraketuriti tajjñānam | (132)
+T05D4005:183b-7	དབང་པོས་ཡུལ་རྟོགས་པ་ལྟར་ཡེ་ཤེས་དེས་ཆོས་ཉིད་རྟོགས་ཤིང་དེ་ཉིད་མཛེས་པས་ན་ཏོག་གོ་༎	T05n1110u_001:565	 yathendriyairviṣayāḥ parijñāyante,  tathā tajjñānena dharmatā'vagamyate tayā ca suśobhitatvāt sa keturiti |
+T05D4005:183b-8	རྒྱལ་མཚན་ནི་ཡོན་ཏན་ཏེ་ཐམས་ཅད་འཁོར་བ་ལས་རྒྱལ་བར་བྱེད་པའི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:567	 dhvaja iti tadguṇaḥ samastasattvebhyaḥ saṃsāravijayadāyakaguṇena yuktatvāt |
+T05D4005:183b-9	ལས་ནི་རྒྱལ་པོ་སྟེ་བྱ་བ་ཐམས་ཅད་མཛད་པའོ་༏	T05n1110u_001:568	 rājeti tatkarma,  yat sarva kṛtyaṃ niṣpādayati |
+T05D4005:184a-0	༄༡༨༤ཨ་༌་༎ དེ་ལ་རིན་ཆེན་ནི་ཡོན་ཏན་ནོ་༎	T05n1110u_001:619	 atra ratneti tadguṇaḥ |
+T05D4005:184a-1	པདམ་ནི་ཡེ་ཤེས་ཏེ་དྲི་མ་དང་བྲལ་བའོ་༎	T05n1110u_001:620	 padmeti tajjñānam,  yacca malarahitam |
+T05D4005:184a-10	ལ་ལ་ལས་ནི་ཟླ་བ་ཞེས་པ་ཡོད་དེ་དེ་ནི་ལས་སུ་ཤེས་པར་བྱ་སྟེ་།	T05n1110u_001:637	 kvaciccandra ityapyupalabhyate tena tatkarmeti jñātavyam |  kintu ( padmamiti )
+T05D4005:184a-12	རི་དབང་ནི་ཡེ་ཤེས་དང་ཡོན་ཏན་ཏེ་རིའི་རྒྱལ་པོ་ལྟར་མི་བསྒུལ་བའི་ཡེ་ཤེས་དང་ཡོན་ཏན་རི་རབ་ལྟ་བུའོ་༎	T05n1110u_001:641	 śailendreti tajjñānaṃ guṇaśca |  parvatarāja iva teṣāmacalaṃ jñānam,  merūriva ca tadguṇaḥ |
+T05D4005:184a-13	རྒྱལ་པོ་ནི་ལས་སོ་༎	T05n1110u_001:644	 rājeti tatkāritram |
+T05D4005:184a-14	དེ་ལ་སྒོ་གསུམ་དང་བས་ཕྱག་འཚལ་ལོ་༎	T05n1110u_001:645	 tebhyaḥ śraddhyā tribhiḥ ( kāyavākcittaiḥ )  namaskāro vidheyaḥ |
+T05D4005:184a-15	ཞེས་པ་ནི་ཚིག་གི་དོན་ཏོ་༎	T05n1110u_001:647	 ime ( sarve ) padārthāḥ |
+T05D4005:184a-16	འདི་དག་ནི་སྔོན་བྱོན་པ་སྟེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ནི་ལྟུང་བ་བྱུང་བ་མེད་ཅིང་བཅོས་མ་ཡིན་ལ་།	T05n1110u_001:648	 sarva eveme bodhisattvebhyaḥ aupacārikamātram āpattyabhāvāt |
+T05D4005:184a-17	མ་འོངས་པ་ལ་གདམས་པ་སྟེ་བསམས་ལ་བཤགས་པར་བྱའོ་༎	T05n1110u_001:649	 anāgatānāṃ kṛte'yamapavādaḥ |
+T05D4005:184a-18	དེ་ལྟར་ཕྱག་འཚལ་བ་བཤད་ནས་དེ་དག་གི་སྤྱན་སྔར་སྡིག་པ་བཤགས་ཏེ་།	T05n1110u_001:650	 ( evaṃ ) vicārayan pratideśayet |  taditthaṃ namaskāravyākhyānasamanantaramidānīṃ teṣāṃ sarveṣāṃ samakṣaṃ deśanā ( vidheyā ) |
+T05D4005:184a-19	དེ་ཡང་སངས་རྒྱས་དེ་དག་ལ་ཐུགས་གཏད་པར་གསོལ་བ་གདབ་པ་ནི་དེ་དག་ལ་སོགས་ཏེ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ་༎	T05n1110u_001:652	 tadarthameṣāṃ buddhānāṃ svābhimukhaṃ dhyānākarṣaṇārtha prārthanā 'evaṃ pramukhe' tyādinā kathitā |
+T05D4005:184a-2	ལས་ནི་རྣམ་པར་གནོན་པ་སྟེ་སྔ་མ་བཞིན་ནོ་༎	T05n1110u_001:622	 vikrāmīti tatkāritram,  pūrvavadasya vyākhyānam |
+T05D4005:184a-20	དེ་ལ་བདག་གིས་པུས་མོ་གཉིས་ས་ལ་བཙུགས་ལག་པ་སྤྱི་བོར་ཐལ་མོ་སྦྱར་ཏེ་གུས་པས་འདི་དག་བརྗོད་པས་བདག་གི་དབང་པོ་མཛད་པར་བསམ་མོ་༎	T05n1110u_001:653	 atra ( pratideśanā-kāle )  ātmanaḥ jānudvayaṃ bhūmau pratiṣṭhāpya hastābhyāṃ śirasi añjaliṃ baddhvā sādaraṃ ( pūrvoktaṃ )  kathayitvā tān svasākṣiṇaḥ avagacchet |
+T05D4005:184a-21	དེ་ལ་དེ་དག་ནི་སོ་སོ་ལྔ་པོ་དེ་དག་གོ་༎	T05n1110u_001:656	 atra evamiti pañcatriṃśad ( buddhā ) eva | (134)
+T05D4005:184a-22	དེ་ནི་གདུལ་བྱ་ལ་དགོངས་པ་སྟེ་།	T05n1110u_001:658	 ( evamiti ) anena vineyān prati dhyānākarṣaṇameva |
+T05D4005:184a-23	གཞན་ཡང་སོགས་པས་ནི་དེ་དག་ཀྱང་དབང་པོར་བྱས་པའོ་༎	T05n1110u_001:659	 anyatra ( pramukheti )  ādinā teṣāṃ sarveṣāṃ sākṣīkaraṇaṃ nāma |
+T05D4005:184a-24	ཤར་ལ་སོགས་པའི་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ཐམས་ཅད་དེ་ནམ་མཁའི་མཐར་ཐུག་པའི་སངས་རྒྱས་ཐམས་ཅད་དམིགས་པའོ་༎	T05n1110u_001:661	 pūrvetyādinā samastaloka ( vyāpinyaḥ )  daśadiśaḥ ( pradarśyante ) |  ākāśavyāpinaḥ sarve buddhā ālambanīyāḥ |
+T05D4005:184a-25	དེ་བཞིན་གཤེགས་པ་ལ་སོགས་པ་ནི་གོ་སླའོ་༎	T05n1110u_001:664	 tathāgatetyādīnāmarthaḥ sugamaḥ |
+T05D4005:184a-26	ཇི་སྙེད་ཅིག་ནི་བགྲང་བ་ལས་འདས་པའི་གྲངས་སོ་༎	T05n1110u_001:665	 'yāvantaḥ' iti saṃkhyāyā asaṃkhyeyatvamiti |
+T05D4005:184a-27	འཚོ་བ་ནི་ཐུགས་རྗེའི་སྤྱན་གྱིས་སེམས་ཅན་གཟིགས་ནས་སྐྱོང་བའོ་༎	T05n1110u_001:666	 'yāpayanti' iti mahākṛpayā ( sarvadā )  sattvānāmavalokanaṃ pālanaṃ ceti |  'dhriyante' 'tiṣṭhanti' iti yāvatsaṃsāramavasthānam |
+T05D4005:184a-3	བྱང་ཕྱོགས་རིན་པོ་ཆེའི་ཞིང་ན་།	T05n1110u_001:624	 (35) uttaradiśāyāṃ ratna ( bhūmibuddha )
+T05D4005:184a-5	དེའི་གདན་པདམ་དང་སེང་གེ་དང་རིན་པོ་ཆེ་དང་ཟླ་བའོ་༎	T05n1110u_001:626	 padmaṃ siṃhaḥ ratnaṃ candraśca teṣāmāsanam |
+T05D4005:184a-6	ནམ་མཁའ་ལྟར་སྔོ་བ་ཕྱག་གཉིས་ཀྱིས་རི་རབ་བཏེག་པ་སྤྱན་དྲངས་ཏེ་བཤགས་ལ་།	T05n1110u_001:628	 ākāśavannīlam |  sa hastābhyāṃ merūparvatamutthāpya dhārayati |
+T05D4005:184a-7	སྒྲུབ་པ་པོས་ནི་དེ་ལྟར་བསམས་ལ་བཤགས་སོ་༎	T05n1110u_001:630	 ( anena prakāreṇa )  āvāhanaṃ kṛtvā pratideśanā karaṇīyā |  sādhakaḥ tathā ( saparivārān sarvabuddhān sammukhasthān )  viditvā pratideśayet |
+T05D4005:184a-8	དེ་བཞིན་གཤེགས་པ་ལ་སོགས་པ་ནི་སྔ་མ་ལྟར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:634	 tathāgatetyādipadānāmarthaḥ pūrvavadavagantavyaḥ |
+T05D4005:184a-9	དེ་ལ་རིན་པོ་ཆེ་པདམ་སྟེ་དེས་ནི་གདན་གྱི་ཡོན་ཏན་དང་ལས་དང་ཡེ་ཤེས་བཤད་དེ་གཞན་ལས་གདན་འདི་ཤེས་པར་བྱའོ་༎	T05n1110u_001:635	 atra ratna padmetyādyāsanaiḥ tadguṇaḥ kārya jñānaṃ ca pradarśyante |  atra anyebhya eteṣāmāsana ( vaiśiṣṭayamapi ) jñātavyam |
+T05D4005:184b-1	བཅོམ་ལྡན་འདས་ནི་སྐལ་བ་དང་ལྡན་ཞིང་བདུད་བཞི་བཅོམ་པའོ་༎	T05n1110u_001:669	 bhagavanta iti saubhāgyaśālitvaṃ caturmāradamanaṃ ceti |
+T05D4005:184b-11	ཐོག་མ་མེད་པ་ནི་སྤྱིར་དགོངས་པ་འཁོར་བའི་སེམས་ཅན་ནམ་མཁའ་ལྟར་མཐའ་ཡས་པའོ་༎	T05n1110u_001:678	 anādikāla iti sāmānyatayā sāṃsārikāṇāṃ jīvānāmākāśavadanantatvaṃ nāma |
+T05D4005:184b-12	དེ་དག་ཏུ་འཁོར་བ་ནི་ཟོ་ཆུན་གྱི་འཁྲུལ་འཁོར་ལྟར་ཡང་ནས་ཡང་དུ་འབྱུང་ཞིང་འཇིག་པའོ་༎	T05n1110u_001:679	 tatra saṃsaraṇamiti cakravat punaḥ punarūtpādavinaṣṭatvamiti |
+T05D4005:184b-13	དེ་ཡང་ཚེ་རབས་སྔ་མ་ལ་སོགས་པར་འཁོར་བ་བཞིན་འདི་དང་ཕྱིས་སོ་༎	T05n1110u_001:680	 tadapi yathā pūrvajanmasu saṃsaraṇaṃ tathaiva iha janmanyanāgate cāpi janmani ( saṃsaraṇam ) iti |
+T05D4005:184b-14	སྐྱེ་གནས་གཞན་ནི་བྱོལ་སོང་ལ་སོགས་པ་དྲུག་པོའི་མངལ་ལ་སོགས་པར་རོ་༎	T05n1110u_001:681	 'anyāsu vā jātiṣu' ityanena tiryagādiṣaḍyoniṣu ( janmagrahaṇaṃ pradarśitam ) |
+T05D4005:184b-15	གསུམ་པ་རང་གི་ངོ་བོའི་སྒོ་ནས་སྡིག་པ་བཤགས་པ་ནི་། སྡིག་པ་ཞེས་བྱ་བ་ལ་སོགས་པའོ་༎	T05n1110u_001:682	 tṛtīyaḥ khalu svabhāvena svapāpadeśanamittham- ' pāpakam' ityādinā |
+T05D4005:184b-17	དེ་ཡང་བདག་གིས་སྡིག་པ་འདི་ཙམ་ཞིག་བྱས་པ་ཞེས་འགྱོད་དེ་།	T05n1110u_001:683	 tadapi 'mayā adya yāvad etāvat pāpaṃ kṛtam' ityevaṃ vipratisārapūrvakaṃ mānasikaṃ khedaṃ prakaṭayan deśanā kartavyā- ayamevāsyārthaḥ |
+T05D4005:184b-2	དེ་དག་ཐམས་ཅད་ནི་སོ་ལྔ་ལ་སོགས་པའོ་༎	T05n1110u_001:670	 'te' iti sarve pañcatriṃśad ( buddha- ) ādayaḥ |
+T05D4005:184b-3	བདག་ཅེས་པ་ནི་དང་བོའི་མིང་བརྗོད་པར་བྱའོ་༎	T05n1110u_001:671	 'mām' ityatra svanāmoccāraṇaṃ kartavyam |
+T05D4005:184b-4	ཐུགས་མི་འགྱུར་བར་གསོལ་བ་གདབ་བ་ནི་དགོངས་སུ་གསོལ་བའོ་༎	T05n1110u_001:672	 'samanvāharatu' ityanena cittānyathātvaṃ na bhavedityetadartham adhyeṣaṇā |
+T05D4005:184b-5	གཉིས་པ་བཤགས་པ་རང་གི་ངོ་བོ་ལ་དུས་ཀྱི་སྒོ་ནས་བསྟན་པ་ནི་། བདག་གི་སྐྱེ་བ་ཞེས་བྱ་བ་ལ་སོགས་པའོ་༎	T05n1110u_001:673	 dvitīyadeśanāyāḥ kāladṛṣṭyā nirdeśaṃ kartu 'mayā ( asyāṃ )  jātau' ityādikamabhihitam |
+T05D4005:184b-7	བདག་གི་དུས་འདི་ཙམ་དུ་སྡིག་པ་བྱས་སོ་ཞེས་སེམས་ལ་བསམས་ནས་འགྱོད་པ་བསྐྱེད་པའོ་༎ དེ་ལ་སྐྱེ་བ་འདི་ནི་དུས་འདིར་སྡིག་པ་བྱས་པ་དྲན་པར་བྱའོ་༎	T05n1110u_001:675	 'mayā' etāvatkālaparyantametāvat pāpaṃ kṛtam ityevaṃ manasi vicintya kaukṛtyamanubhavitavyam |  atra 'asyāṃ jātau' iti iha janmani kṛtapāpānāṃ smaraṇamiti |
+T05D4005:184b-9	དེས་མཚོན་ནས་སྐྱེ་བ་ཐོག་མ་མེད་པ་སྟེ་སྔ་མ་འདས་པ་ནས་དཔག་ཏུ་མེད་པ་སྟེ་། འཁོར་བ་ཐོག་མ་མེད་པའི་དུས་ཅན་ནོ་༎	T05n1110u_001:677	 tataḥ pūrvamatītamupādāyāparimitānādikālaparyantaṃ saṃsāraḥ |
+T05D4005:185a-11	དེ་ཡང་སྡུག་བསྔལ་དང་བར་དོ་མེད་པར་ཡིན་ཏེ་།	T05n1110u_001:718	 tānyapi ( ato hetoḥ )  ānantaryāṇi ( yataḥ )  teṣāṃ ( phalarūpeṇa prāptānāṃ )  duḥkhānāṃ madhye na bhavatyantarālaḥ,
+T05D4005:185a-12	འདིའི་སྡིག་པའི་འབྲས་བུ་ལ་ནི་ཚད་མེད་དོ་༎	T05n1110u_001:722	 na ca bhavati pāpatatphalānāṃ kaścit sīmā |
+T05D4005:185a-13	ཉེས་པ་མེད་པ་དང་ཆུང་བ་ཡང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:723	 sahaiva nirdoṣatvamalpadoṣatvaṃ cāpi jñātavyam |
+T05D4005:185a-14	གཞན་ཡང་གཞན་དག་སྲོག་གཅོད་པ་ལ་སོགས་པ་བཅུ་བླངས་པ་དེའི་ཟླ་ལ་ཐེ་ཚོམ་མེད་པར་བདག་ཞུགས་པ་ཡང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:724	 api ca, paraprāṇātipātādīnāṃ daśakuśalānāṃ kartā ( purūṣaḥ )  tasminneva māse niḥsaṃkocaṃ pratideśanāyāṃ praviśedityapi jñeyam |
+T05D4005:185a-15	དེ་དག་གི་ཉེས་དམིགས་ཀྱི་སྒོ་ནས་བསྟན་པ་ནི་ལས་ཀྱི་སྒྲིབ་པ་ལ་སོགས་པའོ་༎	T05n1110u_001:726	 imān ādīnavān nirdeṣṭuṃ karmāvaraṇānītyuktāni | (136)
+T05D4005:185a-16	དེ་ཡང་རྣམ་པར་སྨིན་པ་འདི་ལྟ་བུ་ཚ་བ་ཡིན་ལ་བསམས་ཏེ་། རང་གི་སེམས་སུན་བཏོན་ལ་༎ ཤིན་ཏུ་འགྱོད་པས་བཤགས་པར་བྱའོ་ཞེས་བྱ་བ་ནི་ངག་གི་དོན་ཏོ་༎	T05n1110u_001:728	 tathā hi- ityevaṃ dāhakarān vipākān anuvicintya svacittadoṣān apasārayan atyantaṃ vipratisāreṇa saha pratideśayet |  ayameva tāvad vākyārthaḥ |
+T05D4005:185a-19	དེ་ཡང་ལས་དེ་དག་གིས་བསྒྲིབས་པ་ནི་ཡེ་ཤེས་མི་གསལ་བར་བྱས་པའོ་༎	T05n1110u_001:730	 atrāpi eteṣāṃ karmaṇāmāvaraṇasya tātparya jñānasya spaṣṭatāyā bādhakamiti |
+T05D4005:185a-2	དེ་དག་ནི་སྤྱི་ཡིན་ནོ་༎	T05n1110u_001:706	 imāni sāmānyataḥ sarvasādhāraṇāni |
+T05D4005:185a-20	དེ་དག་གི་རྣམ་པར་སྨིན་པ་ཅིར་འགྱུར་ཞེ་ན་།	T05n1110u_001:731	 kathameṣāṃ vipākaḥ?
+T05D4005:185a-21	སེམས་ཅན་དམྱལ་བ་ལ་སོགས་པའི་མི་ཁོམ་པ་བརྒྱད་དེ་།	T05n1110u_001:732	 nārakīyasattvādayo'ṣṭābhirakṣaṇaiḥ samanvitā bhavanti,  ( yato hyasyāmavasthāyāṃ )
+T05D4005:185a-22	དམ་པའི་ཆོས་ཀྱི་གོ་སྐབས་མེད་ལ་།	T05n1110u_001:734	 nāsti saddharmācaraṇasyāvasaraḥ |
+T05D4005:185a-23	ལ་ལ་དེ་ལྟར་སྡུག་བསྔལ་དང་བཅས་ལ་།	T05n1110u_001:735	 kecana tadānīntanairduḥkhai ( pīḍitā bhavanti )
+T05D4005:185a-24	ལ་ལ་ཕྱིས་འགྱུར་བས་མི་ཁོམ་པ་སྟེ་དལ་འབྱོར་མེད་པའོ་༎	T05n1110u_001:736	 , kecana paścāttanairiti |  ittham avasarābhāvānnāsti teṣāṃ kṝte kṣaṇasampat |  teṣu ( prathamaḥ )
+T05D4005:185a-25	དེ་ལ་དམྱལ་བ་ནི་ཤིན་ཏུ་སྡུག་བསྔལ་བ་སྟེ་ཕལ་པོ་ཆེ་དང་ཁ་འཐོར་བའོ་༎	T05n1110u_001:739	 tāvannaraka ātyantikairduḥkhairanvitaḥ |  ( te'pi dvividhāḥ- )  bhūyiṣṭhā abhūyiṣṭhāśca |
+T05D4005:185a-26	དེ་ལ་དང་པོ་ནི་ཚ་བ་དང་གྲང་བས་བཅུ་དྲུག་གོ་༎	T05n1110u_001:742	 tayoḥ prathame tāvat śītāḥ ( aṣṭau narakāḥ, aṣṭau ca )  uṣṇā ityevaṃ ṣoḍaśadhā bhavanti (137)
+T05D4005:185a-27	གཉིས་པ་ནི་གནས་ཀྱིས་གཉིས་ཏེ་།	T05n1110u_001:745	 ( narakāḥ ) | dvitīyataśca sthāna-dṛṣṭyā ceme bhavanti dviprakārakāḥ |
+T05D4005:185a-28	འདི་དག་ནི་མདོ་དྲན་པ་ཉེ་བར་གཞག་པ་ཆེན་པོ་ལས་ཤེས་པར་བྱ་སྟེ་།	T05n1110u_001:746	 sarve ime mahāsmṛtyupasthānasūtrānusāramavagantavyāḥ |
+T05D4005:185a-29	ལས་ངན་པ་ཤིན་ཏུ་ཆེ་བའི་འབྲས་བུ་ཡིན་ནོ་༎	T05n1110u_001:747	 ( sarve tāvadime narakā )  kṛtātimātraduṣṭakarmaṇāṃ phalāni |
+T05D4005:185a-3	བྱེ་བྲག་ནི་མ་བྱིན་པར་ལེན་པ་ལ་སོགས་པའི་ནང་ནས་ལྕི་བ་ལྔ་ལས་འདིར་གསུམ་སྟེ་།	T05n1110u_001:707	 viśeṣataḥ adattādānādiṣu gurūtareṣu pañcasu atra trīṇyeva nirdiṣṭāni |
+T05D4005:185a-30	དུད་འགྲོ་ནི་མི་ཤེས་པ་སྟེ་།	T05n1110u_001:749	 tiryañco'jñānino bhavanti |
+T05D4005:185a-31	དེའི་སྐྱེ་བའི་གནས་ནི་མངལ་ནས་སྐྱེ་བ་ལ་སོགས་པའོ་༎	T05n1110u_001:750	 te jarāyujādiyoniṣu sambhavanti |
+T05D4005:185a-32	དེ་ཡང་གཉིས་ཏེ་།	T05n1110u_001:752	 api dvividhā bhavanti |
+T05D4005:185a-33	དབྱིབས་ཀྱིས་ནི་བཞིའོ་༎	T05n1110u_001:753	 ākāreṇa tāvaccaturvidhāḥ |
+T05D4005:185a-34	དེ་ནི་ཐ་མའིའོ་༎	T05n1110u_001:754	 te cādhamayonijāḥ |
+T05D4005:185a-35	ལས་བར་མ་ནི་ཡི་དགས་ཏེ་ཟས་ལ་སོགས་པ་བཟའ་བ་ལ་སོགས་པ་འདོད་ལ་དེ་མེད་པ་སྟེ་།	T05n1110u_001:755	 madhyamakarmikāstāvat pretāḥ |  iṣyamāṇānyapyannādikāni tairnopalabhyante |
+T05D4005:185a-4	སེམས་ཅན་གྱི་དོན་དུ་མཆོད་རྟེན་བརྒྱད་པོའི་གསེར་ལ་སོགས་པའི་ནོར་རོ་༎	T05n1110u_001:708	 sattvahitāya aṣṭavidhacaityeṣu samarpitaṃ suvarṇādikaṃ tāvad dhanaṃ ( staupikam ) iti |
+T05D4005:185a-5	དགེ་འདུན་ནི་མི་ཕྱེད་པ་སྟེ་།	T05n1110u_001:709	 saṃghaḥ abhedyatvāt |
+T05D4005:185a-6	བྱང་ཆུབ་སེམས་དཔའ་དང་ཉན་ཐོས་ཀྱིས་ཕྱེ་བའོ་༎ དེ་ཡང་དང་པོ་ནི་གཉིས་ལ་སོགས་པའིའོ་༎ གཉིས་པ་ནི་དགེ་སློང་བཞི་ལ་སོགས་པའོ་༎ དེ་བས་ཀྱང་ལྕི་བ་ནི་ཕྱོགས་བཞིའི་དགེ་འདུན་ལ་སོགས་པའི་མགྲོན་པོ་ལ་སོགས་པའི་ནོར་རྐུ་བ་དང་དངོས་སུ་འཕྲོག་པའོ་༎ ཤིན་ཏུ་ལྕི་བ་ནི་མཚམས་མེད་པ་ལྔའོ་༎	T05n1110u_001:712	 saṃghe ( bodhisattvānāṃ )  dvayamityādi ( āvaśyakam ) |  dvitīye ( śrāvakasaṃghe )  caturṇā bhikṣūṇāṃ ( sāmagryaṃ ) āvaśyakam |  atyantaṃ gurūtarāṇi pañcānantaryāṇi ( karmaṇi ) bhavanti |
+T05D4005:185b-1	གཤིན་རྗེའི་འཇིག་རྟེན་ནོ་༎	T05n1110u_001:757	 duṣṭo yamalokasteṣāṃ sthānam |
+T05D4005:185b-10	ཀླ་ཀློ་ནི་གླེན་ཞིང་རྨུགས་པའི་རང་བཞིན་ཏེ་སྐད་བཟང་པོ་མེད་པ་ལ་སོགས་པ་མི་ཤེས་པའོ་༎	T05n1110u_001:767	 mlecchā ityajñānino mūḍāḥ kutsitabhāṣā bhāṣiṇaśca |
+T05D4005:185b-11	ཡང་ན་ཡུལ་མཐའ་འཁོབ་ཀྱི་ཀླ་ཀློ་ཞེས་པ་ལ་དག་བྱེད་དོ་༎	T05n1110u_001:768	 athavā pratyantā mlecchā ityapi kecid abhiprayanti |
+T05D4005:185b-12	དེ་དག་རྒྱུ་དེས་ལས་ངན་པ་བྱེད་པས་ངན་སོང་དུ་འགྲོ་བའོ་༎	T05n1110u_001:769	 te'pyanena duṣkarmaṇāṃ sampādanena durgatiṣu gacchanti |
+T05D4005:185b-13	ལྷ་ཚེ་རིང་པོ་ནི་བསོད་ནམས་ཆེ་ཞིང་ང་རྒྱལ་ཆེ་བ་སྟེ་བ་སྐལ་པ་དཔག་ཏུ་མེད་པར་གནས་པ་ལྟ་བ་ལོག་པ་གཟུགས་ཀྱི་ཁམས་ཀྱི་གནས་ནའོ་༎	T05n1110u_001:770	 dīrghāyuṣo devā bahulapuṇyatvena saha gādāhaṅkāriṇo bhavanti |  te'parimitakālaṃ yāvattatra tiṣṭhanti |  te mithyādṛṣṭayo'pi bhavanti,  prāyaśo rūpadhātau nivāsaṃ kurvanti |
+T05D4005:185b-14	ཡང་ན་འགོག་པ་ངན་པ་སྦྱངས་པས་འདུ་ཤེས་འགོག་པ་ཡིན་ནོ་ཞེས་ཀྱང་འཆད་དོ་༎	T05n1110u_001:774	 athavā duṣṭasya ( cittasya )  nirodhābhyāsaṃ kṛtvā nirodhasaṃjñino ( asaṃjñinaḥ )  bhavantītyapyucyate |
+T05D4005:185b-15	དེ་ཤི་ནས་དམྱལ་བར་འགྱུར་རོ་༎	T05n1110u_001:777	 sarve te paścānmaraṇād narakeṣu gacchanti |
+T05D4005:185b-16	མིར་སྐྱེས་ན་གཟུགས་ལ་སོགས་པ་ལ་དབང་བྱེད་པའི་མིག་ལ་སོགས་པའི་དབང་པོ་ལྔ་འམ་དྲུག་པ་ལ་སྐྱོན་ཞུགས་པས་དམ་པའི་ཆོས་ཀྱི་སྐལ་བ་མེད་པ་ཡིན་ཏེ་།	T05n1110u_001:778	 ( daivāt ) manuṣyayonāvapi janmasambhave rūpādyādhipatyakāriṣu cakṣurādipañcasu ṣaṭsu vendriyeṣu doṣasadbhāvātte saddharmārthasya na jñātāro bhāgyavantaśca na bhavantu |
+T05D4005:185b-17	གཅིག་དང་། གཉིས་དང་། གསུམ་དང་། བཞི་དང་། ལྔ་དང་། དྲུག་ཀ་མ་ཚང་བ་སྲིད་དོ་༎	T05n1110u_001:779	 teṣu ekasya dvayostrayāṇāṃ caturṇāṃ pañcāṇāṃ ṣaṇṇāṃ va ( indriyāṇāṃ )  vikalatvaṃ sambhāvyate |
+T05D4005:185b-18	ཤིན་ཏུ་ཡིད་ཀྱི་དབང་པོ་ལ་སྐྱོན་ཞུགས་པ་ནི་ངན་པའོ་༎	T05n1110u_001:781	 ( teṣu ) mānasendriye doṣāvasthānamatyantaṃ durbhāgyakaram |
+T05D4005:185b-19	ཡང་དག་པའི་ལྟ་བ་དང་བྲལ་བ་སྟེ་སངས་རྒྱས་ལ་སོགས་པ་མེད་དོ་ཞེས་སེམས་པ་ལྟ་བ་ཕྱིན་ཅི་ལོག་ནི་ཆད་པར་ལྟ་བ་སྟེ་།	T05n1110u_001:782	 samyagdṛṣṭivikalānāṃ sattvānāṃ 'na santi buddhādayaḥ' ityadhvavasāyinī viparītadṛṣṭireva ucchedadṛṣṭiḥ |
+T05D4005:185b-2	དེ་ཡང་གཉིས་སུ་ཤེས་པར་བྱའོ་༎	T05n1110u_001:758	 te'pi dvidhā jñātavyāḥ |
+T05D4005:185b-20	མི་དགེ་བ་ཐམས་ཅད་པས་ལྕི་བའོ་༎	T05n1110u_001:783	 iyaṃ sarvākuśaleṣu mahāsāvadyā gurūtarā |
+T05D4005:185b-21	གཞན་པ་རྟག་པར་ལྟ་བ་ལ་སོགས་པ་ཡང་ངོ་༎	T05n1110u_001:784	 śāśvatādyanyadṛṣṭayo'pi ( mithyādṛṣṭayaḥ ) santi | (138)
+T05D4005:185b-22	དེ་ལྟར་ན་བརྒྱད་དོ་༎	T05n1110u_001:786	 ityevamaṣṭau bhavanti ( akṣaṇāḥ ) |
+T05D4005:185b-23	སངས་རྒྱས་འབྱུང་བ་ནི་སྤྱིར་ཡིན་ཏེ་།	T05n1110u_001:787	 buddhānāṃ ( loke )  prādurbhāvaḥ sāmānyena bhavati,
+T05D4005:185b-24	དེ་འཇིག་རྟེན་དུ་བྱོན་པ་ལ་ཕྱག་ལ་སོགས་པ་མི་བྱེད་པར་སྐུར་པ་འདེབས་པའོ་༎	T05n1110u_001:789	 tathāpi te buddhasya ( loke )  āgamanakāle na kevalaṃ nasmakārādikaṃ na kurvantyapitu apavādamapi kurvanti |
+T05D4005:185b-25	ཡང་དེས་མཚོན་ནས་སངས་རྒྱས་མེད་པའི་གནས་སུ་སྐྱེས་པ་ནི་བརྒྱད་པའོ་༎	T05n1110u_001:791	 api ca, idamevābhilakṣya buddhaśūnye sthāne janmāpi aṣṭamaḥ ( akṣaṇaḥ ) |
+T05D4005:185b-26	དེ་ལྟར་རང་གི་ངོ་བོ་བསྟན་ནས་།	T05n1110u_001:792	 itthaṃ ( pāpānāṃ )  svarūpamabhidhāya kasmin viṣaye ( sthāne )
+T05D4005:185b-27	ཡུལ་གང་ལ་བཤགས་པ་ནི་སངས་རྒྱས་ཞེས་བྱ་བ་ལ་སོགས་པ་སྟེ་འདི་ཁོ་ན་དབང་པོ་བཟང་པོ་ཡིན་གྱི་གཞན་ནི་མ་ཡིན་ནོ་༎	T05n1110u_001:794	 pratideśayitavyamitīdaṃ 'buddhe' tyādinā'bhidhīyate |  sa eva samyak sākṣī, na tvanyaḥ |
+T05D4005:185b-28	དེ་ལ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ནི་ཤའཀྱ་ཐུབ་པ་ལ་སོགས་པ་དེ་རྣམས་སོ་༎	T05n1110u_001:796	 atra bhagavān buddha iti śākyamunirityevamādayaḥ |
+T05D4005:185b-29	དེ་དག་ནི་ཐམས་ཅད་མཁྱེན་པས་ན་ཡེ་ཤེས་སོ་༎	T05n1110u_001:797	 sarvajñatvātte jñānabhūtāḥ,
+T05D4005:185b-3	ཡང་ན་ངན་སོང་གསུམ་པོ་དེ་དག་གི་རྒྱུ་ནི་ཕལ་ཆེར་སྲོག་གཅོད་པ་དང་སེར་སྣ་དང་གཏི་མུག་ལས་ཤེས་པར་བྱའོ་༎	T05n1110u_001:759	 etāsāṃ tisṛṇāṃ durgatīnāṃ hetavaḥ prāyeṇa prāṇātipāta-matsara- mohajādikarmāṇītyavagantavyāḥ |
+T05D4005:185b-4	གསུམ་པོ་དེ་དག་ནི་ངན་པར་སོང་བ་ཡིན་ནོ་༎	T05n1110u_001:760	 ata ime trayaḥ 'durgatayaḥ' ityucyante |
+T05D4005:185b-5	ལས་ངན་པ་ཤིན་ཏུ་ཆུང་བ་ནི་ཡུལ་མཐའ་འཁོབ་ལ་སོགས་པ་སྟེ་།	T05n1110u_001:761	 antataśca laghūnāṃ duṣkarmāṇāṃ phalaṃ pratyantapradeśe ( janma ) |
+T05D4005:185b-6	མི་དང་ལྷའི་ནང་ནས་མི་ཁོམ་པ་ཡིན་ནོ་༎	T05n1110u_001:762	 ima eva manuṣyadeveṣūpapannāanāmakṣaṇāḥ |
+T05D4005:185b-7	ངན་པ་འདི་དག་ནི་ངན་འགྲོ་ཡིན་ནོ་༎ མཐའ་འཁོབ་ནི་ཡུལ་གང་ན་ཆོས་ལ་སོགས་པ་མེད་པ་སྟེ་།	T05n1110u_001:763	 duṣṭagatijanakatvād durgatayaḥ |  yasmin pradeśe dharmādīnāṃ ( sarvathā )  abhāvaḥ sa pratyantaḥ ( pradeśaḥ ) |
+T05D4005:185b-9	ཡུལ་གྱི་མཐའོ་༎	T05n1110u_001:766	 deśagato'yaṃ pratyantaḥ |
+T05D4005:186a-1	ལས་ལ་སོགས་པ་གསལ་བར་རྟོགས་པས་ན་སྤྱན་ནོ་༎ དབང་པོ་ནི་ལེགས་པ་དང་ཉེས་པའི་ཁྱད་པར་ཐུགས་སུ་ཆུད་པའོ་༎	T05n1110u_001:798	 śubhāśubhānā suspaṣṭāvagamād 'cakṣurbhūtāḥ' |  sākṣibhūtā iti śubhāśubhayorviśesyāvabodhakā iti |
+T05D4005:186a-10	འཆགས་པ་ནི་ཡིད་ཀྱིས་སོ་སོར་རོ་༎	T05n1110u_001:810	 ( deśanā apraticchādaneti )  manasā pṛthakśaḥ pratideśaneti |
+T05D4005:186a-11	ཉེས་པ་དེ་ཁས་ལེན་པས་ཞི་ལ་མི་འཆབ་པའོ་༎	T05n1110u_001:812	 imameva ( arthaṃ )  svīkṛtya vākye 'apraticchādanam' iti |
+T05D4005:186a-12	མི་སྦེད་པ་ནི་དངོས་སུ་སྟེ་།	T05n1110u_001:814	 'na praticchādayāmi' iti viśadīkaromītyarthaḥ |
+T05D4005:186a-13	དེ་བཞིན་གཤེགས་ན་དག་པར་འགྱུར་རོ་༎	T05n1110u_001:815	 evaṃvidhayā pratideśanayā ( sarvebhyaḥ pāpebhyaḥ )  viśuddhibhīvaṣyati |
+T05D4005:186a-14	དེ་ལྟར་སྟོབས་གཉིས་བསྟན་ནས་། དེ་ནི་ཉེས་པ་ལས་ཀུན་ཏུ་ལྡོག་པའི་སྟོབས་ཀྱིས་སྡིག་པ་བཤགས་པ་ནི་སླན་ཆད་ཀྱང་གཅོད་ཅིང་སྡོམ་པར་བགྱིད་ལགས་སོ་ཞེས་གསུངས་སོ་༎	T05n1110u_001:817	 evaṃ baladvayaṃ pradarśya samprati pratyāpattibalena pāpadeśanārtham “āyatyāṃ saṃvaramāpadye“ ityuktam |
+T05D4005:186a-16	དེ་ཡང་སྔར་གྱི་འགྱོད་ཅིང་།	T05n1110u_001:818	 tadapi paurvikaṃ ( pūrvakalakṛtaṃ pāpakarma saṃsmṛtya )
+T05D4005:186a-17	ད་ལྟར་གྱི་འཆགས་ལ་།	T05n1110u_001:820	 idānīṃ pratideśayati,
+T05D4005:186a-18	ཕྱིས་མི་བྱེད་པ་ནི་དམ་པ་ཡིན་ལ་།	T05n1110u_001:821	 anāgate ( pāpasya )  akaraṇaṃ pratijānāti |
+T05D4005:186a-19	བཤགས་ཀྱར་བྱས་ན་སླར་འཕེལ་བར་འགྱུར་བས་ན་ནད་ལ་གནོད་པ་ན་བཟའ་བཏུང་ལྟར་མཚམས་གཅད་པར་བྱའོ་༎	T05n1110u_001:824	 yadi punaḥ ( pāpa- )  ācaraṇaṃ kriyeta tadā pāpavṛddhireva syāt |  yathā ( bhojanodakādinā yadi )  rogeṇa hānirbhavet tadā samprati bhojanodakādikam avarodhanīyam |
+T05D4005:186a-20	དེ་ཕན་ཆད་ཀྱང་མི་དགེ་བ་བཅུ་ལ་སོགས་པའི་ཉེས་པ་རྣམས་རྒྱུན་གཅོད་ཅིང་ཕྱིས་མི་བྱེད་པར་བསྡམས་ཏེ་དེས་ནི་སྡིག་པ་དག་པར་འགྱུར་རོ་༎	T05n1110u_001:828	 ato'nantaramapi daśa akuśalādidoṣaṇāṃ pravāho vicchedanīyaḥ,  anāgate ca ( evaṃvidhaṃ pāpaṃ )  anācarituṃ saṃvaraḥ pratijñā vā grahaṇīyā |  ( anena vidhinā samastānāṃ )  pāpānāṃ viśuddhirbhaviṣyati | (139)
+T05D4005:186a-21	དེ་ལྟར་སྟོབས་གསུམ་པ་བསྟན་ནས་ད་ནི་གཉེན་པོ་ཀུན་དུ་སྤྱོད་པའི་སྟོབས་ནི་སངས་རྒྱས་ཞེས་བྱ་བ་ལ་སོགས་པའོ་༎	T05n1110u_001:834	 ityevaṃ balatrayaṃ pradarśya samprati caturthasya pratipakṣasamudācārabalasya pratipādanārtham 'buddhāḥ' ityādikam ( uktam ) |
+T05D4005:186a-22	དེ་ལ་སྡིག་པ་དེ་དག་སླར་མི་འཕེལ་ཞིང་ཚོགས་བསགས་པའི་དོན་དུ་རྒྱུད་ལ་དགེ་བ་བསྟན་པ་ནི་སྨན་ལྟ་བུར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:835	 atra sarveṣāṃ pāpānāṃ puna punaḥ vṛddhirodhanārtha puṇyasaṃcayārtha ca santatisthakuśalasya pradarśanaṃ tāvadauṣadhiriva jñeyam |
+T05D4005:186a-23	དེ་ལ་བསྔོ་བ་ལ་སོགས་པ་ཐམས་ཅད་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལ་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་དང་ལྡན་ལ་།	T05n1110u_001:836	 atra bodhisattvasya samastāḥ pariṇāmanāḥ ṣaṭpāramitāpratisaṃyuktā bhavanti |
+T05D4005:186a-24	དེས་ཟིན་དགོས་པས་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་དང་འདྲ་བ་ཡིན་ལ་དེ་ཡང་གཉིས་སོ་༎	T05n1110u_001:837	 ābhiḥ parigṛhītatvādimāḥ pāramitāsadṛśā eva |  sā ( pariṇāmanā )  api dvividhā |
+T05D4005:186a-25	དེ་ལ་བླ་ན་ཡོད་པ་ནི་ཀུན་དང་མཐུན་པ་སྟེ་༏	T05n1110u_001:840	 tatra sottarā sarvānukūlā |  te ( pariṇāmanākartrā )
+T05D4005:186a-26	དེ་ནི་སྐྱེ་བ་བཟང་པོ་བླངས་པར་ཡང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:842	 bhadraṃ janma labdhamityapi jñātavyam |
+T05D4005:186a-27	དེ་ལ་ཁམས་གསུམ་གྱི་སྐྱེ་གནས་ཏེ་ལྷ་དང་མི་དག་ཏུའོ་༎	T05n1110u_001:843	 traidhātukayoniṣu sa devo manuṣyādirveti |
+T05D4005:186a-28	སྦྱིན་བ་དང་མཐུན་པ་ནི་སྦྱིན་པའི་ཐ་མ་སྟེ་།	T05n1110u_001:844	 “dānaṃ ...antaśaḥ“ iti dānānukūlyam |
+T05D4005:186a-29	དེས་མཆོག་ཀྱང་ཤེས་པར་བྱའོ་༎	T05n1110u_001:845	 tatrottamamapi ( dānaṃ ) jñātavyam |
+T05D4005:186a-3	ཚིག་ལ་སོགས་པ་འཁྲུལ་བ་མེད་པས་ན་ཚད་མ་སྟེ་མི་སླུ་བའོ་༎	T05n1110u_001:800	 śabdabhrānterabhāvātte pramāṇabhūtāḥ,  avisaṃvādakā ityarthaḥ |
+T05D4005:186a-30	དུད་འགྲོའི་སྐྱེ་གནས་ནི་ཁྱི་ལ་སོགས་པའོ་༎	T05n1110u_001:846	 tiryagyoniriti śvānādayaḥ |
+T05D4005:186a-4	ཐུགས་ཀྱིས་ཐམས་ཅད་མཁྱེན་པས་ན་མཁྱེན་པའོ་༎ ཤེས་རབ་ཀྱི་སྤྱན་གྱིས་ཐམས་ཅད་གཟིགས་པས་ན་གཟིགས་པའོ་༎	T05n1110u_001:802	 manojñānena sarvajñātṛtvātte jñatāraḥ |  prajñācakṣuṣā sarvadarśakattvātte vipaśyakāḥ ( vidarśakāḥ ) iti |
+T05D4005:186a-6	སྤྱན་སྔར་ནི་ད་ལྟར་མདུན་དུའོ་༎	T05n1110u_001:804	 'agrataḥ' ityanena sāmpratikaḥ svasammukhībhāvaḥ |
+T05D4005:186a-7	ཚུལ་ཇི་ལྟར་བཤགས་པ་ནི་མཐོལ་བ་ལ་སོགས་པ་སྟེ་།	T05n1110u_001:805	 kena vidhinā pratideśayitavyam ?  'āviṣkaromi' ityādinā |
+T05D4005:186a-8	ཡང་དག་པར་ཡིན་གྱི་ངག་འཁྱལ་ལ་སོགས་པ་ནི་མ་ཡིན་ནོ་༎	T05n1110u_001:807	 arthāt samyaktayedaṃ ( kathanaṃ )  na tu sampralāpādirūpeṇa |
+T05D4005:186a-9	དེ་ལ་ངག་གིས་བརྗོད་པ་ནི་མཐོལ་བའོ་༎	T05n1110u_001:809	 atra vacanena vyāharaṇamevāviṣkaraṇām |
+T05D4005:186b-0	དེ་ནི་ཡུལ་ཆུང་བ་སྟེ་ཆེན་པོ་ཡང་གཟུང་༄༡༨༦བ་ངོ་༏	T05n1110u_001:847	 laghugocaro'yam mahattamo'pi grahaṇīyaḥ |  “ālopaḥ“ iti laghu vastu,  mahadapi jñātavyam |
+T05D4005:186b-10	བསམ་གཏན་དང་མཐུན་པ་ནི་སྨོན་པ་དང་འཇུག་པ་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ་སྟེ་།	T05n1110u_001:859	 dhyānānukūlyena praṇidhi-prasthānau ( cittotpādau )  saṃvṛtiparamārtho ( bodhicittotpādau ca ) (140)  kriyete | atra ( cittasya )
+T05D4005:186b-11	དེ་དག་ལ་རྩེ་གཅིག་ཏུ་གནས་པ་ནི་ལམ་ཕྱིན་ཅི་མ་ལོག་པའོ་༎	T05n1110u_001:863	 ekāgratayā avasthānaṃ tāvad aviparyasto mārga iti |
+T05D4005:186b-12	བླ་ན་མེད་པའི་ཡེ་ཤེས་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་མཐུན་པར་བསྔོ་བ་སྟེ་།	T05n1110u_001:864	 anuttarajñānānusāram arthāt prajñāpāramitānusāraṃ pariṇāmayitavyam |
+T05D4005:186b-13	དེ་ལ་གོང་ན་མེད་པའི་ཡེ་ཤེས་ནི་གཉིས་སུ་མེད་པའི་ཆོས་ཉིད་རྟོགས་པ་སྟེ་ཡེ་ཤེས་ཀྱི་ཚོགས་སོ་༎	T05n1110u_001:865	 idamanuttarajñānaṃ tāvadadvayadharmatā'vabodha iti |  ( ayameva ) jñānasambhāra ityapi |
+T05D4005:186b-14	དེ་ལ་བཞི་ནི་བསོད་ནམས་ཀྱི་ཚོགས་སུ་འགྱུར་ལ་།	T05n1110u_001:868	 catasraḥ ( pāramitāstu )  puṇyasambhāre saṃgṛhyante |
+T05D4005:186b-15	ལྔ་པ་ནི་།	T05n1110u_001:870	 pañcamī ( dhyānapāramitā )
+T05D4005:186b-16	གཉིས་ཀའོ་༎ དྲུག་པ་ནི་ཅིག་ཤོས་ཏེ་ཐམས་ཅད་ཀྱང་གཉིས་སུ་འདུས་སོ་༎	T05n1110u_001:871	 ubhayoḥ ( sambhārayoḥ saṃgṛhyate ) |  ṣaṣṭhī ( prajñāpāramitā )  tadbhinnatvena ( jñānasambhāre abhyupagatā ) bhavati |  ( ityevam imaḥ )  ṣaṭpāramitāḥ dvayoḥ sambhārayoḥ ( yathāyathaṃ )  saṃgṛhyante |
+T05D4005:186b-17	དྲུག་པོ་དེ་དག་ཐམས་ཅད་ཚུལ་ཇི་ལྟར་ཞེ་ན་།	T05n1110u_001:877	 etāsāṃ ṣaṇṇāṃ pāramitānāṃ nayaḥ kīdṛśaḥ?
+T05D4005:186b-18	གཅིག་ཏུ་བསྡུས་པ་ལ་སོགས་པ་སྟེ་།	T05n1110u_001:878	 etadartha ( mūle )  'ekadhyaṃ piṇḍayitvā' ityādikamuktam |
+T05D4005:186b-19	དགེ་བ་སོ་སོ་བ་དང་། དངོས་པོ་གཅིག་ཏུ་བྱས་ཏེ་བཟླུམས་པ་ནི་འདྲེས་པར་བྱས་པའོ་༎	T05n1110u_001:880	 pṛthak-pṛthak kuśalānāṃ vastūnāṃ caikatra sampiṇḍanaṃ kriyate,  cāpyucyate |
+T05D4005:186b-2	ཚུལ་ཁྲིམས་ནི་ཚུལ་ཁྲིམས་དང་མཐུན་པ་སྟེ་།	T05n1110u_001:850	 śīlamiti śīlānukūlyam, ( yathā- )
+T05D4005:186b-20	མི་ཕྱེད་པར་བྱས་པ་ནི་བསྡོམས་པ་སྟེ་རང་བཞིན་མེད་པར་རོ་༎	T05n1110u_001:883	 aviccheda iti saṃvaraḥ, ( arthāt )  prakṛtitaḥ asambhedāpādanam |
+T05D4005:186b-21	གང་བསྔོ་ཞེ་ན་།	T05n1110u_001:885	 kva pariṇāmayet ?
+T05D4005:186b-23	དེ་ཉན་ཐོས་ལས་འཕགས་པ་ནི་བླ་ན་མེད་པའོ་༎	T05n1110u_001:888	 anuttarā śrāvakādibhyo viśiṣṭatvāt |
+T05D4005:186b-24	གོང་ན་མེད་པ་ནི་སངས་རྒྱས་སོ་༎	T05n1110u_001:889	 nirūttara iti buddhaḥ,
+T05D4005:186b-25	གོང་མ་ནི་འཇིག་རྟེན་པའི་གོང་ན་གནས་པ་གཉིས་པོ་དེ་ཡིན་ལ་།	T05n1110u_001:890	 lokamatikramya sthitatvāt |  so'pi dvividhaḥ |
+T05D4005:186b-26	དེ་དག་གི་གོང་མ་ནི་བྱང་ཆུབ་སེམས་དཔའོ་༎	T05n1110u_001:892	 sarvebhya uttaraḥ bodhisattvaḥ |
+T05D4005:186b-27	བླ་མ་ནི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཡིན་ལ་།	T05n1110u_001:893	 ( ataḥ ) bodhisattvo gurūḥ arthāduttaraḥ |
+T05D4005:186b-28	དེའི་བླ་མ་ནི་སངས་རྒྱས་ཏེ་དེའི་གོང་ན་གཞན་མེད་པའོ་༎	T05n1110u_001:895	 bhagavān buddhaḥ taduttarasya kasyāpyabhāvāt |
+T05D4005:186b-29	དེ་ཉིད་བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་སྟེ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའོ་༎	T05n1110u_001:896	 sa eva bodhisattvamahāsattvaḥ, ( sa )  eva hi sarvajñaḥ |
+T05D4005:186b-3	སྡོམ་པའི་ཚུལ་ཁྲིམས་ལ་སོགས་པའོ་༎	T05n1110u_001:851	 saṃvaraśīlādīni ( trividhaśīlāni ) |
+T05D4005:186b-4	རྣམ་པར་དཀའ་བ་བསྐྱེད་པས་ནི་དགེ་བའི་རྩ་བའོ་༎	T05n1110u_001:852	 atyantāvadātatvād viśudhyutpādād vā kuśalamūlānyucyante |
+T05D4005:186b-5	བཟོད་པ་དང་མཐུན་པ་ནི་ཚངས་སྤྱོད་དེ་སྡིག་པ་དང་བྲལ་ཞིང་བྱམས་པ་ལ་སོགས་པ་ལ་གནས་པས་གཤེ་བ་ལ་སླར་མི་གཤེ་བ་ལ་སོགས་པ་དགེ་སྦྱོང་གི་ཆོས་དང་ལྡན་པ་སྟེ་།	T05n1110u_001:853	 kṣāntyanukūla tāvad brahyacaryam tacca pāpavirahitaṃ sat maitryādiṣu sthitvā ākruṣṭasya akaraṇena arthād apratyākruṣṭena śramaṇadharmeṇa yuktam
+T05D4005:186b-6	འདོད་ཆགས་དང་བྲལ་བ་ལ་ནི་མི་བྱའོ་༎	T05n1110u_001:854	 rāgarahitaistāvad ākruṣṭakarmāṇi na karaṇīyāni |
+T05D4005:186b-7	བརྩོན་འགྲུས་དང་མཐུན་པ་ནི་སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་སྟེ་།	T05n1110u_001:855	 vīryānukūlyena bhavyasattvāḥ paripācyante |
+T05D4005:186b-8	བདག་གིས་བརྩོན་འགྲུས་ཆེན་པོས་སེམས་ཅན་ཐམས་ཅད་ལ་མངོན་པར་ཤེས་པ་ལྔའི་སྒོ་ནས་ཕྱིན་ཅི་ལོག་གི་ལྟ་བ་དང་ལམ་ལས་བཟློག་པ་སྟེ་ཡང་དག་པ་ལ་བཅུག་པས་རྒྱུད་སྨིན་པར་བྱས་པ་སྟེ་།	T05n1110u_001:856	 mahāvīrye sthitena mayā pañcābhijñābhiḥ sarvasattvānāṃ viparītadṛṣṭinivāraṇaṃ viparītamārgādapasāraṇaṃ kṛtvā ( citta )  -santatiṃ paripācya sanmārgādhirūdāḥ kriyante |
+T05D4005:186b-9	གྲོལ་བ་དང་མཐར་ཕྱིན་པར་ཤེས་པར་བྱའོ་༎	T05n1110u_001:858	 ( arthāt ) muktāḥ kṛtārthāḥ kriyanta ityevaṃ jñātavyam |
+T05D4005:187a-0	ཡོངས་སུ་བསྔོ་བ་ནི་འཁོར་༄༡༨༧ཨ་༌་༎ གསུམ་ཡོངས་སུ་དག་པ་སྟེ་མི་དམིགས་པའོ་༎	T05n1110u_001:898	 sarvebhya iyaṃ pariṇāmanā tāvat pariśuddhatrimaṇḍaletyapyucyate,  yaścānupalambha eva |
+T05D4005:187a-12	དེ་དག་གི་ཞར་ལ་སྨོན་ལམ་འདེབས་པ་ནི་སངས་རྒྱས་ཐོབ་པར་སྨོན་པས་ན་ཡེ་ཤེས་བླ་ན་མེད་པར་གྱུར་ཅིག་པའོ་༎	T05n1110u_001:916	 buddhatvamavāptuṃ praṇidhānakāle bhavatu anuttarajñānamityākārakaṃ ( praṇidhānaṃ kriyate )
+T05D4005:187a-13	སྡིག་པ་ཐམས་ཅད་ཀྱི་གཉེན་པོ་སྐྱབས་སུ་འགྲོ་བ་མཆོག་ཡིན་པས་འདིར་ཡང་སྐྱབས་སུ་འགྲོ་བ་ནི་མི་མཆོག་རྒྱལ་བ་ཞེས་བྱ་བ་ལ་སོགས་པའོ་༎	T05n1110u_001:917	 sarvapāpapratipakṣabhūtaṃ śaraṇagamanaṃ śreyaḥ |  atrāpi śaraṇagamanasya ( abhiprāyastāvad )  'narottamā jināḥ' ityādinā ( nirdiṣṭaḥ ) |
+T05D4005:187a-15	ད་ལྟར་ནི་སྐྱབས་ཀྱི་མཐར་ཐུག་པ་ནི་སངས་རྒྱས་ཁོ་ན་ཡིན་པས་གཉིས་པོ་ནི་འདིར་མ་སྨོས་པའོ་༎	T05n1110u_001:920	 ( śaraṇagamanādikaṃ tu )  sāmānyena pūrvaṃ pradarśitam |  'tathāpi' iti buddhamātrameva śaraṇagamananiṣṭheti ( nānyat ) |  ( dharmasya saṃghasya ca śaraṇagamanaṃ)  nātra kathitam |
+T05D4005:187a-16	དེ་ལ་མི་མཆོག་ནི་མིའི་སྐྱེ་བ་ཞེས་པ་སྟེ་སྤྲུལ་སྐུའོ་༏	T05n1110u_001:925	 atra 'narottamāḥ' iti manuṣyarūpadhārī nirmāṇakāyaḥ |
+T05D4005:187a-17	། ཡོན་ཏན་ནི་སངས་རྒྱས་ཀྱི་སྟོབས་ལ་སོགས་པའོ་༎	T05n1110u_001:926	 'guṇāḥ' iti daśabalādayo buddhaguṇāḥ |
+T05D4005:187a-18	བསྔགས་པ་ནི་ཁྱད་པར་དུ་བསྟོད་པའོ་༎	T05n1110u_001:927	 'varṇān' iti viśeṣeṇa stavaḥ |
+T05D4005:187a-19	སུམ་ཅུ་རྩ་ལྔ་པོ་ལ་སོགས་པ་དེ་དག་མཐའ་ཡས་པ་ནི་མི་ཟད་པའི་རྒྱ་མཚོ་དཔེར་བྱས་པ་སྟེ་གྲངས་སོ་༎	T05n1110u_001:928	 ananteti pañcatriṃśad ( buddhādayaḥ ) |  sāgaro'tra upamārūpeṇa samupasthāpitaḥ,  yaścākṣayaḥ |
+T05D4005:187a-2	དེ་ནི་བྱང་ཆུབ་སེམས་དཔའི་བསྔོ་བ་ཐུན་མོང་བའོ་༎	T05n1110u_001:900	 iyaṃ khalu bodhisattvānāṃ sāmānyapariṇāmanā |
+T05D4005:187a-20	ཐལ་མོ་ནི་ལུས་ཀྱིས་སོ་༎	T05n1110u_001:931	 añjali- ( śabdena )  kāya- ( praṇāmaḥ ) ( dyotyate ) |
+T05D4005:187a-21	སྐྱབས་སུ་འགྲོ་བ་ནི་ངག་དང་སེམས་ཀྱིས་སོ་༎	T05n1110u_001:933	 vākcittābhyāṃ hi śaraṇagamanaṃ niṣpadyate |
+T05D4005:187a-22	དེ་ལྟར་སྟོབས་བཞི་དང་ལྡན་པས་། སྡིག་པ་ཐམས་ཅད་དག་འགྱུར་ཏེ་༎	T05n1110u_001:934	 caturbhiśca balairevaṃ sarvapāpaṃ viśudhyati |
+T05D4005:187a-24	ཚོགས་རྫོགས་ནས་ནི་སངས་རྒྱས་འཐོབ་༎ དེ་བས་ཀུན་གྱིས་འདིར་ཤེས་བྱ་༎	T05n1110u_001:935	 sambhāraparipūrttyā'to buddhatvāptiṃ prajānatām | |
+T05D4005:187a-26	འདིར་ནི་མདོ་ཙམ་དུ་བཀྲོལ་ཏེ་༎ རྒྱས་པར་མདོ་སྡེ་ལས་ཤེས་བྱ་༎	T05n1110u_001:936	 saṃkṣepeṇātra cākhyātaṃ jñeya sūtraiśca bhūyasā |
+T05D4005:187a-3	བླ་ན་མེད་པའི་སངས་རྒྱས་ཉིད་ཀྱི་བསྔོ་བ་ནི་ཐབས་མཁས་པ་སྟེ་།	T05n1110u_001:901	 anuttarabuddhatvāvāpyate pariṇāmanā tāvadupāyakauśalam |
+T05D4005:187a-5	བདག་གིས་བསྔོ་བ་མི་ཤེས་པས་༏	T05n1110u_001:903	 yadi nāsti svayaṃ pariṇāmanājñānaṃ tadā anena ( pūrvoktavidhinā )
+T05D4005:187a-6	དེ་ལྟར་ཡོངས་སུ་བསྔོ་བ་ནི་གྱ་ནོམ་པ་ལ་སོགས་པས་གུས་པའོ་༎	T05n1110u_001:904	 pariṇāmanaṃ praṇītetyādinā sādaraṃ ( pariṇāmayitavyam ) |
+T05D4005:187a-7	དུས་གསུམ་གྱི་སངས་རྒྱས་ཀྱིས་བསྔོས་པ་ལྟར་བདག་ཀྱང་གུས་པས་ཡོངས་སུ་བསྔོ་བ་ནི་གདམས་པ་ཆེན་པོ་ཡིན་ནོ་༎	T05n1110u_001:905	 traikālikabuddhaiḥ kṛtāyāḥ pariṇāmanāyāḥ sadṛśī pariṇāmanā mayā'pi sādaraṃ karaṇīyeti (141)  mahāvavādaḥ |
+T05D4005:187a-8	ཕུང་པོ་གསུམ་པ་དང་མཐུན་པར་བསྔོ་བ་ནི་སྡིག་པ་ཐམས་ཅད་ནི་སོ་སོར་བཤགས་སོ་ཞེས་བྱ་བ་ལ་སོགས་པའོ་༎	T05n1110u_001:908	 triskandhānusāraṃ pariṇāmanā tāvat 'sarvaṃ pāpaṃ pratideśayāmi' ityādinā ( kathitā ) |  ayaṃ pāpadeśanāskandhaḥ,
+T05D4005:187a-9	དེ་ལ་སྡིག་པ་བཤགས་པའི་ཕུང་པོ་དང་། དག་པ་དང་མ་དག་པའི་དགེ་བའི་རྗེས་སུ་ཡི་རང་བ་ནི་དེ་དག་ཡུལ་དུ་བྱས་ན་དགའ་བའི་ཕུང་པོ་དང་། སངས་རྒྱས་ཐམས་ཅད་ལ་མྱ་ངན་ལས་མི་འདའ་བ་དང་། ཆོས་ཀྱི་འཁོར་ལོ་བསྐུལ་བ་ནི་གསོལ་བ་འདེབས་པའི་ཕུང་པོ་སྟེ་།	T05n1110u_001:910	 kuśalākuśalānumodanāskandhaḥ viṣayaprastutidṛṣṭyā ānanda - skandha eva |  mahāparinirvāṇamanadhigantuṃ sarvabuddhānāṃ ( prārthanā )  dharmacakraṃ pravartayituṃ cādhyeṣaṇā ' yācanāskandhaḥ ' |  ebhistribhiḥ ( skandhaiḥ )  aparimitaḥ puṇyaskandhaḥ saṃcīyate |  etadanantaraṃ praṇīdhānam |
+T05D4005:187b-0	འདི་ལྟར་ཤེས་བྱས་འབད་པ་༄༡༨༧བ་ཡིས་༏་། ནུས་ཚད་སྡིག་པ་བཤགས་པར་བྱ་༎	T05n1110u_001:937	 jñātvaivaṃ balayatnābhyāṃ karttavyā pāpadeśanā |
+T05D4005:187b-11	སེང་གེ་ལྟ་བུའི་བདུད་འཇོམས་པའི་༎	T05n1110u_001:946	 siṃhavanmāradamakastaṃ namasyāmi gautamam | |
+T05D4005:187b-2	རིན་ཆེན་ལུས་འདི་ཐོབ་ནས་ནི་༎ ལེ་ལོ་སྙོམ་ལས་མེད་པ་མཚར་༎	T05n1110u_001:938	 praśasyā kāyaratnāptiḥ kausīdyaṃ middhamutsṛjet |
+T05D4005:187b-4	རང་སེམས་ཀྱིས་ནི་རང་ལ་རྟོགས་༎ ཡི་མུག་མི་འགྱུར་ངོ་མཚར་ཆེ་༎	T05n1110u_001:939	 svamanaḥ svena dṛṣṭvā'ho mānaṃ styānaṃ na ca kriyāt | | (142)
+T05D4005:187b-6	བདག་གིས་སྙིང་རྗེའི་ཤུགས་ཀྱིས་སེམས་ཅན་དོན་དུ་ནི་༎ བྱང་ཆུབ་ལྟུང་བ་བཤགས་པའི་འགྲེལ་པ་འདི་བྱས་པས་༎ དེ་སྐྱེས་དགེ་བ་དྲི་མེད་དེ་ཡིས་སེམས་ཅན་རྣམས་།	T05n1110u_001:941	 kṛpābalāt sattvahite madīyā  bodhyāpadāṃ deśanavṛttireṣā |
+T05D4005:187b-9	ཀླུ་ཡི་རྒྱལ་པོ་ལྟ་བུའི་སངས་རྒྱས་འགྲུབ་པར་ཤོག་། ལྟ་བ་ཐམས་ཅད་སེལ་མཛད་ཅིང་༎ ཡང་དག་ལམ་ནི་སྟོན་པ་པོ་༎	T05n1110u_001:944	 nāgasya rājeva bhavantu buddhāḥ |  sarvadṛṣṭiprahāṇāya yaḥ sanmārgamadeśayat |

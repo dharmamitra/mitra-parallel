@@ -1,0 +1,1097 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+T04bsa003_u:10	 yadi nātra vicintyate hitaṃ punarapyeṣa samāgamaḥ kutaḥ // SBca_1.4 //	T04D3871:2a-0	གལ་ཏེ་འདི་ལ་ཕན་པ་༄༢ཨ་༌་༎ མ་བསྒྲུབས་ན་༎ ཕྱིས་འདི་ཡང་དག་འབྱོར་པར་ག་ལ་འགྱུར་༎
+T04bsa003_u:100	 tataḥ suraktāni sudhūpitāni dadāmi tebhyo varacīvarāṇi // SBca_2.12 //	T04D3871:4a-28	དེ་ནས་དེ་ལ་ཁ་དོག་ལེགས་བསྒྱུར་བའི་༎ ན་བཟའ་ཤིན་ཏུ་དྲི་ཞིམ་དམ་པ་འབུལ་༎
+T04bsa003_u:101	 divyairmṛduślakṣṇavicitraśobhair vastrairalaṃkāravaraiśca taistaiḥ /	T04D3871:4a-30	གོས་བཟང་སྲབ་ལ་འཇམ་པ་སྣ་ཚོགས་དང་༎ རྒྱན་མཆོག་བརྒྱ་ཕྲག་དེ་དང་དེ་དག་གིས་༎
+T04bsa003_u:102	 samantabhadrājitamañjughoṣalokeśvarādīnapi maṇḍayāmi // SBca_2.13 //	T04D3871:4a-31	འཕགས་པ་ཀུན་དུ་བཟང་དང་འཇམ་དབྱངས་དང་༎ འཇིག་རྟེན་དབང་ཕྱུག་སོགས་ལའང་བརྒྱན་པར་བགྱི་༎
+T04bsa003_u:1025	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ vīryapāramitā nāma saptamaḥ paricchedaḥ //	T04D3871:23a-37	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་། བརྩོན་འགྲུས་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བདུན་པའོ་།
+T04bsa003_u:1027	 vardhayitvaivamutsāhaṃ samādhau sthāpayenmanaḥ /	T04D3871:23a-39	༎ ། དེ་ལྟར་བརྩོན་འགྲུས་བསྐྱེད་ནས་ནི་༎ ཡིད་ནི་ཏིང་ངེ་འཛིན་ལ་བཞག་། སེམས་ནི་རྣམ་པར་ག-ཡེངས་པའི་མི་༎
+T04bsa003_u:1028	 vikṣiptacittastu naraḥ kleśadaṃṣṭrāntare sthitaḥ // SBca_8.1 //	T04D3871:23a-41	ཉོན་མོངས་མཆི་བའི་ཕྲག་ན་གནས་༎
+T04bsa003_u:1029	 kāyacittavivekena vikṣepasya na saṃbhavaḥ /	T04D3871:23a-42	ལུས་དང་སེམས་ནི་དབེན་པ་ཡིས་༎ རྣམ་པར་༄༢༣བ་ག-ཡེང་བ་མི་འབྱུང་ངོ་༎
+T04bsa003_u:103	 sarvatrisāhasravisārigandhair gandhottamaistānanulepayāmi /	T04D3871:4a-32	སྟོང་གསུམ་ཀུན་དུ་དྲི་ངད་ལྡང་བ་ཡི་༎
+T04bsa003_u:1030	 tasmāllokaṃ parityajya vitarkān parivarjayet // SBca_8.2 //	T04D3871:23b-1	དེ་བས་འཇིག་རྟེན་སྤང་བྱ་ཞིང་༎ རྣམ་པར་རྟོག་པ་ཡོངས་སུ་དོར་༎
+T04bsa003_u:1031	 snehānna tyajyate loko lābhādiṣu ca tṛṣṇayā /	T04D3871:23b-3	ཆགས་པའི་ཕྱིར་དང་རྙེད་སོགས་ལ་༎ སྲེད་པས་འཇིག་རྟེན་མི་སྤོང་སྟེ་༎
+T04bsa003_u:1032	 tasmādetatparityāge vidvānevaṃ vibhāvayet // SBca_8.3 //	T04D3871:23b-5	དེ་བས་འདི་དག་ཡོངས་སྤོངས་ལ་༎ མཁས་པས་འདི་ལྟར་དཔྱད་པར་བྱ་༎
+T04bsa003_u:1033	 śamathena vipaśyanāsuyuktaḥ kurute kleśavināśamityavetya /	T04D3871:23b-7	ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས་༎ ཉོན་མོངས་རྣམ་པར་འཇོམས་པར་ཤེས་བྱས་ནས་༎
+T04bsa003_u:1034	 śamathaḥ prathamaṃ gaveṣaṇīyaḥ sa ca loke nirapekṣayābhiratyā // SBca_8.4 //	T04D3871:23b-9	ཐོག་མར་ཞི་གནས་བཙལ་བྱ་དེ་ཡང་ནི་༎ འཇིག་རྟེན་ཆགས་པ་མེད་ལ་མངོན་དགས་འགྲུབ་༎
+T04bsa003_u:1035	 kasyānityeṣvanityasya sneho bhavitumarhati /	T04D3871:23b-11	མི་རྟག་སུ་ཞིག་མི་རྟག་ལ་༎ ཡང་དག་ཆགས་པར་བྱེད་པ་ཡོད་༎
+T04bsa003_u:1036	 yena janmasahasrāṇi draṣṭavyo na punaḥ priyaḥ // SBca_8.5 //	T04D3871:23b-13	དེས་ནི་ཚེ་རབས་སྟོང་ཕྲག་ཏུ་༎ སྡུག་པ་མཐོང་བར་ཡོང་མི་འགྱུར་༎ མ་མཐོང་ན་ནི་དགར་མི་འགྱུར་༎
+T04bsa003_u:1037	 apaśyannaratiṃ yāti samādhau na ca tiṣṭhati /	T04D3871:23b-16	ཡིད་ཀྱང་མཉམ་འཇོག་མི་འགྱུར་ལ་༎
+T04bsa003_u:1038	 na ca tṛpyati dṛṣṭvāpi pūrvavadbādhyate tṛṣā // SBca_8.6 //  na paśyati yathābhūtaṃ saṃvegādavahīyate /	T04D3871:23b-17	མཐོང་ཡང་ངོམས་པར་མི་འགྱུར་བས་༎ སྔར་བཞིན་སྲེད་པས་གདུང་བར་འགྱུར་༎ སེམས་ཅན་རྣམས་ལ་ཆགས་བྱས་ན་༎ ཡང་དག་ཉིད་ལ་ཀུན་ནས་སྒྲིབ་༎
+T04bsa003_u:104	 sūttaptasūnmṛṣṭasudhautahemaprabhojjvalān sarvamunīndrakāyān // SBca_2.14 //	T04D3871:4a-33	དྲི་མཆོག་རྣམས་ཀྱིས་ཐུབ་དབང་ཀུན་གྱི་སྐུ་༎ གསེར་སྦྱངས་བཙོ་མ་བྱི་དོར་བྱས་པ་ལྟར་༎
+T04bsa003_u:1040	 dahyate tena śokena priyasaṃgamakāṅkṣayā // SBca_8.7 //  taccintayā mudhā yāti hrasvamāyurmuhurmuhuḥ /	T04D3871:23b-21	སྐྱོ་བའི་སེམས་ཀྱང་འཇིག་པར་བྱེད་༎ ཐ་མར་མྱ་ངན་གདུང་བར་འགྱུར་༎ ཚེ་འདི་དོན་མེད་འདའ་བར་འགྱུར་༎
+T04bsa003_u:1042	 aśāśvatena dharmeṇa dharmo bhraśyati śāśvataḥ // SBca_8.8 //	T04D3871:23b-25	རྟག་པ་མེད་པའི་མཛའ་བཤེས་ཀྱིས་༎ ག-ཡུང་དྲུང་ཆོས་ཀྱང་འཇིག་པར་འགྱུར་༎
+T04bsa003_u:1043	 bālaiḥ sabhāgacarito niyataṃ yāti durgatim /	T04D3871:23b-27	བྱིས་དང་སྐལ་བ་མཉམ་སྤྱོད་ན་༎ ངེས་པར་ངན་འགྲོར་འགྲོ་འགྱུར་ཏེ་༎
+T04bsa003_u:1044	 neṣyate viṣabhāgaśca kiṃ prāptaṃ bālasaṃgamāt // SBca_8.9 //	T04D3871:23b-29	སྐལ་མི་མཉམ་པར་ཁྲིད་བྱེད་ན་༎ བྱིས་པ་བསྟེན་པས་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:1045	 kṣaṇādbhavanti suhṛdo bhavanti ripavaḥ kṣaṇāt /	T04D3871:23b-31	སྐད་ཅིག་གཅིག་གིས་མཛའ་འགྱུར་ལ་༎ ཡུད་ཙམ་གྱིས་ནི་དགྲར་ཡང་འགྱུར་༎
+T04bsa003_u:105	 māndāravendīvaramallikādyaiḥ sarvaiḥ sugandhaiḥ kusumairmanojñaiḥ /	T04D3871:4b-1	མེ་ཏོག་མནད་ར་དང་པདམ་དང་༎ ཨཽཏཔལ་ལ་སོགས་དྲི་ཞིམ་ཐམས་ཅད་དང་༎ ཕྲེང་བ་སྤེལ་ལེགས་ཡིད་འོང་རྣམས་ཀྱིས་མཆོད་༎
+T04bsa003_u:1067	 māmevānye jugupsanti kiṃ prahṛṣyāmyahaṃ stutaḥ /  māmevānye praśaṃsanti kiṃ viṣīdāmi ninditaḥ // SBca_8.21 //	T04D3871:24a-28	བདག་ལ་སྨོད་པ་གཞན་ཡོད་ན་༎ བསྟོད་པས་བདག་དགར་ཅི་ཞིག་ཡོད་༎ བདག་ལ་བསྟོད་པ་གཞན་ཡོད་ན་༎ སྨད་པས་མི་དགར་ཅི་ཞིག་ཡོད་༎
+T04bsa003_u:1069	 nānādhimuktikāḥ sattvā jinairapi na toṣitāḥ /	T04D3871:24a-32	སེམས་ཅན་མོས་པ་སྣ་ཚོགས་པ་༎
+T04bsa003_u:107	 sphītasphuradgandhamanoramaiśca tān dhūpameghairupadhūpayāmi /	T04D3871:4b-2	སྤོས་མཆོག་ཡིད་འཕྲོག་དྲི་ངད་ཁྱབ་པ་ཡི་༎ བདུག་པའི་སྤྲིན་ཚོགས་རྣམས་ཀྱང་དེ་ལ་དབུལ་༎
+T04bsa003_u:1070	 kiṃ punarmādṛśairajñaistasmātkiṃ lokacintayā // SBca_8.22 //	T04D3871:24a-34	བདག་འདྲ་ངན་པས་སྨོས་ཅི་དགོས་༎ དེ་བས་འཇིག་རྟེན་བསམ་བ་བཏང་༎
+T04bsa003_u:1071	 nindantyalābhinaṃ sattvamavadhyāyanti lābhinam /	T04D3871:24a-36	སེམས་ཅན་རྙེད་པ་མེད་ལ་སྨོད་༎ རྙེད་པ་ཅན་ལ་མི་སྙན་བརྗོད་༎
+T04bsa003_u:1072	 prakṛtyā duḥkhasaṃvāsaiḥ kathaṃ tairjāyate ratiḥ // SBca_8.23 //	T04D3871:24a-38	རང་བཞིན་འགྲོགས་དཀའ་དེ་དག་གིས་༎ དགའ་བ་ཇི་ལྟར་སྐྱེ་བར་འགྱུར་༎
+T04bsa003_u:1073	 na bālaḥ kasyacinmitramiti coktaṃ tathāgataiḥ /  na svārthena vinā prītiryasmādbālasya jāyate // SBca_8.24 //	T04D3871:24a-40	གང་ཕྱིར་བྱིས་པ་རང་དོན་ནི་༎ མེད་པར་དགའ་བ་མི་འབྱུང་བས་༎ དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་གསུངས་༎
+T04bsa003_u:1077	 nāvadhyāyanti taravo na cārādhyāḥ prayatnataḥ	T04D3871:24a-44	ནགས་ན་རི་དགས་བྱ་རྣམས་དང་༎ ཤིང་རྣམས་མི་སྙན་རྗོད་མི་བྱེད་༎
+T04bsa003_u:1078	 kadā taiḥ sukhasaṃvāsaiḥ saha vāso bhavenmama // SBca_8.26 //	T04D3871:24a-45	འགྲོགས་ན་བདེ་བ་དེ་དག་དང་༎ ནམ་ཞིག་ལྷན་ཅིག་བདག་གནས་འགྱུར་༎
+T04bsa003_u:108	 bhojyaiśca khādyairvividhaiśca peyais tebhyo nivedyaṃ ca nivedayāmi // SBca_2.16 //	T04D3871:4b-4	ཞལ་ཟས་བཟའ་བཏུང་སྣ་ཚོགས་བཅས་པ་ཡི་༎ ལྷ་བཤོས་རྣམས་ཀྱང་དེ་ལ་དབུལ་བར་བགྱི་༎
+T04bsa003_u:109	 ratnapradīpāṃśca nivedayāmi suvarṇapadmeṣu niviṣṭapaṅktīn /	T04D3871:4b-6	གསེར་གྱི་པདམ་ཚར་དུ་དངར་བ་ཡི་༎ རིན་ཆེན་སྒྲོན་མ་རྣམས་ཀྱང་དབུལ་བར་བགྱི་༎
+T04bsa003_u:1099	 na cāntikacarāḥ kecicchocantaḥ kurvate vyathām /	T04D3871:24b-38	མྱ་ངན་གནོད་པ་བྱེད་མེད་པས་༎
+T04bsa003_u:11	 rātrau yathā meghaghanāndhakāre vidyut kṣaṇaṃ darśayati prakāśam /	T04D3871:2a-3	ཇི་ལྟར་མཚན་མོ་མུན་ནག་སྤྲིན་རུམ་ན་༎ གློག་འགྱུ་སྐད་ཅིག་བར་སྣང་སྟོན་པ་ལྟར་༎
+T04bsa003_u:110	 gandhopalipteṣu ca kuṭṭimeṣu kirāmi puṣpaprakarān manojñān // SBca_2.17 //  pralambamuktāmaṇihāraśobhān ābhāsvarān diṅmukhamaṇḍanāṃstān /  vimānameghān stutigītaramyān maitrīmayebhyo 'pi nivedayāmi // SBca_2.18 //	T04D3871:4b-8	ས་གཞི་བསྟར་བ་སྤོས་ཀྱིས་བྱུགས་པ་དེར་༎ མེ་ཏོག་ཡིད་འོང་སིལ་མ་དགྲམ་པར་བྱ་༎ གཞལ་མེད་ཕོ་བྲང་བསྟོད་དབྱངས་ཡིད་འོང་ལྡན་༎ མུ་ཏིག་རིན་ཆེན་རྒྱན་འཕྱང་མཛེས་འབར་བ་༎ དཔག་ཡས་ནམ་མཁའི་རྒྱན་གྱུར་དེ་དག་ཀྱང་༎
+T04bsa003_u:1100	 buddhādyanusmṛtiṃ cāsya vikṣipanti na kecana // SBca_8.37 //	T04D3871:24b-39	འདི་ཡིས་སངས་རྒྱས་རྗེས་དྲན་སོགས་༎ སུས་ཀྱང་ག-ཡེངས་པར་འགྱུར་བ་མེད་༎
+T04bsa003_u:1101	 tasmādekākitā ramyā nirāyāsā śivodayā /  sarvavikṣepaśamanī sevitavyā mayā sadā // SBca_8.38 //	T04D3871:24b-41	དེ་བས་ཤིན་ཏུ་མདངས་དགའ་བའི་༎ ནགས་ཚལ་ཚེགས་ཆུང་བདེ་སྐྱིད་ཅིང་༎ ག-ཡེང་བ་ཐམས་ཅད་ཞི་བྱེད་པར་༎ བདག་ཉིད་གཅིག་པུ་གནས་པར་བྱ་༎
+T04bsa003_u:1103	 sarvānyacintānirmuktaḥ svacittaikāgramānasaḥ /	T04D3871:24b-45	བསམ་པ་གཞན་ནི་ཀུན་བཏང་སྟེ་༎ བདག་ལ་སེམས་༄༢༥ཨ་༌་༎ པ་གཅིག་པུ་ཡིས་༎
+T04bsa003_u:1104	 samādhānāya cittasya prayatiṣye damāya ca // SBca_8.39 //	T04D3871:25a-2	སེམས་ནི་མཉམ་པར་གཞག་ཕྱིར་དང་༏་། དུལ་བར་བྱ་ཕྱིར་བརྩོན་ཏེ་བྱ་༎
+T04bsa003_u:1105	 kāmā hyanarthajanakā iha loke paratra ca /	T04D3871:25a-3	འཇིག་རྟེན་འདི་དང་ཕ་རོལ་དུའང་༎ འདོད་པ་རྣམས་ནི་ཕུང་ཁྲོལ་བསྐྱེད་༎
+T04bsa003_u:1106	 iha bandhavadhocchedairnarakādau paratra ca // SBca_8.40 //	T04D3871:25a-5	འདིར་ནི་བསད་དང་བཅིང་དང་གཅོད་༎ ཕ་རོལ་དུ་ནི་དམྱལ་སོགས་སྒྲུབ་༏
+T04bsa003_u:1107	 yadarthaṃ dūtadūtīnāṃ kṛtāñjaliranekadhā /	T04D3871:25a-7	། ཕོ་ཉ་ཕོ་ཉ་མོ་ཡིས་སྔོན་༎
+T04bsa003_u:1109	 prakṣiptaśca bhaye 'pyātmā draviṇaṃ ca vyayīkṛtam /	T04D3871:25a-11	འཇིགས་པ་ལ་ཡང་བདག་ཞུགས་ཤིང་༎ རྫས་ཀྱང་ཟད་པར་བྱས་གྱུར་ཏེ་༎
+T04bsa003_u:1111	 tānyevāsthīni nānyāni svādhīnānyamamāni ca /	T04D3871:25a-13	གང་ལ་ཡོངས་སུ་འཁྱུད་པས་ན་༎ མཆོག་ཏུ་དགའ་འགྱུར་དེ་དག་ཉིད་༎ ཀེང་རུས་ཉིད་ཡིན་གཞན་མིན་ན་༎ རང་དབང་དང་ནི་བདག་མིན་ལ་༎
+T04bsa003_u:1112	 prakāmaṃ saṃpariṣvajya kiṃ na gacchasi nirvṛtim // SBca_8.43 //	T04D3871:25a-17	རབ་ཏུ་འདོད་ཅིང་ཡོངས་ཞེན་ནས་༎ ཅི་ཕྱིར་མྱ་ངན་འདས་མི་འགྲོ་༎
+T04bsa003_u:1113	 unnāmyamānaṃ yatnādyannīyamānamadho hriyā /	T04D3871:25a-19	གང་ཞིག་དང་པོ་འབད་དེ་བཏེག་། དྲངས་ཀྱང་ངོ་ཚས་འོག་ཏུ་ལྟ་༎
+T04bsa003_u:1114	 purā dṛṣṭamadṛṣṭaṃ vā mukhaṃ jālikayāvṛtam // SBca_8.44 //	T04D3871:25a-20	སྔོན་ནི་མཐོང་ངམ་མ་མཐོང་ཡང་༎ གོས་ཀྱིས་གདོང་ནི་ག-ཡོགས་པར་གྱུར་༎
+T04bsa003_u:1115	 tanmukhaṃ tvatparikleśamasahadbhirivādhunā /	T04D3871:25a-22	ཁྱོད་ཉོན་མོངས་པའི་གདོང་དེ་ནི་༎ ད་ལྟ་མངོན་སུམ་གྱུར་པ་བཞིན་༎
+T04bsa003_u:1116	 gṛdhrairvyaktīkṛtaṃ paśya kimidānīṃ palāyase // SBca_8.45 //	T04D3871:25a-24	བྱ་རྒོད་ཀྱིས་བསལ་བྱས་མཐོང་ནས་༎ ད་ལྟ་ཅི་ཕྱིར་འབྱེར་བར་བྱེད་༎
+T04bsa003_u:1117	 paracakṣurnipātebhyo 'pyāsīdyatparirakṣitam /	T04D3871:25a-26	གཞན་རྣམས་མིག་གིས་བལྟ་ན་ཡང་༎ གང་ཞིག་ཡོངས་སུ་བསྲུང་གྱུར་པ་༎
+T04bsa003_u:1118	 tadadya bhakṣitaṃ yāvat kimīrṣyālo na rakṣasi // SBca_8.46 //	T04D3871:25a-28	ཇི་སྲིད་དེ་ནི་དེས་ཟ་ན་༎ སེར་སྣ་ཅན་ཁྱོད་ཅིས་མི་བསྲུང་༎
+T04bsa003_u:1119	 māṃsocchrayamimaṃ dṛṣṭvā gṛdhrairanyaiśca bhakṣitam /	T04D3871:25a-30	ཤ་ཡི་ཕུང་པོ་འདི་མཐོང་ནས་༎ བྱ་རྒོད་དང་གཞན་ཟ་བྱེད་ན་༎
+T04bsa003_u:1120	 āhāraḥ pūjyate 'nyeṣāṃ srakcandanavibhūṣaṇaiḥ // SBca_8.47 //	T04D3871:25a-32	གཞན་གྱི་ཟས་ལ་མེ་ཏོག་གི་། ཕྲེང་བ་ཙནདན་རྒྱན་གྱིས་མཆོད་༎
+T04bsa003_u:1121	 niścalādapi te trāsaḥ kaṅkālādevamīkṣitāt /  vetāleneva kenāpi cālyamānādbhayaṃ na kim // SBca_8.48 //	T04D3871:25a-33	རུས་གོང་ཉིད་དུ་མཐོང་ནས་ནི་༎ མི་འགུལ་ཡང་ནི་ཁྱོད་སྐྲག་ན་༎ བསྐྱོད་པར་གྱུར་ན་ཅིས་མི་འཇིགས་༎ གང་ལ་ག-ཡོགས་ཀྱང་འདི་ཆགས་པ་༎ དེ་མ་ག-ཡོགས་ན་ཅིས་མི་འདོད་༎ དེ་ལ་དགོས་པ་མེད་ན་ནི་༎
+T04bsa003_u:1123	 ekasmādaśanādeṣāṃ lālāmedhyaṃ ca jāyate /	T04D3871:25a-41	། ཟས་ནི་གཅིག་པུ་ཉིད་ལས་ནི་༎ བཤད་དང་ཁ་ཆུ་བྱུང་གྱུར་ན་༎
+T04bsa003_u:1124	 tatrāmedhyamaniṣṭaṃ te lālāpānaṃ kathaṃ priyam // SBca_8.49 //	T04D3871:25a-43	དེ་ལས་བཤད་ལ་མི་དགའ་ཞིང་༎ ཁ་ཆུ་ལ་ཁྱོད་ཅི་ཕྱིར་དགའ་༎
+T04bsa003_u:1125	 tūlagarbhairmṛdusparśai ramante nopadhānakaiḥ /  durgandhaṃ na sravantīti kāmino 'medhyamohitāḥ // SBca_8.50 //  yatra cchanne 'pyayaṃ rāgastadacchannaṃ kimapriyam /	T04D3871:25a-45	ཤིང་བ་ལ་རེག་ན་འཇམ་པ་ཡི་༎ སྔས་ལ་དགའ་བར་མི་བྱེད་པར་༎ དྲི་ང་འཛག་པ་མ་ཡིན་ཞེས་༎ འདོད་ལྡན་མི་གཙང་༄༢༥བ་བ་ལ་རྨོངས་༎ འདོད་ལྡན་ངན་པ་རྨོངས་པ་རྣམས་༎ ཤིང་བལ་རེག་ན་འཇམ་པ་ལའང་༎
+T04bsa003_u:1129	 yadi te nāśucau rāgaḥ kasmādāliṅgase 'param /	T04D3871:25b-4	དེ་ལ་ཁྲོ་བ་དག་ཏུ་བྱེད་༎ གལ་ཏེ་མི་གཙང་ཆགས་མེད་ན་༎
+T04bsa003_u:113	 suvarṇadaṇḍaiḥ kamanīyarūpaiḥ saṃsaktamuktāni samucchritāni /	T04D3871:4b-13	ཐུགས་རྗེའི་རང་བཞིན་ཅན་ལ་དབུལ་བར་བགྱི་༎ རིན་ཆེན་གདུགས་མཛེས་གསེར་གྱི་ཡུ་བ་ཅན་༎
+T04bsa003_u:1130	 māṃsakardamasaṃliptaṃ snāyubaddhāsthipañjaram // SBca_8.52 //	T04D3871:25b-6	རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ་༎ ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས་༎
+T04bsa003_u:1131	 svameva bahvamedhyaṃ te tenaiva dhṛtimācara /	T04D3871:25b-8	གཞན་ཁྱོད་ཅི་ཕྱིར་པང་དུ་འཁྱུད་༎ ཁྱོད་ཉིད་མི་གཙང་མང་ཡོད་པ་༎ དེ་ཉིད་ལ་ཁྱོད་གཏན་སྤྱོད་ཅིང་༎
+T04bsa003_u:1132	 amedhyabhastrāmaparāṃ gūthaghasmara vismara // SBca_8.53 //	T04D3871:25b-12	མི་གཙང་བརྐམ་པས་འདོད་པར་བྱེད་༎
+T04bsa003_u:1133	 māṃsapriyo 'hamasyeti draṣṭuṃ spraṣṭuṃ ca vāñchasi /	T04D3871:25b-13	བདག་ནི་ཤ་འདི་ལ་དགའ་ཞེས་༎ རེག་དང་བལྟ་བར་འདོད་ན་ཀོ་༎
+T04bsa003_u:1134	 acetanaṃ svabhāvena māṃsaṃ tvaṃ kathamicchasi // SBca_8.54 //	T04D3871:25b-15	སེམས་མེད་པ་ཡི་རང་བཞིན་གྱི་༎ ཤ་ནི་ཁྱོད་ཀོ་ཇི་ལྟར་འདོད་༎
+T04bsa003_u:1135	 yadicchasi na taccittaṃ draṣṭuṃ spraṣṭuṃ ca śakyate /  yacca śakyaṃ na tadvetti kiṃ tadāliṅgase mudhā // SBca_8.55 //	T04D3871:25b-17	འདོད་པའི་སེམས་གང་ཡིན་པ་དེ་༎ རེག་དང་བལྟ་བར་མི་ནུས་ལ་༎ གང་ཞིག་ནུས་དེ་ཤེས་པ་མིན་༎ དོན་མེད་འཁྱུད་དེས་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:1137	 nāmedhyamayamanyasya kāyaṃ vetsītyanadbhutam /  svāmedhyamayameva tvaṃ taṃ nāvaiṣīti vismayaḥ // SBca_8.56 //	T04D3871:25b-21	མི་གཙང་རང་བཞིན་གཞན་གྱི་ལུས་༎ མི་རྟོགས་ངོ་མཚར་མི་ཆེ་ཡི་༎ རང་ཉིད་མི་གཙང་ཉིད་ཡིན་པར་༎
+T04bsa003_u:1139	 vighanārkāṃśuvikacaṃ muktvā taruṇapaṅkajam /	T04D3871:25b-25	སྤྲིན་བྲལ་ཉི་ཟེར་གྱིས་ཕྱེ་བའི་༎ པདམ་གཞོན་ནུ་སྤངས་ནས་ནི་༎
+T04bsa003_u:114	 pradhārayāmyeṣa mahāmunīnāṃ ratnātapatrāṇyatiśobhanāni // SBca_2.19 //	T04D3871:4b-15	ཁོར་ཡུག་རྒྱན་གྱི་རྣམ་པ་ཡིད་འོང་ལྡན་༎ དབྱིབས་ལེགས་བལྟ་ན་སྡུག་པ་བསྒྲེང་བ་ཡང་༎ རྟག་ཏུ་ཐུབ་དབང་རྣམས་ལ་དབུལ་བར་བགྱི་༎
+T04bsa003_u:1140	 amedhyaśauṇḍacittasya kā ratirgūthapañjare // SBca_8.57 //	T04D3871:25b-28	མི་གཙང་གཟེབ་ལ་ཅི་ཕྱིར་དགའ་༎
+T04bsa003_u:1141	 mṛdādyamedhyaliptatvādyadi na spraṣṭumicchasi /	T04D3871:25b-29	ས་ཕྱོགས་མི་གཙང་གིས་གོས་པ་༎ གལ་ཏེ་རེག་པར་མི་འདོད་ན་༎
+T04bsa003_u:1142	 yatastannirgataṃ kāyāttaṃ spraṣṭuṃ kathamicchasi // SBca_8.58 //	T04D3871:25b-32	ལུས་ལ་ཇི་ལྟར་ཁྱོད་རེག་འདོད་༎
+T04bsa003_u:1143	 yadi te nāśucau rāgaḥ kasmādāliṅgase param /	T04D3871:25b-33	གལ་ཏེ་མི་གཙང་ཆགས་མེད་ན་༎
+T04bsa003_u:1144	 amedhyakṣetrasaṃbhūtaṃ tadbījaṃ tena vardhitam // SBca_8.59 //	T04D3871:25b-34	མི་གཙང་ཞིང་ལས་བྱུང་གྱུར་ཅིང་༎ དེ་ཡི་ས་བོན་དེས་བསྐྱེད་པ་༎
+T04bsa003_u:115	 ataḥ paraṃ pratiṣṭhantāṃ pūjāmeghā manoramāḥ /	T04D3871:4b-18	དེ་ལས་གཞན་ཡང་མཆོད་པའི་ཚོགས་༎
+T04bsa003_u:1159	 kāyasyātra kimāyātaṃ sugandhi yadi candanam /	T04D3871:26a-13	འོན་ཏེ་དྲི་ཞིམ་ཙནདན་ནི་༎ ལུས་ལ་འདིར་ནི་ཅི་ཞིག་བྱུང་༎
+T04bsa003_u:116	 tūryasaṃgītimeghāśca sarvasattvapraharṣaṇāḥ // SBca_2.20 //  sarvasaddharmaratneṣu caityeṣu pratimāsu ca /  puṣparatnādivarṣāśca pravartantāṃ nirantaram // SBca_2.21 //	T04D3871:4b-19	རོལ་མོ་དབྱངས་སྙན་ཡིད་འོང་ལྡན་༎ སེམས་ཅན་སྡག་བསྔལ་ཚིམ་བྱེད་པའི་༎ སྤྲིན་རྣམས་སོ་སོར་གནས་གྱུར་ཅིག་། དམ་ཆོས་དཀོན་མཆོག་ཐམས་ཅད་དང་༎ མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་ལ་༎ རིན་ཆེན་མེ་ཏོག་ལ་སོགས་ཆར་༎ རྒྱུན་མི་འཆད་པར་འབབ་པར་ཤོག་༎
+T04bsa003_u:1160	 anyadīyena gandhena kasmādanyatra rajyate // SBca_8.67 //	T04D3871:26a-15	གཞན་གྱི་དྲི་ཡིས་གཞན་དག་ལ་༎ ཅི་ཡི་ཕྱིར་ན་ཆགས་པར་བྱེད་༎
+T04bsa003_u:1162	 malapaṅkadharo nagnaḥ kāyaḥ prakṛtibhīṣaṇaḥ // SBca_8.68 //	T04D3871:26a-18	བསྒོས་པས་ལུས་ཀྱི་རང་བཞིན་ནི་༎ གཅེར་བུ་འཇིགས་པ་ཉིད་ཡིན་ན་༎
+T04bsa003_u:1163	 sa kiṃ saṃskriyate yatnādātmaghātāya śastravat /	T04D3871:26a-21	དེ་འབད་ཅི་ཕྱིར་བྱི་དོར་བྱེད་༎
+T04bsa003_u:1164	 ātmavyāmohanodyuktairunmattairākulā mahī // SBca_8.69 //	T04D3871:26a-22	བདག་ལ་རྨོངས་པའི་འབད་པ་ཡིས་༎ སྨྱོས་པས་ས་འདི་ཀུན་ཏུ་འཁྲུགས་༎
+T04bsa003_u:1165	 kaṅkālān katiciddṛṣṭvā śmaśāne kila te ghṛṇā /	T04D3871:26a-24	རུས་གོང་འབའ་ཞིག་མཐོང་ནས་ནི་༎ དུར་ཁྲོད་དུ་ནི་ཡིད་འབྱུང་ན་༎
+T04bsa003_u:1166	 grāmaśmaśāne ramase calatkaṅkālasaṃkule // SBca_8.70 //	T04D3871:26a-26	ག-ཡོ་བའི་རུས་གོང་གིས་ཁྱབ་པའི་༎ གྲོང་གི་དུར་ཁྲོད་ལ་དགའ་འམ་༎
+T04bsa003_u:1167	 evaṃ cāmedhyamapyetadvinā mūlyaṃ na labhyate /	T04D3871:26a-28	དེ་ལྟར་མི་གཙང་གྱུར་པ་དེ་༎
+T04bsa003_u:1169	 śiśornārjanasāmarthyaṃ kenāsau yauvane sukhī /	T04D3871:26a-31	བྱིས་པ་ནོར་སྤེལ་མི་ནུས་པས་༎ དར་ལ་བབ་ན་འདི་ཅི་བདེ་༎
+T04bsa003_u:1170	 yātyarjanena tāruṇyaṃ vṛddhaḥ kāmaiḥ karoti kim // SBca_8.72 //	T04D3871:26a-33	ནོར་སོགས་པ་ཡིས་ཚེ་གཏུགས་ན་༎ རྒས་ནས་འདོད་པས་ཅི་ཞིག་བྱ་༏
+T04bsa003_u:1171	 keciddināntavyāpāraiḥ pariśrāntāḥ kukāminaḥ /	T04D3871:26a-35	།འདོད་ལྡན་ངན་པ་ཁ་ཅིག་ནི་༎ ཉིན་རངས་ལས་ཀྱིས་ཡོངས་དུབ་སྟེ་༎
+T04bsa003_u:1172	 gṛhamāgatya sāyāhne śerate sma mṛtā iva // SBca_8.73 //	T04D3871:26a-37	ཁྱིམ་དུ་འོངས་ནས་ཆད་པའི་ལུས་༎ རོ་དང་འདྲ་བར་ཉལ་བར་བྱེད་༎
+T04bsa003_u:1173	 daṇḍayātrābhirapare pravāsakleśaduḥkhitāḥ /	T04D3871:26a-39	ཁ་ཅིག་བྱེས་བགྲོད་ཉོན་མོངས་དང་༎ རིང་དུ་སོང་བའི་སྡུག་བསྔལ་ཅན་༎
+T04bsa003_u:1174	 vatsararaipi nekṣante putradārāṃstadarthinaḥ // SBca_8.74 //	T04D3871:26a-40	བུ་སྨད་འདོད་བཞིན་བུ་སྨད་རྣམས་༎ ཁྱུད་ཁོར་ལོས་ཀྱང་མཐོང་མི་འགྱུར་༎
+T04bsa003_u:1175	 yadarthameva vikrīta ātmā kāmavimohitaiḥ /	T04D3871:26a-42	བདག་ལ་ཕན་འདོད་རྣམ་རྨོངས་པས་༎ གང་དོན་ཉིད་དུ་བཙོང་བ་ཡང་༎
+T04bsa003_u:1176	 tanna prāptaṃ mudhaivāyurnītaṃ tu parakarmaṇā // SBca_8.75 //	T04D3871:26a-44	དེ་མ་ཐོབ་པར་དོན་མེད་པའི་༎ གཞན་གྱི་ལས་ཀྱི་རླུང་གིས་བདས་༎
+T04bsa003_u:1177	 vikrītasvātmabhāvānāṃ sadā preṣaṇakāriṇām /	T04D3871:26a-46	ལ་ལ་རང་གི་ལུས་བཙོང་ཞིང་༎ དབང་མེད་གཞན་གྱིས་བཀོལ་གྱུར་ཏེ་༎
+T04bsa003_u:1178	 prasūyante striyo 'nyeṣāmaṭavīviṭapādiṣu // SBca_8.76 //	T04D3871:26b-0	ཆུང་༄༢༦བ་མ་དག་ཀྱང་བུ་བྱུང་ན་༎ ཤིང་དྲུང་དགོན་པར་བབ་བབ་འབྱུང་༎
+T04bsa003_u:1179	 raṇaṃ jīvitasaṃdehaṃ viśanti kila jīvitum /  mānārthaṃ dāsatāṃ yānti mūḍhāḥ kāmaviḍambitāḥ // SBca_8.77 //	T04D3871:26b-2	འདོད་པས་བསླུས་པའི་གླེན་པ་དག་།འཚོ་འདོད་འཚོ་བར་བྱའོ་ཞེས་༎ སྲོག་སྟོར་དོགས་བཞིན་ག-ཡུལ་དུ་འཇུག་། ཁེ་ཕྱིར་བྲན་དུ་འགྲོ་བར་བྱེད་༎
+T04bsa003_u:1181	 chidyante kāminaḥ kecidanye śūlasamarpitāḥ /  dṛśyante dahyamānāśca hanyamānāśca śaktibhiḥ // SBca_8.78 //	T04D3871:26b-4	འདོད་ལྡན་ལ་ལ་ལུས་ཀྱང་བཅད་༎ ཁ་ཅིག་མདུང་ཐུང་དག་གིས་བསྣུན་༎ ཁ་ཅིག་བསྲེགས་པ་དག་ཀྱང་སྣང་༎
+T04bsa003_u:1183	 arjanarakṣaṇanāśaviṣādair arthamanarthamanantamavehi /  vyagratayā dhanasaktamatīnāṃ nāvasaro bhavaduḥkhavimukteḥ // SBca_8.79 //	T04D3871:26b-8	བསགས་དང་བསྲུང་དང་བརླག་པའི་གདུང་བ་ཡིས་༎ ནོར་ནི་ཕུང་ཁྲོལ་མཐའ་ཡས་ཤེས་པར་བྱ་༎ ནོར་ལ་ཆགས་པས་ག-ཡེངས་པར་གྱུར་པ་རྣམས་༎ སྲིད་པའི་སྡུག་བསྔལ་ལས་གྲོལ་སྐབས་མེད་དོ་༎
+T04bsa003_u:1185	 evamādīnavo bhūyānalpāsvādastu kāminām /	T04D3871:26b-12	འདོད་ལྡན་རྣམས་ལ་དེ་ལ་སོགས་༎ ཉེས་དམིགས་མང་ལ་མནོག་ཆུང་སྟེ་༎
+T04bsa003_u:1186	 śakaṭaṃ vahato yadvatpaśorghāsalavagrahaḥ // SBca_8.80 //	T04D3871:26b-14	ཤིང་རྟ་འདྲེན་པའི་ཕྱུགས་དག་གིས་༎ རཙབ༹་ནི་ཁམ་འགའ་ཟོས་པ་བཞིན་༎
+T04bsa003_u:1187	 tasyāsvādalavasyārthe yaḥ paśorapyadurlabhaḥ /  hatā daivahateneyaṃ kṣaṇasaṃpatsudurlabhā // SBca_8.81 //	T04D3871:26b-16	ཕྱུགས་ཀྱིས་བསྒྲུབས་ནའང་མི་དཀོན་པའི་༎ དལ་འབྱོར་ཕུན་སུམ་རྙེད་དཀའ་འདི་༎ ལས་ཀྱིས་མནར་བ་རྣམས་ཀྱིས་བཅོམ་༎
+T04bsa003_u:1189	 avaśyaṃ ganturalpasya narakādiprapātinaḥ /  kāyasyārthe kṛto yo 'yaṃ sarvakālaṃ pariśramaḥ // SBca_8.82 //	T04D3871:26b-20	འདོད་པ་ངེས་པར་འཇིག་འགྱུར་ཞིང་༎ དམྱལ་ལ་སོགས་པར་ལྟུང་བྱེད་པ་༎ ཆེན་པོ་མིན་ཕྱིར་དུས་ཀུན་དུ་༎
+T04bsa003_u:119	 mañjughoṣaprabhṛtayaḥ pūjayanti yathā jinān /	T04D3871:4b-24	ཇི་ལྟར་འཇམ་དབྱངས་ལ་སོགས་པས་༎ རྒྱལ་བ་རྣམས་ལ་མཆོད་མཛད་པ་༎
+T04bsa003_u:1191	 tataḥ koṭiśatenāpi śramabhāgena buddhatā /  caryāduḥkhānmahadduḥkhaṃ sā ca bodhirna kāminām // SBca_8.83 //  na śastraṃ na viṣaṃ nāgnirna prapāto na vairiṇaḥ /	T04D3871:26b-25	ཚེགས་ཀྱིས་སངས་རྒྱས་ཉིད་འགྲུབ་ན་༎ འདོད་ལྡན་བྱང་ཆུབ་སྤྱོད་པ་བས་༎ སྡུག་བསྔལ་ཆེ་ལ་བྱང་ཆུབ་མེད་༎
+T04bsa003_u:1194	 kāmānāmupamāṃ yānti narakādivyathāsmṛteḥ // SBca_8.84 //  evamudvijya kāmebhyo viveke janayedratim /  kalahāyāsaśūnyāsu śāntāsu vanabhūmiṣu // SBca_8.85 //  dhanyaiḥ śaśāṅkakaracandanaśītaleṣu ramyeṣu harmyavipuleṣu śilātaleṣu /	T04D3871:26b-28	དམྱལ་སོགས་སྡུག་བསྔལ་བསམ་བྱས་ན་༎ འདོད་པ་རྣམས་ལ་མཚོན་དང་ནི་༎ དུག་དང་མེ་དང་ག-ཡང་ས་དང་༎ དགྲ་རྣམས་ཀྱིས་ཀྱང་དཔེར་མི་ཕོད་༎ དེ་ལྟར་འདོད་ལ་སྐྱོ་བྱས་ཏེ་༎ རྩོད་དང་ཉོན་མོངས་ཀྱིས་སྟོང་པ་༎ ཞི་བའི་ནགས་ཀྱི་ནང་དག་ཏུ་༎
+T04bsa003_u:1199	 vihṛtya yatra kvacidiṣṭakālaṃ śūnyālaye vṛkṣatale guhāsu /	T04D3871:26b-39	ཁང་སྟོང་ཤིང་དྲུང་ཕུག་དག་ཏུ་༎ གང་དུ་ཇི་སྲིད་འདོད་གནས་ཤིང་༎
+T04bsa003_u:12	 buddhānubhāvena tathā kadācil lokasya puṇyeṣu matiḥ kṣaṇaṃ syāt // SBca_1.5 //	T04D3871:2a-5	ད་བཞིན་སངས་རྒྱས་མཐུ་ཡིས་བརྒྱ་ལམ་ན་༎ འཇིག་རྟེན་བསོད་ནམས་བློ་གྲོས་ཐང་འགའ་འབྱུང་༎
+T04bsa003_u:120	 tathā tathāgatānnāthān saputrān pūjayāmyaham // SBca_2.22 //	T04D3871:4b-26	དེ་བཞིན་བདག་གིས་དེ་བཞིན་གཤེགས་༎ མགོན་པོ་སྲས་དང་བཅས་རྣམས་མཆོད་༎
+T04bsa003_u:1200	 parigraharakṣaṇakhedamuktaḥ caratyapekṣāvirato yatheṣṭam // SBca_8.87 //	T04D3871:26b-41	ཡོངས་འཛིན་བསྲུང་བའི་སྡུག་བསྔལ་སྤངས་༎ ལྟོས་པ་མེད་པར་བག་ཡངས་སྤྱོད་༎
+T04bsa003_u:1201	 svacchandacāryanilayaḥ pratibaddho na kasyacit /	T04D3871:27a-1	སྤྱོད་ཅིང་ཆགས་མེད་ལ་༎ གང་དང་ཡང་ནི་འབྲེལ་མེད་པ་༎
+T04bsa003_u:1202	 yatsaṃtoṣasukhaṃ bhuṅkte tadindrasyāpi durlabham // SBca_8.88 //	T04D3871:27a-3	ཆོག་ཤེས་བདེ་སྤྱོད་གང་ཡིན་པ་༎ དབང་པོས་ཀྱང་ནི་དེ་རྙེད་དཀའ་༎
+T04bsa003_u:1203	 evamādibhirākārairvivekaguṇabhāvanāt /	T04D3871:27a-5	དེ་ལ་སོགས་པའི་རྣམ་པ་ཡིས་༎ དབེན་པའི་ཡོན་ཏན་བསམ་བྱས་ནས་༎
+T04bsa003_u:1204	 upaśāntavitarkaḥ san bodhicittaṃ tu bhāvayet // SBca_8.89 //	T04D3871:27a-7	རྣམ་རྟོག་ཉེ་བར་ཞི་བ་དང་༎ བྱང་ཆུབ་སེམས་ནི་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:1205	 parātmasamatāmādau bhāvayedevamādarāt /	T04D3871:27a-8	བདག་དང་གཞན་དུ་མཉམ་པ་ནི་༎ དང་པོ་ཉིད་དུ་འབད་དེ་བསྒོམ་༎
+T04bsa003_u:1206	 samaduḥkhasukhāḥ sarve pālanīyā mayātmavat // SBca_8.90 //	T04D3871:27a-10	བདེ་དང་སྡུག་བསྔལ་མཉམ་པས་ན་༎ ཐམས་ཅད་བདག་བཞིན་བསྲུང་བར་བྱ་༎
+T04bsa003_u:1207	 hastādibhedena bahuprakāraḥ kāyo yathaikaḥ paripālanīyaḥ /	T04D3871:27a-12	ལག་པ་ལ་སོགས་དབྱེ་བ་རྣམ་མང་ཡང་༎ ཡོངས་སུ་བསྲུང་བྱའི་ལུས་སུ་གཅིག་པ་ལྟར་༎
+T04bsa003_u:1208	 tathā jagadbhinnamabhinnaduḥkhasukhātmakaṃ sarvamidaṃ tathaiva // SBca_8.91 //	T04D3871:27a-14	དེ་བཞིན་འགྲོ་བ་ཐ་དད་བདེ་སྡུག་དག་། ཐམས་ཅད་བདག་བཞིན་བདེ་བ་འདོད་མཉམ་གཅིག་། གལ་ཏེ་བདག་གི་སྡུག་བསྔལ་གྱིས་༎
+T04bsa003_u:121	 svarāṅgasāgaraiḥ stotraiḥ staumi cāhaṃ guṇodadhīn /	T04D3871:4b-28	ཡོན་ཏན་རྒྱ་མཚོ་རྣམས་ལ་བདག་། བསྟོད་དབྱངས་ཡན་ལག་རྒྱ་མཚོས་བསྟོད་༎
+T04bsa003_u:1210	 tathāpi tadduḥkhameva mamātmasnehaduḥsaham // SBca_8.92 //	T04D3871:27a-16	དེ་ལྟའང་དེ་བདག་སྡུག་བསྔལ་དེ་༎ བདག་ཏུ་ཞེན་པས་མི་བཟོད་ཉིད་༎
+T04bsa003_u:1212	 tathāpi tasya tadduḥkhamātmasnehena duḥsaham // SBca_8.93 //	T04D3871:27a-18	དེ་བཞིན་གཞན་གྱི་སྡུག་བསྔལ་དག་། བདག་ལ་འབབ་པར་མི་འགྱུར་ཡང་༎ དེ་ལྟའང་དེ་བདག་སྡུག་བསྔལ་དེ་༎ བདག་ཏུ་ཞེན་པས་བཟོད་པར་དཀའ་༎
+T04bsa003_u:1213	 mayānyaduḥkhaṃ hantavyaṃ duḥkhatvādātmaduḥkhavat /	T04D3871:27a-21	བདག་གིས་གཞན་གྱི་སྡུག་བསྔལ་བསལ་༎ སྡུག་བསྔལ་ཡིན་ཕྱིར་བདག་སྡུག་བཞིན་༎
+T04bsa003_u:1214	 anugrāhyā mayānye 'pi sattvatvādātmasattvavat // SBca_8.94 //	T04D3871:27a-23	བདག་གིས་གཞན་ལ་ཕན་པར་བྱ་༎ སེམས་ཅན་ཡིན་ཕྱིར་བདག་ལུས་བཞིན་༎
+T04bsa003_u:1215	 yadā mama pareṣāṃ ca tulyameva sukhaṃ priyam /	T04D3871:27a-25	གང་ཚེ་བདག་དང་གཞན་གཉི་ག་། བདེ་བ་འདོད་དུ་མཚུངས་པ་ལ་༎
+T04bsa003_u:1216	 tadātmanaḥ ko viśeṣo yenātraiva sukhodyamaḥ // SBca_8.95 //	T04D3871:27a-26	བདག་དང་ཁྱད་པར་ཅི་ཡོད་ན་༎ གང་ཕྱིར་བདག་གཅིག་བདེ་བར་བརྩོན་༎
+T04bsa003_u:1217	 yadā mama pareṣāṃ ca bhayaṃ duḥkhaṃ ca na priyam /	T04D3871:27a-28	གང་ཚེ་བདག་དང་གཞན་གཉི་ག་། སྡུག་བསྔལ་མི་འདོད་མཚུངས་པ་ལ་༎
+T04bsa003_u:1218	 tadātmanaḥ ko viśeṣo yattaṃ rakṣāmi netaram // SBca_8.96 //	T04D3871:27a-29	བདག་དང་ཁྱད་པར་ཅི་ཡོད་ན་༎ གང་ཕྱིར་གཞན་མིན་བདག་སྲུང་བྱེད་༎
+T04bsa003_u:1219	 tadduḥkhena na me bādhetyato yadi na rakṣyate /  nāgāmikāyaduḥkhānme bādhā tatkena rakṣyate // SBca_8.97 //	T04D3871:27a-31	གལ་ཏེ་དེ་ལ་སྡུག་བསྔལ་བས་༎ བདག་ལ་མི་གནོད་ཕྱིར་མི་བསྲུང་༎ མ་འོངས་པ་ཡི་སྡུག་བསྔལ་ཡང་༎ གནོད་མི་བྱེད་ན་དེ་ཅི་བསྲུང་༎
+T04bsa003_u:122	 stutisaṃgītimeghāśca saṃbhavantveṣvananyathā // SBca_2.23 //	T04D3871:4b-29	བསྟོད་དབྱངས་སྙན་སྤྲིན་དེ་དག་ལ་༎
+T04bsa003_u:1221	 ahameva tadāpīti mithyeyaṃ parikalpanā /	T04D3871:27a-35	བདག་གིས་དེ་ནི་མྱོང་སྙམ་པའི་༎ རྣམ་པར་རྟོག་དེ་ལོག་པ་སྟེ་༎
+T04bsa003_u:1222	 anya eva mṛto yasmādanya eva prajāyate // SBca_8.98 //	T04D3871:27a-37	འདི་ལྟར་ཤི་བའང་གཞན་ཉིད་ལ་༎ སྐྱེ་བ་ཡང་ནི་གཞན་ཉིད་ཡིན་༎
+T04bsa003_u:1223	 yadi tasyaiva yadduḥkhaṃ rakṣyaṃ tasyaiva tanmatam /  pādaduḥkhaṃ na hastasya kasmāttattena rakṣyate // SBca_8.99 //	T04D3871:27a-41	རྐྱང་པའི་སྡུག་བསྔལ་ལག་པས་མིན་༎ ཅི་ཕྱིར་དེས་ནི་དེ་བསྲུང་བྱ་༎
+T04bsa003_u:1225	 ayuktamapi cedetadahaṃkārātpravartate /	T04D3871:27b-0	གལ་༄༢༧བ་ཏེ་རིགས་པ་མིན་ཡང་འདིར་༎ བདག་ཏུ་འཛིན་པས་འཇུག་ཅེ་ན་༎
+T04bsa003_u:1226	 tadayuktaṃ nivartyaṃ tatsvamanyacca yathābalam // SBca_8.100 //	T04D3871:27b-2	བདག་གཞན་མི་རིགས་གང་ཡིན་ཏེ་༎ ཅི་ནུས་པར་ནི་སྤང་བྱ་ཉིད་༎
+T04bsa003_u:1227	 saṃtānaḥ samudāyaśca paṅktisenādivanmṛṣā /	T04D3871:27b-4	རྒྱུད་དང་ཚོགས་ཞེས་བྱ་བ་ནི་༎ ཕྲེང་བ་དམག་ལ་སོགས་བཞིན་བརྫུན་༎
+T04bsa003_u:1228	 yasya duḥkhaṃ sa nāstyasmātkasya tatsvaṃ bhaviṣyati // SBca_8.101 //	T04D3871:27b-6	སྡུག་བསྔལ་ཅན་གང་དེ་མེད་པ་༎ དེས་འདི་སུ་ཞིག་སྤང་བར་འགྱུར་༎
+T04bsa003_u:1229	 asvāmikāni duḥkhāni sarvāṇyevāviśeṣataḥ /	T04D3871:27b-8	སྡུག་བསྔལ་བདག་པོ་མེད་པར་ནི་༎ ཐམས་ཅད་བྱེ་བྲག་མེད་པ་ཉིད་༎
+T04bsa003_u:123	 sarvakṣetrāṇusaṃkhyaiśca praṇāmaiḥ praṇamāmyaham /  sarvatryadhvagatān buddhān sahadharmagaṇottamān // SBca_2.24 //	T04D3871:4b-30	ངེས་པར་ཀུན་དུ་འབྱུང་གྱུར་ཅིག་། དུས་གསུམ་གཤེགས་པའི་སངས་རྒྱས་ཀུན་༎ ཆོས་དང་ཚོགས་ཀྱི་མཆོག་བཅས་ལ་༎ ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་ཀྱི་༎ ལུས་བཏུད་པ་ཡིས་བདག་ཕྱག་འཚལ་༎
+T04bsa003_u:1230	 duḥkhatvādeva vāryāṇi niyamastatra kiṃkṛtaḥ // SBca_8.102 //  duḥkhaṃ kasmānnivāryaṃ cetsarveṣāmavivādataḥ /	T04D3871:27b-10	སྡུག་བསྔལ་ཡིན་ཕྱིར་དེ་བསལ་བྱ་༎ ངེས་པས་དེར་ནི་ཅི་ཞིག་བྱ་༎ ཅི་ཕྱིར་ཀུན་གྱི་སྡུག་བསྔལ་ནི་༎
+T04bsa003_u:1232	 vāryaṃ cetsarvamapyevaṃ na cedātmāpi sattvavat // SBca_8.103 //	T04D3871:27b-14	གལ་ཏེ་བཟློག་ནའང་ཐམས་ཅད་བཟློག་། དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན་༎
+T04bsa003_u:1233	 kṛpayā bahu duḥkhaṃ cetkasmādutpadyate balāt /	T04D3871:27b-15	སྙིང་རྗེ་སྡུག་བསྔལ་མང་གྱུར་པ་༎ ཅི་ཕྱིར་ནན་གྱིས་སྐྱེད་ཅེ་ན་༎
+T04bsa003_u:1234	 jagadduḥkhaṃ nirūpyedaṃ kṛpāduḥkhaṃ kathaṃ bahu // SBca_8.104 //	T04D3871:27b-17	འགྲོ་བའི་སྡུག་བསྔལ་བསམ་བྱས་ན་༎ ཇི་ལྟར་སྙིང་རྗེ་སྡུག་བསྔལ་མང་༎
+T04bsa003_u:1235	 bahūnāmekaduḥkhena yadi duḥkhaṃ vigacchati /  utpādyameva tadduḥkhaṃ sadayena parātmanoḥ // SBca_8.105 //	T04D3871:27b-19	གལ་ཏེ་སྡུག་བསྔལ་གཅིག་གིས་ནི་༎ སྡུག་བསྔལ་མང་པོ་མེད་འགྱུར་ན་༎ བརྩེ་དང་ལྡན་པས་སྡུག་བསྔལ་དེ་༎ རང་དང་གཞན་ལ་བསྐྱེད་བྱ་ཉིད་༎
+T04bsa003_u:1237	 ataḥ supuṣpacandreṇa jānatāpi nṛpāpadam /	T04D3871:27b-23	དེས་ན་མེ་ཏོག་ཟླ་མཛེས་ཀྱིས་༎ རྒྱལ་པོའི་གནོད་པ་ཤེས་ཀྱང་ནི་༎
+T04bsa003_u:1238	 ātmaduḥkhaṃ na nihataṃ bahūnāṃ duḥkhināṃ vyayāt // SBca_8.106 //	T04D3871:27b-25	བདག་གི་སྡུག་བསྔལ་མ་བསལ་ཏེ་༎ མང་པོའི་སྡུག་བསྔལ་ཟད་འགྱུར་ཕྱིར་༎
+T04bsa003_u:1239	 evaṃ bhāvitasaṃtānāḥ paraduḥkhasamapriyāḥ /	T04D3871:27b-27	དེ་ལྟར་རྒྱུད་ནི་གོམས་གྱུར་པ་༎ གཞན་གྱི་སྡུག་བསྔལ་ཞི་དགའ་བས་༎
+T04bsa003_u:1240	 avīcimavagāhante haṃsāḥ padmavanaṃ yathā // SBca_8.107 //	T04D3871:27b-29	པདམའི་མཚོ་རུ་ངང་པ་ལྟར་༎ མནར་མེད་པ་ཡང་འཇུག་པར་འགྱུར་༎
+T04bsa003_u:1241	 mucyamāneṣu sattveṣu ye te prāmodyasāgarāḥ /	T04D3871:27b-31	སེམས་ཅན་རྣམ་པར་གྲོལ་བ་ན་༎ དགའ་བའི་རྒྱ་མཚོ་གང་ཡིན་པ་༎
+T04bsa003_u:1242	 taireva nanu paryāptaṃ mokṣeṇārasikena kim // SBca_8.108 //	T04D3871:27b-33	དེ་ཉིད་ཀྱིས་ནི་ཆོག་མིན་ནམ་༎ ཐར་པ་འདོད་པས་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:1243	 ataḥ parārthaṃ kṛtvāpi na mado na ca vismayaḥ /	T04D3871:27b-35	དེ་ལྟས་གཞན་གྱི་དོན་བྱས་ཀྱང་༎ རློམ་སེམས་དང་ནི་ངོ་མཚར་མེད་༎
+T04bsa003_u:1244	 na vipākaphalākāṅkṣā parārthaikāntatṛṣṇayā // SBca_8.109 //	T04D3871:27b-37	གཅིག་ཏུ་གཞན་དོན་ལ་དགའ་བས་༎ རྣམ་སྨིན་འབྲས་བུའི་རེ་བ་མེད་༎
+T04bsa003_u:1245	 tasmādyathāntaśo 'varṇādātmānaṃ gopayāmyaham /	T04D3871:27b-39	དེ་བས་ཇི་ལྟར་ཆུང་དུ་ན་༎ མི་སྙན་ལས་ཀྱང་བདག་བསྲུང་བ་༎
+T04bsa003_u:1246	 rakṣācittaṃ dayācittaṃ karomyevaṃ pareṣvapi // SBca_8.110 //	T04D3871:27b-41	དེ་བཞིན་གཞན་ལ་བསྲུང་སེམས་དང་༎ སྙིང་རྗེའི་སེམས་ནི་དེ་ལྟར་བྱ་༎
+T04bsa003_u:1247	 abhyāsādanyadīyeṣu śukraśoṇitabinduṣu /	T04D3871:27b-42	གོམས་པ་ཡིས་ནི་གཞན་དག་གི་༎ ཁུ་བ་ཁྲག་གི་ཐིགས་པ་ལ་༎
+T04bsa003_u:1248	 bhavatyahamiti jñānamasatyapi hi vastuni // SBca_8.111 //	T04D3871:27b-44	དངོས་པོ་མེད་པར་གྱུར་ཀྱང་ནི་༎ བདག་གོ་ཞེས་ནི་ཤེས་པ་ལྟར་༎
+T04bsa003_u:1249	 tathā kāyo 'nyadīyo 'pi kimātmeti na gṛhyate /	T04D3871:27b-46	དེ་བཞིན་གཞན་གྱི་ལུས་ལ་ཡང་༎ བདག་ཅེས་ཅི་ཡི་ཕྱིར་མི་གཟུང་༎
+T04bsa003_u:125	 sarvacaityāni vande 'haṃ bodhisattvāśrayāṃstathā /	T04D3871:5a-0	བྱང་ཆུབ་སེམས་ཀྱི་གཞི་རྣམས་༄༥ཨ་༌་༎ དང་༏་། མཆོད་རྟེན་རྣམས་ལ་བདག་ཕྱག་འཚལ་༎
+T04bsa003_u:1250	 paratvaṃ tu svakāyasya sthitameva na duṣkaram // SBca_8.112 //	T04D3871:28a-0	༄༢༨ཨ་༌་༎ བཞག་པ་དེ་ལྟར་དཀའ་བ་མེད་༎ བདག་ཉིད་སྐྱོན་བཅས་གཞན་ལ་ཡང་༎
+T04bsa003_u:1251	 jñātvā sadoṣamātmānaṃ parānapi guṇodadhīn /	T04D3871:28a-2	ཡོན་ཏན་རྒྱ་མཚོར་ཤེས་བྱས་ནས་༎
+T04bsa003_u:1252	 ātmabhāvaparityāgaṃ parādānaṃ ca bhāvayet // SBca_8.113 //	T04D3871:28a-3	བདག་འཛིན་ཡོངས་སུ་དོར་བ་དང་༎ གཞན་བླང་བ་ནི་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:1253	 kāyasyāvayavatvena yathābhīṣṭāḥ karādayaḥ /	T04D3871:28a-4	ཇི་ལྟར་ལག་པ་ལ་སོགས་པ་༎ ལུས་ཀྱི་ཡན་ལག་ཡིན་འདོད་ལྟར་༎
+T04bsa003_u:1255	 yathātmabuddhirabhyāsātsvakāye 'sminnirātmake /	T04D3871:28a-8	ཇི་ལྟར་བདག་མེད་ལུས་འདི་ལ་༎
+T04bsa003_u:1256	 pareṣvapi tathātmatvaṃ kimabhyāsānna jāyate // SBca_8.115 //	T04D3871:28a-10	དེ་བཞིན་སེམས་ཅན་གཞན་ལ་ཡང་༎ གོམས་པས་བདག་བློ་ཅིས་མི་སྐྱེ་༎ དེ་ལྟ་ན་ནི་གཞན་གྱི་དོན་༎
+T04bsa003_u:1257	 evaṃ parārthaṃ kṛtvāpi na mado na ca vismayaḥ /	T04D3871:28a-13	བྱས་ཀྱང་ངོ་མཚར་རློམ་མི་འབྱུང་༎
+T04bsa003_u:1258	 ātmānaṃ bhojayitvaiva phalāśā na ca jāyate // SBca_8.116 //	T04D3871:28a-14	བདག་ཉིད་ཀྱིས་ནི་ཟས་ཟོས་ནས་༎ ལན་ལ་རེ་བ་མི་འབྱུང་བཞིན་༎
+T04bsa003_u:1259	 tasmādyathārtiśokāderātmānaṃ goptumicchasi /	T04D3871:28a-16	དེ་བས་ཇི་ལྟར་ཆུང་དུ་ན་༎ མི་སྙན་ལས་ཀྱང་བདག་བསྲུང་བ་༎
+T04bsa003_u:126	 namaḥ karomyupādhyāyānabhivandyān yatīṃstathā // SBca_2.25 //	T04D3871:5a-2	མཁན་པོ་དེ་བཞིན་སློབ་དཔོན་དང་༎ བརྟུལ་ཞུགས་མཆོག་ལ་ཕྱག་འཚལ་ལོ་༎
+T04bsa003_u:1260	 rakṣācittaṃ dayācittaṃ jagatyabhyasyatāṃ tathā // SBca_8.117 //	T04D3871:28a-18	དེ་བཞིན་འགྲེ་ལ་བསྲུང་སེམས་དང་༎ སྙིང་རྗེའི་སེམས་ནི་གོམས་པར་བྱ་༎
+T04bsa003_u:1261	 adhyatiṣṭhadato nāthaḥ svanāmāpyavalokitaḥ /  parṣacchāradyabhayamapyapanetuṃ janasya hi // SBca_8.118 //	T04D3871:28a-19	དེ་བས་མགོན་པོ་སྤྱན་རས་གཟིགས་༎
+T04bsa003_u:1263	 duṣkarānna nivarteta yasmādabhyāsaśaktitaḥ /	T04D3871:28a-23	དཀའ་ལས་ཕྱིར་ལྡོག་མི་བྱ་སྟེ་༎ འདི་ལྟར་གོམས་པའི་མཐུ་ཡིས་ནི་༎
+T04bsa003_u:1264	 yasyaiva śravaṇātrāsastenaiva na vinā ratiḥ // SBca_8.119 //  ātmānaṃ cāparāṃścaiva yaḥ śīghraṃ trātumicchati /	T04D3871:28a-26	དེ་ཉིད་མེད་ན་མི་དགར་འགྱུར་༎
+T04bsa003_u:1266	 sa caretparamaṃ guhyaṃ parātmaparivartanam // SBca_8.120 //	T04D3871:28a-27	གང་ཞིག་བདག་དང་གཞན་རྣམས་ནི་༎
+T04bsa003_u:127	 buddhaṃ gacchāmi śaraṇaṃ yāvadā bodhimaṇḍataḥ /	T04D3871:5a-3	བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར་༎ སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི་༎
+T04bsa003_u:1272	 ratnatrayasvamādadyādyenāvīcīndhano bhavet // SBca_8.123 //	T04D3871:28a-40	དཀོན་མཆོག་གསུམ་གྱི་དཀོར་བརྐུས་ནས་༎ དེས་ནི་མནར་མེད་བསྲེག་འགྱུར་ན་༎
+T04bsa003_u:1273	 kaḥ paṇḍitastamātmānamicchedrakṣetprapūjayet //	T04D3871:28a-42	མཁས་པ་སུ་ཞིག་ལུས་དེ་ལ་༎ འདོད་ཅིང་བསྲུང་དང་མཆོད་བྱེད་ཀྱི་༎
+T04bsa003_u:1274	 na paśyecchatruvaccainaṃ kaścainaṃ pratimānayet // SBca_8.124 //	T04D3871:28a-44	འདི་ལ་སུ་ཞིག་དགྲ་བཞིན་དུ་༎ བལྟ་བར་མི་བྱེད་བརྙས་མི་བྱེད་༎
+T04bsa003_u:1275	 yadi dāsyāmi kiṃ bhokṣye ityātmārthe piśācatā /	T04D3871:28a-46	གལ་ཏེ་བྱིན་ན་ཅི་སྤྱད་ཅེས་༎ བདག་༄༢༨བ་དོན་སེམས་པ་འདྲེ་ཡི་ཚུལ་༎
+T04bsa003_u:1276	 yadi bhokṣye kiṃ dadāmīti parārthe devarājatā // SBca_8.125 //	T04D3871:28b-1	གལ་ཏེ་སྤྱད་ན་ཅི་སྦྱིན་ཅེས་༎ གཞན་དོན་སེམས་པ་ལྷ་ཡི་ཆོས་༎
+T04bsa003_u:1277	 ātmārthaṃ pīḍayitvānyaṃ narakādiṣu pacyate /	T04D3871:28b-3	བདག་ཕྱིར་གཞན་ལ་གནོད་བྱས་ན་༎ དམྱལ་ལ་སོགས་པར་གདུངས་པར་འགྱུར་༎
+T04bsa003_u:1278	 ātmānaṃ pīḍayitvā tu parārthaṃ sarvasaṃpadaḥ // SBca_8.126 //	T04D3871:28b-5	གཞན་ཕྱིར་བདག་ལ་གནོད་བྱས་ན་༎ ཕུན་སུམ་ཚོགས་པ་ཐམས་ཅད་འཐོབ་༎
+T04bsa003_u:1279	 durgatirnīcatā maurkhyaṃ yayaivātmonnatīcchayā /	T04D3871:28b-7	བདག་ཉིད་མཐོ་བར་འདོད་པ་དེས་༎ ངན་འགྲོ་ངན་དང་གླེན་པར་འགྱུར་༎
+T04bsa003_u:128	 dharmaṃ gacchāmi śaraṇaṃ bodhisattvagaṇaṃ tathā // SBca_2.26 //	T04D3871:5a-5	ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི་༎ ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི་༎
+T04bsa003_u:1280	 tāmevānyatra saṃkrāmya sugatiḥ satkṛtirmatiḥ // SBca_8.127 //	T04D3871:28b-9	དེ་ཉིད་གཞན་ལ་སྤོ་བྱས་ན་༎ བདེ་འགྲོ་རིམ་གྲོ་འཐོབ་པར་འགྱུར་༎
+T04bsa003_u:1281	 ātmārthaṃ paramājñapya dāsatvādyanubhūyate /  parārthaṃ tvenamājñapya svāmitvādyanubhūyate // SBca_8.128 //	T04D3871:28b-13	གཞན་གྱི་དོན་དུ་བདག་སྤྱད་ན་༎ རྗེ་དཔོན་ཉིད་སོགས་མྱོང་བར་འགྱུར་༎
+T04bsa003_u:1283	 ye kecidduḥkhitā loke sarve te svasukhecchayā /  ye kecitsukhitā loke sarve te 'nyasukhecchayā // SBca_8.129 //	T04D3871:28b-15	འཇིག་རྟེན་བདེ་བ་ཇི་སྙེད་པ་༎ དེ་ཀུན་གཞན་བདེ་འདོད་ལས་བྱུང་༎ འཇིག་རྟེན་སྡུག་བསྔལ་ཇི་སྙེད་པ་༎ དེ་ཀུན་རང་བདེ་འདོད་ལས་བྱུང་༎
+T04bsa003_u:1285	 bahunā vā kimuktena dṛśyatāmidamantaram /	T04D3871:28b-19	མང་དུ་བཤད་ལྟ་ཅི་ཞིག་དགོས་༎
+T04bsa003_u:1286	 svārthārthinaśca bālasya muneścānyārthakāriṇaḥ // SBca_8.130 //	T04D3871:28b-20	བྱིས་པ་རང་གི་དོན་བྱེད་དང་༎ ཐུབ་པ་གཞན་གྱི་དོན་མཛད་པ་༎
+T04bsa003_u:1288	 svasukhasyānyaduḥkhena parivartamakurvataḥ // SBca_8.131 //	T04D3871:28b-22	བདག་བདེ་གཞན་གྱི་སྡུག་བསྔལ་དག་། ཡང་དག་བརྗེ་བ་མ་བྱས་ན་༎
+T04bsa003_u:1289	 āstāṃ tāvatparo loke dṛṣṭo 'pyartho na sidhyati /  bhṛtyasyākurvataḥ karma svāmino 'dadato bhṛtim // SBca_8.132 //	T04D3871:28b-23	སངས་རྒྱས་ཉིད་དུ་མི་འགྲུབ་ཅིང་༎ འཁོར་བ་ན་ཡང་བདེ་བ་མེད་༎ ཚེ་འདིའི་དོན་ཡང་འགྲུབ་མི་འགྱུར་༎
+T04bsa003_u:129	 vijñāpayāmi saṃbuddhān sarvadikṣu vyavasthitān /  mahākāruṇikāṃścāpi bodhisattvān kṛtāñjaliḥ // SBca_2.27 //	T04D3871:5a-7	ཕྱོགས་རྣམས་ཀུན་ན་བཞུགས་པ་ཡི་༎ རྫོགས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་༎ ཐུགས་རྗེ་ཆེན་པོ་མངའ་རྣམས་ལ་༎ ཐལ་མོ་སྦྱར་ཏེ་གསོལ་བ་ནི་༎
+T04bsa003_u:1291	 tyaktvānyonyasukhotpādaṃ dṛṣṭādṛṣṭasukhotsavam /	T04D3871:28b-27	མཐོང་དང་མ་མཐོང་བདེ་འགྲུབ་པའི་༎ ཕུན་སུམ་བདེ་སྐྱིད་ཡོངས་བོར་ཞིང་༎
+T04bsa003_u:1292	 anyonyaduḥkhanād ghoraṃ duḥkhaṃ gṛhṇanti mohitāḥ // SBca_8.133 //	T04D3871:28b-29	གཞན་ལ་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས་༎ རྨོངས་པས་སྡུག་བསྔལ་མི་བཟད་ལེན་༎
+T04bsa003_u:1293	 upadravā ye ca bhavanti loke yāvanti duḥkhāni bhayāni caiva /	T04D3871:28b-31	འཇིག་རྟེན་དག་ན་འཚེ་བ་གང་ཡོད་དང་༏་།འཇིགས་དང་སྡུག་བསྔལ་ཇི་སྙེད་ཡོད་གྱུར་པ་༎
+T04bsa003_u:1294	 sarvāṇi tānyātmaparigraheṇa tatkiṃ mamānena parigraheṇa // SBca_8.134 //	T04D3871:28b-32	དེ་ཀུན་བདག་ཏུ་འཛིན་པ་ལས་བྱུང་ན་༎ འདྲེ་ཆེན་དེས་ཀོ་བདག་ལ་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:1295	 ātmānamaparityajya duḥkhaṃ tyaktuṃ na śakyate /	T04D3871:28b-34	བདག་ཉིད་ཡོངས་སུ་མ་བཏང་ན་༎ སྡུག་བསྔལ་སྤང་བར་མི་ནུས་ཏེ་༎
+T04bsa003_u:1296	 yathāgnimaparityajya dāhaṃ tyaktuṃ na śakyate // SBca_8.135 //	T04D3871:28b-36	ཇི་ལྟར་མེ་ནི་མ་བཏང་ན་༎ སྲེག་པ་སྤོང་བར་མི་ནུས་བཞིན་༏
+T04bsa003_u:1297	 tasmātsvaduḥkhaśāntyarthaṃ paraduḥkhaśamāya ca /	T04D3871:28b-38	། དེ་ལྟར་བདག་གནོད་ཞི་བ་དང་༎ གཞན་གྱི་སྡུག་བསྔལ་ཞི་བྱའི་ཕྱིར་༎
+T04bsa003_u:1298	 dadāmyanyebhya ātmānaṃ parān gṛhṇāmi cātmavat // SBca_8.136 //	T04D3871:28b-39	བདག་ཉིད་གཞན་ལ་གཏང་བྱ་དང་༎ གཞན་རྣམས་བདག་བཞིན་གཟུང་བར་བྱ་༎
+T04bsa003_u:1299	 anyasaṃbaddhamasmīti niścayaṃ kuru he manaḥ /	T04D3871:28b-40	བདག་ནི་གཞན་གྱི་དབང་གྱུར་ཅེས་༎ ཡིད་ཁྱོད་ངེས་པར་ཤེས་ཀྱིས་ལ་༎
+T04bsa003_u:13	 tasmācchubhaṃ durbalameva nityaṃ balaṃ tu pāpasya mahatsughoram /	T04D3871:2a-7	དེ་ལྟས་དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་རྟག་༎ སྡིག་པ་སྟོབས་ཆེན་ཤིན་ཏུ་མི་བཟད་པ་༎
+T04bsa003_u:1300	 sarvasattvārthamutsṛjya nānyaccintyaṃ tvayādhunā // SBca_8.137 //	T04D3871:29a-0	སེམས་ཅན་ཀུན་༄༢༩ཨ་༌་༎ དོན་མ་གཏོགས་པར་༎
+T04bsa003_u:1301	 na yuktaṃ svārthadṛṣṭyādi tadīyaiścakṣurādibhiḥ /  na yuktaṃ syandituṃ svārthamanyadīyaiḥ karādibhiḥ // SBca_8.138 //	T04D3871:29a-3	གཞན་དབང་མིག་ལ་སོགས་པ་ཡིས་༎ རང་དོན་སྒྲུབ་པར་རིགས་མ་ཡིན་༎ དེ་དོན་མིག་ལ་སོགས་པ་ཡིས་༎ དེ་ལ་ལོག་པར་བྱ་མི་རིགས་༎
+T04bsa003_u:1303	 tena sattvaparo bhūtvā kāye 'smin yadyadīkṣase /	T04D3871:29a-7	དེས་ན་སེམས་ཅན་གཙོར་བྱ་སྟེ་༎ བདག་གི་ལུས་ལ་ཅི་མཐོང་བ་༎
+T04bsa003_u:1304	 tattadevāpahatyāsmāt parebhyo hitamācara // SBca_8.139 //  hīnādiṣvātmatāṃ kṛtvā paratvamapi cātmani /	T04D3871:29a-9	དེ་དང་དེ་ནི་ཕྲོགས་ནས་ཀྱང་༎ གཞན་དག་ལ་ནི་ཕན་པར་སྤྱོད་༎ དམན་སོགས་བདག་ཏུ་བྱས་པ་དང་༎ གཞན་ཉིད་དུ་ནི་བདག་བྱས་ནས་༎ རྣམ་རྟོག་མེད་པའི་སེམས་ཀྱིས་སུ་༎
+T04bsa003_u:1306	 bhāvayerṣyāṃ ca mānaṃ ca nirvikalpena cetasā // SBca_8.140 //	T04D3871:29a-13	ཕྲག་དོག་འགྲན་དང་ང་རྒྱལ་བསྒོམ་༎
+T04bsa003_u:1307	 eṣa satkriyate nāhaṃ lābhī nāhamayaṃ yathā /	T04D3871:29a-14	འདི་ནི་བཀུར་བྱས་བདག་ནི་མིན་༎ འདི་བཞིན་བདག་གིས་མ་རྙེད་ཅིང་༎
+T04bsa003_u:1308	 stūyate 'hamahaṃ nindyo duḥkhito 'hamayaṃ sukhī // SBca_8.141 //	T04D3871:29a-16	འདི་ནི་བསྟོད་བྱས་བདག་ལ་སྨོད་༎ འདི་བདེ་བ་དག་ནི་སྡུག་བསྔལ་ལ་༎
+T04bsa003_u:1309	 ahaṃ karomi karmāṇi tiṣṭhatyeṣa tu susthitaḥ /	T04D3871:29a-18	བདག་ནི་ལས་རྣམས་བྱེད་པ་དང་༎ འདི་ནི་བདེ་བ་ཉིད་དུ་གནས་༎
+T04bsa003_u:131	 anādimati saṃsāre janmanyatraiva vā punaḥ /	T04D3871:5a-11	ཐོག་མ་མེད་ལྡན་འཁོར་བ་ནས་༎ ཚེ་རབས་འདི་འམ་གཞན་དག་ཏུ་༎
+T04bsa003_u:1310	 ayaṃ kila mahāṃlloke nīco 'haṃ kila nirguṇaḥ // SBca_8.142 //  kiṃ nirguṇena kartavyaṃ sarvasyātmā guṇānvitaḥ /	T04D3871:29a-19	འདི་ནི་འཇིག་རྟེན་ལ་ཆེ་དང་༎ བདག་དམན་ཡོན་ཏན་མེད་པར་གྲག་། ཡོན་ཏན་མེད་པས་ཅི་ཞིག་བྱ་༎ བདག་ཀུན་ཡོན་ཏན་ལྡན་པ་ཉིད་༎
+T04bsa003_u:1312	 santi te yeṣvahaṃ nīcaḥ santi te yeṣvahaṃ varaḥ // SBca_8.143 //	T04D3871:29a-21	གང་བས་འདི་དམན་དེ་ཡོད་ཅིང་༎ གང་བས་བདག་མཆོག་དེ་ཡང་ཡོད་༎
+T04bsa003_u:1313	 śīladṛṣṭivipattyādikleśaśaktyā na madvaśāt /	T04D3871:29a-23	ཚུལ་ཁྲིམས་ལྟ་བ་གུད་སོགས་ནི་༎ ཉོན་མོངས་སྟོབས་ཀྱིས་བདག་དབང་མིན་༎
+T04bsa003_u:1314	 cikitsyo 'haṃ yathāśakti pīḍāpyaṅgīkṛtā mayā // SBca_8.144 //	T04D3871:29a-25	ཅི་ནུས་བདག་ནི་གསོ་དགོས་ཏེ་༎ གནོད་པའང་བདག་གིས་དང་དུ་བླང་༎
+T04bsa003_u:1315	 athāhamacikitsyo 'sya kasmānmāmavamanyase /	T04D3871:29a-27	འོན་ཏེ་བདག་འདིའི་གསོ་བྱ་མིན་༎ ཅི་ཕྱིར་བདག་ལ་བརྙས་པ་བྱེད་༎
+T04bsa003_u:1316	 kiṃ mamaitadguṇaiḥ kṛtyamātmā tu guṇavānayam // SBca_8.145 //	T04D3871:29a-29	བདག་ལ་དེ་ཡི་ཡོན་ཏན་གྱིས་༎ ཅི་བྱ་འདི་བདག་ཡོན་ཏན་ཅན་༎
+T04bsa003_u:1317	 durgativyālabaktrasthenaivāsya karuṇā jane /	T04D3871:29a-31	ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ་༎ འགྲོ་ལ་སྙིང་རྗེ་མེད་པར་འདི་༎
+T04bsa003_u:1318	 aparaṃ guṇamānena paṇḍitān vijigīṣate // SBca_8.146 //  samamātmānamālokya yataḥ svādhikyavṛddhaye /	T04D3871:29a-33	ཕྱིར་ལ་ཡོན་ཏན་རློམ་པ་ཡིས་༎ མཁས་པ་དག་ལ་བདོ་བར་འདོད་༎ བདག་དང་མཉམ་ལ་བལྟས་ནས་ནི་༎
+T04bsa003_u:132	 yanmayā paśunā pāpaṃ kṛtaṃ kāritameva vā // SBca_2.28 //	T04D3871:5a-13	བདག་གིས་མ་འཚལ་སྡིག་བགྱིས་པའམ་༎
+T04bsa003_u:1320	 kalahenāpi saṃsādhyaṃ lābhasatkāramātmanaḥ // SBca_8.147 //	T04D3871:29a-37	བདག་གི་རྙེད་དང་བཀུར་སྟི་ནི་༎ རྩོད་པ་ཡིས་ཀྱང་ངེས་པར་བསྒྲུབ་༎
+T04bsa003_u:1321	 api sarvatra me loke bhaveyuḥ prakaṭā guṇāḥ /	T04D3871:29a-39	ཅི་ནས་བདག་གི་ཡོན་ཏན་ནི་༎ འཇིག་རྟེན་ཀུན་ལ་བསལ་བ་དང་༎ གཞན་ཡང་འདི་ཡི་ཡོན་ཏན་གང་༎
+T04bsa003_u:1322	 api nāma guṇā ye 'sya na śroṣyantyapi kecana // SBca_8.148 //	T04D3871:29a-41	སུས་ཀྱང་ཐོས་པར་མི་འགྱུར་བྱ་༎
+T04bsa003_u:1323	 chādyerannapi me doṣāḥ syānme pūjāsya no bhavet /	T04D3871:29a-42	བདག་གི་སྐྱོན་ཡང་སྦ་བྱ་ཞིང་༎ བདག་ནི་མཆོད་འགྱུར་འདི་ལ་མིན་༎
+T04bsa003_u:1324	 sulabdhā adya me lābhāḥ pūjito 'hamayaṃ na tu // SBca_8.149 //	T04D3871:29a-44	བདག་དེང་རྙེད་པ་ལེགས་རྙེད་ཅིང་༎ བདག་ནི་བཀུར་འགྱུར་འདི་ལ་མིན་༎
+T04bsa003_u:1325	 paśyāmo muditāstāvaccirādenaṃ khalīkṛtam /	T04D3871:29b-0	འདི་ནི་མ་རུངས་༄༢༩བ་བྱས་པ་ལ་༎ ཡུན་རིང་བདག་ནི་དགའ་བས་ལྟ་༎
+T04bsa003_u:1326	 hāsyaṃ janasya sarvasya nindyamānamitastataḥ // SBca_8.150 //	T04D3871:29b-2	འགྲོ་བ་ཀུན་གྱི་བཞད་གད་དང་༎ ཕན་ཚུན་སྨོད་པ་དག་ཏུ་བྱ་༎
+T04bsa003_u:1327	 asyāpi hi varākasya spardhā kila mayā saha /	T04D3871:29b-3	ཉོན་མོངས་འདི་ཡང་བདག་དང་ནི་༎
+T04bsa003_u:1328	 kimasya śrutametāvat prajñā rūpaṃ kulaṃ dhanam // SBca_8.151 //	T04D3871:29b-4	ལྷན་ཅིག་ཏུ་ནི་འགྲན་ཅེས་གྲག་།འདི་དག་ཐོས་དང་ཤེས་རབ་བམ་༎ གཟུགས་རིགས་ནོར་གྱིས་མཉམ་མམ་ཅི་༎
+T04bsa003_u:1329	 evamātmaguṇān śrutvā kīrtyamānānitastataḥ /	T04D3871:29b-6	དེ་ལྟར་ཀུན་ལ་བསྒྲགས་པ་ཡི་༎ བདག་གི་ཡོན་ཏན་ཐོས་ནས་ནི་༎
+T04bsa003_u:133	 yaccānumoditaṃ kiṃcidātmaghātāya mohataḥ /	T04D3871:5a-15	གཏི་མུག་འཁྲུལ་པས་བདག་ནོན་ཏེ་༎ རྗེས་སུ་ཡིད་རངས་གང་བགྱིས་པ་༎
+T04bsa003_u:1330	 saṃjātapulako hṛṣṭaḥ paribhokṣye sukhotsavam // SBca_8.152 //	T04D3871:29b-8	སྤུ་ལྡང་དགའ་བ་སྐྱེ་གྱུར་པའི་༎ བདེ་སྐྱིད་ལ་ནི་ཡོངས་སུ་སྤྱོད་༎
+T04bsa003_u:1331	 yadyapyasya bhavellābho grāhyo 'smābhirasau balāt /  datvāsmai yāpanāmātramasmatkarma karoti cet // SBca_8.153 //	T04D3871:29b-10	ཅི་སྟེ་འདི་ལ་རྙེད་ཡོད་ཀྱང་༎ གལ་ཏེ་ང་ཡི་ལས་བྱེད་ན་༎ འདི་ལ་འཚོ་བ་ཙམ་བྱིན་ནས་༎ བདག་གི་སྟོབས་ཀྱིས་དེ་བླང་བྱ་༎
+T04bsa003_u:1333	 sukhācca cyāvanīyo 'yaṃ yojyo 'smadvyathayā sadā /	T04D3871:29b-14	འདི་ནི་བདེ་ལས་ཉམས་བྱ་ཞིང་༎ བདག་གི་གནོད་དང་རྟག་སྦྱར་བྱ་༎
+T04bsa003_u:1334	 anena śataśaḥ sarve saṃsāravyathitā vayam // SBca_8.154 //	T04D3871:29b-16	འདི་ཡིས་བརྒྱ་ཕྲག་ཐམས་ཅད་དུ་༎ འཁོར་བར་བདག་ལ་གནོད་པ་བྱས་༎
+T04bsa003_u:1335	 aprameyā gatāḥ kalpāḥ svārthaṃ jijñāsatastava /	T04D3871:29b-18	ཡིད་ཁྱོད་རང་དོན་བྱེད་འདོད་པས་༎ བསྐལ་པ་གྲངས་མེད་འདས་གྱུར་ཀྱང་༎
+T04bsa003_u:1336	 śrameṇa mahatānena duḥkhameva tvayārjitam // SBca_8.155 //	T04D3871:29b-20	ངལ་བ་ཆེན་པོ་དེ་ལྟ་བུར་༏་། ཁྱོད་ཀྱིས་སྡུག་བསྔལ་འབའ་ཞིག་བསྒྲུབས་༎
+T04bsa003_u:1337	 madvijñaptyā tathātrāpi pravartasvāvicārataḥ /  drakṣyasyetadguṇān paścādbhūtaṃ hi vacanaṃ muneḥ // SBca_8.156 //	T04D3871:29b-22	དེ་ལྟར་ངེས་པར་གཞན་དག་གི་། དོན་ལ་རབ་ཏུ་འཇུག་གྱིས་དང་༎ ཐུབ་པའི་བཀའ་ནི་མི་སླུ་བས་༎ དེ་ཡི་ཡོན་ཏན་ཕྱིས་མཐོང་འགྱུར་༎
+T04bsa003_u:1339	 abhaviṣyadidaṃ karma kṛtaṃ pūrvaṃ yadi tvayā /	T04D3871:29b-24	གལ་ཏེ་ཁྱོད་ཀྱིས་སྔ་དུས་སུ་༎ ལས་འདི་བྱས་པར་གྱུར་ན་ནི་༎
+T04bsa003_u:134	 tadatyayaṃ deśayāmi paścāttāpena tāpitaḥ // SBca_2.29 //	T04D3871:5a-17	ནོངས་པ་དེ་ནི་མཐོང་བགྱིས་ནས་༎ བསམ་པ་ཐག་པས་མགོན་ལ་བཤགས་༏
+T04bsa003_u:1340	 bauddhaṃ saṃpatsukhaṃ muktvā nābhaviṣyadiyaṃ daśā // SBca_8.157 //	T04D3871:29b-26	སངས་རྒྱས་ཕུན་སུམ་བདེ་མིན་པ་༎ གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད་༎
+T04bsa003_u:1341	 tasmādyathānyadīyeṣu śukraśoṇitabinduṣu /  cakartha tvamahaṃkāraṃ tathānyeṣvapi bhāvaya // SBca_8.158 //	T04D3871:29b-28	དེ་བས་འདི་ལྟར་གཞན་དག་གི་། ཁུ་བ་ཁྲག་གི་ཐིགས་པ་ལ་༎ ཁྱོད་ཀྱིས་ངར་འཛིན་བྱས་པ་ལྟར་༎ དེ་བཞིན་གཞན་ལའང་གོམས་པར་གྱིས་༎
+T04bsa003_u:1343	 anyadīyaścaro bhūtvā kāye 'smin yadyadīkṣase /	T04D3871:29b-31	གཞན་གྱི་རྟོག་ཆེན་བྱས་ནས་ནི་༎ བདག་གི་ལུས་ལ་ཅི་སྣང་བ་༎
+T04bsa003_u:1344	 tattadevāpahṛtyarthaṃ parebhyo hitamācara // SBca_8.159 //	T04D3871:29b-33	དེ་དང་དེ་ཉིད་ཕྲོགས་བྱས་ནས་༎ ཁྱོད་ཀྱིས་གཞན་ལ་ཕན་པ་སྤྱོད་༎
+T04bsa003_u:1345	 ayaṃ susthaḥ paro duḥstho nīcairanyo 'yamuccakaiḥ /	T04D3871:29b-35	བདག་སྐྱིད་གཞན་ནི་མི་སྐྱིད་ལ་༎
+T04bsa003_u:1346	 paraḥ karotyayaṃ neti kuruṣverṣyāṃ tvamātmani // SBca_8.160 //	T04D3871:29b-36	བདག་མཐོ་གཞན་ནི་དམའ་བ་དང་༎ བདག་ནི་ཕན་བྱེད་གཞན་མིན་ཞེས་༎ བདག་ལ་ཕྲག་དོག་ཅིས་མི་བྱེད་༎
+T04bsa003_u:1347	 sukhācca cyāvayātmānaṃ paraduḥkhe niyojaya /	T04D3871:29b-38	བདག་ནི་བདེ་དང་བྲལ་གྱིས་ཏེ་༎ གཞན་གྱི་སྡུག་བསྔལ་བདག་ལ་སྦྱོར་༎
+T04bsa003_u:135	 ratnatraye 'pakāro yo mātapitṛṣu vā mayā /  guruṣvanyeṣu vā kṣepāt kāyavāgbuddhibhiḥ kṛtaḥ // SBca_2.30 //	T04D3871:5a-19	། བདག་གིས་དཀོན་མཆོག་གསུམ་དང་ནི་༎ ཕ་མའམ་བླ་མ་གཞན་དག་ལ་༎ སྡིག་ཅན་བདག་གིས་སྡིག་པ་གང་༎
+T04bsa003_u:1350	 anyenāpi kṛtaṃ doṣaṃ pātayāsyaiva mastake /	T04D3871:29b-41	བདག་གི་སྐྱོན་ལ་བརྟག་པར་གྱིས་༎ གཞན་གྱིས་ཉེས་པ་བྱས་པ་ཡང་༎ རང་གི་སྐྱོན་དུ་བསྒྱུར་བྱོས་ལ་༎
+T04bsa003_u:1351	 alpamapyasya doṣaṃ ca prakāśaya mahāmuneḥ // SBca_8.162 //	T04D3871:29b-44	བདག་གི་ཉེས་པ་ཆུང་བྱས་ཀྱང་༎ སྐྱེ་བོ་མང་ལ་རབ་ཏུ་ཤོགས་༎
+T04bsa003_u:1352	 anyādhikayaśovādairyaśo 'sya malinīkuru /	T04D3871:30a-0	གཞན་གྱི་གྲགས་པ་ལྷག་༄༣༠ཨ་༌་༎ བརྗོད་པས་༎ རང་གི་གྲགས་པ་ཟིལ་གྱིས་ནོན་༎
+T04bsa003_u:1353	 nikṛṣṭadāsavaccainaṃ sattvakāryeṣu vāhaya // SBca_8.163 //	T04D3871:30a-2	བདག་ནི་བྲན་གྱི་ཐ་མ་ལྟར་༎ དོན་རྣམས་ཀུན་ལ་བཀོལ་བར་གྱིས་༎
+T04bsa003_u:1354	 nāgantukaguṇāṃśena stutyo doṣamayo hyayam /	T04D3871:30a-5	གློ་བུར་ཡོན་ཏན་ཆས་མི་བསྟོད་༎
+T04bsa003_u:1355	 yathā kaścinna jānīyādguṇamasya tathā kuru // SBca_8.164 //	T04D3871:30a-6	འདི་ཡི་ཡོན་ཏན་ཅི་ནས་ཀྱང་༎ འགས་ཀྱང་མི་ཤེས་དེ་ལྟར་གྱིས་༎
+T04bsa003_u:1356	 saṃkṣepādyadyadātmārthe pareṣvapakṛtaṃ tvayā /	T04D3871:30a-8	མདོར་ན་བདག་གི་དོན་གྱི་ཕྱིར་༎ ཁྱོད་ཀྱིས་གཞན་ལ་གནོད་བྱས་གང་༎
+T04bsa003_u:1357	 tattadātmani sattvārthe vyasanaṃ vinipātaya // SBca_8.165 //	T04D3871:30a-10	གནོད་དེ་སེམས་ཅན་དོན་གྱི་ཕྱིར་༎ བདག་ཉིད་ལ་ནི་འབབ་པར་གྱིས་༎
+T04bsa003_u:1358	 naivotsāho 'sya dātavyo yenāyaṃ mukharo bhavet /  sthāpyo navavadhūvṛttau hrīto bhīto 'tha saṃvṛtaḥ // SBca_8.166 //	T04D3871:30a-13	ཤེད་བསྐྱེད་པར་ནི་མི་བྱ་སྟེ་༎ བག་མ་གསར་བའི་ཚུལ་བཞིན་དུ་༎ ངོ་ཚ་འཇིགས་དང་བསྡམས་ཏེ་བཞག་། དེ་བྱ་དེ་ལྟར་གནས་བྱ་ཞིང་༎
+T04bsa003_u:1360	 evaṃ kuruṣva tiṣṭhaivaṃ na kartavyamidaṃ tvayā /	T04D3871:30a-16	དེ་ལྟར་ཁྱོད་ཀྱིས་མི་བྱ་བ་༎
+T04bsa003_u:1361	 evameva vaśaḥ kāryo nigrāhyastadatikrame // SBca_8.167 //	T04D3871:30a-17	དེ་ལྟར་འདི་ནི་དབང་བྱ་སྟེ་༎ དེ་ལས་འདས་ན་ཚར་གཅད་བྱ་༎
+T04bsa003_u:1362	 athaivamucyamāne 'pi citta nedaṃ kariṣyasi /	T04D3871:30a-19	འོན་ཏེ་དེ་ལྟར་གདམས་ཀྱང་ནི་༎ སེམས་ཁྱོད་དེ་ལྟར་མི་བྱེད་ན་༎
+T04bsa003_u:1363	 tvāmeva nigrahīṣyāmi sarvadoṣāstvadāśritāḥ // SBca_8.168 //	T04D3871:30a-21	ཁྱོད་ལ་ཉེས་པ་ཀུན་བསྟེན་པས་༎ ཁྱོད་ཉིད་ཚར་གཅད་བྱ་བར་ཟད་༎
+T04bsa003_u:1364	 kva yāsyasi mayā dṛṣṭaḥ sarvadarpānnihanmi te /  anyo 'sau pūrvakaḥ kālastvayā yatrāsmi nāśitaḥ // SBca_8.169 //	T04D3871:30a-23	ཁྱོད་ཀྱིས་ཁོ་བོ་གར་བརླག་པའི་༎ སྔོན་གྱི་དུས་དེ་གཞན་ཡིན་ཏེ་༎ ངས་མཐོང་ང་ཁྱོད་གང་དུ་འགྲོ་༎ ཁྱོད་ཀྱི་དྲེགས་པ་ཀུན་གཞོམ་བྱ་༎
+T04bsa003_u:1366	 adyāpyasti mama svārtha ityāśāṃ tyaja sāṃpratam /	T04D3871:30a-27	ད་དུང་བདག་ལ་རང་གི་དོན་༎
+T04bsa003_u:1367	 tvaṃ vikrīto mayānyeṣu bahukhedamacintayan // SBca_8.170 //	T04D3871:30a-28	ཡོད་སྙམ་སེམས་པ་དེ་དོར་ཅིག་། བདག་གིས་གཞན་ལ་ཁྱོད་བཙོང་གིས་༎ སྐྱོ་བར་མ་སེམས་ཞོ་ཤ་ཕུལ་༎
+T04bsa003_u:1368	 tvāṃ sattveṣu na dāsyāmi yadi nāma pramodataḥ /	T04D3871:30a-30	གལ་ཏེ་བག་མེད་གྱུར་ནས་ཁྱོད་༎ སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན་༎
+T04bsa003_u:1369	 tvaṃ māṃ narakapāleṣu pradāsyasi na saṃśayaḥ // SBca_8.171 //	T04D3871:30a-32	ཁྱོད་ཀྱིས་ཁོ་བོ་དམྱལ་བ་ཡི་༎ སྲུང་མ་རྣམས་ལ་བྱིན་དུ་ངེས་༎
+T04bsa003_u:137	 anekadoṣaduṣṭena mayā pāpena nāyakāḥ /  yatkṛtaṃ dāruṇaṃ pāpaṃ tatsarvaṃ deśayāmyaham // SBca_2.31 //	T04D3871:5a-23	ཤིན་ཏུ་མི་བཟད་བགྱིས་པ་དེ་༎
+T04bsa003_u:1370	 evaṃ cānekadhā datvā tvayāhaṃ vyathitaściram /  nihanmi svārthaceṭaṃ tvāṃ tāni vairāṇyanusmaran // SBca_8.172 //	T04D3871:30a-34	དེ་ལྟར་ཁྱོད་ཀྱིས་རེ་ལྟ་ཞིག་། ཁོ་བོ་བྱིན་པས་ཡུན་རིངས་སྡུག་། ང་ནི་ཁོན་རྣམས་དྲན་བྱས་ཏེ་༎ ཁྱོད་ཀྱིས་རང་དོན་སེམས་པ་གཞོམ་༎
+T04bsa003_u:1372	 na kartavyātmani prītiryadyātmaprītirasti te /  yadyātmā rakṣitavyo 'yaṃ rakṣitavyo na yujyate // SBca_8.173 //	T04D3871:30a-36	དེ་སྟེ་བདག་ནི་དགའ་འདོད་ན་༎
+T04bsa003_u:1374	 yathā yathāsya kāyasya kriyate paripālanam /	T04D3871:30b-25	གང་ཞིག་ལུས་འདི་འདོད་འགྱུར་བ་༎
+T04bsa003_u:1376	 asyaivaṃ patitasyāpi sarvāpīyaṃ vasuṃdharā /  nālaṃ pūrayituṃ vāñchāṃ tatko 'syecchāṃ kariṣyati // SBca_8.175 //	T04D3871:30b-27	ཐམས་ཅད་རང་གི་ལུས་འདོད་པས་༎ དེ་ལ་བདག་གོ་ཅིས་མི་དགའ་༏་། དེ་བས་བདག་གིས་ཆགས་མེད་པར་༎
+T04bsa003_u:139	 kathaṃ ca niḥsarāmyasmānnityodvego'smi nāyakāḥ /	T04D3871:5a-24	ཐམས་ཅད་འདྲེན་པ་རྣམས་ལ་བཤགས་༎
+T04bsa003_u:14	 tajjīyate 'nyena śubhena kena saṃbodhicittaṃ yadi nāma na syāt // SBca_1.6 //	T04D3871:2a-9	དེ་ནི་རྫོགས་པའི་བྱང་ཆུབ་སེམས་མིན་པ་༎ དགེ་གཞན་གང་གིས་ཟིལ་གྱིས་གནོན་པར་འགྱུར་༎
+T04bsa003_u:140	 mā bhūnme mṛtyuracirādakṣīṇe pāpasaṃcaye // SBca_2.32 //	T04D3871:5a-25	བདག་ནི་སྡིག་པ་མ་བྱང་བར་༎ སྔོན་དུ་འགུམ་པར་འགྱུར་དུ་མཆི་༎
+T04bsa003_u:1402	 imaṃ parikaraṃ sarvaṃ prajñārthaṃ hi munirjagau /	T04D3871:30b-46	༎ ། ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི་༎ ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས་།
+T04bsa003_u:1403	 tasmādutpādayetprajñāṃ duḥkhanivṛttikāṅkṣayā // SBca_9.1 //	T04D3871:31a-0	༄༣༡ཨ་༌་༎ དེ་ཡི་ཕྱིར་ན་སྡུག་བསྔལ་དག་། ཞི་བར་འདོད་པས་ཤེས་རབ་བསྐྱེད་༎
+T04bsa003_u:1404	 saṃvṛtiḥ paramārthaśca satyadvayamidaṃ matam /	T04D3871:31a-1	ཀུན་རྫོབ་དང་ནི་དོན་དམ་སྟེ་༎ འདི་ནི་བདེན་པ་གཉིས་སུ་འདོད་༎
+T04bsa003_u:1405	 buddheragocarastattvaṃ buddhiḥ saṃvṛtirucyate // SBca_9.2 //	T04D3871:31a-3	དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན་༎ བློ་ནི་ཀུན་རྫོབ་ཡིན་པར་བརྗོད་༎
+T04bsa003_u:1406	 tatra loko dvidhā dṛṣṭo yogī prākṛtakastathā /	T04D3871:31a-5	དེ་ལ་འཇིག་རྟེན་རྣམ་གཉིས་མཐོང་༏་། རྣལ་འབྱོར་པ་དང་ཕལ་པའོ་༎
+T04bsa003_u:1407	 tatra prākṛtako loko yogilokena bādhyate // SBca_9.3 //	T04D3871:31a-8	རྣལ་འབྱོར་འཇིག་རྟེན་གྱིས་གནོད་ཅིང་༎
+T04bsa003_u:1408	 bādhyante dhīviśeṣeṇa yogino 'pyuttarottaraiḥ /	T04D3871:31a-9	རྣལ་འབྱོར་པ་ཡང་བློ་ཁྱད་ཀྱིས་༎ གོང་མ་གོང་མ་རྣམས་ཀྱིས་གནོད་༎ གཉི་ག་ཡང་ནི་འདོད་པའི་དཔེས་༎ འབྲས་བུའི་དོན་དུ་མ་དཔྱད་ཕྱིར་།
+T04bsa003_u:141	 kathaṃ ca niḥsarāmyasmāt paritrāyata satvaram /	T04D3871:5a-27	ཇི་ལྟར་འདི་ལས་ངེས་ཐར་བར་༎
+T04bsa003_u:1410	 lokena bhāvā dṛśyante kalpyante cāpi tattvataḥ /	T04D3871:31a-13	འཇིག་རྟེན་པ་ཡིས་དངོས་མཐོང་ཞིང་༎ ཡང་དག་ཉིད་དུའང་རྟོག་བྱེད་ཀྱི་༎
+T04bsa003_u:1411	 na tu māyāvadityatra vivādo yogilokayoḥ // SBca_9.5 //	T04D3871:31a-15	སྒྱུ་མ་ལྟ་བུར་མིན་པས་འདིར་༎ རྣལ་འབྱོར་པ་དང་འཇིག་རྟེན་རྩོད་༎
+T04bsa003_u:1412	 pratyakṣamapi rūpādi prasiddhyā na pramāṇataḥ /	T04D3871:31a-17	གཟུགས་སོགས་མངོན་སུམ་ཉིད་ཀྱང་ནི་༎ གྲགས་པས་ཡིན་གྱི་ཚད་མས་མིན་༎
+T04bsa003_u:1413	 aśucyādiṣu śucyādiprasiddhiriva sā mṛṣā // SBca_9.6 //	T04D3871:31a-19	དེ་ནི་མི་གཙང་ལ་སོགས་ལ་༎ གཙང་སོགས་གྲགས་པ་བཞིན་དུ་བརྫུན་༎
+T04bsa003_u:1414	 lokāvatāraṇārthaṃ ca bhāvā nāthena deśitāḥ /	T04D3871:31a-21	འཇིག་རྟེན་གཞུག་པའི་དོན་དུ་ནི་༎ མགོན་པོས་དངོས་བསྟན་དེ་ཉིད་དུ་༎
+T04bsa003_u:1415	 tattvataḥ kṣaṇikā naite saṃvṛtyā cedvirudhyate // SBca_9.7 //	T04D3871:31a-23	དེ་དག་སྐད་ཅིག་མ་ཉིད་མིན་༎ ཀུན་རྫོབ་ཏུ་ཡང་འགལ་ཞེ་ན་༎
+T04bsa003_u:1416	 na doṣo yogisaṃvṛtyā lokātte tattvadarśinaḥ /	T04D3871:31a-25	རྣལ་འབྱོར་ཀུན་རྫོབ་ཉེས་མེད་དེ་༎ འཇིག་རྟེན་ལ་ལྟོས་དེ་ཉིད་མཐོང་༎
+T04bsa003_u:1417	 anyathā lokabādhā syādaśucistrīnirūpaṇe // SBca_9.8 //	T04D3871:31a-27	གཞན་དུ་བུད་མེད་མི་གཙང་བར་༎ དེས་རྟོག་འཇིག་རྟེན་གྱིས་གནོད་འགྱུར་༎
+T04bsa003_u:1418	 māyopamājjinātpuṇyaṃ sadbhāve 'pi kathaṃ yathā /	T04D3871:31a-29	སྒྱུ་འདྲའི་རྒྱལ་ལས་བསོད་ནམས་ནི་༎ ཇི་ལྟར་དངོས་ཡོད་ལ་ཇི་བཞིན་༎
+T04bsa003_u:1419	 yadi māyopamaḥ sattvaḥ kiṃ punarjāyate mṛtaḥ // SBca_9.9 //	T04D3871:31a-31	གལ་ཏེ་སེམས་ཅན་སྒྱུ་འདྲ་ན་༎ ཤི་ནས་ཇི་ལྟར་སྐྱེ་ཞེ་ན་༎
+T04bsa003_u:1420	 yāvatpratyayasāmagrī tāvanmāyāpi vartate /	T04D3871:31a-33	ཇི་སྲིད་རྐྱེན་རྣམས་འཚོགས་གྱུར་པ་༎ དེ་སྲིད་སྒྱུ་མའང་འབྱུང་བར་འགྱུར་༎
+T04bsa003_u:1421	 dīrghasaṃtānamātreṇa kathaṃ sattvo 'sti satyataḥ // SBca_9.10 //	T04D3871:31a-35	རྒྱུན་རིང་ཙམ་གྱིས་ཇི་ལྟར་ན་༎ སེམས་ཅན་བདེན་པར་ཡོད་པ་ཡིན་༎
+T04bsa003_u:1422	 māyāpuruṣaghātādau cittābhāvānna pāpakam /	T04D3871:31a-37	སྒྱུ་མའི་སྐྱེས་བུ་བསད་སོགས་ལ་༎ སེམས་མེད་ཕྱིར་ན་སྡིག་མེད་དེ་༎
+T04bsa003_u:1423	 cittamāyāsamete tu pāpapuṇyasamudbhavaḥ // SBca_9.11 //	T04D3871:31a-39	སྒྱུ་མའི་སེམས་དང་ལྡན་པ་ལ་༎ བསོད་ནམས་དང་ནི་སྡིག་པ་འབྱུང་༎
+T04bsa003_u:1424	 mantrādīnāmasāmarthyānna māyācittasaṃbhavaḥ /	T04D3871:31a-41	སྔགས་སོགས་རྣམས་ལ་ནུས་མེད་ཕྱིར་༎ སྒྱུ་མའི་སེམས་ནི་འབྱུང་བ་མེད་༎
+T04bsa003_u:1425	 sāpi nānāvidhā māyā nānāpratyayasaṃbhavā /	T04D3871:31a-43	སྣ་ཚོགས་རྐྱེན་ལས་བྱུང་བ་ཡི་༎ སྒྱུ་མ་དེ་ཡང་སྣ་ཚོགས་ཉིད་༎
+T04bsa003_u:1426	 naikasya sarvasāmarthyaṃ pratyayasyāsti kutracit // SBca_9.12 //	T04D3871:31a-45	རྐྱེན་གཅིག་གིས་ནི་ཀུན་ནུས་པ་༎ གང་ན་ཡང་ནི་ཡོད་མ་ཡིན་༎
+T04bsa003_u:1427	 nirvṛtaḥ paramārthena saṃvṛtyā yadi saṃsaret /	T04D3871:31a-47	གལ་ཏེ་དོན་དམ་མྱ་ངན་འདས་༎ འཁོར་བ་ཀུན་རྫོབ་དེ་ལྟ་ན་༎
+T04bsa003_u:1428	 buddho 'pi saṃsaredevaṃ tataḥ kiṃ bodhicaryayā // SBca_9.13 //	T04D3871:31a-49	སངས་རྒྱས་ཀྱང་ནི་འཁོར་འགྱུར་བས་༎ བྱང་ཆུབ་༄༣༡བ་སྤྱོད་པས་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:1429	 pratyayānāmanucchede māyāpyucchidyate na hi /  pratyayānāṃ tu vicchedātsaṃvṛtyāpi na saṃbhavaḥ // SBca_9.14 //	T04D3871:31b-1	རྐྱེན་རྣམས་རྒྱུན་ནི་མ་ཆད་ན་༎ སྒྱུ་མའང་ལྡོག་པར་མི་འགྱུར་གྱི་༎
+T04bsa003_u:1431	 pratyayānāṃ tu vicchedāt saṃvṛtyāpi na saṃbhavaḥ /	T04D3871:31b-3	རྐྱེན་རྣམས་རྒྱུན་ནི་ཆད་པས་ན་༎ ཀུན་རྫོབ་ཏུ་ཡང་མི་འབྱུང་ངོ་༎
+T04bsa003_u:1432	 yadā na bhrāntirapyasti māyā kenopalabhyate // SBca_9.15 //	T04D3871:31b-5	གང་ཚེ་འཁྲུལ་པའང་ཡོད་མིན་ན་༎ སྒྱུ་མ་གང་གིས་དམིགས་པར་འགྱུར་༎
+T04bsa003_u:1433	 yadā māyaiva te nāsti tadā kimupalabhyate /	T04D3871:31b-8	མེད་ནའང་དེ་ཚེ་ཅི་ཞིག་དམིགས་༎
+T04bsa003_u:1434	 cittasyaiva sa ākāro yadyapyanyo 'sti tattvataḥ // SBca_9.16 //	T04D3871:31b-9	གལ་ཏེ་དེ་ཉིད་དུ་གཞན་ཡོད་༎ རྣམ་པ་དེ་ནི་སེམས་ཉིད་ཡིན་༎
+T04bsa003_u:1435	 cittameva yadā māyā tadā kiṃ kena dṛśyate /	T04D3871:31b-11	གང་ཚེ་སེམས་ཉིད་སྒྱུ་མ་ན་༎ དེ་ཚེ་གང་ཞིག་གང་གིས་མཐོང་༎
+T04bsa003_u:1436	 uktaṃ ca lokanāthena cittaṃ cittaṃ na paśyati // SBca_9.17 //	T04D3871:31b-13	འཇིག་རྟེན་གྱི་ནི་མགོན་པོས་ཀྱང་༎ སེམས་ཀྱིས་སེམས་མི་མཐོང་ཞེས་གསུངས་༎
+T04bsa003_u:1437	 na cchinatti yathātmānamasidhārā tathā manaḥ /	T04D3871:31b-15	རལ་གྲི་སོ་ནི་རང་ལ་རང་༎ ཇི་ལྟར་མི་གཅོད་དེ་བཞིན་ཡིད་༎
+T04bsa003_u:1439	 naiva prakāśyate dīpo yasmānna tamasāvṛtaḥ /	T04D3871:31b-19	མར་མེ་གསལ་བར་བྱ་མིན་ཏེ་༎ གང་ཕྱིར་མུན་གྱིས་བསྒྲིབས་པ་མེད་༎
+T04bsa003_u:1440	 na hi sphaṭikavannīlaṃ nīlatve 'nyamapekṣate // SBca_9.19 //	T04D3871:31b-21	ཤེལ་བཞིན་སྔོན་པོ་སྔོ་ཉིད་ལ་༎ གཞན་ལ་ལྟོས་པ་ཡོད་མ་ཡིན་༎
+T04bsa003_u:1441	 tathā kiṃcitparāpekṣamanapekṣaṃ ca dṛśyate /	T04D3871:31b-23	དེ་བཞིན་འགའ་ཞིག་གཞན་ལ་ནི་༎ ལྟོས་དང་ལྟོས་མེད་པ་ཡང་མཐོང་༎
+T04bsa003_u:1442	 anīlatve na tannīlaṃ nīlaheturyathekṣyate // SBca_9.20 //  nīlameva hi ko nīlaṃ kuryādātmānamātmanā /	T04D3871:31b-25	སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ་༎
+T04bsa003_u:1444	 anīlatve na tannīlaṃ kuryādātmānamātmanā // SBca_9.21 //	T04D3871:31b-26	བདག་གིས་བདག་ཉིད་བྱས་པ་མེད་༎
+T04bsa003_u:1445	 dīpaḥ prakāśata iti jñātvā jñānena kathyate /  buddhiḥ prakāśata iti jñātvedaṃ kena kathyate // SBca_9.22 //	T04D3871:31b-27	མར་མེ་གསལ་བར་བྱེད་དོ་ཞེས་༎ ཤེས་པས་ཤེས་ཏེ་རྗོད་བྱེད་ན་༎ བློ་ནི་གསལ་བ་ཉིད་ཡིན་ཞེས་༎ གང་གིས་ཤེས་ནས་དེ་སྐད་བརྗོད་༎
+T04bsa003_u:1447	 prakāśā vāprakāśā vā yadā dṛṣṭā na kenacit /	T04D3871:31b-31	གང་ཚེ་འགས་ཀྱང་མཐོང་མིན་ན་༎ གསལ་བའམ་ནི་མི་གསལ་བ་༎
+T04bsa003_u:1448	 vandhyāduhitṛlīleva kathyamānāpi sā mudhā // SBca_9.23 //	T04D3871:31b-33	མོ་གཤམ་བུ་མོའི་འགྱིང་བག་བཞིན་༎ དེ་ན་བརྗོད་ཀྱང་དོན་མེད་དོ་༎
+T04bsa003_u:1449	 yadi nāsti svasaṃvittirvijñānaṃ smaryate katham /	T04D3871:31b-35	གལ་ཏེ་རང་རིག་ཡོད་མིན་ན་༎ རྣམ་ཤེས་དྲན་པར་ཇི་ལྟར་འགྱུར་༎
+T04bsa003_u:1450	 anyānubhūte saṃbandhāt smṛtirākhuviṣaṃ yathā // SBca_9.24 //	T04D3871:31b-37	གཞན་མྱོང་བ་ན་འབྲེལ་པ་ལས་༎ དྲན་འགྱུར་བྱི་བའི་དུག་བཞིན་ནོ༎
+T04bsa003_u:1451	 pratyayāntarayuktasya darśanātsvaṃ prakāśate /	T04D3871:31b-39	རྐྱེན་གཞན་དག་དང་ལྡན་པ་ནི་༎ མཐོང་ཕྱིར་རང་ཉིད་རབ་གསལ་ན་༎
+T04bsa003_u:1452	 siddhāñjanavidherdṛṣṭo ghaṭo naivāñjanaṃ bhavet // SBca_9.25 //	T04D3871:31b-41	གྲུབ་པའི་མིག་སྨན་སྦྱོར་བ་ལས་༎ བུམ་མཐོང་མིག་སྨན་ཉིད་འགྱུར་མིན་༎
+T04bsa003_u:1453	 yathā dṛṣṭaṃ śrutaṃ jñātaṃ naiveha pratiṣidhyate /	T04D3871:31b-43	ཇི་ལྟར་མཐོང་ཐོས་ཤེས་པ་དག་།འདིར་ནི་དགག་པར་བྱ་མིན་ཏེ་༎
+T04bsa003_u:1454	 satyataḥ kalpanā tvatra duḥkhaheturnivāryate // SBca_9.26 //	T04D3871:31b-44	འདིར་ནི་སྡུག་བསྔལ་རྒྱུར་གྱུར་པ་༎ བདེན་པར་རྟོག་པ་བཟློག་བྱ་ཡིན་༎
+T04bsa003_u:1455	 cittādanyā na māyā cennāpyananyeti kalpyate /	T04D3871:31b-46	སེམས་ལས་སྒྱུ་མ་གཞན་མིན་ཞིང་༎ གཞན་མིན་པར་ཡང་མི་རྟག་ན་༎
+T04bsa003_u:1456	 vastu cetsā kathaṃ nānyānanyā cennāsti vastutaḥ // SBca_9.27 //	T04D3871:31b-48	དངོས་ན་ཇི་ལྟར་དེ་གཞན་མིན་༎ གཞན་མིན་ཞེ་ན་དངོས་པོར་མེད་༎
+T04bsa003_u:1457	 asatyapi yathā māyā dṛśyā draṣṭṛ tathā manaḥ /	T04D3871:31b-50	ཇི་ལྟར་སྒྱུ་མ་བདེན་མིན་ཡང་༎ བལྟ་བྱ་དེ་བཞིན་ལྟ་བྱེད་ཡིད་༎
+T04bsa003_u:1458	 vastvāśrayaścetsaṃsāraḥ so 'nyathākāśavadbhavet // SBca_9.28 //	T04D3871:31b-52	གལ་ཏེ་འཁོར་བ་དངོས་རྟེན་ཅན་༎ གཞན་དུ་མཁའ་འདྲར་འགྱུར་༎
+T04bsa003_u:1459	 vastvāśrayeṇābhāvasya kriyāvattvaṃ kathaṃ bhavet /	T04D3871:32a-2	དངོས་མེད་དངོས་ལ་བརྟེན་པས་ན་༎ བྱེད་དང་ལྡན་པར་ཇི་ལྟར་འགྱུར་༎
+T04bsa003_u:1460	 asatsahāyamekaṃ hi cittamāpadyate tava // SBca_9.29 //	T04D3871:32a-4	ཁྱོད་ཀྱི་སེམས་ནི་གྲོགས་མེད་པ་༎
+T04bsa003_u:1461	 grāhyamuktaṃ yadā cittaṃ tadā sarve tathāgatāḥ /	T04D3871:32a-6	གང་ཚེ་སེམས་ནི་གཟུང་བྲལ་བ་༎ དེ་ཚེ་ཐམས་ཅད་དེ་བཞིན་གཤེགས་༎
+T04bsa003_u:1462	 evaṃ ca ko guṇo labdhaścittamātre 'pi kalpite // SBca_9.30 //  māyopamatve 'pi jñāte kathaṃ kleśo nivartate /	T04D3871:32a-10	སྒྱུ་མ་ལྟ་བུར་ཤེས་ན་ཡང་༎ ཇི་ལྟར་ཉོན་མོངས་ལྡོག་འགྱུར་ཏེ་༎
+T04bsa003_u:1464	 yadā māyāstriyāṃ rāgastatkarturapi jāyate // SBca_9.31 //	T04D3871:32a-12	གང་ཚེ་སྒྱུ་མའི་བུད་མེད་ལ་༎
+T04bsa003_u:1465	 aprahīṇā hi tatkarturjñeyasaṃkleśavāsanā /	T04D3871:32a-13	དེ་བྱེད་ཉིད་ཀྱང་ཆགས་སྐྱེ་འགྱུར་༎ ཉོན་མོངས་བག་ཆགས་མ་སྤངས་པ་༎
+T04bsa003_u:1466	 taddṛṣṭikāle tasyāto durbalā śūnyavāsanā // SBca_9.32 //	T04D3871:32a-16	དེས་ན་དེ་མཐོང་བ་ན་དེ༎ སྟོང་ཉིད་བག་ཆགས་ཉམ་ཆུང་ཉིད་༎
+T04bsa003_u:1467	 śūnyatāvāsanādhānāddhīyate bhāvavāsanā /	T04D3871:32a-18	སྟོང་ཉིད་བག་ཆགས་གོམས་པས་ནི་༎ དངོས་པོའི་བག་ཆགས་སྤོང་འགྱུར་ཞིང་༎
+T04bsa003_u:1468	 kiṃcinnāstīti cābhyāsātsāpi paścātprahīyate // SBca_9.33 //	T04D3871:32a-20	ཅི་ཡང་མེད་ཅིས་གོམས་པས་ནི་༎ དེ་ཡང་ཕྱི་ནས་སྤོང་བར་འགྱུར་༎ གང་ཚེ་གང་ཞིག་མེད་དོ་ཞེས་༎
+T04bsa003_u:1469	 yadā na labhyate bhāvo yo nāstīti prakalpyate /	T04D3871:32a-23	བརྟག་བྱའི་དངོས་པོ་མི་དམིགས་པ་༎ དེ་ཚེ་དངོས་མེད་རྟེན་བྲལ་བ་༎
+T04bsa003_u:1470	 tadā nirāśrayo 'bhāvaḥ kathaṃ tiṣṭhenmateḥ puraḥ // SBca_9.34 //	T04D3871:32a-25	བློ་ཡི་མདུན་ན་ཇི་ལྟར་གནས་༎
+T04bsa003_u:1471	 yadā na bhāvo nābhāvo mateḥ saṃtiṣṭhate puraḥ /	T04D3871:32a-26	གང་ཚེ་དངོས་དང་དངོས་མེད་དག་། བློ་ཡི་མདུན་ན་མི་གནས་པ་༎
+T04bsa003_u:1472	 tadānyagatyabhāvena nirālambā praśāmyati // SBca_9.35 //	T04D3871:32a-27	དེ་ཚེ་རྣམ་པ་གཞན་མེད་པས་༎ དམིགས་པ་མེད་པར་རབ་ཏུ་ཞི་༎
+T04bsa003_u:1473	 cintāmaṇiḥ kalpataruryathecchāparipūraṇaḥ /  vineyapraṇidhānābhyāṃ jinabimbaṃ tathekṣyate // SBca_9.36 //	T04D3871:32a-29	ཡིད་བཞིན་ནོར་བུ་དཔག་བསམ་ཤིང་༎ ཇི་ལྟར་རེ་བ་ཡོངས་སྐོང་བ་༎ དེ་བཞིན་གདུལ་བྱ་སྨོན་ལམ་གྱི་༎ དབང་གིས་རྒྱལ་བའི་སྐུར་སྣང་ངོ་༎
+T04bsa003_u:1475	 yathā gāruḍikaḥ stambhaṃ sādhayitvā vinaśyati /	T04D3871:32a-33	དཔེར་ན་ནམ་མཁའ་ལྡིང་གི་ནི་༎
+T04bsa003_u:1477	 bodhicaryānurūpyeṇa jinastambho 'pi sādhitaḥ /	T04D3871:32a-37	བྱང་ཆུབ་སྤྱོད་པའི་རྗེས་མཐུན་པས་༎ རྒྱལ་བའི་མཆོད་སྡོང་སྒྲུབ་པ་ཡང་༏
+T04bsa003_u:1478	 karoti sarvakāryāṇi bodhisattve 'pi nirvṛte // SBca_9.38 //	T04D3871:32a-39	། བྱང་ཆུབ་སེམས་དཔའ་མྱ་ངན་ལས་༎ འདས་ཀྱང་དོན་རྣམས་ཐམས་ཅད་མཛད་༎
+T04bsa003_u:1479	 acittake kṛtā pūjā kathaṃ phalavatī bhavet /	T04D3871:32a-41	སེམས་མེད་པ་ལ་མཆོད་བྱས་པས་༎ ཇི་ལྟར་འབྲས་བུར་ལྡན་པར་འགྱུར་༎
+T04bsa003_u:1480	 tulyaiva paṭhyate yasmāttiṣṭhato nirvṛtasya ca // SBca_9.39 //	T04D3871:32a-43	གང་ཕྱིར་བཞུགས་པའམ་མྱ་ངན་འདས་༎ མཚུངས་པ་ཉིད་དུ་བཤད་ཕྱིར་རོ་༎
+T04bsa003_u:1481	 āgamācca phalaṃ tatra saṃvṛtyā tattvato 'pi vā /	T04D3871:32a-46	རུང་སྟེ་དེར་འབྲས་ལུང་ལས་ཡིན་༎
+T04bsa003_u:1483	 satyadarśanato muktiḥ śūnyatādarśanena kim /	T04D3871:32a-49	བདེན་པ་མཐོང་བས་གྲོལ་འགྱུར་གྱི་༎ སྟོང་ཉིད་མཐོང་བས་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:1484	 na vinānena mārgeṇa bodhirityāgamo yataḥ // SBca_9.41 //	T04D3871:32a-51	གང་ཕྱིར་ལུང་ལས་ལམ་འདི་ནི་༎ མེད་པར་བྱང་ཆུབ་མེད་པར་གསུངས་༎
+T04bsa003_u:1485	 nanvasiddhaṃ mahāyānaṃ kathaṃ siddhastvadāgamaḥ /	T04D3871:32b-0	གལ་ཏེ་༄༣༢བ་ཐེག་ཆེན་མ་གྲུབ་ན་༎ ཁྱོད་ཀྱི་ལུང་ནི་ཇི་ལྟར་གྲུབ་༎
+T04bsa003_u:1486	 yasmādubhayasiddho 'sau na siddho 'sau tavāditaḥ // SBca_9.42 //	T04D3871:32b-2	གང་ཕྱིར་གཉིས་ཀ་ལ་འདི་གྲུབ་༎ དང་པོ་ཁྱོད་ལ་འདི་མ་གྲུབ་༎
+T04bsa003_u:1487	 yatpratyayā ca tatrāsthā mahāyāne 'pi tāṃ kuru /	T04D3871:32b-4	རྐྱེན་གང་གིས་ནི་དེར་ཡིད་ཆེས་༎ དེ་ནི་ཐེག་ཆེན་ལ་ཡང་མཚུངས་༎
+T04bsa003_u:1488	 anyobhayeṣṭasatyatve vedāderapi satyatā // SBca_9.43 //	T04D3871:32b-6	གཞན་གཉིས་འདོད་པས་བདེན་ན་ནི་༎ རིག་བྱེད་སོགས་ཀྱང་བདེན་པར་འགྱུར་༎
+T04bsa003_u:1489	 savivādaṃ mahāyānamiti cedāgamaṃ tyaja /	T04D3871:32b-8	ཐེག་ཆེན་རྩོད་བཅས་ཕྱིར་ཞེ་ན་༎
+T04bsa003_u:1491	 śāsanaṃ bhikṣutāmūlaṃ bhikṣutaiva ca duḥsthitā /	T04D3871:32b-10	བསྟན་རྩ་དགེ་སློང་ཉིད་ཡིན་ན་༎ དགེ་སློང་ཉིད་ཀྱང་དཀའ་བར་གནས་༎
+T04bsa003_u:1492	 sāvalambanacittānāṃ nirvāṇamapi duḥsthitam // SBca_9.45 //	T04D3871:32b-12	སེམས་ནི་དམིགས་དང་བཅས་རྣམས་ཀྱི་༎ མྱ་ངན་འདས་པའང་དཀའ་བར་གནས་༎
+T04bsa003_u:1493	 kleśaprahāṇānmuktiścettadanantaramastu sā /	T04D3871:32b-14	ཉོན་མོངས་སྤངས་པས་གྲོལ་ན་དེའི་༎ དེ་མ་ཐག་ཏུ་དེར་འགྱུར་རོ་༎
+T04bsa003_u:1494	 dṛṣṭaṃ ca teṣu sāmarthyaṃ niṣkleśasyāpi karmaṇaḥ // SBca_9.46 //	T04D3871:32b-16	ཉོན་མོངས་མེད་ཀྱང་དེ་དག་ལ་༎ ལས་ཀྱི་ནུས་པ་མཐོང་བ་ཡིན་༎
+T04bsa003_u:1496	 kimakliṣṭāpi tṛṣṇaiṣāṃ nāsti saṃmohavat satī // SBca_9.47 //	T04D3871:32b-19	མེད་ཅེས་ངེས་པ་ཉིད་ཅེ་ན་༎ སྲེད་དེ་ཉོན་མོངས་ཅན་མིན་ཡང་༎ ཀུན་རྨོངས་བཞིན་དུ་ཅི་སྟེ་མེད་༎
+T04bsa003_u:1497	 vedanāpratyayā tṛṣṇā vedanaiṣāṃ ca vidyate /	T04D3871:32b-22	ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ་ཡིན་༎ ཚོར་བ་དེ་དག་ལ་ཡང་ཡོད་༎
+T04bsa003_u:1498	 sālambanena cittena sthātavyaṃ yatra tatra vā // SBca_9.48 //	T04D3871:32b-24	དམིགས་པ་དང་ནི་བཅས་པའི་སེམས་༎ འགའ་ཞིག་ལ་ནི་གནས་པར་འགྱུར་༎
+T04bsa003_u:1499	 vinā śūnyatayā cittaṃ baddhamutpadyate punaḥ /	T04D3871:32b-26	སྟོང་ཉིད་དང་ནི་བྲལ་བའི་སེམས་༎ འགགས་པ་སླར་ཡང་སྐྱེ་འགྱུར་ཏེ་༎
+T04bsa003_u:15	 kalpānanalpān pravicintayadbhi rdṛṣṭaṃ munīndrairhitametadeva /	T04D3871:2a-11	བསྐལ་པ་དུ་མར་རབ་དགོངས་མཛད་པ་ཡི་༎ ཐུབ་དབང་རྣམས་ཀྱིས་འདི་ཉིད་ཕན་བར་གཟིགས་༎
+T04bsa003_u:1500	 yathāsaṃjñisamāpattau bhāvayettena śūnyatām // SBca_9.49 //	T04D3871:32b-28	འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག་བཞིན་༎ དེས་ན་སྟོང་ཉིད་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:1501	 yatsūtre'vataredvākyaṃ taccedbuddhoktamiṣyate /	T04D3871:32b-30	ངག་གང་མདོ་སྡེ་ལ་འཇུག་དེ་༎ གལ་ཏེ་སངས་རྒྱས་གསུངས་འདོད་ན་༎
+T04bsa003_u:1502	 mahāyānaṃ bhavatsūtraiḥ prāyastulyaṃ na kiṃ matam // SBca_9.50 //	T04D3871:32b-32	ཐེག་ཆེན་ཕལ་ཆེར་ཁྱེད་ཅག་གི་། མདོ་དང་མཚུངས་འདོད་མིན་ནམ་ཅི་༎
+T04bsa003_u:1503	 ekenāgamyamānena sakalaṃ yadi doṣavat /	T04D3871:32b-33	གལ་ཏེ་མ་གཏོགས་གཅིག་གིས་ནི་༎ ཐམས་ཅད་སྐྱོན་དང་བཅས་འགྱུར་ན་༎
+T04bsa003_u:1504	 ekena sūtratulyena kiṃ na sarvaṃ jinoditam // SBca_9.51 //	T04D3871:32b-35	མདོ་མཚུངས་གཅིག་གིས་ཐམས་ཅད་ནི་༎ རྒྱལ་བས་གསུངས་པ་ཅིས་མ་ཡིན་༎
+T04bsa003_u:1505	 mahākāśyapamukhyaiśca yadvākyaṃ nāvagāhyate /	T04D3871:32b-37	ངག་གང་འོད་སྲུངས་ཆེན་པོ་ལ་༎ སོགས་པས་གཏིང་དཔོགས་མ་གྱུར་པ་༎ དེ་ནི་ཁྱོད་ཀྱིས་མ་རྟོགས་པས་༎
+T04bsa003_u:1506	 tattvayānavabuddhatvādagrāhyaṃ kaḥ kariṣyati // SBca_9.52 //	T04D3871:32b-40	གཟུང་བྱ་མིན་པར་སུ་ཞིག་བྱེད་༎ རྨོངས་པས་སྡུག་བསྔལ་ཅན་དོན་དུ་༎
+T04bsa003_u:1507	 saktitrāsāttvanirmuktyā saṃsāre sidhyati sthitiḥ /	T04D3871:32b-42	ཆགས་དང་འཇིགས་མཐའ་ལས་གྲོལ་བ་༎
+T04bsa003_u:1508	 mohena duḥkhināmarthe śūnyatāyā idaṃ phalam // SBca_9.53 //	T04D3871:32b-43	འཁོར་བར་གནས་པ་གྲུབ་འགྱུར་བ་༎ འདི་ནི་སྟོང་ཉིད་འབྲས་བུ་ཡིན་༎
+T04bsa003_u:1509	 tadevaṃ śūnyatāpakṣe dūṣaṇaṃ nopapadyate /	T04D3871:32b-45	དེ་ལྟར་སྟོང་པ་ཉིད་ཕྱོགས་ལ་༎ སུན་འབྱིན་པ་ནི་འཐད་མ་ཡིན་༎
+T04bsa003_u:1510	 tasmānnirvicikitsena bhāvanīyaiva śūnyatā // SBca_9.54 //	T04D3871:32b-47	དེས་ན་ཐེ་ཚོམ་མི་ཟ་བར་༎ སྟོང་པ་ཉིད་ནི་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:1511	 kleśajñeyāvṛtitamaḥpratipakṣo hi śūnyatā /	T04D3871:33a-0	༄༣༣ཨ་༌་༎ ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ་ཡི་༎ མུན་པའི་གཉེན་པོ་སྟོང་པ་ཉིད་༎
+T04bsa003_u:1512	 śīghraṃ sarvajñatākāmo na bhāvayati tāṃ katham // SBca_9.55 //	T04D3871:33a-2	མྱུར་དུ་ཐམས་ཅད་མཁྱེན་འདོད་པས་༎ དེ་ནི་ཇི་ལྟར་སྒོམ་མི་བྱེད་༎
+T04bsa003_u:1513	 yadduḥkhajananaṃ vastu trāsastasmātprajāyatām /	T04D3871:33a-4	དངོས་གང་སྡུག་བསྔལ་སྐྱེད་བྱེད་པ་༎ དེ་ལས་སྐྲག་པ་སྐྱེ་འགྱུར་ན་༎
+T04bsa003_u:1514	 śūnyatā duḥkhaśamanī tataḥ kiṃ jāyate bhayam // SBca_9.56 //	T04D3871:33a-6	སྟོང་ཉིད་སྡུག་བསྔལ་ཞི་བྱེད་པ་༎ དེ་ལ་འཇིགས་པ་ཇི་ལྟར་སྐྱེ་༎
+T04bsa003_u:1515	 yatastato vāstu bhayaṃ yadyahaṃ nāma kiṃcana /	T04D3871:33a-8	གལ་ཏེ་བདག་འགའ་ཡོད་ན་ནི་༎ ཅི་ཡང་རུང་ལས་འཇིགས་འགྱུར་ན་༎
+T04bsa003_u:1516	 ahameva ca kiṃciccedbhayaṃ kasya bhaviṣyati // SBca_9.57 //	T04D3871:33a-10	བདག་ཉིད་འགའ་ཡང་ཡོད་མིན་པས་༎ འཇིགས་པར་འགྱུར་བ་སུ་ཞིག་ཡིན་༎
+T04bsa003_u:1517	 dantakeśanakhā nāhaṃ nāsthi nāpyasmi śoṇitam /  na siṃghāṇaṃ na ca śleṣmā na pūyaṃ lasikāpi vā // SBca_9.58 //  nāhaṃ vasā na ca svedo na medo 'strāṇi nāpyaham /	T04D3871:33a-12	སོ་དང་སྐྲ་སེན་བདག་མ་ཡིན་༎ བདག་ནི་རུས་པ་ཁྲག་མ་ཡིན་༎ སྣབས་མིན་པ་དཀན་མ་ཡིན་ཏེ་༎ ཆུ་སེར་དང་ནི་རྣག་ཀྱང་མིན་༎ བདག་ནི་ཞག་དང་རྡུལ་མིན་ཏེ་༎ གློ་མཆིན་དག་ཀྱང་བདག་མ་ཡིན་༎
+T04bsa003_u:1521	 nāhaṃ māṃsaṃ na ca snāyu noṣmā vāyurahaṃ na ca /	T04D3871:33a-20	ཤ་དང་པགས་པ་བདག་མིན་ཏེ་༎ དྲོད་དང་རླུང་ཡང་བདག་མ་ཡིན་༎
+T04bsa003_u:1522	 na ca cchidrāṇyahaṃ nāpi ṣaḍ vijñānāni sarvathā // SBca_9.60 //	T04D3871:33a-23	རྣམ་ཤེས་དྲུག་ཀྱང་བདག་མ་ཡིན་༎
+T04bsa003_u:1523	 śabdajñānaṃ yadi tadā śabdo gṛhyeta sarvadā /	T04D3871:33a-24	གལ་ཏེ་སྒྲ་ཡི་ཤེས་རྟག་ན་༎ ཐམས་ཅད་ཚེ་ན་སྒྲ་འཛིན་འགྱུར་༎
+T04bsa003_u:1524	 jñeyaṃ vinā tu kiṃ vetti yena jñānaṃ nirucyate // SBca_9.61 //	T04D3871:33a-26	ཤེས་བྱ་མེད་ན་ཅི་ཞིག་རིག་། གང་གིས་ཤེས་པ་ཞེས་རྗོད་བྱེད་༎
+T04bsa003_u:1525	 ajānānaṃ yadi jñānaṃ kāṣṭhaṃ jñānaṃ prasajyate /	T04D3871:33a-27	གལ་ཏེ་ཤེས་མེད་ཤེས་ཡིན་ན་༎ ཤིང་ཡང་ཤེས་པར་ཐལ་བར་འགྱུར་༏
+T04bsa003_u:1526	 tenāsaṃnihitajñeyaṃ jñānaṃ nāstīti niścayaḥ // SBca_9.62 //	T04D3871:33a-29	། དེས་ན་ཤེས་བྱ་ཉེར་གནས་པ་༎ མེད་པར་ཤེས་པ་མེད་ཅེས་ངེས་༎
+T04bsa003_u:1527	 tadeva rūpaṃ jānāti tadā kiṃ na śṛṇotyapi /	T04D3871:33a-31	དེ་ཉིད་ཀྱིས་ནི་གཟུགས་ཤེས་ན་༎ དེ་ཚེ་ཐོས་པའང་ཅི་སྟེ་མིན་༎
+T04bsa003_u:1528	 śabdasyāsaṃnidhānāccettatastajjñānamapyasat // SBca_9.63 //	T04D3871:33a-33	གལ་ཏེ་སྒྲ་མི་ཉེ་ཕྱིར་ན་༎ དེས་ན་དེ་ཡི་ཤེས་པའང་མེད་༎
+T04bsa003_u:1529	 śabdagrahaṇarūpaṃ yattadrūpagrahaṇaṃ katham /	T04D3871:33a-35	སྒྲ་འཛིན་རང་བཞིན་གང་ཡིན་པ་༎ དེ་གཟུགས་འཛིན་པར་ཇི་ལྟར་འགྱུར་༏
+T04bsa003_u:1530	 ekaḥ pitā ca putraśca kalpyate na tu tattvataḥ // SBca_9.64 //	T04D3871:33a-37	། གཅིག་ནི་ཕ་དང་བུ་ཉིད་དུ་༎ བརྟགས་ཡིན་ཡང་དག་ཉིད་མིན་ཏེ་༎
+T04bsa003_u:1531	 sattvaṃ rajastamo vāpi na putro na pitā yataḥ /	T04D3871:33a-39	འདི་ལྟར་སྙིང་སྟོབས་རྡུལ་དང་ནི་༎ མུན་པ་བུ་མིན་ཕ་ཡང་མིན་༎
+T04bsa003_u:1532	 śabdagrahaṇayuktastu svabhāvastasya nekṣyate // SBca_9.65 //	T04D3871:33a-41	དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི་༎ རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན་༎
+T04bsa003_u:1533	 tadevānyena rūpeṇa naṭavatso 'pyaśāśvataḥ /	T04D3871:33a-43	གར་མཁན་ལྟ་བུར་ཚུལ་གཞན་གྱིས་༎ དེ་ཉིད་མཐོང་ན་དེ་རྟག་མིན་༎
+T04bsa003_u:1534	 sa evānyasvabhāvaścedapūrveyaṃ tadekatā // SBca_9.66 //  anyadrūpamasatyaṃ cennijaṃ tadrūpamucyatām /	T04D3871:33a-45	གལ་ཏེ་ཚུལ་གཞན་དེ་ཉིད་ན་༎ གཅིག་ཉིད་དེ་ནི་སྔོན་མེད་གཅིག་། གལ་ཏེ་ཚུལ་གཞན་བདེན་མིན་ན་༎ དེ་ཡི་རང་གི་རང་བཞིན་སྨྲོས་༎
+T04bsa003_u:1536	 jñānatā cettataḥ sarvapuṃsāmaikyaṃ prasajyate // SBca_9.67 //	T04D3871:33a-48	ཤེས་ཉིད་ཅེ་ན་དེ་ལྟ་ན་༎ སྐྱེས་ཀུན་གཅིག་ཏུ་ཐལ་བར་འགྱུར་༎
+T04bsa003_u:1537	 cetanācetane caikyaṃ tayoryenāstitā samā /	T04D3871:33b-0	སེམས་པ་སེམས་མེད་དེ་དག་༄༣༣བ་ཀྱང་༏་། གཅིག་འགྱུར་གང་ཕྱིར་ཡོད་ཉིད་མཚུངས་༎
+T04bsa003_u:1538	 viśeṣaśca yadā mithyā kaḥ sādṛśyāśrayastadā // SBca_9.68 //	T04D3871:33b-2	གང་ཚེ་བྱེ་བྲག་ཕྱིན་ཅི་ལོག་། དེ་ཚེ་འབྲ་བའི་རྟེན་གང་ཡིན་༎
+T04bsa003_u:1539	 acetanaśca naivāhamācaitanyātpaṭādivat /	T04D3871:33b-3	སེམས་མེད་པ་ཡང་བདག་མིན་ཏེ་༎ སེམས་མེད་ཉིད་ཕྱིར་བུམ་སོགས་བཞིན་༎ འོན་ཏེ་སེམས་དང་ལྡན་པའི་ཕྱིར་༎
+T04bsa003_u:1540	 atha jñaścetanāyogādajño naṣṭaḥ prasajyate // SBca_9.69 //	T04D3871:33b-6	ཤེས་ན་མི་ཤེས་འཇིག་པར་ཐལ་༎
+T04bsa003_u:1541	 athāvikṛta evātmā caitanyenāsya kiṃ kṛtam /	T04D3871:33b-7	ཇི་སྟེ་བདག་ལ་འགྱུར་མེད་ན་༎ སེམས་པས་དེ་ལ་ཅི་ཞིག་བྱས་༎
+T04bsa003_u:1542	 ajñasya niṣkriyasyaivamākāśasyātmatā matā // SBca_9.70 //	T04D3871:33b-9	དེ་ལྟར་ཤེས་མེད་བྱ་བྲལ་བ་༎ ནམ་མཁའ་བདག་ཏུ་བྱས་པར་འགྱུར་༎
+T04bsa003_u:1543	 na karmaphalasaṃbandho yuktaścedātmanā vinā /	T04D3871:33b-11	གལ་ཏེ་བདག་ནི་ཡོད་མིན་ན་༎ ལས་འབྲས་འབྲེལ་པ་རིགས་མིན་ཏེ་༎
+T04bsa003_u:1544	 karma kṛtvā vinaṣṭe hi phalaṃ kasya bhaviṣyati // SBca_9.71 //	T04D3871:33b-13	ལས་བྱས་ནས་ནི་ཞིག་པས་ན་༎ སུ་ཡི་ལས་སུ་འགྱུར་ཞེ་ན་༎
+T04bsa003_u:1545	 dvayorapyāvayoḥ siddhe bhinnādhāre kriyāphale /  nirvyāpāraśca tatrātmetyatra vādo vṛthā nanu // SBca_9.72 //	T04D3871:33b-15	བྱ་བ་འབྲས་བཞི་ཐ་དད་དང་༎ དེ་བདག་བྱེད་པ་མེད་པར་ཡང་༎ ཡུ་བུ་གཉི་ག་ལ་གྲུབ་པས་༎ འདིར་བརྩད་དོན་མེད་མ་ཡིན་ནམ་༎
+T04bsa003_u:1547	 hetumān phalayogīti dṛśyate naiṣa saṃbhavaḥ /	T04D3871:33b-18	རྒྱུ་ལྡན་འབྲས་བུ་དང་བཅས་ཞེས་༎ མཐོང་བ་འདི་ནི་སྲིད་མ་ཡིན་༎
+T04bsa003_u:1548	 saṃtānasyaikyamāśritya kartā bhokteti deśitam // SBca_9.73 //	T04D3871:33b-20	རྒྱུད་གཅིག་ལ་ནི་བརྟེན་ནས་སུ་༎ བྱེད་པོ་སྤྱོད་པོ་ཞེས་བྱར་བསྟན་༎
+T04bsa003_u:1549	 atītānāgataṃ cittaṃ nāhaṃ taddhi na vidyate /	T04D3871:33b-22	འདས་དང་མ་འོངས་པ་ཡི་སེམས་༎ བདག་མིན་དེ་ནི་མེད་པའི་ཕྱིར་༎
+T04bsa003_u:1550	 athotpannamahaṃ cittaṃ naṣṭe 'sminnāstyahaṃ punaḥ // SBca_9.74 //	T04D3871:33b-24	འོན་ཏེ་སྐྱེས་སེམས་བདག་ཡིན་ན་༎ དེ་ཞིག་ན་ཡང་བདག་མེད་དོ་༎
+T04bsa003_u:1551	 yathaiva kadalīstambho na kaścidbhāgaśaḥ kṛtaḥ /	T04D3871:33b-26	དཔེར་ན་ཆུ་ཤིང་སྡོང་པོ་དག་། ཆ་ཤས་ཕྱེ་ན་འགའ་མེད་པ་༎
+T04bsa003_u:1552	 tathāhamapyasadbhūto mṛgyamāṇo vicārataḥ // SBca_9.75 //	T04D3871:33b-27	དེ་བཞིན་རྣམ་པར་དཔྱད་པ་ཡིས་༎ བཙལ་ན་བདག་ཀྱང་ཡང་དག་མིན་༎
+T04bsa003_u:1553	 yadi sattvo na vidyeta kasyopari kṛpeti cet /	T04D3871:33b-29	གལ་ཏེ་སེམས་ཅན་ཡོད་མིན་ན་༎ སུ་ལ་སྙིང་རྗེ་བྱ་ཞེ་ན་༎
+T04bsa003_u:1554	 kāryārthamabhyupetena yo mohena prakalpitaḥ // SBca_9.76 //	T04D3871:33b-31	འབྲས་བུའི་དོན་དུ་ཁས་བླངས་པའི་༎ རྨོངས་པས་བརྟགས་པ་གང་ཡིན་པའོ་༎
+T04bsa003_u:1555	 kāryaṃ kasya na cetsattvaḥ satyamīhā tu mohataḥ /	T04D3871:33b-33	སེམས་ཅན་མེད་འབྲས་སུ་ཡི་ཡིན་༎ བདེན་ཏེ་འོན་ཀྱང་རྨོངས་ལས་འདོད་༎
+T04bsa003_u:1556	 duḥkhavyupaśamārthaṃ tu kāryamoho na vāryate // SBca_9.77 //	T04D3871:33b-35	སྡུག་བསྔལ་ཉེ་བར་ཞི་དོན་དུ་༎ འབྲས་བུའི་རྨོངས་པ་བཟློག་མི་བྱ་༎
+T04bsa003_u:1557	 duḥkhaheturahaṃkāra ātmamohāttu vardhate /	T04D3871:33b-37	སྡུག་བསྔལ་རྒྱུ་ཡི་ང་རྒྱལ་ནི་༎ བདག་ཏུ་རྨོངས་པས་འཕེལ་བར་འགྱུར་༎
+T04bsa003_u:1558	 tato 'pi na nivartyaścet varaṃ nairātmyabhāvanā // SBca_9.78 //	T04D3871:33b-39	དེ་ལས་ཀྱང་བཟློག་མེད་ཅེ་ན་༎ བདག་མེད་བསྒོམ་པ་མཆོག་ཡིན་ནོ་༎
+T04bsa003_u:1559	 kāyo na pādau na jaṅghā norū kāyaḥ kaṭirna ca /	T04D3871:33b-41	ལུས་ནི་རྐང་པ་བྱིན་པ་མིན་༎ བརླ་དང་རྐེད་པའང་ལུས་མ་ཡིན་༎ ལྟོ་དང་རྒྱབ་ཀྱང་ལུས་མིན་ཏེ་༎ བྲང་དང་དཔུང་པའང་ལུས་མ་ཡིན་༎
+T04bsa003_u:1561	 na hastau nāpyayaṃ pārśvau na kakṣau nāṃsalakṣaṇaḥ /  na grīvā na śiraḥ kāyaḥ kāyo 'tra kataraḥ punaḥ // SBca_9.80 //	T04D3871:33b-45	རྩིབ་ལོགས་ལག་པའང་ལུས་མིན་ཏེ་༎ མཚན་ཁུང་ཕྲག་པའང་ལུས་མ་ཡིན་༎ ནང་ཁྲོལ་རྣམས་༄༣༤ཨ་༌་༎ མགོ་དང་མགྲིན་པའང་ལུས་མིན་ན་༎ འདི་ལ་ལུས་ནི་གང་ཞིག་ཡིན་༎
+T04bsa003_u:1563	 yadi sarveṣu kāyo 'yamekadeśena vartate /	T04D3871:34a-4	གལ་ཏེ་ལུས་འདི་ཐམས་ཅད་ལ་༎
+T04bsa003_u:1564	 aṃśā aṃśeṣu vartante sa ca kutra svayaṃ sthitaḥ // SBca_9.81 //	T04D3871:34a-5	ཕྱོགས་རེ་ཡིས་ནི་གནས་གྱུར་ན་༎ ཆ་རྣམས་ཆ་ལ་གནས་གྱུར་མོད་༎ དེ་རང་ཉིད་ནི་གང་ལ་གནས་༎
+T04bsa003_u:1565	 sarvātmanā cetsarvatra sthitaḥ kāyaḥ karādiṣu /	T04D3871:34a-8	གལ་ཏེ་བདག་ཉིད་ཀུན་གྱི་ལུས་༎
+T04bsa003_u:1566	 kāyāstāvanta eva syuryāvantaste karādayaḥ // SBca_9.82 //	T04D3871:34a-10	ལག་སོགས་དེ་དག་ཇི་སྙེད་པ་༎ དེ་སྙེད་ཀྱི་ནི་ལུས་སུ་འགྱུར་༎
+T04bsa003_u:1567	 naivāntarna bahiḥ kāyaḥ kathaṃ kāyaḥ karādiṣu /  karādibhyaḥ pṛthaṅ nāsti kathaṃ nu khalu vidyate // SBca_9.83 //	T04D3871:34a-12	ཕྱི་དང་ནང་ན་ལུས་མེད་ན་༎ ཇི་ལྟར་ལག་སོགས་ལ་ལུས་ཡོད་༎ ལག་སོགས་རྣམས་ལས་གཞན་མེད་ན་༎ དེ་ནི་ཇི་ལྟར་ཡོད་པ་ཡིན་༎
+T04bsa003_u:1569	 tannāsti kāyo mohāttu kāyabuddhiḥ karādiṣu /	T04D3871:34a-16	དེས་ན་ལུས་མེད་ལ་སོགས་ལ་༎ རྨོངས་པ་ཡིས་ནི་ལུས་བློར་འགྱུར་༎
+T04bsa003_u:1570	 saṃniveśaviśeṣeṇa sthāṇau puruṣabuddhivat // SBca_9.84 //  yāvatpratyayasāmagrī tāvatkāyaḥ pumāniva /	T04D3871:34a-19	ཐོ་ཡོར་ལ་ནི་མི་བློ་བཞིན་༎ ཇི་སྲིད་རྐྱེན་ཚོགས་དེ་སྲིད་དུ་༎ ལུས་ནི་སྐྱེས་བུ་ལྟར་སྣང་བ་༎
+T04bsa003_u:1572	 evaṃ karādau sā yāvattāvatkāyo 'tra dṛśyate // SBca_9.85 //  evamaṅgulipuñjatvātpādo 'pi kataro bhavet /	T04D3871:34a-22	དེ་བཞིན་ཇི་སྲིད་ལག་སོགས་ལ་༎ དེ་ཡོད་དེ་སྲིད་དེ་ལུས་སྣང་༎ དེ་བཞིན་སོར་མོའི་ཚོགས་ཡིན་ཕྱིར་༎ ལག་པའང་གང་ཞིག་ཡིན་པར་འགྱུར་༎ དེ་ཡང་ཚིགས་ཀྱི་ཚོགས་ཡིན་ཕྱིར་༎
+T04bsa003_u:1574	 so 'pi parvasamūhatvāt parvāpi svāṃśabhedataḥ // SBca_9.86 //	T04D3871:34a-27	ཚིགས་ཀྱང་རང་གི་ཆ་ཕྱེ་བས་༎ ཆ་ཡང་རྡུལ་དུ་ཕྱེ་བས་ཏེ་༎
+T04bsa003_u:1576	 digvibhāgo niraṃśatvādākāśaṃ tena nāstyaṇuḥ // SBca_9.87 //	T04D3871:34a-29	རྡུལ་དེའང་ཕྱོགས་ཆའི་དབྱེ་བ་ཡིས་༎ ཕྱོགས་དབྱེའང་ཆ་ཤས་དང་བྲལ་ཕྱིར་༎ མཁའ་བཞིན་དེས་ན་རྡུལ་ཡང་མེད་༎
+T04bsa003_u:1577	 evaṃ svapnopame rūpe ko rajyeta vicārakaḥ /	T04D3871:34a-32	དེ་ལྟར་རྨི་ལམ་ལྟ་བུ་ཡི་༎ གཟུགས་ལ་དཔྱོད་ལྡན་སུ་ཞིག་ཆགས་༎
+T04bsa003_u:1578	 kāyaścaivaṃ yadā nāsti tadā kā strī pumāṃśca kaḥ // SBca_9.88 //	T04D3871:34a-34	གང་ཚེ་དེ་ལྟར་ལུས་མེད་པ་༎ དེ་ཚེ་སྐྱེས་གང་བུད་མེད་གང་༎
+T04bsa003_u:1579	 yadyasti duḥkhaṃ tattvena prahṛṣṭān kiṃ na bādhate /  śokādyārtāya mṛṣṭādi sukhaṃ cetkiṃ na rocate // SBca_9.89 //	T04D3871:34a-36	སྡུག་བསྔལ་དེ་ཉིད་དུ་ཡོད་ན་༎ ཅི་སྟེ་རབ་དགའ་ལ་མི་གནོད་༎ ཞིམ་སོགས་ཅི་སྟེ་དགའ་མི་བྱེད་༎
+T04bsa003_u:1581	 balīyasābhibhūtatvādyadi tannānubhūyate /	T04D3871:34a-40	སྟོབས་དང་ལྡན་པས་ཟིལ་མནན་ཕྱིར་༎ གལ་ཏེ་དེ་མྱོང་མ་ཡིན་ན་༎
+T04bsa003_u:1582	 vedanātvaṃ kathaṃ tasya yasya nānubhavātmatā // SBca_9.90 //  asti sūkṣmatayā duḥkhaṃ sthaulyaṃ tasya hṛtaṃ nanu /	T04D3871:34a-43	དེ་ན་ཚོར་བ་ཇི་ལྟར་ཡིན་༎ སྡུག་བསྔལ་ཕྲ་མོ་ཉིད་དུ་ཡོད་༎ འདི་ཡི་རགས་པ་བསལ་མིན་ནམ་༎
+T04bsa003_u:1584	 tuṣṭimātrāparā cetsyāttasmāt sāpyasya sūkṣmatā // SBca_9.91 //	T04D3871:34a-46	དེ་ནི་དེ་ལས་གཞན་དགའ་ཙམ་༎ ཞེ་ན་ཕྲ་ཉིད་དེ་ཡང་དེའི་༎
+T04bsa003_u:1585	 viruddhapratyayotpattau duḥkhasyānudayo yadi /	T04D3871:34a-48	གལ་ཏེ་འགལ་རྐྱེན་སྐྱེས་པས་ན་༎ སྡུག་བསྔལ་སྐྱེས་པ་མིན་ན་ནི་༎
+T04bsa003_u:1586	 kalpanābhiniveśo hi vedanetyāgataṃ nanu // SBca_9.92 //	T04D3871:34a-50	ཚོར་བར་རྟོག་པ་མངོན་ཞེན་ཉིད་༎ ཡིན་༄༣༤བ་ཞེས་བྱ་བར་གྲུབ་མིན་ནམ་༎
+T04bsa003_u:1587	 ata eva vicāro 'yaṃ pratipakṣo 'sya bhāvyate /	T04D3871:34b-1	དེ་ཉིད་ཕྱིར་ན་འདི་ཡི་ནི་༎
+T04bsa003_u:1588	 vikalpakṣetrasaṃbhūtadhyānāhārā hi yoginaḥ // SBca_9.93 //	T04D3871:34b-2	གཉེན་པོ་རྣམ་དཔྱོད་འདི་བསྒོམ་སྟེ་༎ བསམ་གཏན་རྣལ་འབྱོར་པ་ཡི་ཟས་༎
+T04bsa003_u:1589	 sāntarāvindriyārthau cetsaṃsargaḥ kuta etayoḥ /  nirantaratve 'pyekatvaṃ kasya kenāstu saṃgatiḥ // SBca_9.94 //	T04D3871:34b-5	གལ་ཏེ་དབང་དོན་པར་བཅས་ན་༎ དེ་དག་གང་དུ་ཕྲད་པར་འགྱུར་༎ བར་མེད་ན་ཡང་གཅིག་ཉིད་དེ་༎ གང་ཞིག་གང་དང་ཕྲད་པར་འགྱུར་༎
+T04bsa003_u:1591	 nāṇoraṇau praveśo 'sti nirākāśaḥ samaśca saḥ /	T04D3871:34b-9	རྡུལ་ཕྲན་རྡུལ་ཕྲན་ལ་འཇུག་མེད་༎ དེ་ནི་སྐབས་མེད་མཉམ་པ་ཡིན་༎
+T04bsa003_u:1592	 apraveśe na miśratvamamiśratve na saṃgatiḥ // SBca_9.95 //	T04D3871:34b-11	མ་ཞུགས་པ་ལ་འདྲེ་མེད་ཅིང་༎ མ་འདྲེས་པ་ལ་ཕྲད་པ་མེད་༎
+T04bsa003_u:1593	 niraṃśasya ca saṃsargaḥ kathaṃ nāmopapadyate /	T04D3871:34b-13	ཆ་མེད་པ་ལའང་ཕྲད་པ་ཞེས་༎ བྱ་བ་ཇི་ལྟར་འཐད་པར་འགྱུར་༎
+T04bsa003_u:1594	 saṃsarge ca niraṃśatvaṃ yadi dṛṣṭaṃ nidarśaya // SBca_9.96 //	T04D3871:34b-15	ཕྲད་པ་དང་ནི་ཆ་མེད་པར་༎ གལ་ཏེ་མཐོང་ན་བསྟན་པར་གྱིས་༎ རྣམ་ཤེས་ལུས་མེད་པ་ལ་ནི་༎ ཕྲད་པ་འཐད་པ་མ་ཡིན་ཉིད་༎ ཚོགས་པའང་དངོས་པོ་མེད་ཕྱིར་ཏེ་༎ སྔར་ནི་ཇི་ལྟར་རྣམ་དཔྱད་བཞིན་༎
+T04bsa003_u:16	 yataḥ sukhenaiva sukhaṃ pravṛddham utplāvayatyapramitāñjanaughān // SBca_1.7 //	T04D3871:2a-13	འདིས་ནི་ཚད་མེད་སྐྱེ་བོའི་ཚོགས་རྣམས་ཀྱིས་༎ བདེ་མཆོག་བདེ་བླག་ཉིད་དུ་ཐོབ་པར་བྱེད་༎
+T04bsa003_u:1608	 nāpyantarna bahiścittamanyatrāpi na labhyate // SBca_9.103 //  yanna kāye na cānyatra na miśraṃ na pṛthak kvacit /	T04D3871:34b-43	ནང་ཡང་སེམས་མིན་ཕྱི་མིན་ཞིང་༎ གཞན་དུ་ཡང་ནི་རྙེད་མ་ཡིན་༎ གང་ཞིག་ལུས་མིན་གཞན་དུ་མིན་༎ འདྲེས་མིན་ལོགས་སུའང་འགར་མེད་པ་༎ དེ་ནི་ཅུང་ཟད་མིན་དེའི་ཕྱིར་༎
+T04bsa003_u:1610	 tanna kiṃcidataḥ sattvāḥ prakṛtyā parinirvṛtāḥ // SBca_9.104 //	T04D3871:34b-48	སེམས་ཅན་རང་བཞིན་མྱ་ངན་འདས་༎
+T04bsa003_u:1611	 jñeyātpūrvaṃ yadi jñānaṃ kimālambyāsya saṃbhavaḥ /  jñeyena saha cejjñānaṃ kimālambyāsya saṃbhavaḥ // SBca_9.105 //	T04D3871:35a-0	ཤེས་བྱ་༄༣༥ཨ་༌་༎ ལས་སྔར་ཤེས་ཡོད་ན་༎ དེ་ནི་ཅི་ལ་དམིགས་ནས་སྐྱེ་༎ ཤེས་དང་ཤེས་བྱ་ལྷན་ཅིག་ན་༎ དེ་ནི་ཅི་ལ་དམིགས་ནས་སྐྱེ་༎
+T04bsa003_u:1613	 atha jñeyādbhavet paścāt tadā jñānaṃ kuto bhavet /	T04D3871:35a-5	འོན་ཏེ་ཤེས་བྱའི་ཕྱིས་ཡོད་ན་༎ དེ་ཚེ་ཤེས་པ་གང་ལས་སྐྱེ་༎
+T04bsa003_u:1614	 evaṃ ca sarvadharmāṇāmutpattirnāvasīyate // SBca_9.106 //	T04D3871:35a-7	དེ་ལྟར་ཆོས་རྣམས་ཐམས་ཅད་ཀྱི་༎ སྐྱེ་བ་རྟོགས་པར་འགྱུར་མ་ཡིན་༎
+T04bsa003_u:1615	 yadyevaṃ saṃvṛtirnāsti tataḥ satyadvayaṃ kutaḥ /  atha sāpyanyasaṃvṛtyā syātsattvo nirvṛtaḥ kutaḥ // SBca_9.107 //	T04D3871:35a-9	གལ་ཏེ་དེ་ལྟར་ཀུན་རྫོབ་མེད་༎ དེ་ལ་བདེན་གཉིས་ག་ལ་ཡོད་༎ དེ་ཡང་ཀུན་རྫོབ་གཞན་གྱིས་ན་༎ སེམས་ཅན་མྱ་ངན་ག་ལ་འདའ་༎
+T04bsa003_u:1617	 paracittavikalpo 'sau svasaṃvṛtyā tu nāsti saḥ /	T04D3871:35a-13	འདི་ནི་གཞན་སེམས་རྣམ་རྟོག་སྟེ་༎ དེ་ནི་རང་གི་ཀུན་རྫོབ་མིན་༎
+T04bsa003_u:1618	 sa paścānniyataḥ so 'sti na cennāstyeva saṃvṛtiḥ // SBca_9.108 //	T04D3871:35a-15	ཕྱིས་དེ་ངེས་ན་དེ་ཡོད་དེ་༎ མིན་ན་ཀུན་རྫོབ་མེད་པ་ཉིད་༎
+T04bsa003_u:1619	 kalpanā kalpitaṃ ceti dvayamanyonyaniśritam /	T04D3871:35a-17	རྟོག་དང་བརྟག་པར་བྱ་བ་དག་། གཉིས་པོ་ཕན་ཚུན་བརྟེན་པ་ཡིན་༎
+T04bsa003_u:1620	 yathāprasiddhamāśritya vicāraḥ sarva ucyate // SBca_9.109 //	T04D3871:35a-18	ཇི་ལྟར་གྲགས་པ་ལ་བརྟེན་ནས་༎ རྣམ་པར་དཔྱད་པ་ཐམས་ཅད་བརྗོད་༎
+T04bsa003_u:1621	 vicāritena tu yadā vicāreṇa vicāryate /	T04D3871:35a-20	གང་ཚེ་རྣམ་པར་དཔྱད་པ་ཡི་༎ རྣམ་དཔྱོད་ཀྱིས་ནི་དཔྱོད་བྱེད་ན་༎
+T04bsa003_u:1622	 tadānavasthā tasyāpi vicārasya vicāraṇāt // SBca_9.110 //	T04D3871:35a-22	དེ་ཚེ་རྣམ་དཔྱོད་དེ་ཡང་ནི་༎
+T04bsa003_u:1623	 vicārite vicārye tu vicārasyāsti nāśrayaḥ /	T04D3871:35a-24	དཔྱད་བྱ་རྣམ་པར་དཔྱད་བྱས་ན་༎ རྣམ་དཔྱོད་ལ་ནི་རྟེན་ཡོད་མིན་༎
+T04bsa003_u:1624	 nirāśritatvānnodeti tacca nirvāṇamucyate // SBca_9.111 //	T04D3871:35a-26	རྟེན་མེད་ཕྱིར་ན་མི་སྐྱེ་སྟེ་༎ དེ་ཡང་མྱ་ངན་འདས་པར་བརྗོད་༎
+T04bsa003_u:1625	 yasya tvetaddūyaṃ satyaṃ sa evātyantaduḥsthitaḥ /	T04D3871:35a-28	གང་གི་ལྟར་ན་འདི་གཉིས་བདེན་༎ དེ་ཉིད་ཤིན་ཏུ་དཀའ་བར་གནས་༎
+T04bsa003_u:1626	 yadi jñeyavaśādartho jñānāstitve tu kā gatiḥ // SBca_9.112 //  atha jñeyavaśājjñānaṃ jñeyāstitve tu kā gatiḥ /	T04D3871:35a-30	གལ་ཏེ་ཤེས་དབང་ལས་དོན་གྲུབ་༎ ཤེས་ཡོད་ཉིད་ལ་རྟེན་ཅི་ཡོད་༎ འོན་ཏེ་ཤེས་བྱ་ལས་ཤེས་གྲུབ་༎ ཤེས་བྱ་ཡོད་ལ་རྟེན་ཅི་ཡོད་༎
+T04bsa003_u:1628	 athānyonyavaśātsattvamabhāvaḥ syāddūyorapi // SBca_9.113 //	T04D3871:35a-34	དེ་སྟེ་ཕན་ཚུན་དབང་གིས་ཡོད་༎ གཉི་ག་ཡང་ནི་མེད་པར་འགྱུར་༎
+T04bsa003_u:1629	 pitā cenna vinā putrātkutaḥ putrasya saṃbhavaḥ /	T04D3871:35a-36	གལ་ཏེ་བུ་མེད་ཕ་མིན་ན་༎ བུ་ཉིད་གང་ལས་བྱུང་བ་ཡིན་༎
+T04bsa003_u:1630	 putrābhāve pitā nāsti tathāsattvaṃ tayordvayoḥ // SBca_9.114 //	T04D3871:35a-38	བུ་མེད་པར་ནི་ཕ་མེད་པ་༎
+T04bsa003_u:1631	 aṅkuro jāyate bījādbījaṃ tenaiva sūcyate /	T04D3871:35a-40	མྱུ་གུ་ས་བོན་ལས་སྐྱེ་ཞིང་༎ ས་བོན་དེ་ཉིད་ཀྱིས་རྟོགས་བཞིན་༎
+T04bsa003_u:1632	 jñeyājjñānena jātena tatsattā kiṃ na gamyate // SBca_9.115 //	T04D3871:35a-42	ཤེས་བྱ་ལས་སྐྱེས་ཤེས་པ་ཡིས་༎ དེ་ཡོད་པ་ནི་ཅིས་མི་རྟོགས་༎
+T04bsa003_u:1633	 aṅkurādanyato jñānādbījamastīti gamyate /	T04D3871:35a-44	མྱུ་གུ་ལས་གཞན་ཤེས་པ་ཡིས་༎ ས་བོན་ཡོད་ཅེས་རྟོགས་འགྱུར་ན་༎
+T04bsa003_u:1634	 jñānāstitvaṃ kuto jñātaṃ jñeyaṃ yattena gamyate // SBca_9.116 //	T04D3871:35a-46	གང་ཕྱིར་ཤེས་བྱ་དེ་རྟོགས་པ་༎ ཤེས་པ་ཡོད་ཉིད་གང་ལས་རྟོགས་༎
+T04bsa003_u:1635	 lokaḥ pratyakṣatastāvatsarvaṃ hetumudīkṣate /	T04D3871:35a-48	རེ་ཞིག་འཇིག་རྟེན་མངོན་སུམ་གྱིས་༎ རྒྱུ་རྣམས་ཐམས་ཅད་མཐོང་བ་ཡིན་༎
+T04bsa003_u:1636	 padmanālādibhedo hi hetubhedena jāyate // SBca_9.117 //	T04D3871:35a-50	པདམའི་སྡོང་བུ་སོགས་དབྱེ་ནི་༎ རྒྱུ་༄༣༥བ་ཡི་དབྱེ་བས་བསྐྱེད་པ་ཡིན་༎
+T04bsa003_u:1637	 kiṃkṛto hetubhedaścet pūrvahetuprabhedataḥ /	T04D3871:35b-1	རྒྱུ་དབྱེ་གང་གིས་བྱས་ཞེ་ན་༎ སྔར་གྱི་རྒྱུ་དབྱེ་ཉིད་ལས་སོ་༎
+T04bsa003_u:1638	 kasmāccetphalado hetuḥ pūrvahetuprabhāvataḥ // SBca_9.118 //	T04D3871:35b-3	ཅི་ཕྱིར་རྒྱུ་ཡིས་འབྲས་སྐྱེད་ནུས་༎ སྔར་གྱི་རྒྱུ་ཡི་མཐུ་ཉིད་ལས་༎
+T04bsa003_u:1639	 īśvaro jagato hetuḥ vada kastāvadīśvaraḥ /	T04D3871:35b-5	དབང་ཕྱུག་འགྲོ་བའི་རྒྱུ་ཡིན་ན་༎ རེ་ཞིག་དབང་ཕྱུག་གང་ཡིན་སྨྲོས་༎
+T04bsa003_u:1640	 bhūtāni cedbhavatvevaṃ nāmamātre 'pi kiṃ śramaḥ // SBca_9.119 //	T04D3871:35b-7	འབྱུང་རྣམས་ཞེ་ན་དེ་ལྟ་མོད་༏་། མིང་ཙམ་ལ་ཡང་ཅི་ཞིག་ངལ་༎
+T04bsa003_u:1641	 api tvaneke 'nityāśca niśceṣṭā na ca devatāḥ /	T04D3871:35b-9	འོན་ཀྱང་ས་སོགས་དུ་མ་དང་༎ མི་རྟག་ག-ཡོ་མེད་ལྷ་མིན་ཞིང་༎
+T04bsa003_u:1642	 laṅghyāścāśucayaścaiva kṣmādayo na sa īśvaraḥ // SBca_9.120 //	T04D3871:35b-10	འགོམ་བྱ་ཉིད་དང་མི་གཙང་བས་༎ དེ་ནི་དབང་ཕྱུག་ཉིད་མ་ཡིན་༎
+T04bsa003_u:1643	 nākāśamīśo 'ceṣṭatvāt nātmā pūrvaniṣedhataḥ /	T04D3871:35b-12	དབང་ཕྱུག་མཁའ་མིན་ག-ཡོ་མེད་ཕྱིར་༎ བདག་མིན་སྔར་ནི་བཀག་ཟིན་ཕྱིར་༏
+T04bsa003_u:1644	 acintyasya ca kartṛtvamapyacintyaṃ kimucyate // SBca_9.121 //	T04D3871:35b-14	། བསམ་མིན་པ་ཡི་བྱེད་པོ་ཡང་༎ བསམ་མིན་བརྗོད་པས་ཅི་ཞིག་བྱ་༎ དེས་བསྐྱེད་འདོད་པའང་གང་ཞིག་ཡིན་༎
+T04bsa003_u:1645	 tena kiṃ sraṣṭumiṣṭaṃ ca ātmā cet nanvasau dhruvaḥ /  kṣmādisvabhāva īśaśca jñānaṃ jñeyādanādi ca // SBca_9.122 //	T04D3871:35b-17	བདག་ནི་དེ་དང་ས་སོགས་དང་༎ དབང་ཕྱུག་ངོ་བོའང་རྟག་མིན་ནམ་༎ ཤེས་པ་ཤེས་བྱ་ལས་སྐྱེ་དང་༎ ཐོག་མེད་བདེ་སྡུག་ལས་ལས་ཡིན་༎
+T04bsa003_u:1647	 karmaṇaḥ sukhaduḥkhe ca vada kiṃ tena nirmitam /	T04D3871:35b-19	དེ་ཡིས་གང་ཞིག་བསྐྱེད་པ་སྨྲོས་༎
+T04bsa003_u:1648	 hetorādirna cedasti phalasyādiḥ kuto bhavet // SBca_9.123 //	T04D3871:35b-20	རྒྱུ་ལ་ཐོག་མ་ཡོད་མིན་ན་༎ འབྲས་བུའི་ཐོག་མ་ག་ལ་ཡོད་༎
+T04bsa003_u:1649	 kasmātsadā na kurute na hi so 'nyamapekṣate /  tenākṛto 'nyo nāstyeva tenāsau kimapekṣatām // SBca_9.124 //	T04D3871:35b-22	རྟག་ཏུ་ཅི་ཕྱིར་བྱེད་མིན་ཏེ་༎ དེ་ནི་གཞན་ལ་ལྟོས་པ་མིན་༎ དེས་བྱས་མིན་གཞན་ཡོད་མིན་ན་༎ དེས་འདི་གང་ལ་ལྟོས་པར་འགྱུར་༎
+T04bsa003_u:165	 kiṃ punarbhairavākārairyamadūtairadhiṣṭhitaḥ /  mahātrāsajvaragrastaḥ purīṣotsargaveṣṭitaḥ // SBca_2.45 //	T04D3871:5b-27	གཤིན་རྗེའི་ཕོ་ཉ་འཇིགས་འཇིགས་ལྟའི་༎ ཤ་ཚུགས་ཅན་གྱིས་བཟུང་གྱུར་ཅིང་༎ འཇིགས་ཆེན་ནད་ཀྱིས་ཐེབས་གྱུར་པ་༎
+T04bsa003_u:1651	 apekṣate cetsāmagrīṃ heturna punarīśvaraḥ /	T04D3871:35b-26	གལ་ཏེ་ལྟོས་ན་ཚོགས་པ་ཉིད་༎ རྒྱུ་ཡིན་འགྱུར་གྱི་དབང་ཕྱུག་མིན་༎
+T04bsa003_u:1652	 nākartumīśaḥ sāmagryāṃ[na kartuṃ tadabhāvataḥ] // SBca_9.125 //	T04D3871:35b-28	ཚོགས་ན་མི་སྐྱེ་དབང་མེད་ཅིང་༎ དེ་མེད་པར་ནི་སྐྱེ་དབང་མེད་༎
+T04bsa003_u:1653	 karotyanicchannīśaścetparāyattaḥ prasajyate /	T04D3871:35b-30	གལ་ཏེ་དབང་ཕྱུག་མི་འདོད་བཞིན་༎ བྱེད་ན་གཞན་གྱི་དབང་དུ་ཐལ་༎
+T04bsa003_u:1654	 icchannapīcchāyattaḥ syāt kurvataḥ kuta īśatā // SBca_9.126 //	T04D3871:35b-32	འདོད་ནའང་འདོད་ལ་རག་ལས་འགྱུར་༎ བྱེད་ནའང་དབང་ཕྱུག་ག་ལ་ཡིན་༎
+T04bsa003_u:1655	 ye 'pi nityānaṇūnāhuste 'pi pūrvaṃ nivāritāḥ /	T04D3871:35b-34	གང་དག་རྡུལ་ཕྲན་རྟག་སྨྲ་བ་༎ དེ་དག་ཀྱང་ནི་སྔར་བཟློག་ཟིན་༎
+T04bsa003_u:1656	 sāṃkhyāḥ pradhānamicchanti nityaṃ lokasya kāraṇam // SBca_9.127 //	T04D3871:35b-36	གཙོ་བོ་རྟག་པ་འགྲོ་བ་ཡི་༎ རྒྱུ་ཡིན་པར་ནི་གྲངས་ཅན་འདོད་༎
+T04bsa003_u:1657	 sattvaṃ rajastamaśceti guṇā aviṣamasthitāḥ /	T04D3871:35b-38	སྙིང་སྟོབས་རྡུལ་དང་མུན་པ་ཞེས་༎ བྱ་བའི་ཡོན་ཏན་མཉམ་གནས་ནི་༎
+T04bsa003_u:1658	 pradhānamiti kathyante viṣamairjagaducyate // SBca_9.128 //	T04D3871:35b-40	གཙོ་བོ་ཞེས་བྱར་རབ་བརྗོད་དེ་༎ མི་མཉམ་འགྲོ་བ་ཡིན་པར་བརྗོད་༎
+T04bsa003_u:1659	 ekasya trisvabhāvatvamayuktaṃ tena nāsti tat /	T04D3871:35b-42	གཅིག་ལ་རང་བཞིན་གསུམ་ཉིད་ནི་༎ རིགས་མིན་དེས་ན་དེ་ཡོད་མིན་༎
+T04bsa003_u:1660	 evaṃ guṇā na vidyante pratyekaṃ te 'pi hi tridhā // SBca_9.129 //	T04D3871:35b-44	དེ་བཞིན་ཡོན་ཏན་ཡོད་མིན་ཏེ་༎ དེ་ཡང་སོ་སོར་རྣམ་གསུམ་ཕྱིར་༎
+T04bsa003_u:1661	 guṇābhāve ca śabdāderastitvamatidūrataḥ /	T04D3871:35b-46	ཡོན་ཏན་མེད་ན་སྒྲ་སོགས་ཀྱང་༎ ཡོད་ཉིད་ཤིན་ཏུ་རྒྱང་རིང་འགྱུར་༎
+T04bsa003_u:1662	 acetane ca vastrādau sukhāderapyasaṃbhavaḥ // SBca_9.130 //	T04D3871:36a-0	སེམས་མེད་གོས་ལ་སོགས་༄༣༦ཨ་༌་༎ པ་ལ་༎ བདེ་སོགས་ཡོད་པ་སྲིད་པའང་མིན་༎
+T04bsa003_u:1663	 taddheturūpā bhāvāścennanu bhāvā vicāritāḥ /	T04D3871:36a-2	དངོས་རྣམས་དེ་རྒྱུའི་རང་བཞིན་ན་༎ དངོས་པོ་རྣམ་དཔྱད་མ་ཟིན་ནམ་༎
+T04bsa003_u:1664	 sukhādyeva ca te hetuḥ na ca tasmātpaṭādayaḥ // SBca_9.131 //  paṭādestu sukhādi syāttadabhāvātsukhādyasat /	T04D3871:36a-4	ཁྱོད་ཀྱི་རྒྱུ་ཡང་བདེ་སོགས་ཉིད་༎ དེ་ལས་སྣམ་སོགས་འབྱུང་བའང་མེད་༎ སྣམ་སོགས་ལས་ནི་བདེ་སོགས་ཡིན་༎ དེ་མེད་ཕྱིར་ན་བདེ་སོགས་མེད་༎
+T04bsa003_u:1666	 sukhādīnāṃ ca nityatvaṃ kadācinnopalabhyate // SBca_9.132 //	T04D3871:36a-8	བདེ་སོགས་རྟག་པ་ཉིད་དུ་ཡང་༎ ནམ་ཡང་དམིགས་པ་ཡོད་མ་ཡིན་༎
+T04bsa003_u:1667	 satyāmeva sukhavyaktau saṃvittiḥ kiṃ na gṛhyate /	T04D3871:36a-10	བདེ་སོགས་གསལ་བ་ཡོད་ཉིད་ན་༎ མྱོང་བ་ཅི་ཕྱིར་འཛིན་མ་ཡིན་༎
+T04bsa003_u:1668	 tadeva sūkṣmatāṃ yāti sthūlaṃ sūkṣmaṃ ca tatkatham // SBca_9.133 //	T04D3871:36a-12	དེ་ཉིད་ཕྲ་མོར་གྱུར་ན་དེ་༎ རགས་དང་ཕྲ་བའང་ཇི་ལྟར་ཡིན་༎
+T04bsa003_u:1669	 sthaulyaṃ tyaktvā bhavetsūkṣmamanitye sthaulyasūkṣmate /	T04D3871:36a-14	རགས་པ་དོར་ནས་ཕྲ་གྱུར་པས་༎ ཕྲ་རགས་དེ་དག་མི་རྟག་ཉིད་༎
+T04bsa003_u:1670	 sarvasya vastunastadvatkiṃ nānityatvamiṣyate // SBca_9.134 //	T04D3871:36a-16	དེ་བཞིན་དངོས་པོ་ཐམས་ཅད་ནི་༎ མི་རྟག་ཉིད་དུ་ཅིས་མི་འདོད་༎
+T04bsa003_u:1671	 na sthaulyaṃ cetsukhādanyat sukhasyānityatā sphuṭam /	T04D3871:36a-18	རགས་པ་བདེ་ལས་གཞན་མིན་ན་༎ བདེ་བ་གསལ་བ་མི་རྟག་ཉིད་༎
+T04bsa003_u:1672	 nāsadutpadyate kiṃcidasattvāditi cenmatam // SBca_9.135 //	T04D3871:36a-20	གལ་ཏེ་མེད་པ་འགའ་ཡང་ནི་༎ སྐྱེ་མིན་མེད་ཕྱིར་ཞེས་འདོད་ན་༎
+T04bsa003_u:1673	 vyaktasyāsata utpattirakāmasyāpi te sthitā /	T04D3871:36a-23	ཁྱོད་མི་འདོད་ཀྱང་གནས་པ་ཉིད་༎
+T04bsa003_u:1674	 annādo 'medhyabhakṣaḥ syāt phalaṃ hetau yadi sthitam // SBca_9.136 //	T04D3871:36a-24	གལ་ཏེ་རྒྱུ་ལ་འབྲས་གནས་ན་༎ ཟན་ཟ་མི་གཙང་ཟ་བར་འགྱུར་༎
+T04bsa003_u:1676	 mohāccennekṣate lokaḥ tattvajñasyāpi sā sthitiḥ // SBca_9.137 //	T04D3871:36a-28	འཇིག་རྟེན་རྨོངས་པས་མ་མཐོང་ན་༎ དེ་ཉིད་ཤེས་ཀྱིས་བཞག་དེ་ཉིད་༎
+T04bsa003_u:1677	 lokasyāpi ca tajjñānamasti kasmānna paśyati /	T04D3871:36a-30	ཤེས་དེ་འཇིག་རྟེན་ལ་ཡང་ནི་༎ ཡོད་པས་ཅི་སྟེ་མཐོང་མ་ཡིན་༎
+T04bsa003_u:1678	 lokāpramāṇatāyāṃ cet vyaktadarśanamapyasat // SBca_9.138 //	T04D3871:36a-32	འཇིག་རྟེན་ཚད་མ་ཉིད་མིན་ན་༎ གསལ་བ་མཐོང་བའང་བདེན་མ་ཡིན་༎
+T04bsa003_u:1679	 pramāṇamapramāṇaṃ cennanu tatpramitaṃ mṛṣā /	T04D3871:36a-34	གལ་ཏེ་ཚད་མ་ཚད་མིན་ན་༎ དེས་གཞལ་བརྫུན་པར་མི་འགྱུར་རམ་༎ དེ་ཉིད་དུ་ན་སྟོང་པ་ཉིད་༎
+T04bsa003_u:168	 ko me mahābhayādasmātsādhustrāṇaṃ bhaviṣyati // SBca_2.46 //	T04D3871:5b-31	སུ་ཞིག་འཇིགས་ཆེན་འདི་ལས་བདག་། ལེགས་པར་སྐྱོབ་པར་བྱེད་འགྱུར་ཞེས་༎
+T04bsa003_u:1680	 tattvataḥ śūnyatā tasmādbhāvānāṃ nopapadyate // SBca_9.139 //	T04D3871:36a-37	སྒོམ་པ་དེ་ཕྱིར་མི་འཐད་འགྱུར་༎
+T04bsa003_u:1681	 kalpitaṃ bhāvamaspṛṣṭvā tadabhāvo na gṛhyate /	T04D3871:36a-38	བརྟགས་པའི་དངོས་ལ་མ་རེག་པར་༎ དེ་ཡི་དངོས་མེད་འཛིན་མ་ཡིན་༎
+T04bsa003_u:1682	 tasmādbhāvo mṛṣā yo hi tasyābhāvaḥ sphuṭaṃ mṛṣā // SBca_9.140 //	T04D3871:36a-40	དེ་ཕྱིར་བརྫུན་པའི་དངོས་གང་ཡིན་༎ དེ་ཡི་དངོས་མེད་གསལ་བར་བརྫུན་༎
+T04bsa003_u:1683	 tasmātsvapne sute naṣṭe sa nāstīti vikalpanā /	T04D3871:36a-42	དེས་ན་རྨི་ལམ་བུ་ཤི་ལ་༎ དེ་མེད་སྙམ་པའི་རྣམ་རྟོག་ནི་༎
+T04bsa003_u:1684	 tadbhāvakalpanotpādaṃ vibadhnāti mṛṣā ca sā // SBca_9.141 //	T04D3871:36a-44	དེ་ཡོད་རྣམ་པར་རྟོག་པ་ཡི་༎ གེགས་ཡིན་དེ་ཡང་བརྫུན་པ་ཡིན་༎
+T04bsa003_u:1685	 tasmādevaṃ vicāreṇa nāsti kiṃcidahetutaḥ /	T04D3871:36a-46	དེ་བས་དེ་ལྟར་རྣམ་དཔྱད་པས་༎ འགའ་ཡང་རྒྱུ་མེད་ཡོད་མ་ཡིན་༎
+T04bsa003_u:1686	 na ca vyastasamasteṣu pratyayeṣu vyavasthitam // SBca_9.142 //	T04D3871:36a-49	རྐྱེན་རྣམས་ལ་ཡང་གནས་མ་ཡིན་༎
+T04bsa003_u:1687	 anyato nāpi cāyātaṃ na tiṣṭhati na gacchati /	T04D3871:36b-0	གཞན་ནས་འོངས་༄༣༦བ་པའང་མ་ཡིན་ལ་༎ གནས་པ་མ་ཡིན་འགྲོ་མ་ཡིན་༎
+T04bsa003_u:1688	 māyātaḥ ko viśeṣo 'sya yanmūḍhaiḥ satyataḥ kṛtam // SBca_9.143 //	T04D3871:36b-2	རྨོངས་པས་བདེན་པར་གང་བྱས་འདི་༎ སྒྱུ་མ་ལས་ནི་ཁྱད་ཅི་ཡོད་༎
+T04bsa003_u:1689	 māyayā nirmitaṃ yacca hetubhiryacca nirmitam /	T04D3871:36b-4	སྒྱུ་མས་སྤྲུལ་པ་གང་ཡིན་དང་༎ རྒྱུ་རྣམས་ཀྱིས་ནི་གང་སྤྲུལ་པ་༎
+T04bsa003_u:169	 trāṇaśūnyā diśo dṛṣṭvā punaḥ saṃmohamāgataḥ /	T04D3871:5b-33	ཕྱོགས་བཞིར་སྐྱབས་དག་ཚོལ་བར་བྱེད་༎ ཕྱོགས་བཞིར་སྐྱབས་མེད་མཐོང་ནས་ནི་༎ དེ་ནས་ཀུན་དུ་ཡི་མུག་འགྱུར་༎
+T04bsa003_u:1690	 āyāti tatkutaḥ kutra yāti ceti nirūpyatām // SBca_9.144 //	T04D3871:36b-5	དེ་ནི་གང་ནས་འོངས་གྱུར་ཅིང་༎ གང་དུ་འགྲོ་བའང་བརྟག་པར་གྱིས་༎
+T04bsa003_u:1691	 yadanyasaṃnidhānena dṛṣṭaṃ na tadabhāvataḥ /	T04D3871:36b-7	གང་ཞིག་གང་ནི་ཉེ་བ་ཡིས་༎ མཐོང་གྱུར་དེ་མེད་ན་མིན་པ་༎
+T04bsa003_u:1692	 pratibimbasame tasmin kṛtrime satyatā katham // SBca_9.145 //	T04D3871:36b-9	བཅོས་སུ་གཟུགས་བརྙན་དང་མཚུངས་པ་༎ དེ་ལ་བདེན་ཉིད་ཇི་ལྟར་ཡོད་༎
+T04bsa003_u:1693	 vidyamānasya bhāvasya hetunā kiṃ prayojanam /	T04D3871:36b-11	དངོས་པོ་ཡོད་པར་གྱུར་པ་ལ་༎ རྒྱུ་ཡིས་དགོས་པ་ཅི་ཞིག་ཡོད་༎
+T04bsa003_u:1694	 athāpyavidyamāno 'sau hetunā kiṃ prayojanam // SBca_9.146 //	T04D3871:36b-13	འོན་ཏེ་དེ་ནི་མེད་ན་ཡང་༎ རྒྱུ་ཡིས་དགོས་པ་ཅི་ཞིག་ཡོད་༎
+T04bsa003_u:1695	 nābhāvasya vikāro 'sti hetukoṭiśatairapi /	T04D3871:36b-15	བྱེ་བ་བརྒྱ་ཕྲག་རྒྱུ་ཡིས་ཀྱང་༎ དངོས་པོ་མེད་པ་བསྒྱུར་དུ་མེད་༎
+T04bsa003_u:1696	 tadavastha kathaṃ bhāvaḥ ko vānyo bhāvatāṃ gataḥ // SBca_9.147 //	T04D3871:36b-17	གནས་སྐབས་དེ་དངོས་ཇི་ལྟར་ཡིན་༎ དངོས་འགྱུར་གཞན་ཡང་གང་ཞིག་ཡིན་༎
+T04bsa003_u:1697	 nābhāvakāle bhāvaścetkadā bhāvo bhaviṣyati /  nājātena hi bhāvena so 'bhāvo 'pagamiṣyati // SBca_9.148 //  na cānapagate 'bhāve bhāvāvasarasaṃbhavaḥ /	T04D3871:36b-19	མེད་ཚེ་དངོས་ཡོད་སྲིད་མིན་ན་༎ དངོས་པོ་ཡོད་པར་ནམ་ཞིག་འགྱུར་༎ དངོས་པོ་སྐྱེས་པར་མ་གྱུར་པར་༎ དངོས་མེད་དེ་ནི་འབྲལ་མི་འགྱུར་༎
+T04bsa003_u:17	 bhavaduḥkhaśatāni tartukāmairapi sattvavyasanāni hartukāmaiḥ /	T04D3871:2a-15	སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ་འདོད་ཅིང་༎ སེམས་ཅན་མི་བདེ་བསལ་བར་འདོད་པ་དང་༎ བདེ་མང་བརྒྱ་ཕྲག་སྤྱོད་པར་འདོད་པས་ཀྱང་༎
+T04bsa003_u:170	 tadāhaṃ kiṃ kariṣyāmi tasmin sthāne mahābhaye // SBca_2.47 //	T04D3871:5b-36	གནས་དེར་སྐྱབས་ཡོད་མ་ཡིན་ན་༎ དེ་ཚེ་བདག་གིས་ཇི་ལྟར་བྱ་༎
+T04bsa003_u:1701	 evaṃ na ca nirodho 'sti na ca bhāvo 'sti sarvadā /	T04D3871:36b-27	དེ་ལྟར་འགག་པ་ཡོད་མིན་ཞིང་༏་། དངོས་པོའང་ཡོད་མིན་དེ་ཡི་ཕྱིར་༎
+T04bsa003_u:1702	 ajātamaniruddhaṃ ca tasmātsarvamidaṃ jagat // SBca_9.150 //	T04D3871:36b-29	འགྲོ་བ་འདི་དག་ཐམས་ཅད་ནི་༎ རྟག་ཏུ་མ་སྐྱེས་མ་འགགས་ཉིད་༎
+T04bsa003_u:1703	 svapnopamāstu gatayo vicāre kadalīsamāḥ /	T04D3871:36b-31	འགྲོ་བ་རྨི་ལམ་ལྟ་བུ་སྟེ་༎ རྣམ་པར་དཔྱད་ན་ཆུ་ཤིང་འདྲ་༎
+T04bsa003_u:1704	 nirvṛtānirvṛtānāṃ ca viśeṣo nāsti vastutaḥ // SBca_9.151 //	T04D3871:36b-33	མྱ་ངན་འདས་དང་མ་འདས་པའང་༎ དེ་ཉིད་དུ་ན་ཁྱད་པར་མེད་༎
+T04bsa003_u:1705	 evaṃ śūnyeṣu dharmeṣu kiṃ labdhaṃ kiṃ hṛtaṃ bhavet /	T04D3871:36b-35	དེ་ལྟར་སྟོང་པའི་དངོས་རྣམས་ལ་༎ ཐོབ་པ་ཅི་ཡོད་ཤོར་ཅི་ཡོད་༎
+T04bsa003_u:1706	 satkṛtaḥ paribhūto vā kena kaḥ saṃbhaviṣyati // SBca_9.152 //	T04D3871:36b-37	གང་གིས་རིམ་གྲོ་བྱས་པའམ་༎ ཡོངས་སུ་བརྙས་པའང་ཅི་ཞིག་ཡོད་༎
+T04bsa003_u:1707	 kutaḥ sukhaṃ vā duḥkhaṃ vā kiṃ priyaṃ vā kimapriyam /	T04D3871:36b-39	བདེ་བའང་སྡུག་བསྔལ་གང་ལས་ཡིན་༎ མི་དགར་ཅི་ཡོད་དགར་ཅི་ཡོད་༎
+T04bsa003_u:1708	 kā tṛṣṇā kutra sā tṛṣṇā mṛgyamāṇā svabhāvataḥ // SBca_9.153 //	T04D3871:36b-41	དེ་ཉིད་དུ་ནི་བཙལ་བྱས་ན་༎ གང་ཞིག་སྲེད་ཅིང་གང་ལ་སྲེད་༎
+T04bsa003_u:1709	 vicāre jīvalokaḥ kaḥ ko nāmātra mariṣyati /	T04D3871:36b-43	དཔྱད་ན་གསོན་པོའི་འཇིག་རྟེན་འདི་༎
+T04bsa003_u:171	 adyaiva śaraṇaṃ yāmi jagannāthān mahābalān /	T04D3871:5b-38	དེ་བས་རྒྱལ་བ་འགྲོ་བའི་མགོན་༏
+T04bsa003_u:1710	 ko bhaviṣyati ko bhūtaḥ ko bandhuḥ kasya kaḥ suhṛt // SBca_9.154 //	T04D3871:36b-44	གང་ཞིག་འདིར་ནི་འཆི་འགྱུར་ཏེ་༎ འབྱུང་འགྱུར་གང་ཡིན་བྱུང་གྱུར་གང་༎
+T04bsa003_u:172	 jagadrakṣārthamudyuktān sarvatrāsaharān jinān // SBca_2.48 //	T04D3871:5b-39	།འགྲོ་བ་སྐྱོབ་པའི་དོན་བརྩོན་པ་༎ སྟོབས་ཆེན་འཇིགས་པ་ཀུན་སེལ་ལ་༎
+T04bsa003_u:1725	 tatrāpi māro yatate mahāpāyaprapātane /	T04D3871:37a-24	དེར་ཡང་ངན་སོང་ཆེན་པོར་ནི་༎ ལྟུང་ཕྱིར་བདུད་ནི་བརྩོན་པར་བྱེད་༎
+T04bsa003_u:1726	 tatrāsanmārgabāhulyādvicikitsā ca durjayā // SBca_9.162 //	T04D3871:37a-26	དེར་ནི་ལོག་པའི་ལམ་མང་ཞིང་༎ ཐེ་ཚོམ་ལས་ཀྱང་བརྒལ་དཀའ་སྟེ་༎
+T04bsa003_u:1727	 punaśca kṣaṇadaurlabhyaṃ buddhotpādo 'tidurlabhaḥ /	T04D3871:37a-28	སླར་ཡང་དེ་ལ་བརྙེད་དཀའ་ཞིང་༎ སངས་རྒྱས་འབྱུང་རྙེད་ཤིན་ཏུ་དཀའ་༎
+T04bsa003_u:1728	 kleśaugho durnivāraścetyaho duḥkhaparaṃparā // SBca_9.163 //	T04D3871:37a-30	ཉོན་མོངས་ཆུ་བོ་སྤང་དཀའ་སྟེ་༎ ཨཨེ་མ་སྡུག་བསྔལ་བརྒྱུད་པར་གྱུར་༎
+T04bsa003_u:1729	 aho batātiśocyatvameṣāṃ duḥkhaughavartinām /  ye nekṣante svadauḥsthityamevamapyatiduḥsthitāḥ // SBca_9.164 //	T04D3871:37a-32	དེ་ལྟར་ཤིན་ཏུ་སྡུག་བསྔལ་ཡང་༎ རང་སྡུག་མི་མཐོང་གང་ཡིན་པ་༎ སྡུག་བསྔལ་ཆུ་བོར་གནས་འདི་དག་། ཀྱི་ཧུད་མྱ་ངན་བྱ་བར་འོས་༎
+T04bsa003_u:173	 taiścāpyadhigataṃ dharmaṃ saṃsārabhayanāśanam /  śaraṇaṃ yāmi bhāvena bodhisattvagaṇaṃ tathā // SBca_2.49 //	T04D3871:5b-41	དི་རིང་ཉིད་ནས་སྐྱབས་སུ་མཆི་༎ དེ་ཡི་ཐུགས་སུ་ཆུད་པའི་ཆོས་༎ འཁོར་བའི་འཇིགས་པ་སེལ་བ་དང་༎ བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ལ་ཡང་༎
+T04bsa003_u:1731	 snātvā snātvā yathā kaścidviśedvahniṃ muhurmuhuḥ /	T04D3871:37a-35	དཔེར་ན་འགའ་ཞིག་ཡང་ཡང་ཁྲུས་༎ བྱས་ཏེ་ཡང་ཡང་མེར་འཇུག་པ་༎
+T04bsa003_u:1732	 svasausthityaṃ ca manyante evamapyatiduḥsthitāḥ // SBca_9.165 //	T04D3871:37a-37	དེ་ལྟར་ཤིན་ཏུ་སྡུག་བསྔལ་བར་༎ གནས་ཀྱང་བདག་ཉིད་བདེར་རློམ་བཞིན་༎
+T04bsa003_u:1733	 ajarāmaralīlānāmevaṃ viharatāṃ satām /	T04D3871:37a-39	དེ་ལྟར་རྒ་དང་འཆི་མེད་པ་༎ བཞིན་དུ་སྤྱོད་པས་གནས་རྣམས་ལ་༎
+T04bsa003_u:1734	 āyāsyantyāpado ghorāḥ kṛtvā maraṇamagrataḥ // SBca_9.166 //	T04D3871:37a-41	དང་པོ་ཉིད་དུ་བསད་བྱས་ནས་༎ ངན་སོང་ལྟུང་བ་མི་བཟད་འོང་༎
+T04bsa003_u:1735	 evaṃ duḥkhāgnitaptānāṃ śāntiṃ kuryāmahaṃ kadā /	T04D3871:37a-43	དེ་ལྟར་སྡུག་བསྔལ་མེས་གདུངས་ལ་༎
+T04bsa003_u:1736	 puṇyameghasamudbhūtaiḥ sukhopakaraṇaiḥ svakaiḥ // SBca_9.167 //	T04D3871:37a-44	བསོད་ནམས་སྤྲིན་ལས་ལེགས་འཁྲུངས་པའི་༎ རང་གི་བདེ་བའི་ཚོགས་ཆར་གྱིས་༎
+T04bsa003_u:1737	 kadopalambhadṛṣṭibhyo deśayiṣyāmi śūnyatām /  saṃvṛtyānupalambhena puṇyasaṃbhāramādarāt // SBca_9.168 //	T04D3871:37b-0	ཞི་བྱེད་པར་༄༣༧བ་བདག་ནམ་ཞིག་འགྱུར་༎ གུས་པས་བསོད་ནམས་ཚོགས་བསགས་ཏེ་༎ དམིགས་པས་ཕུང་བར་འགྱུར་རྣམས་ལ་༎ སྟོང་པ་ཉིད་ནི་སྟོན་པར་འགྱུར་༎
+T04bsa003_u:1739	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ prajñāpāramitāparicchedo navamaḥ //  10 Pariṇāmanāparicchedo daśamaḥ /	T04D3871:37b-5	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལེའུ་སྟེ་དགུ་པའོ་།
+T04bsa003_u:1741	 bodhicaryāvatāraṃ me yadvicintayataḥ śubham /  tena sarve janāḥ santu bodhicaryāvibhūṣaṇāḥ // SBca_10.1 //	T04D3871:37b-9	དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན་༎ བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག་། ཕྱོགས་རྣམས་ཀུན་ན་ལུས་དང་སེམས་༎
+T04bsa003_u:1743	 sarvāsu dikṣu yāvantaḥ kāyacittavyathāturāḥ /	T04D3871:37b-11	སྡུག་བསྔལ་ནད་པ་ཇི་སྙེད་པ་༎
+T04bsa003_u:1744	 te prāpnuvantu matpuṇyaiḥ sukhaprāmodyasāgarān // SBca_10.2 //	T04D3871:37b-12	དེ་དག་བདག་གི་བསོད་ནམས་ཀྱིས་༎ བདེ་དགའ་རྒྱ་མཚོ་ཐོབ་པར་ཤོག་། དེ་དག་འཁོར་བ་ཇི་སྲིད་དུ་༎
+T04bsa003_u:1745	 āsaṃsāraṃ sukhajyānirmā bhūtteṣāṃ kadācana /	T04D3871:37b-14	ནམ་ཡང་བདེ་ལས་ཉམས་མ་གྱུར་༎
+T04bsa003_u:1746	 bodhisattvasukhaṃ prāptaṃ bhavatvavirataṃ jagat // SBca_10.3 //  yāvanto narakāḥ kecidvidyante lokadhātuṣu /	T04D3871:37b-15	འགྲོ་བས་བྱང་ཆུབ་སེམས་དཔའ་ཡི་༎ བདེ་བ་རྒྱུན་མི་འཆད་ཐོབ་ཤོག་།འཇིག་རྟེན་ཁམས་ན་དམྱལ་བ་དག་། གང་དག་ཇི་སྙེད་ཡོད་པ་རྣམས་༎
+T04bsa003_u:1748	 sukhāvatīsukhāmodyairmodantāṃ teṣu dehinaḥ // SBca_10.4 //	T04D3871:37b-18	བདེ་ཅན་བདེ་བས་དགའ་བར་ཤོག་། གྲང་བས་ཉམ་ཐག་དྲོ་ཐོབ་ཤོག་། བྱང་ཆུབ་སེམས་དཔའི་སྤྲིན་ཆེན་ལས་༎
+T04bsa003_u:1749	 śītārtāḥ prāpnuvantūṣṇamuṣṇārtāḥ santu śītalāḥ /	T04D3871:37b-20	ཚ་བས་ཉམ་ཐག་བསིལ་བར་ཤོག་། རལ་གྲི་ལོ་མའི་ནགས་ཚལ་ཡང་༎
+T04bsa003_u:175	 samantabhadrāyātmānaṃ dadāmi bhayavihvalaḥ /	T04D3871:6a-0	དེ་བཞིན་ཡང་དག་སྐྱབས་༄༦ཨ་༌་༎ ཀུན་དུ་བཟང་ལ་བདག་ཉིད་འབུལ་༎
+T04bsa003_u:1750	 bodhisattvamahāmeghasaṃbhavairjalasāgaraiḥ // SBca_10.5 //  asipatravanaṃ teṣāṃ syānnandanavanadyuti /  kūṭaśālmalivṛkṣāśca jāyantāṃ kalpapādapāḥ // SBca_10.6 //	T04D3871:37b-21	དེ་ལ་ཙནདན་ནགས་སྟུག་ཤོག་། ཤལ་མ་རི་ཡི་སྡོང་པོ་ཡང་༎ དཔག་བསམ་ཤིང་དུ་འཁྲུངས་པར་ཤོག་།འཐིང་རིལ་ངུར་པ་དག་དང་ངང་པ་དང་༎ བཞད་སོགས་སྐད་སྙན་འབྱིན་པས་མཛེས་གྱུར་ཅིག་།
+T04bsa003_u:1753	 kādambakāraṇḍavacakravākahaṃsādikolāhalaramyaśobhaiḥ /  sarobhiruddāmasarojagandhair bhavantu hṛdyā narakapradeśāḥ // SBca_10.7 //	T04D3871:37b-24	དམྱལ་བའི་ས་ཕྱོགས་དག་ནི་ཉམས་དགར་ཤོག་། སོལ་ཕུང་དེ་དག་རིན་ཆེན་ཕུང་པོར་གྱུར་༎
+T04bsa003_u:1755	 so 'ṅgārarāśirmaṇirāśirastu taptā ca bhūḥ sphāṭikakuṭṭimaṃ syāt /  bhavantu saṃghātamahīdharāśca pūjāvimānāḥ sugataprapūrṇāḥ // SBca_10.8 //	T04D3871:37b-25	ས་བསྲེགས་ཤེལ་གྱི་ས་གཞི་བསྟར་བར་ཤོག་། བསྡུས་འཇོམས་རི་བོ་རྣམས་ཀྱང་མཆོད་པ་ཡི་༎ གཞལ་མེད་ཁང་གྱུར་བདེ་གཤེགས་གང་བར་ཤོག་། མདག་མ་རྡོ་བསྲེགས་མཚོན་གྱི་ཆར་པ་དག་། དེང་ནས་བཟུང་སྟེ་མེ་ཏོག་ཆར་པར་གྱུར་༎
+T04bsa003_u:1757	 aṅgārataptopalaśastravṛṣṭir adyaprabhṛtyastu ca puṣpavṛṣṭiḥ /  tacchastrayuddhaṃ ca paraspareṇa krīḍārthamadyāstu ca puṣpayuddham // SBca_10.9 //	T04D3871:37b-27	ཕན་ཚུན་མཚོན་གྱིས་འདེབས་པ་དེ་ཡང་ནི་༎ དེང་ནས་རྩེ་ཕྱིར་མེ་ཏོག་འཕེན་པར་ཤོག་། ཆུ་བོ་རབ་མེད་མེ་༄༣༨ཨ་༌་༎
+T04bsa003_u:1759	 patitasakalamāṃsāḥ kundavarṇāsthidehā dahanasamajalāyāṃ vaitaraṇyāṃ nimagnāḥ /  mama kuśalabalena prāptadivyātmabhāvāḥ saha suravanitābhiḥ santu mandākinīsthāḥ // SBca_10.10 //	T04D3871:38a-1	དོང་འདྲ་ནང་བྱིང་བ་དག་། ཤ་ཀུན་ཞིག་གྱུར་རུས་གོང་མེ་ཏོག་ཀུནདའི་མདོག་། བདག་གི་དགེ་བའི་སྟོབས་ཀྱིས་ལྷ་ཡི་ལུས་ཐོབ་ནས་༎
+T04bsa003_u:176	 punaśca mañjughoṣāya dadāmyātmānamātmanā // SBca_2.50 //	T04D3871:6a-3	འཇམ་པའི་དབྱངས་ལ་བདག་ཉིད་ཀྱིས་༎ བདག་གི་ལུས་ནི་དབུལ་བར་བགྱི་༎
+T04bsa003_u:1761	 trastāḥ paśyantvakasmādiha yamapuruṣāḥ kākagṛdhrāśca ghorā dhvāntaṃ	T04D3871:38a-2	ལྷ་མོ་རྣམས་དང་ལྷན་ཅིག་དལ་གྱིས་འབབ་གནས་ཤོག་། ཅི་ཕྱིར་འདིར་ནི་གཤིན་རྗེའི་མི་དང་ཁྲ་དང་བྱ་རྒོད་མི་བཟད་རྣམས་སྐྲག་བྱེད་༎
+T04bsa003_u:1762	 dhvastaṃ samantātsukharatijananī kasya saumyā prabheyam /	T04D3871:38a-3	ཀུན་ནས་མུན་བསལ་བདེ་དགའ་བསྐྱེད་པའི་མཐུ་བཟང་འདི་ཀོ་སུ་ཡི་མཐུ་སྙམ་སྟེ་༎
+T04bsa003_u:1763	 ityūrdhvaṃ prekṣamāṇā gaganatalagataṃ vajrapāṇiṃ jvalantaṃ	T04D3871:38a-4	གྱེན་དུ་བལྟས་ན་ནམ་མཁའི་དཀྱིལ་ན་ཕྱག་ན་རྡོ་རྗེ་འབར་བ་བཞུགས་མཐོང་ནས་༎
+T04bsa003_u:1764	 dṛṣṭvā prāmodyavegādvyapagataduritā yāntu tenaiva sārdham // SBca_10.11 //  patati kamalavṛṣṭirgandhapānīyamiśrācchamiti (?)	T04D3871:38a-5	རབ་ཏུ་དགའ་བའི་ཤུགས་ཀྱིས་སྡིག་དང་བྲལ་ནས་དེ་དང་ལྷན་ཅིག་འགྲོ་བར་ཤོག་། མེ་ཏོག་ཆར་པ་སྤོས་ཆུ་དང་འདྲེས་བབས་པ་ཡིས་༎
+T04bsa003_u:1766	 narakavahniṃ dṛśyate nāśayantī /	T04D3871:38a-6	དམྱལ་བའི་མེ་མདག་ཆིལ་ཆིལ་གསོད་པར་མཐོང་གྱུར་ནས་༎
+T04bsa003_u:1767	 kimidamiti sukhenāhlāditānāmakasmād bhavatu kamalapāṇerdarśanaṃ nārakāṇām // SBca_10.12 //  āyātāyāta śīghraṃ bhayamapanayata bhrātaro jīvitāḥ smaḥ  saṃprāpto 'smākameṣa jvaladabhayakaraḥ ko 'pi cīrīkumāraḥ /	T04D3871:38a-7	གློ་བུར་བདེ་བས་ཚིམ་པ་འདི་ཅི་བསམ་པ་དང་༎ སེམས་དམྱལ་རྣམས་ཀྱིས་ཕྱག་ན་པདམ་མཐོང་བར་ཤོག་། གྲོགས་དག་འཇིགས་པ་བོར་ལ་རིངས་པར་ཚུར་ཤོག་འུ་བུའི་ཐད་དུ་ནི་༎
+T04bsa003_u:177	 taṃ cāvalokitaṃ nāthaṃ kṛpāvyākulacāriṇam /	T04D3871:6a-5	ཐུགས་རྗེས་སྤྱོད་པ་མ་འཁྲུལ་བ་༎ ཉམ་ཐག་ང་རོས་འོ་དོད་འབོད་༎
+T04bsa003_u:1770	 sarvaṃ yasyānubhāvādvyasanamapagataṃ prītivegāḥ pravṛttāḥ	T04D3871:38a-8	གང་གི་མཐུ་ཡིས་སྡུག་བསྔལ་ཀུན་བྲལ་དགའ་བའི་ཤུགས་ཕྱིན་ལ་༎
+T04bsa003_u:1771	 jātaṃ saṃbodhicittaṃ sakalajanaparitrāṇamātā dayā ca // SBca_10.13 //	T04D3871:38a-9	འགྲོ་བ་ཀུན་ནས་ཡོངས་སྐྱོབ་བྱང་ཆུབ་སེམས་དང་བརྩེ་བ་སྐྱེས་གྱུར་པ་༎
+T04bsa003_u:1772	 paśyantvenaṃ bhavantaḥ suraśatamukuṭairarcyamānāṅghripadmaṃ  kārūṇyādārdradṛṣṭiṃ śirasi nipatitānekapuṣpaughavṛṣṭim /	T04D3871:38a-10	གཞོན་ནུ་ཟུར་ཕུད་ཅན་འབར་འཇིགས་པ་མེད་པར་བྱེད་པ་ཅི་ཞིག་ཕྱིན་༎ ཁྱོད་ཀྱི་ལྷ་བརྒྱའི་ཅོད་པན་དག་གིས་ཞབས་ཀྱི་པདམ་ལ་མཆོད་ཅིང་༎ ཐུགས་རྗེའི་རླན་སྤྱན་དབུ་ལ་མེ་ཏོག་དུ་མའི་ཚོགས་ཀྱིས་ཆར་འབབ་པ་༎
+T04bsa003_u:1774	 kūṭāgārairmanojñaiḥ stutimukharasurastrīsahasropagītai -	T04D3871:38a-13	ཁང་བརྩེགས་ཡིད་འོང་ལྷ་མོ་སྟོང་ཕྲག་བསྟོད་དབྱངས་སྒྲོགས་ལྡན་འདི་ལྟོས་ཞེས་༎
+T04bsa003_u:1775	 rdṛṣṭvāgre mañjughoṣaṃ bhavatu kalakalaḥ sāṃprataṃ nārakāṇām // SBca_10.14 //	T04D3871:38a-14	འཇམ་དབྱངས་དེ་འདྲ་མཐོང་ནས་ད་ནི་སེམས་དམྱལ་ཅ་ཅོ་འདོན་པར་ཤོག་། དེ་ལྟར་བདག་གི་དགེ་རྩས་ཀུན་དུ་བཟང་ལ་སོགས་༎
+T04bsa003_u:1776	 iti matkuśalaiḥ samantabhadrapramukhānāvṛtabodhisattvameghān /  sukhaśītasugandhavātavṛṣṭīn abhinandantu vilokya nārakāste // SBca_10.15 //	T04D3871:38a-15	བྱང་ཆུབ་སེམས་དཔའ་སྒྲིབ་པ་མེད་སྤྲིན་བདེ་བ་དང་༎ བསིལ་ཞིང་དྲི་ཞིམ་དང་ལྡན་ཆར་པ་འབེབས་མཐོང་ནས་༎
+T04bsa003_u:1778	 śāmyantu vedanāstīvrā nārakāṇāṃ bhayāni ca /  durgatibhyo vimucyantāṃ sarvadurgativāsinaḥ // SBca_10.16 //  anyonyabhakṣaṇabhayaṃ tiraścāmapagacchatu /  bhavantu sukhinaḥ pretā yathottarakurau narāḥ // SBca_10.17 //	T04D3871:38a-16	སེམས་ཅན་དམྱལ་བ་དེ་དག་མངོན་པར་དགའ་གྱུར་ཅིག་། དུད་འགྲོ་རྣམས་ནི་གཅིག་ལ་གཅིག་། ཟ་བའི་འཇིགས་དང་བྲལ་བར་ཤོག་། སྒྲ་མི་སྙན་པའི་མི་བཞིན་དུ་༎ ཡི་དགས་རྣམས་ནི་བདེ་༄༣༨བ་བར་གྱུར་༎
+T04bsa003_u:178	 viraumyārtaravaṃ bhītaḥ sa māṃ rakṣatu pāpinam // SBca_2.51 //	T04D3871:6a-8	སྡིག་ལྡན་བདག་ལ་བསྐྱབ་ཏུ་གསོལ་༎
+T04bsa003_u:1782	 saṃtarpyantāṃ pretāḥ snāpyantāṃ śītalā bhavantu sadā /  āryāvalokiteśvarakaragalitakṣīradhārābhiḥ // SBca_10.18 //	T04D3871:38b-1	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་གི་། ཕྱག་ནས་འབབ་པའིའོ་རྒྱུན་གྱིས་༎
+T04bsa003_u:1784	 andhāḥ paśyantu rūpāṇi śṛṇvantu badhirāḥ sadā /	T04D3871:38b-2	ཡི་དགས་རྣམས་ནི་ཚིམ་བྱས་ཤིང་༎ ཁྲུས་བྱས་རྟག་ཏུ་བསིལ་བར་ཤོག་། ལོང་བ་རྣམས་ཀྱིས་མིག་མཐོང་ཞིང་༎
+T04bsa003_u:1785	 garbhiṇyaśca prasūyantāṃ māyādevīva nirvyathāḥ // SBca_10.19 //	T04D3871:38b-4	འོན་པས་རྟག་ཏུ་སྒྲ་ཐོས་ཤོག་། ལྷ་མོ་སྒྱུ་འཕྲུལ་ཇི་བཞིན་དུ་༎
+T04bsa003_u:1786	 vastrabhojanapānīyaṃ srakcandanavibhūṣaṇam /  manobhilaṣitaṃ sarvaṃ labhantāṃ hitasaṃhitam // SBca_10.20 //	T04D3871:38b-5	སྦྲུམ་མའང་གནོད་མེད་བཙའ་བར་ཤོག་། གཅེར་བུ་རྣམས་ཀྱིས་གོས་དག་དང་༎ བཀྲེས་པ་རྣམས་ཀྱིས་ཟས་དང་ནི་༎ སྐོམ་པ་རྣམས་ཀྱིས་ཆུ་དག་དང་༎ བཏུང་བ་ཞིམ་པོ་ཐོབ་པར་ཤོག་། བཀྲེན་པ་རྣམས་ཀྱིས་ནོར་ཐོབ་ཤོག་།
+T04bsa003_u:1788	 bhītāśca nirbhayāḥ santu śokārtāḥ prītilābhinaḥ /	T04D3871:38b-7	མྱ་ངན་ཉམ་ཐག་དགའ་ཐོབ་ཤོག་། ཡི་ཆད་རྣམས་ཀྱང་ཡིད་སོས་ཤིང་༎
+T04bsa003_u:1789	 udvignāśca nirudvegā dhṛtimanto bhavantu ca // SBca_10.21 //  ārogyaṃ rogiṇāmastu mucyantāṃ sarvabandhanāt /	T04D3871:38b-8	བརྟན་པ་ཕུན་སུམ་ཚོགས་པར་ཤོག་། སེམས་ཅན་ནད་པ་ཇི་སྙེད་པ་༎ མྱུར་དུ་ནད་ལས་ཐར་གྱུར་ཅིག་།འགྲོ་བའི་ནད་ནི་མ་ལུས་པ་༎ རྟག་ཏུ་འབྱུང་བ་མེད་པར་ཤོག་། སྐྲག་པ་རྣམས་ནི་འཇིགས་མེད་ཤོག་། བཅིངས་པ་རྣམས་ནི་གྲོལ་བར་འགྱུར་༎ མཐུ་མེད་རྣམས་ནི་མཐུ་ལྡན་ཞིང་༎
+T04bsa003_u:179	 āryamākāśagarbhaṃ ca kṣitigarbhaṃ ca bhāvataḥ /	T04D3871:6a-9	འཕགས་པ་ནམ་མཁའི་སྙིང་པོ་དང་༎ ས་ཡི་སྙིང་པོ་དག་དང་ནི་༎
+T04bsa003_u:1791	 durbalā balinaḥ santu snigdhacittāḥ parasparam // SBca_10.22 //	T04D3871:38b-13	སེམས་ནི་ཕན་ཚུན་མཉེན་གྱུར་ཅིག་།འདྲོན་པ་དག་ནི་ཐམས་ཅད་ལ་༎
+T04bsa003_u:1792	 sarvā diśaḥ śivāḥ santu sarveṣāṃ pathivartinām /	T04D3871:38b-14	ཕྱོགས་རྣམས་ཐམས་ཅད་བདེ་བར་ཤོག་། གང་གི་དོན་དུ་འགྲོ་བྱེད་པ་༎
+T04bsa003_u:1793	 yena kāryeṇa gacchanti tadupāyena sidhyatu // SBca_10.23 //	T04D3871:38b-15	དེ་འབད་མི་དགོས་གྲུབ་གྱུར་ཅིག་། གྲུ་དང་གྲུ་ཆེན་ཞུགས་པ་རྣམས་༎ ཡིད་ལ་བསམ་པ་གྲུབ་གྱུར་ཏེ་༎
+T04bsa003_u:1794	 nauyānayātrārūḍhāśca santu siddhamanorathāḥ /  kṣemeṇa kūlamāsādya ramantāṃ saha bandhubhiḥ // SBca_10.24 //  kāntāronmārgapatitā labhantāṃ sārthasaṃgatim /	T04D3871:38b-17	ཆུ་ཡི་ངོགས་སུ་བདེར་ཕྱིན་ནས་༎ གཉེན་དང་ལྷན་ཅིག་དགའ་བར་ཤོག་། མྱ་ངན་ལམ་གོལ་འཁྱམས་པ་རྣམས༎ འདྲོན་པ་དག་དང་ཕྲད་གྱུར་ནས་༎
+T04bsa003_u:1797	 aśrameṇa ca gacchantu cauravyāghrādinirbhayāḥ // SBca_10.25 //	T04D3871:38b-20	ཆོམ་རྐུན་སྟག་སོགས་འཇིགས་མེད་པར་༎ མི་ངལ་བདེ་བླག་འདོང་བར་ཤོག་། དགོན་སོགས་ལམ་མེད་ཉམ་ང་བར་༎
+T04bsa003_u:1799	 anāthābālavṛddhānāṃ rakṣāṃ kurvantu devatāḥ // SBca_10.26 //  sarvākṣaṇavinirmuktāḥ śraddhāprajñākṛpānvitāḥ /	T04D3871:38b-23	གཉིད་ལོག་མྱོས་ཤིས་རབ་མྱོས་རྣམས་༎ ལྷ་དག་སྲུང་བར་བྱེད་པར་ཤོག་། མི་ངལ་ཀུན་ལས་ཐར་བ་དང་༎ དད་དང་ཤེས་རབ་བརྩེ་ལྡན་ཞིང་༎
+T04bsa003_u:18	 bahusaukhyaśatāni bhoktukāmair na vimocyaṃ hi sadaiva bodhicittam // SBca_1.8 //	T04D3871:2a-17	བྱང་ཆུབ་སེམས་ཉིད་རྟག་ཏུ་གཏང་མི་བྱ་༎ བྱང་ཆུབ་སེམས་སྐྱེས་གྱུར་ན་སྐད་ཅིག་གིས་༎
+T04bsa003_u:180	 sarvān mahākṛpāṃścāpi trāṇānveṣī viraumyaham // SBca_2.52 //	T04D3871:6a-10	ཐུགས་རྗེ་ཆེ་མགོན་ཐམས་ཅད་ལ་༎ སྐྱབས་ཚོལ་སྙིང་ནས་འོ་དོད་འབོད་༎
+T04bsa003_u:1801	 ākārācārasaṃpannāḥ santu jātismarāḥ sadā // SBca_10.27 //  bhavantvakṣayakośāśca yāvadgaganagañjavat /	T04D3871:38b-25	ཟས་དང་སྤྱོད་པ་ཕུན་ཚོགས་ནས་༎ རྟག་ཏུ་ཚེ་རབས་དྲན་གྱུར་ཅིག་། ཐམས་ཅད་ནམ་མཁའི་མཛོད་བཞིན་དུ་༎
+T04bsa003_u:1803	 nirdvandvā nirupāyāsāḥ santu svādhīnavṛttayaḥ // SBca_10.28 //	T04D3871:39a-0	ལོངས་སྤྱོད་ཆད་པ་མེད་པར་ཤོག་། རྩོད་༄༣༩ཨ་༌་༎ པ་མེད་ཅིང་འཚེ་མེད་པར་༎
+T04bsa003_u:1804	 alpaujasaśca ye sattvāste bhavantu mahaujasaḥ /	T04D3871:39a-2	རང་དབང་དུ་ནི་སྤྱོད་པར་ཤོག་། སེམས་ཅན་གཟི་བརྗིད་ཆུང་ངུ་གང་༎
+T04bsa003_u:1805	 bhavantu rūpasaṃpannā ye virūpāstapasvinaḥ // SBca_10.29 //	T04D3871:39a-3	དེ་དག་གཟི་བརྗིད་ཆེན་པོར་ཤོག་། དཀའ་ཐུབ་ཅན་གང་གཟུགས་ངན་པ་༎
+T04bsa003_u:1806	 yāḥ kāścana striyo loke puruṣatvaṃ vrajantu tāḥ /	T04D3871:39a-4	གཟུགས་བཟང་ཕུན་སུམ་ཚོགས་གྱུར་ཅིག་།འཇིག་རྟེན་བུད་མེད་ཇི་སྙེད་པ་༎
+T04bsa003_u:1807	 prāpnuvantūccatāṃ nīcā hatamānā bhavantu ca // SBca_10.30 //	T04D3871:39a-5	དེ་དག་སྐྱེས་པ་ཉིད་གྱུར་ཅིག་། མ་རབས་རྣམས་ནི་མཐོ་ཐོབ་ཅིང་༎
+T04bsa003_u:1808	 anena mama puṇyena sarvasattvā aśeṣataḥ /	T04D3871:39a-6	ང་རྒྱལ་དག་ཀྱང་བཅོམ་པར་ཤོག་། བདག་གི་བསོད་ནམས་འདི་ཡིས་ནི་༎ སེམས་ཅན་ཐམས་ཅད་མ་ལུས་པ་༎
+T04bsa003_u:1809	 viramya sarvapāpebhyaḥ kurvantu kuśalaṃ sadā // SBca_10.31 //	T04D3871:39a-8	སྡིག་པ་ཐམས་ཅད་སྤངས་ནས་ནི་༎
+T04bsa003_u:181	 yaṃ dṛṣṭvaiva ca saṃtrastāḥ palāyante caturdiśam /	T04D3871:6a-12	གང་ཞིག་མཐོང་ནས་གཤིན་རྗེ་ཡི་༎ ཕོ་ཉ་ལ་སོགས་སྡང་བ་རྣམས་༎ སྐྲག་ནས་ཕྱོགས་བཞིར་འབྱེར་བྱེད་པ་༎
+T04bsa003_u:1810	 bodhicittāvirahitā bodhicaryāparāyaṇāḥ /	T04D3871:39a-9	རྟག་ཏུ་དགེ་བ་བྱེད་པར་ཤོག་། བྱང་ཆུབ་སེམས་དང་མི་འབྲལ་ཞིང་༎ བྱང་ཆུབ་སྤྱོད་ལ་གཞོལ་བ་དང་༎ སངས་རྒྱས་རྣམས་ཀྱིས་ཡོངས་གཟུང་ཞིང་༎
+T04bsa003_u:1811	 buddhaiḥ parigṛhītāśca mārakarmavivarjitāḥ // SBca_10.32 //	T04D3871:39a-11	བདུད་ཀྱི་ལས་རྣམས་སྤང་བར་ཤོག་། སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་༎
+T04bsa003_u:1812	 aprameyāyuṣaścaiva sarvasattvā bhavantu te /  nityaṃ jīvantu sukhitā mṛtyuśabdo 'pi naśyatu // SBca_10.33 //	T04D3871:39a-12	ཚེ་ཡང་དཔག་མེད་རིང་བར་ཤོག་། རྟག་ཏུ་བདེ་བར་འཚོ་འགྱུར་ཞིང་༎ འཆི་བའི་སྒྲ་ཡང་གྲག་མ་གྱུར་༎
+T04bsa003_u:1815	 buddhabuddhātmajākīrṇā dharmadhvanimanoharaiḥ // SBca_10.34 //	T04D3871:39a-15	སངས་རྒྱས་དང་ནི་སངས་རྒྱས་སྲས་༎ ཆོས་སྙན་སྒྲོགས་པས་གང་བ་ཡིས་༎
+T04bsa003_u:1816	 śarkarādivyapetā ca samā pāṇitalopamā /  mṛdvī ca vaiḍūryamayī bhūmiḥ sarvatra tiṣṭhatu // SBca_10.35 //	T04D3871:39a-17	ཕྱོགས་རྣམས་ཐམས་ཅད་གང་བར་ཤོག་། ཐམས་ཅད་དུ་ཡང་ས་གཞི་དག་། གསེག་མ་ལ་སོགས་མེད་པ་དང་༎ ལག་མཐིལ་མཉམ་པ་བེཨེ་དའུརྱའི་༎
+T04bsa003_u:1818	 bodhisattvamahāparṣanmaṇḍalāni samantataḥ /  niṣīdantu svaśobhābhirmaṇḍayantu mahītalam // SBca_10.36 //	T04D3871:39a-19	འཁོར་གྱི་དཀྱིལ་འཁོར་ཡོད་དགུར་ཡང་༎ བྱང་ཆུབ་སེམས་དཔའ་མང་པོ་དག་། རང་གི་ལེགས་པས་ས་སྟེངས་དག་། བརྒྱན་པར་མཛད་པས་བཞུགས་གྱུར་ཅིག་། ལུས་ཅན་ཀུན་གྱིས་བྱེ་དང་ནི་༎
+T04bsa003_u:182	 yamadūtādayo duṣṭāstaṃ namasyāmi vajriṇam // SBca_2.53 //  atītya yuṣmadvacanaṃ sāṃprataṃ bhayadarśanāt /	T04D3871:6a-16	སྔོན་ཆད་ཁྱེད་ཀྱི་བཀའ་ལས་འདས་༎ ད་ནི་འཇིགས་པ་ཆེ་མཐོང་ནས་༎
+T04bsa003_u:1820	 pakṣibhyaḥ sarvavṛkṣebhyo raśmibhyo gaganādapi /  dharmadhvaniraviśrāmaṃ śrūyatāṃ sarvadehibhiḥ // SBca_10.37 //	T04D3871:39a-21	ཤིང་དང་འོད་ཟེར་ཐམས་ཅད་དང་༎ ནམ་མཁའ་ལས་ཀྱང་ཆོས་ཀྱི་སྒྲ་༎
+T04bsa003_u:1822	 buddhabuddhasutairnityaṃ labhantāṃ te samāgamam /  pūjāmeghairanantaiśca pūjayantu jagadgurum // SBca_10.38 //	T04D3871:39a-22	རྒྱུན་མི་འཆད་པར་ཐོས་པར་ཤོག་། དེ་དག་རྟག་ཏུ་སངས་རྒྱས་དང་༎ སངས་རྒྱས་སྲས་དང་ཕྲད་གྱུར་ཅིག་། མཆོད་པའི་སྤྲིན་ནི་མཐའ་ཡས་པས་༎
+T04bsa003_u:1824	 devo varṣatu kālena sasyasaṃpattirastu ca /	T04D3871:39a-23	འགྲོ་བའི་བླ་མ་མཆོད་པར་ཤོག་། ལྷ་ཡང་དུས་སུ་ཆར་འབེབས་ཤིང་༎
+T04bsa003_u:1825	 sphīto bhavatu lokaśca rājā bhavatu dhārmikaḥ // SBca_10.39 //	T04D3871:39a-24	ལོ་ཏོག་ཕུན་སུམ་ཚོགས་པར་ཤོག་། རྒྱལ་པོ་ཆོས་བཞིན་བྱེད་གྱུར་ཅིག་།
+T04bsa003_u:1826	 śaktā bhavantu cauṣadhyo mantrāḥ sidhyantu jāpinām /  bhavantu karuṇāviṣṭā ḍākinīrākṣasādayaḥ // SBca_10.40 //	T04D3871:39b-0	༄༣༩བ་འཇིག་རྟེན་དག་ཀྱང་དར་བར་ཤོག་། སྨན་རྣམས་མཐུ་དང་ལྡན་པ་དང་༎ གསང་སྔགས་བཟླས་བརྗོད་གྲུབ་པར་ཤོག་། མཁའ་འགྲོ་སྲིན་པོ་ལ་སོགས་པ་༎
+T04bsa003_u:1828	 mā kaścidduḥkhitaḥ sattvo mā pāpī mā ca rogitaḥ /  mā hīnaḥ paribhūto vā mā bhūtkaścicca durmanāḥ // SBca_10.41 //	T04D3871:39b-1	སྙིང་རྗེའི་སེམས་དང་ལྡན་གྱུར་ཅིག་། སེམས་ཅན་འགའ་ཡང་སྡུག་མ་གྱུར་༎ འཇིགས་དང་བརྙས་པར་མི་འགྱུར་ཞིང་༎ འགའ་ཡང་ཡིད་མི་བདེ་མ་གྱུར་༎
+T04bsa003_u:1830	 pāṭhasvādhyāyakalilā vihārāḥ santu susthitāḥ /  nityaṃ syātsaṃghasāmagrī saṃghakāryaṃ ca sidhyatu // SBca_10.42 //  vivekalābhinaḥ santuḥ śikṣākāmāśca bhikṣavaḥ /	T04D3871:39b-4	གཙུག་ལག་ཁང་རྣམས་ཀློག་པ་དང་༎ ཁ་ཐོན་གྱིས་བརྒྱན་ལེགས་གནས་ཤོག་། རྟག་ཏུ་དགེ་འདུན་མཐུན་པ་དང་༎ དགེ་འདུན་དོན་ཡང་གྲུབ་པར་ཤོག་། བསླབ་པ་འདོད་པའི་དགེ་སློང་དག་། དབེན་པ་དག་ཀྱང་ཐོབ་པར་ཤོག་། ག-ཡེང་བ་ཐམས་ཅད་སྤངས་ནས་ནི་༎
+T04bsa003_u:1833	 karmaṇyacittā dhyāyantu sarvavikṣepavarjitāḥ // SBca_10.43 //	T04D3871:39b-5	སེམས་ནི་ལས་རུང་སྒོམ་གྱུར་ཅིག་། དགེ་སློང་མ་རྣམས་རྙེད་ལྡན་ཞིང་༎
+T04bsa003_u:1834	 lābhinyaḥ santu bhikṣuṇyaḥ kalahāyāsavarjitāḥ /	T04D3871:39b-6	འཐབ་དང་གནོད་པ་སྤང་བར་ཤོག་། དེ་བཞིན་རབ་ཏུ་བྱུང་བ་ཀུན་༎
+T04bsa003_u:1835	 bhavantvakhaṇḍaśīlāśca sarve pravrajitāstathā // SBca_10.44 //  duḥśīlāḥ santu saṃvignāḥ pāpakṣayaratāḥ sadā /  sugaterlābhinaḥ santu tatra cākhaṇḍitavratāḥ // SBca_10.45 //	T04D3871:39b-7	ཚུལ་ཁྲིམས་ཉམས་པ་མེད་གྱུར་ཅིག་། ཚུལ་ཁྲིམས་འཆལ་པས་ཡིད་བྱུང་ནས་༎ རྟག་ཏུ་སྡིག་པ་ཟད་བྱེད་ཤོག་། བདེ་འགྲོ་དག་ཀྱང་ཐོབ་གྱུར་ནས་༎
+T04bsa003_u:1838	 paṇḍitāḥ saṃskṛtāḥ santu lābhinaḥ paiṇḍapātikāḥ /  bhavantu śuddhasaṃtānāḥ sarvadikkhyātakīrtayaḥ // SBca_10.46 //	T04D3871:39b-9	དེར་ཡང་བརྟུལ་ཞུགས་མི་ཉམས་ཤོག་། མཁས་པ་རྣམས་ནི་བཀུར་བ་དང་༎ བསོད་སྙོམས་དག་ཀྱང་རྙེད་པར་ཤོག་། རྒྱུད་ནི་ཡོངས་སུ་དག་པ་དང་༎ ཕྱོགས་རྣམས་ཀུན་ཏུ་གྲགས་པར་ཤོག་། ངན་སོང་སྡུག་བསྔལ་མ་མྱོང་ཞིང་༎ དཀའ་བ་སྤྱད་པ་མེད་པར་ཡང་༎
+T04bsa003_u:184	 śaraṇaṃ yāmi vo bhīto bhayaṃ nāśayata drutam // SBca_2.54 //	T04D3871:6a-18	ཁྱེད་ལ་སྐྱབས་སུ་མཆི་ལགས་ཀྱིས་༎ འཇིགས་པ་མྱུར་དུ་བསལ་དུ་གསོལ་༎
+T04bsa003_u:1841	 divyenaikena kāyena jagadbuddhatvamāpnuyāt // SBca_10.47 //	T04D3871:39b-11	ལྷ་བས་ལྷག་པའི་ལུས་ཀྱིས་ནི་༎ དེ་དག་སངས་རྒྱས་མྱུར་འགྲུབ་ཤོག་། སེམས་ཅན་ཀུན་གྱིས་ལན་མང་དུ་༎
+T04bsa003_u:1842	 pūjyantāṃ sarvasaṃbuddhāḥ sarvasattvairanekadhā /	T04D3871:39b-13	སངས་རྒྱས་ཐམས་ཅད་མཆོད་བྱེད་ཅིང་༎
+T04bsa003_u:1843	 acintyabauddhasaukhyena sukhinaḥ santu bhūyasā // SBca_10.48 //	T04D3871:39b-15	རྟག་ཏུ་བདེ་དང་ལྡན་གྱུར་ཅིག་། བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི་༎
+T04bsa003_u:1844	 sidhyantu bodhisattvānāṃ jagadarthaṃ manorathāḥ /  yaccintayanti te nāthāstatsattvānāṃ samṛdhyatu // SBca_10.49 //  pratyekabuddhāḥ sukhino bhavantu śrāvakāstathā /  devāsuranarairnityaṃ pūjyamānāḥ sagauravaiḥ // SBca_10.50 //	T04D3871:39b-16	འགྲོ་དོན་ཐུགས་ལ་དགོངས་འགྲུབ་ཤོག་། མགོན་པོ་ཡིས་ནི་གང་དགོངས་པ་༎ སེམས་ཅན་རྣམས་ལ་དེ་འབྱོར་ཤོག་། དེ་བཞིན་རང་སངས་རྒྱས་རྣམས་དང་༎ ཉན་ཐོས་རྣམས་ཀྱང་བདེ་གྱུར་ཅིག་། བདག་ཀྱང་འཇམ་དབྱངས་བཀའ་དྲིན་གྱིས་༎ ས་རབ་དགའ་བ་ཐོབ་པར་དུ་༎
+T04bsa003_u:1848	 jātismaratvaṃ pravrajyāmahaṃ ca prāpnuyāṃ sadā /	T04D3871:40a-0	རྟག་ཏུ་ཚེ་རབས་དྲན་པ་དང་༎ རབ་ཏུ་བྱུང་བ་༄༤༠ཨ་༌་༎ ཐོབ་པར་ཤོག་། བདག་ནི་ཁ་ཟས་ཀྱི་ནས་ཀྱང་༎
+T04bsa003_u:1849	 yāvatpramuditābhūmiṃ mañjughoṣaparigrahāt // SBca_10.51 //  yena tenāsanenāhaṃ yāpayeyaṃ balānvitaḥ /  vivekavāsasāmagrīṃ prāpnuyāṃ sarvajātiṣu // SBca_10.52 //	T04D3871:40a-2	ཉམས་དང་ལྡན་ཞིང་འཚོ་བར་ཤོག་། ཚེ་རབས་ཀུན་དུ་དབེན་གནས་པར་༎
+T04bsa003_u:185	 itvaravyādhibhīto 'pi vaidyavākyaṃ na laṅghayet /	T04D3871:6a-20	ཐ་མལ་ནད་ཀྱིས་འཇིགས་ན་ཡང་༎ སྨན་པའི་ངག་བཞིན་བྱ་དགོས་ན་༎
+T04bsa003_u:1852	 yadā ca draṣṭukāmaḥ syāṃ praṣṭukāmaśca kiṃcana /	T04D3871:40a-3	ཕུན་སུམ་ལྡན་པ་ཐོབ་པར་ཤོག་། གང་ཚེ་བལྟ་བར་འདོད་པའམ་༎ ཅུང་ཟད་དྲི་བར་འདོད་ན་ཡང་༎
+T04bsa003_u:1853	 tameva nāthaṃ paśyeyaṃ mañjunāthamavighnataḥ // SBca_10.53 //	T04D3871:40a-5	མགོན་པོ་འཇམ་དབྱངས་དེ་ཉིད་ནི་༎ གེགས་མེད་པར་ཡང་མཐོང་བར་ཤོག་། ཕྱོགས་བཅུའི་ནམ་མཁའི་མཐས་གཏུགས་པའི་༎
+T04bsa003_u:1854	 daśadigvyomaparyantasarvasattvārthasādhane /	T04D3871:40a-7	སེམས་ཅན་ཀུན་དོན་བསྒྲུབ་པའི་ཕྱིར་༎
+T04bsa003_u:1855	 yathā carati mañjuśrīḥ saiva caryā bhavenmama // SBca_10.54 //  ākāśasya sthitiryāvadyāvacca jagataḥ sthitiḥ /  tāvanmama sthitirbhūyājjagadduḥkhāni nighnataḥ // SBca_10.55 //	T04D3871:40a-8	ཇི་ལྟར་འཇམ་དབྱངས་སྤྱོད་མཛད་པ་༎ བདག་གི་སྤྱོད་པའང་དེ་འདྲར་ཤོག་། ཇི་སྲིད་ནམ་མཁའ་གནས་པ་དང་༎ འགྲོ་བ་ཇི་སྲིད་གནས་གྱུར་པ་༎ དེ་སྲིད་བདག་ནི་གནས་གྱུར་ནས་༎ འགྲོ་བའི་སྡུག་བསྔལ་སེལ་བར་ཤོག་།འགྲོ་བའི་སྡུག་བསྔལ་གང་ཅིའང་རུང་༎
+T04bsa003_u:1858	 yatkiṃcijjagato duḥkhaṃ tatsarvaṃ mayi pacyatām /	T04D3871:40a-12	དེ་ཀུན་བདག་ལ་སྨིན་གྱུར་ཅིག་། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་གྱིས་༎
+T04bsa003_u:1859	 bodhisattvaśubhaiḥ sarvairjagatsukhitamastu ca // SBca_10.56 //  jagadduḥkhaikabhaiṣajyaṃ sarvasaṃpatsukhākaram /  lābhasatkārasahitaṃ ciraṃ tiṣṭhatu śāsanam // SBca_10.57 //	T04D3871:40a-13	འགྲོ་བ་བདེ་ལ་སྤྱོད་པར་ཤོག་།འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ་༎ བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས་༎ བསྟན་པ་རྙེད་དང་བཀུར་སྟི་དང་༎ བཅས་ཏེ་ཡུན་རིང་གནས་གྱུར་ཅིག་། གང་གི་དྲིན་གྱིས་དགེ་བློ་འབྱུང་༎
+T04bsa003_u:186	 kimu vyādhiśatairgrastaścaturbhiścaturuttaraiḥ // SBca_2.55 //	T04D3871:6a-22	འདོད་ཆགས་ལ་སོགས་ཉེས་པ་བརྒྱའི་༎ ནད་ཀྱིས་རྟག་བཏབ་སྨོས་ཅི་དགོས་༎
+T04bsa003_u:1862	 mañjughoṣaṃ namasyāmi yatprasādānmatiḥ śubhe /  kalyāṇamitraṃ vande 'haṃ yatprasādācca vardhate // SBca_10.58 //	T04D3871:40a-16	འཇམ་པའི་དབྱངས་ལ་ཕྱག་འཚལ་ལོ་༎ གང་གི་དྲིན་གྱིས་བདག་དར་བ་༎
+T04bsa003_u:1864	 // bodhicaryāvatāre pariṇāmanāparicchedo daśamaḥ //	T04D3871:40a-19	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བསྔོ་བ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བཅུ་པའོ་།
+T04bsa003_u:187	 ekenāpi yataḥ sarve jambudvīpagatā narāḥ /  naśyanti yeṣāṃ bhaiṣajyaṃ sarvadikṣu na labhyate // SBca_2.56 //	T04D3871:6a-24	དེ་གཅིག་གིས་ཀྱང་འཛམ་གླིང་ན་༎ གནས་པའི་མི་ཀུན་བརླག་བྱེད་ལ་༎ དེ་དག་གསོ་བའི་སྨན་གཞན་ནི་༎ ཕྱོགས་རྣམས་ཀུན་ནས་མི་རྙེད་ན་༎
+T04bsa003_u:189	 tatra sarvajñavaidyasya sarvaśalyāpahāriṇaḥ /  vākyamullaṅghayāmīti dhiṅ māmatyantamohitam // SBca_2.57 //	T04D3871:6a-28	དེ་ལ་སྨན་པ་ཐམས་ཅད་མཁྱེན་༎ ཟུག་རྔུ་ཐམས་ཅད་འབྱིན་པ་ཡི་༎ བཀའ་ལྟར་མི་བྱེད་སེམས་པ་ནི་༎ ཤིན་ཏུ་གཏི་མུག་སྨད་པའི་གནས་༎
+T04bsa003_u:19	 bhavacārakabandhano varākaḥ sugatānāṃ suta ucyate kṣaṇena /	T04D3871:2a-19	འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་ཉམ་ཐག་རྣམས་༎ བདེ་གཤེགས་རྣམས་ཀྱི་སྲས་ཞེས་བརྗོད་བྱ་ཞིང་༎
+T04bsa003_u:191	 atyapramattastiṣṭhāmi prapāteṣvitareṣvapi /	T04D3871:6a-33	བག་ཡོད་གནས་པར་བྱ་དགོས་ན་༎
+T04bsa003_u:192	 kimu yojanasāhasre prapāte dīrghakālike // SBca_2.58 //	T04D3871:6a-34	དཔག་ཚད་སྟོང་དུ་ལྷུང་བ་ཡི་༎ ཡུན་རིང་ག-ཡང་སར་སྨོས་ཅི་དགོས་༎
+T04bsa003_u:193	 adyaiva maraṇaṃ naiti na yuktā me sukhāsikā /  avaśyameti sā velā na bhaviṣyāmyahaṃ yadā // SBca_2.59 //	T04D3871:6a-37	བདེ་བར་འདུག་པ་རིགས་མ་ཡིན་༎ བདག་ནི་མེད་པར་འགྱུར་བའི་དུས་༎ དེ་ནི་གདོན་མི་ཟ་བར་འབྱུང་༎
+T04bsa003_u:195	 abhayaṃ kena me dattaṃ niḥsariṣyāmi vā katham /  avaśyaṃ na bhaviṣyāmi kasmānme susthitaṃ manaḥ // SBca_2.60 //	T04D3871:6a-40	བདག་ལ་མི་འཇིགས་སུ་ཡིས་བྱིན་༎ འདི་ལས་ཇི་ལྟར་ངེས་ཐར་ཞེས་༎
+T04bsa003_u:197	 pūrvānubhūtanaṣṭebhyaḥ kiṃ me sāramavasthitam /  yeṣu me 'bhiniviṣṭena gurūṇāṃ laṅghitaṃ vacaḥ // SBca_2.61 //	T04D3871:6a-42	གདོན་མི་ཟ་བར་མེད་འགྱུར་ན་༎ བདག་ལ་ལྷག་པ་ཅི་ཡོད་ན་༎ བླ་མའི་བཀའ་དང་འགལ་བར་བྱས་༎
+T04bsa003_u:199	 jīvalokamimaṃ tyaktvā bandhūn paricitāṃstathā /	T04D3871:6b-0	གཉེན་དང་བཤེས་པ་༄༦བ་རྣམ་སྤངས་ནས་༎
+T04bsa003_u:20	 sanarāmaralokavandanīyo bhavati smodita eva bodhicitte // SBca_1.9 //	T04D3871:2b-0	འཇིག་རྟེན་ལྷ་མིར་༄༢བ་བཅས་པས་ཕྱག་བྱར་འགྱུར་༎
+T04bsa003_u:200	 ekākī kvāpi yāsyāmi kiṃ me sarvaiḥ priyāpriyaiḥ // SBca_2.62 //	T04D3871:6b-1	གཅིག་པུ་ག་ཤེད་འགྲོ་དགོས་ན་༎ མཛའ་དང་མི་མཛའ་ཀུན་ཅི་རུང་༎
+T04bsa003_u:201	 iyameva tu me cintā yuktā rātriṃdivaṃ tadā /  aśubhānniyataṃ duḥkhaṃ niḥsareyaṃ tataḥ katham // SBca_2.63 //	T04D3871:6b-3	མི་དགེ་བ་ལས་སྡུག་བསྔལ་འབྱུང་༎ དེ་ལས་ཇི་ལྟར་ངེས་ཐར་ཞེས་༎ ཉིན་མཚན་རྟག་ཏུ་བདག་གིས་ནི་༎ འདི་ཉིད་འབའ་ཞིག་བསམ་པའི་རིགས་༎
+T04bsa003_u:203	 mayā bālena mūḍhena yatkiṃcitpāpamācitam /	T04D3871:6b-7	བདག་ནི་མི་ཤེས་གཏི་མུག་པས་༎
+T04bsa003_u:204	 prakṛtyā yacca sāvadyaṃ prajñaptyāvadyameva ca // SBca_2.64 //	T04D3871:6b-8	རང་བཞིན་ཁ་ན་མ་ཐོའམ་༎ བཅས་པའི་སྡིག་པ་གང་ཡིན་ལས་༎
+T04bsa003_u:205	 tatsarvaṃ deśayāmyeṣa nāthānāmagrataḥ sthitaḥ /	T04D3871:6b-10	གང་ཡང་རུང་བ་བགྱིས་པ་རྣམས་༎ མགོན་པོའི་སྤྱན་སྔར་མངོན་སུམ་དུ་༎
+T04bsa003_u:206	 kṛtāñjalirduḥkhabhītaḥ praṇipatya punaḥ punaḥ // SBca_2.65 //	T04D3871:6b-12	ཐལ་སྦྱར་སྡུག་བསྔལ་འཇིགས་སེམས་ཀྱིས་༎ ཡང་དང་ཡང་དུ་ཕྱག་འཚལ་ཏེ་༎ དེ་དག་ཐམས་ཅད་བཤགས་པར་བགྱི་༎
+T04bsa003_u:207	 atyayamatyayatvena pratigṛhṇantu nāyakāḥ /	T04D3871:6b-15	འདྲེན་པ་རྣམས་ཀྱིས་བདག་གི་སྡིག་། ནོངས་པ་ལགས་པར་གཟུང་དུ་གསོལ་༎
+T04bsa003_u:208	 na bhadrakamidaṃ nāthā na kartavyaṃ punarmayā // SBca_2.66 //	T04D3871:6b-16	འདི་ནི་བཟང་པོ་མ་ལགས་པས་༎ སླན་ཆད་བདག་ནི་ཡོང་མི་བགྱིད་༎
+T04bsa003_u:209	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ pāpadeśanā nāma dvitīyaḥ paricchedaḥ //  3 Bodhicittaparigraho nāma tṛtīyaḥ paricchedaḥ /	T04D3871:6b-18	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་། སྡིག་པ་བཤགས་པའི་ལེའུ་སྟེ་གཉིས་པའོ་།
+T04bsa003_u:21	 aśucipratimāmimāṃ gṛhītvā jinaratnapratimāṃ karotyanarghām /  rasajātamatīva vedhanīyaṃ sudṛḍhaṃ gṛhṇata bodhicittasaṃjñam // SBca_1.10 //	T04D3871:2b-1	གསེར་འགྱུར་རྩི་ཡི་རྣམ་པ་མཆོག་ལྟ་བུ་༎ མི་གཙང་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུ་༎ རིན་ཆེན་རིང་ཐང་མེད་པར་བསྒྱུར་བས་ན་༎ བྱང་ཆུབ་སེམས་ཞེས་བྱ་བ་རབ་བརྟན་ཟུང་༎
+T04bsa003_u:211	 apāyaduḥkhaviśrāmaṃ sarvasattvaiḥ kṛtaṃ śubham /  anumode pramodena sukhaṃ tiṣṭhantu duḥkhitāḥ // SBca_3.1 //  saṃsāraduḥkhanirmokṣamanumode śarīriṇām /	T04D3871:6b-20	༎ ། སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི་། སྡུག་བསྔལ་ངལ་སོའི་དགེ་བ་དང་༎ སྡུག་བསྔལ་ཅན་དག་བདེར་གནས་ལ་༎ དགའ་བས་རྗེས་སུ་ཡི་རང་ངོ་༎ བྱང་ཆུབ་རྒྱུར་གྱུར་དགེ་བསགས་པ་༎ དེ་ལ་རྗེས་སུ་ཡི་རང་ངོ་༎ ལུས་ཅན་འཁོར་བའི་སྡུག་བསྔལ་ལས་༎ ངེས་པར་ཐར་ལ་ཡི་རང་ངོ་༎
+T04bsa003_u:214	 bodhisattvatvabuddhatvamanumode ca tāyinām // SBca_3.2 //	T04D3871:6b-26	སྐྱོབ་པ་རྣམས་ཀྱི་བྱང་ཆུབ་དང་༎ རྒྱལ་སྲས་ས་ལའང་ཡི་རང་ངོ་༎
+T04bsa003_u:215	 cittotpādasamudrāṃśca sarvasattvasukhāvahān /  sarvasattvahitādhānānanumode ca śāsinām // SBca_3.3 //	T04D3871:6b-27	སེམས་ཅན་ཐམས་ཅད་བདེ་མཛད་པའི་༎ ཐུགས་བསྐྱེད་དགེ་བ་རྒྱ་མཚོ་དང་༎ སེམས་ཅན་ཕན་པ་མཛད་པ་ལ་༎ དགའ་བས་རྗེས་སུ་ཡི་རང་ངོ་༎
+T04bsa003_u:217	 sarvāsu dikṣu saṃbuddhān prārthayāmi kṛtāñjaliḥ /	T04D3871:6b-30	ཕྱོགས་རྣམས་ཀུན་གྱི་སངས་རྒྱས་ལ་༎
+T04bsa003_u:218	 dharmapradīpaṃ kurvantu mohādduḥkhaprapātinām // SBca_3.4 //	T04D3871:6b-31	ཐལ་མོ་སྦྱར་ཏེ་གསོལ་བ་ནི་༎ སེམས་ཅན་སྡུག་བསྔལ་མུན་འཐོམས་ལ་༎
+T04bsa003_u:219	 nirvātukāmāṃśca jinān yācayāmi kṛtāñjaliḥ /	T04D3871:6b-33	ཆོས་ཀྱི་སྒྲོན་མ་སྤར་དུ་གསོལ་༎ རྒྱལ་བ་མྱ་ངན་འདའ་བཞེད་ལ་༎
+T04bsa003_u:220	 kalpānanantāṃstiṣṭhantu mā bhūdandhamidaṃ jagat // SBca_3.5 //	T04D3871:6b-36	འགྲོ་འདི་ལྡོངས་པར་མི་དགོད་ཅིང་༎ བསྐལ་པ་གྲངས་མེད་བཞུགས་པར་གསོལ་༎
+T04bsa003_u:221	 evaṃ sarvamidaṃ kṛtvā yanmayāsāditaṃ śubham /	T04D3871:6b-38	དེ་ལྟར་འདི་དག་ཀུན་བྱས་ཏེ་༎ དགེ་བ་བདག་གིས་བསགས་པ་གང་༎
+T04bsa003_u:222	 tena syāṃ sarvasattvānāṃ sarvaduḥkhapraśāntikṛt // SBca_3.6 //	T04D3871:6b-40	དེས་ནི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་༎ སྡུག་བསྔལ་ཐམས་ཅད་བསལ་བར་ཤོག་།འགྲོ་བ་ནད་པ་ཇི་སྲིད་དུ་༎
+T04bsa003_u:223	 glānānāmasmi bhaiṣajyaṃ bhaveyaṃ vaidya eva ca /	T04D3871:7a-0	ནད་སོས་གྱུར་གྱི་༄༧ཨ་༌་༎ བར་དུ་ནི་༎ སྨན་དང་སྨན་པ་ཉིད་དག་དང་༎ དེ་ཡི་ནད་ག-ཡོག་བྱེད་པར་ཤོག་། ཟས་དང་སྐོམ་གྱི་ཆར་ཕབ་སྟེ་༎
+T04bsa003_u:225	 kṣutpipāsāvyathāṃ hanyāmannapānapravarṣaṇaiḥ /  durbhikṣāntarakalpeṣu bhaveyaṃ pānabhojanam // SBca_3.8 //	T04D3871:7a-3	བཀྲེས་དང་སྐོམ་པའི་སྡུག་བསྔལ་བསལ་༎ མུ་གེའི་བསྐལ་པ་བར་མའི་ཚེ་༎ བདག་ནི་ཟས་དང་སྐོམ་དུ་གྱུར་༎
+T04bsa003_u:227	 daridrāṇāṃ ca sattvānāṃ nidhiḥ syāmahamakṣayaḥ /  nānopakaraṇākārairupatiṣṭheyamagrataḥ // SBca_3.9 //	T04D3871:7a-6	སེམས་ཅན་ཕོངས་ཤིང་དབུལ་བ་ལ་༎ བདག་ནི་མི་ཟད་གཏེར་གྱུར་ཏེ་༎ ཡོ་བྱད་མཁོ་དགུ་སྣ་ཚོགས་སུ་༎
+T04bsa003_u:229	 ātmabhāvāṃstathā bhogān sarvatryadhvagataṃ śubham /  nirapekṣastyajāmyeṣa sarvasattvārthasiddhaye // SBca_3.10 //	T04D3871:7a-9	མདུན་དུ་ཉེ་བར་གནས་གྱུར་ཅིག་། ལུས་དང་དེ་བཞིན་ལོངས་སྤྱོད་དང་༎ དུས་གསུམ་དགེ་བ་ཐམས་ཅད་ཀྱང་༎ སེམས་ཅན་ཀུན་གྱི་དོན་སྒྲུབ་ཕྱིར་༎ ཕོངས་བ་མེད་པར་གཏང་བར་བྱ་༎
+T04bsa003_u:23	 suparīkṣitamaprameyadhībhir bahumūlyaṃ jagadekasārthavāhaiḥ /	T04D3871:2b-5	འགྲོ་བའི་དེད་དཔོན་གཅིག་པུ་ཚད་མེད་བློས་༎ ལེགས་པར་ཡོངས་སུ་བརྟགས་ན་རིན་ཆེ་བས་༎
+T04bsa003_u:231	 sarvatyāgaśca nirvāṇaṃ nirvāṇārthi ca me manaḥ /	T04D3871:7a-12	ཐམས་ཅད་བཏང་བས་མྱ་ངན་འདའ་༎ བདག་བློ་མྱ་ངན་འདས་པ་སྒྲུབ་༎
+T04bsa003_u:232	 tyaktavyaṃ cenmayā sarvaṃ varaṃ sattveṣu dīyatām // SBca_3.11 //  yaścāsukhīkṛtaścātmā mayāyaṃ sarvadehinām /	T04D3871:7a-14	ཐམས་ཅད་གཏོང་བར་ཆབས་གཅིག་ལ་༎ སེམས་ཅན་རྣམས་ལ་བཏང་བ་མཆོག་། བདག་གིས་ལུས་ཅན་ཐམས་ཅད་ལ་༎ ལུས་འདི་ཅི་བདེར་བྱིན་ཟིན་གྱིས་༎
+T04bsa003_u:234	 ghnantu nindantu vā nityamākirantu ca pāṃsubhiḥ // SBca_3.12 //	T04D3871:7a-17	རྟག་ཏུ་གསོད་དང་སྨོད་པའམ་༎
+T04bsa003_u:235	 krīḍantu mama kāyena hasantu vilasantu ca /	T04D3871:7a-18	བརྡེག་སོགས་ཅི་དགར་བྱེད་ལ་རག་། བདག་གི་ལུས་ལ་རྩེ་བྱེད་དམ་༎
+T04bsa003_u:236	 dattastebhyo mayā kāyaścintayā kiṃ mamānayā // SBca_3.13 //	T04D3871:7a-20	བདག་གི་ལུས་འདི་བྱིན་ཟིན་གྱིས་༎ འདི་ཡི་ཁ་ཏས་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:237	 kārayantu ca karmāṇi yāni teṣāṃ sukhāvaham /  anarthaḥ kasyacinmā bhūnmāmālambya kadācana // SBca_3.14 //	T04D3871:7a-22	དེ་ལ་གནོད་པར་མི་འགྱུར་བའི་༎
+T04bsa003_u:239	 yeṣāṃ kruddhāprasannā vā māmālambya matirbhavet /	T04D3871:7a-24	འགའ་ཡང་དོན་མེད་མ་གྱུར་ཅིག་། བདག་ལ་དམིགས་ནས་གང་དག་གི་། ཁྲོའམ་དད་པའི་སེམས་བྱུང་བ་༎
+T04bsa003_u:24	 gatipattanavipravāsaśīlāḥ sudṛḍhaṃ gṛhṇata bodhicittaratnam // SBca_1.11 //	T04D3871:2b-7	འགྲོ་བའི་གནས་དང་བྲལ་བར་འདོད་པ་རྣམས་༎ རིན་ཆེན་བྱང་ཆུབ་སེམས་ལེགས་བརྟན་པར་ཟུང་༎
+T04bsa003_u:240	 teṣāṃ sa eva hetuḥ syānnityaṃ sarvārthasiddhaye // SBca_3.15 //  abhyākhyāsyanti māṃ ye ca ye cānye 'pyapakāriṇaḥ /	T04D3871:7a-25	དེ་ཉིད་རྟག་ཏུ་དེ་དག་གི་། དོན་ཀུན་འགྲུབ་པའི་རྒྱུར་གྱུར་ཅིག་། གང་དག་བདག་ལ་ཁ་ཟེར་རམ་༎ གཞན་དག་གནོད་པ་བྱེད་པའམ་༎
+T04bsa003_u:242	 utprāsakāstathānye 'pi sarve syurbodhibhāginaḥ // SBca_3.16 //	T04D3871:7a-27	དེ་བཞིན་ཕྱར་ཀ་གཏོང་ཡང་རུང་༎ ཐམས་ཅད་བྱང་ཆུབ་སྐལ་ལྡན་གྱུར་༎
+T04bsa003_u:243	 anāthānāmahaṃ nāthaḥ sārthavāhaśca yāyinām /  pārepsūnāṃ ca naubhūtaḥ setuḥ saṃkrama eva ca // SBca_3.17 //	T04D3871:7a-29	བདག་ནི་མགོན་མེད་རྣམས་ཀྱི་མགོན་༎ ལམ་ཞུགས་རྣམས་ཀྱི་དེད་དཔོན་དང་༎ བརྒལ་འདོད་རྣམས་ཀྱི་གྲུ་དང་ནི་༎ གཟིངས་དང་ཟམ་པ་ཉིད་དུ་གྱུར་༎
+T04bsa003_u:245	 dīpārthināmahaṃ dīpaḥ śayyā śayyārthināmaham /  dāsārthināmahaṃ dāso bhaveyaṃ sarvadehinām // SBca_3.18 //	T04D3871:7a-32	གླིང་དོན་གཉེར་ལ་གླིང་དང་ནི་༎ གནས་མལ་འདོད་ལ་གནས་མལ་དང་༎ བདག་ནི་ལུས་ཅན་བྲན་འདོད་པ་༎
+T04bsa003_u:247	 cintāmaṇirbhadraghaṭaḥ siddhavidyā mahauṣadhiḥ /  bhaveyaṃ kalpavṛkṣaśca kāmadhenuśca dehinām // SBca_3.19 //	T04D3871:7a-34	ཀུན་གྱི་བྲན་དུ་གྱུར་པར་ཤོག་། ཡིད་བཞིན་ནོར་དང་བུམ་པ་བཟང་༎
+T04bsa003_u:249	 pṛthivyādīni bhūtāni niḥśeṣākāśavāsinām /  sattvānāmaprameyāṇāṃ yathābhogānyanekadhā // SBca_3.20 //  evamākāśaniṣṭhasya sattvadhātoranekadhā /	T04D3871:7b-0	རིག་སྔགས་གྲུབ་དང་སྨན་ཆེན་དང་༎ དཔག་བསམ་གྱི་ནི་ཤིང་དག་དང་༎ ལུས་ཅན་༄༧བ་རྣམས་ཀྱི་འདོད་འཇོར་གྱུར་༎ ས་སོགས་འབྱུང་བ་ཆེན་པོ་དང་༎ ནམ་མཁའ་བཞིན་དུ་རྟག་པར་ཡང་༎ སེམས་ཅན་དཔག་ཏུ་མེད་པ་ཡི་༎
+T04bsa003_u:25	 kadalīva phalaṃ vihāya yāti kṣayamanyat kuśalaṃ hi sarvameva /	T04D3871:2b-9	དགེ་བ་གཞན་ཀུན་ཆུ་ཤིང་བཞིན་དུ་ནི་༎ འབྲས་བུ་བསྐྱེད་ནས་ཟད་པར་འགྱུར་བ་ཉིད་༎
+T04bsa003_u:252	 bhaveyamupajīvyo 'haṃ yāvatsarve na nirvṛtāḥ // SBca_3.21 //	T04D3871:7b-4	སེམས་ཅན་ཁམས་ལ་རྣམ་ཀུན་དུ་༏་། ཐམས་ཅད་མྱ་ངན་འདས་བར་དུ་༎
+T04bsa003_u:253	 yathā gṛhītaṃ sugatairbodhicittaṃ purātanaiḥ /  te bodhisattvaśikṣāyāmānupūrvyā yathā sthitāḥ // SBca_3.22 //	T04D3871:7b-6	བདག་ནི་ཉེར་འཚོའི་རྒྱུར་ཡང་ཤོག་། ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས་༎ བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་༎ བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ་༎
+T04bsa003_u:255	 tadvadutpādayāmyeṣa bodhicittaṃ jagaddhite /	T04D3871:7b-9	དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ་། བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་༎
+T04bsa003_u:256	 tadvadeva ca tāḥ śikṣāḥ śikṣiṣyāmi yathākramam // SBca_3.23 //	T04D3871:7b-12	རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི་༎
+T04bsa003_u:257	 evaṃ gṛhītvā matimān bodhicittaṃ prasādataḥ /  punaḥ pṛṣṭasya puṣṭyarthaṃ cittamevaṃ praharṣayet // SBca_3.24 //	T04D3871:7b-13	དེ་ལྟར་བློ་དང་ལྡན་པ་ཡིས་༎ རབ་དང་བྱང་ཆུབ་སེམས་བཟུང་ནས་༎ སེམས་ནི་འདི་ལྟར་གཟེངས་བསྟོད་དོ་༎
+T04bsa003_u:259	 adya me saphalaṃ janma sulabdho mānuṣo bhavaḥ /	T04D3871:7b-17	དེང་དུ་བདག་ཚེ་འབྲས་བུ་ཡོད་༎ མི་ཡི་སྲིད་པ་ལེགས་པར་ཐོབ་༎
+T04bsa003_u:26	 satataṃ phalati kṣayaṃ na yāti prasavatyeva tu bodhicittavṛkṣaḥ // SBca_1.12 //	T04D3871:2b-11	བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་རྟག་པར་ཡང་༎ འབྲས་བུ་འབྱིན་པས་མི་ཟད་འཕེལ་བར་འགྱུར་༎
+T04bsa003_u:260	 adya buddhakule jāto buddhaputro 'smi sāṃpratam // SBca_3.25 //	T04D3871:7b-19	དི་རིང་སངས་རྒྱས་རིགས་སུ་སྐྱེས་༎ སངས་རྒྱས་སྲས་སུ་བདག་དེང་གྱུར་༎
+T04bsa003_u:261	 tathādhunā mayā kāryaṃ svakulocitakāriṇām /  nirmalasya kulasyāsya kalaṅko na bhavedyathā // SBca_3.26 //	T04D3871:7b-21	ད་ནི་བདག་གིས་ཅི་ནས་ཀྱང་༎ རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ་༎ སྐྱོན་མེད་བཙུན་པའི་རིགས་འདི་ལ་༎ རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ་༎
+T04bsa003_u:263	 andhaḥ saṃkārakūṭebhyo yathā ratnamavāpnuyāt /	T04D3871:7b-26	ཇི་ལྟར་རིན་ཆེན་རྙེད་པ་ལྟར་༎ དེ་བཞིན་ཇི་ཞིག་ལྟར་སྟེས་ནས་༎
+T04bsa003_u:264	 tathā kathaṃcidapyetad bodhicittaṃ mamoditam // SBca_3.27 //	T04D3871:7b-28	བྱང་ཆུབ་སེམས་འདི་བདག་ལ་སྐྱེས་༎
+T04bsa003_u:265	 jaganmṛtyuvināśāya jātametadrasāyanam /	T04D3871:7b-29	འགྲོ་བའི་འཆི་བདག་འཇོམས་བྱེད་པའི་༎ བདུད་རྩི་མཆོག་ཀྱང་འདི་ཡིན་ནོ་༎
+T04bsa003_u:266	 jagaddāridryaśamanaṃ nidhānamidamakṣayam // SBca_3.28 //  jagadvyādhipraśamanaṃ bhaiṣajyamidamuttamam /  bhavādhvabhramaṇaśrāntajagadviśrāmapādapaḥ // SBca_3.29 //  durgatyuttaraṇe setuḥ sāmānyaḥ sarvayāyinām /	T04D3871:7b-31	འགྲོ་བའི་དབུལ་བ་སེལ་བ་ཡི་༎ མི་ཟད་གཏེར་ཡང་འདི་ཡིན་ནོ་༎ འགྲོ་བའི་ནད་རབ་ཞི་བྱེད་པའི་༎ སྨན་གྱི་མཆོག་ཀྱང་འདི་ཡིན་ནོ་༎ སྲིད་ལམ་འཁྱམ་ཞིང་དུབ་པ་ཡི་༎ འགྲོ་བའི་ངལ་སོ་ལྗོན་ཤིང་ཡིན་༎ འགྲོ་བ་ཐམས་ཅད་ངན་འགྲོ་ལས་༎ སྒྲོལ་བར་བྱེད་པའི་སྤྱི་སྟེགས་ཡིན་༎
+T04bsa003_u:27	 kṛtvāpi pāpāni sudāruṇāni yadāśrayāduttarati kṣaṇena /	T04D3871:2b-13	སྡིག་པ་ཤིན་ཏུ་མི་བཟད་བྱས་ན་ཡང་༎
+T04bsa003_u:270	 jagatkleśopaśamana uditaścittacandramāḥ // SBca_3.30 //  jagadajñānatimiraprotsāraṇamahāraviḥ /	T04D3871:7b-39	འགྲོ་བའི་ཉོན་མོངས་གདུང་སེལ་བའི་༎ སེམས་ཀྱི་ཟླ་བ་ཤར་བ་ཡིན་༎ འགྲོ་བའི་མེ་ཤེས་རབ་རིབ་དག་། དཔྱིས་འབྱིན་ཉི་མ་ཆེན་པོ་ཡིན་༎
+T04bsa003_u:272	 saddharmakṣīramathanānnavanītaṃ samutthitam // SBca_3.31 //	T04D3871:7b-42	དམ་ཆོས་འོ་མ་བསྲུབས་པ་ལས་༎ མར་གྱི་ཉིང་ཁུ་བྱུང་བ་ཡིན་༎
+T04bsa003_u:273	 sukhabhogabubhukṣitasya vā janasārthasya bhavādhvacāriṇaḥ /  sukhasatramidaṃ hyupasthitaṃ sakalābhyāgatasattvatarpaṇam // SBca_3.32 //	T04D3871:8a-0	འགྲོ་བའི་མགྲོན་པོ་སྲིད་པའི་ལམ་རྒྱུ་༄༨ཨ་༌་༎ ཞིང་༏་། བདེ་བའི་ལོངས་སྤྱོད་སྤྱད་པར་འདོད་པ་ལ་༎ འདི་ནི་བདེ་བའི་མཆོག་ཏུ་ཉེར་གནས་ཏེ་༎ སེམས་ཅན་མགྲོན་ཆེན་ཚིམ་པར་བྱེད་པ་ཡིན་༎
+T04bsa003_u:275	 jagadadya nimantritaṃ mayā sugatatvena sukhena cāntarā /	T04D3871:8a-4	བདག་གིས་དི་རིང་སྐྱོབ་པ་ཐམས་ཅད་ཀྱི་༎ སྤྱན་སྔར་འགྲོ་བ་བདེ་གཤེགས་ཉིད་དང་ནི་༎ བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན་གྱིས་༎
+T04bsa003_u:276	 purataḥ khalu sarvatāyināmabhinandantu surāsurādayaḥ // SBca_3.33 //	T04D3871:8a-7	ལྷ་དང་ལྷ་མིན་ལ་སོགས་དགའ་བར་གྱིས་༎
+T04bsa003_u:277	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ bodhicittaparigraho nāma tṛtīyaḥ paricchedaḥ //	T04D3871:8a-8	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་། བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་གཟུང་བ་ཞེས་བྱ་བ་སྟེ་ལེའུ་གསུམ་པའོ་།
+T04bsa003_u:28	 śūrāśrayeṇeva mahābhayāni nāśrīyate tatkathamajñasattvaiḥ // SBca_1.13 //	T04D3871:2b-14	དཔའ་ལ་བརྟེན་ནས་འཇིགས་པ་ཆེན་པོ་ལྟར་༎ གང་ལ་བརྟེན་ནས་ཡུད་ཀྱིས་སྒྲོལ་འགྱུར་བ་༏་། དེ་ལ་བག་ཅན་རྣམས་ཀྱིས་ཅིས་མི་བརྟེན་༎
+T04bsa003_u:29	 yugāntakālānalavanmahānti pāpāni yannirdahati kṣaṇena /	T04D3871:2b-17	དེས་ནི་དུས་མཐའི་མེ་བཞིན་སྡིག་ཆེན་རྣམས་༎ སྐད་ཅིག་གཅིག་གིས་ངེས་པར་སྲེག་པར་བྱེད་༎
+T04bsa003_u:3	 sugatān sasutān sadharmakāyān praṇipatyādarato 'khilāṃśca vandyān /	T04D3871:1b-5	བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་༎ ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ་༎
+T04bsa003_u:30	 yasyānuśaṃsānamitānuvāca maitreyanāthaḥ sudhanāya dhīmān // SBca_1.14 //	T04D3871:2b-19	དེ་ཡི་ཕན་ཡོན་དཔག་ཏུ་མེད་པ་དག་༎ བྱམས་མགོན་བློ་དང་ལྡན་པས་ནོར་བཟངས་བཤད་༎
+T04bsa003_u:301	 tasmādyathāpratijñātaṃ sādhanīyaṃ mayādarāt /	T04D3871:8b-6	དེ་ལྟས་ཇི་ལྟར་དམ་བཅས་བཞིན་༎ བདག་གིས་གུས་པར་བསྒྲུབ་པར་བྱ་༎
+T04bsa003_u:302	 nādya cetkriyate yatnastalenāsmi talaṃ gataḥ // SBca_4.12 //	T04D3871:8b-8	དེང་ནས་བརྩོན་པར་མ་བྱས་ན་༎ འོག་ནས་འོག་ཏུ་འགྲོ་བར་འགྱུར་༎
+T04bsa003_u:303	 aprameyā gatā buddhāḥ sarvasattvagaveṣakāḥ /	T04D3871:8b-10	སེམས་ཅན་ཐམས་ཅད་ཕན་མཛད་པའི་༎ སངས་རྒྱས་གྲངས་མེད་འདས་གྱུར་ཀྱང་༎
+T04bsa003_u:304	 naiṣāmahaṃ svadoṣeṇa cikitsāgocaraṃ gataḥ // SBca_4.13 //	T04D3871:8b-13	གསོ་བའི་སྤྱོད་ཡུལ་མ་གྱུར་ཏོ་༎
+T04bsa003_u:305	 adyāpi cettathaiva syāṃ yathaivāhaṃ punaḥ punaḥ /	T04D3871:8b-14	ད་དུང་དེ་བཞིན་བདག་བྱེད་ན་༎
+T04bsa003_u:306	 durgativyādhimaraṇacchedabhedādyavāpnuyām // SBca_4.14 //	T04D3871:8b-16	ངན་འགྲོར་ནད་དང་འཆིང་བ་དང་༎ བཅད་དང་གཤེག་སོགས་མྱོང་བར་འགྱུར་༎
+T04bsa003_u:307	 kadā tathāgatotpādaṃ śraddhāṃ mānuṣyameva ca /	T04D3871:8b-17	དེ་བཞིན་གཤེགས་པ་འབྱུང་བ་དང་༎ དད་དང་མི་ལུས་ཐོབ་པ་དང་༎ དགེ་གོམས་རུང་བ་དེ་ལྟ་བུ་༎
+T04bsa003_u:309	 ārogyaṃ divasaṃ cedaṃ sabhaktaṃ nirupadravam /  āyuḥkṣaṇaṃ visaṃvādi kāyopācitakopamaḥ // SBca_4.16 //	T04D3871:8b-19	ནད་མེད་ཉི་མ་འདི་ལྟ་བུ་༎ ཟས་བཅས་འཚེ་བ་མེད་ཀྱང་ནི་༎ ཚེ་ནི་སྐད་ཅིག་བསླུ་བ་སྟེ་༎ ལུས་ནི་ཐད་ཅིག་བརྙན་པོ་བཞིན་༏
+T04bsa003_u:31	 tadbodhicittaṃ dvividhaṃ vijñātavyaṃ samāsataḥ /	T04D3871:2b-21	བྱང་ཆུབ་སེམས་དེ་མདོར་བསྡུས་ན་༎ རྣམ་པ་གཉིས་སུ་ཤེས་བྱ་སྟེ་༎
+T04bsa003_u:311	 na hīdṛśairmaccaritairmānuṣyaṃ labhyate punaḥ /	T04D3871:8b-23	། བདག་གི་སྤྱོད་པ་འདི་འདྲས་ནི་༎ མི་ཡི་ལུས་ཀྱང་འཐོབ་མི་འགྱུར་༎
+T04bsa003_u:312	 alabhyamāne mānuṣye pāpameva kutaḥ śubham // SBca_4.17 //	T04D3871:8b-25	མི་ལུས་ཐོབ་པར་མ་གྱུར་ན་༎ སྡིག་པ་འབའ་ཞིག་དགེ་བ་མེད་༎
+T04bsa003_u:313	 yadā kuśalayogyo 'pi kuśalaṃ na karomyaham /	T04D3871:8b-27	གང་ཚེ་དགེ་སྤྱད་སྐལ་ལྡན་ཡང་༎ དགེ་བ་བདག་གིས་མ་བྱས་ན་༎
+T04bsa003_u:314	 apāyaduḥkhaiḥ saṃmūḍhaḥ kiṃ kariṣyāmyahaṃ tadā // SBca_4.18 //	T04D3871:8b-29	ངན་སོང་སྡུག་བསྔལ་ཀུན་རྨོངས་པ་༎ དེ་ཚེ་བདག་གིས་ཅི་བྱར་ཡོད་༎
+T04bsa003_u:315	 akurvataśca kuśalaṃ pāpaṃ cāpyupacinvataḥ /	T04D3871:8b-31	དགེ་བ་དག་ཀྱང་མ་བྱས་ལ་༎ སྡིག་པ་དག་ཀྱང་ཉེར་བསགས་ན་༎
+T04bsa003_u:316	 hataḥ sugatiśabdo 'pi kalpakoṭiśatairapi // SBca_4.19 //	T04D3871:8b-33	བསྐལ་པ་བྱེ་བ་བརྒྱར་ཡང་ནི་༎ བདེ་འགྲོའི་སྒྲ་ཡང་ཐོས་མི་འགྱུར་༎
+T04bsa003_u:317	 ata evāha bhagavān - mānuṣyamatidurlabham /	T04D3871:8b-35	དེ་ཉིད་ཕྱིར་ན་བཅོམ་ལྡན་གྱིས་༎
+T04bsa003_u:318	 mahārṇavayugacchidrakūrmagrīvārpaṇopamam // SBca_4.20 //	T04D3871:8b-36	རྒྱ་མཚོ་ཆེར་ག-ཡེངས་གཉའ་ཤིང་གི་༎ བུ་གར་རུས་སྦལ་མགྲིན་ཆུད་ལྟར་༎
+T04bsa003_u:319	 ekakṣaṇakṛtāt pāpādavīcau kalpamāsyate /	T04D3871:8b-39	སྐད་ཅིག་གཅིག་བྱས་སྡིག་པས་ཀྱང་༎ བསྐལ་པར་མནར་མེད་གནས་འགྱུར་ན་༎
+T04bsa003_u:32	 bodhipraṇidhicittaṃ ca bodhiprasthānameva ca // SBca_1.15 //	T04D3871:2b-23	བྱང་ཆུབ་སྨོན་པའི་སེམས་དང་ནི་༎
+T04bsa003_u:320	 anādikālopacitāt pāpāt kā sugatau kathā // SBca_4.21 //	T04D3871:8b-41	ཐོག་མེད་འཁོར་བར་བསགས་སྡིག་གིས་༎ བདེ་འགྲོར་མི་འགྲོ་སྨོས་ཅི་དགོས་༎
+T04bsa003_u:321	 na ca tanmātramevāsau vedayitvā vimucyate /	T04D3871:8b-43	དེ་ཙམ་ཁོ་ན་མྱོང་གྱུར་ནས་༎ ༄༩ཨ་༌་༎ དེ་ནི་རྣམ་ཐར་མི་འགྱུར་ཏེ་༎
+T04bsa003_u:322	 tasmāttadvedayanneva pāpamanyat prasūyate // SBca_4.22 //	T04D3871:9a-1	འདི་ལྟར་དེ་ནི་མྱོང་བཞིན་དུ་༎ སྡིག་པ་གཞན་དག་རབ་ཏུ་སྐྱེ་༎
+T04bsa003_u:323	 nātaḥ parā vañcanāsti na ca moho 'styataḥ paraḥ /  yadīdṛśaṃ kṣaṇaṃ prāpya nābhyastaṃ kuśalaṃ mayā // SBca_4.23 //	T04D3871:9a-3	འདི་འདྲའི་དལ་བ་རྙེད་གྱུར་ནས་༎ བདག་གིས་དགེ་གོམས་མ་བྱས་ན་༎ འདི་ལས་བསླུས་པ་གཞན་མེད་དེ་༎ འདི་ལས་རྨོངས་པའང་གཞན་མེད་དོ་༎
+T04bsa003_u:325	 yadi caivaṃ vimṛṣyāmi punaḥ sīdāmi mohitaḥ /	T04D3871:9a-7	གལ་ཏེ་བདག་གིས་དེ་རྟོགས་ནས་༎ རྨོངས་པས་ཕྱིས་ཀྱང་སྒྱིད་ལུག་ན་༎
+T04bsa003_u:326	 śociṣyāmi ciraṃ bhūyo yamadūtaiḥ pracoditaḥ // SBca_4.24 //  ciraṃ dhakṣyati me kāyaṃ nārakāgniḥ suduḥsahaḥ /  paścāttāpānalaścittaṃ ciraṃ dhakṣyatyaśikṣitam // SBca_4.25 //	T04D3871:9a-9	འཆི་བར་འགྱུར་བའི་དུས་ཀྱི་ཚེ་༎ མྱ་ངན་ཆེན་པོ་ལྡང་བར་འགྱུར་༎ དམྱལ་མེ་བཟོད་དཀས་དུས་རིང་དུ་༎ བདག་གི་ལུས་ལ་བསྲེགས་གྱུར་ན་༎ འགྱོད་པ་མི་བཟད་མེ་འབར་བས་༎ སེམས་གདུང་འགྱུར་བ་གདོན་མི་ཟ་༎
+T04bsa003_u:329	 kathaṃcidapi saṃprāpto hitabhūmiṃ sudurlabhām /	T04D3871:9a-15	ཤིན་ཏུ་རྙེད་དཀའ་ཕན་པའི་ས་༎ ཇི་ཞིག་ལྟར་ཏེ་རྙེད་གྱུར་ནས་༎
+T04bsa003_u:33	 gantukāmasya gantuśca yathā bhedaḥ pratīyate /	T04D3871:2b-25	འགྲོ་བར་འདོད་དང་འགྲོ་བ་ཡི་༎
+T04bsa003_u:330	 jānannapi ca nīye 'haṃ tāneva narakān punaḥ // SBca_4.26 //	T04D3871:9a-17	བདག་ཉིད་ཤེས་དང་ལྡན་བཞིན་དུ་༎ ཕྱིར་ཡང་དམྱལ་བ་དེར་ཁྲིད་ན་༎
+T04bsa003_u:331	 atra me cetanā nāsti mantrairiva vimohitaḥ /	T04D3871:9a-19	སྔགས་ཀྱིས་རྨོངས་པར་བྱས་པ་བཞིན་༎ བདག་ལ་འདིར་སེམས་མེད་དུ་ཟད་༎
+T04bsa003_u:332	 na jāne kena muhyāmi ko 'trāntarmama tiṣṭhati // SBca_4.27 //	T04D3871:9a-21	ཅིས་རྨོངས་བདག་ཀྱང་མ་ཤེས་ཏེ་༎ བདག་གི་ཁོང་ན་ཅི་ཞིག་ཡོད་༎
+T04bsa003_u:333	 hastapādādirahitāstṛṣṇādveṣādiśatravaḥ /	T04D3871:9a-23	ཞེ་སྡང་སྲེད་སོགས་དགྲ་རྣམས་ནི་༎ རྐང་ལག་ལ་སོགས་ཡོད་མིན་ལ་༎
+T04bsa003_u:334	 na śūrā na ca te prājñāḥ kathaṃ dāsīkṛto 'smi taiḥ // SBca_4.28 //	T04D3871:9a-25	དཔའ་མཛངས་མིན་ཡང་ཇི་ཞིག་ལྟར་༎ དེ་དག་གིས་བདག་བྲན་བཞིན་བྱས་༎
+T04bsa003_u:335	 maccittāvasthitā eva ghnanti māmeva susthitāḥ /	T04D3871:9a-27	བདག་གི་སེམས་ལ་གནས་བཞིན་དུ་༎ དགའ་མགུར་བདག་ལ་གནོད་བྱེད་པ་༎
+T04bsa003_u:336	 tatrāpyahaṃ na kupyāmi dhigasthānasahiṣṇutām // SBca_4.29 //	T04D3871:9a-29	དེ་ལའང་མི་ཁྲོ་བཟོད་པ་ནི་༎ གནས་མིན་བཟོད་པ་སྨད་པའི་གནས་༎
+T04bsa003_u:337	 sarve devā manuṣyāśca yadi syurmama śatravaḥ /	T04D3871:9a-31	གལ་ཏེ་ལྷ་དང་ལྷ་མིན་རྣམས་༎ ཐམས་ཅད་བདག་ལ་དགྲར་ལངས་ཀྱང་༎
+T04bsa003_u:338	 te 'pi nāvīcikaṃ vahniṃ samudānayituṃ kṣamāḥ // SBca_4.30 //  merorapi yadāsaṅgānna bhasmāpyupalabhyate /	T04D3871:9a-33	དེ་དག་གིས་ཀྱང་མནར་མེད་པའི་༎ མེ་ནང་ཁྲིད་ཅིང་འཇུག་མི་ནུས་༎
+T04bsa003_u:34	 tathā bhedo 'nayorjñeyo yāthāsaṃkhyena paṇḍitaiḥ // SBca_1.16 //	T04D3871:2b-27	དེ་བཞིན་མཁས་པས་འདི་གཉིས་ཀྱི་༎ བྱེ་བྲག་རིམ་བཞིན་ཤེས་པར་བྱ་༎
+T04bsa003_u:340	 kṣaṇāt kṣipanti māṃ tatra balinaḥ kleśaśatravaḥ // SBca_4.31 //	T04D3871:9a-35	ཉོན་མོངས་སྟོབས་ཅན་དགྲ་འདིས་ནི་༎ དེར་བདག་སྐད་ཅིག་གཅིག་ལ་འདོར་༎
+T04bsa003_u:341	 na hi sarvānyaśatrūṇāṃ dīrghamāyurapīdṛśam /  anādyantaṃ mahādīrghaṃ yanmama kleśavairiṇām // SBca_4.32 //	T04D3871:9a-39	བདག་གི་ཉོན་མོངས་དགྲ་བོ་གང་༎ དུས་རིང་ཐོག་མཐའ་མེད་པ་ལྟར་༎ དགྲ་གཞན་ཀུན་ཀྱང་དེ་ལྟ་བུར་༎ ཡུན་རིང་ཐུབ་པ་མ་ཡིན་ནོ་༎
+T04bsa003_u:343	 sarve hitāya kalpante ānukūlyena sevitāḥ /	T04D3871:9a-43	མཐུན་པར་རིམ་གྲོ་བསྟེན་བྱས་ན་༎ ཐམས་ཅད་ཕན་དང་བདེ་བྱེད་ལ་༎
+T04bsa003_u:344	 sevyamānāstvamī kleśāḥ sutarāṃ duḥkhakārakāḥ // SBca_4.33 //	T04D3871:9a-45	ཉོན་མོངས་རྣམས་ནི་བསྟེན་བྱས་ན་༎ ཕྱིར་ཞིང་སྡུག་བསྔལ་གནོད་པ་བྱེད་༎
+T04bsa003_u:345	 iti saṃtatadīrghavairiṣu vyasanaughaprasavaikahetuṣu /  hṛdaye nivasatsu nirbhayaṃ mama saṃsāraratiḥ kathaṃ bhavet // SBca_4.34 //	T04D3871:9a-47	དེ་ལྟར་ཡུན་རིང་རྒྱུན་ཆགས་དགྲར་གྱུར་པ་༎ གནོད་པའི་ཚོགས་རབ་འཕེལ་བའི་རྒྱུ་གཅིག་པུ་༎ བདག་གི་༄༩བ་སྙིང་ལ་ངེས་པར་གནས་འཆའ་ན་༎ འཁོར་བར་འཇིགས་མེད་དགའ་བར་ག་ལ་འགྱུར་༎
+T04bsa003_u:347	 bhavacārakapālakā ime narakādiṣvapi vadhyaghātakāḥ /	T04D3871:9b-2	འཁོར་བའི་བརྩོན་རའི་སྲུང་མས་དམྱལ་སོགས་སུ་༎ གསོད་བྱེད་གཤེད་མར་གྱུར་པ་འདི་དག་ནི་༎
+T04bsa003_u:348	 mativeśmani lobhapañjare yadi tiṣṭhanti kutaḥ sukhaṃ mama // SBca_4.35 //	T04D3871:9b-4	གལ་ཏེ་བློ་གནས་ཆགས་པའི་དྲ་བ་ན་༎ གནས་ན་བདག་ལ་བདེ་བ་ག་ལ་ཡོད་༎
+T04bsa003_u:349	 tasmānna tāvadahamatra dhuraṃ kṣipāmi yāvanna śatrava ime nihatāḥ samakṣam /	T04D3871:9b-6	དེ་ལྟར་ཇི་སྲིད་བདག་གིས་དགྲ་འདི་མངོན་སུམ་དུ་༎
+T04bsa003_u:35	 bodhipraṇidhicittasya saṃsāre 'pi phalaṃ mahat /	T04D3871:2b-29	བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི་༎ འཁོར་ཚོ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་༎
+T04bsa003_u:350	 svalpe 'pi tāvadapakāriṇi baddharoṣā mānonnatāstamanihatya na yānti nidrām // SBca_4.36 //	T04D3871:9b-7	ངེས་པར་མ་བཅོམ་དེ་སྲིད་བདག་འདིར་བརྩོན་མི་འདོར་༎ རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ་༎ ང་རྒྱལ་བདོ་རྣམས་དེ་མ་བཅོམ་པར་གཉིད་མི་འོང་༎
+T04bsa003_u:351	 prakṛtimaraṇaduḥkhitāndhakārān /  raṇaśirasi prasabhaṃ nihantumugrāḥ /  agaṇitaśaraśaktighātaduḥkhā na vimukhatāmupayāntyasādhayitvā // SBca_4.37 //	T04D3871:9b-10	རང་བཞིན་འཆི་བས་སྡུག་བསྔལ་གྱུར་པའི་ཉོན་མོངས་དག་། ག-ཡུལ་ངོར་མདར་ཚེ་ནན་གྱིས་གཞོམ་པར་འདོད་པ་ཡང་༎ དོན་མ་གྲུབ་པར་ཕྱིར་ཕྱོགས་འབྱེར་བར་མི་བྱེད་ན་༎
+T04bsa003_u:354	 kimuta satatasarvaduḥkhahetūn prakṛtiripūnupahantumudyatasya /  bhavati mama viṣādadainyamadya vyasanaśatairapi kena hetunā vai // SBca_4.38 //	T04D3871:9b-13	རྟག་ཏུ་སྡུག་བསྔལ་ཀུན་གྱི་རྒྱུར་གྱུར་པ་༎ རང་བཞིན་དགྲ་དེས་གཞོམ་བརྩོན་བདག་ལ་དང་༎ སྡུག་བསྔལ་བརྒྱ་ཕྲག་རྒྱུར་གྱུར་གང་གིས་ཀྱང་༎ ཡི་ཆད་སྒྱིད་ལུག་མི་འགྱུར་སྨོས་ཅི་དགོས་༎
+T04bsa003_u:356	 akāraṇenaiva ripukṣatāni gātreṣvalaṃkāravadudvahanti /	T04D3871:9b-16	དོན་མེད་དགྲ་ཡིས་རྨ་སྲོལ་བཏོད་པ་ཡང་༎ ལུས་ལ་རྒྱན་དང་འདྲ་བར་སྲེལ་བྱེད་ན་༎
+T04bsa003_u:357	 mahārthasiddhyai tu samudyatasya duḥkhāni kasmānmama bādhakāni // SBca_4.39 //	T04D3871:9b-18	དོན་ཆེན་སྒྲུབ་ཕྱིར་ཡང་དག་བརྩོན་གྱུར་པ་༎ བདག་ལ་སྡུག་བསྔལ་ཅི་ཕྱིར་གནོད་བྱེད་ཡིན་༎
+T04bsa003_u:358	 svajīvikāmātranibaddhacittāḥ kaivartacaṇḍālakṛṣīvalādyāḥ /	T04D3871:9b-20	ཉ་པ་གདོལ་པ་ཞིང་པ་ལ་སོགས་པ་༎
+T04bsa003_u:36	 na tvavicchinnapuṇyatvaṃ yathā prasthānacetasaḥ // SBca_1.17 //	T04D3871:2b-31	ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ་༎ བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན་༎
+T04bsa003_u:37	 yataḥ prabhṛtyaparyantasattvadhātupramokṣaṇe /  samādadāti taccittamanivartyena cetasā // SBca_1.18 //	T04D3871:2b-33	གང་ནས་བཟུང་སྟེ་སེམས་ཅན་ཁམས་༎ མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ་༎
+T04bsa003_u:372	 na kleśā viṣayeṣu nendriyagaṇe nāpyantarāle sthitā	T04D3871:10a-8	ཉོན་མོངས་རྣམས་ནི་ཡུལ་ན་མི་གནས་དབང་ཚོགས་ལ་མིན་པར་ནའང་མིན་༎
+T04bsa003_u:373	 nāto 'nyatra kuha sthitāḥ punaramī mathnanti kṛtsnaṃ jagat /	T04D3871:10a-9	དེ་ལས་གཞན་ནའང་མིན་ན་འདི་དག་གར་གནས་འགྲོ་བ་ཀུན་གནོད་བྱེད་༎
+T04bsa003_u:374	 māyaiveyamato vimuñca hṛdayaṃ trāsaṃ bhajasvodyamaṃ	T04D3871:10a-10	འདི་ནི་སྒྱུ་འདྲ་དེ་ཕྱིར་སྙིང་ལ་འཇིགས་སྤོངས་ཤེས་ཕྱིར་བརྩོན་པ་བསྟེན་༎
+T04bsa003_u:375	 prajñārthaṃ kimakāṇḍa eva narakeṣvātmānamābādhase // SBca_4.47 //	T04D3871:10a-11	དོན་མེད་ཉིད་དུ་བདག་ལ་དམྱལ་སོགས་རྣམས་སུ་ཅི་སྟེ་གནོད་པ་བྱེད་༎
+T04bsa003_u:376	 evaṃ viniścitya karomi yatnaṃ yathoktaśikṣāpratipattihetoḥ /	T04D3871:10a-12	དེ་ལྟར་རྣམ་བསམས་ཇི་སྐད་བཤད་པ་ཡི་༎ བསླབ་པ་བསྒྲུབ་པའི་ཆེད་དུ་འབད་པར་བྱ་༎
+T04bsa003_u:377	 vaidyopadeśāccalataḥ kuto 'sti bhaiṣajyasādhyasya nirāmayatvam // SBca_4.48 //	T04D3871:10a-14	སྨན་པའི་ངག་མ་མཉན་ན་སྨན་དག་གིས་༎ བཅོས་དགོས་ནད་པ་སོས་པ་ག་ལ་ཡོད་༎
+T04bsa003_u:379	 5 Saṃprajanyarakṣaṇaṃ nāma pañcamaḥ paricchedaḥ /	T04D3871:10a-17	བག་ཡོད་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བཞི་པའོ་།
+T04bsa003_u:380	 śikṣāṃ rakṣitukāmena cittaṃ rakṣyaṃ prayatnataḥ /  na śikṣā rakṣituṃ śakyā calaṃ cittamarakṣatā // SBca_5.1 //	T04D3871:10a-18	༎ ། བསླབ་པ་བསྲུང་བར་འདོད་པ་ཡིས་༎ རབ་ཏུ་བསྒྲིམས་ནས་སེམས་བསྲུང་སྟེ་༎ སེམས་འདི་བསྲུང་བར་མ་བྱས་ན་༎ བསླབ་པ་བསྲུང་བར་ཡོང་མི་ནུས་༎
+T04bsa003_u:382	 adāntā mattamātaṅgā na kurvantīha tāṃ vyathām /  karoti yāmavīcyādau muktaścittamataṅgajaḥ // SBca_5.2 //  baddhaśceccittamātaṅgaḥ smṛtirajjvā samantataḥ /	T04D3871:10a-22	སེམས་ཀྱི་གླང་པོ་ཡན་བཏང་བས་༎ མནར་མེད་གནོད་པ་བྱེད་པ་ལྟར་༎ གླང་ཆེན་མ་ཐུལ་མྱོས་པ་ཡིས་༎ ཀུན་ནས་དྲན་པའི་ཐག་པ་ཡིས་༏
+T04bsa003_u:386	 vyāghrāḥ siṃhā gajā ṛkṣāḥ sarpāḥ sarve ca śatravaḥ /  sarve narakapālāśca ḍākinyo rākṣasāstathā // SBca_5.4 //	T04D3871:10a-28	འཇིགས་པ་ཐམས་ཅད་མེད་འགྱུར་ཞིང་༎ དགེ་བ་ཐམས་ཅད་ལག་ཏུ་འོང་༎ སྟག་དང་སེང་གེ་གླང་ཆེན་དྲེད་༎ སྦྲུལ་དང་དགྲ་རྣམས་ཐམས་ཅད་དང་༎ སེམས་ཅན་དམྱལ་བའི་སྲུང་མ་དང་༎ བྱད་མ་དེ་བཞིན་སྲིན་པོ་རྣམས་༎
+T04bsa003_u:388	 sarve baddhā bhavantyete cittasyaikasya bandhanāt /  cittasyaikasya damanāt sarve dāntā bhavanti ca // SBca_5.5 //	T04D3871:10a-32	སེམས་འདི་གཅིག་པུ་བཏགས་པ་ཡིས་༎ དེ་དག་ཐམས་ཅད་བཏགས་པར་འགྱུར་༎
+T04bsa003_u:39	 tataḥprabhṛti suptasya pramattasyāpyanekaśaḥ /	T04D3871:2b-36	སེམས་དེ་ཡང་དག་བླངས་གྱུར་པ་༎ དེང་ནས་བཟུང་སྟེ་གཉིད་ལོག་གམ་༎
+T04bsa003_u:390	 yasmādbhayāni sarvāṇi duḥkhānyapramitāni ca /	T04D3871:10a-36	འདི་ལྟར་འཇིགས་པ་ཐམས་ཅད་དང་༎ སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་ཡང་༎
+T04bsa003_u:391	 cittādeva bhavantīti kathitaṃ tattvavādinā // SBca_5.6 //	T04D3871:10b-0	༄༡༠བ་སེམས་ལས་བྱུང་བ་ཡིན་ནོ་ཞེས་༎ ཡང་དག་གསུང་པ་ཉིད་ཀྱིས་བསྟན་༎
+T04bsa003_u:392	 śastrāṇi kena narake ghaṭitāni prayatnataḥ /	T04D3871:10b-2	སེམས་ཅན་དམྱལ་བའི་མཚོན་ཆ་རྣམས་༎
+T04bsa003_u:393	 taptāyaḥkuṭṭimaṃ kena kuto jātāśca tāḥ striyaḥ // SBca_5.7 //	T04D3871:10b-3	སུ་ཞིག་གིས་ནི་ཆེད་དུ་བྱས་༎ ལྕགས་སྲེག་ས་གཞི་སུ་ཡིས་བྱས་༎ མེ་ཚོགས་དེ་དག་ཅི་ལས་བྱུང་༎
+T04bsa003_u:394	 pāpacittasamudbhūtaṃ tattatsarvaṃ jagau muniḥ /	T04D3871:10b-6	དེ་འདྲ་དེ་དག་ཐམས་ཅད་ཀྱང་༎ སྡིག་སེམས་ཡིན་པར་ཐུབ་པས་གསུངས་༎
+T04bsa003_u:395	 tasmānna kaścit trailokye cittādanyo bhayānakaḥ // SBca_5.8 //	T04D3871:10b-8	དེ་ལྟར་འཇིག་རྟེན་གསུམ་པོ་ན་༎ སེམས་ལས་འཇིགས་པ་གཞན་འགའ་མེད་༎
+T04bsa003_u:396	 adaridraṃ jagatkṛtvā dānapāramitā yadi /	T04D3871:10b-10	གལ་ཏེ་འགྲོ་བ་དབུལ་བོར་ནས་༎ སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་ཡིན་ན་༎
+T04bsa003_u:397	 jagaddaridramadyāpi sā kathaṃ pūrvatāyinām // SBca_5.9 //	T04D3871:10b-12	ད་རུང་འགྲོ་བཀྲེན་ཡོད་ན་སྔོན་༎ སྐྱོབ་པ་ཇི་ལྟར་ཕ་རོལ་ཕྱིན་༎
+T04bsa003_u:398	 phalena saha sarvasvatyāgacittājjane 'khile /  dānapāramitā proktā tasmātsā cittameva tu // SBca_5.10 //	T04D3871:10b-14	བདོག་པ་ཐམས་ཅད་འབྲས་བཅས་ཏེ་༎ སྐྱེ་བོ་ཀུན་ལ་བཏང་སེམས་ཀྱིས་༎ སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་གསུངས་ཏེ་༎ དེ་ལྟས་དེ་ནི་སེམས་ཉིད་དོ་༎
+T04bsa003_u:4	 sugatātmajasaṃvarāvatāraṃ kathayiṣyāmi yathāgamaṃ samāsāt // SBca_1.1 //	T04D3871:1b-6	བདེ་གཤེགས་སྲས་ཀྱི་སྡོམ་ལ་འཇུག་པ་ནི་༎ ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ་༎
+T04bsa003_u:40	 avicchinnāḥ puṇyadhārāḥ pravartante nabhaḥsamāḥ // SBca_1.19 //	T04D3871:2b-38	བག་མེད་གྱུར་ཀྱང་བསོད་ནམས་ཤུགས་༎ རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག་། ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་༎
+T04bsa003_u:400	 matsyādayaḥ kva nīyantāṃ mārayeyaṃ yato na tān /	T04D3871:10b-18	ཉ་ལ་སོགས་པ་གང་ཞིག་ཏུ་༎ དེ་དག་གསོད་མི་འགྱུར་བར་བསྐྲད་༎
+T04bsa003_u:401	 labdhe viraticitte tu śīlapāramitā matā // SBca_5.11 //	T04D3871:10b-20	སྤོང་བའི་སེམས་ནི་ཐོབ་པ་ལས་༎ ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པར་བཤད་༎
+T04bsa003_u:402	 kiyato mārayiṣyāmi durjanān gaganopamān /	T04D3871:10b-22	སེམས་ཅན་མི་སྲུན་ནམ་མཁའ་བཞིན་༎ དེ་དག་གཞོམ་གྱིས་ཡོང་མི་ལང་༎
+T04bsa003_u:403	 mārite krodhacitte tu māritāḥ sarvaśatravaḥ // SBca_5.12 //	T04D3871:10b-24	ཁྲོ་བའི་སེམས་འདི་གཅིག་བཅོམ་ན་༎ དགྲ་དེ་ཐམས་ཅད་ཆོམས་དང་འདྲ་༎
+T04bsa003_u:404	 bhūmiṃ chādayituṃ sarvāṃ kutaścarma bhaviṣyati /  upānaccarmamātreṇa channā bhavati medinī // SBca_5.13 //	T04D3871:10b-27	དེ་སྙེད་ཀོ་བས་ག་ལ་ལང་༏་། ལྷམ་མཐིལ་ཙམ་གྱི་ཀོ་བས་ནི་༎ ས་སྟེངས་ཐམས་ཅད་ག-ཡོགས་དང་འདྲ་༎
+T04bsa003_u:406	 bāhyā bhāvā mayā tadvacchakyā vārayituṃ na hi /	T04D3871:10b-30	དེ་བཞིན་ཕྱི་རོལ་དངོས་པོ་ཡང་༎ བདག་གིས་ཕྱིར་བཟློག་མི་ལང་གི་༎
+T04bsa003_u:407	 svacittaṃ vārayiṣyāmi kiṃ mamānyairnivāritaiḥ // SBca_5.14 //	T04D3871:10b-32	བདག་གི་སེམས་འདི་ཕྱིར་བཟློག་བྱའི་༎ གཞན་རྣམས་བཟློག་གོ་ཅི་ཞིག་དགོས་༎
+T04bsa003_u:408	 sahāpi vākśarīrābhyāṃ mandavṛtterna tatphalam /  yatpaṭorekakasyāpi cittasya brahmatādikam // SBca_5.15 //	T04D3871:10b-34	སེམས་གསལ་གཅིག་བསྐྱེད་འབྲས་བུ་གང་༎ ཚངས་ལ་སོགས་པ་ཡིན་པ་ལྟར་༎ ལུས་ངག་བཅས་པའི་འབྲས་བུ་མང་༎
+T04bsa003_u:41	 idaṃ subāhupṛcchāyāṃ sopapattikamuktavān /  hīnādhimuktisattvārthaṃ svayameva tathāgataḥ // SBca_1.20 //	T04D3871:3a-0	འདི་ནི་འཐད་པ་དང་བཅས་༄༣ཨ་༌་༎ པར་༏་། ལག་བཟང་གིས་ནི་ཞུས་པ་ལས་༎ དམན་མོས་སེམས་ཅན་དོན་གྱི་ཕྱིར་༎ དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས་༎
+T04bsa003_u:410	 japāstapāṃsi sarvāṇi dīrghakālakṛtānyapi /	T04D3871:10b-37	སྤྱོད་པ་ཞན་པས་དེ་ལྟ་མིན་༎ བཟླས་བརྗོད་དང་ནི་དཀའ་ཐུབ་ཀུན་༎
+T04bsa003_u:421	 pramadājanamadhye 'pi yatirdhīro na khaṇḍyate // SBca_5.21 //	T04D3871:11a-12	བུད་མེད་ཁྲོད་ན་གནས་ཀྱང་རུང་༎ སྡོམ་བརྩོན་བརྟན་པ་ཉམས་མི་འགྱུར་༎
+T04bsa003_u:422	 lābhā naśyantu me kāmaṃ satkāraḥ kāyajīvitam /	T04D3871:11a-14	བདག་གི་རྙེད་དང་བཀུར་སྟི་དང་༎ ལུས་དང་འཚོ་བ་མེད་བླ་ཞིང་༎
+T04bsa003_u:423	 naśyatvanyacca kuśalaṃ mā tu cittaṃ kadācana // SBca_5.22 //	T04D3871:11a-15	དགེ་བ་གཞན་ཡང་ཉམས་བླ་ཡི་༎ སེམས་ནི་ནམས་ཀྱང་ཉམས་མི་བྱ་༎
+T04bsa003_u:424	 cittaṃ rakṣitukāmānāṃ mayaiṣa kriyate 'ñjaliḥ /  smṛtiṃ ca saṃprajanyaṃ ca sarvayatnena rakṣata // SBca_5.23 //	T04D3871:11a-17	སེམས་བསྲུང་འདོད་པ་རྣམས་ལ་ནི་༎ དྲན་པ་དང་ནི་ཤེས་བཞིན་དག་། ཐམས་ཅད་འབད་པས་སྲུངས་ཤིག་ཅེས་༎ བདག་ནི་དེ་ལྟར་ཐལ་མོ་སྦྱོར་༎
+T04bsa003_u:426	 vyādhyākulo naro yadvanna kṣamaḥ sarvakarmasu /	T04D3871:11a-20	ནད་ཀྱིས་དཀྲུགས་པའི་མི་དག་ནི་༎ ལས་རྣམས་ཀུན་ལ་མཐུ་མེད་པ་༎
+T04bsa003_u:427	 tathābhyāṃ vikalaṃ cittaṃ na kṣamaṃ sarvakarmasu // SBca_5.24 //  asaṃprajanyacittasya śrutacintitabhāvitam /	T04D3871:11a-22	དེ་བཞིན་རྨོངས་པས་སེམས་དཀྲུགས་པ་༎ ལས་རྣམས་ཀུན་ལ་མཐུ་མེད་དོ་༎ ཤེས་བཞིན་མེད་པའི་སེམས་ལྡན་པའི་༎ ཐོས་དང་བསམས་དང་བསྒོམས་པ་ཡང་༎
+T04bsa003_u:429	 sacchidrakumbhajalavanna smṛtāvavatiṣṭhate // SBca_5.25 //	T04D3871:11a-26	གློ་རྡོལ་བུམ་པའི་ཆུ་བཞིན་དུ་༎
+T04bsa003_u:43	 śiraḥśūlāni sattvānāṃ nāśayāmīti cintayan /	T04D3871:3a-4	སེམས་ཅན་རྣམས་ཀྱི་ཀླད་ནད་ཙམ་༎ བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་༎
+T04bsa003_u:430	 aneke śrutavanto 'pi śrāddhā yatnaparā api /	T04D3871:11a-28	ཐོས་ལྡན་དད་པ་ཅན་དང་ནི་༎ བརྩོན་པ་ལྷུར་ལེན་དུ་མ་ཡང་༎
+T04bsa003_u:431	 asaṃprajanyadoṣeṇa bhavantyāpattikaśmalāḥ // SBca_5.26 //	T04D3871:11a-30	ཤེས་བཞིན་མེད་པའི་སྐྱོན་ཆགས་པས་༎ ལྟུང་བའི་རྙོག་དང་བཅས་པར་འགྱུར་༎
+T04bsa003_u:432	 asaṃprajanyacaureṇa smṛtimoṣānusāriṇā /	T04D3871:11a-32	ཤེས་བཞིན་མེད་པའི་ཆོམ་རྐུན་དག་། དྲན་པ་ཉམས་པའི་རྗེས་འབྲང་བས་༎
+T04bsa003_u:433	 upacityāpi puṇyāni muṣitā yānti durgatim // SBca_5.27 //	T04D3871:11a-33	བསོད་ནམས་དག་ནི་ཉེར་བསགས་ཀྱང་༎ རྐུན་པོས་ཕྲོགས་བཞིན་ངན་འགྲོར་འགྲོ་༎
+T04bsa003_u:434	 kleśataskarasaṃgho 'yamavatāragaveṣakaḥ /  prāpyāvatāraṃ muṣṇāti hanti sadgatijīvitam // SBca_5.28 //	T04D3871:11a-35	ཉོན་མོངས་ཆོམ་རྐུན་ཚོགས་འདི་ནི་༎ གླགས་སྐབས་ཚོལ་བར་བྱེད་པ་སྟེ་༎ གླགས་རྙེད་གྱུར་ནས་དགེ་འཕྲོག་ཅིང་༎ བདེ་འགྲོའི་སྲོག་ཀྱང་འཇོམས་པར་བྱེད་༎
+T04bsa003_u:436	 tasmātsmṛtirmanodvārānnāpaneyā kadācana /	T04D3871:11a-39	དེ་བས་དྲན་པ་ཡིད་སྒོ་ནས་༎ གུད་དུ་ནམ་ཡང་མི་གཏོང་ངོ་༎
+T04bsa003_u:437	 gatāpi pratyupasthāpyā saṃsmṛtyāpāyikīṃ vyathām // SBca_5.29 //	T04D3871:11a-41	སོང་ནའང་ངན་འགྲོ་གནོད་པ་དག་། དྲན་པར་བྱས་ཏེ་ཉེ་བར་བཞག་། བླ་མ་དང་ནི་འགྲོགས་པ་ལས་༎
+T04bsa003_u:438	 upādhyāyānuśāsanyā bhītyāpyādarakāriṇām /  dhanyānāṃ gurusaṃvāsātsukaraṃ jāyate smṛtiḥ // SBca_5.30 //	T04D3871:11b-0	མཁན་པོས་རྗེས་སུ་བརྟན་པ་དང་༎ འཇིགས་པས་སྐལ་ལྡན་གུས་༄༡༡བ་བྱེད་ལ་༎ དྲན་པ་བདེ་བླག་ཉིད་དུ་སྐྱེ་༎
+T04bsa003_u:44	 aprameyeṇa puṇyena gṛhyate sma hitāśayaḥ // SBca_1.21 //	T04D3871:3a-6	ཕན་འདོགས་བསམ་པ་དང་ལྡན་དེ་༎ བསོད་ནམས་དཔག་མེད་ལྡན་གྱུར་ན་༎
+T04bsa003_u:440	 buddhāśca bodhisattvāśca sarvatrāvyāhatekṣaṇāḥ /	T04D3871:11b-2	སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་དག་། ཀུན་དུ་ཐོགས་མེད་གཟིགས་པར་ལྡན་༎
+T04bsa003_u:441	 sarvamevāgratasteṣāṃ teṣāmasmi puraḥ sthitaḥ // SBca_5.31 //	T04D3871:11b-4	རྟག་པར་བདག་ནི་གནས་སོ་ཞེས་༎
+T04bsa003_u:442	 iti dhyātvā tathā tiṣṭhet trapādarabhayānvitaḥ /	T04D3871:11b-5	དེ་ལྟར་བསམས་ནས་ངོ་ཚ་དང་༎ གུས་དང་འཇིགས་ལྡན་དེ་བཞིན་གནོས་༎
+T04bsa003_u:443	 buddhānusmṛtirapyevaṃ bhavettasya muhurmuhuḥ // SBca_5.32 //	T04D3871:11b-6	དེས་ན་སངས་རྒྱས་རྗེས་དྲན་པའང་༎ དེ་ལ་ཡང་དང་ཡང་དུ་འབྱུང་༎
+T04bsa003_u:444	 saṃprajanyaṃ tadāyāti na ca yātyāgataṃ punaḥ /  smṛtiryadā manodvāre rakṣārthamavatiṣṭhate // SBca_5.33 //	T04D3871:11b-8	གང་ཚེ་དྲན་པ་ཡིད་སྒོ་ནས་༎ བསྲུང་པའི་དོན་དུ་གནས་གྱུར་པ་༎ དེ་ཚེ་ཤེས་བཞིན་འོང་འགྱུར་ཞིང་༎ སོང་བ་དག་ཀྱང་འོང་བར་འགྱུར་༎
+T04bsa003_u:446	 pūrvaṃ tāvadidaṃ cittaṃ sadopasthāpyamīdṛśam /	T04D3871:11b-12	རེ་ཞིག་དང་པོ་འདི་འདྲའི་སེམས༎
+T04bsa003_u:447	 nirindriyeṇeva mayā sthātavyaṃ kāṣṭhavatsadā // SBca_5.34 //	T04D3871:11b-13	འདི་ནི་སྐྱོན་བཅས་ཤེས་བྱས་ནས་༎ དེ་ཚེ་བདག་གིས་ཤིང་བཞིན་དུ་༎ ཟུངས་ཐུབ་པར་ནི་གནས་པར་བྱ་༎
+T04bsa003_u:448	 niṣphalā netravikṣepā na kartavyāḥ kadācana /  nidhyāyantīva satataṃ kāryā dṛṣṭiradhogatā // SBca_5.35 //  dṛṣṭiviśrāmahetostu diśaḥ paśyetkadācana /	T04D3871:11b-16	དོན་མེད་ག-ཡེང་བར་ལྟ་བ་ནི་༎ ནམ་ཡང་བདག་གིས་མི་བྱ་སྟེ་༎ ངེས་པར་སེམས་པས་རྟག་ཏུ་ནི་༎ མིག་ནི་ཕབ་སྟེ་བལྟ་བར་བྱ་༎ ལྟ་བ་ངལ་བསོའི་ཆེད་དུ་ནི་༎ རེས་འགའ་ཕྱོགས་སུ་བལྟ་བར་བྱ་༎
+T04bsa003_u:45	 kimutāpratimaṃ śūlamekaikasya jihīrṣataḥ /	T04D3871:3a-8	སེམས་ཅན་རེ་རེའི་མི་བདེ་བ་༎ དཔག་ཏུ་མེད་པ་བསལ་འདོད་ཅིང་༎
+T04bsa003_u:451	 ābhāsamātraṃ dṛṣṭvā ca svāgatārthaṃ vilokayet // SBca_5.36 //	T04D3871:11b-22	འགའ་ཞིག་མིག་ལམ་སྣང་གྱུར་ན་༎ བལྟས་ནས་འོངས་པ་ལེགས་ཞེས་བརྗོད་༎
+T04bsa003_u:452	 mārgādau bhayabodhārthaṃ muhuḥ paśyeccaturdiśam /	T04D3871:11b-24	ལམ་སོགས་འཇིགས་པ་བརྟག་པའི་ཕྱིར་༎
+T04bsa003_u:46	 aprameyaguṇaṃ sattvamekaikaṃ ca cikīrṣataḥ // SBca_1.22 //	T04D3871:3a-10	རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ་༎
+T04bsa003_u:47	 kasya mātuḥ piturvāpi hitāśaṃseyamīdṛśī /	T04D3871:3a-11	བསྒྲུབ་པར་འདོད་པ་སྨོས་ཅི་དགོས་༎ ཕའམ་ཡང་ན་མ་ཡང་རུང་༎
+T04bsa003_u:48	 devatānāmṛṣīṇāṃ vā brahmaṇāṃ vā bhaviṣyati // SBca_1.23 //	T04D3871:3a-14	། ལྷ་དང་དྲང་སྲོང་རྣམས་ཀྱང་རུང་༎ ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ་༎
+T04bsa003_u:487	 nigṛhṇīyād dṛḍhaṃ śūraḥ pratipakṣeṇa tatsadā // SBca_5.54 //	T04D3871:12a-38	དེ་ཚེ་དཔའ་བོས་གཉེན་པོ་ཡིས་༎ དེ་ནི་བརྟན་པོར་གཟུང་བར་བྱ་༎
+T04bsa003_u:488	 suniścitaṃ suprasannaṃ dhīraṃ sādaragauravam /  salajjaṃ sabhayaṃ śāntaṃ parārādhanatatparam // SBca_5.55 //	T04D3871:12a-40	ཤིན་ཏུ་ངེས་དང་རབ་དད་དང་༎ བརྟན་དང་ལུས་དང་ཞེ་སར་བཅས་༎ ངོ་ཚ་ཤེས་དང་༄༡༢བ་འཇིགས་བཅས་དང་༎ ཞི་ཞིང་གཞན་དགའ་བྱེད་ལ་བརྩོན་༎
+T04bsa003_u:49	 teṣāmeva ca sattvānāṃ svārthe 'pyeṣa manorathaḥ /	T04D3871:3a-17	རང་གི་དོན་དུ་འདི་འདྲའི་སེམས་༎ རྨི་ལམ་དུ་ཡང་མ་རྨིས་ན་༎
+T04bsa003_u:490	 parasparaviruddhābhirbālecchābhirakheditam /	T04D3871:12b-1	ཕན་ཚུན་མི་མཐུན་བྱིས་པ་ཡི་༎ འདོད་པ་རྣམས་ཀྱིས་མི་སྐྱོ་ཞིང་༎
+T04bsa003_u:491	 kleśotpādādidaṃ hyetadeṣāmiti dayānvitam // SBca_5.56 //	T04D3871:12b-3	ཉོན་མོངས་སྐྱེས་པ་འདི་དག་གི་༎ སེམས་འདི་བྱུང་སྙམ་བརྩེར་ལྡན་དང་༎ ཁ་ན་མ་ཐོ་མེད་དངོས་ལ་༎
+T04bsa003_u:492	 ātmasattvavaśaṃ nityamanavadyeṣu vastuṣu /	T04D3871:12b-5	བདག་དང་སེམས་ཅན་དབང་བྱས་ཤིང་༎
+T04bsa003_u:493	 nirmāṇamiva nirmānaṃ dhārayāmyeṣa mānasam // SBca_5.57 //	T04D3871:12b-6	སྤྲུལ་པ་བཞིན་དུ་ང་མེད་པར་༎ ཡིད་འདི་རྟག་ཏུ་གཟུང་བར་བྱ་༎
+T04bsa003_u:494	 cirātprāptaṃ kṣaṇavaraṃ smṛtvā smṛtvā muhurmuhuḥ /	T04D3871:12b-8	རིང་ཞིག་ལོན་ནས་དལ་བའི་མཆོག་། ཐོབ་པ་ཡང་དང་ཡང་བསམས་ནས་༎
+T04bsa003_u:495	 dhārayāmīdṛśaṃ cittamaprakampyaṃ sumeruvat // SBca_5.58 //	T04D3871:12b-9	སེམས་དེ་ལྟ་བུར་རི་རབ་ལྟར་༎
+T04bsa003_u:496	 gṛdhrairāmiṣasaṃgṛddhaiḥ kṛṣyamāṇa itastataḥ /	T04D3871:12b-11	བྱ་རྒོད་ཤ་ལ་ཆགས་པ་ཡིས་༎ ཕན་ཚུན་ཀུན་དུ་བཤལ་ཁྲིད་ཀྱང་༎
+T04bsa003_u:497	 na karotyanyathā kāyaḥ kasmādatra pratikriyām // SBca_5.59 //	T04D3871:12b-13	ཡིད་ཁྱོད་མི་དགར་མི་བྱེད་ན་༎ ད་ལྟ་ཅི་ཕྱིར་ཁ་ཏ་བྱེད་༎
+T04bsa003_u:498	 rakṣasīmaṃ manaḥ kasmādātmīkṛtya samucchrayam /	T04D3871:12b-15	ལུས་འདི་བདག་གིར་གཟུང་བྱས་ནས་༎ ཡིད་ཁྱོད་ཅི་ཕྱིར་སྲུང་བར་བྱེད་༎
+T04bsa003_u:499	 tvattaścetpṛthagevāyaṃ tenātra tava ko vyayaḥ // SBca_5.60 //	T04D3871:12b-17	ཁྱོད་དང་འདི་གཉིས་སོ་སོ་ན་༎ དེས་ཀོ་ཁྱོད་ལ་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:5	 na hi kiṃcidapūrvamatra vācyaṃ na ca saṃgrathanakauśalaṃ mamāsti /	T04D3871:1b-8	སྔོན་ཆད་མ་བྱུང་བ་ཡང་འདིར་བརྗོད་མེད་༎ སྡེབ་སྦྱོར་མཁས་པའང་བདག་ལ་ཡོད་མིན་ཏེ་༎
+T04bsa003_u:500	 na svīkaroṣi he mūḍha kāṣṭhaputtalakaṃ śucim /	T04D3871:12b-19	རྨོངས་པའི་ཡིད་ཁྱོད་ཅི་ཡི་ཕྱིར་༎ ཤིང་གཟུགས་གཙང་མ་གཟུང་མི་བྱེད་༎
+T04bsa003_u:501	 amedhyaghaṭitaṃ yantraṃ kasmādrakṣasi pūtikam // SBca_5.61 //	T04D3871:12b-21	མི་གཙང་ཚོགས་ཀྱི་འཁྲུལ་འཁོར་འདི་༎ རུལ་བ་བསྲུངས་ཏེ་ཅི་ཞིག་རུང་༎
+T04bsa003_u:502	 imaṃ carmapuṭaṃ tāvatsvabuddhyaiva pṛthakkuru /	T04D3871:12b-24	རང་གི་བློ་ཡིས་ཐ་དད་ཕྱེ་༎
+T04bsa003_u:503	 asthipañjarato māṃsaṃ prajñāśastreṇa mocaya // SBca_5.62 //	T04D3871:12b-25	ཤ་ཡང་རུས་པའི་དྲ་བ་ལས་༎ ཤེས་རབ་མཚོན་གྱིས་གུད་དུ་ཕྱེ་༎
+T04bsa003_u:524	 bako biḍālaścauraśca niḥśabdo nibhṛtaścaran /	T04D3871:13a-17	ཆུ་སྐྱར་བྱི་ལ་ཆོམ་རྐུན་དག་། སྒྲ་མེད་འཇབ་ཅིང་འགྲོ་བ་ཡིས་༎ མངོན་པར་འདོད་པའི་དོན་སྒྲུབ་པ་༎
+T04bsa003_u:525	 prāpnotyabhimataṃ kāryamevaṃ nityaṃ yatiścaret // SBca_5.73 //	T04D3871:13a-19	ཐུབ་པས་རྟག་ཏུ་དེ་བཞིན་སྤྱད་༎
+T04bsa003_u:526	 paracodanadakṣāṇāmanadhīṣṭopakāriṇām /	T04D3871:13a-20	གཞན་ལ་བཞེན་བསྐུལ་འདེབས་མཁས་ཤིང་༎ ལེགས་པར་སྨས་པ་ཐམས་ཅད་ལ་༎ དགེ་བར་གསུངས་ཞེས་བརྗོད་པར་བྱ་༎
+T04bsa003_u:527	 pratīcchecchirasā vākyaṃ sarvaśiṣyaḥ sadā bhavet // SBca_5.74 //  subhāṣiteṣu sarveṣu sādhukāramudīrayet /	T04D3871:13a-25	བསོད་ནམས་བྱེད་པ་མཐོང་གྱུར་ན་༎ བསྟོད་པས་ལེགས་པར་དགའ་བ་བསྐྱེད་༎ ལྐོག་ན་ཡོན་ཏན་བརྗོད་བྱ་ཞིང་༎
+T04bsa003_u:529	 puṇyakāriṇamālokya stutibhiḥ saṃpraharṣayet // SBca_5.75 //  parokṣaṃ ca guṇān brūyādanubrūyācca toṣataḥ /  svavarṇe bhāṣyamāṇe ca bhāvayettadguṇajñatām // SBca_5.76 //	T04D3871:13a-29	རང་གི་ཡོན་ཏན་བརྗོད་ན་དེ་༎ ཡོན་ཏན་ཤེས་པར་རིག་པར་བྱ་༎
+T04bsa003_u:532	 sarvārambhā hi tuṣṭyarthāḥ sā vittairapi durlabhā /	T04D3871:13a-31	རྩོམ་པ་ཐམས་ཅད་དགའ་ཕྱིར་ཏེ་༎ དེ་ནི་རིན་གྱིས་ཉོ་ནའང་དཀོན་༎
+T04bsa003_u:533	 bhokṣye tuṣṭimukhaṃ tasmātparaśramakṛtairguṇaiḥ // SBca_5.77 //	T04D3871:13a-33	དེ་ལྟས་གཞན་བྱས་ཡོན་ཏན་གྱིས་༎ དགའ་བའི་བདེ་བ་སྤྱད་པར་བྱ་༎
+T04bsa003_u:534	 na cātra me vyayaḥ kaścitparatra ca mahatsukham /  aprītiduḥkhaṃ dveṣaistu mahadduḥkhaṃ paratra ca // SBca_5.78 //	T04D3871:13a-35	བདག་ལ་འདིར་གོང་ཡོང་མེད་ལ་༎ ཕ་རོལ་དུ་ཡང་བདེ་བ་ཆེ་༎ ཉེས་པས་མི་དགའ་སྡུག་བསྔལ་ཞིང་༎ ཕ་རོལ་དུ་ཡང་སྡུག་བསྔལ་ཆེ་༎
+T04bsa003_u:536	 viśvastavinyastapadaṃ vispaṣṭārthaṃ manoramam /  śrutisaukhyaṃ kṛpāmūlaṃ mṛdumandasvaraṃ vadet // SBca_5.79 //	T04D3871:13a-39	སྨྲ་ན་ཡིད་ཕེབས་འབྲེལ་པ་དང་༎ དོན་གསལ་ཡིད་དུ་འོང་བ་དང་༎ ཆགས་དང་ཞེ་སྡང་སྤངས་བ་དང་༎ འཇམ་ཞིང་རན་པར་སྨྲ་བར་བྱ་༎
+T04bsa003_u:538	 ṛju paśyetsadā sattvāṃścakṣuṣā saṃpibanniva /	T04D3871:13a-40	མིག་གིས་སེམས་ཅན་ལྟ་ན་ཡང་༎
+T04bsa003_u:539	 etāneva samāśritya buddhatvaṃ me bhaviṣyati // SBca_5.80 //	T04D3871:13a-41	འདི་དག་ཉིད་ལ་བརྟེན་ནས་བདག་། སངས་རྒྱས་ཉིད་དུ་འགྱུར་རོ་ཞེས་༎
+T04bsa003_u:540	 sātatyābhiniveśotthaṃ pratipakṣotthameva ca /  guṇopakārikṣetre ca duḥkhite ca mahacchubham // SBca_5.81 //	T04D3871:13a-42	དྲང་ཞིང་བྱམས་པའི་ཚུལ་གྱིས་བལྟ་༎ རྟག་པར་མངོན་ཞེན་གྱིས་བསླང་བའམ་༎ གཉེན་པོ་ཡིས་ནི་བསླང་༄༡༣བ་བ་ཉིད་༎ ཡོན་ཏན་དང་ནི་ཕན་འདོགས་ཞིང་༎ སྡུག་བསྔལ་བ་ལ་དགེ་ཆེན་འགྱུར་༎
+T04bsa003_u:542	 dakṣa utthānasaṃpannaḥ svayaṃkārī sadā bhavet /	T04D3871:13b-3	མཁས་ཤིང་ལྡང་དང་ལྡན་བྱས་ནས་༎ ལས་རྣམས་བདག་གིས་རྟག་ཏུ་བྱ་༎
+T04bsa003_u:543	 nāvakāśaḥ pradātavyaḥ kasyacitsarvakarmasu // SBca_5.82 //	T04D3871:13b-5	ལས་རྣམས་ཀུན་ལ་སུ་ལ་ཡང་༎
+T04bsa003_u:544	 uttarottarataḥ śreṣṭhā dānapāramitādayaḥ /	T04D3871:13b-7	སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་ལ་སོགས་༎ གོང་ནས་གོང་དུ་ཁྱད་ཞུགས་སྤྱད་༎
+T04bsa003_u:545	 netarārthaṃ tyajecchreṣṭhāmanyatrācārasetutaḥ // SBca_5.83 //	T04D3871:13b-9	ཆུང་ངུའི་ཕྱིར་ནི་ཆེ་མི་གཏང་༎ གཙོ་ཆེར་གཞན་གྱི་དོན་བསམ་མོ་༎
+T04bsa003_u:546	 evaṃ buddhvā parārtheṣu bhavetsatatamutthitaḥ /	T04D3871:13b-11	དེ་ལྟར་རིག་བྱས་གཞན་དོན་ལ་༎ རྟག་ཏུ་བརྩོན་པར་གནས་པར་བྱ་༎
+T04bsa003_u:547	 niṣiddhamapyanujñātaṃ kṛpālorarthadarśinaḥ // SBca_5.84 //  vinipātagatānāthavratasthān saṃvibhajya ca /	T04D3871:13b-13	ཐུགས་རྗེ་མངའ་བ་རིང་གཟིགས་པས་༎ བཀག་པ་རྣམས་ཀྱང་དེ་ལ་གནང་༎ ལོག་པར་ལྷུང་དང་མགོན་མེད་དང་༎ བརྟུལ་ཞུགས་གནས་ལ་བགོ་བྱ་ཞིང་༎
+T04bsa003_u:549	 bhuñjīta madhyamāṃ mātrāṃ tricīvarabahistyajet // SBca_5.85 //	T04D3871:13b-16	རན་པ་ཙམ་དུ་བཟའ་བྱ་སྟེ་༎ ཆོས་གོས་གསུམ་མ་གཏོགས་པ་སྦྱིན་༎
+T04bsa003_u:550	 saddharmasevakaṃ kāyamitarārthaṃ na pīḍayet /	T04D3871:13b-18	དམ་པའི་ཆོས་ནི་སྤྱོད་པའི་ལུས་༎ ཕྲན་ཚེགས་ཆེད་དུ་གནོད་མི་བྱ་༎
+T04bsa003_u:551	 evameva hi sattvānāmāśāmāśu prapūrayet // SBca_5.86 //	T04D3871:13b-20	དེ་ལྟར་བྱས་ན་སེམས་ཅན་གྱི་༎ བསམ་པ་མྱུར་དུ་རྫོགས་པར་འགྱུར་༎
+T04bsa003_u:552	 tyajenna jīvitaṃ tasmādaśuddhe karuṇāśaye /  tulyāśaye tu tattyājyamitthaṃ na parihīyate // SBca_5.87 //	T04D3871:13b-22	སྙིང་རྗེའི་བསམ་པ་མ་དག་པར་༎ ལུས་འདི་གཏང་བར་མི་བྱ་སྟེ་༎ ཅི་ནས་འདི་དང་གཞན་དུ་ཡང་༎ དོན་ཆེན་སྒྲུབ་པའི་རྒྱུར་གཏང་ངོ་༎
+T04bsa003_u:554	 dharmaṃ nirgaurave svasthe na śiroveṣṭite vadet /  sacchatradaṇḍaśastre ca nāvaguṇṭhitamastake // SBca_5.88 //	T04D3871:13b-26	མ་གུས་པ་ལ་ཆོས་མི་བཤད་༎ མི་ན་བཞིན་དུ་མགོ་དཀྲིས་དང་༎ གདུགས་དང་འཁར་བ་མཚོན་ཐོགས་དང་༎ མགོ་བོ་ག-ཡོགས་པ་དག་ལ་མིན་༎
+T04bsa003_u:596	 kāyenaiva paṭhiṣyāmi vākpāṭhena tu kiṃ bhavet /	T04D3871:14b-10	ལུས་ཀྱིས་འདི་དག་སྤྱད་པར་བྱ་༎ ཚིག་ཙམ་བརྗོད་པས་ཅི་ཞིག་འགྲུབ་༎
+T04bsa003_u:597	 cikitsāpāṭhamātreṇa rogiṇaḥ kiṃ bhaviṣyati // SBca_5.109 //	T04D3871:14b-12	སྨན་དཔྱད་བཀླགས་པ་ཙམ་གྱིས་ནི་༎ ནད་པ་དག་ལ་ཕན་འགྱུར་རམ་༎
+T04bsa003_u:598	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ saṃprajanyarakṣaṇaṃ nāma pañcamaḥ paricchedaḥ //  6 kṣāntipāramitā nāma ṣaṣṭhaḥ paricchedaḥ /	T04D3871:14b-14	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་། ཤེས་བཞིན་བསྲུང་བར་བྱ་བ་སྟེ་ལེའུ་ལྔ་པའོ་། ༎ ། བསྐལ་པ་སྟོང་དུ་བསགས་པ་ཡི་༎
+T04bsa003_u:6	 ata eva na me parārthacintā svamano vāsayituṃ kṛtaṃ mayedam // SBca_1.2 //	T04D3871:1b-10	དེ་ཕྱིར་གཞན་དོན་བསམ་པ་བདག་ལ་མེད་༎ རང་གི་ཡིད་ལ་བསྒོམ་ཕྱིར་ངས་འདི་བརྩམས་༎
+T04bsa003_u:600	 sarvametatsucaritaṃ dānaṃ sugatapūjanam /	T04D3871:14b-17	སྦྱིན་དང་བདེ་གཤེགས་མཆོད་ལ་སོགས་༎
+T04bsa003_u:602	 na ca dveṣasamaṃ pāpaṃ na ca kṣāntisamaṃ tapaḥ /	T04D3871:14b-20	ཞེ་སྡང་ལྟ་བུའི་སྡིག་པ་མེད་༎ བཟོད་པ་ལྟ་བུའི་དཀའ་ཐུབ་མེད་༎
+T04bsa003_u:603	 tasmātkṣāntiṃ prayatnena bhāvayedvividhairnayaiḥ // SBca_6.2 //	T04D3871:14b-22	དེ་བས་བཟོད་ལ་ནན་ཏན་དུ་༎ སྣ་ཚོགས་ཚུལ་དུ་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:644	 aniṣyamāṇamapyetacchūlamutpadyate yathā /  aniṣyamāṇo 'pi balātkrodha utpadyate tathā // SBca_6.23 //	T04D3871:15b-7	། དེ་བཞིན་མི་འདོད་བཞིན་དུ་ཡང་༎ ནན་གྱིས་ཉོན་མོངས་འབྱུང་བར་འགྱུར་༎
+T04bsa003_u:646	 kupyāmīti na saṃcintya kupyati svecchayā janaḥ /	T04D3871:15b-10	སྐྱེ་བོ་རྣམས་ནི་གྱི་ནར་ཁྲོ་༎
+T04bsa003_u:647	 utpatsya ityabhipretya krodha utpadyate na ca // SBca_6.24 //	T04D3871:15b-11	བསྐྱེད་པར་བྱ་ཞེས་མ་བསམས་ཀྱང་༎ ཁྲོ་བ་དེ་བཞིན་སྐྱེ་བར་འགྱུར་༎
+T04bsa003_u:648	 ye kecidaparādhāśca pāpāni vividhāni ca /	T04D3871:15b-13	ཉེས་པ་ཇི་སྙེད་ཐམས་ཅད་དང་༎ སྡིག་པ་རྣམ་པ་སྣ་ཚོགས་པ་༎
+T04bsa003_u:649	 sarvaṃ tatpratyayabalāt svatantraṃ tu na vidyate // SBca_6.25 //	T04D3871:15b-14	དེ་ཀུན་རྐྱེན་གྱི་སྟོབས་ལས་བྱུང་༎ རང་དབང་ཡོད་པ་མ་ཡིན་ནོ་༎
+T04bsa003_u:650	 na ca pratyayasāmagryā janayāmīti cetanā /  na cāpi janitasyāsti janito 'smīti cetanā // SBca_6.26 //	T04D3871:15b-16	རྐྱེན་རྣམས་ཚོགས་པ་དེ་དག་ཀྱང་༎ བསྐྱེད་པར་བྱ་ཞེས་སེམས་པ་མེད་༎ དེས་བསྐྱེད་དེ་ཡང་བདག་བསྐྱེད་ཅིས་༎ སེམས་པ་ཡོད་པ་མ་ཡིན་ནོ་༎
+T04bsa003_u:652	 yatpradhānaṃ kilābhīṣṭaṃ yattadātmeti kalpitam /	T04D3871:15b-20	གཙོ་བོ་ཞེས་བྱར་གང་འདོད་དང་༎ བདག་ཅེས་བརྟགས་པ་གང་ཡིན་པ་༎
+T04bsa003_u:653	 tadeva hi bhavābhīti na saṃcintyopajāyate // SBca_6.27 //	T04D3871:15b-22	ཆེད་དུ་བསམས་ཤིང་འབྱུང་བ་མེད་༎
+T04bsa003_u:654	 anutpannaṃ hi tannāsti ka icchedbhavituṃ tadā /	T04D3871:15b-23	མ་སྐྱེས་པར་ནི་དེ་མེད་ན་༎ དེ་ཚེ་སྐྱེ་བར་འདོད་པ་གང་༎
+T04bsa003_u:655	 viṣayavyāpṛtatvācca niroddhumapi nehate // SBca_6.28 //	T04D3871:15b-25	ཡུལ་ལ་རྟག་ཏུ་ག-ཡེང་འགྱུར་བ་༎ འགག་པར་འགྱུར་བའང་མ་ཡིན་ནོ་༎
+T04bsa003_u:656	 nityo hyacetanaścātmā vyomavat sphuṭamakriyaḥ /	T04D3871:15b-27	ཅི་སྟེ་བདག་དེ་རྟག་ན་ནི་༎ མཁའ་བཞིན་བྱེད་པ་མེད་པར་མངོན་༎
+T04bsa003_u:657	 pratyayāntarasaṅge 'pi nirvikārasya kā kriyā // SBca_6.29 //	T04D3871:15b-29	རྐྱེན་རྣམས་གཞན་དང་ཕྲད་ན་ཡང་༎ འགྱུར་བ་མེད་ལ་ཅི་བྱར་ཡོད་༎
+T04bsa003_u:658	 yaḥ pūrvavat kriyākāle kriyāyāstena kiṃ kṛtam /	T04D3871:15b-31	བྱེད་པའི་ཚེ་ཡང་སྔོན་བཞིན་ན་༎ བྱེད་པས་དེ་ལ་ཅི་ཞིག་བྱས་༎
+T04bsa003_u:659	 tasya kriyeti saṃbandhe katarattannibandhanam // SBca_6.30 //	T04D3871:15b-33	དེ་ཡི་བྱེད་པ་འདི་ཡིན་ཞེས་༎ འབྲེལ་པར་འགྱུར་བ་གང་ཞིག་ཡོད་༎
+T04bsa003_u:660	 evaṃ paravaśaṃ sarvaṃ yadvaśaṃ so 'pi cāvaśaḥ /	T04D3871:15b-35	དེ་ལྟར་ཐམས་ཅད་གཞན་གྱི་དབང་༎ དེ་ཡི་དབང་གིས་དེ་དབང་མེད་༎
+T04bsa003_u:661	 nirmāṇavadaceṣṭeṣu bhāveṣvevaṃ kva kupyate // SBca_6.31 //	T04D3871:15b-37	དེ་ལྟར་ཤེས་ན་སྤྲུལ་ལྟ་བུའི་༎ དངོས་པོ་ཀུན་ལ་ཁྲོ་མི་འགྱུར་༎
+T04bsa003_u:662	 vāraṇāpi na yuktaivaṃ kaḥ kiṃ vārayatīti cet /	T04D3871:15b-39	གང་གིས་གང་ཞིག་བཟློག་བྱ་སྟེ་༎ བཟློག་པའང་རིགས་པ་མིན་ཞེ་ན་༎
+T04bsa003_u:663	 yuktā pratītyatā yasmādduḥkhasyoparatirmatā // SBca_6.32 //	T04D3871:15b-41	དེ་ལ་བརྟེན་ནས་སྡུག་བསྔལ་རྣམས་༎
+T04bsa003_u:664	 tasmādamitraṃ mitraṃ vā dṛṣṭvāpyanyāyakāriṇam /	T04D3871:15b-43	དེ་བས་དགྲའམ་མཛའ་ཡང་རུང་༎ མི་རིགས་བྱེད་པ་མཐོང་གྱུར་ན་༎
+T04bsa003_u:665	 īdṛśāḥ pratyayā asyetyevaṃ matvā sukhī bhavet // SBca_6.33 //	T04D3871:15b-45	འདི་འདྲའི་རྐྱེན་ལས་གྱུར་ཏོ་ཞེས་༎ དེ་ལྟར་སོམས་ཏེ་བདེ་བར་མནོས་༎
+T04bsa003_u:666	 yadi tu svecchayā siddhiḥ sarveṣāmeva dehinām /  na bhavetkasyacidduḥkhaṃ na duḥkhaṃ kaścidicchati // SBca_6.34 //	T04D3871:15b-47	གལ་ཏེ་རང་དགས་འགྲུབ་འགྱུར་ན་༎ ཡང་སྡུག་བསྔལ་མི་འདོད་པས་༎ སུ་ལའང་སྡུག་བསྔལ་འབྱུང་མི་འགྱུར་༎
+T04bsa003_u:668	 pramādādātmanātmānaṃ bādhante kaṇṭakādibhiḥ /	T04D3871:16a-4	བག་མེད་པས་ནི་བདག་ལའང་བདག་། ཚེར་མ་ལ་སོགས་གནོད་པ་བྱེད་༎
+T04bsa003_u:669	 bhaktacchedādibhiḥ kopāddurāpastryādilipsayā // SBca_6.35 //	T04D3871:16a-5	བུད་མེད་ལ་སོགས་ཐོབ་བྱའི་ཕྱིར་༎ རྔམ་ཞིང་ཟས་གཅོད་ལ་སོགས་བྱེད་༎
+T04bsa003_u:670	 udbandhanaprapātaiśca viṣāpathyādibhakṣaṇaiḥ /  nighnanti kecidātmānapuṇyācaraṇena ca // SBca_6.36 //	T04D3871:16a-7	ཁ་ཅིག་འགག་ཅིང་ག-ཡང་སར་མཆོང་༎ དུག་དང་མི་འཕྲོད་ཟ་བ་དང་༎ བསོད་ནམས་མ་ཡིན་སྤྱོད་པ་ཡིས་༎ རང་ལ་གནོད་པ་བྱེད་པ་ཡོད་༎
+T04bsa003_u:672	 yadaivaṃ kleśavaśyavād ghnantyātmānamapi priyam /	T04D3871:16a-10	གང་ཚེ་ཉོན་མོངས་དབང་གྱུར་པས་༎ བདག་སྡུག་ཉིད་ཀྱང་གསོད་བྱེད་པ་༎
+T04bsa003_u:673	 tadaiṣāṃ parakāyeṣu parihāraḥ kathaṃ bhavet // SBca_6.37 //	T04D3871:16a-12	དེ་ཚེ་དེ་དག་གཞན་ལུས་ལ་༎ གནོད་མི་བྱེད་པར་ཇི་ལྟར་འགྱུར་༎
+T04bsa003_u:674	 kleśonmattīkṛteṣveṣu pravṛtteṣvātmaghātane /	T04D3871:16a-14	ཉོན་མོངས་སྐྱེས་པས་དེ་ལྟ་བུར་༎ བདག་གསོད་ལ་སོགས་ཞུགས་པ་ལ་༎
+T04bsa003_u:675	 na kevalaṃ dayā nāsti krodha utpadyate katham // SBca_6.38 //	T04D3871:16a-16	སྙིང་རྗེ་རྒྱ་ལ་མ་སྐྱེས་ན་༎ ཁྲོ་བར་འགྱུར་བ་ཅི་ཐ་ཚིག་། གལ་ཏེ་གཞན་ལ་འཚེ་བྱེད་པ་༎
+T04bsa003_u:676	 yadi svabhāvo bālānāṃ paropadravakāritā /	T04D3871:16a-18	བྱིས་པ་རྣམས་ཀྱི་རང་བཞིན་ནི་༎
+T04bsa003_u:677	 teṣu kopo na yukto me yathāgnau dahanātmake // SBca_6.39 //	T04D3871:16a-19	དེ་ལ་ཁྲོ་བ་མི་རིགས་ཏེ་༎ སྲེག་པའི་རང་བཞིན་མེ་བཀོན་འདྲ་༎
+T04bsa003_u:678	 atha doṣo 'yamāgantuḥ sattvāḥ prakṛtipeśalāḥ /	T04D3871:16a-21	འོན་ཏེ་སྐྱོན་དེ་གློ་བུར་ལ་༎ སེམས་ཅན་རང་བཞིན་དེས་པ་ནའང་༎
+T04bsa003_u:679	 tathāpyayuktastatkopaḥ kaṭudhūme yathāmbare // SBca_6.40 //	T04D3871:16a-23	འོ་ནའང་ཁྲོ་བ་མི་རིགས་ཏེ་༎ མཁའ་ལ་དུད་འཐུལ་དཀོན་པ་བཞིན་༎
+T04bsa003_u:680	 mukhyaṃ daṇḍādikaṃ hitvā prerake yadi kupyate /	T04D3871:16a-26	གལ་ཏེ་འཕེན་པ་ལ་ཁྲོ་ན་༎
+T04bsa003_u:681	 dveṣeṇa preritaḥ so 'pi dveṣe dveṣo 'stu me varam // SBca_6.41 //	T04D3871:16a-27	དེ་ཡང་ཞེ་སྡང་གིས་སྤད་པས་༎ ཉེས་ན་ཞེ་སྡང་ལ་ཁྲོ་རིགས་༎
+T04bsa003_u:682	 mayāpi pūrvaṃ sattvānāmīdṛśyeva vyathā kṛtā /	T04D3871:16a-29	བདག་གིས་སྔོན་ཆད་སེམས་ཅན་ལ་༎ འདི་འདྲ་བ་ཡི་གནོད་པ་བྱས་༎
+T04bsa003_u:683	 tasmānme yuktamevaitatsattvopadravakāriṇaḥ // SBca_6.42 //	T04D3871:16a-31	དེ་བས་སེམས་ཅན་འཚེ་བྱེད་པ་༎ བདག་ལ་གནོད་པ་འདི་འབྱུང་རིགས་༎
+T04bsa003_u:698	 bhavenmamāśayaguṇo na yāmi narakān yadi /	T04D3871:16b-13	གལ་ཏེ་བདག་ལ་བསམ་པ་ཡི་༎ ཡོན་ཏན་ཡོད་ན་དམྱལ་མི་འགྲོ་༎
+T04bsa003_u:699	 eṣāmatra kimāyātaṃ yadyātmā rakṣito mayā // SBca_6.50 //	T04D3871:16b-15	གལ་ཏེ་བདག་གིས་བདག་བསྲུངས་ན་༎ དེ་དག་ལ་འདིར་ཅི་ཞིག་བྱུང་༎
+T04bsa003_u:7	 mama tāvadanena yāti vṛddhiṃ kuśalaṃ bhāvayituṃ prasādavegaḥ /	T04D3871:1b-12	དགེ་བ་བསྒོམ་ཕྱིར་བདག་གི་དད་པའི་ཤུགས་༎ འདི་དག་གིས་ཀྱང་རེ་ཞིག་འཕེལ་འགྱུར་ལ་༎
+T04bsa003_u:700	 atha pratyapakārī syāṃ tathāpyete na rakṣitāḥ /	T04D3871:16b-17	འོན་ཏེ་ལན་དུ་གནོད་བྱས་ན་༎ དེ་དག་བསྲུངས་པར་མ་གྱུར་ལ་༎
+T04bsa003_u:701	 hīyate cāpi me caryā tasmānnaṣṭāstapasvinaḥ // SBca_6.51 //	T04D3871:16b-19	བདག་གི་སྤྱོད་པའང་ཉམས་པར་འགྱུར་༎ དེས་ན་དཀའ་ཐུབ་ཞིག་པར་འགྱུར་༎
+T04bsa003_u:702	 mano hantumamūrtatvānna śakyaṃ kenacitkvacit /	T04D3871:16b-21	ཡིད་ནི་ལུས་ཅན་མ་ཡིན་པས་༎ སུས་ཀྱང་གང་དུའང་གཞོམ་མི་ནུས་༎
+T04bsa003_u:703	 śarīrābhiniveśāttu cittaṃ duḥkhena bādhyate // SBca_6.52 //	T04D3871:16b-23	ལུས་ལ་མངོན་པར་ཞེན་པས་ན་༎ ལུས་ནི་སྡུག་བསྔལ་དག་གིས་གནོད་༎
+T04bsa003_u:704	 nyakkāraḥ paruṣaṃ vākyamayaśaścetyayaṃ gaṇaḥ /	T04D3871:16b-25	བརྙས་དང་ཚིག་རྩུབ་སྨྲ་བ་དང་༎ མི་སྙན་པ་ཡི་ཚིག་དེ་ཡིས་༎ ལུས་ལ་གནོད་པར་མི་འགྱུར་ན་༎
+T04bsa003_u:705	 kāyaṃ na bādhate tena cetaḥ kasmātprakupyasi // SBca_6.53 //	T04D3871:16b-27	སེམས་ཁྱོད་ཅི་ཕྱིར་རབ་ཏུ་ཁྲོ་༎
+T04bsa003_u:706	 mayyaprasādo yo 'nyeṣāṃ sa māṃ kiṃ bhakṣayiṣyati /	T04D3871:16b-28	གཞན་དག་བདག་ལ་མི་དགའ་བ་༎
+T04bsa003_u:707	 iha janmāntare vāpi yenāsau me 'nabhīpsitaḥ // SBca_6.54 //	T04D3871:16b-29	དེས་ནི་ཚེ་འདིའམ་ཚེ་གཞན་ལ་༎
+T04bsa003_u:73	 teṣāṃ śarīrāṇi namaskaromi yatroditaṃ tadvaracittaratnam /	T04D3871:3b-15	གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ་༎ སྐྱེས་པ་དེ་ཡི་སྐུ་ལ་ཕྱག་འཚལ་ཞིང་༎
+T04bsa003_u:732	 mohādeke 'parādhyanti kupyantyanye vimohitāḥ /	T04D3871:17a-28	ལ་ལ་རྨོངས་པས་ཉེས་པ་བྱེད་༎ ལ་ལ་རྨོངས་ཏེ་ཁྲོས་གྱུར་ན་༎
+T04bsa003_u:733	 brūmaḥ kameṣu nirdoṣaṃ kaṃ vā brūmo 'parādhinam // SBca_6.67 //	T04D3871:17a-30	དེ་ལ་སྐྱོན་མེད་གང་གིས་བྱ་༎ སྐྱོན་དང་བཅས་ཏེ་གང་ཞིག་ཡིན་༎
+T04bsa003_u:734	 kasmādevaṃ kṛtaṃ pūrvaṃ yenaivaṃ bādhyase paraiḥ /	T04D3871:17a-32	གང་གིས་གཞན་དག་གནོད་བྱེད་པའི༎ ལས་དེ་སྔོན་ཆད་ཅི་ཕྱིར་བྱས་༎
+T04bsa003_u:735	 sarve karmaparāyattāḥ ko 'hamatrānyathākṛtau // SBca_6.68 //	T04D3871:17a-34	ཐམས་ཅད་ལས་ལ་རག་ལས་ན་༎ བདག་གིས་འདི་ལ་ཅི་སྟེ་བཀོན་༎
+T04bsa003_u:736	 evaṃ buddhvā tu puṇyeṣu tathā yatnaṃ karomyaham /	T04D3871:17a-36	དེ་ལྟར་མཐོང་ནས་ཅེ་ནས་ཀྱང་༎ བསོད་ནམས་དག་ལ་བསྒྲིམས་ཏེ་བྱ་༎
+T04bsa003_u:737	 yena sarve bhaviṣyanti maitracittāḥ parasparam // SBca_6.69 //  dahyamāne gṛhe yadvadagnirgatvā gṛhāntaram /  tṛṇādau yatra sajyeta tadākṛṣyāpanīyate // SBca_6.70 //	T04D3871:17a-40	དཔེར་ན་ཁྱིམ་ཚིག་གྱུར་པའི་མེ་༎ ཁྱིམ་གཞན་ཞིག་ཏུ་སོང་ནས་ནི་༎ རཙབ༹་སོགས་གང་ལ་མཆེད་བྱེད་པ་༎ དེ་ནི་ཕྱུང་སྟེ་དོར་བ་ཡིན་༎
+T04bsa003_u:74	 yatrāpakāro 'pi sukhānubandhī sukhākarāṃstān śaraṇaṃ prayāmi // SBca_1.36 //	T04D3871:3b-17	གང་ལ་གནོད་པ་བྱས་ཀྱང་བདེ་འབྲེལ་བ་༎ བདེ་བའི་འབྱུང་གནས་དེ་ལ་སྐྱབས་སུ་མཆི་༎
+T04bsa003_u:740	 evaṃ cittaṃ yadāsaṅgāddahyate dveṣavahninā /	T04D3871:17a-44	དེ་བཞིན་གང་ལ་སེམས་ཆགས་ན་༎ ཞེ་སྡང་མེ་ནི་མཆེད་གྱུར་པ་༎
+T04bsa003_u:741	 tatkṣaṇaṃ tatparityājyaṃ puṇyātmoddāhaśaṅkayā // SBca_6.71 //	T04D3871:17a-46	བསོད་ནམས་ཚིག་པར་དོགས་པ་ཡིས་༎ དེ་ནི་དེ་ཡི་མོད་ལ་༄༡༧བ་དོར་༏
+T04bsa003_u:742	 māraṇīyaḥ karaṃ chittvā muktaścetkimabhadrakam /	T04D3871:17b-1	། གསད་བྱའི་མི་ཞིག་ལག་བཅད་དེ་༎ གལ་ཏེ་ཐར་ན་ཅིས་མ་ལེགས་༎
+T04bsa003_u:743	 manuṣyaduḥkhairnarakānmuktaścetkimabhadrakam // SBca_6.72 //	T04D3871:17b-3	གལ་ཏེ་མི་ཡི་སྡུག་བསྔལ་གྱིས་༎ དམྱལ་བ་བྲལ་ན་ཅིས་མ་ལེགས་༎
+T04bsa003_u:744	 yadyetanmātramevādya duḥkhaṃ soḍhuṃ na pāryate /  tannārakavyathāhetuḥ krodhaḥ kasmānna vāryate // SBca_6.73 //	T04D3871:17b-5	ད་ལྟའི་སྡུག་བསྔལ་འདི་ཙམ་ལའང་༎ བདག་གིས་བཟོད་པར་མི་ནུས་ན་༎ དེས་ན་དམྱལ་བའི་སྡུག་བསྔལ་རྒྱུ་༎ ཁྲོ་བ་ཅི་སྟེ་བཟློག་མི་བྱེད་༎
+T04bsa003_u:746	 kopārthamevamevāhaṃ narakeṣu sahasraśaḥ /	T04D3871:17b-9	འདོད་པའི་དོན་དུ་སྲེག་ལ་སོགས་༎ དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་༎
+T04bsa003_u:747	 kārito 'smi na cātmārthaḥ parārtho vā kṛto mayā // SBca_6.74 //	T04D3871:17b-11	བདག་གིས་རང་གི་དོན་དང་ནི་༎ གཞན་གྱི་དོན་ཡང་མ་བྱས་སོ་༎
+T04bsa003_u:748	 na cedaṃ tādṛśaṃ duḥkhaṃ mahārthaṃ ca kariṣyati /	T04D3871:17b-13	འདི་ནི་དེ་ཙམ་གནོད་མིན་ལ་༎ དོན་ཆེན་དག་ཀྱང་འགྲུབ་འགྱུར་བས་༎
+T04bsa003_u:749	 jagadduḥkhahare duḥkhe prītirevātra yujyate // SBca_6.75 //	T04D3871:17b-15	འགྲོ་བའི་གནོད་སེལ་སྡུག་བསྔལ་ལ་༎ དགའ་བ་འབའ་ཞིག་འདིར་བྱ་རིགས་༎
+T04bsa003_u:75	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ bodhicittānuśaṃsāvivaraṇaṃ nāma prathamaḥ paricchedaḥ //  2 Pāpadeśanā nāma dvitīyaḥ paricchedaḥ /	T04D3871:3b-19	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་དང་པོའོ་།
+T04bsa003_u:750	 yadi prītisukhaṃ prāptamanyaiḥ stutvā guṇorjitam /	T04D3871:17b-17	གཞན་གྱིས་ཡོན་ཏན་ལྡན་བསྟོད་ནས་༎ གལ་ཏེ་དགའ་བའི་བདེ་ཐོབ་ན་༎
+T04bsa003_u:751	 manastvamapi taṃ stutvā kasmādevaṃ na hṛṣyasi // SBca_6.76 //	T04D3871:17b-20	ཅི་ཕྱིར་དེ་ལྟར་དགའ་མི་བྱེད་༎
+T04bsa003_u:752	 idaṃ ca te hṛṣṭisukhaṃ niravadyaṃ sukhodayam /	T04D3871:17b-21	ཁྱོད་ཀྱི་དགའ་བའི་བདེ་བ་འདི་༎ བདེ་འབྱུང་ཁ་ན་མ་ཐོ་མེད་༎ ཡོན་ཏན་ལྡན་པ་རྣམས་ཀྱིས་གནང་༎
+T04bsa003_u:753	 na vāritaṃ ca guṇibhiḥ parāvarjanamuttamam // SBca_6.77 //	T04D3871:17b-24	གཞན་སྡུད་པ་ཡི་མཆོག་ཀྱང་ཡིན་༎
+T04bsa003_u:754	 tasyaiva sukhamityevaṃ tavedaṃ yadi na priyam /	T04D3871:17b-26	གལ་ཏེ་ཁྱོད་བདེ་འདི་མི་འདོད་༎
+T04bsa003_u:755	 bhṛtidānādiviraterdṛṣṭādṛṣṭaṃ hataṃ bhavet // SBca_6.78 //	T04D3871:17b-27	གླ་རྔན་སྦྱིན་སོགས་སྤངས་པའི་ཕྱིར་༎ མཐོང་དང་མ་མཐོང་ཉམས་པར་འགྱུར་༎
+T04bsa003_u:756	 svaguṇe kīrtyamāne ca parasaukhyamapīcchasi /  kīrtyamāne paraguṇe svasaukhyamapi necchasi // SBca_6.79 //  bodhicittaṃ samutpādya sarvasattvasukhecchayā /	T04D3871:17b-29	རང་གི་ཡོན་ཏན་བརྗོད་པའི་ཚེ་༎ གཞན་ལ་བདེ་བའང་འདོད་པར་བྱེད་༎ གཞན་གྱི་ཡོན་ཏན་བརྗོད་པའི་ཚེ་༎ རང་ལའང་བདེ་བ་མི་འདོད་བྱེད་༎
+T04bsa003_u:77	 taccittaratnagrahaṇāya samyak pūjāṃ karomyeṣa tathāgatānām /	T04D3871:3b-20	༎ ། རིན་ཆེན་སེམས་དེ་གཟུང་བར་བྱ་བའི་ཕྱིར་༎ དེ་བཞིན་གཤེགས་པ་རྣམས་དང་དམ་པའི་ཆོས་༎
+T04bsa003_u:78	 saddharmaratnasya ca nirmalasya buddhātmajānāṃ ca guṇodadhīnām // SBca_2.1 //	T04D3871:3b-22	དཀོན་མཆོག་དྲི་མ་མེད་དང་སངས་རྒྱས་སྲས་༎ ཡོན་ཏན་རྒྱ་མཚོ་རྣམས་ལ་ལེགས་པར་མཆོད་༎
+T04bsa003_u:79	 yāvanti puṣpāṇi phalāni caiva bhaiṣajyajātāni ca yāni santi /  ratnāni yāvanti ca santi loke jalāni ca svacchamanoramāṇi // SBca_2.2 //  mahīdharā ratnamayāstathānye vanapradeśāśca vivekaramyāḥ /	T04D3871:3b-24	མེ་ཏོག་འབྲས་བུ་ཇི་སྙེད་ཡོད་པ་དང་༎ སྨན་གྱི་རྣམ་པ་གང་ཞིག་ཡོད་པ་དང་༎ འཇིག་རྟེན་རིན་ཆེན་ཇི་སྙེད་ཡོད་པ་དང་༎ ཆུ་གཙང་ཡིད་དུ་འོང་བ་ཅི་ཡོད་དང་༎ རིན་ཆེན་རི་བོ་དང་ནི་དེ་བཞིན་དུ་༎
+T04bsa003_u:8	 atha matsamadhātureva paśyed aparo 'pyenamato 'pi sārthako 'yam // SBca_1.3 //	T04D3871:1b-14	བདག་དང་སྐལ་བ་མཉམ་པ་གཞན་གྱིས་ཀྱང་༎ ཅི་སྟེ་འདི་དག་མཐོང་ན་དོན་ཡོད་འགྱུར་༎
+T04bsa003_u:810	 sulabhā yācakā loke durlabhāstvapakāriṇaḥ /	T04D3871:18b-37	འཇིག་རྟེན་ན་ནི་སློང་བ་མོད་༎ གནོད་པ་བྱེད་པ་དཀོན་པ་སྟེ་༎
+T04bsa003_u:811	 yato me 'naparādhasya na kaścidaparādhyati // SBca_6.106 //	T04D3871:18b-39	འདི་ལྟར་ཕར་གནོད་མ་བྱས་ན་༎ འགའ་ཡང་གནོད་པ་མི་བྱེད་དོ་༎
+T04bsa003_u:812	 aśramopārjitastasmādgṛhe nidhirivotthitaḥ /  bodhicaryāsahāyatvāt spṛhaṇīyo ripurmama // SBca_6.107 //	T04D3871:18b-41	དེ་བས་ངལ་བས་མ་བསྒྲུབས་པའི་༎ ཁྱིམ་དུ་གཏེར་ནི་བྱུང་བ་ལྟར་༎ བྱང་ཆུབ་སྤྱོད་པའི་གྲོགས་གྱུར་པས་༎ བདག་གིས་དགྲ་ལ་དགའ་བར་བྱ་༎
+T04bsa003_u:814	 mayā cānena copāttaṃ tasmādetat kṣamāphalam /	T04D3871:18b-45	འདི་དང་བདག་གིས་བསྒྲུབས་པས་ན་༎ དེ་ཕྱིར་བཟོད་པའི་འབྲས་བུ་ནི་༎
+T04bsa003_u:815	 etasmai prathamaṃ deyametatpūrvā kṣamā yataḥ // SBca_6.108 //	T04D3871:18b-47	འདི་ལ་ཐོག་མར་བདར་འོས་ཏེ་༎ འདི་ལྟར་དེ་ནི་བཟོད་པའི་རྒྱུ་༎
+T04bsa003_u:816	 kṣamāsiddhyāśayo nāsya tena pūjyo na cedariḥ /	T04D3871:19a-0	གལ་ཏེ་བཟོད་བསྒྲུབ་༄༡༩ཨ་༌་༎ བསམ་མེད་པས་༎ དགྲ་འདི་མཆོད་བྱ་མིན་ཞེ་ན་༎
+T04bsa003_u:817	 siddhiheturacitto 'pi saddharmaḥ pūjyate katham // SBca_6.109 //	T04D3871:19a-3	གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ་༎ དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད་༎
+T04bsa003_u:818	 apakārāśayo 'syeti śatruryadi na pūjyate /	T04D3871:19a-5	གལ་ཏེ་དགྲ་འདི་གནོད་བྱ་བའི་༎ བསམ་ཡོད་མཆོད་བྱ་མིན་ཞེ་ན་༎
+T04bsa003_u:819	 anyathā me kathaṃ kṣāntirbhiṣajīva hitodyate // SBca_6.110 //	T04D3871:19a-8	བདག་གི་བཟོད་པ་ཇི་ལྟར་འགྲུབ་༎
+T04bsa003_u:82	 latāḥ sapuṣpābharaṇojjvalāśca drumāśca ye satphalanamraśākhāḥ // SBca_2.3 //	T04D3871:3b-25	ནགས་ཚལ་ས་ཕྱོགས་དབེན་ཞིང་ཉམས་དགའ་དང་༎ ལྗོན་ཤིང་མེ་ཏོག་རྒྱན་སྤྲས་སྤུང་པ་དང་༎ ཤིང་གང་འབྲས་བཟང་ཡལ་ག་དུད་པ་དང་༎ ལྷ་སོགས་འཇིག་རྟེན་ན་ཡང་དྲི་དང་ནི་༎
+T04bsa003_u:820	 tadduṣṭāśayamevātaḥ pratītyotpadyate kṣamā /	T04D3871:19a-9	དེ་བས་རབ་ཏུ་སྡང་སེམས་ལ་༎ བརྟེན་ནས་བཟོད་པ་སྐྱེ་བས་ན་༎
+T04bsa003_u:821	 sa evātaḥ kṣamāhetuḥ pūjyaḥ saddharmavanmayā // SBca_6.111 //	T04D3871:19a-11	དེ་ཉིད་བཟོད་པའི་རྒྱུ་ཡིན་པས་༎ དམ་པའི་ཆོས་བཞིན་མཆོད་པར་འོས་༎
+T04bsa003_u:822	 sattvakṣetraṃ jinakṣetramityato muninoditam /	T04D3871:19a-13	དེ་ཕྱིར་སེམས་ཅན་ཞིང་དང་ནི་༎ རྒྱལ་བའི་ཞིང་ཞེས་ཐུབ་པས་གསུངས་༎
+T04bsa003_u:83	 devādilokeṣu ca gandhadhūpāḥ kalpadrumā ratnamayāśca vṛkṣāḥ /  sarāṃsi cāmbhoruhabhūṣaṇāni haṃsasvanātyantamanoharāṇi // SBca_2.4 //  akṛṣṭajātāni ca śasyajātāny anyāni vā pūjyavibhūṣaṇāni /	T04D3871:3b-26	སྤོས་དང་དཔག་བསམ་ཤིང་དང་རིན་ཆེན་ཤིང་༎ མ་རྨོས་འཁྲུངས་པའི་ལོ་ཏོག་རྣམ་པ་དང་༎ གཞན་ཡང་མཆོད་པར་འོས་པའི་རྒྱན་རྣམས་ནི་༎ མཚོ་དང་རྫིང་བུ་པདམས་བརྒྱན་པ་དག་། ངང་པ་ཤིན་ཏུ་༄༤ཨ་༌་༎ སྐད་སྙན་ཡིད་འོང་ལྡན་༎
+T04bsa003_u:836	 kiṃ ca niśchadmabandhūnāmaprameyopakāriṇām /	T04D3871:19a-40	གཞན་ཡང་ག-ཡོ་མེད་གཉེན་གྱུར་ཅིང་༎ ཕན་པ་དཔག་མེད་མཛད་རྣམས་ལ་༎
+T04bsa003_u:837	 sattvārādhanamutsṛjya niṣkṛtiḥ kā parā bhavet // SBca_6.119 //	T04D3871:19a-43	གཞན་གང་ཞིག་གིས་ལན་ལོན་འགྱུར་༎
+T04bsa003_u:838	 bhindanti dehaṃ praviśantyavīciṃ yeṣāṃ kṛte tatra kṛte kṛtaṃ syāt /	T04D3871:19a-44	གང་ཕྱིར་སྐུ་གཏོང་མནར་མེད་འཇུག་པ་ལ་༎ དེ་ལ་ཕན་བཏགས་ལན་ལོན་འགྱུར་བས་ན་༎
+T04bsa003_u:839	 mahāpakāriṣvapi tena sarvaṃ kalyāṇamevācaraṇīyameṣu // SBca_6.120 //	T04D3871:19b-0	དེ་༄༡༩བ་བས་འདི་དག་གནོད་ཆེན་བྱེད་ན་ཡང་༎ ཐམས་ཅད་བཟང་དགུ་ཞིག་ཏུ་སྤྱད་པར་བྱ་༎
+T04bsa003_u:840	 svayaṃ mama svāmina eva tāvad yadarthamātmanyapi nirvyapekṣāḥ /	T04D3871:19b-2	རེ་ཞིག་བདག་གི་རྗེར་གྱུར་ཉིད་ཀྱང་ནི་༎
+T04bsa003_u:841	 ahaṃ kathaṃ svāmiṣu teṣu teṣu karomi mānaṃ na tu dāsabhāvam // SBca_6.121 //	T04D3871:19b-4	དེ་ལ་རྨོངས་པ་བདག་གིས་ཇི་ལྟར་ན་༎ ང་རྒྱལ་བྱ་ཞིང་བྲན་གྱི་དངོས་མི་བྱ་༏
+T04bsa003_u:842	 yeṣāṃ sukhe yānti mudaṃ munīndrāḥ yeṣāṃ vyathāyāṃ praviśanti manyum /  tattoṣaṇātsarvamunīndratuṣṭis tatrāpakāre 'pakṛtaṃ munīnām // SBca_6.122 //	T04D3871:19b-6	། གང་དག་བདེ་བས་ཐུབ་རྣམས་དགྱེས་འགྱུར་ཞིང་༎ གང་ལ་གནོད་ན་མི་དགྱེས་འབྱུང་འགྱུར་བ་༎ དེ་དག་དགའ་བས་ཐུབ་པ་ཀུན་དགྱེས་ཤིང་༎ དེ་ལ་གནོད་བྱས་ཐུབ་ལ་གནོད་པ་བྱས་༎
+T04bsa003_u:844	 ādīptakāyasya yathā samantān na sarvakāmairapi saumanasyam /	T04D3871:19b-10	ཇི་ལྟར་ལུས་ལ་ཀུན་ནས་མེ་འབར་བ་༎ འདོད་པ་ཀུན་གྱིས་ཡིད་བདེར་མི་འགྱུར་བ་༎
+T04bsa003_u:845	 sattvavyathāyāmapi tadvadeva na prītyupāyo 'sti dayāmayānām // SBca_6.123 //	T04D3871:19b-12	དེ་བཞིན་སེམས་ཅན་གནོད་པ་བྱས་ན་ཡང་༎ ཐུགས་རྗེ་ཆེ་རྣམས་དགྱེས་པའི་ཐབས་མེད་དོ་༎
+T04bsa003_u:846	 tasmānmayā yajjanaduḥkhadena duḥkhaṃ kṛtaṃ sarvamahākṛpāṇām /  tadadya pāpaṃ pratideśayāmi yatkheditāstanmunayaḥ kṣamantām // SBca_6.124 //	T04D3871:19b-14	དེ་བས་བདག་གིས་འགྲོ་ལ་གནོད་བྱས་པས་༎ ཐུགས་རྗེ་ཆེ་ཀུན་མི་དགྱེས་གྱུར་པ་གང་༎ སྡིག་དེ་དེ་རིང་སོ་སོར་བཤགས་བགྱི་ཡིས་༏་། མི་དགྱེས་གང་ལགས་དེ་ཐུབ་བཟོད་པར་གསོལ་༎
+T04bsa003_u:848	 ārādhanāyādya tathāgatānāṃ sarvātmanā dāsyamupaimi loke /  kurvantu me mūrghni padaṃ janaughā vighnantu vā tuṣyatu lokanāthaḥ // SBca_6.125 //  ātmīkṛtaṃ sarvamidaṃ jagattaiḥ /  kṛpātmabhirnaiva hi saṃśayo 'sti /	T04D3871:19b-18	དེ་བཞིན་གཤེགས་རྣམས་དགྱེས་པར་བགྱི་སླད་དུ་༎ དེང་ནས་བཟུང་ནས་འཇིག་རྟེན་བྲན་དུ་མཆི་༎ འགྲོ་མང་རྡོག་པས་བདག་གི་སྤྱིར་འཚོག་གམ་༎ འགུམས་ཀྱང་མི་བསྔོ་འཇིག་རྟེན་མགོན་དགྱེས་མཛོད་༎ འགྲོ་བ་འདི་ཀུན་ཐུགས་རྗེའི་བདག་ཅན་དེས་༎ བདག་ཏུ་མཛད་པ་འདི་ལ་ཐེ་ཚོམ་མེད་༎
+T04bsa003_u:852	 dṛśyanta ete nanu sattvarūpās ta eva nāthāḥ kimanādaro 'tra // SBca_6.126 //	T04D3871:19b-24	སེམས་ཅན་ངོ་བོར་མཐོང་བ་འདི་དག་ཉིད་༎ མགོན་དེ་བདག་ཉིད་ཅི་ཕྱིར་གུས་མི་བྱེད་༎
+T04bsa003_u:853	 tathāgatārādhanametadeva svārthasya saṃsādhanametadeva /	T04D3871:19b-26	འདི་ཉིད་དེ་བཞིན་གཤགས་པ་མ་ཉེས་བྱེད་ཡིན་༎ རང་དོན་ཡང་དག་སྒྲུབ་པའང་འདི་ཉིད་དོ་༎
+T04bsa003_u:854	 lokasya duḥkhāpahametadeva tasmānmamāstu vratametadeva // SBca_6.127 //	T04D3871:19b-28	འཇིག་རྟེན་སྡུག་བསྔལ་སེལ་བའང་འདི་ཉིད་དེ་༎ དེ་ལྟས་བདག་གིས་རྟག་ཏུ་དེ་ཉིད་བྱ་༎
+T04bsa003_u:855	 yathaiko rājapuruṣaḥ pramanthāti mahājanam /	T04D3871:19b-30	དཔེར་ན་རྒྱལ་པོའི་མི་འགའ་ཞིག་། སྐྱེ་བོ་མང་ལ་གནོད་བྱེད་ཀྱང་༎
+T04bsa003_u:856	 vikartuṃ naiva śaknoti dīrghadarśī mahājanaḥ // SBca_6.128 //	T04D3871:19b-31	སྐྱེ་བོ་མིག་རྒྱང་རིང་པོ་དག་། ནུས་ཀྱང་ཕྱིར་གནོད་མི་བྱེད་དེ་༏
+T04bsa003_u:857	 yasmānnaiva sa ekākī tasya rājabalaṃ balam /	T04D3871:19b-32	།འདི་ལྟར་དེ་གཅིག་མ་ཡིན་གྱི་༎ རྒྱལ་པོའི་མཐུ་སྟོབས་དེ་ཡི་མཐུ་༎
+T04bsa003_u:858	 tathā na durbalaṃ kaṃcidaparāddhaṃ vimānayet // SBca_6.129 //	T04D3871:19b-34	དེ་བཞིན་གནོད་བྱེད་ཉམ་ཆུང་བ་༎ འགའ་ཡང་ཁྱད་དུ་གསད་མི་བྱ་༎
+T04bsa003_u:859	 yasmānnarakapālāśca kṛpāvantaśca tadbalam /	T04D3871:19b-36	འདི་ལྟར་དམྱལ་བའི་སྲུང་མ་དང་༎ ཐུགས་རྗེ་ལྡན་རྣམས་དེ་ཡི་དཔུང་༎
+T04bsa003_u:86	 ākāśadhātuprasarāvadhīni sarvāṇyapīmānyaparigrahāṇi // SBca_2.5 //  ādāya buddhyā munipuṃgavebhyo niryātayāmyeṣa saputrakebhyaḥ /	T04D3871:4a-2	ནམ་མཁའ་རབ་འབྱམས་ཁམས་ཀྱི་མཐས་གཏུགས་ན་༎ ཡོངས་སུ་གཟུང་བ་མེད་པ་དེ་དག་ཀུན་༎ བློ་ཡིས་བླངས་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག་༎ སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན་༎
+T04bsa003_u:860	 tasmādārādhayetsattvān bhṛtyaścaṇḍanṛpaṃ yathā // SBca_6.130 //	T04D3871:20a-0	དེ་ལྟར་དམངས་ཀྱིས་རྒྱལ་༄༢༠ཨ་༌་༎ གཏུམ་བཞིན་༎ སེམས་ཅན་རྣམས་ནི་མགུ་བར་བྱ་༎
+T04bsa003_u:861	 kupitaḥ kiṃ nṛpaḥ kuryādyena syānnarakavyathā /  yatsattvadaurmanasyena kṛtena hyanubhūyate // SBca_6.131 //	T04D3871:20a-2	རྒྱལ་པོ་ལྟ་ཞིག་ཁྲོས་ན་ཡང་༎ སེམས་ཅན་མི་མགུ་བྱས་པ་ཡིས་༎ མྱོང་བར་འགྱུར་བ་གང་ཡིན་པ་༎ དམྱལ་བའི་གནོད་པ་དེས་བྱེད་དམ་༎
+T04bsa003_u:863	 tuṣṭaḥ kiṃ nṛpatirdadyādyadbuddhatvasamaṃ bhavet /	T04D3871:20a-6	རྒྱལ་པོ་ལྟ་ཞིག་མགུ་ན་ཡང་༎
+T04bsa003_u:864	 yatsattvasaumanasyena kṛtena hyanubhūyate // SBca_6.132 //	T04D3871:20a-7	སེམས་ཅན་མགུ་བར་བྱས་པ་ཡིས་༎
+T04bsa003_u:865	 āstāṃ bhaviṣyadbuddhatvaṃ sattvārādhanasaṃbhavam /	T04D3871:20a-8	འཐོབ་པར་འགྱུར་བ་གང་ཡིན་པ་༎ སངས་རྒྱས་ཉིད་སྦྱིན་མི་སྲིད་དོ་༎ སེམས་ཅན་མགུ་ལས་བྱུང་བ་ཡི་༎
+T04bsa003_u:866	 ihaiva saubhāgyayaśaḥsausthityaṃ kiṃ na paśyasi // SBca_6.133 //	T04D3871:20a-11	མ་འོངས་སངས་རྒྱས་འགྲུབ་ལྟ་ཞོག་། ཚེ་འདི་ཉིད་ལ་དཔལ་ཆེན་དང་༎ གྲགས་དང་སྐྱེད་འགྱུར་ཅིས་མ་མཐོང་༎
+T04bsa003_u:867	 prāsādikatvamārogyaṃ prāmodyaṃ cirajīvitam /  cakravartisukhaṃ sphītaṃ kṣamī prāpnoti saṃsaran // SBca_6.134 //	T04D3871:20a-12	འཁོར་ཚེ་བཟོད་པས་མཛེས་སོགས་དང་༎ ནད་མེད་པ་དང་གྲགས་པ་ཡིས་༎ ཤིན་ཏུ་ཡུན་རིང་འཚོ་བ་དང་༎ འཁོར་ལོས་སྒྱུར་བའི་བདེ་རྒྱས་ཐོབ་༎
+T04bsa003_u:869	 iti prajñākaramativiracitāyāṃ bodhicaryāvatārapañjikāyāṃ kṣāntipāramitā nāma ṣaṣṭhaḥ paricchedaḥ //  7 Vīryapāramitā nāma saptamaḥ paricchedaḥ /	T04D3871:20a-14	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་། བཟོད་པ་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་དྲུག་པའོ་།
+T04bsa003_u:871	 evaṃ kṣamo bhajedvīryaṃ vīrye bodhiryataḥ sthitā /	T04D3871:20a-16	༎ ། དེ་ལྟར་བཟོད་པས་བརྩོན་འགྲུས་བརྩམ་༎ འདི་ལྟར་བརྩོན་ལ་བྱང་ཆུབ་གནས་༎
+T04bsa003_u:872	 na hi vīryaṃ vinā puṇyaṃ yathā vāyuṃ vināgatiḥ // SBca_7.1 //	T04D3871:20a-18	རླུང་མེད་ག-ཡོ་བ་མེད་པ་བཞིན་༎ བསོད་ནམས་བརྩོན་འགྲུས་མེད་མི་འབྱུང་༎
+T04bsa003_u:873	 kiṃ vīryaṃ kuśalotsāhastadvipakṣaḥ ka ucyate /	T04D3871:20a-20	བརྩོན་གང་དགེ་ལ་སྤྲོ་བའོ་༎ དེ་ཡི་མི་མཐུན་ཕྱོགས་བཤད་བྱ་༎
+T04bsa003_u:874	 ālasyaṃ kutsitāsaktirviṣādātmāvamanyanā // SBca_7.2 //	T04D3871:20a-22	ལེ་ལོ་ངན་ལ་ཞེན་པ་དང་༎ སྐྱིད་ལུག་བདག་ཉིད་བརྙས་པའོ་༎
+T04bsa003_u:875	 avyāpārasukhāsvādanidrāpāśrayatṛṣṇayā /	T04D3871:20a-23	སྙོམ་ལས་བདེ་བའི་རོ་མྱང་དང་༎ གཉིད་ལ་བརྟེན་པའི་སྲེད་པ་ཡིས་༎
+T04bsa003_u:876	 saṃsāraduḥkhānudvegādālasyamupajāyate // SBca_7.3 //	T04D3871:20a-24	འཁོར་བའི་སྡུག་བསྔལ་མི་སྐྱོ་ལས་༎ ལེ་ལོ་ཉེ་བར་སྐྱེ་བར་འགྱུར་༎
+T04bsa003_u:877	 kleśavāgurikāghrātaḥ praviṣṭo janmavāgurām /	T04D3871:20a-26	ཉོན་མོངས་རྒྱ་བས་བཤོར་ནས་ནི་༎ སྐྱེ་བའི་རྒྱར་ནི་ཆུད་གྱུར་ནས་༎
+T04bsa003_u:878	 kimadyāpi na jānāsi mṛtyorvadanamāgataḥ // SBca_7.4 //	T04D3871:20a-28	འཆི་བདག་ཁར་ནི་སོང་གྱུར་པ་༎ ཅི་སྟེ་ད་དུང་མི་ཤེས་སམ་༎
+T04bsa003_u:879	 svayūthyānmāryamāṇāṃstvaṃ krameṇaiva na paśyasi /	T04D3871:20a-30	རང་སྡེ་རིམ་གྱིས་གསོད་པ་ཡང་༎ ཁྱོད་ཀྱིས་མཐོང་བར་མ་གྱུར་ཏམ་༎
+T04bsa003_u:88	 gṛhṇantu tanme varadakṣiṇīyā mahākṛpā māmanukampamānāḥ // SBca_2.6 //	T04D3871:4a-6	ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས་༎ བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས་༎
+T04bsa003_u:880	 tathāpi nidrāṃ yāsyeva caṇḍālamahiṣo yathā // SBca_7.5 //	T04D3871:20a-32	འོན་ཀྱང་གཉིད་ལ་བརྟེན་པ་གང་༎ གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན་༎
+T04bsa003_u:881	 yamenodvīkṣyamāṇasya baddhamārgasya sarvataḥ /	T04D3871:20a-35	འཆི་བདག་གིས་ནི་བལྟས་བཞིན་དུ་༎
+T04bsa003_u:882	 kathaṃ te rocate bhoktuṃ kathaṃ nidrā kathaṃ ratiḥ // SBca_7.6 //	T04D3871:20a-36	ཇི་ལྟར་ཁྱོད་ནི་ཟ་དགའ་ཞིང་༎ འདི་ལྟར་གཉིད་ལོག་ཇི་ལྟར་དགའ་༎
+T04bsa003_u:883	 yāvatsaṃbhṛtasaṃbhāraṃ maraṇaṃ śīghrameṣyati /	T04D3871:20a-39	ཇི་སྲིད་དུ་ནི་ཚོགས་བསག་བྱ་༎
+T04bsa003_u:884	 saṃtyajyāpi tadālasyamakāle kiṃ kariṣyasi // SBca_7.7 //	T04D3871:20a-40	དེ་ཚེ་ལེ་ལོ་སྤངས་ཀྱང་ནི་༎ དུས་མ་ཡིན་པར་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:885	 idaṃ na prāptamārabdhamidamardhakṛtaṃ sthitam /	T04D3871:20b-0	འདི་ནི་མ་བྱས་བརྩམས་པ་དང་༎ འདི་༄༢༠བ་ཕྱེད་བྱས་པར་གནས་པ་ལ་༎
+T04bsa003_u:886	 akasmānmṛtyurāyāto hā hato 'smīti cintayan // SBca_7.8 //	T04D3871:20b-1	གློ་བུར་འཆི་བདག་འོངས་ནས་ནི་༎ ཀྱི་ཧུད་བཅོམ་ཞེས་སེམས་པར་འགྱུར་༎
+T04bsa003_u:887	 śokavegasamucchūnasāśruraktekṣaṇānanān /  bandhūnnirāśān saṃpaśyan yamadūtamukhāni ca // SBca_7.9 //	T04D3871:20b-3	མྱ་ངན་ཤུགས་ཀྱིས་སྐྲངས་པ་ཡི་༎ མིག་དམར་གདོང་ལ་མཆི་མ་འཛག་། ཉེ་དུ་རེ་ཐག་ཆད་པ་དང་༎ གཤིན་རྗེའི་ཕོ་ཉའི་བཞིན་ལ་བལྟ་༎
+T04bsa003_u:889	 svapāpasmṛtisaṃtaptaḥ śṛṇvannādāṃśca nārakān /	T04D3871:20b-5	རང་སྡིག་དྲན་པས་གདུང་པ་དང་༎ དམྱལ་བའི་སྒྲ་ནི་ཐོས་པ་ཡིས་༎
+T04bsa003_u:89	 apuṇyavānasmi mahādaridraḥ pūjārthamanyanmama nāsti kiṃcit /	T04D3871:4a-8	བདག་ནི་བསོད་ནམས་མི་ལྡན་བཀྲེན་ཆེན་ཏེ་༎ མཆོད་པའི་ནོར་གཞན་བདག་ལ་ཅང་མ་མཆིས་༎
+T04bsa003_u:890	 trāsoccāraviliptāṅgo vihvalaḥ kiṃ kariṣyasi // SBca_7.10 //	T04D3871:20b-6	སྐྲག་པས་མི་གཙང་ལུས་གོས་ཤིང་༎ མྱོས་པར་འགྱུར་ཚེ་ཅི་ཞིག་བྱ་༎
+T04bsa003_u:891	 jīvamatsya ivāsmīti yuktaṃ bhayamihaiva te /	T04D3871:20b-8	ཁྱོད་ནི་ཉ་གསོན་འགྲེ་བ་ལྟའི་༎ ཚེ་འདིར་འཇིགས་དང་ལྡན་གྱུར་ན་༎
+T04bsa003_u:892	 kiṃ punaḥ kṛtapāpasya tīvrānnarakaduḥkhataḥ // SBca_7.11 //	T04D3871:20b-10	སྡིག་བྱས་དམྱལ་བ་མི་བཟད་པའི་༎ སྡུག་བསྔལ་རྣམས་ནི་སྨོས་ཅི་དགོས་༎
+T04bsa003_u:893	 spṛṣṭa uṣṇodakenāpi sukumāra pratapyase /	T04D3871:20b-12	ཆུ་ཚན་གྱིས་ནི་རེག་པ་ན་༎ གཞོན་ཤ་ཅན་ལ་རབ་ཚ་བའི་༎
+T04bsa003_u:894	 kṛtvā ca nārakaṃ karma kimevaṃ svasthamāsyate // SBca_7.12 //	T04D3871:20b-14	དམྱལ་བ་ཡི་ནི་ལས་བྱས་ནས་༎ ཅི་ཕྱིར་འདི་ལྟར་བདེ་བར་གནས་༎
+T04bsa003_u:895	 nirudyama phalākāṅkṣin sukumāra bahuvyatha /	T04D3871:20b-16	བརྩོན་མེད་འབྲས་བུ་འདོད་པ་དང་༎ བཟེ་རེ་ཅན་ལ་གནོད་མང་ཞིང་༎
+T04bsa003_u:896	 mṛtyugrasto 'marākāra hā duḥkhita vihanyase // SBca_7.13 //	T04D3871:20b-17	འཆི་བས་བཟུང་བཞིན་ལྷ་འདྲ་བ་༎ ཀྱི་ཧུད་སྡུག་བསྔལ་དག་གིས་བཅོམ་༎
+T04bsa003_u:897	 mānuṣyaṃ nāvamāsādya tara duḥkhamahānadīm /	T04D3871:20b-19	མི་ཡི་གྲུ་ལ་བརྟེན་ནས་སུ་༎ སྡུག་བསྔལ་ཆུ་བོ་ཆེ་ལས་སྒྲོལ་༎
+T04bsa003_u:898	 mūḍha kālo na nidrāyā iyaṃ naurdurlabhā punaḥ // SBca_7.14 //	T04D3871:20b-21	གྲུ་འདི་ཕྱི་ནས་རྙེད་དཀའ་བས་༎
+T04bsa003_u:899	 muktvā dharmaratiṃ śreṣṭhāmanantaratisaṃtatim /  ratirauddhatyahāsyādau duḥkhahetau kathaṃ tava // SBca_7.15 //	T04D3871:20b-22	རྨོངས་པ་དུས་སུ་གཉིད་མ་ལོག་། དགའ་བའི་རྒྱུ་ནི་མཐའ་ཡས་པའི་༎ དམ་ཆོས་དགའ་བའི་མཆོག་སྤངས་ནས་༎ སྡུག་བསྔལ་རྒྱུ་ཡིས་ག-ཡེང་བ་དང་༎ རྒོད་སོགས་ལ་ཁྱོད་ཅི་ཕྱིར་དགའ་༎
+T04bsa003_u:9	 kṣaṇasaṃpadiyaṃ sudurlabhā pratilabdhā puruṣārthasādhanī /	T04D3871:1b-16	དལ་འབྱོར་འདི་ནི་རྙེད་པར་ཤིན་ཏུ་དཀའ་༎ སྐྱེས་བུའི་དོན་སྒྲུབ་ཐོབ་པར་གྱུར་པ་ལ་༎
+T04bsa003_u:90	 ato mamārthāya parārthacittā gṛhṇantu nāthā idamātmaśaktyā // SBca_2.7 //  dadāmi cātmānamahaṃ jinebhyaḥ sarveṇa sarvaṃ ca tadātmajebhyaḥ /	T04D3871:4a-10	དེས་ན་གཞན་དོན་དགོངས་པའི་མགོན་གྱིས་འདི་༎ བདག་གི་དོན་སླད་ཉིད་ཀྱི་མཐུས་བཞེས་ཤིག་། རྒྱལ་དང་ད་སྲས་རྣམས་ལ་བདག་གིས་ནི་༎ བདག་གི་ལུས་ཀུན་གཏན་དུ་དབུལ་བར་བགྱི་༎
+T04bsa003_u:901	 aviṣādabalavyūhatātparyātmavidheyatā /  parātmasamatā caiva parātmaparivartanam // SBca_7.16 //	T04D3871:20b-25	སྐྱིད་ལུག་མེད་དང་དཔུང་ཚོགས་དང་༎ ལྷུར་བླང་བདག་ཉིད་དབང་བྱ་དང་༎ བདག་དང་གཞན་དུ་མཉམ་པ་དང་༎ བདག་དང་གཞན་དུ་བརྗེ་བར་གྱིས༎
+T04bsa003_u:903	 naivāvasādaḥ kartavyaḥ kuto me bodhirityataḥ /	T04D3871:20b-26	བདག་གིས་བྱང་ཆུབ་ག་ལ་ཞེས་༎ སྐྱིད་ལུག་པར་ནི་མི་བྱ་སྟེ་༎
+T04bsa003_u:904	 yasmāttathāgataḥ satyaṃ satyavādīdamuktavān // SBca_7.17 //	T04D3871:20b-28	འདི་ལྟར་དེ་བཞིན་གཤེགས་པ་ནི་༎ བདེན་པ་གསུང་བས་བདེན་འདི་གསུངས་༎
+T04bsa003_u:905	 te 'pyāsan daṃśamaśakā makṣikāḥ kṛmayastathā /	T04D3871:20b-30	སྦྲང་བུ་ཤ་སྦྲང་བུང་བ་དང་༎ དེ་བཞིན་སྲིན་བུར་གང་གྱུར་པ་༎
+T04bsa003_u:906	 yairutsāhavaśāt prāptā durāpā bodhiruttamā // SBca_7.18 //	T04D3871:20b-31	དེས་ཀྱང་བརྩོན་པའི་སྟོབས་བསྐྱེད་ན་༎ བྱང་ཆུབ་ཐོབ་དཀའ་བླ་མེད་འཐོབ་༎
+T04bsa003_u:907	 kimutāhaṃ naro jātyā śakto jñātuṃ hitāhitam /	T04D3871:20b-33	བདག་ལྟ་རིགས་ཀྱིས་མིར་སྐྱེས་ལ་༎ ཕན་དང་གནོན་པའི་ངོ་ཤེས་པས་༎
+T04bsa003_u:908	 sarvajñanītyanutsargādbodhiṃ kiṃ nāpnuyāmaham // SBca_7.19 //	T04D3871:20b-35	བྱང་ཆུབ་སྤྱོད་པ་མ་བཏང་ན་༎ བདག་གིས་བྱང་ཆུབ་ཅིས་མི་འཐོབ་༎
+T04bsa003_u:909	 athāpi hastapādādi dātavyamiti me bhayam /	T04D3871:20b-37	འོན་ཏེ་རྐང་ལག་ལ་སོགས་པ་༎ བཏང་དགོས་བདག་ནི་འཇིགས་ཤེ་ན་༎
+T04bsa003_u:910	 gurulāghavamūḍhatvaṃ tanme syādavicārataḥ // SBca_7.20 //	T04D3871:21a-0	༄༢༡ཨ་༌་༎ ལྕི་དང་ཡང་བ་མ་དཔྱད་པར་༎ རྨོངས་པས་བདག་ནི་འཇིགས་པར་ཟད་༎
+T04bsa003_u:911	 chettavyaścāsmi bhettavyo dāhyaḥ pāṭyo 'pyanekaśaḥ /	T04D3871:21a-3	ལན་གྲངས་དུ་མར་བཅད་པ་དང་༎ དབུག་དང་བསྲེག་དང་གཤེགས་འགྱུར་གྱི་༎
+T04bsa003_u:912	 kalpakoṭīrasaṃkhyeyā na ca bodhirbhaviṣyati // SBca_7.21 //	T04D3871:21a-4	བྱང་ཆུབ་ཐོབ་པར་མི་འགྱུར་རོ་༎
+T04bsa003_u:913	 idaṃ tu me parimitaṃ duḥkhaṃ saṃbodhisādhanam /	T04D3871:21a-5	བདག་གིས་བྱང་ཆུབ་སྒྲུབ་པ་ཡི་༎ སྡུག་བསྔལ་འདི་ནི་ཚོད་ཡོད་དེ་༎
+T04bsa003_u:914	 naṣṭaśalyavyathāpohe tadutpādanaduḥkhavat // SBca_7.22 //	T04D3871:21a-7	ཟུག་རྔུ་ཁོང་བརླག་གནོད་བསལ་ཕྱིར་༎ ལུས་རྨ་བཏོད་པའི་སྡུག་བསྔལ་བཞིན་༎
+T04bsa003_u:915	 sarve 'pi vaidyāḥ kurvanti kriyāduḥkhairarogatām /	T04D3871:21a-9	སྨན་པ་ཀུན་ཀྱང་གསོ་དཔྱད་ཀྱི་༎ མི་བདེ་བ་ཡིས་ནད་མེད་བྱེད་༎
+T04bsa003_u:916	 tasmādbahūni duḥkhāni hantuṃ soḍhavyamalpakam // SBca_7.23 //	T04D3871:21a-11	དེ་བས་སྡུག་བསྔལ་མང་པོ་དག་། གཞོམ་ཕྱིར་མི་བདེ་ཆུང་བཟོད་བྱ་༎
+T04bsa003_u:917	 kriyāmimāmapyucitāṃ varavaidyo na dattavān /	T04D3871:21a-12	གསོ་དཔྱད་ཕལ་པ་འདི་འདྲ་བ་༎ སྨན་པ་མཆོག་གིས་མ་མཛད་དེ་༎
+T04bsa003_u:918	 madhureṇopacāreṇa cikitsati mahāturān // SBca_7.24 //	T04D3871:21a-14	ཆོ་ག་ཤིན་ཏུ་འཇམ་པོ་ཡིས་༎ ནད་ཆེན་དཔག་མེད་གསོ་བར་མཛད་༎
+T04bsa003_u:919	 ādau śākādidāne 'pi niyojayati nāyakaḥ /  tatkaroti kramātpaścādyatsvamāṃsānyapi tyajet // SBca_7.25 //  yadā śākeṣviva prajñā svamāṃse 'pyupajāyate /	T04D3871:21a-16	ཚོད་མ་ལ་སོགས་སྦྱིན་པ་ལའང་༎ འདྲེན་པས་ཐོག་མར་སྦྱོར་བར་མཛད་༎ དེ་ལ་གོམས་ནས་ཕྱི་ནས་ནི་༎ རིམ་གྱིས་རང་གི་ཤ་ཡང་གཏོང་༎ གང་ཚེ་རང་གི་ལུས་ལ་ནི་༎ ཚོད་སོགས་ལྟ་བུའི་བློ་སྐྱེས་པ་༎ དེ་ཚེ་ཤ་ལ་སོགས་གཏོང་བ་༎
+T04bsa003_u:92	 parigrahaṃ me kurutāgrasattvā yuṣmāsu dāsatvamupaimi bhaktyā // SBca_2.8 //	T04D3871:4a-13	སེམས་དཔའ་མཆོག་རྣམས་བདག་ནི་ཡོངས་བཞེས་ཤིག་། གུས་པས་ཁྱེད་ཀྱི་འབངས་སུ་མཆི་བར་བགྱི་༎
+T04bsa003_u:922	 māṃsāsthi tyajatastasya tadā kiṃ nāma duṣkaram // SBca_7.26 //	T04D3871:21a-23	དེ་ལ་དཀའ་བ་ཅི་ཞིག་ཡོད་༎
+T04bsa003_u:923	 na duḥkhī tyaktapāpatvātpaṇḍitatvānna durmanāḥ /  mithyākalpanayā citte pāpātkāye yato vyathā // SBca_7.27 //	T04D3871:21a-24	སྡིག་པ་སྤང་ཕྱིར་སྡུག་བསྔལ་མེད་༎ མཁས་པའི་ཕྱིར་ན་མི་དགའ་མེད་། འདི་ལྟར་ལོག་པར་རྟོག་པ་དང་༎ སྡིག་པས་སེམས་དང་ལུས་ལ་གནོད་༎
+T04bsa003_u:925	 puṇyena kāyaḥ sukhitaḥ pāṇḍityena manaḥ sukhi /	T04D3871:21a-27	བསོད་ནམས་ཀྱིས་ནི་ལུས་བདེ་ལ་༎ མཁས་པ་ཡིས་ནི་སེམས་བདེ་ན་༎
+T04bsa003_u:926	 tiṣṭhan parārthaṃ saṃsāre kṛpāluḥ kena khidyate // SBca_7.28 //	T04D3871:21a-29	གཞན་དོན་འཁོར་བར་གནས་ཀྱང་ནི་༎ སྙིང་རྗེ་ཅན་དག་ཅི་སྟེ་སྐྱོ་༎
+T04bsa003_u:927	 kṣapayan pūrvapāpāni pratīcchan puṇyasāgarān /  bodhicittabalādeva śrāvakebhyo 'pi śīghragaḥ // SBca_7.29 //	T04D3871:21a-31	འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས་༎ སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་༎ བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་ཕྱིར་༎
+T04bsa003_u:929	 evaṃ sukhātsukhaṃ gacchan ko viṣīdetsacetanaḥ /  bodhicittarathaṃ prāpya sarvakhedaśramāpaham // SBca_7.30 //	T04D3871:21a-34	ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད་༎ དེ་བས་སྐྱོ་ངལ་ཀུན་སེལ་བའི་༎ བྱང་ཆུབ་སེམས་ཀྱི་རྟ་ཞོན་ནས་༎ བདེ་ནས་བདེ་བར་འགྲོ་བ་ལ་༎ སེམས་ཤེས་སུ་ཞིག་སྒྱིད་ལུག་འགྱུར་༎
+T04bsa003_u:93	 parigraheṇāsmi bhavatkṛtena nirbhīrbhave sattvahitaṃ karomi /	T04D3871:4a-14	བདག་ནི་ཁྱེད་ཀྱིས་ཡོངས་སུ་བཟུང་བས་ན་༎ སྲིད་ན་མི་འཇིགས་སེམས་ཅན་ཕན་པ་བགྱིད་༎
+T04bsa003_u:931	 chandasthāmaratimuktibalaṃ sattvārthasiddhaye /	T04D3871:21a-39	སེམས་ཅན་དོན་གྲུབ་བྱ་ཕྱིར་དཔུང་༎
+T04bsa003_u:932	 chandaṃ duḥkhabhayātkuryādanuśaṃsāṃśca bhāvayan // SBca_7.31 //	T04D3871:21a-40	མོས་བརྟན་དགའ་དང་དོར་བ་ཡིན་༎ མོས་པ་སྡུག་བསྔལ་འཇིགས་པ་དང་༎ དེ་ཡི་ཕན་ཡོན་བསམ་པས་བསྐྱེད་༎
+T04bsa003_u:933	 evaṃ vipakṣamunmūlya yatetotsāhavṛddhaye /	T04D3871:21a-42	དེ་ལྟར་མི་མཐུན་ཕྱོགས་སྤངས་ཏེ་༎
+T04bsa003_u:934	 chandamānaratityāgatātparyavaśitābalaiḥ // SBca_7.32 //	T04D3871:21a-43	མོས་དང་ང་རྒྱལ་དགའ་དང་དོར་༎ ལྷུར་ལེན་དབང་བསྒྱུར་སྟོབས་༄༢༡བ་ཀྱིས་ནི་༎
+T04bsa003_u:935	 aprameyā mayā doṣā hantavyāḥ svaparātmanoḥ /	T04D3871:21b-2	བདག་དང་གཞན་གྱི་ཉེས་པ་ནི་༎ དཔག་མེད་བདག་གིས་གཞོམ་བྱ་སྟེ་༎
+T04bsa003_u:936	 ekaikasyāpi doṣasya yatra kalpārṇavaiḥ kṣayaḥ // SBca_7.33 //	T04D3871:21b-4	གང་དུ་ཉེས་པ་རེ་རེ་ལའང་༎ བསྐལ་པ་རྒྱ་མཚོ་ཟད་འགྱུར་བ་༎
+T04bsa003_u:937	 tatra doṣakṣayārambhe leśo 'pi mama nekṣyate /	T04D3871:21b-7	ཆ་ཡང་བདག་ལ་མ་མཐོང་ན་༎
+T04bsa003_u:938	 aprameyavyathābhājye noraḥ sphuṭati me katham // SBca_7.34 //	T04D3871:21b-8	སྡུག་བསྔལ་དཔག་ཏུ་མེད་པའི་གནས་༎ བདག་གོ་ཅི་ཕྱིར་སྙིང་མ་གས་༎
+T04bsa003_u:939	 guṇā mayārjanīyāśca bahavaḥ svaparātmanoḥ /	T04D3871:21b-10	བདག་དང་གཞན་གྱི་ཡོན་ཏན་ནི་༎ མང་པོ་བདག་གིས་བསྒྲུབ་བྱ་སྟེ་༎
+T04bsa003_u:94	 pūrvaṃ ca pāpaṃ samatikramāmi nānyacca pāpaṃ prakaromi bhūyaḥ // SBca_2.9 //	T04D3871:4a-16	སྔོན་གྱི་སྡིག་ལས་ཡང་དག་འདའ་བགྱིད་ཅིང་༎ སྡིག་པ་གཞན་ཡང་སླན་ཆད་མི་བགྱིད་དོ་༎
+T04bsa003_u:940	 tatraikaikaguṇābhyāso bhavetkalpārṇavairna vā // SBca_7.35 //	T04D3871:21b-12	དེ་ལ་ཡོན་ཏན་རེ་རེ་ཡང་༎ བསྐལ་པ་རྒྱ་མཚོས་གོམས་འགྱུར་ན་༎
+T04bsa003_u:941	 guṇaleśe 'pi nābhyāso mama jātaḥ kadācana /	T04D3871:21b-14	བདག་ནི་ཡོན་ཏན་ཆ་ལ་ཡང་༎ གོམས་པ་ནམ་ཡང་མ་སྐྱེས་ཏེ་༎
+T04bsa003_u:942	 vṛthā nītaṃ mayā janma kathaṃcillabdhamadbhutam // SBca_7.36 //	T04D3871:21b-16	ཇི་ཞིག་ལྟར་རྙེད་སྐྱེ་བ་ནི་༎ བདག་གིས་དོན་མེད་བྱས་པ་མཚར་༎
+T04bsa003_u:943	 na prāptaṃ bhagavatpūjāmahotsavasukhaṃ mayā /	T04D3871:21b-18	བདག་གིས་བཅོམ་ལྡན་མ་མཆོད་ཅིང་༎ དགའ་སྟོན་ཆེན་པོའི་བདེ་མ་བྱིན་༎
+T04bsa003_u:944	 na kṛtā śāsane kārā daridrāśā na pūritā // SBca_7.37 //	T04D3871:21b-20	བསྟན་ལ་བྱ་བ་མ་བྱས་དང་༎ དབུལ་པོའི་བསམ་པ་རྫོགས་མ་བྱས་༎
+T04bsa003_u:945	 bhītebhyo nābhayaṃ dattamārtā na sukhinaḥ kṛtāḥ /  duḥkhāya kevalaṃ māturgato 'smi garbhaśalyatām // SBca_7.38 //	T04D3871:21b-21	འཇིགས་ལ་མི་འཇིགས་མ་བྱིན་དང་༎ ཉམ་ཐག་བདེ་མ་བྱིན་ན་བདག་། མ་ཡི་མངལ་གྱི་ཟུག་རྔུ་དང་༎ སྡུག་བསྔལ་འབའ་ཞིག་བསྐྱེད་པར་ཟད་༎
+T04bsa003_u:947	 dharmacchandaviyogena paurvikeṇa mamādhunā /  vipattirīdṛśī jātā ko dharme chandamutsṛjet // SBca_7.39 //	T04D3871:21b-22	བདག་ནི་སྔོན་དང་ད་ལྟར་ཡང་༎ ཆོས་ལ་མོས་དང་བྲལ་བ་ཡིས་༎ ཕོངས་པ་འདི་འདྲ་བྱུང་བར་གྱུར་༎ སུ་ཞིག་ཆོས་ལ་མོས་པ་གཏོང་༎
+T04bsa003_u:949	 kuśalānāṃ ca sarveṣāṃ chandaṃ mūlaṃ munirjagau /	T04D3871:21b-26	དགེ་བའི་ཕྱོགས་ནི་ཐམས་ཅད་ཀྱི་༎
+T04bsa003_u:95	 ratnojjvalastambhamanorameṣu muktāmayodbhāsivitānakeṣu /  svacchojjvalasphāṭikakuṭṭimeṣu sugandhiṣu snānagṛheṣu teṣu // SBca_2.10 //	T04D3871:4a-18	ཁྲུས་ཀྱི་ཁང་པ་ཤིན་ཏུ་དྲི་ཞིམ་པ་༎ ཤེལ་གྱི་ས་གཞི་གསལ་ཞིང་འཚོར་བ་ལྟར་༎ རིན་ཆེན་འབར་བའི་ཀ་བ་ཡིད་འོང་ལྡན་༎ མུ་ཏིག་འོད་ཆགས་བླ་རེ་བྲེས་པ་དེར་༎
+T04bsa003_u:950	 tasyāpi mūlaṃ satataṃ vipākaphalabhāvanā // SBca_7.40 //	T04D3871:21b-28	དེ་ཡི་རྩ་བ་རྟག་ཏུ་ནི་༎ རྣམ་སྨིན་འབྲས་བུ་བསྒོམས་པས་སོ་༎
+T04bsa003_u:951	 duḥkhāni daurmanasyāni bhayāni vividhāni ca /  abhilāṣavighātāśca jāyante pāpakāriṇām // SBca_7.41 //	T04D3871:21b-30	སྡུག་བསྔལ་ཡིད་མི་བདེ་བ་དང་༎ འཇིགས་པ་རྣམ་པ་སྣ་ཚོགས་དང་༎ འདོད་པ་རྣམས་དང་བྲལ་བ་ནི་༎ སྡིག་པ་སྤྱོད་ལས་འབྱུང་བར་འགྱུར་༎
+T04bsa003_u:953	 manorathaḥ śubhakṛtāṃ yatra yatraiva gacchati /	T04D3871:21b-32	ཡིད་ལ་བསམས་པའི་དགེ་བྱས་པས་༎ གང་དང་གང་དུ་འགྲོ་འགྱུར་བ་༎
+T04bsa003_u:954	 tatra tatraiva tatpuṇyaiḥ phalārgheṇābhipūjyate // SBca_7.42 //	T04D3871:21b-35	འབྲས་བུའི་ཡོན་གྱིས་མངོན་མཆོད་འགྱུར་༎
+T04bsa003_u:955	 pāpakārisukhecchā tu yatra yatraiva gacchati /	T04D3871:21b-36	སྡིག་པ་བྱེད་པ་བདེ་འདོད་ཀྱང་༎ གང་དང་གང་དུ་འགྲོ་འགྱུར་བ་༎
+T04bsa003_u:956	 tatra tatraiva tatpāpairduḥkhaśastrairvihanyate // SBca_7.43 //	T04D3871:21b-39	སྡུག་བསྔལ་མཚོན་གྱིས་རྣམ་པར་འཇོམས་༎
+T04bsa003_u:957	 vipulasugandhiśītalasaroruhagarbhagatā  madhurajinasvarāśanakṛtopacitadyutayaḥ /  munikarabodhitāmbujavinirgatasadvapuṣaḥ	T04D3871:21b-40	རྒྱ་ཆེ་དྲི་བཟང་བསེལ་བའི་པདམའི་སྙིང་པོར་གནས་༎ རྒྱལ་བའི་གསུང་སྙན་ཟས་ཀྱིས་གཟི་བརྗིད་བསྐྱེད་བྱས་པ་། ཐུབ་འོད་ཀྱིས་རྒྱས་པདམ་ལས་བྱུང་ལུས་མཆོག་ཅན༎
+T04bsa003_u:960	 sugatasutā bhavanti sugatasya puraḥ kuśalaiḥ // SBca_7.44 //	T04D3871:22a-0	༄༢༢ཨ་༌་༎ རྒྱལ་བའི་མདུན་གནས་བདེ་གཤེགས་སྲས་སུ་དགེ་བས་འགྱུར་༎ གཤིན་རྗེའི་སྐྱེས་བུས་པགས་པ་མ་ལུས་བཤུས་པས་ཤིན་ཏུ་ཉམ་ཐག་ཅིང་༎
+T04bsa003_u:961	 yamapuruṣāpanītasakalacchavirārtaravo  hutavahatāpavidrutakatāmraniṣiktatanuḥ /  jvaladasiśaktighātaśataśātitamāṃsadalaḥ  patati sutaptalohadharaṇīṣvaśubhairbahuśaḥ // SBca_7.45 //	T04D3871:22a-2	རབ་ཏུ་ཚ་བའི་མེ་ཡིས་བཞུས་བའི་ཟངས་ཞུན་ལུས་ལ་བླུགས་གྱུར་ལ་༎ འབར་བའི་རལ་གྲི་མདུང་ཐུང་གིས་བསྣུན་ཤ་ཡི་དུམ་བུ་བརྒྱར་ལྷགས་ཤིང་༎ ཤིན་ཏུ་འབར་བའི་ལྕགས་ཀྱི་ས་གཞིར་ལྷུང་བ་མི་དགེ་མང་པོས་འགྱུར་༎
+T04bsa003_u:965	 tasmātkāryaḥ śubhacchando bhāvayitvaivamādarāt /	T04D3871:22a-5	དེ་བས་དགེ་ལ་མོས་བྱ་ཞིང་༎ གུས་པ་ཉིད་དུ་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:966	 vajradhvajasthavidhinā mānaṃ tvārabhya bhāvayet // SBca_7.46 //	T04D3871:22a-7	རྡོ་རྗེ་རྒྱལ་མཚན་ཆོ་ག་ཡིས་༎ བརྩམས་ནས་ང་རྒྱལ་བསྒོམ་པར་བྱ་༎
+T04bsa003_u:967	 pūrvaṃ nirūpya sāmagrīmārabhennārabheta vā /	T04D3871:22a-9	དང་པོར་འབྱོར་པ་བརྟགས་ནས་ནི་༎ བརྩམ་མམ་ཡང་ན་མི་བརྩམ་བྱ་༎
+T04bsa003_u:968	 anārambho varaṃ nāma na tvārabhya nivartanam // SBca_7.47 //	T04D3871:22a-11	མ་བརྩམས་པ་ནི་མཆོག་ཡིན་གྱི་༎ བརྩམས་ནས་ལྡོག་པར་མི་བྱའོ་༎
+T04bsa003_u:969	 janmāntare 'pi so 'bhyāsaḥ pāpādduḥkhaṃ ca vardhate /	T04D3871:22a-13	སྐྱེ་བ་གཞན་དུ་དེ་གོམས་ཤིང་༎ སྡིག་དང་སྡུག་བསྔལ་འཕེལ་བར་འགྱུར་༎
+T04bsa003_u:97	 manojñagandhodakapuṣpapūrṇaiḥ kumbhairmahāratnamayairanekaiḥ /  snānaṃ karomyeṣa tathāgatānāṃ tadātmajānāṃ ca sagītivādyam // SBca_2.11 //	T04D3871:4a-22	དེ་བཞིན་གཤེགས་དང་དེ་ཡི་སྲས་རྣམས་ལ་༎ རིན་ཆེན་བུམ་པ་མང་པོ་སྤོས་ཀྱི་ཆུ་༎ ཡིད་འོང་ལེགས་པར་བཀང་བ་གླུ་དང་ནི་༎
+T04bsa003_u:970	 anyacca kāryakālaṃ ca hīnaṃ tacca na sādhitam // SBca_7.48 //	T04D3871:22a-15	གཞན་དང་འབྲས་བུའི་དུས་ཀྱང་ནི་༎
+T04bsa003_u:99	 pradhūpitairghautamalairatulyair vastraiśca teṣāṃ tanumunmṛṣāmi /	T04D3871:4a-25	རོལ་མོར་བཅས་པ་དུ་མས་སྐུ་ཁྲུས་གསོལ་༎ དེ་དག་སྐུ་ལ་མཚུངས་པ་མེད་པའི་གོས་༎ གཙང་ལ་དྲི་རབ་བསྒོས་པས་སྐུ་ཕྱིའོ་༎

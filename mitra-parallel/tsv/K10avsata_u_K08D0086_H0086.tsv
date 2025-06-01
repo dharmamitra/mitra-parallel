@@ -1,0 +1,17 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K10avsata_u:10562	 yadutāsmin satīdaṃ bhavati,  asyotpādād idam utpadyate /	K08D0086_H0086:210a-7	འདི་ཡོད་པའི་ཕྱིར་འདི་འབྱུང་། འདི་སྐྱེས་པས་འདི་སྐྱེ་བ་སྟེ་།
+K10avsata_u:10564	 yaduta avidyāpratyayāḥ saṃskārāḥ /	K08D0086_H0086:210a-9	འདི་ལྟ་སྟེ་། མ་རིག་པའི་རྐྱེན་གྱིས་འདུ་བྱེད་རྣམས་།
+K10avsata_u:10565	 saṃskārapratyayaṃ vijñānam* /  vijñānapratyayaṃ nāmarūpam* /	K08D0086_H0086:210a-11	འདུ་བྱེད་ཀྱི་རྐྱེན་གྱིས་རྣམ་པར་ཤེས་པ་། རྣམ་པར་ཤེས་པའི་རྐྱེན་གྱིས་མིང་དང་གཟུགས་། མིང་དང་གཟུགས་ཀྱི་རྐྱེན་གྱིས་སྐྱེ་མཆེད་དྲུག༏་སྐྱེ་མཆེད་དྲུག་གི་རྐྱེན་གྱིས་རེག་པ་། རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་། ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ་།
+K10avsata_u:10571	 tṛṣṇāpratyayam upādānam* /  upādānapratyayo bhavaḥ /	K08D0086_H0086:210a-16	སྲེད་པའི་རྐྱེན་གྱིས་ལེན་པ་། ལེན་པའི་རྐྱེན་གྱིས་སྲིད་པ་།
+K10avsata_u:10573	 bhavapratyayā jātiḥ /  jātipratyayā jarāmaraṇaśokaparidevaduḥkhadaurmanasyopāyāsāḥ saṃbhavanti /	K08D0086_H0086:210a-18	སྲིད་པའི་རྐྱེན་གྱིས་སྐྱེ་བ༏་སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་རྣམས་འབྱུང་བར་འགྱུར་ཏེ་།
+K10avsata_u:10575	 evam asya kevalasya mahato duḥkhaskandhasya samudayo bhavati /	K08D0086_H0086:210a-19	དེ་ལྟར་ན་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཞིག་པོ་འདི་འབྱུང་བར་འགྱུར་རོ་༎
+K10avsata_u:10576	 yaduta asminn asatīdaṃ na bhavati,	K08D0086_H0086:210a-20	འདི་མེད་པའི་ཕྱིར་འདི་མི་འབྱུང་།
+K10avsata_u:10577	 asya nirodhād idaṃ nirudhyate /	K08D0086_H0086:210a-21	འདི་འགགས་པས་འདི་འགག་སྟེ་།
+K10avsata_u:10578	 yaduta avidyānirodhāt saṃskāranirodhaḥ	K08D0086_H0086:210a-22	འདི་ལྟ་སྟེ་། མ་རིག་པ་འགགས་པས་འདུ་བྱེད་༄༢༡༠བ་འགག་།
+K10avsata_u:10580	 / saṃskāranirodhād vijñānanirodhaḥ /	K08D0086_H0086:210b-1	འདུ་བྱེད་འགགས་པས་རྣམ་པར་ཤེས་པ་འགག་།
+K10avsata_u:10581	 vijñānanirodhān nāmarūpanirodhaḥ /	K08D0086_H0086:210b-2	རྣམ་པར་ཤེས་པ་འགགས་པས་མིང་དང་གཟུགས་འགག་།
+K10avsata_u:10582	 nāmarūpanirodhāt ṣaḍāyatananirodhaḥ /	K08D0086_H0086:210b-3	མིང་དང་གཟུགས་འགགས་པས་སྐྱེ་མཆེད་དྲུག་འགག་།
+K10avsata_u:10583	 ṣaḍāyatananirodhāt sparśanirodhaḥ /	K08D0086_H0086:210b-4	སྐྱེ་མཆེད་དྲུག་འགགས་པས་རེག་པ་འགག་།
+K10avsata_u:10584	 sparśanirodhād vedanānirodhaḥ /	K08D0086_H0086:210b-5	རེག་པ་འགགས་པས་ཚོར་བ་འགག་།
+K10avsata_u:10585	 vedanānirodhāt tṛṣṇānirodhaḥ /  tṛṣṇānirodhād upādānanirodhaḥ /	K08D0086_H0086:210b-6	ཚོར་བ་འགགས་པས་སྲེད་པ་འགག་། སྲེད་པ་འགགས་པས་ལེན་པ་འགག་།
+K10avsata_u:10587	 upādānanirodhād bhavanirodhaḥ /	K08D0086_H0086:210b-8	ལེན་པ་འགགས་པས་སྲིད་པ་འགག་།

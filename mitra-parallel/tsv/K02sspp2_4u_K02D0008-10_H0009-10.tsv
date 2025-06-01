@@ -1,0 +1,527 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K02sspp2_4u:441	 abhidhyāvairamaṇyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:496b-10	ཚིག་བཀྱལ་པ་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་།
+K02sspp2_4u:442	 ye cānye 'bhidhyāyāḥ prativiratā bhaviṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:496b-11	གཞན་གང་གིས་ཚིག་བཀྱལ་པ་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:444	 ātmanā ca vyāpādāt prativirato bhaviṣyati,	K02D0008-10_H0009-10:496b-12	བདག་གིས་ཀྱང་ཆགས་སེམས་སྤངས་པ་ཡིན་།
+K02sspp2_4u:445	 parāṃś ca vyāpādavairamaṇyāṃ samādāpayati,	K02D0008-10_H0009-10:496b-13	གཞན་ཡང་ཆགས་སེམས་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་།
+K02sspp2_4u:446	 vyāpādavairamaṇyāś ca varṇaṃ bhāṣiṣyate,  ye cānye vyāpādāt prativiratā bhaviṣyanti,	K02D0008-10_H0009-10:496b-14	ཆགས་སེམས་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་། གཞན་གང་གིས་ཆགས་སེམས་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:449	 ātmanā ca mithyādṛṣṭeḥ prativirato bhaviṣyati,	K02D0008-10_H0009-10:496b-16	བདག་གིས་ཀྱང་གནོད་སེམས་སྤངས་པ་ཡིན་།
+K02sspp2_4u:2124	 śūnyatāśūnyatāyāṃ carati,  mahāśūnyatāyāṃ carati,  paramārthaśūnyatāyāṃ carati,  saṃskṛtaśūnyatāyāṃ carati,  asaṃskṛtaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:424b-5	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཆེན་པོ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དོན་དམ་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། འདུས་བྱས་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:2129	 atyantaśūnyatāyāṃ carati,  anavarāgraśūnyatāyāṃ carati,  prakṛtiśūnyatāyāṃ carati,	K02D0008-10_H0009-10:424b-6	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་༎ ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། རང་བཞིན་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:2133	 sarvadharmaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:424b-7	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། མི་དམིགས་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ལ་སྤྱོད་པ་དང་། ཡང་དག་པར་སྤོང་བ་རྣམས་ལ་སྤྱོད་པ་དང་། རྫུ་འཕྲུལ་གྱི་རྐང་༄༤༢༥ཨ་༌༎ པ་རྣམས་ལ་སྤྱོད་པ་དང་། དབང་པོ་རྣམས་ལ་སྤྱོད་པ་དང་། སྟོབས་རྣམས་ལ་སྤྱོད་པ་དང་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ལ་སྤྱོད་པ་དང་༎ འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ལ་སྤྱོད་པ་དང་། འཕགས་པའི་བདེན་པ་རྣམས་ལ་སྤྱོད་པ་དང་། བསམ་གཏན་རྣམས་ལ་སྤྱོད་པ་དང་། ཚད་མེད་པ་རྣམས་ལ་སྤྱོད་པ་དང་། གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་ལ་སྤྱོད་པ་དང་། རྣམ་པར་ཐར་པ་རྣམས་ལ་སྤྱོད་པ་དང་། མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:2134	 svalakṣaṇaśūnyatāyāṃ carati,  anupalambhaśūnyatāyāṃ carati,  abhāvaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:425a-3	རྣམ་པར་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་ལ་སྤྱོད་པ་དང་། མངོན་པར་ཤེས་པ་རྣམས་ལ་སྤྱོད་པ་དང་། ཏིང་ངེ་འཛིན་རྣམས་ལ་སྤྱོད་པ་དང་། གཟུངས་ཀྱི་སྒོ་རྣམས་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:2138	 abhāvasvabhāvaśūnyatāyāṃ carati.	K02D0008-10_H0009-10:425b-2	བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། ནང་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཕྱི་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཕྱི་ནང་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཆེན་པོ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དོན་དམ་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། འདུས་བྱས་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། རང་བཞིན་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། མི་དམིགས་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ལ་སྤྱོད་པ་དང་། ཡང་དག་པར་སྤོང་བ་རྣམས་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:4020	 adhyātmaśūnyatāṃ paripūrayiṣyati,  bahirdhāśūnyatāṃ paripūrayiṣyati,  adhyātmabahirdhāśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-1	ནང་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ ཕྱི་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ ཕྱི་ནང་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4023	 śūnyatāśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-4	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4024	 mahāśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-5	ཆེན་པོ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4025	 paramārthaśūnyatāṃ paripūrayiṣyati,  saṃskṛtaśūnyatāṃ paripūrayiṣyati,  asaṃskṛtaśūnyatāṃ paripūrayiṣyati, (ŚsP_II-4_114)	K02D0008-10_H0009-10:408b-6	དོན་དམ་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ འདུས་བྱས་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ འདུས་མ་བྱས་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4028	 atyantaśūnyatāṃ paripūrayiṣyati,  anavarāgraśūnyatāṃ paripūrayiṣyati,  anavakāraśūnyatāṃ paripūrayiṣyati,  prakṛtiśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-10	ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ རང་བཞིན་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4032	 sarvadharmaśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-13	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4033	 svalakṣaṇaśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-14	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4034	 anupalambhaśūnyatāṃ paripūrayiṣyati,  abhāvaśūnyatāṃ paripūrayiṣyati,	K02D0008-10_H0009-10:408b-15	མི་དམིགས་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4036	 svabhāvaśūnyatāṃ paripūrayiṣyati,  abhāvasvabhāvaśūnyatāṃ paripūrayiṣyati.	K02D0008-10_H0009-10:408b-17	ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4038	 catvāri smṛtyupasthānāni paripūrayiṣyati,	K02D0008-10_H0009-10:408b-19	དྲན་པ་ཉེ་བར་བཞག་པ་བཞི་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4039	 catvāri samyakprahāṇāni paripūrayiṣyati,	K02D0008-10_H0009-10:408b-20	ཡང་དག་པར་སྤོང་བ་བཞི་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4040	 catura ṛddhipādān paripūrayiṣyati,	K02D0008-10_H0009-10:409a-0	རྫུ་འཕྲུལ་༄༤༠༩ཨ་༌༎ གྱི་རྐང་པ་བཞི་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:4041	 pañcendriyāṇi paripūrayiṣyati,	K02D0008-10_H0009-10:409a-2	དབང་པོ་ལྔ་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎ སྟོབས་ལྔ་ཡོངས་སུ་རྫོགས་པར་བྱེད་པའོ་༎
+K02sspp2_4u:409	 ātmanā ca praṇātipātāt prativirato bhaviṣyati,	K02D0008-10_H0009-10:496a-1	གིས་ཀྱང་སྲོག་གཅོད་པ་སྤངས་པ་ཡིན་།
+K02sspp2_4u:410	 parāṃś ca prāṇātipātavairamaṇyāṃ samādāpayati,  prāṇātipātavairamaṇyāś ca varṇaṃ bhāṣiṣyate,  ye cānye prāṇātipātāt prativiratā bhaviṣyanti,	K02D0008-10_H0009-10:496a-2	གཞན་ཡང་སྲོག་གཅོད་པ་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་། སྲོག་གཅོད་པ་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་། གཞན་གང་གིས་སྲོག་གཅོད་པ་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:414	 ātmanā cādattādānāt prativirato bhaviṣyati,	K02D0008-10_H0009-10:496a-5	བདག་གིས་ཀྱང་མ་བྱིན་པར་ལེན་པ་སྤངས་པ་ཡིན་།
+K02sspp2_4u:378	 samyakprahāṇair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:202a-7	ཡང་དག་པར་སྤོང་བ་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:379	 ṛddhipādair vivardhiṣyate na parihāsyate 'nupalambhayogena,  indriyair vivardhiṣyate na parihāsyate 'nupalambhayogena,  balair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:202a-9	རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎ དབང་པོ་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ༏་༏སྟོབས་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎
+K02sspp2_4u:382	 bodhyaṅgair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:202a-14	བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:383	 āryāṣṭāṅgena mārgena vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:202a-16	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:384	 āryasatyair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:202a-18	འཕགས་པའི་བདེན་པ་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:379	 ṛddhipādair vivardhiṣyate na parihāsyate 'nupalambhayogena,  indriyair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192b-17	རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་། དབང་པོ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:381	 balair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192b-20	བཅོམ་ལྡན་འདས་། སྟོབས་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:382	 bodhyaṅgair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192b-22	བཅོམ་ལྡན་འདས་། ༄༡༩༣ཨ་༌༎ བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:383	 āryāṣṭāṅgena mārgena vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-2	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པའང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:384	 āryasatyair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-4	འཕགས་པའི་བདེན་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་བ་མ་མཆིས་པར་འགྱུར་རོ༏་༏བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:385	 dhyānair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-5	བསམ་གཏན་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:386	 apramāṇair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-7	ཚད་མེད་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:387	 ārūpyasamāpattibhir vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-9	གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:388	 vimokṣair vivardhiṣyate (ŚsP_II-4_10)	K02D0008-10_H0009-10:193a-11	རྣམ་པར་ཐར་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:390	 anupūrvavihārasamāpattibhir vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-13	མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:391	 śūnyatānimittāpraṇihitavimokṣamukhair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193a-14	བཅོམ་ལྡན་འདས་། རྣམ་པར་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང༏་སྨོན་པ་མེད་པའང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:393	 samādhibhir vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193b-2	ཏིང་ངེ་འཛིན་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:392	 abhijñābhir vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193b-0	མངོན་པར་ཤེས་པ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་༄༡༩༣བ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2579	 kathaṃ śrotrasaṃsparśasyādvayayogena, (ŚsP_II-4_70)  kathaṃ ghrāṇasaṃsparśasyādvayayogena,  kathaṃ jihvāsaṃsparśasyādvayayogena,	K02D0008-10_H0009-10:163a-23	ཇི་ལྟར་ན་རྣ་བའི་འདུས་ཏེ་རེག་པ་ཟབ་། ཇི་ལྟར་ན་སྣའི་འདུས་ཏེ་རེག་པ་ཟབ་། ཇི་ལྟར་ན་ལྕེའི་འདུས་ཏེ་རེག་པ་ཟབ་།
+K02sspp2_4u:394	 dhāraṇīmukhair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:193b-4	གཟུངས་ཀྱི་སྒོ་རྣམས་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2582	 kathaṃ kāyasaṃsparśasyādvayayogena,	K02D0008-10_H0009-10:163a-26	ཇི་ལྟར་ན་ལུས་ཀྱི་འདུས་ཏེ་རེག་པ་ཟབ་།
+K02sspp2_4u:2583	 kathaṃ manaḥsaṃsparśasyādvayayogena?	K02D0008-10_H0009-10:163a-27	ཇི་ལྟར་ན་ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་ཟབ་།
+K02sspp2_4u:2584	 kathaṃ cakṣuḥsaṃsparśapratyayavedanāyā advayayogena,  kathaṃ śrotrasaṃsparśapratyayavedanāyā advayayogena,  kathaṃ ghrāṇasaṃsparśapratyayavedanāyā advayayogena,  kathaṃ jihvāsaṃsparśapratyayavedanāyā advayayogena,	K02D0008-10_H0009-10:163a-28	ཇི་ལྟར་ན་མིག་གི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཟབ༏་ཇི་ལྟར་ན་རྣ་བའི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཟབ་། ཇི་ལྟར་ན་སྣའི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཟབ་། ཇི་ལྟར་ན་ལྕེའི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཟབ་།
+K02sspp2_4u:415	 parāṃś cādattādānavairamaṇyāṃ samādāpayiṣyati. adattādānavairamaṇyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:496a-6	གཞན་ཡང་མ་བྱིན་པར་ལེན་པ་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་། མ་བྱིན་པར་ལེན་པ་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་།
+K02sspp2_4u:416	 ye cānye 'dattādānāt prativiratā bhaviṣyanti,	K02D0008-10_H0009-10:496a-8	གཞན་གང་གིས་མ་བྱིན་པར་ལེན་པ་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:2588	 kathaṃ kāyasaṃsparśapratyayavedanāyā advayayogena,	K02D0008-10_H0009-10:163a-31	ཇི་ལྟར་ན་ལུས་ཀྱི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཟབ་།
+K02sspp2_4u:2589	 kathaṃ manaḥsaṃsparśapratyayavedanāyā advayayogena?	K02D0008-10_H0009-10:163a-32	ཇི་ལྟར་ན་ཡིད་ཀྱི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཟབ་།
+K02sspp2_4u:2590	 kathaṃ pṛthivīdhātor advayayogena,	K02D0008-10_H0009-10:163a-33	ཇི་ལྟར་ན་སའི་ཁམས་ཟབ་། ཇི་ལྟར་ན་ཆུའི་ཁམས་ཟབ་།
+K02sspp2_4u:2591	 katham abdhātor advayayogena,  kathaṃ tejodhātor advayayogena,  kathaṃ vāyudhātor advayayogena,  katham ākāśadhātor advayayogena,	K02D0008-10_H0009-10:163b-0	ཇི་ལྟར་ན་༄༡༦༣བ་མེའི་ཁམས་ཟབ་། ཇི་ལྟར་ན་རླུང་གི་ཁམས་ཟབ་། ཇི་ལྟར་ན་ནམ་མཁའི་ཁམས་ཟབ་།
+K02sspp2_4u:2595	 kathaṃ vijñānadhātor advayayogena?  katham avidyāyā advayayogena,	K02D0008-10_H0009-10:163b-3	ཇི་ལྟར་ན་རྣམ་པར་ཤེས་པའི་ཁམས་ཟབ་། ཇི་ལྟར་ན་མ་རིག་པ་ཟབ་།
+K02sspp2_4u:2597	 kathaṃ saṃskārāṇām advayayogena,	K02D0008-10_H0009-10:163b-5	ཇི་ལྟར་ན་འདུ་བྱེད་ཟབ་།
+K02sspp2_4u:2599	 kathaṃ nāmarūpasyādvayayogena,	K02D0008-10_H0009-10:163b-7	ཇི་ལྟར་ན་མིང་དང་གཟུགས་ཟབ་།
+K02sspp2_4u:2600	 kathaṃ ṣaḍāyatanasyādvayayogena,	K02D0008-10_H0009-10:163b-8	ཇི་ལྟར་ན་སྐྱེ་མཆེད་དྲུག་ཟབ་།
+K02sspp2_4u:2601	 kathaṃ sparśasyādvayayogena,	K02D0008-10_H0009-10:163b-9	ཇི་ལྟར་ན་རེག་པ་ཟབ་།
+K02sspp2_4u:2602	 kathaṃ vedanāyā advayayogena,	K02D0008-10_H0009-10:163b-10	ཇི་ལྟར་ན་ཚོར་བ་ཟབ་།
+K02sspp2_4u:2603	 kathaṃ tṛṣṇāyā advayayogena,  katham upādānasyādvayayogena,	K02D0008-10_H0009-10:163b-11	ཇི་ལྟར་ན་སྲེད་པ་ཟབ་། ཇི་ལྟར་ན་ལེན་པ་ཟབ་།
+K02sspp2_4u:2605	 kathaṃ bhavasyādvayayogena,  kathaṃ jāter advayayogena,  kathaṃ jarāmaraṇasyādvayayogena?	K02D0008-10_H0009-10:163b-13	ཇི་ལྟར་ན་སྲིད་པ་ཟབ་། ཇི་ལྟར་ན་སྐྱེ་བ་ཟབ་། ཇི་ལྟར་ན་རྒ་ཤི་ཟབ་།
+K02sspp2_4u:2608	 kathaṃ dānapāramitāyā advayayogena,	K02D0008-10_H0009-10:163b-16	ཇི་ལྟར་ན་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་།
+K02sspp2_4u:2610	 kathaṃ kṣāntipāramitāyā advayayogena,  kathaṃ vīryapāramitāyā advayayogena,  kathaṃ dhyānapāramitāyā advayayogena,	K02D0008-10_H0009-10:163b-18	ཇི་ལྟར་ན་བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་། ཇི་ལྟར་ན་བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་། ཇི་ལྟར་ན་བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་།
+K02sspp2_4u:2609	 kathaṃ śīlapāramitāyā advayayogena,	K02D0008-10_H0009-10:163b-17	ཇི་ལྟར་ན་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་།
+K02sspp2_4u:2617	 kathaṃ śūnyatāśūnyatāyā advayayogena,  kathaṃ mahāśūnyatāyā advayayogena,	K02D0008-10_H0009-10:163b-25	ཇི་ལྟར་ན་སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ཟབ་། ཇི་ལྟར་ན་ཆེན་པོ་སྟོང་པ་ཉིད་ཟབ་།
+K02sspp2_4u:2614	 katham adhyātmaśūnyatāyā advayayogena,  kathaṃ bahirdhāśūnyatāyā advayayogena,  katham adhyātmabahirdhāśūnyatāyā advayayogena,	K02D0008-10_H0009-10:163b-22	ཇི་ལྟར་ན་ནང་སྟོང་པ་ཉིད་ཟབ་། ཇི་ལྟར་ན་ཕྱི་སྟོང་པ་ཉིད་ཟབ་། ཇི་ལྟར་ན་ཕྱི་ནང་སྟོང་པ་ཉིད་ཟབ་།
+K02sspp2_4u:2643	 katham ārūpyasamāpattīnām advayayogena,	K02D0008-10_H0009-10:283a-11	ཅི་ལགས་། གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་བཞི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་།
+K02sspp2_4u:2619	 kathaṃ paramārthaśūnyatāyā advayayogena,  kathaṃ saṃskṛtaśūnyatāyā advayayogena,  katham asaṃskṛtaśūnyatāyā advayayogena,  katham atyantaśūnyatāyā advayayogena,  katham anavarāgraśūnyatāyā advayayogena,	K02D0008-10_H0009-10:163b-27	ཇི་ལྟར་ན་དོན་དམ་པ་སྟོང་པ་ཉིད་ཟབ་། ཇི་ལྟར་ན་འདུས་བྱས་སྟོང་པ་ཉིད་ཟབ་། ཇི་ལྟར་ན་འདུས་མ་བྱས་སྟོང་པ་ཉིད་ཟབ་།
+K02sspp2_4u:2644	 katham aṣṭānāṃ vimokṣām advayayogena,	K02D0008-10_H0009-10:283a-12	བཅོམ་ལྡན་འདས་། ཅི་ལགས་། རྣམ་པར་ཐར་པ་བརྒྱད་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2646	 kathaṃ śūnyatānimittāpraṇihitavimokṣamukhānām advayayogena,	K02D0008-10_H0009-10:283a-16	ཅི་ལགས་། རྣམ་པར་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2647	 katham abhijñānām advayayogena,	K02D0008-10_H0009-10:283a-18	ཅི་ལགས་། མངོན་པར་ཤེས་པ་རྣམས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་།
+K02sspp2_4u:2648	 kathaṃ samādhīnām advayayogena,  kathaṃ dhāraṇīmukhānām advayayogena,	K02D0008-10_H0009-10:283a-19	བཅོམ་ལྡན་འདས་། ཅི་ལགས་། ཏིང་ངེ་འཛིན་རྣམས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་༄༢༨༣བ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་། ཅི་ལགས་། གཟུངས་ཀྱི་སྒོ་རྣམས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2650	 kathaṃ daśānāṃ tathāgatabalānām advayayogena,	K02D0008-10_H0009-10:283b-4	ཅི་ལགས་། དེ་བཞིན་གཤེགས་པའི་སྟོབས་བཅུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་།
+K02sspp2_4u:2651	 kathaṃ caturṇāṃ vaiśāradyānām advayayogena,	K02D0008-10_H0009-10:283b-5	བཅོམ་ལྡན་འདས་། ཅི་ལགས་། མི་འཇིགས་པ་བཞི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2652	 kathaṃ catasṛṇāṃ pratisaṃvidām advayayogena,	K02D0008-10_H0009-10:283b-8	ཅི་ལགས་། སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་།
+K02sspp2_4u:2653	 kathaṃ mahāmaitryā advayayogena,  kathaṃ mahākaruṇāyā advayayogena,	K02D0008-10_H0009-10:283b-9	བཅོམ་ལྡན་འདས་། ཅི་ལགས་། སྙིང་རྗེ་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2655	 katham aṣṭādaśānām āveṇikabuddhadharmāṇām advayayogena,	K02D0008-10_H0009-10:283b-12	ཅི་ལགས་། སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅོ་བརྒྱད་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་།
+K02sspp2_4u:2656	 kathaṃ srotaāpattiphalasyādvayayogena,  kathaṃ sakṛdāgāmiphalasyādvayayogena,	K02D0008-10_H0009-10:283b-13	བཅོམ་ལྡན་འདས་། ཅི་ལགས་། རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་། ཅི་ལགས་། ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་། བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:2658	 katham anāgāmiphalasyādvayayogena,	K02D0008-10_H0009-10:283b-18	ཅི་ལགས་། ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དམ་།
+K02sspp2_4u:2736	 pṛthivīdhātuḥ pṛthivīdhātunā śūnyaḥ. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-8	སའི་ཁམས་ནི་སའི་ཁམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2740	 tejodhātuḥ tejodhātunā śūnyaḥ. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-10	མེའི་ཁམས་ནི་མེའི་ཁམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2737	 tathā hi pṛthivīdhātuś ca pāramitā cādvayam etad advaidhīkāraṃ,  abdhātur abdhātunā śūnyaḥ. tat kasya hetoḥ?  tathā hy abdhātuś ca pāramitā cādvayam etad advaidhīkāraṃ,	K02D0008-10_H0009-10:318b-9	ཆུའི་ཁམས་ནི་ཆུའི་ཁམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2741	 tathā hi tejodhātuś ca pāramitā cādvayam etad advaidhīkāraṃ,  vāyudhātur vāyudhātunā śūnyaḥ. tat kasya hetoḥ?  tathā hi vāyudhātuś ca pāramitā cādvayam etad advaidhīkāraṃ,  ākāśadhātur ākāśadhātunā śūnyaḥ. tat kasya hetoḥ?  tathā hy ākāśadhātuś ca pāramitā cādvayam etad advaidhīkāraṃ,	K02D0008-10_H0009-10:318b-11	རླུང་གི་ཁམས་ནི་རླུང་གི་ཁམས་ཀྱིས་སྟོང་། ནམ་མཁའི་ཁམས་ནི་ནམ་མཁའི་ཁམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2746	 vijñānadhātur vijñānadhātunā śūnyaḥ. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-13	རྣམ་པར་ཤེས་པའི་ཁམས་ནི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2747	 tathā hi vijñānadhātuś ca pāramitā cādvayam etad advaidhīkāram.  avidyā avidyayā śūnyā. tat kasya hetoḥ?  tathā hy avidyā ca pāramitā cādvayam etad advaidhīkāraṃ,	K02D0008-10_H0009-10:318b-14	མ་རིག་པ་ནི་མ་རིག་པས་སྟོང་།
+K02sspp2_4u:2750	 saṃskārāḥ saṃskāraiḥ śūnyāḥ. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-15	འདུ་བྱེད་ནི་འདུ་བྱེད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2752	 vijñānaṃ vijñānena śūnyam. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-16	རྣམ་པར་ཤེས་པ་ནི་རྣམ་པར་ཤེས་པས་སྟོང་།
+K02sspp2_4u:2753	 tathā hi vijñānaṃ ca pāramitā cādvayam etad advaidhīkāraṃ,  nāmarūpaṃ nāmarūpeṇa śūnyam. tat kasya hetoḥ?  tathā hi nāmarūpaṃ ca pāramitā cādvayam etad advaidhīkāraṃ,	K02D0008-10_H0009-10:318b-17	མིང་དང་གཟུགས་ནི་མིང་དང་གཟུགས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2756	 ṣaḍāyatanaṃ ṣaḍāyatanena śūnyam. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-18	སྐྱེ་མཆེད་དྲུག་ནི་སྐྱེ་མཆེད་དྲུག་གིས་སྟོང་།
+K02sspp2_4u:2757	 tathā hi ṣaḍāyatanaṃ ca pāramitā cādvayam etad advaidhīkāraṃ,  sparśaḥ sparśena śūnyaḥ. tat kasya hetoḥ?  tathā hi sparśaś ca pāramitā cādvayam etad advaidhīkāraṃ,	K02D0008-10_H0009-10:318b-19	རེག་པ་ནི་རེག་པས་སྟོང་།
+K02sspp2_4u:2760	 vedanā vedanayā śūnyā. tat kasya hetoḥ?	K02D0008-10_H0009-10:318b-20	ཚོར་བ་ནི་ཚོར་བས་སྟོང་།
+K02sspp2_4u:2889	 śūnyatāśūnyatā virohati,	K02D0008-10_H0009-10:319a-12	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ནི་སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2890	 mahāśūnyatā virohati,  paramārthaśūnyatā virohati,	K02D0008-10_H0009-10:319a-13	ཆེན་པོ་སྟོང་པ་ཉིད་ནི་ཆེན་པོ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། དོན་དམ་པ་སྟོང་པ་ཉིད་ནི་དོན་དམ་པ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2892	 saṃskṛtaśūnyatā virohati,  asaṃskṛtaśūnyatā virohati,  atyantaśūnyatā virohati,  anavarāgraśūnyatā virohati,	K02D0008-10_H0009-10:319a-15	འདུས་བྱས་སྟོང་པ་ཉིད་ནི་འདུས་བྱས་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་ནི་འདུས་མ་བྱས་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2896	 anavakāraśūnyatā virohati,	K02D0008-10_H0009-10:319a-17	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ནི་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ནི་ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ནི་དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2897	 prakṛtiśūnyatā virohati,  sarvadharmaśūnyatā virohati,  svalakṣaṇaśūnyatā virohati,	K02D0008-10_H0009-10:319b-0	རང་བཞིན་སྟོང་པ་ཉིད་ནི་རང་བཞིན་སྟོང་པ་ཉིད་ཀྱིས་༄༣༡༩བ་སྟོང༏་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ནི་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ནི་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2900	 anupalambhaśūnyatā virohati,  abhāvaśūnyatā virohati,	K02D0008-10_H0009-10:319b-2	མི་དམིགས་པ་སྟོང་པ་ཉིད་ནི་མི་དམིགས་པ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ནི་དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2902	 svabhāvaśūnyatā virohati,  abhāvasvabhāvaśūnyatā virohati.	K02D0008-10_H0009-10:319b-4	ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ནི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ནི་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ཀྱིས་སྟོང་།
+K02sspp2_4u:2904	 smṛtyupasthānāni virohanti,	K02D0008-10_H0009-10:319b-6	དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ནི་དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2905	 samyakprahāṇāni virohanti,	K02D0008-10_H0009-10:319b-7	ཡང་དག་པར་སྤོང་བ་རྣམས་ནི་ཡང་དག་པར་སྤོང་བ་རྣམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2906	 ṛddhipādā virohanti,  indriyāṇi virohanti,	K02D0008-10_H0009-10:319b-8	རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་ནི་རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་ཀྱིས་སྟོང་། དབང་པོ་རྣམས་ནི་དབང་པོ་རྣམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2908	 balāni virohanti,	K02D0008-10_H0009-10:319b-10	སྟོབས་རྣམས་ནི་སྟོབས་རྣམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2909	 bodhyaṅgāni virohanti,	K02D0008-10_H0009-10:319b-11	བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ནི་བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ཀྱིས་སྟོང་།
+K02sspp2_4u:2910	 āryāṣṭāṅgo mārgo virohati,	K02D0008-10_H0009-10:319b-12	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ནི་འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པས་སྟོང་།
+K02sspp2_4u:4296	 rūpasyānupalambhayogena,	K02D0008-10_H0009-10:269a-21	གཟུགས་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4297	 vedanāyā anupalambhayogena, saṃjñāyā (ŚsP_II-4_120)  anupalambhayogena,	K02D0008-10_H0009-10:269a-22	ཚོར་བ་ལ་མི་སྤྱོད་། འདུ་ཤེས་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4299	 saṃskārāṇām anupalambhayogena,	K02D0008-10_H0009-10:269a-24	འདུ་བྱེད་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4300	 vijñānasyānupalambhayogena.	K02D0008-10_H0009-10:269a-25	རྣམ་པར་ཤེས་པ་ལ་མི་སྤྱོད་དོ་༎
+K02sspp2_4u:4301	 cakṣuṣo 'nupalambhayogena,	K02D0008-10_H0009-10:269a-26	མིག་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4302	 śrotrasyānupalambhayogena,  ghrāṇasyānupalambhayogena,  jihvāyā anupalambhayogena,	K02D0008-10_H0009-10:269a-27	རྣ་བ་ལ་མི་སྤྱོད་། སྣ་ལ་མི་སྤྱོད་། ལྕེ་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4305	 kāyasyānupalambhayogena,	K02D0008-10_H0009-10:269a-30	ལུས་ལ་མི་སྤྱོད་།
+K02sspp2_4u:418	 ātmanā ca kāmamithyācārāt prativirato bhaviṣyati. parāṃś ca kāmamithyācāravairamaṇyāṃ samādāpayiṣyati kāmamithyācāraviramaṇyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:496a-9	བདག་གིས་ཀྱང་འདོད་པས་ལོག་པར་ག-ཡེམ་པ་སྤངས་པ་ཡིན་། གཞན་ཡང་འདོད་པས་ལོག་པར་ག-ཡེམ་པ་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་། འདོད་པས་ལོག་པར་ག-ཡེམ་པ་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་།
+K02sspp2_4u:4306	 manaso 'nupalambhayogena.	K02D0008-10_H0009-10:269a-31	ཡིད་ལ་མི་སྤྱོད་དོ་༎
+K02sspp2_4u:4307	 rūpasyānupalambhayogena,	K02D0008-10_H0009-10:269a-32	གཟུགས་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4308	 śabdasyānupalambhayogena,	K02D0008-10_H0009-10:269a-33	སྒྲ་ལ་མི་སྤྱོད་། དྲི་ལ་མི་སྤྱོད་། རོ་ལ་མི་སྤྱོད་། རེག་ལ་མི་སྤྱོད་། ཆོས་༄༢༦༩བ་ལ་མི་སྤྱོད་དོ་༎
+K02sspp2_4u:4339	 vijñānasyānupalambhayogena,	K02D0008-10_H0009-10:269b-26	རྣམ་པར་ཤེས་པ་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4340	 nāmarūpasyānupalambhayogena,	K02D0008-10_H0009-10:269b-27	མིང་དང་གཟུགས་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4341	 ṣaḍāyatanasyānupalambhayogena,  sparśasyānupalambhayogena,	K02D0008-10_H0009-10:269b-28	སྐྱེ་མཆེད་དྲུག་ལ་མི་སྤྱོད་། རེག་པ་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4343	 vedanāyā anupalambhayogena,	K02D0008-10_H0009-10:269b-30	ཚོར་བ་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4344	 tṛṣṇāyā anupalambhayogena,  upādānasyānupalambhayogena,  bhavasyānupalambhayogena,  jāter anupalambhayogena,	K02D0008-10_H0009-10:269b-31	སྲེད་པ་ལ་མི་སྤྱོད་། ལེན་པ་ལ་མི་སྤྱོད་། སྲིད་པ་ལ་མི་སྤྱོད་། སྐྱེ་བ་ལ་མི་སྤྱོད་།
+K02sspp2_4u:4348	 jarāmaraṇasyānupalambhayogena.	K02D0008-10_H0009-10:269b-35	རྒ་ཤི་ལ་མི་སྤྱོད་དོ་༎
+K02sspp2_4u:84	 anupalambhaśūnyatāḥ parigṛhītā bhavanti,  abhāvaśūnyatāḥ parigṛhītā bhavanti,  svabhāvaśūnyatāḥ parigṛhītā bhavanti,  abhāvasvabhāvaśūnyatāḥ parigṛhītā bhavanti.	K02D0008-10_H0009-10:110b-19	དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་མ་ཡིན་། དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་།
+K02sspp2_4u:88	 smṛtyupasthānāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:110b-22	དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་མ་ཡིན་། ཡང་དག་པར་སྤོང་བ་རྣམས་༄༡༡༡ཨ་༌༎
+K02sspp2_4u:89	 samyakprahāṇāni parigṛhītāni (ŚsP_II-4_3)	K02D0008-10_H0009-10:111a-2	ཡང་དག་པར་སྤོང་བ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:419	 ye cānye kāmamithyācārāt prativiratā bhaviṣyanti,  ātmanā ca mṛṣāvādāt prativirato bhaviṣyati. parāṃś ca mṛṣāvādavairamaṇyāṃ samādāpayiṣyati mṛṣāvādavairamaṇyāś ca varṇaṃ bhāṣiṣyate,  ye cānye mṛṣāvādāt prativiratā bhaviṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:496a-12	གཞན་གང་གིས་འདོད་པས་ལོག་པར་ག-ཡེམ་པ་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:90	 bhavanti, ṛddhipādāḥ parigṛhītā bhavanti,  indriyāṇi parigṛhītāni bhavanti,  balāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111a-4	རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་མ་ཡིན་། དབང་པོ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། དབང་པོ་རྣམས་མ་ཡིན་། སྟོབས་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། སྟོབས་རྣམས་མ་ཡིན་།
+K02sspp2_4u:93	 bodhyaṅgāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111a-9	བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་མ་ཡིན་།
+K02sspp2_4u:94	 āryāṣṭāṅgo mārgaḥ parigṛhīto bhavati,	K02D0008-10_H0009-10:111a-11	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་མ་ཡིན་།
+K02sspp2_4u:95	 āryasatyāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111a-14	འཕགས་པའི་བདེན་པ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:97	 apramāṇāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111a-17	ཚད་མེད་པ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། ཚད་མེད་པ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:96	 dhyānāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111a-15	བསམ་གཏན་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། བསམ་གཏན་རྣམས་མ་ཡིན་།
+K02sspp2_4u:98	 ārūpyasamāpattayaḥ parigṛhītā bhavanti,	K02D0008-10_H0009-10:111a-19	གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:99	 vimokṣāḥ parigṛhītā bhavanti,	K02D0008-10_H0009-10:111a-21	རྣམ་པར་ཐར་པ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། རྣམ་པར་ཐར་པ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:100	 anupūrvavihārasamāpattayaḥ parigṛhītā bhavanti,	K02D0008-10_H0009-10:111b-0	མཐར་གྱིས་གནས་པའི་སྙོམས་༄༡༡༡བ་པར་འཇུག་པ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:101	 śūnyatānimittāpraṇihitavimokṣamukhāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111b-2	རྣམ་པ་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། རྣམ་པར་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་མ་ཡིན་།
+K02sspp2_4u:102	 abhijñāḥ parigṛhītā bhavanti,	K02D0008-10_H0009-10:111b-4	མངོན་པར་ཤེས་པ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། མངོན་པར་ཤེས་པ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:103	 samādhayaḥ parigṛhītā bhavanti,	K02D0008-10_H0009-10:111b-6	ཏིང་ངེ་འཛིན་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། ཏིང་ངེ་འཛིན་རྣམས་མ་ཡིན་། གཟུངས་ཀྱི་སྒོ་རྣམས་ཡོངས་སུ་གཟུང་དུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་།
+K02sspp2_4u:424	 ātmanā ca paiśunyāt prativirato bhaviṣyati,	K02D0008-10_H0009-10:496a-13	བདག་གིས་ཀྱང་བརྫུན་དུ་སྨྲ་བ་སྤངས་པ་ཡིན་།
+K02sspp2_4u:104	 dhāraṇīmukhāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111b-9	གཟུངས་ཀྱི་སྒོ་རྣམས་མ་ཡིན་།
+K02sspp2_4u:105	 tathāgatabalāni parigṛhītāni bhavanti,	K02D0008-10_H0009-10:111b-11	དེ་བཞིན་གཤེགས་པའི་སྟོབས་རྣམས་མ་ཡིན་།
+K02sspp2_4u:454	 ātmanā ca dānapāramitāyāṃ vartiṣyate,	K02D0008-10_H0009-10:148a-7	དེ་བདག་ཀྱང་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་ལ་།
+K02sspp2_4u:455	 parāṃś ca dānapāramitāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:148a-8	གཞན་ཡང་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཡང་དག་པར་སྐུལ་ལོ་༎
+K02sspp2_4u:456	 dānapāramitāyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:148a-9	སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལེགས་པ་བརྗོད་དོ་༎
+K02sspp2_4u:457	 ye cānye dānapāramitāyāṃ vartiṣyante,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:148a-10	གཞན་གང་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དེ་དག་གིའང་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་དོ་༎
+K02sspp2_4u:459	 ātmanā ca śīlapāramitāyāṃ vartiṣyate,	K02D0008-10_H0009-10:148a-11	བདག་ཀྱང་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་ལ་།
+K02sspp2_4u:461	 śīlapāramitayāś ca varṇaṃ bhāṣiṣyate,  ye cānye śīlapāramitāyāṃ vartiṣyante ,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:148a-13	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལེགས་པ་བརྗོད་དོ་༎
+K02sspp2_4u:460	 parāṃś ca śīlapāramitāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:148a-12	གཞན་ཡང་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཡང་དག་པར་སྐུལ་ལོ་༎
+K02sspp2_4u:486	 parāṃś cādhyātmaśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:95a-8	གཞན་ཡང་ནང་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:487	 adhyātmaśūnyatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye 'dhyātmaśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:95a-9	ནང་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ༏་སེམས་ཅན་གཞན་གང་ནང་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པར་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:489	 ātmanā ca bahirdhāśūnyatāṃ bhāvayiṣyati,	K02D0008-10_H0009-10:95a-10	བདག་གིས་ཀྱང་ཕྱི་སྟོང་པ་ཉིད་ལ་མཉམ་པར་བཞག་པར་བྱ་།
+K02sspp2_4u:490	 parāṃś ca bahirdhāśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:95a-11	གཞན་ཡང་ཕྱི་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:491	 bahirdhāśūnyatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye bahirdhāśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:95a-12	ཕྱི་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་། སེམས་ཅན་གཞན་གང་ཕྱི་སྟོང་པ་ཉིད་ལ་སྙོམས་༄༩༥བ་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:493	 ātmanā cādhyātmabahirdhāśūnyatāṃ bhāvayiṣyati,  parāṃś cādhyātmabahirdhāśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:95b-1	བདག་གིས་ཀྱང་ཕྱི་ནང་སྟོང་པ་ཉིད་ལ་མཉམ་པར་གཞག་པར་བྱ་།
+K02sspp2_4u:511	 saṃskṛtaśūnyatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye saṃskṛtaśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96a-4	འདུས་བྱས་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་། སེམས་ཅན་གཞན་གང་འདུས་བྱས་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:513	 ātmanā cāsaṃskṛtaśūnyatāṃ bhāvayiṣyati,	K02D0008-10_H0009-10:96a-6	བདག་གིས་ཀྱང་འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་མཉམ་པར་བཞག་པར་བྱ་།
+K02sspp2_4u:514	 parāṃś cāsaṃskṛtaśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:96a-7	གཞན་ཡང་འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:515	 asaṃskṛtaśūnyatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye 'saṃskṛtaśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96a-8	འདུས་མ་བྱས་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་། སེམས་ཅན་གཞན་གང་འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:517	 ātmanā cātyantaśūnyatāṃ bhāvayiṣyati,	K02D0008-10_H0009-10:96a-10	བདག་གིས་ཀྱང་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་མཉམ་པར་བཞག་པར་བྱ་།
+K02sspp2_4u:518	 parāṃś cātyantaśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:96a-11	གཞན་ཡང་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:519	 atyantaśūnyatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye 'tyantaśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96a-12	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་། སེམས་ཅན་གཞན་གང་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:521	 ātmanā cānavarāgraśūnyatāṃ bhāvayiṣyati,  parāṃś cānavarāgraśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:96a-14	བདག་གིས་ཀྱང་ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལ་མཉམ་པར་གཞག་པར་བྱ་། གཞན་ཡང་ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་༄༩༦བ་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:425	 parāṃś ca paiśunyavairamaṇyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:496a-14	གཞན་ཡང་བརྫུན་དུ་སྨྲ་བ་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་།
+K02sspp2_4u:523	 anavarāgraśūnyatāyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:96b-1	ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་།
+K02sspp2_4u:524	 ye cānye 'navarāgraśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96b-2	སེམས་ཅན་གཞན་གང་ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:525	 ātmanā cānavakāraśūnyatāṃ bhāvayiṣyati, parāṃś (ŚsP_II-4_13)  cānavakāraśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:96b-3	བདག་གིས་ཀྱང་དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལ་མཉམ་པར་གཞག་པར་བྱ་། གཞན་ཡང་དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:527	 anavakāraśūnyatāyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:96b-5	དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་།
+K02sspp2_4u:528	 ye cānye 'navakāraśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādi bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96b-6	སེམས་ཅན་གཞན་གང་དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:529	 ātmanā ca prakṛtiśūnyatāṃ bhāvayiṣyati,	K02D0008-10_H0009-10:96b-7	བདག་གིས་ཀྱང་རང་བཞིན་སྟོང་པ་ཉིད་ལ་མཉམ་པར་གཞག་པར་བྱ་།
+K02sspp2_4u:530	 parāṃś ca prakṛtiśūnyatāyāṃ samādāpayiṣyati,  prakṛtiśūnyatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye prakṛtiśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96b-8	གཞན་ཡང་རང་བཞིན་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ༏་རང་བཞིན་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་།
+K02sspp2_4u:533	 ātmanā ca sarvadharmaśūnyatāṃ bhāvayiṣyati,  parāṃś ca sarvadharmaśūnyatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:96b-9	སེམས་ཅན་གཞན་གང་རང་བཞིན་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ༏་༏བདག་གིས་ཀྱང་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་མཉམ་པར་གཞག་པར་བྱ་། གཞན་ཡང་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:535	 sarvadharmaśūnyatāyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:96b-11	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་།
+K02sspp2_4u:536	 ye cānye sarvadharmaśūnyatāṃ bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:96b-12	སེམས་ཅན་གཞན་གང་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་སྙོམས་པར་འཇུག་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:537	 ātmanā ca svalakṣaṇaśūnyatāṃ bhāvayiṣyati,	K02D0008-10_H0009-10:97a-0	བདག་༄༩༧ཨ་༌༎ གིས་ཀྱང་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་མཉམ་པར་གཞག་པར་བྱ་། གཞན་ཡང་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:615	 ātmanā ca catvāri smṛtyupasthānāni bhāvayiṣyati,	K02D0008-10_H0009-10:97b-6	བདག་གིས་ཀྱང་དྲན་པ་ཉེ་བར་བཞག་པ་བཞི་བསྒོམ་པར་བྱ་།
+K02sspp2_4u:888	 na rūpam upalabhate,  na vedanām upalabhate,  na saṃjñām upalabhate,  na saṃskārān upalabhate,	K02D0008-10_H0009-10:488b-4	འདུ་བྱེད་མི་དམིགས་སོ་༎
+K02sspp2_4u:892	 na vijñānam upalabhate.	K02D0008-10_H0009-10:488b-5	རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:616	 parāṃś ca smṛtyupasthānabhāvanatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:97b-7	གཞན་ཡང་དྲན་པ་ཉེ་བར་བཞག་པ་བཞི་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:617	 smṛtyupasthānabhāvanatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye smṛtyupasthānāni bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:97b-9	སེམས་ཅན་གཞན་གང་དྲན་པ་ཉེ་བར་བཞག་པ་བཞི་བསྒོམ་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:893	 na cakṣur upalabhate,	K02D0008-10_H0009-10:488b-6	མིག་མི་དམིགས་སོ་༎
+K02sspp2_4u:619	 ātmanā ca samyakprahāṇāni bhāvayiṣyati,	K02D0008-10_H0009-10:97b-10	བདག་གིས་ཀྱང་ཡང་དག་པར་སྤོང་བ་བཞི་བསྒོམ་པར་བྱ་།
+K02sspp2_4u:620	 parāṃś ca samyakprahāṇabhāvanatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:97b-11	གཞན་ཡང་ཡང་དག་པར་སྤོང་བ་བཞི་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:621	 samyakprahāṇabhāvanatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye samyakprahāṇāni bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:97b-13	སེམས་ཅན་གཞན་གང་ཡང་དག་པར་སྤོང་བ་བཞི་བསྒོམ་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:623	 ātmanā ca catura ṛddhipādān bhāvayiṣyati,	K02D0008-10_H0009-10:98a-0	བདག་གིས་ཀྱང་རྫུ་འཕྲུལ་གྱི་རྐང་བ་བཞི་བསྒོམ་༄༩༨ཨ་༌༎
+K02sspp2_4u:626	 ye cānye ṛddhipādān bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,  ātmanā ca pañcendriyāṇi bhāvayiṣyati,	K02D0008-10_H0009-10:98a-3	སེམས་ཅན་གཞན་གང་རྫུ་འཕྲུལ་གྱི་རྐང་པ་བཞི་བསྒོམ་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:624	 parāṃś ca ṛddhipādabhāvanatāyāṃ samādāpayiṣyati,  ṛddhipādabhāvanatāyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:98a-1	པར་བྱ་། གཞན་ཡང་རྫུ་འཕྲུལ་གྱི་རྐང་པ་བཞི་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་། རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་།
+K02sspp2_4u:628	 parāṃś ca pañcendriyabhāvanatāyāṃ samādāpayiṣyati,  pañcendriyabhāvanatāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye pañcendriyāṇi bhāvayiṣyanti teṣām api varṇavādī bhaviṣyati samanujñaḥ,  ātmanā ca pañcabalāni bhāvayiṣyati,  parāṃś ca balabhāvanatāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:98a-4	བདག་གིས་ཀྱང་དབང་པོ་ལྔ་བསྒོམ་པར་བྱ་། གཞན་ཡང་དབང་པོ་ལྔ་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:894	 na śrotram upalabhate,  na ghrāṇam upalabhate,  na jihvām upalabhate,	K02D0008-10_H0009-10:488b-7	རྣ་བ་མི་དམིགས་སོ་༎ སྣ་མི་དམིགས་སོ་༎ ལྕེ་མི་དམིགས་སོ་༎
+K02sspp2_4u:661	 teṣām api varṇavādī bhaviṣyati samanujñaḥ,  ātmanā ca daśatathāgatabalāni samāpatsyate,  parāṃś ca daśatathāgatabaleṣu samādāpayiṣyati,	K02D0008-10_H0009-10:99b-15	བདག་གིས་ཀྱང་དེ་བཞིན་གཤེགས་པའི་སྟོབས་བཅུ་ཡོངས་སུ་རྫོགས་པར་བྱ་།
+K02sspp2_4u:664	 daśānāṃ tathāgatabalānāṃ varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:100a-1	དེ་བཞིན་གཤེགས་པའི་སྟོབས་བཅུ་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:665	 ye cānye daśatathāgatabalāni samāpatsyante,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:100a-3	སེམས་ཅན་གཞན་གང་དེ་བཞིན་གཤེགས་པའི་སྟོབས་བཅུ་ཡོངས་སུ་རྫོགས་པར་བྱེད་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་༎
+K02sspp2_4u:667	 ātmanā ca catvāri vaiśāradyāni bhāvayiṣyati,	K02D0008-10_H0009-10:100a-4	བདག་གིས་ཀྱང་མི་འཇིགས་པ་བཞི་ཡོངས་སུ་རྫོགས་པར་བྱ་།
+K02sspp2_4u:668	 parāṃś ca vaiśāradyeṣu samādāpayiṣyati,  vaiśāradyānāṃ varṇaṃ bhāṣiṣyate,  ye cānye vaiśāradyāni bhāvayiṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:100a-5	གཞན་ཡང་མི་འཇིགས་པ་བཞི་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་། མི་འཇིགས་པ་རྣམས་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་།
+K02sspp2_4u:672	 ātmanā ca catasraḥ pratisaṃvido bhāvayiṣyati,	K02D0008-10_H0009-10:100a-8	བདག་གིས་ཀྱང་སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི་ཡོངས་སུ་རྫོགས་པར་བྱ་།
+K02sspp2_4u:897	 na kāyam upalabhate,	K02D0008-10_H0009-10:488b-10	ལུས་མི་དམིགས་སོ་༎
+K02sspp2_4u:898	 na mana upalabhate.	K02D0008-10_H0009-10:488b-11	ཡིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:899	 na rūpam upalabhate,  na śabdam upalabhate,	K02D0008-10_H0009-10:488b-12	གཟུགས་མི་དམིགས་སོ༏་༏སྒྲ་མི་དམིགས་སོ་༎
+K02sspp2_4u:901	 na gandham upalabhate,  na rasam upalabhate,  na sparśam upalabhate,	K02D0008-10_H0009-10:488b-13	དྲི་མི་དམིགས་སོ་༎ རོ་མི་དམིགས་སོ་༎ རེག་མི་དམིགས་སོ་༎
+K02sspp2_4u:904	 na dharmān upalabhate.	K02D0008-10_H0009-10:488b-16	ཆོས་མི་དམིགས་སོ་༎
+K02sspp2_4u:905	 na cakṣurvijñānam upalabhate,	K02D0008-10_H0009-10:488b-17	མིག་གི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:906	 na śrotravijñānam upalabhate,	K02D0008-10_H0009-10:488b-18	རྣ་བའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:907	 na ghrāṇavijñānam upalabhate,  na jihvāvijñānam upalabhate,	K02D0008-10_H0009-10:488b-19	སྣའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎ ལྕེའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:909	 na kāyavijñānam upalabhate,	K02D0008-10_H0009-10:488b-21	ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:910	 na manovijñānam upalabhate.  na cakṣuḥsaṃsparśam upalabhate,	K02D0008-10_H0009-10:488b-22	ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ༏་༏མིག་གི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:912	 na śrotrasaṃsparśam upalabhate,  na ghrāṇasaṃsparśam upalabhate,  na jihvāsaṃsparśam upalabhate,	K02D0008-10_H0009-10:488b-23	རྣ་བའི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎ སྣའི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎ ལྕེའི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:915	 na kāyasaṃsparśam upalabhate,	K02D0008-10_H0009-10:488b-26	ལུས་ཀྱི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:916	 na manaḥsaṃsparśam upalabhate.	K02D0008-10_H0009-10:488b-27	ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:918	 na śrotrasaṃsparśajāṃ vedanām upalabhate,  na ghrāṇasaṃsparśajāṃ vedanām upalabhate,  na jihvāsaṃsparśajāṃ vedanām upalabhate,  na kāyasaṃsparśajāṃ vedanām upalabhate,	K02D0008-10_H0009-10:488b-29	རྣ་བའི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎ སྣའི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎ ལྕེའི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:917	 na cakṣuḥsaṃsparśajāṃ vedanām upalabhate,	K02D0008-10_H0009-10:488b-28	མིག་གི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:923	 na pṛthivīdhātum upalabhate,	K02D0008-10_H0009-10:489a-3	སའི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:922	 na manaḥsaṃsparśajāṃ vedanām upalabhate.	K02D0008-10_H0009-10:489a-2	ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:926	 na vāyudhātum upalabhate,	K02D0008-10_H0009-10:489a-6	རླུང་གི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:924	 nābdhātum upalabhate,  na tejodhātum upalabhate,	K02D0008-10_H0009-10:489a-4	ཆུའི་ཁམས་མི་དམིགས་སོ་༎ མེའི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:927	 nākāśadhātum upalabhate,	K02D0008-10_H0009-10:489a-7	ནམ་མཁའི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:928	 na vijñānadhātum upalabhate.  nāvidyām upalabhate,	K02D0008-10_H0009-10:489a-8	རྣམ་པར་ཤེས་པའི་ཁམས་མི་དམིགས་སོ༏་༏མ་རིག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:930	 na saṃskārān upalabhate,	K02D0008-10_H0009-10:489a-9	འདུ་བྱེད་མི་དམིགས་སོ་༎
+K02sspp2_4u:931	 na vijñānam upalabhate,	K02D0008-10_H0009-10:489a-10	རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:932	 na nāmarūpam upalabhate,	K02D0008-10_H0009-10:489a-11	མིང་དང་གཟུགས་མི་དམིགས་སོ་༎
+K02sspp2_4u:933	 na ṣaḍāyatanam upalabhate,	K02D0008-10_H0009-10:489a-12	སྐྱེ་མཆེད་དྲུག་མི་དམིགས་སོ་༎
+K02sspp2_4u:934	 na sparśam upalabhate,	K02D0008-10_H0009-10:489a-13	རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:935	 na vedanām upalabhate,	K02D0008-10_H0009-10:489a-14	ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:936	 na tṛṣṇām upalabhate,	K02D0008-10_H0009-10:489a-15	སྲེད་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:673	 parāṃś ca pratisaṃvidbhāvanāyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:100a-9	གཞན་ཡང་སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་།
+K02sspp2_4u:674	 pratisaṃvidbhāvanāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye pratisaṃvido bhāvayiṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,  ātmanā ca mahāmaitrīṃ samāpatsyate,	K02D0008-10_H0009-10:100a-10	སོ་སོ་ཡང་དག་པར་རིག་པ་རྣམས་ཀྱི་ལེགས་པ་བརྗོད་པར་བྱ་། སེམས་ཅན་གཞན་གང་སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི་ཡོངས་སུ་རྫོགས་པར་བྱེད་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱའོ་།
+K02sspp2_4u:678	 parāṃś ca mahāmaitrīsamāpattau samādāpayiṣyati,  mahāmaitrīsamāpatteś ca varṇaṃ bhāṣiṣyate,  ye cānye mahāmaitrīṃ bhāvayiṣyanti,  ātmanā ca mahākaruṇāṃ bhāvayiṣyati,  parāṃś ca mahākaruṇāyāṃ samādāpayiṣyati,  mahākaruṇāyāś ca varṇaṃ bhāṣiṣyate,  ye cānye mahākaruṇāṃ bhāvayiṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:100a-12	བདག་གིས་ཀྱང་བྱམས་པ་ཆེན་པོ་ཡོངས་སུ་རྫོགས་པར་བྱ་།
+K02sspp2_4u:889	 na vedanām upalabhate,  na saṃjñām upalabhate,	K02D0008-10_H0009-10:106a-9	ཚོར་བ་ཡོངས་སུ་མ་བཟུང་། འདུ་ཤེས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:891	 na saṃskārān upalabhate,	K02D0008-10_H0009-10:106a-11	འདུ་བྱེད་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:892	 na vijñānam upalabhate.	K02D0008-10_H0009-10:106a-12	རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་༎
+K02sspp2_4u:893	 na cakṣur upalabhate,  na śrotram upalabhate,  na ghrāṇam upalabhate,  na jihvām upalabhate,	K02D0008-10_H0009-10:106a-13	མིག་ཡོངས་སུ་མ་བཟུང་། རྣ་བ་ཡོངས་སུ་མ་བཟུང་། སྣ་ཡོངས་སུ་མ་བཟུང་། ལྕེ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:897	 na kāyam upalabhate,	K02D0008-10_H0009-10:106a-17	ལུས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:898	 na mana upalabhate.	K02D0008-10_H0009-10:106a-18	ཡིད་ཡོངས་སུ་མ་བཟུང་ངོ་༎
+K02sspp2_4u:899	 na rūpam upalabhate,	K02D0008-10_H0009-10:106a-19	གཟུགས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:900	 na śabdam upalabhate,	K02D0008-10_H0009-10:106a-20	སྒྲ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:901	 na gandham upalabhate,  na rasam upalabhate,	K02D0008-10_H0009-10:106a-21	དྲི་ཡོངས་སུ་མ་བཟུང་། རོ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:928	 na vijñānadhātum upalabhate.  nāvidyām upalabhate,	K02D0008-10_H0009-10:106b-17	རྣམ་པར་ཤེས་པའི་ཁམས་ཡོངས་སུ་མ་བཟུང་ངོ་༎ མ་རིག་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:937	 nopādānam upalabhate,	K02D0008-10_H0009-10:489a-16	ལེན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:938	 na bhavam upalabhate,  na jātim upalabhate,	K02D0008-10_H0009-10:489a-17	སྲིད་པ་མི་དམིགས་སོ་༎ སྐྱེ་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:940	 na jarāmaraṇam upalabhate.	K02D0008-10_H0009-10:489a-19	རྒ་ཤི་མི་དམིགས་སོ་༎
+K02sspp2_4u:941	 na dānapāramitām upalabhate,	K02D0008-10_H0009-10:489a-20	སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:942	 na śīlapāramitām upalabhate,	K02D0008-10_H0009-10:489a-21	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:930	 na saṃskārān upalabhate,	K02D0008-10_H0009-10:106b-19	འདུ་བྱེད་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:932	 na nāmarūpam upalabhate,	K02D0008-10_H0009-10:106b-21	མིང་དང་གཟུགས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:931	 na vijñānam upalabhate,	K02D0008-10_H0009-10:106b-20	རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:934	 na sparśam upalabhate,	K02D0008-10_H0009-10:106b-23	རེག་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:933	 na ṣaḍāyatanam upalabhate,	K02D0008-10_H0009-10:106b-22	སྐྱེ་མཆེད་དྲུག་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:936	 na tṛṣṇām upalabhate,  nopādānam upalabhate,	K02D0008-10_H0009-10:106b-25	སྲེད་པ་ཡོངས་སུ་མ་བཟུང་། ལེན་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:935	 na vedanām upalabhate,	K02D0008-10_H0009-10:106b-24	ཚོར་བ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:938	 na bhavam upalabhate,  na jātim upalabhate,	K02D0008-10_H0009-10:106b-27	སྲིད་པ་ཡོངས་སུ་མ་བཟུང་། སྐྱེ་བ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:940	 na jarāmaraṇam upalabhate.	K02D0008-10_H0009-10:106b-29	རྒ་ཤི་ཡོངས་སུ་མ་བཟུང་ངོ་༎
+K02sspp2_4u:2116	 śīlapāramitāyāṃ carati,	K02D0008-10_H0009-10:370b-19	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་།
+K02sspp2_4u:2117	 kṣāntipāramitāyāṃ carati,  vīryapāramitāyāṃ carati,	K02D0008-10_H0009-10:371a-0	བཟོད་པའི་ཕ་༄༣༧༡ཨ་༌༎ རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་༎ བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་།
+K02sspp2_4u:2119	 dhyānapāramitāyāṃ carati,	K02D0008-10_H0009-10:371a-3	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་།
+K02sspp2_4u:2120	 prajñāpāramitāyāṃ carati.	K02D0008-10_H0009-10:371a-4	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་།
+K02sspp2_4u:2121	 adhyātmaśūnyatāyāṃ carati,  bahirdhāśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-5	ནང་སྟོང་པ་ཉིད་ལ་སྤྱོད་། ཕྱི་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2124	 śūnyatāśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-8	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2123	 adhyātmabahirdhāśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-7	ཕྱི་ནང་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2125	 mahāśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-9	ཆེན་པོ་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2126	 paramārthaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-10	དོན་དམ་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2127	 saṃskṛtaśūnyatāyāṃ carati,  asaṃskṛtaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-11	འདུས་བྱས་སྟོང་པ་ཉིད་ལ་སྤྱོད་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2129	 atyantaśūnyatāyāṃ carati,  anavarāgraśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-13	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་། ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་། དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:943	 na kṣāntipāramitām upalabhate,  na vīryapāramitām upalabhate,	K02D0008-10_H0009-10:489a-22	བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎ བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:2132	 prakṛtiśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-16	རང་བཞིན་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2133	 sarvadharmaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-17	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2134	 svalakṣaṇaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-18	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2135	 anupalambhaśūnyatāyāṃ carati,  abhāvaśūnyatāyāṃ carati,	K02D0008-10_H0009-10:371a-19	མི་དམིགས་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2137	 svabhāvaśūnyatāyāṃ carati,  abhāvasvabhāvaśūnyatāyāṃ carati.	K02D0008-10_H0009-10:371a-21	ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སྤྱོད་།
+K02sspp2_4u:2886	 adhyātmaśūnyatā virohati,  bahirdhāśūnyatā virohati,  adhyātmabahirdhāśūnyatā virohati,	K02D0008-10_H0009-10:104b-20	ནང་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ ཕྱི་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ ཕྱི་ནང་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2889	 śūnyatāśūnyatā virohati,  mahāśūnyatā virohati,  paramārthaśūnyatā virohati,	K02D0008-10_H0009-10:104b-23	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ༏་༏ཆེན་པོ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ དོན་དམ་པ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:945	 na dhyānapāramitām (ŚsP_II-4_25)	K02D0008-10_H0009-10:489a-24	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:2892	 saṃskṛtaśūnyatā virohati,  asaṃskṛtaśūnyatā virohati,	K02D0008-10_H0009-10:104b-25	འདུས་བྱས་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ འདུས་མ་བྱས་སྟོང་པ་༄༡༠༥ཨ་༌༎ ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2894	 atyantaśūnyatā virohati,  anavarāgraśūnyatā virohati,  anavakāraśūnyatā virohati,	K02D0008-10_H0009-10:105a-2	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ དོར་བ་མེད་པ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2897	 prakṛtiśūnyatā virohati,	K02D0008-10_H0009-10:105a-5	རང་བཞིན་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2898	 sarvadharmaśūnyatā virohati,	K02D0008-10_H0009-10:105a-6	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2900	 anupalambhaśūnyatā virohati,  abhāvaśūnyatā virohati,  svabhāvaśūnyatā virohati,  abhāvasvabhāvaśūnyatā virohati.	K02D0008-10_H0009-10:105a-8	མི་དམིགས་པ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2899	 svalakṣaṇaśūnyatā virohati,	K02D0008-10_H0009-10:105a-7	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2904	 smṛtyupasthānāni virohanti,	K02D0008-10_H0009-10:105a-12	དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2905	 samyakprahāṇāni virohanti,	K02D0008-10_H0009-10:105a-13	ཡང་དག་པར་སྤོང་བ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2906	 ṛddhipādā virohanti,  indriyāṇi virohanti,  balāni virohanti,	K02D0008-10_H0009-10:105a-14	རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ དབང་པོ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎ སྟོབས་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2910	 āryāṣṭāṅgo mārgo virohati,	K02D0008-10_H0009-10:105a-18	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2909	 bodhyaṅgāni virohanti,	K02D0008-10_H0009-10:105a-17	བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2911	 āryasatyāni virohanti,	K02D0008-10_H0009-10:105a-19	འཕགས་པའི་བདེན་པ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2912	 dhyānāni virohanti,	K02D0008-10_H0009-10:105a-20	བསམ་གཏན་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2914	 ārūpyasamāpattayo virohanti,	K02D0008-10_H0009-10:105b-0	གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་རྣམས་༄༡༠༥བ་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2913	 apramāṇāni virohanti,	K02D0008-10_H0009-10:105a-21	ཚད་མེད་པ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2916	 navānupūrvavihārasamāpattayo virohanti,	K02D0008-10_H0009-10:105b-2	མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2915	 aṣṭau vimokṣā virohanti,	K02D0008-10_H0009-10:105b-1	རྣམ་པར་ཐར་པ་བརྒྱད་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2918	 abhijñā virohanti,	K02D0008-10_H0009-10:105b-4	མངོན་པར་ཤེས་པ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2917	 śūnyatānimittāpraṇihitavimokṣamukhāni virohanti,	K02D0008-10_H0009-10:105b-3	རྣམ་པར་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:2919	 samādhayo virohanti,	K02D0008-10_H0009-10:105b-5	ཏིང་ངེ་འཛིན་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ༏་༏གཟུངས་ཀྱི་སྒོ་རྣམས་སྒྲིབ་པ་མེད་པར་འགྱུར་རོ་༎
+K02sspp2_4u:3512	 nādhyātmaśūnyatāyā dātrī,	K02D0008-10_H0009-10:146a-20	ནང་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3513	 na bahirdhāśūnyatāyā dātrī,  nādhyātmabahirdhāśūnyatāyā (ŚsP_II-4_97)  dātrī, na śūnyatāśūnyatāyā dātrī,	K02D0008-10_H0009-10:146a-21	ཕྱི་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། ཕྱི་ནང་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3516	 na mahāśūnyatāyā dātrī,	K02D0008-10_H0009-10:146a-24	ཆེན་པོ་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3517	 na paramārthaśūnyatāyā dātrī,  na saṃskṛtaśūnyatāyā dātrī,  nātyantaśūnyatāyā dātrī,  nānavarāgraśūnyatāyā dātrī,	K02D0008-10_H0009-10:146b-0	དོན་དམ་པ་སྟོང་པ་༄༡༤༦བ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། འདུས་བྱས་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3522	 nānavakāraśūnyatāyā dātrī,  na prakṛtiśūnyatāyā dātrī,	K02D0008-10_H0009-10:146b-6	རང་བཞིན་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3524	 na sarvadharmaśūnyatāyā dātrī,	K02D0008-10_H0009-10:146b-7	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3525	 na svalakṣaṇaśūnyatāyā dātrī,	K02D0008-10_H0009-10:146b-8	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3526	 nānupalambhaśūnyatāyā dātrī,  nābhāvaśūnyatāyā dātrī,	K02D0008-10_H0009-10:146b-9	མི་དམིགས་པ་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3528	 na svabhāvaśūnyatāyā dātrī,  nābhāvasvabhāvaśūnyatāyā dātrī.	K02D0008-10_H0009-10:146b-11	ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3530	 na smṛtyupasthānānāṃ dātrī,	K02D0008-10_H0009-10:146b-13	དྲན་པ་ཉེ་བར་བཞག་པ་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3531	 na samyakprahāṇānāṃ dātrī,	K02D0008-10_H0009-10:146b-14	ཡང་དག་པར་སྤོང་བ་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3532	 na ṛddhipādānāṃ dātrī,  nendriyāṇāṃ dātrī,	K02D0008-10_H0009-10:146b-15	རྫུ་འཕྲུལ་གྱི་རྐང་པ་ལྷུར་ལེན་པ་མ་ཡིན་།
+K02sspp2_4u:3577	 na svalakṣaṇaśūnyatāyā dātrī,	K02D0008-10_H0009-10:131a-22	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3578	 nānupalambhaśūnyatāyā dātrī,  nābhāvaśūnyatāyā dātrī,	K02D0008-10_H0009-10:131b-0	མི་དམིགས་པ་སྟོང་པ་༄༡༣༡བ་ཉིད་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3580	 na svabhāvaśūnyatāyā dātrī, (ŚsP_II-4_98)  nābhāvasvabhāvaśūnyatāyā dātrī.	K02D0008-10_H0009-10:131b-3	དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3582	 na smṛtyupasthānānāṃ dātri,	K02D0008-10_H0009-10:131b-4	དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3583	 samyakprahāṇānāṃ dātrī,	K02D0008-10_H0009-10:131b-5	ཡང་དག་པར་སྤོང་བ་རྣམས་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3584	 na ṛddhipādānāṃ dātrī,  nendriyāṇāṃ dātrī,  na balānāṃ dātrī,	K02D0008-10_H0009-10:131b-6	རྫུ་འཕྲུལ་གྱི་རྐང་པ་རྣམས་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་། དབང་པོ་རྣམས་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་། སྟོབས་རྣམས་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3587	 na bodhyaṅgānāṃ dātrī,	K02D0008-10_H0009-10:131b-9	བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:3588	 nāryāṣṭāṅgasya mārgasya dātri,	K02D0008-10_H0009-10:131b-10	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ལ་གཞན་གྱི་དྲིང་མི་འཇོག་།
+K02sspp2_4u:4166	 na vedanām upalabhate,  na saṃjñām upalabhate,	K02D0008-10_H0009-10:106a-9	ཚོར་བ་ཡོངས་སུ་མ་བཟུང་། འདུ་ཤེས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:2560	 kathaṃ cakṣuṣo 'dvayayogena,	K02D0008-10_H0009-10:517a-4	ཇི་ལྟར་ན་མིག་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:4168	 na saṃskārām upalabhate,	K02D0008-10_H0009-10:106a-11	འདུ་བྱེད་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4169	 na vijñānam upalabhate.	K02D0008-10_H0009-10:106a-12	རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་༎
+K02sspp2_4u:4170	 na cakṣur upalabhate,  na śrotram upalabhate,  na ghrāṇam upalabhate,  na jihvām upalabhate,	K02D0008-10_H0009-10:106a-13	མིག་ཡོངས་སུ་མ་བཟུང་། རྣ་བ་ཡོངས་སུ་མ་བཟུང་། སྣ་ཡོངས་སུ་མ་བཟུང་། ལྕེ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4174	 na kāyam upalabhate,	K02D0008-10_H0009-10:106a-17	ལུས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4175	 na manasam upalabhate.	K02D0008-10_H0009-10:106a-18	ཡིད་ཡོངས་སུ་མ་བཟུང་ངོ་༎
+K02sspp2_4u:4176	 na rūpam upalabhate,	K02D0008-10_H0009-10:106a-19	གཟུགས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4177	 na śabdam upalabhate,	K02D0008-10_H0009-10:106a-20	སྒྲ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:2561	 kathaṃ śrotrasyādvayayogena,  kathaṃ ghrāṇasyādvayayogena,  kathaṃ jihvāyā advayayogena,	K02D0008-10_H0009-10:517a-5	ཇི་ལྟར་ན་རྣ་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་སྣ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་ལྕེ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:4178	 na gandham upalabhate,	K02D0008-10_H0009-10:106a-21	དྲི་ཡོངས་སུ་མ་བཟུང་། རོ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4200	 na pṛthivīdhātum upalabhate,  nābdhātum upalabhate,  na tejodhātum upalabhate,	K02D0008-10_H0009-10:106b-12	སའི་ཁམས་ཡོངས་སུ་མ་བཟུང་། ཆུའི་ཁམས་ཡོངས་སུ་མ་བཟུང་། མེའི་ཁམས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4203	 na vāyudhātum upalabhate,  nākāśadhātum upalabhate,	K02D0008-10_H0009-10:106b-15	རླུང་གི་ཁམས་ཡོངས་སུ་མ་བཟུང་། ནམ་མཁའི་ཁམས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4205	 na vijñānadhātum upalabhate.  nāvidyām upalabhate,	K02D0008-10_H0009-10:106b-17	རྣམ་པར་ཤེས་པའི་ཁམས་ཡོངས་སུ་མ་བཟུང་ངོ་༎ མ་རིག་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:2564	 kathaṃ kāyasyādvayayogena,	K02D0008-10_H0009-10:517a-8	ཇི་ལྟར་ན་ལུས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2565	 kathaṃ manaso 'dvayayogena?	K02D0008-10_H0009-10:517a-9	ཇི་ལྟར་ན་ཡིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:4207	 na saṃskārām upalabhate,	K02D0008-10_H0009-10:106b-19	འདུ་བྱེད་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4208	 na vijñānam upalabhate,	K02D0008-10_H0009-10:106b-20	རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4209	 na nāmarūpam upalabhate,	K02D0008-10_H0009-10:106b-21	མིང་དང་གཟུགས་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:2566	 kathaṃ rūpasyādvayayogena,	K02D0008-10_H0009-10:517a-10	ཇི་ལྟར་ན་གཟུགས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:4210	 na ṣaḍāyatanam upalabhate,	K02D0008-10_H0009-10:106b-22	སྐྱེ་མཆེད་དྲུག་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4211	 na sparśam upalabhate,	K02D0008-10_H0009-10:106b-23	རེག་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4212	 na vedanām upalabhate,	K02D0008-10_H0009-10:106b-24	ཚོར་བ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4213	 na tṛṣṇām upalabhate,  nopādānam upalabhate,	K02D0008-10_H0009-10:106b-25	སྲེད་པ་ཡོངས་སུ་མ་བཟུང་། ལེན་པ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4215	 na bhavam upalabhate,  na jātim upalabhate,	K02D0008-10_H0009-10:106b-27	སྲིད་པ་ཡོངས་སུ་མ་བཟུང་། སྐྱེ་བ་ཡོངས་སུ་མ་བཟུང་།
+K02sspp2_4u:4217	 na jarāmaraṇam upalabhate.	K02D0008-10_H0009-10:106b-29	རྒ་ཤི་ཡོངས་སུ་མ་བཟུང་ངོ་༎
+K02sspp2_4u:4847	 śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramita prajñāpāramitā.	K02D0008-10_H0009-10:124a-11	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་།
+K02sspp2_4u:2567	 kathaṃ śabdasyādvayayogena,	K02D0008-10_H0009-10:517a-11	ཇི་ལྟར་ན་སྒྲ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2568	 kathaṃ gandhasyādvayayogena,  kathaṃ rasasyādvayayogena,  kathaṃ sparśasyādvayayogena,	K02D0008-10_H0009-10:517a-12	ཇི་ལྟར་ན་དྲི་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་རོ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་རེག་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:4848	 adhyatmaśūnyatā,  bahirdhāśūnyatā,  adhyātmabahirdhāśūnyatā,	K02D0008-10_H0009-10:124a-16	ནང་སྟོང་པ་ཉིད་དམ་༎ ཕྱི་སྟོང་པ་ཉིད་དམ༏་ཕྱི་ནང་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:2572	 kathaṃ cakṣurvijñānasyādvayayogena,  kathaṃ śrotravijñānasyādvayayogena,  kathaṃ ghrāṇavijñānasyādvayayogena,  kathaṃ jihvāvijñānasyādvayayogena,	K02D0008-10_H0009-10:517a-16	ཇི་ལྟར་ན་མིག་གི་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་རྣ་བའི་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་སྣའི་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་ལྕེའི་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:4851	 śūnyatāśūnyatā,	K02D0008-10_H0009-10:124a-18	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:4852	 mahāśūnyatā,	K02D0008-10_H0009-10:124a-19	ཆེན་པོ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:4853	 paramārthaśūnyatā,	K02D0008-10_H0009-10:124a-20	དོན་དམ་པ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:5283	 śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramitā prajñāpāramitā.	K02D0008-10_H0009-10:124a-11	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་།
+K02sspp2_4u:5284	 adhyātmaśūnyatā,  bahirdhāśūnyatā,  adhyātmabahirdhāśūnyatā,	K02D0008-10_H0009-10:124a-16	ནང་སྟོང་པ་ཉིད་དམ་༎ ཕྱི་སྟོང་པ་ཉིད་དམ༏་ཕྱི་ནང་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:2576	 kathaṃ kāyavijñānasyādvayayogena,	K02D0008-10_H0009-10:517a-20	ཇི་ལྟར་ན་ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2577	 kathaṃ manovijñānasyādvayayogena?	K02D0008-10_H0009-10:517b-0	༄༥༡༧བ་ཇི་ལྟར་ན་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2578	 kathaṃ cakṣuḥsaṃsparśasyādvayayogena,	K02D0008-10_H0009-10:517b-1	ཇི་ལྟར་ན་མིག་གི་འདུས་ཏེ་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2579	 kathaṃ śrotrasaṃsparśasyādvayayogena, (ŚsP_II-4_70)  kathaṃ ghrāṇasaṃsparśasyādvayayogena,  kathaṃ jihvāsaṃsparśasyādvayayogena,	K02D0008-10_H0009-10:517b-2	ཇི་ལྟར་ན་རྣ་བའི་འདུས་ཏེ་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་སྣའི་འདུས་ཏེ་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་ལྕེའི་འདུས་ཏེ་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2582	 kathaṃ kāyasaṃsparśasyādvayayogena,	K02D0008-10_H0009-10:517b-5	ཇི་ལྟར་ན་ལུས་ཀྱི་འདུས་ཏེ་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2583	 kathaṃ manaḥsaṃsparśasyādvayayogena?	K02D0008-10_H0009-10:517b-6	ཇི་ལྟར་ན་ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2584	 kathaṃ cakṣuḥsaṃsparśapratyayavedanāyā advayayogena,	K02D0008-10_H0009-10:517b-7	ཇི་ལྟར་ན་མིག་གི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2585	 kathaṃ śrotrasaṃsparśapratyayavedanāyā advayayogena,  kathaṃ ghrāṇasaṃsparśapratyayavedanāyā advayayogena,  kathaṃ jihvāsaṃsparśapratyayavedanāyā advayayogena,	K02D0008-10_H0009-10:517b-8	ཇི་ལྟར་ན་རྣ་བའི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་སྣའི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་ལྕེའི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་པ་ལགས་།
+K02sspp2_4u:2588	 kathaṃ kāyasaṃsparśapratyayavedanāyā advayayogena,	K02D0008-10_H0009-10:517b-11	ཇི་ལྟར་ན་ལུས་ཀྱི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2589	 kathaṃ manaḥsaṃsparśapratyayavedanāyā advayayogena?	K02D0008-10_H0009-10:517b-12	ཇི་ལྟར་ན་ཡིད་ཀྱི་འདུས་ཏེ་རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2590	 kathaṃ pṛthivīdhātor advayayogena,	K02D0008-10_H0009-10:517b-13	ཇི་ལྟར་ན་སའི་ཁམས་ཡོངས་སུ་མ་གཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2591	 katham abdhātor advayayogena,  kathaṃ tejodhātor advayayogena,  kathaṃ vāyudhātor advayayogena,	K02D0008-10_H0009-10:517b-14	ཇི་ལྟར་ན་ཆུའི་ཁམས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་མེའི་ཁམས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་རླུང་གི་༄༥༡༨ཨ་༌༎ ཁམས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2594	 katham ākāśadhātor advayayogena,	K02D0008-10_H0009-10:518a-2	ཇི་ལྟར་ན་ནམ་མཁའི་ཁམས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2595	 kathaṃ vijñānadhātor advayayogena?  katham avidyāyā advayayogena,	K02D0008-10_H0009-10:518a-3	ཇི་ལྟར་ན་རྣམ་པར་ཤེས་པའི་ཁམས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་མ་རིག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2597	 kathaṃ saṃskārāṇām advayayogena,	K02D0008-10_H0009-10:518a-5	ཇི་ལྟར་ན་འདུ་བྱེད་ཡོངས་སུ་མ་བཟུང་མི་བཏང་བ་ལགས་།
+K02sspp2_4u:2598	 kathaṃ vijñānasyādvayayogena,	K02D0008-10_H0009-10:518a-6	ཇི་ལྟར་ན་རྣམ་པར་ཤེས་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2599	 kathaṃ nāmarūpasyādvayayogena,	K02D0008-10_H0009-10:518a-7	ཇི་ལྟར་ན་མིང་དང་གཟུགས་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2600	 kathaṃ ṣaḍāyatanasyādvayayogena,	K02D0008-10_H0009-10:518a-8	ཇི་ལྟར་ན་སྐྱེ་མཆེད་དྲུག་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:5287	 śūnyatāśūnyatā,	K02D0008-10_H0009-10:124a-18	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:5288	 mahāśūnyatā,	K02D0008-10_H0009-10:124a-19	ཆེན་པོ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:5289	 paramārthaśūnyatā,	K02D0008-10_H0009-10:124a-20	དོན་དམ་པ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:5718	 śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramitā prajñāpāramitā.	K02D0008-10_H0009-10:124a-11	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་།
+K02sspp2_4u:5719	 adhyātmaśūnyatā,  bahirdhāśūnyatā,  adhyātmabahirdhāśūnyatā,	K02D0008-10_H0009-10:124a-16	ནང་སྟོང་པ་ཉིད་དམ་༎ ཕྱི་སྟོང་པ་ཉིད་དམ༏་ཕྱི་ནང་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:2601	 kathaṃ sparśasyādvayayogena,	K02D0008-10_H0009-10:518a-9	ཇི་ལྟར་ན་རེག་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:2602	 kathaṃ vedanāyā advayayogena,  kathaṃ tṛṣṇāyā advayayogena,  katham upādānasyādvayayogena,	K02D0008-10_H0009-10:518a-10	ཇི་ལྟར་ན་ཚོར་བ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་། ཇི་ལྟར་ན་སྲེད་པ་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ལགས་།
+K02sspp2_4u:3568	 na mahāśūnyatāyā dātrī. na paramārthaśūnyatāyā dātri,	K02D0008-10_H0009-10:522b-7	ཆེན་པོ་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་ཆེན་པོ་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎ དོན་དམ་པ་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་དོན་དམ་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎
+K02sspp2_4u:3569	 na saṃskṛtaśūnyatāyā dātri,	K02D0008-10_H0009-10:522b-9	འདུས་བྱས་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་འདུས་བྱས་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎
+K02sspp2_4u:3570	 nāsaṃskṛtaśūnyatāyā dātrī,  nātyantaśūnyatāyā dātrī,	K02D0008-10_H0009-10:523a-0	འདུས་མ་བྱས་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་འདུས་མ་བྱས་སྟོང་པ་ཉིད་༄༥༢༣ཨ་༌༎ ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎ མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎
+K02sspp2_4u:3572	 nānavarāgraśūnyatāyā dātrī,  nānavakāraśūnyatāyā,	K02D0008-10_H0009-10:523a-3	ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎
+K02sspp2_4u:5722	 śūnyatāśūnyatā,	K02D0008-10_H0009-10:124a-18	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:5723	 mahāśūnyatā,	K02D0008-10_H0009-10:124a-19	ཆེན་པོ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:5724	 paramārthaśūnyatā,	K02D0008-10_H0009-10:124a-20	དོན་དམ་པ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7017	 śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramitā prajñāpāramitā.	K02D0008-10_H0009-10:124a-11	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་།
+K02sspp2_4u:7018	 adhyātmaśūnyatā,  bahirdhāśūnyatā,  adhyātmabahirdhāśūnyatā,	K02D0008-10_H0009-10:124a-16	ནང་སྟོང་པ་ཉིད་དམ་༎ ཕྱི་སྟོང་པ་ཉིད་དམ༏་ཕྱི་ནང་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7021	 śūnyatāśūnyatā,	K02D0008-10_H0009-10:124a-18	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7022	 mahāśūnyatā,	K02D0008-10_H0009-10:124a-19	ཆེན་པོ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7023	 paramārthaśūnyatā,	K02D0008-10_H0009-10:124a-20	དོན་དམ་པ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7305	 śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramitā prajñāpāramitā.	K02D0008-10_H0009-10:124a-11	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་།
+K02sspp2_4u:7306	 adhyātmaśūnyatā,  bahirdhāśūnyatā,	K02D0008-10_H0009-10:124a-16	ནང་སྟོང་པ་ཉིད་དམ་༎ ཕྱི་སྟོང་པ་ཉིད་དམ༏་ཕྱི་ནང་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7309	 śūnyatāśūnyatā,	K02D0008-10_H0009-10:124a-18	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7310	 mahāśūnyatā,	K02D0008-10_H0009-10:124a-19	ཆེན་པོ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:7311	 paramārthaśūnyatā,	K02D0008-10_H0009-10:124a-20	དོན་དམ་པ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:3575	 na prakṛtiśūnyatāyā dātrī,	K02D0008-10_H0009-10:523a-4	དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་དོར་བ་མེད་པ་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎ རང་བཞིན་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་རང་བཞིན་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎
+K02sspp2_4u:3576	 na sarvadharmaśūnyatāyā dātrī,	K02D0008-10_H0009-10:523a-6	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ཡོངས་སུ་མ་བཟུང་མ་བཏང་བ་ཡིན་ནོ་༎
+K02sspp2_4u:3577	 na svalakṣaṇaśūnyatāyā dātrī,	K02D0008-10_H0009-10:523a-7	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ཡིད་ལ་མི་བྱེད་པས་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ཡོངས་སུམ་བཟུང་མ་བཏང་བ་ཡིན་ནོ༏།
+K02sspp2_4u:4165	 na rūpam upalabhate,	K02D0008-10_H0009-10:488b-1	གཟུགས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4166	 na vedanām upalabhate,  na saṃjñām upalabhate,	K02D0008-10_H0009-10:488b-2	ཚོར་བ་མི་དམིགས་སོ་༎ འདུ་ཤེས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4168	 na saṃskārām upalabhate,	K02D0008-10_H0009-10:488b-4	འདུ་བྱེད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4169	 na vijñānam upalabhate.	K02D0008-10_H0009-10:488b-5	རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4170	 na cakṣur upalabhate,	K02D0008-10_H0009-10:488b-6	མིག་མི་དམིགས་སོ་༎
+K02sspp2_4u:4171	 na śrotram upalabhate,  na ghrāṇam upalabhate,  na jihvām upalabhate,	K02D0008-10_H0009-10:488b-7	རྣ་བ་མི་དམིགས་སོ་༎ སྣ་མི་དམིགས་སོ་༎ ལྕེ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4174	 na kāyam upalabhate,	K02D0008-10_H0009-10:488b-10	ལུས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4175	 na manasam upalabhate.	K02D0008-10_H0009-10:488b-11	ཡིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4176	 na rūpam upalabhate,  na śabdam upalabhate,	K02D0008-10_H0009-10:488b-12	གཟུགས་མི་དམིགས་སོ༏་༏སྒྲ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4178	 na gandham upalabhate,	K02D0008-10_H0009-10:488b-13	དྲི་མི་དམིགས་སོ་༎
+K02sspp2_4u:7312	 saṃskṛtaśūnyatā,  asaṃskṛtaśūnyatā,	K02D0008-10_H0009-10:124a-21	འདུས་བྱས་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:10567	 tathā tathā śīlapāramitāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366a-17	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10568	 tathā tathā kṣāntipāramitāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā vīryapāramitāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366a-18	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10570	 tathā tathā dhyānapāramitāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366b-0	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་༄༣༦༦བ་པ་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10571	 tathā tathā prajñāpāramitāyām avavaditavyo 'nuśāsitavyaḥ.	K02D0008-10_H0009-10:366b-1	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:4179	 na rasam upalabhate,  na sparśam upalabhate,	K02D0008-10_H0009-10:488b-14	རོ་མི་དམིགས་སོ་༎ རེག་མི་དམིགས་སོ་༎
+K02sspp2_4u:4181	 na dharmān upalabhate.	K02D0008-10_H0009-10:488b-16	ཆོས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4182	 na cakṣurvijñānam upalabhate,	K02D0008-10_H0009-10:488b-17	མིག་གི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4183	 na śrotravijñānam upalabhate,	K02D0008-10_H0009-10:488b-18	རྣ་བའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4184	 na ghrāṇavijñānam upalabhate,  na jihvāvijñānam upalabhate,	K02D0008-10_H0009-10:488b-19	སྣའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎ ལྕེའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4186	 na kāyavijñānam upalabhate,	K02D0008-10_H0009-10:488b-21	ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:10572	 yathā yathā bodhisattvo mahāsattvo 'bhyāsī bhavaty anuttarāyāḥ samyaksaṃbodhes tathā tathā adhyātmaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā bahirdhāśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366b-2	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ནང་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཕྱི་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཕྱི་ནང་སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10575	 tathā tathā śūnyatāśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366b-5	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10576	 tathā tathā mahāśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā paramārthaśūnyatāyām (ŚsP_II-4_267)	K02D0008-10_H0009-10:366b-6	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཆེན་པོ་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་དོན་དམ་པ་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10579	 tathā tathā saṃskṛtaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366b-8	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་འདུས་བྱས་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10581	 tathā tathā atyantaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā anavarāgraśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā anavakāraśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:366b-9	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་འདུས་མ་བྱས་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་ཐོག་མ་དང་༄༣༦༧ཨ་༌༎ ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:4187	 na manovijñānam upalabhate.  na cakṣuḥsaṃsparśam upalabhate,	K02D0008-10_H0009-10:488b-22	ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ༏་༏མིག་གི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4189	 na śrotrasaṃsparśam upalabhate,  na ghrāṇasaṃsparśam upalabhate,  na jihvāsaṃsparśam upalabhate,	K02D0008-10_H0009-10:488b-23	རྣ་བའི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎ སྣའི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎ ལྕེའི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4192	 na kāyasaṃsparśam upalabhate,	K02D0008-10_H0009-10:488b-26	ལུས་ཀྱི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4193	 na manaḥsaṃsparśam upalabhate.	K02D0008-10_H0009-10:488b-27	ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4194	 na cakṣuḥsaṃsparśapratyayavedanām upalabhate,  na śrotrasaṃsparśapratyayavedanām upalabhate,  na ghrāṇasaṃsparśapratyayavedanām upalabhate, (ŚsP_II-4_118)  na jihvāsaṃsparśapratyayavedanām upalabhate,  na kāyasaṃsparśapratyayavedanām upalabhate,	K02D0008-10_H0009-10:488b-28	མིག་གི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎ རྣ་བའི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎ སྣའི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎ ལྕེའི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4199	 na manaḥsaṃsparśapratyayavedanām upalabhate.	K02D0008-10_H0009-10:489a-2	ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4200	 na pṛthivīdhātum upalabhate,	K02D0008-10_H0009-10:489a-3	སའི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4201	 nābdhātum upalabhate,  na tejodhātum upalabhate,	K02D0008-10_H0009-10:489a-4	ཆུའི་ཁམས་མི་དམིགས་སོ་༎ མེའི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4203	 na vāyudhātum upalabhate,  nākāśadhātum upalabhate,	K02D0008-10_H0009-10:489a-6	རླུང་གི་ཁམས་མི་དམིགས་སོ་༎ ནམ་མཁའི་ཁམས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4205	 na vijñānadhātum upalabhate.  nāvidyām upalabhate,	K02D0008-10_H0009-10:489a-8	རྣམ་པར་ཤེས་པའི་ཁམས་མི་དམིགས་སོ༏་༏མ་རིག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4207	 na saṃskārām upalabhate,	K02D0008-10_H0009-10:489a-9	འདུ་བྱེད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4208	 na vijñānam upalabhate,	K02D0008-10_H0009-10:489a-10	རྣམ་པར་ཤེས་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4209	 na nāmarūpam upalabhate,	K02D0008-10_H0009-10:489a-11	མིང་དང་གཟུགས་མི་དམིགས་སོ་༎
+K02sspp2_4u:4210	 na ṣaḍāyatanam upalabhate,	K02D0008-10_H0009-10:489a-12	སྐྱེ་མཆེད་དྲུག་མི་དམིགས་སོ་༎
+K02sspp2_4u:4211	 na sparśam upalabhate,	K02D0008-10_H0009-10:489a-13	རེག་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4212	 na vedanām upalabhate,	K02D0008-10_H0009-10:489a-14	ཚོར་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4213	 na tṛṣṇām upalabhate,  nopādānam upalabhate,	K02D0008-10_H0009-10:489a-15	སྲེད་པ་མི་དམིགས་སོ་༎ ལེན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4215	 na bhavam upalabhate,  na jātim upalabhate,	K02D0008-10_H0009-10:489a-17	སྲིད་པ་མི་དམིགས་སོ་༎ སྐྱེ་བ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4217	 na jarāmaraṇam upalabhate.	K02D0008-10_H0009-10:489a-19	རྒ་ཤི་མི་དམིགས་སོ་༎
+K02sspp2_4u:10584	 tathā tathā prakṛtiśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:367a-3	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་རང་བཞིན་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10585	 tathā tathā sarvadharmaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:367a-4	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཆོས་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10586	 tathā tathā svalakṣaṇaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā anupalambhaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā abhāvaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,	K02D0008-10_H0009-10:367a-5	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་དང་སེམས་དཔའ་ཆེན་པོ་ནི་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་མི་དམིགས་པ་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10589	 tathā tathā svabhāvaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ,  tathā tathā abhāvasvabhāvaśūnyatāyām avavaditavyo 'nuśāsitavyaḥ.	K02D0008-10_H0009-10:367a-8	རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་། རབ་འབྱོར་། དེ་ལྟར་སློབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་སློབ་པ་ཡིན་།
+K02sspp2_4u:10674	 kṣāntipāramitāyāṃ vīryapāramitāyāṃ dhyānapāramitāyāṃ prajñāpāramitāyām.	K02D0008-10_H0009-10:124a-12	བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའམ་།
+K02sspp2_4u:10675	 adhyātmaśūnyatāyāṃ,  bahirdhāśūnyatāyāṃ,  adhyātmabahirdhāśūnyatāyāṃ,	K02D0008-10_H0009-10:124a-16	ནང་སྟོང་པ་ཉིད་དམ་༎ ཕྱི་སྟོང་པ་ཉིད་དམ༏་ཕྱི་ནང་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:10678	 śūnyatāśūnyatāyāṃ,	K02D0008-10_H0009-10:124a-18	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:10679	 mahāśūnyatāyāṃ,	K02D0008-10_H0009-10:124a-19	ཆེན་པོ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:10680	 paramārthaśūnyatāyāṃ,	K02D0008-10_H0009-10:124a-20	དོན་དམ་པ་སྟོང་པ་ཉིད་དམ་།
+K02sspp2_4u:19	 te tatra gatvā dānapāramitāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:416b-19	སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:20	 śīlapāramitāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:416b-20	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:21	 kṣāntipāramitāyā varṇaṃ bhāṣante,  vīryapāramitāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:416b-21	བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་། བརྩོན་འགྲུས་༄༤༡༧ཨ་༌༎ ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:23	 dhyānapāramitāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:417a-2	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:24	 prajñāpāramitāyā varṇaṃ bhāṣante.  adhyātmaśūnyatāyā varṇaṃ bhāṣante,  bahirdhāśūnyatāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:417a-3	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་པ་དང་། ནང་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་། ཕྱི་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:27	 adhyātmabahirdhāśūnyatāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:417a-5	ཕྱི་ནང་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:28	 śūnyatāśūnyatāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:417a-6	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:29	 mahāśūnyatāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:417a-7	ཆེན་པོ་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:30	 paramārthaśūnyatāyā varṇaṃ bhāṣante,  saṃskṛtaśūnyatāyā varṇaṃ bhāṣante,  asaṃskṛtaśūnyatāyā varṇaṃ bhāṣante,	K02D0008-10_H0009-10:417a-8	དོན་དམ་པ་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་། འདུས་བྱས་སྟོང་པ་ཉིད་བརྩམས་ཤིང་སྤོབས་།
+K02sspp2_4u:2115	 yenopāyakauśalena samanvāgatā bodhisattvo mahāsattvo dānapāramitāyāṃ carati,  śīlapāramitāyāṃ carati,  kṣāntipāramitāyāṃ carati,  vīryapāramitāyāṃ carati,	K02D0008-10_H0009-10:424b-3	བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:2119	 dhyānapāramitāyāṃ carati,  prajñāpāramitāyāṃ carati.  adhyātmaśūnyatāyāṃ carati,  bahirdhāśūnyatāyāṃ carati,  adhyātmabahirdhāśūnyatāyāṃ carati,	K02D0008-10_H0009-10:424b-4	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་དང་། ནང་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཕྱི་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་། ཕྱི་ནང་སྟོང་པ་ཉིད་ལ་སྤྱོད་པ་དང་།
+K02sspp2_4u:426	 paiśunyavairamaṇyāś ca varṇaṃ bhāṣiṣyati, ye cānye (ŚsP_II-4_11)  paiśūnyāt prativiratā bhaviṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:496a-15	བརྫུན་དུ་སྨྲ་བ་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་། གཞན་གང་གིས་བརྫུན་དུ་སྨྲ་བ་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:429	 ātmanā ca pāruṣyāt prativirato bhaviṣyati,	K02D0008-10_H0009-10:496b-0	བདག་༄༤༩༦བ་གིས་ཀྱང་ཕྲ་མ་སྤངས་པ་ཡིན་།
+K02sspp2_4u:4218	 na dānapāramitām upalabhate,	K02D0008-10_H0009-10:489a-20	སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4219	 na śīlapāramitām upalabhate,	K02D0008-10_H0009-10:489a-21	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:430	 parāṃś ca pāruṣyavairamaṇyāṃ samādāyati,	K02D0008-10_H0009-10:496b-1	གཞན་ཡང་ཕྲ་མ་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་།
+K02sspp2_4u:4220	 na kṣāntipāramitām upalabhate,  na vīryapāramitām upalabhate,	K02D0008-10_H0009-10:489a-22	བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎ བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4223	 na prajñāpāramitām upalabhate.	K02D0008-10_H0009-10:489a-25	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4222	 na dhyānapāramitām upalabhate,	K02D0008-10_H0009-10:489a-24	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4228	 na mahāśūnyatām upalabhate,	K02D0008-10_H0009-10:489a-29	ཆེན་པོ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4224	 nādhyātmaśūnyatām upalabhate,  na bahirdhāśūnyatām upalabhate,  nādhyātmabahirdhāśūnyatām upalabhate,  na śūnyatāśūnyatām upalabhate,	K02D0008-10_H0009-10:489a-26	ནང་སྟོང་པ་ཉིད་མི་དམིགས་སོ༏་༏ཕྱི་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ ཕྱི་ནང་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4229	 na paramārthaśūnyatām upalabhate,  na saṃskṛtaśūnyatām upalabhate,	K02D0008-10_H0009-10:489b-0	དོན་དམ་པ་༄༤༨༩བ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ འདུས་བྱས་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ འདུས་མ་བྱས་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4231	 nāsaṃskṛtaśūnyatām upalabhate,  nātyantaśūnyatām upalabhate,  nānavarāgraśūnyatām upalabhate,	K02D0008-10_H0009-10:489b-3	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4234	 nānavakāraśūnyatām upalabhate,  na prakṛtiśūnyatām upalabhate,	K02D0008-10_H0009-10:489b-5	དོར་བ་མེད་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ རང་བཞིན་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4238	 nānupalambhaśūnyatām upalabhate,  nābhāvaśūnyatām upalabhate,	K02D0008-10_H0009-10:489b-8	མི་དམིགས་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4236	 na sarvadharmaśūnyatām upalabhate,  na svalakṣaṇaśūnyatām upalabhate,	K02D0008-10_H0009-10:489b-7	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་མི་དམིགས་སོ༏་༏རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4240	 na svabhāvaśūnyatām upalabhate,  nābhāvasvabhāvaśūnyatām upalabhate.	K02D0008-10_H0009-10:489b-10	ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ༏་༏དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:4242	 na smṛtyupasthānāny upalabhante,	K02D0008-10_H0009-10:489b-11	དྲན་པ་ཉེ་བར་བཞག་པ་བཞི་མི་དམིགས་སོ་༎
+K02sspp2_4u:431	 pārūṣyavairamaṇyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:496b-2	ཕྲ་མ་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་།
+K02sspp2_4u:4243	 na samyakprahāṇāny upalabhante,	K02D0008-10_H0009-10:489b-12	ཡང་དག་པར་སྤོང་བ་བཞི་མི་དམིགས་སོ་༎
+K02sspp2_4u:4244	 na rddhipādān upalabhante,  nendriyāny upalabhante,  na balāny upalabhante,	K02D0008-10_H0009-10:489b-13	རྫུ་འཕྲུལ་གྱི་རྐང་པ་བཞི་མི་དམིགས་སོ་༎ དབང་པོ་ལྔ་མི་དམིགས་སོ་༎ སྟོབས་ལྔ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4247	 na bodhyaṅgāny upalabhante,	K02D0008-10_H0009-10:489b-16	བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་མི་དམིགས་སོ་༎
+K02sspp2_4u:4248	 nāryāṣṭāṅgo mārgam upalabhante,	K02D0008-10_H0009-10:489b-17	འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:4249	 nāryasatyāny upalabhante,	K02D0008-10_H0009-10:489b-18	འཕགས་པའི་བདེན་པ་བཞི་མི་དམིགས་སོ་༎
+K02sspp2_4u:4250	 na dhyānāny upalabhante,	K02D0008-10_H0009-10:489b-19	བསམ་གཏན་བཞི་མི་དམིགས་སོ་༎
+K02sspp2_4u:4251	 nāpramāṇāny upalabhante,	K02D0008-10_H0009-10:489b-20	ཚད་མེད་པ་བཞི་མི་དམིགས་སོ་༎
+K02sspp2_4u:4252	 nārūpyasamāpattīr upalabhante,	K02D0008-10_H0009-10:489b-21	གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་བཞི་མི་དམིགས་སོ་༎
+K02sspp2_4u:4253	 nāṣṭau vimokṣām upalabhante,	K02D0008-10_H0009-10:489b-22	རྣམ་པར་ཐར་པ་བརྒྱད་མི་དམིགས་སོ་༎ མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་མི་དམིགས་སོ་༎ རྣམ་པར་ཐར་པའི་སྒོ་སྟོང་པ་ཉིད་དང་༎ མཚན་མ་མེད་པ་དང་། ༄༤༩༠ཨ་༌༎ སྨོན་པ་མེད་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5057	 dānapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-20	སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5058	 śīlapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-21	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5059	 kṣāntipāramitā prajñāyate,  vīryapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-22	བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎ བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5061	 dhyānapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-24	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5062	 prajñāpāramitā prajñāyate.	K02D0008-10_H0009-10:489a-25	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5063	 adhyātmaśūnyatā prajñāyate,  bahirdhāśūnyatā prajñāyate,  adhyātmabahirdhāśūnyatā prajñāyate,	K02D0008-10_H0009-10:489a-26	ནང་སྟོང་པ་ཉིད་མི་དམིགས་སོ༏་༏ཕྱི་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ ཕྱི་ནང་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:5066	 śūnyatāśūnyatā prajñāyate,	K02D0008-10_H0009-10:489a-28	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:5067	 mahāśūnyatā prajñāyate,	K02D0008-10_H0009-10:489a-29	ཆེན་པོ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:5068	 paramārthaśūnyatā prajñāyate,  saṃskṛtaśūnyatā prajñāyate,  asaṃskṛtaśūnyatā prajñāyate,	K02D0008-10_H0009-10:489b-0	དོན་དམ་པ་༄༤༨༩བ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ འདུས་བྱས་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ འདུས་མ་བྱས་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:5071	 atyantaśūnyatā prajñāyate,  anavarāgraśūnyatā prajñāyate,	K02D0008-10_H0009-10:489b-3	མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:5075	 sarvadharmaśūnyatā prajñāyate,  svalakṣaṇaśūnyatā prajñāyate,	K02D0008-10_H0009-10:489b-7	ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་མི་དམིགས་སོ༏་༏རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:5073	 anavakāraśūnyatā prajñāyate,  prakṛtiśūnyatā prajñāyate,	K02D0008-10_H0009-10:489b-5	དོར་བ་མེད་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ རང་བཞིན་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:432	 ye cānye pāruṣyāt prativiratā bhaviṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:496b-3	གཞན་གང་གིས་ཕྲ་མ་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་།
+K02sspp2_4u:6937	 dānapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-20	སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:5077	 anupalambhaśūnyatā prajñāyate,  abhāvaśūnyatā prajñāyate,	K02D0008-10_H0009-10:489b-8	མི་དམིགས་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:6938	 śīlapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-21	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:6939	 kṣāntipāramitā prajñāyate,  vīryapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-22	བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎ བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:6941	 dhyānapāramitā prajñāyate,	K02D0008-10_H0009-10:489a-24	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:6942	 prajñāpāramitā prajñāyate.	K02D0008-10_H0009-10:489a-25	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མི་དམིགས་སོ་༎
+K02sspp2_4u:6943	 adhyātmaśūnyatā prajñāyate,  bahirdhāśūnyatā prajñāyate,  adhyātmabahirdhāśūnyatā prajñāyate,	K02D0008-10_H0009-10:489a-26	ནང་སྟོང་པ་ཉིད་མི་དམིགས་སོ༏་༏ཕྱི་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎ ཕྱི་ནང་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:6946	 śūnyatāśūnyatā prajñāyate,	K02D0008-10_H0009-10:489a-28	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:6947	 mahāśūnyatā prajñāyate,	K02D0008-10_H0009-10:489a-29	ཆེན་པོ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:6948	 paramārthaśūnyatā prajñāyate,  saṃskṛtaśūnyatā prajñāyate,  asaṃskṛtaśūnyatā prajñāyate,  atyantaśūnyatā prajñāyate,  anavarāgraśūnyatā prajñāyate,	K02D0008-10_H0009-10:489b-0	དོན་དམ་པ་༄༤༨༩བ་སྟོང་པ་ཉིད་མི་དམིགས་སོ་༎
+K02sspp2_4u:355	 kṣāntipāramitayā vivardhiṣyate na parihāsyate 'nupalambhayogena,  vīryapāramitayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:191b-11	བཅོམ་ལྡན་འདས་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའང་འཕེལ་བ་དང་། ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའང་འཕེལ་བ་དང་། ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:354	 śīlapāramitayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:191b-10	ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའང་འཕེལ་བ་དང་། ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:358	 prajñāpāramitayā vivardhiṣyate na parihāsyate 'nupalambhayogena.	K02D0008-10_H0009-10:191b-18	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འང་འཕེལ་བ་དང་། ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:357	 dhyānapāramitayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:191b-16	བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའང་འཕེལ་བ་དང་། ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:359	 adhyātmaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:191b-20	ནང་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་༄༡༩༢ཨ་༌༎
+K02sspp2_4u:360	 bahirdhāśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,  adhyātmabahirdhāśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192a-1	འདས་། ཕྱི་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་། ཕྱི་ནང་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:362	 śūnyatāśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192a-5	སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་།
+K02sspp2_4u:434	 ātmanā ca saṃbhinnapralāpāt prativirato bhaviṣyati,	K02D0008-10_H0009-10:496b-4	བདག་གིས་ཀྱང་ཞེ་གཅོད་པའི་ཚིག་སྤངས་པ་ཡིན་།
+K02sspp2_4u:363	 mahāśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192a-7	ཆེན་པོ་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:366	 asaṃskṛtaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,  atyantaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:192a-9	དོན་དམ་པ་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་། འདུས་བྱས་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎ བཅོམ་ལྡན་འདས་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་ཀྱང་འཕེལ་བ་དང་ཡོངས་སུ་འགྲིབ་པ་མ་མཆིས་པར་འགྱུར་རོ་༎
+K02sspp2_4u:372	 svalakṣaṇaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:201b-24	རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:373	 anupalambhaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,  abhāvaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:201b-26	མི་དམིགས་པ་སྟོང་པ་ཉིད་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎ དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:375	 svabhāvaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena,  abhāvasvabhāvaśūnyatayā vivardhiṣyate na parihāsyate 'nupalambhayogena.	K02D0008-10_H0009-10:202a-0	ངོ་བོ་ཉིད་༄༢༠༢ཨ་༌༎ སྟོང་པ་ཉིད་ལ་འཕེལ་བའང་མེད་དོ་༎ དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:377	 smṛtyupasthānair vivardhiṣyate na parihāsyate 'nupalambhayogena,	K02D0008-10_H0009-10:202a-5	དྲན་པ་ཉེ་བར་བཞག་པ་རྣམས་ལ་འཕེལ་བའང་མེད་དོ་༎ ཡོངས་སུ་འགྲིབ་པའང་མེད་དོ་༎
+K02sspp2_4u:435	 parāṃś ca saṃbhinnapralāpavairamaṇyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:496b-5	གཞན་ཡང་ཞེ་གཅོད་པའི་ཚིག་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་བ་ཡིན་།
+K02sspp2_4u:436	 saṃbhinnapralāpavairamaṇyāś ca varṇaṃ bhāṣiṣyate,	K02D0008-10_H0009-10:496b-6	ཞེ་གཅོད་པའི་ཚིག་སྤོང་བའི་ལེགས་པ་བརྗོད་པ་ཡིན་།
+K02sspp2_4u:437	 ye cānye saṃvinnapralāpāt prativiratā bhaviṣyanti,  teṣām api varṇavādī bhaviṣyati samanujñaḥ,	K02D0008-10_H0009-10:496b-7	གཞན་གང་གིས་ཞེ་གཅོད་པའི་ཚིག་སྤངས་པ་དེ་དག་གི་ལེགས་པ་བརྗོད་ཅིང་མཐུན་པས་དགའ་བར་བྱེད་པ་ཡིན་༎
+K02sspp2_4u:439	 ātmanā cābhidhyāyāḥ prativirato bhaviṣyati,	K02D0008-10_H0009-10:496b-8	བདག་གིས་ཀྱང་ཚིག་བཀྱལ་བ་སྤངས་པ་ཡིན་།
+K02sspp2_4u:440	 parāṃś cābhidhyāvairamaṇyāṃ samādāpayiṣyati,	K02D0008-10_H0009-10:496b-9	གཞན་ཡང་ཚིག་བཀྱལ་པ་སྤོང་བ་ལ་ཡང་དག་པར་བསྐུལ་པ་ཡིན་།

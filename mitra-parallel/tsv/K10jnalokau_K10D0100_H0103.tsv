@@ -1,0 +1,916 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K10jnalokau:1375	 dvipadā vā,  catuḥpadā vā,  bahupadā vā,  sarve te parikalpam upādāya,  apūrvācaramaṃ mānuṣyakam ātmabhāvaṃ pratilabheyuḥ /	K10D0100_H0103:528a-8	འདུ་ཤེས་མེད་པ་དང་། རྐང་པ་མེད་པ་དང་། རྐང་གཉིས་པ་དང་། རྐང་བཞི་པ་དང་། རྐང་མང་གང་ཇི་སྙེད་ཡོད་པ་དེ་དག་ཐམས་ཅད་སྔ་ཕྱི་མེད་པར་མིའི་ལུས་ཐོབ་པར་གྱུར་ལ་།
+K10jnalokau:769	 sā cārthajñānena samatā,  sādvayamukhapraveśena jñānasamatā //	K10D0100_H0103:510a-7	དོན་ཤེས་པ་དང་། རྣམ་པར་ཤེས་པ་ལ་མཉམ་པ་ཉིད་གང་ཡིན་པ་དེ་ནི་། གཉིས་སུ་མེད་པའི་སྒོར་འཇུག་པས་ན་།
+K10jnalokau:771	 nītārthena neyārthasamatā samānārthā sā śūnyatā /  samānārthena pudgalasamatā samā /	K10D0100_H0103:510a-9	ཤེས་པ་ཡིན་ནོ་༎ ངེས་པའི་དོན་དང་། དྲང་བའི་དོན་མཉམ་པ་ཉིད་ཀྱིས་དོན་མཉམ་པ་དེ་ནི་། སྟོང་པ་ཉིད་དོ་༎ སྟོང་པ་ཉིད་དུ་དོན་མཉམ་པས་གང་ཟག་མཉམ་པ་ཉིད་མཉམ་མོ་༎
+K10jnalokau:773	 pudgalasamatayā dharmasamatā samā /  dharmasamatayā vimuktisamatā samā /	K10D0100_H0103:510a-13	གང་ཟག་མཉམ་པ་ཉིད་ཀྱིས་ཆོས་མཉམ་པ་ཉིད་མཉམ་མོ༏་༏ཆོས་མཉམ་པ་ཉིད་ཀྱིས་རྣམ་པར་གྲོལ་བ་མཉམ་པ་ཉིད་མཉམ་སྟེ་།
+K10jnalokau:775	 vimuktisamatayā cānubodho bodhiḥ //	K10D0100_H0103:510a-14	རྣམ་པར་གྲོལ་བ་མཉམ་པ་ཉིད་རྗེས་སུ་རྟོགས་པ་ནི་། བྱང་ཆུབ་བོ་༎
+K10jnalokau:776	 (JĀA 52)  T. 357 245a12-b6, T. 358 251c29-252a1, T. 359(D) 259b18-c20.  rūpasaṅgasaṃyuktānāṃ mañjuśrīś cakṣuḥ saṅgaḥ /	K10D0100_H0103:510a-16	འཇམ་དཔལ་། གཟུགས་ལ་ཆགས་པས་ཆགས་པར་གྱུར་པ་རྣམས་ཀྱི་མིག་ནི་།
+K10jnalokau:780	 rūpacakṣuḥprakṛtijñānam asaṅgaḥ /	K10D0100_H0103:510a-18	གཟུགས་དང་མིག་གི་རང་བཞིན་ཤེས་པ་ནི་། ཆགས་པ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:781	 dṛṣṭisaṅgasaṃyuktānāṃ svakāyaṃ saṅgaḥ /	K10D0100_H0103:510a-20	ལྟ་བ་ལ་ཆགས་པར་གྱུར་པ་རྣམས་ཀྱི་རང་གི་ལུས་ནི་།
+K10jnalokau:782	 sarvadṛṣṭikṛtānāṃ svakāyaprakṛtiś[ṭā̆]ūnyatājñānam asaṅgaḥ /	K10D0100_H0103:510a-22	ལྟ་བར་གྱུར་པ་ཐམས་ཅད་ཀྱི་རང་གི་ལུས་ཀྱི་རང་བཞིན་སྟོང་པ་ཉིད་དུ་ཤེས་པ་ནི་།
+K10jnalokau:1380	 mānuṣyakam ātmabhāvaṃ pratilabhya bodhicittam utpādayeyuḥ /	K10D0100_H0103:528a-9	མིའི་ལུས་ཐོབ་ནས་ཀྱང་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་གྱུར་ལ་།
+K10jnalokau:783	 ayoniśomanaskārasaṅgasaktānāṃ dharmālokaḥ saṅgaḥ /	K10D0100_H0103:510b-0	ཆགས་པ་མེད་པ་ཡིན་༄༥༡༠བ་ནོ༏་༏ཚུལ་བཞིན་མ་ཡིན་པ་ཡིད་ལ་བྱེད་པ་ལ་ཆགས་པས་ཆགས་པར་གྱུར་པ་རྣམས་ཀྱི་ཆོས་ཀྱི་སྣང་བ་ནི་།
+K10jnalokau:784	 yoniśomanaskāradharmapratyavekṣāprakṛtiśūnyatāsvabhāvaśūnyatājñānam asaṅgaḥ /	K10D0100_H0103:510b-2	ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པའི་ཆོས་ལ་སོ་སོར་རྟོག་ཅིང་ངོ་བོ་ཉིད་ཀྱིས་རང་བཞིན་སྟོང་པ་ཉིད་དུ་ཤེས་པ་ནི་།
+K10jnalokau:785	 vicikitsāmalasaṅgasaktānāṃ mokṣaḥ saṅgaḥ /	K10D0100_H0103:510b-4	ཐེ་ཚོམ་གྱི་དྲི་མ་ལ་ཆགས་པས་ཆགས་པར་གྱུར་པ་རྣམས་ཀྱི་ཐར་པ་ནི་། ཆགས་པ་ཡིན་ནོ་༎
+K10jnalokau:786	 adhimuktivimuktiyathābhūtajñānam asaṅgaḥ /	K10D0100_H0103:510b-6	མོས་པ་དང་རྣམ་པར་གྲོལ་བ་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཤེས་པ་ནི་། ཆགས་པ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:787	 kauśīdyamalasaṅgasaktānām adhigamadṛṣṭavīryatā saṅgaḥ /	K10D0100_H0103:510b-8	ལེ་ལོའི་དྲི་མ་ལ་ཆགས་པས་ཆགས་པར་གྱུར་པ་རྣམས་ཀྱི་རྟོགས་པར་བྱ་བ་ལ་བརྩོན་འགྲུས་བརྟན་པ་ཉིད་ནི་། ཆགས་པ་ཡིན་ནོ་༎
+K10jnalokau:1381	 bodhicittam utpādya ekaiko bodhisattvo gaṅgāsikatāsaṃkhyeyānāṃ buddhakṣetraparamāṇurajaḥsamānāṃ  buddhānāṃ bodhisattvānāṃ saśrāvakāṇāṃ cīvarapiṇḍapātaśayanāsanaglānapratyayabhaiṣajyapariṣkārair upatiṣṭhet /	K10D0100_H0103:528b-0	བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་ནས་ཀྱང་བྱང་ཆུབ་སེམས་དཔའ་རེ་རེས་ཀྱང་སངས་༄༥༢༨བ་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་དང་བཅས་། ཉན་ཐོས་དང་བཅས་པ་སངས་རྒྱས་ཀྱི་ཞིང་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་ལ་བསྐལ་པ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་དུ་ན་བཟའ་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། གདན་དང་། སྙུན་གྱི་གསོས་སྨན་དང་། ཡོ་བྱང་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་ཅིང་།
+K10jnalokau:788	 yathādharmāṇām anubodhaḥ saṅgaḥ /	K10D0100_H0103:510b-10	ཆོས་ཇི་ལྟ་བ་བཞིན་རྟོགས་པ་ནི་། ཆགས་པ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:789	 nīvaraṇasaṅgayuktānāṃ bodhyaṅgāni saṅgaḥ /	K10D0100_H0103:510b-12	སྒྲིབ་པ་ལ་ཆགས་པས་ཆགས་པར་གྱུར་པ་རྣམས་ཀྱི་བྱང་ཆུབ་ཀྱི་ཡན་ལག་རྣམས་ནི་། ཆགས་པ་ཡིན་ནོ་༎
+K10jnalokau:790	 anāvaraṇajñānavimokṣo 'saṃgaḥ //	K10D0100_H0103:510b-14	སྒྲིབ་པ་མེད་པའི་རྣམ་པར་ཐར་པ་ཤེས་པ་ནི་། ཆགས་པ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:791	 prakṛtipariśuddhāḥ sarvadharmā hetupratyayasāmagryā pravartante /	K10D0100_H0103:510b-16	རང་བཞིན་གྱིས་ཡོངས་སུ་དག་པའི་ཆོས་ཐམས་ཅད་ནི་། རྒྱུ་དང་རྐྱེན་ཚོགས་པ་ལས་འབྱུང་སྟེ་།
+K10jnalokau:792	 tatra bodhisattvena saṃkleśahetur vyavadānahetuś ca parijñātavyaḥ /	K10D0100_H0103:510b-18	དེ་ལ་བྱང་ཆུབ་སེམས་དཔས་ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་དང་། རྣམ་པར་བྱང་བའི་རྒྱུའང་ཡོངས་སུ་ཤེས་པར་བྱ་ཞིང་།
+K10jnalokau:793	 saṃkleśahetuviśuddhyā ca vyavadānaviśuddhyā ca na sthātavyam//	K10D0100_H0103:510b-19	ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་རྣམ་པར་དག་པ་དང་། རྣམ་པར་བྱང་བའི་རྒྱུ་རྣམ་པར་དག་པས་ཀྱང་གནས་པར་མི་བྱའོ་༎
+K10jnalokau:794	 ātmasamutthānaṃ ca saṃkleśasya hetuḥ /	K10D0100_H0103:511a-0	བདག་ཀུན་ནས་སློང་བ་དང་། ལྟ་བ་ཀུན་༄༥༡༡ཨ་༌༎ ནས་སློང་བ་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:795	 nairātmyadharmāvatārakṣāntir vyavadānasya hetuḥ /	K10D0100_H0103:511a-3	ཆོས་བདག་མེད་པ་ལ་འཇུག་པའི་བཟོད་པ་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:1383	 sarvasukhopadhānāni copasaṃharet /	K10D0100_H0103:528b-3	བདེ་བའི་ཡོ་བྱད་ཐམས་ཅད་ཀྱང་ཉེ་བར་སྒྲུབ་པར་བྱེད་ལ་།
+K10jnalokau:796	 ahaṃkāramamakāradṛṣṭiḥ saṃkleśasya hetuḥ /	K10D0100_H0103:511a-5	ངར་འཛིན་པ་དང་། ང་རྒྱལ་གྱི་ལྟ་བ་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:797	 adhyātmopaśamo bahirdhāpacāraś ca vyavadānasya hetuḥ /	K10D0100_H0103:511a-7	ནང་ཉེ་བར་ཞི་པ་དང་། ཕྱི་རོལ་ཏུ་རྒྱུ་བ་མེད་པ་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:798	 kāmavyāpādavihiṃsāvitarkaḥ (JĀA 53)  saṃkleśasya hetuḥ /	K10D0100_H0103:511a-9	འདོད་པ་དང་། གནོད་སེམས་དང་། རྣམ་པར་འཚེ་བ་དང་། རྟོག་པ་དག་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:800	 aśubhāmaitrīkaruṇāmuditopekṣāpratītyadharmāvatārakṣāntir vyavadānasya hetuḥ /	K10D0100_H0103:511a-11	མི་སྡུག་པ་དང་། བྱམས་པ་དང་། སྙིང་རྗེ་དང་། དགའ་བ་དང་། བཏང་སྙོམས་དང་། བརྟེན་པའི་ཆོས་ལ་འཇུག་པའི་བཟོད་པ་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:801	 catvāro viparyāsāḥ saṃkleśasya hetuḥ /	K10D0100_H0103:511a-13	ཕྱིན་ཅི་ལོག་བཞི་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:1384	 gaṅgāsikatāsaṃkhyeyāṃ kalpāṃs (JĀA 79)  teṣāṃ ca parinirvṛtānāṃ stūpāni kārayet,  ratnamayāni,  yojanaśatocchritāni,	K10D0100_H0103:528b-4	དེ་དག་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་རིན་པོ་ཆེ་ལས་བྱས་པའི་འཕང་དུ་དཔག་ཚད་བརྒྱ་ཡོད་པ་།
+K10jnalokau:802	 catvāri samyaksmṛtyupasthānāni vyavadānasya hetuḥ /	K10D0100_H0103:511a-15	ཡང་དག་པའི་དྲན་པ་ཉེ་བར་གཞག་པ་བཞི་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:803	 pañca nīvaraṇāni saṃkleśasya hetuḥ /	K10D0100_H0103:511a-17	སྒྲིབ་པ་ལྔ་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:804	 pañcendriyāṇi vyavadānasya hetuḥ /	K10D0100_H0103:511a-19	དབང་པོ་ལྔ་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:805	 ṣaḍ āyatanāni saṃkleśasya hetuḥ /	K10D0100_H0103:511a-21	སྐྱེ་མཆེད་དྲུག་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:806	 ṣaḍ anusmṛtayo vyavadānasya hetuḥ /	K10D0100_H0103:511a-23	རྗེས་སུ་དྲན་པ་དྲུག་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:807	 saptāsaddharmāḥ saṃkleśasya hetuḥ /	K10D0100_H0103:511a-25	དམ་པ་མ་ཡིན་པའི་ཆོས་བདུན་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:1388	 ratnavedikāparivṛtāni,	K10D0100_H0103:528b-5	རིན་པོ་ཆེའི་ལན་ཀན་གྱིས་ཡོངས་སུ་བསྐོར་བ་།
+K10jnalokau:808	 sapta bodhyaṅgāni vyavadānasya hetuḥ /	K10D0100_H0103:511a-27	བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:809	 aṣṭa mithyātvāni saṃkleśasya hetuḥ /	K10D0100_H0103:511a-29	ལོག་པ་ཉིད་བརྒྱད་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:810	 aṣṭau samyaktvāni vyavadānasya hetuḥ /	K10D0100_H0103:511b-0	ཡང་དག་༄༥༡༡བ་པ་ཉིད་བརྒྱད་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:811	 navāghātavastūni saṃkleśasya hetuḥ /	K10D0100_H0103:511b-2	ཀུན་ནས་མནར་སེམས་ཀྱི་དངོས་པོ་དགུ་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:812	 navānupūrvavihārasamāpattayo vyavadānasya hetuḥ /	K10D0100_H0103:511b-4	མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ནི་། རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎
+K10jnalokau:813	 daśākuśalāḥ karmapathāḥ saṃkleśasya hetuḥ /  daśa kuśalāḥ karmapathā vyavadānasya hetuḥ /	K10D0100_H0103:511b-6	མི་དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎ དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་ནི་།
+K10jnalokau:815	 saṃkṣiptena sarve 'kuśalā manaskārāḥ saṃkleśasya hetuḥ,  sarve kuśalā manaskārā vyavadānasya hetuḥ //	K10D0100_H0103:511b-9	རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ཏེ་། མདོར་ན་མི་དགེ་བ་ཡིད་ལ་བྱེད་པ་ཐམས་ཅད་ནི་། ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་ཡིན་ནོ་༎ དགེ་བ་ཡིད་ལ་བྱེད་པ་ཐམས་ཅད་ནི་།
+K10jnalokau:1389	 maṇimuktāratnadāmakṛtaśobhāni,  ucchritacchatradhvajapatākāni,  vaśirājamaṇiratnajālasaṃcchannāni /	K10D0100_H0103:528b-6	ནོར་བུ་དང་། མུ་ཏིག་དང་། རིན་པོ་ཆེའི་ཆུན་པོས་མཛེས་པར་བྱས་པ་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་སྒྲེང་བ་། ནོར་བུ་རིན་པོ་ཆེ་དབང་གི་རྒྱལ་པོའི་དྲ་བས་ཀུན་ནས་ག-ཡོགས་པ་ཤ་སྟག་ཀྱང་བྱེད་དུ་བཅུག་པ་བས་ནི་།
+K10jnalokau:817	 tatra yaḥ saṃkleśasya hetuḥ,  yaś ca vyavadānasya hetuḥ,	K10D0100_H0103:511b-13	རྣམ་པར་བྱང་བའི་རྒྱུ་ཡིན་ནོ་༎ དེ་ལ་ཀུན་ནས་ཉོན་མོངས་པའི་རྒྱུ་གང་ཡིན་པ་དང་། རྣམ་པར་བྱང་བའི་རྒྱུ་གང་ཡིན་པའི་ཆོས་དེ་ཐམས་ཅད་ནི་།
+K10jnalokau:819	 sarve te dharmāḥ prakṛtiśūnyā niḥsattvā nirjīvā niṣpoṣā niṣpuruṣā niṣpudgalā asvāmikā aparigrahā nirvyāpārā māyopamā alakṣaṇā adhyātmopaśāntāḥ	K10D0100_H0103:511b-15	རང་བཞིན་གྱིས་སྟོང་པ་དང་། སེམས་ཅན་མེད་པ་དང་། སྲོག་མེད་པ་དང་། གང་ཟག་མེད་པ་དང་། བདག་པོ་མེད་པ་དང་། ཡོངས་སུ་འཛིན་པ་མེད་པ་དང་། བྱེད་པ་མེད་པ་དང་། སྒྱུ་མ་ལྟ་བུ་དང་། མཚན་ཉིད་མེད་པ་དང་། ནང་ཉེ་བར་ཞི་བ་ཡིན་ནོ་༎
+K10jnalokau:820	 yaś cādhyātmopaśamaḥ sa praśamaḥ /  yaḥ praśamaḥ sā prakṛtiḥ /	K10D0100_H0103:511b-17	ནང་ཉེ་བར་ཞི་བ་གང་ཡིན་པ་དེ་ནི་། རབ་ཏུ་ཞི་བའོ་༎ རབ་ཏུ་ཞི་བ་གང་ཡིན་པ་དེ་ནི་། རང་བཞིན་ནོ་༎
+K10jnalokau:822	 yā prakṛtiḥ so 'nupalambhaḥ /  yo 'nupalambhaḥ so 'nilayaḥ /	K10D0100_H0103:511b-21	རང་བཞིན་གང་ཡིན་པ་དེ་ནི་། དམིགས་སུ་མེད་པའོ་༎ དམིགས་སུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། གནས་མེད་པའོ་༎ གནས་མེད་པ་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:824	 yaś cānilayaḥ tat kham /  khaṃ cākāśam /	K10D0100_H0103:511b-26	དེ་ཁོ་ནའོ་༎ ནམ་མཁའ་སྟེ་།
+K10jnalokau:826	 sa ākāśasamān sarvadharmān prajānāti,	K10D0100_H0103:512a-0	དེས་ཆོས་ཐམས་ཅད་༄༥༡༢ཨ་༌༎
+K10jnalokau:827	 saṃkleśavyavadānena ca vyavaharati,  na cākāśadharmatāṃ vijahāti /	K10D0100_H0103:512a-1	ནམ་མཁའ་ལྟ་བུར་རབ་ཏུ་ཤེས་ན་། ཀུན་ནས་ཉོན་མོངས་པ་དང་རྣམ་པར་བྱང་བས་སྤྱོད་ཀྱང་ནམ་མཁའི་ཆོས་ཉིད་དག་མི་སྤོང་ངོ་༎
+K10jnalokau:829	 tat kasmād dhetoḥ /	K10D0100_H0103:512a-3	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:830	 na kaścin mañjuśrīr dharmaḥ saṃvidyate yasyotpādo nirodho vā bhavet //	K10D0100_H0103:512a-4	འཇམ་དཔལ་། གང་ལ་སྐྱེ་བའམ་། འགག་པར་འགྱུར་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ་༎
+K10jnalokau:836	 amūlāpratiṣṭhānā mañjuśrīs tathāgatena bodhiḥ prāptā /	K10D0100_H0103:512a-10	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པས་ནི་། རྩ་བ་མེད་པ་དང་། གནས་མེད་པར་བྱང་ཆུབ་ཐོབ་བོ་༎
+K10jnalokau:837	 mañjuśrīr āha /	K10D0100_H0103:512a-12	འཇམ་དཔལ་གྱིས་གསོལ་པ་།
+K10jnalokau:838	 tatra katamad bhagavan mūlaṃ katamat pratiṣṭhānam /	K10D0100_H0103:512a-13	བཅོམ་ལྡན་འདས་། དེ་ལ་རྩ་བ་ནི་། གང་ལགས་། གནས་ནི་།
+K10jnalokau:839	 bhagavān āha /	K10D0100_H0103:512a-16	གང་ལགས་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K10jnalokau:840	 satkāyo mañjuśrīr mūlam abhūtaparikalpaḥ pratiṣṭhānam /	K10D0100_H0103:512a-17	འཇམ་དཔལ་། འཇིག་ཚོགས་ནི་། རྩ་བ་ཡིན་ནོ་༎ ཡང་དག་པ་མ་ཡིན་པའི་ཀུན་ཏུ་རྟོག་པ་ནི་། གནས་ཡིན་ནོ་༎
+K10jnalokau:841	 tat tathāgatena mañjuśrīr bodhisamatayā sarvadharmasamatā jñātā /	K10D0100_H0103:512a-21	འཇམ་དཔལ་། དེ་ལ་དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་མཉམ་པ་ཉིད་ཀྱིས་ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་དུ་ཤེས་ཏེ་།
+K10jnalokau:842	 tasmād ucyate mañjuśrīr amūlāpratiṣṭhānā tathāgatena bodhir abhisaṃbuddheti //	K10D0100_H0103:512a-22	འཇམ་དཔལ་། དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་རྩ་བ་མེད་པ་དང་། གནས་མེད་པར་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཞེས་བྱའོ་༎
+K10jnalokau:845	 bodhir mañjuśrīḥ śāntā copaśāntā ca /	K10D0100_H0103:512a-23	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་། ཞི་བ་དང་། ཉེ་བར་ཞི་བ་ཡིན་ཏེ་།
+K10jnalokau:1392	 yo cānyo bodhisattva āśayasaṃpannaḥ /  imaṃ dharmaparyāyaṃ sarvabuddhaviṣayāvatārajñānālokālaṃkāraṃ śrutvādhimucyed avataret pattīyet paribuddhet /	K10D0100_H0103:528b-9	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་བསམ་པ་ཕུན་སུམ་ཚོགས་པ་གཞན་གང་ཞིག་གིས་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཡུལ་ལ་འཇུག་པ་ཡེ་ཤེས་སྣང་བའི་རྒྱན་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་མོས་པར་བྱེད་། འཇུག་པར་བྱེད་། ཡིད་ཆེས་པར་བྱེད་ཅིང་།
+K10jnalokau:846	 tatra katamaḥ śamaḥ katama upaśamaḥ /	K10D0100_H0103:512b-0	གང་། ཉེ་བར་༄༥༡༢བ་ཞི་བ་ནི༏་གང་ཞེ་ན་།
+K10jnalokau:847	 adhyātmaṃ śamaḥ,	K10D0100_H0103:512b-1	ནང་ནི་། ཞི་བ་ཡིན་ནོ་༎
+K10jnalokau:848	 bahirdhopaśamaḥ /	K10D0100_H0103:512b-2	ཕྱི་རོལ་ནི་། ཉེ་བར་ཞི་བ་ཡིན་ནོ་༎
+K10jnalokau:849	 tat kasmād dhetoḥ /	K10D0100_H0103:512b-4	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:850	 cakśur mañjuśrīḥ śūnyam ātmanā cātmīyena ca,	K10D0100_H0103:512b-5	འཇམ་དཔལ་། མིག་ནི་། བདག་དང་བདག་གིས་སྟོང་སྟེ་།
+K10jnalokau:851	 prakṛtir asyaiṣā,  ayam ucyate śama iti /	K10D0100_H0103:512b-7	དེའི་རང་བཞིན་དེ་ཡིན་པའི་ཕྱིར་དེ་ནི་། ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:1394	 antaśa ekām api gāthām uddiśed ayaṃ tato saṃkhyeyataraṃ puṇyaṃ prasavet /	K10D0100_H0103:529a-0	ཡོངས་སུ་རྟོགས་པར་བྱས་ནས་ཀྱང་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་༄༥༢༩ཨ་༌༎ བཅད་པ་གཅིག་ཙམ་ཞིག་ལུང་འབོགས་པར་བྱེད་ན་།
+K10jnalokau:853	 sa cakṣuḥ śūnyam iti parijñāya rūpeṣu na dhāvati,	K10D0100_H0103:512b-9	དེས་མིག་སྟོང་པ་ཞེས་བྱ་བར་ཡོངས་སུ་ཤེས་ནས་གཟུགས་རྣམས་ལ་མི་རྒྱུག་སྟེ་།
+K10jnalokau:854	 tenocyata upaśama iti /	K10D0100_H0103:512b-10	དེའི་ཕྱིར་ཉེ་བར་ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:855	 evaṃ śrotraṃ śūnyam ātmanā cātmīyena ca,	K10D0100_H0103:512b-11	དེ་བཞིན་དུ་རྣ་བ་ནི་། བདག་དང་བདག་གིས་སྟོང་སྟེ་།
+K10jnalokau:856	 prakṛtir asyaiṣā,  ayam ucyate śama iti /	K10D0100_H0103:512b-13	དེའི་རང་བཞིན་དེ་ཡིན་པའི་ཕྱིར་དེ་ནི་། ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:858	 sa śrotraṃ śūnyam iti parijñāya śabdeṣu na dhāvati,	K10D0100_H0103:512b-15	དེས་རྣ་བ་སྟོང་པ་ཞེས་བྱ་བར་ཡོངས་སུ་ཤེས་ནས་སྒྲ་རྣམས་ལ་མི་རྒྱུག་སྟེ་།
+K10jnalokau:859	 tenocyata upaśama iti /	K10D0100_H0103:512b-16	དེའི་ཕྱིར་ཉེ་བར་ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:1395	 buddhajñānānugamanaṃ saṃvartakam asya puṇyābhisaṃskārasya /	K10D0100_H0103:529a-2	དེ་ནི་། དེ་བས་ཆེས་སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་རྗེས་སུ་རྟོགས་པར་འགྱུར་བའི་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་ཏེ་།
+K10jnalokau:860	 ghrāṇaṃ śūnyam ātmanā cātmīyena ca,	K10D0100_H0103:512b-17	སྣ་ནི་། བདག་དང་བདག་གིས་སྟོང་སྟེ་།
+K10jnalokau:861	 prakṛtir asyaiṣā,  ayam ucyate śama iti /	K10D0100_H0103:512b-18	དེའི་རང་བཞིན་དེ་ཡིན་པའི་ཕྱིར་དེ་ནི་། ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:863	 sa ghrāṇaṃ śūnyam iti parijñāya gandheṣu na dhāvati,	K10D0100_H0103:512b-20	དེས་སྣ་སྟོང་པ་ཞེས་བྱ་བར་ཡོངས་སུ་ཤེས་ནས་དྲི་རྣམས་ལ་མི་རྒྱུག་སྟེ་།
+K10jnalokau:864	 tenocyata upaśama iti /	K10D0100_H0103:512b-21	དེའི་ཕྱིར་ཉེ་བར་ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:865	 jihvā śūnyātmanā cātmīyena ca,	K10D0100_H0103:512b-22	ལྕེ་ནི་། བདག་དང་བདག་གིས་སྟོང་སྟེ་།
+K10jnalokau:866	 prakṛtir asyā eṣā,  ayam ucyate śama iti /	K10D0100_H0103:512b-23	དེའི་རང་བཞིན་དེ་ཡིན་པའི་ཕྱིར་དེ་ནི་། ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:868	 sa jihvā śūnyeti parijñāya raseṣu na (JĀA 55)	K10D0100_H0103:512b-25	དེས་ལྕེ་སྟོང་པ་ཞེས་བྱ་བར་ཡོངས་སུ་ཤེས་ནས་རོ་རྣམས་ལ་མི་རྒྱུག་སྟེ་།
+K10jnalokau:869	 dhāvati, tenocyata upaśama iti /	K10D0100_H0103:512b-26	དེའི་ཕྱིར་ཉེ་བར་ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:870	 kāyaḥ śūnya ātmanā cātmīyena ca,	K10D0100_H0103:512b-27	ལུས་ནི་། བདག་དང་བདག་གིས་སྟོང་སྟེ་།
+K10jnalokau:871	 prakṛtir asyaiṣā,  ayam ucyate śama iti /	K10D0100_H0103:512b-28	དེའི་རང་བཞིན་དེ་ཡིན་པའི་ཕྱིར་དེ་ནི་། ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:873	 sa kāyaṃ śūnyam iti parijñāya spraṣṭavyeṣu na dhāvati,	K10D0100_H0103:512b-30	དེས་ལུས་སྟོང་པ་ཞེས་བྱ་བར་ཡོངས་སུ་ཤེས་ནས་རེག་བྱ་རྣམས་ལ་མི་རྒྱུག་སྟེ་།
+K10jnalokau:874	 tenocyata upaśama iti /	K10D0100_H0103:512b-31	དེའི་ཕྱིར་ཉེ་བར་ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:875	 mano mañjuśrīḥ śūnyam ātmanā cātmīyena ca,	K10D0100_H0103:512b-32	འཇམ་དཔལ་། ཡིད་ནི་། བདག་དང་༄༥༡༣ཨ་༌༎ བདག་གིས་སྟོང་སྟེ་།
+K10jnalokau:876	 prakṛtir asyaiṣā,  ayam ucyate śama iti /	K10D0100_H0103:513a-2	དེའི་རང་བཞིན་དེ་ཡིན་པའི་ཕྱིར་དེ་ནི་། ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:1396	 asya puṇyābhisaṃskārasya sa pūrvakaḥ puṇyābhisaṃskāraḥ,  teṣāṃ bodhisattvānāṃ dānamayaṃ puṇyakriyāvastu śatatamām api kalāṃ nopaiti,	K10D0100_H0103:529a-3	བསོད་ནམས་མངོན་པར་འདུ་བྱེད་པ་དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་སྦྱིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་སྔ་མ་དེས་ནི་། བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎
+K10jnalokau:878	 sa manaḥ śūnyam iti parijñāya dharmeṣu na dhāvati,	K10D0100_H0103:513a-4	དེས་ཡིད་སྟོང་པ་ཞེས་བྱ་བར་ཡོངས་སུ་ཤེས་ནས་ཆོས་རྣམས་ལ་མི་རྒྱུག་སྟེ༏་དེའི་ཕྱིར་ཉེ་བར་ཞི་བ་ཞེས་བྱའོ་༎
+K10jnalokau:883	 yā sā prakṛti sāsaṃkliṣṭā,	K10D0100_H0103:513a-8	རང་བཞིན་གང་ཡིན་པ་དེ་ནི་། ཀུན་ནས་ཉོན་མོངས་པ་མེད་པ་།
+K10jnalokau:884	 ākāśasamā,	K10D0100_H0103:513a-10	ནམ་མཁའ་དང་མཉམ་པ་།
+K10jnalokau:885	 ākāśaprakṛtiḥ,  ākāśasamavasaraṇā,	K10D0100_H0103:513a-11	ནམ་མཁའི་རང་བཞིན་ཅན་། ནམ་མཁའ་ཡང་དག་པར་འདུ་བ་།
+K10jnalokau:887	 ākāśopamā,	K10D0100_H0103:513a-13	ནམ་མཁའ་ལྟ་བུ་སྟེ་།
+K10jnalokau:888	 atyantaprabhāsvarā prakṛtiḥ //	K10D0100_H0103:513a-14	རང་བཞིན་གྱིས་ཤིན་ཏུ་འོད་གསལ་བ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:890	 bodhir mañjuśrīr anāyūhāniryūhā /	K10D0100_H0103:513a-15	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་། བླང་བ་མེད་པ་ཉིད་དང་། དོར་བ་མེད་པ་ཉིད་ཡིན་ཏེ་།
+K10jnalokau:891	 tatra katamānāyūhatā katamāniryūhatā /	K10D0100_H0103:513a-17	དེ་ལ་བླང་བ་མེད་པ་ཉིད་ནི་། གང་། དོར་བ་མེད་པ་ཉིད་ནི་། གང་ཞེ་ན་།
+K10jnalokau:892	 anāyūhas tenocyate 'grahaḥ sarvadharmāṇām /	K10D0100_H0103:513a-20	བླང་བ་མེད་པ་ཉིད་ཅེས་བྱ་བ་ནི་། ཆོས་ཐམས་ཅད་གཟུང་དུ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:893	 aniryūha ucyate 'nutsargaḥ sarvadharmāṇām /	K10D0100_H0103:513a-22	དོར་བ་མེད་པ་ཉིད་ཅེས་བྱ་བ་ནི་། ཆོས་ཐམས་ཅད་སྤང་དུ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:894	 tatra mañjuśrīs tathāgato 'nāyūho 'niryūha ogham avatārṣīt /	K10D0100_H0103:513a-24	འཇམ་དཔལ་། དེ་ལ་དེ་བཞིན་གཤེགས་པ་ནི་། བླང་བ་མེད་པ་ཉིད་དང་། དོར་བ་མེད་པ་ཉིད་ཀྱིས་ཆུ་བོ་ལས་རྒལ་བར་གྱུར་ཏེ་།
+K10jnalokau:895	 tathā cāvatārṣīd yathā tathatāyā nāpāraṃ na pāraṃ samanupaśyati /  iti hy apārapāravigatāḥ sarvadharmās tathāgatenābhisaṃbuddhāḥ /	K10D0100_H0103:513a-26	ཇི་ལྟར་དེ་བཞིན་ཉིད་ཀྱི་ཚུ་རོལ་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། ཕ་རོལ་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་བ་དེ་ལྟར་ཆུ་བོ་ལས་རྒལ་༄༥༡༣བ་ཏོ༏་༏དེ་ལྟར་དེ་བཞིན་གཤེགས་པས་ཚུ་རོལ་དང་ཕ་རོལ་དང་བྲལ་བའི་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་སྟེ་།
+K10jnalokau:897	 tena tathāgata ity ucyate //	K10D0100_H0103:513b-1	དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱའོ་༎
+K10jnalokau:898	 (JĀA 56)  §23 Ms. 19a4-b1, P. 321a3-8, D. 293b2-6, T. 357 245b27-c5, T. 358 252a15-18, T. 359(D) 260a16-25.  bodhir mañjuśrīr animittānārambaṇā /	K10D0100_H0103:513b-2	འཇམ་དཔལ༏་བྱང་ཆུབ་ནི་། མཚན་མ་མེད་པ་ཉིད་དང་། དམིགས་པ་མེད་པ་ཉིད་ཡིན་ཏེ་།
+K10jnalokau:901	 tatra katamānimittatā katamānārambaṇatā /	K10D0100_H0103:513b-5	གང་། དམིགས་པ་མེད་པ་ཉིད་ནི་། གང་ཞེ་ན་།
+K10jnalokau:1398	 sahasratamām api,  koṭīśatasahasratamām api,  gaṇanām api,  upamām api,  upaniṣadam api nopaiti //	K10D0100_H0103:529a-5	སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་། བྱེ་བ་ཕྲག་འབུམ་གྱི་ཆ་དང་། གྲངས་དང་། ཆ་དང་། བགྲང་བ་དང་། དཔེ་དང་། རྒྱུར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎
+K10jnalokau:902	 cakṣurvijñānānupalabdhir mañjuśrīr animittatā /	K10D0100_H0103:513b-7	འཇམ་དཔལ༏་མིག་གི་རྣམ་པར་ཤེས་པ་མི་དམིགས་པ་ནི་།
+K10jnalokau:903	 rūpasyāsamanupaśyanatānārambaṇatā /	K10D0100_H0103:513b-9	གཟུགས་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་བ་ནི་། དམིགས་པ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:904	 śrotravijñānānupalabdhir animittatā /	K10D0100_H0103:513b-11	རྣ་བའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་པ་ནི་། མཚན་མ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:905	 śabdāśravaṇatānārambaṇatā/	K10D0100_H0103:513b-13	སྒྲ་མཉན་དུ་མེད་པ་ནི་། དམིགས་པ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:906	 ghrāṇavijñānānupalabdhir animittatā /	K10D0100_H0103:513b-15	སྣའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་པ་ནི་། མཚན་མ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:1405	 T. 357 248b22-249a10, T. 358 253b13-19, T. 359(W) 263c27-264b7.  (1) yaḥ kaścin mañjuśrīr gṛhī bodhisattvo gaṅgāsikatāsaṃkhyeyān buddhān bodhisattvān saśrāvakasaṃghān gaṅgāsikatāsaṃkhyeyān (JĀA 80)  kalpān cīvarapiṇḍapātaśayanāsanaglānapratyayabhaiṣajyapariṣkārair upatiṣṭhet /	K10D0100_H0103:529a-6	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་ཁྱིམ་པ་གང་ལ་ལ་ཞིག་གིས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་དང་བཅས་པ་། ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་ཅིག་ལ་བསྐལ་པ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་དུ་ན་བཟའ་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། གདན་དང་། སྙུན་གྱི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་པ་བས་ནི་།
+K10jnalokau:907	 gandhāghrāṇatānārambaṇatā /	K10D0100_H0103:513b-17	དྲི་བསྣམ་དུ་མེད་པ་ནི་། དམིགས་སུ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:908	 jihvāvijñānānupalabdhir animittatā /	K10D0100_H0103:513b-19	ལྕེའི་རྣམ་པར་ཤེས་པ་མི་དམིགས་པ་ནི་། མཚན་མ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:909	 rasāsvādanatānārambaṇatā /	K10D0100_H0103:513b-21	རོ་མྱང་དུ་མེད་པ་ནི་། དམིགས་པ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:910	 kāyavijñānānupalabdhir animittatā /	K10D0100_H0103:513b-23	ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་མི་དམིགས་པ་ནི་། མཚན་མ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:911	 spraṣṭavyāspṛśaṇatānārambaṇatā /	K10D0100_H0103:513b-25	རེག་བྱ་རེག་པར་བྱ་བ་མེད་པ་ནི་། དམིགས་པ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:912	 manovijñānānupalabdhir animittatā /  dharmāvijñānatānārambaṇatā /	K10D0100_H0103:513b-27	ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་མི་དམིགས་པ་ནི་། མཚན་མ་མེད་པ་ཉིད་ཡིན་ནོ་༎ ཆོས་རྣམས་རྣམ་པར་ཤེས་པར་བྱར་མེད་པ་ནི་། དམིགས་པ་མེད་པ་༄༥༡༤ཨ་༌༎ ཉིད་ཡིན་ནོ་༎
+K10jnalokau:914	 ayaṃ mañjuśrīr āryāṇāṃ gocaraḥ /	K10D0100_H0103:514a-2	འཇམ་དཔལ་། དེ་ནི་། འཕགས་པ་རྣམས་ཀྱི་སྤྱོད་ཡུལ་ཡིན་ཏེ་།
+K10jnalokau:915	 yas traidhātuke 'gocaraḥ,  ayaṃ mañjuśrīr āryāṇāṃ gocaraḥ //	K10D0100_H0103:514a-4	འཇམ་དཔལ་། གང་ཁམས་གསུམ་པའི་སྤྱོད་ཡུལ་མ་ཡིན་པ་དེ་ནི་། འཕགས་པ་རྣམས་ཀྱི་སྤྱོད་ཡུལ་ཡིན་ནོ་༎
+K10jnalokau:918	 bodhir mañjuśrīr nātītā nānāgatā na pratyutpannā tryadhvasamā trimaṇḍalaparicchinnā /	K10D0100_H0103:514a-6	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་། འདས་པ་མ་ཡིན་། མ་འོངས་པ་མ་ཡིན་། ད་ལྟར་བྱུང་བ་མ་ཡིན་ཏེ་། དུས་གསུམ་མཉམ་པ་འཁོར་གསུམ་ཡོངས་སུ་ཆད་པ་ཡིན་ནོ་༎
+K10jnalokau:919	 tatra katamo mañjuśrīs trimaṇḍalaparicchedaḥ /	K10D0100_H0103:514a-11	འཇམ་དཔལ་། དེ་ལ་འཁོར་གསུམ་ཡོངས་སུ་ཆད་པ་གང་ཞེ་ན་།
+K10jnalokau:920	 yad atīte cittaṃ nopalabhyate /  anāgate vijñānaṃ na dhāvati /	K10D0100_H0103:514a-12	འདས་པ་ལ་སེམས་མི་འཇུག་པ་དང་། མ་འོངས་པ་ལ་རྣམ་པར་ཤེས་པ་མི་རྒྱུག་པ་དང་། དེ་ལྟར་བྱུང་བ་ལ་ཡིད་ལ་བྱེད་པ་མི་འབྱུང་བ་གང་ཡིན་པ་སྟེ་།
+K10jnalokau:945	 katamat padam /  anānātvam abhedo bhūtakoṭiḥ padam /  anilambho 'bhedo 'calanatā padam /	K10D0100_H0103:514b-21	གཞིའོ་༎ ཐ་དད་པ་ཉིད་མེད་པ་ནི་། དབྱེར་མེད་པའོ་༎ ཡང་དག་པའི་མཐའ་ནི་། གཞིའོ་༎ དམིགས་པ་མེད་པ་ནི་། དབྱེར་མེད་པའོ་༎ ག-ཡོ་བ་མེད་པ་ནི་།
+K10jnalokau:950	 śūnyatābhedo 'nimittaṃ padam /  avitarko 'bhedo 'praṇihitaṃ padam /	K10D0100_H0103:514b-27	གཞིའོ་༎ སྟོང་པ་ཉིད་ནི་། དབྱེར་མེད་པའོ་༎ མཚན་མ་མེད་པ་ནི་། གཞིའོ་༎ རྣམ་པར་རྟོག་པ་མེད་པ་ནི་། དབྱེར་མེད་པའོ་༎
+K10jnalokau:952	 aprārthanābhedo niḥsattvatā padam /	K10D0100_H0103:514b-32	སྨོན་པ་མེད་པ་ནི་། ༄༥༡༥ཨ་༌༎ གཞིའོ༏་༏སྒྲུབ་པ་མེད་པ་ནི་། དབྱེར་མེད་པའོ་༎
+K10jnalokau:953	 sattvāsvabhāvo 'bheda ākāśaṃ padam /  anupalambho 'bhedo 'nutpādaṃ padam /	K10D0100_H0103:515a-2	སེམས་ཅན་མེད་པ་ནི་། གཞིའོ་༎ སེམས་ཅན་གྱི་ངོ་བོ་ཉིད་མེད་པ་ནི་། དབྱེར་མེད་པའོ་༎ ནམ་མཁའ་ནི་། གཞིའོ་༎ དམིགས་སུ་མེད་པ་ནི་། དབྱེར་མེད་པའོ་༎ གཞིའོ་༎ འགག་པ་མེད་པ་ནི་།
+K10jnalokau:968	 tat kasmād dhetoḥ /	K10D0100_H0103:515b-1	བྱང་ཆུབ་ནི་།
+K10jnalokau:1408	 yaś cānyaḥ pravrajito bodhisattvaḥ śīlavān āśayasaṃpanno 'ntaśo yas tiryagyonigate 'pi sattva ekasyāpy ālopaṃ dadyāt /	K10D0100_H0103:529a-9	བྱང་ཆུབ་སེམས་དཔའ་རབ་ཏུ་བྱུང་བ་ཚུལ་ཁྲིམས་དང་ལྡན་པ་། བསམ་པ་ཕུན་སུམ་ཚོགས་པ་གཞན་གང་གིས་ཐ་ན་དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་པའི་སེམས་ཅན་ལ་༄༥༢༩བ་སྦྱིན་པ་ཁམས་གཅིག་ཙམ་ཞིག་ཕྱིན་པར་གྱུར་ན་།
+K10jnalokau:969	 na mañjuśrīr bodhiḥ kāyena vā cittena vā dharmeṇa vā adharmeṇa vā bhūtena vābhūtena vā satyena vā mṛṣā vā vacanīyā //	K10D0100_H0103:515b-2	ལུས་དང་། སེམས་དང་། ཆོས་དང་། ཆོས་མ་ཡིན་པ་དང་། ཡང་དག་པ་དང་། ཡང་དག་པ་མ་ཡིན་པ་དང་། བདེན་པ་དང་། རྫུན་པས་བརྗོད་པར་བྱ་བ་མ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:971	 avacanīyā mañjuśrīr bodhiḥ sarvadharmaiḥ /	K10D0100_H0103:515b-3	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་། ཆོས་ཐམས་ཅད་ཀྱིས་བརྗོད་པར་བྱ་བ་མ་ཡིན་པ་སྟེ་།
+K10jnalokau:972	 tat kasmād dhetoḥ /	K10D0100_H0103:515b-5	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:973	 na mañjuśrīr bodhiḥ kiñcit sthānaṃ yena ca vyavahāraṃ gacchet /	K10D0100_H0103:515b-6	འཇམ་དཔལ་། བྱང་ཆུབ་ལ་ནི་། གང་གིས་ཚིག་དང་། ཐ་སྙད་འཇུག་པར་འགྱུར་བའི་གནས་ཅུང་ཟད་ཀྱང་མེད་པའི་ཕྱིར་རོ་༎
+K10jnalokau:974	 yathā mañjuśrīr ākāśasthānam asaṃskṛtam anutpannam aniruddham avacanīyaṃ tathā mañjuśrīr bodhir asaṃskṛtāsthānānutpannāniruddhāvacanīyā /	K10D0100_H0103:515b-8	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། ནམ་མཁའ་ནི་། གནས་མེད་པ༏་འདུས་མ་བྱས་པ་། མ་སྐྱེས་པ་། མ་འགགས་པ་། བརྗོད་པར་བྱ་བ་མ་ཡིན་པའོ་༎
+K10jnalokau:975	 yathā mañjuśrīr bhūtaṃ parigaveṣyamāṇaṃ sarvadharmair avacanīyam,	K10D0100_H0103:515b-14	འཇམ་དཔལ་། དེ་བཞིན་དུ་བྱང་ཆུབ་ཀྱང་གནས་མེད་པ་། འདུས་མ་བྱས་པ་།
+K10jnalokau:976	 evam eva mañjuśrīr bodhir bhūtā parigaveṣyamāṇā sarvadharmair avacanīyā /	K10D0100_H0103:515b-16	མ་སྐྱེས་པ་། མ་འགགས་པ་། བརྗོད་པར་བྱ་བ་མ་ཡིན་པའོ་༎ འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། ཡང་དག་པར་ཡོངས་སུ་ཚོལ་བ་ན་ཆོས་ཐམས་ཅད་ཀྱིས་བརྗོད་པར་བྱ་བ་མ་ཡིན་པ་དེ་བཞིན་དུ་། འཇམ་དཔལ་། ཡང་དག་པར་བྱང་ཆུབ་ཡོངས་སུ་ཚོལ་བ་ནའང་ཆོས་ཐམས་ཅད་ཀྱིས་བརྗོད་པར་བྱ་བ་མ་ཡིན་ནོ་༎
+K10jnalokau:1409	 tasya puṇyābhisaṃskārasya pūrvakaḥ puṇyābhisaṃskāraḥ śatatamām api kalāṃ nopaiti,  sahasratamām api,  koṭīśatasahasratamām api,  koṭīniyutasahasratamām api,	K10D0100_H0103:529b-1	བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་དེ་ལ་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོའོ༏་༏སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་། བྱེ་བ་ཕྲག་འབུམ་གྱི་ཆ་དང་། གྲངས་དང་། ཆ་དང་།
+K10jnalokau:977	 tat kasmād dhetoḥ /	K10D0100_H0103:515b-22	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:978	 na mañjuśrīr bhūte vacanaṃ saṃvidyate 'nutpannāniruddhatvāt //  (JĀA 59)  §29 Ms. 20b2-21a4, P. 322b3-323a5, D. 294b7-295b1,	K10D0100_H0103:515b-23	འཇམ་དཔལ་། ཡང་དག་པར་ནི་ཚིག་ནི་། མ་སྐྱེས་པ་དང་། མ་འགགས་པ་ཡིན་པས་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:984	 cakṣuḥparijñā mañjuśrīr agrāhyatā rūpānupalabdhir anālayatā /	K10D0100_H0103:516a-5	འཇམ་དཔལ་། མིག་ཡོངས་སུ་ཤེས་པ་ནི་། གཟུང་བ་མེད་པ་ཉིད་ཡིན་ནོ་༎ གཟུགས་དམིགས་སུ་མེད་པ་ནི་། གནས་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:985	 śrotraparijñāgrāhyatā śabdānupalabdhir anālayatā /	K10D0100_H0103:516a-9	རྣ་བ་ཡོངས་སུ་ཤེས་པ་ནི་། གཟུང་བ་མེད་པ་ཉིད་ཡིན་ནོ་༎ སྒྲ་དམིགས་སུ་མེད་པ་ནི་། གནས་མེད་པ་ཉིད་ཡིན་ནོ་༎ སྣ་ཡོངས་སུ་ཤེས་པ་ནི་། གཟུང་བ་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:986	 ghrāṇaparijñāgrāhyatā gandhānupalabdhir anālayatā /  jihvāparijñāgrāhyatā rasānupalabdhir anālayatā /  kāyaparijñāgrāhyatā spraṣṭavyānupalabdhir anālayatā /	K10D0100_H0103:516a-15	དྲི་དམིགས་སུ་མེད་པ་ནི་། གནས་མེད་པ་ཉིད་ཡིན་ནོ་༎ ལྕེ་ཡོངས་སུ་ཤེས་པ་ནི་། གཟུང་བ་མེད་པ་ཉིད་ཡིན་ནོ་༎ རོ་དམིགས་སུ་མེད་པ་ནི་། གནས་མེད་པ་ཉིད་ཡིན་ནོ་༎ ལུས་ཡོངས་སུ་ཤེས་པ་ནི་། གཟུང་བ་མེད་པ་ཉིད་ཡིན་ནོ་༎ རེག་བྱ་དམིགས་སུ་མེད་པ་ནི་། གནས་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:989	 manaḥparijñāgrāhyatā dharmānupalabdhir anālayatā //	K10D0100_H0103:516a-25	ཡིད་ཡོངས་སུ་ཤེས་པ་ནི་། གཟུང་བ་མེད་པ་ཉིད་ཡིན་ནོ་༎ ཆོས་དམིགས་སུ་མེད་པ་ནི༏་གནས་མེད་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:990	 evaṃ tathāgatenāgrāhyānālayā bodhir abhisaṃbuddhā /  abhisaṃbudhya cakṣuṣo 'nanugrahāya rūpānupalabdhitaś cakṣurvijñānaṃ na pratiṣṭhitam /	K10D0100_H0103:516a-28	དེ་བཞིན་གཤེགས་པས་ནི་། དེ་ལྟར་གཟུང་བ་མེད་པ་ཉིད་དང་། གནས་མེད་པ་ཉིད་དུ་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ༏་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་ཀྱང་མིག་གཟུང་དུ་མེད་པ་དང་། གཟུགས་དམིགས་སུ་མེད་པའི་ཕྱིར་མིག་གི་རྣམ་པར་ཤེས་པ་ལ་མི་གནས་སོ་༎
+K10jnalokau:992	 śrotrānanugrahāya śabdānupalabdhitaḥ śrotravijñānaṃ na pratiṣṭhitam /	K10D0100_H0103:516b-0	རྣ་བ་གཟུང་༄༥༡༦བ་དུ་མེད་པ་དང་། སྒྲ་དམིགས་སུ་མེད་པའི་ཕྱིར་རྣ་བའི་རྣམ་པར་ཤེས་པ་ལ་མི་གནས་སོ་༎
+K10jnalokau:993	 ghrāṇānanugrahāya gandhānupalabdhito ghrāṇavijñānaṃ na pratiṣṭhitam /  jihvānanugrahāya rasānupalabdhito jihvāvijñānaṃ na pratiṣṭhitam /	K10D0100_H0103:516b-1	སྣ་གཟུང་དུ་མེད་པ་དང་། དྲི་དམིགས་སུ་མེད་པའི་ཕྱིར་སྣའི་རྣམ་པར་ཤེས་པ་ལ་མི་གནས་སོ་༎ ལྕེ་གཟུང་དུ་མེད་པ་དང་། རོ་དམིགས་སུ་མེད་པའི་ཕྱིར་ལྕེའི་རྣམ་པར་ཤེས་པ་ལ་མི་གནས་སོ་༎
+K10jnalokau:995	 kāyānanugrahāya spraṣṭavyānupalabdhitaḥ (JĀA 60)  kāyavijñānaṃ na pratiṣṭhitam /	K10D0100_H0103:516b-3	ལུས་གཟུང་དུ་མེད་པ་དང་། རེག་བྱ་དམིགས་སུ་མེད་པའི་ཕྱིར་ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་ལ་མི་གནས་སོ་༎
+K10jnalokau:997	 mano'nanugrahāya dharmānupalabdhito manovijñānaṃ na pratiṣṭhitam /	K10D0100_H0103:516b-4	ཡིད་གཟུང་དུ་མེད་པ་དང་། ཆོས་དམིགས་སུ་མེད་པའི་ཕྱིར་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་ལ་མི་གནས་ཏེ་།
+K10jnalokau:998	 tenāpratiṣṭhitavijñānas tathāgato 'rhan samyaksambuddha iti saṃkhyāṃ gacchati //	K10D0100_H0103:516b-5	དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་། རྣམ་པར་ཤེས་པ་ལ་མི་གནས་པ་དང་ལྡན་པ་ཞེས་བྱ་བའི་གྲངས་སུ་འགྲོའོ་༎
+K10jnalokau:999	 catvārīmāni mañjuśrīḥ sattvānāṃ cittapratiṣṭhāni /	K10D0100_H0103:516b-7	འཇམ་དཔལ་། བཞི་པོ་འདི་དག་ནི་། སེམས་ཅན་རྣམས་ཀྱི་སེམས་ཀྱི་གནས་ཡིན་ཏེ་།
+K10jnalokau:1000	 katamāni catvāri yad uta rūpaṃ sattvānāṃ cittasya pratiṣṭhānam /	K10D0100_H0103:516b-9	བཞི་གང་ཞེ་ན་། འདི་ལྟ་སྟེ་། གཟུགས་ནི་། སེམས་ཅན་རྣམས་ཀྱི་སེམས་ཀྱི་གནས་ཡིན་ནོ་༎
+K10jnalokau:1001	 evaṃ vedanāsaṃjñāsaṃskārā mañjuśrīḥ sattvānāṃ cittasya pratiṣṭhānam /	K10D0100_H0103:516b-12	འཇམ་དཔལ༏་དེ་བཞིན་དུ་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་ནི་། སེམས་ཅན་རྣམས་ཀྱི་སེམས་ཀྱི་གནས་ཡིན་ཏེ་།
+K10jnalokau:1002	 tāni khalu punar imāni mañjuśrīś catvāri cittasya pratiṣṭhānāni tathāgatenānutpannāny aniruddhānīti jñātāni //	K10D0100_H0103:516b-14	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པས་ནི༏་སེམས་ཅན་རྣམས་ཀྱི་སེམས་ཀྱི་གནས་བཞི་པོ་དེ་དག་མ་སྐྱེས་པ་དང་། མ་འགགས་པར་ཤེས་སོ་༎
+K10jnalokau:1004	 T. 357 246ab2-19, T. 358 252b16-26, T. 359(D) 260c15-261a5.  bodhir iti mañjuśrīḥ śūnyatāyā etad adhivacanam /	K10D0100_H0103:516b-15	འཇམ་དཔལ་། བྱང་ཆུབ་ཅེས་བྱ་བ་དེ་ནི་། སྟོང་པ་ཉིད་ཀྱི་ཚིག་༄༥༡༧ཨ་༌༎ བླ་དབ༹གས་ཡིན་ཏེ་།
+K10jnalokau:1414	 (2) sacen mañjuśrīs trisāhasramahāsāhasralokadhātuparamāṇurajaḥsamā bodhisattvāḥ pravrajitāḥ śīlavanta āśayaśuddhāḥ,  tata ekaiko bodhisattvo gaṅgānadīsikatāsaṃkhyeyān buddhān bodhisattvān saśrāvakasaṃghāṃś cīvarapiṇḍapātaśayanāsanaglānapratyayabhaiṣajyapariskārair	K10D0100_H0103:529b-3	གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་རབ་ཏུ་བྱུང་བ་ཚུལ་ཁྲིམས་དང་ལྡན་པ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་ལས་བྱང་ཆུབ་སེམས་དཔའ་རེ་རེས་ཀྱང་ཕྱོགས་བཅུའི་སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་དང་བཅས་། ཉན་ཐོས་དང་བཅས་པ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་དག་ལ་བསྐལ་པ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་དུ་ན་བཟའ་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། གདན་དང་། སྙུན་གྱི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་པར་གྱུར་ན་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་སྦྱིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་གང་ཡིན་པ་དེ་ལ་ནི་། བྱང་ཆུབ་སེམས་དཔའ་ཁྱིམ་པའམ་། ཚུལ་ཁྲིམས་དང་ལྡན་པ་གཞན་གང་ཞིག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་མོས་པར་༄༥༣༠ཨ་༌༎
+K10jnalokau:1006	 yayā śūnyatayā mañjuśrīr bodhiḥ śūnyā tayā śūnyatayā mañjuśrīḥ sarvadharmāḥ śūnyāḥ /	K10D0100_H0103:517a-2	འཇམ་དཔལ་། སྟོང་པ་ཉིད་གང་གིས་བྱང་ཆུབ་སྟོང་པའི་སྟོང་པ་ཉིད་དེས་ཆོས་ཐམས་ཅད་ཀྱང་སྟོང་སྟེ་།
+K10jnalokau:1007	 te tathāgatena yathaiva śūnyās tathaivābhisaṃbuddhāḥ /	K10D0100_H0103:517a-3	འཇམ་དཔལ་དེ་བཞིན་གཤེགས་པས་ནི་། དེ་དག་ཇི་ལྟར་སྟོང་པ་དེ་ལྟ་བུ་ཁོ་ནར་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་༎
+K10jnalokau:1008	 na mañjuśrīḥ śūnyatayā śūnyatābhisaṃbuddhāḥ /	K10D0100_H0103:517a-5	འཇམ་དཔལ་། སྟོང་པ་ཉིད་ཀྱིས་སྟོང་པ་ཉིད་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའང་མ་ཡིན་ཏེ་།
+K10jnalokau:1009	 api tu khalu punar mañjuśrīr ekanayam etad yad uta śūnyatā vā bodhir vā /	K10D0100_H0103:517a-6	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། སྟོང་པ་ཉིད་དམ་། བྱང་ཆུབ་དེ་ནི་། ཤེས་པའི་ཚུལ་གཅིག་པ་ཡིན་ནོ་༎
+K10jnalokau:1010	 yatra mañjuśrīr na śūnyatā na bodhiḥ,	K10D0100_H0103:517a-10	འཇམ་དཔལ་། གང་ལ་སྟོང་པ་ཉིད་ཀྱང་མེད་། བྱང་ཆུབ་ཀྱང་མེད་པ་དེ་ལ་ནི་།
+K10jnalokau:1011	 na tatra mañjuśrīḥ kiṃcid dvayaṃ yena dvayena śūnyatā vā bodhir vā dvidhākriyate /	K10D0100_H0103:517a-12	འཇམ་དཔལ་། གང་གིས་སྟོང་པ་ཉིད་དང་། བྱང་ཆུབ་སེམས་གཉིས་སུ་དབྱེ་བའི་གཉིས་ནི་།
+K10jnalokau:1012	 tat kasmād dhetoḥ /	K10D0100_H0103:517a-13	ཅུང་ཟད་ཀྱང་མེད་དོ༏་༏དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1026	 evam ete mañjuśrīḥ sarvadharmās tathāgatena jñātā ādita evājātā anutpannā aniruddhā alakṣaṇāś cittamanovijñānāpagatā anakṣarā aghoṣāḥ /	K10D0100_H0103:517b-18	དེ་བཞིན་གཤེགས་པས་ནི་། ཆོས་དེ་དག་ཐམས་ཅད་དེ་ལྟར་གཟོད་མ་ནས་མ་སྐྱེས་པ་། མ་འགགས་པ་། མཚན་ཉིད་མེད་པ་། སེམས་དང་ཡིད་དང་རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་། ཡི་གེ་མེད་པ་།
+K10jnalokau:1027	 yathā jñātās tathaivādhimuktāḥ /  na mañjuśrīr buddho 'dhimucyate //	K10D0100_H0103:517b-24	སྒྲ་མེད་པར་ཤེས་སོ་༎ འཇམ་དཔལ་། ཇི་ལྟར་ཤེས་པ་དེ་ཁོ་ན་བཞིན་དུ་རྣམ་པར་གྲོལ་ཏེ་།
+K10jnalokau:1419	 imaṃ dharmaparyāyaṃ śrutvādhimucyet pattīyed vā likheta lekhāpayed vā /	K10D0100_H0103:530a-2	ཡིད་ཆེས་པར་བྱེད་། ཡི་གེར་འབྲི་བར་བྱེད་། ཡི་གེར་འབྲིར་འཇུག་པར་བྱེད་ན་།
+K10jnalokau:1031	 bodhir mañjuśrīr ākāśasamā /	K10D0100_H0103:518a-2	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་། ནམ་མཁའ་དང་མཉམ་པ་སྟེ་།
+K10jnalokau:1032	 ākāśaṃ ca na samaṃ na (JĀA 62)	K10D0100_H0103:518a-4	ནམ་མཁའ་ནི་། མཉམ་པ་མ་ཡིན་།
+K10jnalokau:1033	 viṣamaṃ bodhir api na samā na viṣamā /	K10D0100_H0103:518a-6	མི་མཉམ་པ་མ་ཡིན་ལ་བྱང་ཆུབ་ཀྱང་མཉམ་པ་མ་ཡིན་། མི་མཉམ་པ་མ་ཡིན་ནོ་༎
+K10jnalokau:1034	 tat kasmād dhetoḥ /	K10D0100_H0103:518a-8	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1035	 yasya mañjuśrīr dharmasya na bhūtapariniṣpattir nāsau samo na viṣamo vā vaktavya iti /	K10D0100_H0103:518a-9	འཇམ་དཔལ་། ཆོས་གང་ལ་ཡང་དག་པར་ཡོངས་སུ་འགྲུབ་པ་མེད་པ་དེ་ནི༏་མཉམ་པ་དང་། མི་མཉམ་པར་བརྗོད་པར་བྱ་བ་མ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:1036	 hi mañjuśrīs tathāgatena sarvadharmā asamā aviṣamā abhisaṃbuddhāḥ /	K10D0100_H0103:518a-10	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པས་ནི་། དེ་ལྟར་ཆོས་ཐམས་ཅད་མཉམ་པ་མེད་པ་དང་། མི་མཉམ་པ་མེད་པར་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ་།
+K10jnalokau:1038	 yādṛśā eva te dharmāḥ tādṛśā eva vijñātāḥ /	K10D0100_H0103:518a-14	ཡང་དག་པའི་ཤེས་པས་ཆོས་དེ་དག་ཇི་ལྟ་བུ་ཁོ་ནར་ཤེས་སོ་༎
+K10jnalokau:1039	 bhūtajñānena katamac ca mañjuśrīḥ sarvadharmā anutpannāniruddhāḥ,  abhūtvā bhavanti,  abhūtvāś ca prati vigacchanti /	K10D0100_H0103:518a-15	འཇམ་དཔལ་། ཡང་དག་པའི་ཤེས་པའང་གང་ཞེ་ན་། འཇམ་དཔལ་། ཆོས་ཐམས་ཅད་རྩ་བ་མེད་པ་དང་། མ་སྐྱེས་པ་དང་། མ་འགགས་པ་དང་། མ་བྱུང་བ་ལས་འབྱུང་བ་དང་། བྱུང་ནས་ཀྱང་འཇིག་པར་འགྱུར་ཏེ་།
+K10jnalokau:1042	 te cāsvāmikā aparigrahāḥ saṃbhavanti,  asvāmikā aparigrahāś ca mañjuśrīḥ prati vigacchanti /	K10D0100_H0103:518a-17	འཇམ་དཔལ་། དེ་དག་ཀྱང་བདག་པོ་མེད་པ་དང་། ཡོངས་སུ་འཛིན་པ་མེད་པར་འབྱུང་ཞིང་བདག་པོ་མེད་པ་དང་། ཡོངས་སུ་འཛིན་པ་མེད་པར་འཇིག་པར་ཤེས་པའོ་༎
+K10jnalokau:1044	 iti hi mañjuśrīḥ saṃbhavanti vibhavanti ca pratītya dharme vartante na cātra kaścid vartayitā /	K10D0100_H0103:518b-0	འཇམ་དཔལ་། དེ་ལྟར་བྱུང་བ་༄༥༡༨བ་དང་། འཇིག་པ་ལ་བརྟེན་ནས་ཆོས་རྣམས་འཇུག་པར་འགྱུར་ཡང་འདི་ལ་འཇུག་པར་འགྱུར་བ་གང་ཡང་མེད་དེ་།
+K10jnalokau:1420	 asya puṇyābhisaṃskārasya sa pūrvakaḥ puṇyābhisaṃskāraḥ,  sahasratamīm api,  yāvad upaniṣām api na kṣamate //  (JĀA 81)	K10D0100_H0103:530a-5	བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་སྦྱིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་སྔ་མ་དེས་ནི་། བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོའོ༏་༏སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་། བྱེ་བ་ཕྲག་འབུམ་གྱི་ཆ་དང་། གྲངས་དང་། ཆ་དང་། བགྲང་བ་དང་། དཔེ་དང་། རྒྱུར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎
+K10jnalokau:1045	 tad ucyate dharmopacchedāya tathāgato dharmaṃ deśayatīti //  §32 Ms. 22a4-22b3, P. 324a5-b5, D. 296a7-296b6,  T. 357 246c2-17, T. 358 252c3-8, T. 359(W) 261a20-261b9.	K10D0100_H0103:518b-1	དེ་ནི་། ལམ་གྱི་རྒྱུན་བཅད་པའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཆོས་སྟོན་པ་ཞེས་བྱའོ་༎
+K10jnalokau:1048	 bodhir iti mañjuśrīr yathāvatpadam etat /	K10D0100_H0103:518b-2	འཇམ་དཔལ་། བྱང་ཆུབ་ཅེས་བྱ་བ་དེ་ནི་།
+K10jnalokau:1049	 tatra mañjuśrīḥ katamad yathāvatpadam /	K10D0100_H0103:518b-4	འཇམ་དཔལ་། དེ་ལ་ཇི་ལྟ་བ་བཞིན་གྱི་གནས་གང་ཞེ་ན་།
+K10jnalokau:1050	 mañjuśrīr bodhiḥ,  yathā bodhis tathā rūpaṃ tathatān na vyativartate /	K10D0100_H0103:518b-5	འཇམ་དཔལ༏་ཇི་ལྟ་བ་བཞིན་གྱི་གནས་ཞེས་བྱ་བ་ནི་། བྱང་ཆུབ་སྟེ་། བྱང་ཆུབ་ཇི་ལྟ་བ་དེ་བཞིན་གཟུགས་ཀྱང་དེ་བཞིན་ཉིད་ལས་མི་འདའོ་༎
+K10jnalokau:1052	 yathā bodhis tathā vedanāsaṃjñāsaṃskāravijñānaṃ tathatān na vyativartate /	K10D0100_H0103:518b-8	བྱང་ཆུབ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པའང་དེ་བཞིན་ཉིད་ལས་མི་འདའོ་༎
+K10jnalokau:1053	 yathā bodhis tathā pṛthivīdhātus tathatān na vyativartate /	K10D0100_H0103:518b-9	བྱང་ཆུབ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་སའི་ཁམས་དང་དེ་བཞིན་ཉིད་ལས་མི་འདའོ་༎
+K10jnalokau:1054	 (JĀA 63) yathā bodhis tathāpdhātus tejodhātus tathatān na vyativartate /	K10D0100_H0103:518b-10	བྱང་ཆུབ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་ཆུའི་ཁམས་དང་། མེའི་ཁམས་དང་། རླུང་གི་ཁམས་ཀྱང་དེ་བཞིན་ཉིད་ལས་མི་འདའོ་༎
+K10jnalokau:1055	 yathā bodhis tathā cakṣurdhātū rūpadhātuś cakṣurvijñānadhātus tathatān na vyativartate /  yathā hi mañjuśrīr bodhis tathā śrotradhātuḥ śabdadhātuḥ śrotravijñānadhātuḥ,	K10D0100_H0103:518b-11	འཇམ་དཔལ་། བྱང་ཆུབ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་མིག་གི་ཁམས་དང་། གཟུགས་ཀྱི་ཁམས་དང་། མིག་གི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱང་དེ་བཞིན་ཉིད་ལས་མི་འདའོ་༎
+K10jnalokau:1425	 (3) sacen mañjuśrīr bodhisattvo mahāsattvas trisāhasramahāsāhasraṃ lokadhātuṃ saptaratnaparipūrṇāṃ kṛtvā buddhebhyo bhagavadbhyo dānaṃ dadyāt	K10D0100_H0103:530a-7	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་ཡོངས་སུ་བཀང་སྟེ་སངས་རྒྱས་རྣམས་ལ་དབུལ་བར་འབུལ་ཞིང་།
+K10jnalokau:1057	 ghrāṇadhātur gandhadātur ghrāṇavijñānadhātuḥ,  jihvādhātū rasadhātur jihvāvijñānadhātuḥ,  kāyadhātuḥ spraṣṭavyadhātuḥ kāyavijñānadhātuḥ,  manodhātur dharmadhātur manovijñānadhātus tathatān na vyativartante /	K10D0100_H0103:519a-0	བྱང་ཆུབ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་རྣ་བའི་ཁམས་དང་། སྒྲའི་ཁམས་དང་། རྣ་བའི་རྣམ་པར་ཤེས་པའི་ཁམས་དང་། སྣའི་ཁམས་དང་། དྲིའི་ཁམས་དང་། སྣའི་རྣམ་པར་ཤེས་པའི་ཁམས་དང་། ལྕེའི་༄༥༡༩ཨ་༌༎ ཁམས་དང༏་རོའི་ཁམས་དང་། ལྕེའི་རྣམ་པར་ཤེས་པའི་ཁམས་དང་། ལུས་ཀྱི་ཁམས་དང་། རེག་བྱའི་ཁམས་དང་། ལུས་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་དང་། ཡིད་ཀྱི་ཁམས་དང་། ཆོས་ཀྱི་ཁམས་དང་། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱང་དེ་བཞིན་ཉིད་ལས་མི་འདའོ་༎
+K10jnalokau:1061	 etāvatī ceyaṃ dharmaprajñaptiḥ /	K10D0100_H0103:519a-2	ཆོས་གདགས་པ་ང་ནི༏་འདི་ཙམ་དུ་ཟད་དེ་།
+K10jnalokau:1062	 yaduta skandhadhātvāyatanaprajñaptiḥ /	K10D0100_H0103:519a-3	འདི་ལྟ་སྟེ་། ཕུང་པོ་དང་། ཁམས་དང་། སྐྱེ་མཆེད་དུ་གདགས་པའོ་༎
+K10jnalokau:1063	 sā tathāgatena yathāvadabhisaṃbuddhā yathaiva pūrvāt tathā paścāt tathā madhye /	K10D0100_H0103:519a-5	དེ་བཞིན་གཤེགས་པས་ནི་། དེ་དག་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཤིང་ཕྱིན་ཅི་མ་ལོག་པར་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་༎ སྔོན་ཇི་ལྟ་བ་བཞིན་དུ་ཕྱིས་ཀྱང་དེ་བཞིན་བར་དུའང་དེ་བཞིན་ཏེ་།
+K10jnalokau:1064	 pūrvāntato 'jātāparāntato 'saṃkrāntā madhyo viviktā /	K10D0100_H0103:519a-9	སྔོན་གྱི་མཐར་མ་སྐྱེས་པ་དང་། ཕྱི་མའི་མཐར་མི་འཕོ་བ་དང་། དབུས་སུ་བདེན་པ་ཡིན་ནོ་༎
+K10jnalokau:1065	 evam evaiṣāṃ yathāvatpadaṃ bhavati /	K10D0100_H0103:519a-10	དེ་ལྟར་དེ་དག་ཇི་ལྟ་བ་བཞིན་གྱི་གནས་ཡིན་ཏེ༏་གཅིག་ཇི་ལྟ་བ་བཞིན་དུ་ཐམས་ཅད་དེ་བཞིན་ལ་།
+K10jnalokau:1066	 yathaikas tathā sarve,  yathā sarve tathā caikaḥ /	K10D0100_H0103:519a-11	ཐམས་ཅད་ཇི་ལྟ་བ་བཞིན་དུ་གཅིག་ཀྱང་དེ་བཞིན་ཏེ་།
+K10jnalokau:1427	 yo vānyo bodhisattva imān dharmaparyāyān antaśaś catuṣpādikāṃ gāthāṃ bodhisattvasya deśayet /	K10D0100_H0103:530a-9	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་ཞིག་བྱང་ཆུབ་སེམས་དཔའ་གཞན་ལ་བསྟན་པར་གྱུར་ན་།
+K10jnalokau:1068	 na cātra mañjuśrīr ekatvaṃ vā bahutvaṃ copalabhyate //	K10D0100_H0103:519a-12	འཇམ་དཔལ་། འདི་ལ་ནི་། གཅིག་པ་ཉིད་དམ༏་མང་པོ་ཉིད་དུ་དམིགས་སུ་མེད་དོ་༎
+K10jnalokau:1074	 anākāra ucyate 'nupalambhaḥ sarveṣāṃ dharmāṇām /	K10D0100_H0103:519b-5	རྣམ་པ་མེད་པ་ཞེས་བྱ་བ་ནི་། ཆོས་ཐམས་ཅད་དམིགས་སུ་མེད་པའོ་༎
+K10jnalokau:1075	 ākāra ucyate 'navasthitasya cittasyāvasthānam /	K10D0100_H0103:519b-7	རྣམ་པ་ཞེས་བྱ་བ་ནི་། སེམས་མི་གནས་པའི་གནས་སྐབས་སོ་༎ རྣམ་པ་མེད་པ་ཞེས་བྱ་བ་ནི་།
+K10jnalokau:1076	 anākāra ucyate (JĀA 63)  'nimittaḥ samādhir vimokṣamukham /	K10D0100_H0103:519b-10	རྣམ་པར་ཐར་པའི་སྒོ་མཚན་མ་མེད་པའི་ཏིང་ངེ་འཛིན་ཏོ་༎
+K10jnalokau:1078	 ākāra ucyate cittanātulanāgaṇanāpratyavekṣāvimokṣaḥ sarvadharmāṇām /	K10D0100_H0103:519b-11	རྣམ་པ་ཞེས་བྱ་བ་ནི་། ཆོས་ཐམས་ཅད་ལ་སེམས་པ་དང་། འཇལ་བ་དང་། བགྲང་བ་དང་། སོ་སོར་རྟོག་པའོ་༎
+K10jnalokau:1079	 anākāra ucyate tulāsamatikramaḥ /	K10D0100_H0103:519b-13	རྣམ་པ་མེད་པ་ཞེས་བྱ་བ་ནི་། གཞལ་བ་ལས་ཡང་དག་པར་འདས་པ་སྟེ་།
+K10jnalokau:1080	 katamaś ca tulāsamatikramaḥ /	K10D0100_H0103:519b-15	གཞལ་བ་ལས་ཡང་དག་པར་འདས་པའང་གང་ཞེ་ན་།
+K10jnalokau:1081	 yatra vijñānakarma nāsti /	K10D0100_H0103:519b-16	གང་ལ་རྣམ་པར་ཤེས་པའི་ལས་མེད་པའོ་༎
+K10jnalokau:1082	 ākāra ucyate saṃskṛtapratyavekṣā /	K10D0100_H0103:519b-17	རྣམ་པ་ཞེས་བྱ་བ་ནི་། འདུས་བྱས་ལ་སོ་སོར་རྟོག་པའོ་༎
+K10jnalokau:1083	 anākāra ucyate 'saṃskṛtapratyavekṣā //  §34 Ms. 22b7-23b4, P. 325a1-325b6, D. 297a2-297b5,	K10D0100_H0103:519b-19	རྣམ་པ་མེད་པ་ཞེས་བྱ་བ་ནི་། འདུས་མ་བྱས་ལ་སོ་སོར་རྟོག་པའོ་༎
+K10jnalokau:1282	 jitās te mānasā doṣāḥ śārīrāś ca caturvidhāḥ /	K10D0100_H0103:525a-28	ཁྱོད་ཀྱིས་ཡིད་ཀྱི་ཉེས་པ་དང་༎ ལུས་ཀྱི་ནད་བཞི་ཕམ་པར་མཛད་༎
+K10jnalokau:1428	 asya puṇyābhisaṃskārasya sa pūrvakaḥ puṇyābhisaṃskāraḥ śatatamām api kalāṃ nopaiti,  sahasratamām api,	K10D0100_H0103:530a-10	བསོད་ནམས་མངོན་པར་འདུ་བ་དེ་ལ་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་སྔ་མ་དེས་ནི་།
+K10jnalokau:1085	 T. 357 246c23-249a18, T. 358 252c12-26, T. 359(W) 261b16-261c10.  bodhir mañjuśrīr anāsravo 'nupādānatā /	K10D0100_H0103:519b-21	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་། ཟག་པ་མེད་པ་ཉིད་དང་། ལེན་པ་མེད་པ་ཉིད་ཡིན་ཏེ་།
+K10jnalokau:1087	 tatra mañjuśrīḥ katamo 'nāsravaḥ katamānupādānatā /	K10D0100_H0103:519b-23	འཇམ་དཔལ་། དེ་ལ་ཟག་པ་མེད་པ་ཉིད་གང་། ལེན་པ་མེད་པ་ཉིད་གང་ཞེ་ན་།
+K10jnalokau:1088	 anāsravatā mañjuśrīr ucyate caturṇām āsravānāṃ vigamaḥ /	K10D0100_H0103:519b-25	འཇམ་དཔལ་། ཟག་པ་མེད་པ་ཉིད་ཅེས་བྱ་བ་ནི་། ཟག་པ་བཞི་དང་བྲལ་བ་སྟེ་།
+K10jnalokau:1089	 katameṣāṃ caturṇām,	K10D0100_H0103:519b-27	བཞི་པོ་དེ་དག་ཀྱང་གང་ཞེ་ན་།
+K10jnalokau:1090	 yaduta kāmāsravasya,  bhavāsravasya,  avidyāsravasya,  dṛṣṭvāsravasya ca,	K10D0100_H0103:519b-29	འདོད་པའི་ཟག་པ་དང་། སྲིད་པའི་ཟག་པ་དང་། མ་རིག་པའི་ཟག་པ་དང་། ལྟ་བའི་ཟག་པ་སྟེ་།
+K10jnalokau:1094	 eṣāṃ caturṇām āsravāṇām /  anupādānatocyate caturṇām upādānānāṃ vigamaḥ /	K10D0100_H0103:520a-0	ཟག་པ་བཞི་པོ་༄༥༢༠ཨ་༌༎ དེ་དང་བྲལ་བའོ་༎ ལེན་པ་མེད་པ་ཉིད་ཅེས་བྱ་བ་ནི་།
+K10jnalokau:1096	 katameṣāṃ caturṇām /	K10D0100_H0103:520a-4	བཞི་པོ་དེ་དག་ཀྱང་གང་ཞེ་ན་།
+K10jnalokau:1097	 kāmopādānasya,  dṛṣṭyupādānasya,  śīlavrataparāmarśopādānasya,  ātmavādopādānasya ca,	K10D0100_H0103:520a-5	འདི་ལྟ་སྟེ་། འདོད་པའི་ལེན་པ་དང་། ལྟ་བའི་ལེན་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ལེན་པ་དང་། བདག་ཏུ་སྨྲ་བའི་ལེན་པ་སྟེ་།
+K10jnalokau:1430	 śatasahasratamām api,  koṭīśatasahasratamām api,  yāvad upaniṣām api na kṣamate //	K10D0100_H0103:530b-0	༄༥༣༠བ་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎ སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་། བྱེ་བ་ཕྲག་འབུམ་གྱི་ཆ་དང་། གྲངས་དང་། ཆ་དང་། བགྲང་བ་དང་། དཔེ་དང་། རྒྱུར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎
+K10jnalokau:1101	 eṣāṃ caturṇām upādānānām /	K10D0100_H0103:520a-7	ལེན་པ་བཞི་པོ་དེ་དག་དང་བྲལ་བའོ་༎
+K10jnalokau:1102	 sarvāṇy avidyayā andhīkṛtāni,	K10D0100_H0103:520a-8	འཇམ་དཔལ་། དེ་ལ་སེམས་ཅན་མ་རིག་པས་ལྗོངས་པར་བྱས་པ་།
+K10jnalokau:1103	 tṛṣṇayālālapitāni,	K10D0100_H0103:520a-9	སྲེད་པས་དཀྲུགས་པར་གྱུར་པ་དག་ནི་།
+K10jnalokau:1104	 anyonyābhiniveśyopādīyante /	K10D0100_H0103:520a-10	ཕན་ཚུན་མངོན་པར་ཞེན་པར་གྱུར་ནས་ལེན་པར་བྱེད་ཀྱི་།
+K10jnalokau:1105	 tatra mañjuśrīs tathāgata ātmavādopādānamūlaparijñātāvī /  ātmaviśuddhyā sarvasattvaviśuddhim anugataḥ /  yā cātmaviśuddhiḥ sā sarvasattvaviśuddhiḥ /  yā sarvasattvaviśuddhir advaidhā advaidhīkārā /	K10D0100_H0103:520a-11	དེ་བཞིན་གཤེགས་པས་ནི་། བདག་ཏུ་སྨྲ་བའི་ལེན་པ་རྩ་བ་ཡིན་པར་ཡོངས་སུ་ཤེས་ནས་བདག་རྣམ་པར་དག་པས་སེམས་ཅན་ཐམས་ཅད་རྣམ་པར་དག་པ་རྗེས་སུ་རྟོགས་པར་གྱུར་ཏེ་། བདག་རྣམ་པར་དག་པ་དང་ཡིན་པ་དང་། སེམས་ཅན་རྣམ་པར་དག་པ་གང་ཡིན་པ་དེ་ནི་། གཉིས་སུ་མེད་དེ་གཉིས་སུ་དབྱེར་མེད་ལ་།
+K10jnalokau:1109	 (JĀA 65) yaś cādvayārthaḥ so 'nutpādānirodhaḥ /	K10D0100_H0103:520a-15	གཉིས་སུ་མེད་པའི་དོན་གང་ཡིན་པ་དེ་ནི་། སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:1110	 anutpādānirodhe mañjuśrīś cittamanovijñānaṃ na pravartate /	K10D0100_H0103:520a-17	འཇམ་དཔལ་སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པ་ལ་ནི་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་འཇུག་པར་མི་འགྱུར་ཏེ་། འཇམ་དཔལ་། གང་ལ་སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་མི་འཇུག་པ་དེ་ལ་ནི་།
+K10jnalokau:1111	 tatra na kaścit parikalpaḥ /  yena vikalpo 'yoniśo 'manasi kuryāt /	K10D0100_H0103:520b-0	ཡོངས་སུ་༄༥༢༠བ་རྟོགས་པ་གང་གིས་ཚུལ་བཞིན་མ་ཡིན་པ་ཡིད་ལ་བྱེད་པར་འགྱུར་བའི་ཡོངས་སུ་རྟོག་པ་གང་ཡང་མེད་དོ་༎
+K10jnalokau:1113	 sa yoniśo manaskārapravṛto 'vidyāṃ na samutthāpayati /	K10D0100_H0103:520b-1	ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ལ་རབ་ཏུ་བརྩོན་པ་དེ་ནི་། མ་རིག་པ་ཀུན་ནས་སློང་བ་མི་བྱེད་དོ་༎
+K10jnalokau:1114	 yac cāvidyāyā asamutthānaṃ tad dvādaśānāṃ bhavāṅgānām asamutthānam /  yad dvādaśānāṃ bhavāṅgānām asamutthānaṃ sājātiḥ /	K10D0100_H0103:520b-3	མ་རིག་པ་ཀུན་ནས་ལྡང་བ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། སྲིད་པའི་ཡན་ལག་བཅུ་གཉིས་པོ་དག་གི་ཀུན་ནས་སློང་བ་མེད་པ་ཡིན་ནོ་༎ སྲིད་པའི་ཡན་ལག་བཅུ་གཉིས་པོ་དག་གི་ཀུན་ནས་ལྡང་བ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། སྐྱེ་བ་མེད་པ་ཡིན་ནོ་༎ སྐྱེ་བ་མེད་པ་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:1116	 yā cājātiḥ sa niyāmaḥ /  yo niyāmaḥ sa nītārthaḥ /  yo nītārthaḥ sa paramārthaḥ /	K10D0100_H0103:520b-8	སྐྱོན་མེད་པ་ཡིན་ནོ་༎ སྐྱོན་མེད་པ་གང་ཡིན་པ་དེ་ནི་། ངེས་པའི་དོན་ཡིན་ནོ་༎ ངེས་པའི་དོན་གང་ཡིན་པ་དེ་ནི་། དོན་དམ་པ་ཡིན་ནོ་༎
+K10jnalokau:1119	 yaḥ paramārthaḥ sa niḥpudgalārthaḥ /  yo niḥpudgalārthaḥ so 'nabhilāpyārthaḥ /	K10D0100_H0103:520b-13	དོན་དམ་པ་གང་ཡིན་པ་དེ་ནི་། གང་ཟག་མེད་པའི་དོན་ཡིན་ནོ་༎ གང་ཟག་མེད་པའི་དོན་གང་ཡིན་པ་དེ་ནི་། བརྗོད་དུ་མེད་པའི་དོན་ཡིན་ནོ་༎
+K10jnalokau:1433	 (4) tiṣṭhantu tāvan mañjuśrīḥ trisāhasramahāsāhasralokadhātuparamāṇurajaḥsamān kalpān dānaṃ dadataḥ puṇyābhisaṃskārāḥ /	K10D0100_H0103:530b-2	འཇམ་དཔལ་། བསྐལ་པ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དུ་སྦྱིན་པའི་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་ལྟ་ཞོག་གི་།
+K10jnalokau:1121	 yaś cānabhilāpyārthaḥ sa pratītyasamutpādārthaḥ /	K10D0100_H0103:520b-17	བརྗོད་དུ་མེད་པའི་དོན་གང་ཡིན་པ་དེ་ནི་། རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་དོན་ཡིན་ནོ་༎
+K10jnalokau:1122	 yaḥ pratītyasamutpādārthaḥ sa dharmārthaḥ /  yo dharmārthaḥ sa tathāgatārthaḥ /	K10D0100_H0103:520b-19	རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་དོན་གང་ཡིན་པ་དེ་ནི་། ཆོས་ཀྱི་དོན་ན་ཡིན་ནོ་༎ ཆོས་ཀྱི་དོན་གང་ཡིན་པ་དེ་ནི་། དེ་བཞིན་གཤེགས་པའི་དོན་ཡིན་ཏེ་།
+K10jnalokau:1124	 tenocyate /  yaḥ pratītyasamutpādaṃ paśyati sa dharmaṃ paśyati /	K10D0100_H0103:520b-23	དེའི་ཕྱིར་གང་གིས་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་མཐོང་བ་དེས་ཆོས་མཐོང་ངོ་༎
+K10jnalokau:1126	 yo dharmaṃ paśyati sa tathāgataṃ paśyati /	K10D0100_H0103:520b-24	གང་གིས་ཆོས་མཐོང་བ་དེས་དེ་བཞིན་གཤེགས་པ་མཐོང་ངོ་༎
+K10jnalokau:1127	 tathā ca paśyati yathā parigaveṣyamāṇo na kiṃcit paśyati /	K10D0100_H0103:520b-25	ཞེས་གསུངས་ཏེ་། ཇི་ལྟར་ཡོངས་སུ་ཚོལ་བ་ན་ཅིའང་མི་མཐོང་བ་དེ་ལྟར་༄༥༢༡ཨ་༌༎
+K10jnalokau:1128	 tatra mañjuśrīḥ katamat kiṃcit /	K10D0100_H0103:521a-1	མཐོང་ངོ་༎ འཇམ་དཔལ་། དེ་ལ་ཅིའང་ཞེས་བྱ་བ་གང་ཞེ་ན་།
+K10jnalokau:1129	 yaduta cittam ārambaṇaṃ ca /	K10D0100_H0103:521a-4	སེམས་ཅང་དམིགས་པ་སྟེ་།
+K10jnalokau:1434	 sacen mañjuśrīr gaṅgāsikatāsaṃkhyeyā bodhisattvā bhaveyuḥ /	K10D0100_H0103:530b-3	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་ཅིག་བྱུང་བར་གྱུར་ལ་།
+K10jnalokau:1130	 sa yadā na cittam,  na cārambaṇaṃ paśyati tadā bhūtam paśyati /	K10D0100_H0103:521a-5	དེས་གང་གི་ཚེ་སེམས་དང་དམིགས་པ་ཡང་དག་པར་རྗེས་སུ་མ་མཐོང་བ་དེའི་ཚེ་ན་ཡང་དག་པར་མཐོང་བ་ཡིན་པས་།
+K10jnalokau:1132	 evam ete dharmās tathāgatena saṃbuddhāḥ samatayā samāḥ //	K10D0100_H0103:521a-6	དེ་བཞིན་གཤེགས་པས་ནི་། ཆོས་དེ་དག་དེ་ལྟར་མཉམ་པ་ཉིད་ཀྱིས་མཉམ་པར་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་༎
+K10jnalokau:1134	 T. 357 247a1-8, T. 358 252c26-253a17, T. 359(W) 261c11-262a5.  bodhir mañjuśrīḥ śuddhā vimalā anaṅgaṇāḥ /  tatra mañjuśrīḥ katamā śuddhiḥ,	K10D0100_H0103:521a-8	འཇམ་དཔལ་། བྱང་ཆུབ་ནི་།
+K10jnalokau:1137	 katamad vimalam,  katamad anaṅgaṇam /	K10D0100_H0103:521a-9	དག་པ་དང་། དྲི་མ་མེད་པ་དག་། ཉོན་མོངས་པ་མེད་པ་ཡིན་ཏེ་།
+K10jnalokau:1154	 ākāśaṃ śuddhiḥ,  gaganaṃ vimalam,	K10D0100_H0103:521b-2	ནམ་མཁའ་ནི་། དག་པའོ་༎ བར་སྣང་ནི་། དྲི་མ་མེད་པའོ་༎ ནམ་མཁའ་ནི་། ཉོན་མོངས་པ་མེད་པའོ་༎
+K10jnalokau:1157	 adhyātmaḥ pariśuddhiḥ,	K10D0100_H0103:521b-7	ནང་ཡོངས་སུ་ཤེས་པ་ནི༏་དག་པའོ་༎
+K10jnalokau:1158	 bahirdhāpracāro vimalam,	K10D0100_H0103:521b-8	ཕྱི་རོལ་ཏུ་རྒྱུ་བ་མེད་པ་ནི་། དྲི་མ་མེད་པའོ་༎ ཕྱི་ནང་དམིགས་སུ་མེད་པ་ནི་། ཉོན་མོངས་པ་མེད་པའོ་༎
+K10jnalokau:1160	 skandhaparijñā śuddhiḥ,	K10D0100_H0103:521b-12	ཕུང་པོ་ཡོངས་སུ་ཤེས་པ་ནི་།
+K10jnalokau:1161	 dhātusvabhāvo vimalam,  āyatanānām apakarṣo 'naṅgaṇam /	K10D0100_H0103:521b-13	དག་པའོ་༎ ཁམས་རང་བཞིན་མེད་པ་ནི་། དྲི་མ་མེད་པའོ་༎ སྐྱེ་མཆོད་རྣམས་སྤོང་བ་ནི་། ཉོན་མོངས་པ་མེད་པའོ་༎
+K10jnalokau:1163	 atīte kṣayajñānaṃ śuddhiḥ,	K10D0100_H0103:521b-17	འདས་པ་ལ་ཟད་པར་ཤེས་པ་ནི་། དག་པའོ་༎ མ་འོངས་པ་ལ་མི་སྐྱེ་བར་ཤེས་པ་ནི་།
+K10jnalokau:1164	 anāgate 'nutpādajñānaṃ vimalam,	K10D0100_H0103:521b-19	དྲི་མ་མེད་པའོ་༎ ད་ལྟར་བྱུང་བ་ལ་ཆོས་གནས་པར་ཤེས་པ་ནི་།
+K10jnalokau:1166	 iti hi mañjuśrīḥ śuddhir vimalam anaṅgaṇam ity ekapadesmin samavasaranti /	K10D0100_H0103:521b-21	ཉོན་མོངས་པ་མེད་པའོ་༎ འཇམ་དཔལ་། དེ་ལྟར་དག་པ་དང་། དྲི་མ་མེད་པ་དང་། ཉོན་མོངས་པ་མེད་པ་ནི་། གནས་གཅིག་ཏུ་ཡང་དག་པར་འདུ་སྟེ་།
+K10jnalokau:1167	 yaduta śāntapade /	K10D0100_H0103:521b-25	ཞི་བའི་གནས་སུའོ་༎ ཞི་བ་གང་ཡིན་པ་དེ་ནི་། རབ་ཏུ་ཞི་བ་ཡིན་ནོ་༎
+K10jnalokau:1168	 yac chāntaṃ tat praśāntam /  yat praśāntaṃ tad upaśāntam /  yad upaśāntaṃ sa upaśamaḥ /	K10D0100_H0103:521b-28	རབ་ཏུ་ཞི་བ་གང་ཡིན་པ་དེ་ནི་། ཉེ་བར་ཞི་བ་ཡིན་ནོ་༎ ཉེ་བར་ཞི་བ་གང་ཡིན་པ་དེ་ནི་། ཉེ་བར་ཞི་བར་གྱུར་བ་ཡིན་ནོ་༎ ཉེ་བར་ཞི་བར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:1171	 yaś copaśamaḥ sa munir ity ucyate /	K10D0100_H0103:521b-33	ཐུབ་པ་ཞེས་བྱའོ་༎
+K10jnalokau:1172	 iti hi mañjuśrīr yathākāśaṃ tathā bodhiḥ /	K10D0100_H0103:521b-34	འཇམ་དཔལ་། དེ་ལྟར་ན་། ནམ་མཁའ་ཇི་ལྟ་བར་བྱང་ཆུབ་ཀྱང་དེ་བཞིན་ནོ་༎
+K10jnalokau:1173	 yathā bodhis tathā dharmāḥ /	K10D0100_H0103:521b-36	བྱང་ཆུབ་ཇི་ལྟ་བར་ཆོས་རྣམས་ཀྱང་དེ་བཞིན་ནོ་།
+K10jnalokau:1174	 yathā dharmās tathā sattvāḥ /  yathā sattvās tathā kṣetrāṇi /	K10D0100_H0103:521b-37	ཆོས་རྣམས་ཇི་ལྟ་བར་སེམས་ཅན་རྣམས་ཀྱང་དེ་བཞིན་ནོ་༎ སེམས་ཅན་རྣམས་ཇི་ལྟ་༄༥༢༢ཨ་༌༎
+K10jnalokau:1176	 yathā kṣetrāṇi tathā nirvāṇam /	K10D0100_H0103:522a-2	ཞིང་རྣམས་ཇི་ལྟ་བར་མྱ་ངན་ལས་འདས་པའང་དེ་བཞིན་ནོ་༎
+K10jnalokau:1177	 tenocyate mañjuśrīr nirvāṇasamāḥ sarvadharmāḥ /	K10D0100_H0103:522a-3	འཇམ་དཔལ་། དེའི་ཕྱིར་ཆོས་ཐམས་ཅད་ནི་མྱ་ངན་ལས་འདས་པ་དང་མཉམ་པ་ཞེས་བྱ་སྟེ་།
+K10jnalokau:1178	 niṣṭhāparyantakāraṇe 'pratipakṣaḥ /	K10D0100_H0103:522a-4	མཐར་ཐུག་པར་གྱུར་བའི་ཕྱིར་གཉེན་པོ་མེད་པ་ཡིན་ལ་།
+K10jnalokau:1179	 niḥpratipakṣakāraṇenādiśuddhāḥ,  ādivimalāḥ,  ādyanaṅgaṇāḥ /	K10D0100_H0103:522a-5	གཉེན་པོ་མེད་པའི་ཕྱིར་གཟོད་མ་ནས་དག་པ་དང་། གཟོད་མ་ནས་དྲི་མ་མེད་པ་དང་། གཟོད་མ་ནས་ཉོན་མོངས་པ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:1182	 tatra mañjuśrīs tathāgatasyaivaṃrūpān sarvadharmān abhisaṃbuddhasya sattvānāṃ (JĀA 67)	K10D0100_H0103:522a-6	འཇམ་དཔལ་། དེ་ལ་དེ་བཞིན་གཤེགས་པ་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་སེམས་ཅན་རྣམས་ཀྱི་ཁམས་ལ་གཟིགས་པ་ནི་།
+K10jnalokau:1283	 acintya vigataupamya nirālamba namo 'stu te // 23 //	K10D0100_H0103:525b-0	བསམ་ཡས་དཔེ་༄༥༢༥བ་དང་རྣམ་བྲལ་བ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1435	 tata ekaiko bodhisattvo gaṅgāsikatāsaṃkhyeyāni buddhakṣetrāṇi jāmbūnadasuvarṇamayāni,	K10D0100_H0103:530b-4	དེ་དག་ལས་བྱང་ཆུབ་སེམས་དཔའ་རེ་རེས་ཀྱང་སངས་རྒྱས་ཀྱི་ཞིང་ཛམབུ་ཆུ་བོའི་གསེར་ལས་བྱས་པ་།
+K10jnalokau:1184	 śuddhā vimalā anaṅgaṇā vikrīḍitā nāma sattveṣu mahākaruṇāḥ pravartate //  T. 357 247b11-247c12, T. 358 253a17-253b1, T. 359(W) 262a6-262b5.	K10D0100_H0103:522a-7	སེམས་ཅན་རྣམས་ལ་དག་པ་། དྲི་མ་མེད་པ་། ཉོན་མོངས་པ་མེད་པས་རྣམ་པ་རོལ་པ་ཞེས་བྱ་བའི་ཐུགས་རྗེ་ཆེན་པོ་སྐྱེ་བར་འགྱུར་རོ་༎
+K10jnalokau:1187	 kathaṃ mañjuśrīr bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:522a-10	འཇམ་དཔལ་། ཇི་ལྟར་ན་། བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ཡིན་ཞེ་ན་།
+K10jnalokau:1188	 yadā mañjuśrīr bodhisattvo na kṣayāya notpādāya nākṣayāya nānutpādāya nānyatkṣīṇakṣayāya ca manyate,	K10D0100_H0103:522a-12	འཇམ་དཔལ་། གང་གི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་ཟད་པའི་ཕྱིར་རློམ་སེམས་སུ་མི་བྱེད་ཅིང་མི་ཟད་པའི་ཕྱིར་ཡང་མ་ཡིན་། སྐྱེ་བའི་ཕྱིར་ཡང་མ་ཡིན་། མི་སྐྱེ་བའི་ཕྱིར་ཡང་མ་ཡིན་། གཏན་ཟད་པ་ཟད་པར་བྱ་བའི་ཕྱིར་ཡང་མ་ཡིན་།
+K10jnalokau:1436	 sarvavṛkṣāṃś ca divyair vastraiḥ pariveṣṭayitvā,	K10D0100_H0103:530b-5	ཤིང་ལྗོན་པ་ཐམས་ཅད་ཀྱང་ལྷའི་གོས་རྣམས་ཀྱིས་ཡོངས་སུ་དཀྲིས་པ་།
+K10jnalokau:1189	 atyantānutpādaṃ ca na vikopayati /	K10D0100_H0103:522a-16	གཏན་མི་སྐྱེ་བ་རྣམ་པར་འཁྲུགས་པར་ཡང་མི་བྱེད་པ་དེ་ལྟར་སྤྱོད་ན་།
+K10jnalokau:1190	 evaṃ ca mañjuśrīś carati bodhisattvacaryāyām /	K10D0100_H0103:522a-17	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་ལ་སྤྱོད་པ་ཡིན་ནོ་༎
+K10jnalokau:1437	 sarvaprabhāsamuccayamaṇiratnajālasaṃcchannāni kṛtvā,	K10D0100_H0103:530b-6	ནོར་བུ་རིན་པོ་ཆེ་འོད་ཐམས་ཅད་ཡང་དག་པར་འདུས་པའི་དྲ་བས་ཀུན་ནས་ག-ཡོགས་པ་།
+K10jnalokau:1191	 punar aparaṃ mañjuśrīr bodhisattvo 'tītaṃ cittaṃ kṣīṇam iti na carati /	K10D0100_H0103:522b-0	འཇམ་༄༥༢༢བ་དཔལ༏་གཞན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་འདས་པའི་སེམས་ལ་ཟད་པ་ཞེས་བྱ་བར་མི་སྤྱོད་།
+K10jnalokau:1192	 anāgataṃ cittam asaṃprāptam iti na carati /	K10D0100_H0103:522b-1	མ་འོངས་པའི་སེམས་ལ་མ་ཐོབ་པ་ཞེས་བྱ་བར་མི་སྤྱོད་།
+K10jnalokau:1193	 pratyutpannaṃ cittaṃ sthitam iti na carati /  na cātītānāgatapratyutpanneṣu citteṣu sajati /	K10D0100_H0103:522b-2	ད་ལྟར་བྱུང་བའི་སེམས་ལ་ཡོད་ཅེས་བྱ་བར་མི་སྤྱོད་ཅིང་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སེམས་ལ་ཆགས་པར་མི་འགྱུར་བ་དེ་ལྟར་སྤྱོད་ན་།
+K10jnalokau:1195	 evaṃ caran mañjuśrīr bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:522b-3	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་སྤྱོད་པ་ཡིན་ནོ་༎
+K10jnalokau:1196	 dānaṃ mañjuśrīr bodhiḥ sattvāś ca tathāgataś cādvayam etad advaidhīkāram /	K10D0100_H0103:522b-4	འཇམ་དཔལ་། གཞན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་སྦྱིན་པ་དང་། བྱང་ཆུབ་དང་། སེམས་ཅན་རྣམས་དང་། དེ་བཞིན་གཤེགས་པ་དེ་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་པ་དེ་ལྟར་སྤྱོད་ན་།
+K10jnalokau:1197	 evaṃ caran bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:522b-5	བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ཡིན་ནོ་༎
+K10jnalokau:1198	 śīlaṃ mañjuśrīr bodhiḥ sattvāś ca tathāgataś cādvayam etad advaidhīkāram /  evaṃ caran bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:522b-6	འཇམ་དཔལ་། དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་ཚུལ་ཁྲིམས་དང་། བྱང་ཆུབ་དང་། སེམས་ཅན་རྣམས་དང་། དེ་བཞིན་གཤེགས་པ་དེ་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་པ་དེ་ལྟར་སྤྱོད་ན༏་བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ཡིན་ནོ་༎
+K10jnalokau:1200	 evaṃ kṣāntir bodhiḥ sattvāś ca tathāgataś ca,  vīryaṃ bodhiḥ sattvāś ca tathāgataś ca, (JĀA 68)  dhyānaṃ bodhiḥ sattvāś ca tathāgataś ca,	K10D0100_H0103:522b-7	འཇམ་དཔལ་། དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་བཟོད་པ་དང་། བྱང་ཆུབ་དང་། སེམས་ཅན་རྣམས་དང་། དེ་བཞིན་གཤེགས་པ་དང་། བརྩོན་འགྲུས་དང་། བྱང་ཆུབ་དང་། སེམས་ཅན་རྣམས་དང་། དེ་བཞིན་གཤེགས་པ་དང་། བསམ་གཏན་དང་།
+K10jnalokau:1203	 evaṃ prajñā bodhis tathāgataś ca sattvāś cādvayam etad advaidhīkāram /	K10D0100_H0103:523a-0	བྱང་ཆུབ་དང་། ༄༥༢༣ཨ་༌༎ སེམས་ཅན་རྣམས་དང་། དེ་བཞིན་གཤེགས་པ་དང་། དེ་བཞིན་དུ་ཤེས་རབ་དང་། བྱང་ཆུབ་དང་། སེམས་ཅན་རྣམས་དང་། དེ་བཞིན་གཤེགས་པ་དེ་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་དབྱེར་མེད་པ་དེ་ལྟར་སྤྱོད་ན་།
+K10jnalokau:1204	 evaṃ caran mañjuśrīr bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:523a-2	བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་སྤྱོད་པའི་ཡིན་ནོ་༎
+K10jnalokau:1205	 sacen mañjuśrīr bodhisattvo na rūpaṃ śūnyam iti carati nāśūnyam iti /	K10D0100_H0103:523a-3	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་གཟུགས་སྟོང་ཞེས་བྱ་བར་མི་སྤྱོད་།
+K10jnalokau:1206	 evaṃ caran mañjuśrīr bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:523a-5	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་ལ་སྤྱོད་པ་ཡིན་ནོ་༎
+K10jnalokau:1207	 tat kasmād dhetoḥ /	K10D0100_H0103:523a-6	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1208	 rūpam eva śūnyaṃ rūpasvabhāvena /	K10D0100_H0103:523a-7	འཇམ་དཔལ་། གཟུགས་ནི་། གཟུགས་ཀྱི་ངོ་བོ་ཉིད་ཀྱི་སྟོང་པའི་ཕྱིར་རོ་༎
+K10jnalokau:1209	 evaṃ vedanāsaṃjñāsaṃskāravijñānaṃ śūnyam iti carati nāśūnyam iti /  evaṃ caran mañjuśrīr bodhisattvaś carati bodhisattvacaryāyām /	K10D0100_H0103:523a-9	འཇམ་དཔལ་། དེ་བཞིན་དུ་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་སྟོང་ཞེས་བྱ་བར་མི་སྤྱོད་། མི་སྟོང་ཞེས་བྱ་བར་མི་སྤྱོད་པ་དེ་ལྟར་སྤྱོད་ན༏་བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་སྤྱོད་པ་ཡིན་ནོ་༎
+K10jnalokau:1211	 tat kasmād dhetoḥ /	K10D0100_H0103:523a-11	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1212	 cittamanovijñānānupalabdhitvāt /	K10D0100_H0103:523a-12	འཇམ་དཔལ་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དམིགས་སུ་མེད་པའི་ཕྱིར་གང་ཡོངས་སུ་ཤེས་པའམ་།
+K10jnalokau:1213	 sa na kaścin mañjuśrīr dharmo vidyate,  yasya parijñānaṃ vā prahāṇaṃ vā bhāvanā vā sākṣātkriyā vā bhavet /	K10D0100_H0103:523a-14	མངོན་སུམ་དུ་བྱ་བའི་ཆོས་དེ་དག་གང་ཡང་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:1215	 yo sā mañjuśrīr budhyate /  kṣaya ity antakṣaya evāsau,	K10D0100_H0103:523b-0	འཇམ་༄༥༢༣བ་དཔལ༏་ཟད་པ་ཞེས་བྱ་བ་གང་ཡིན་པ་དེ་ནི་། གཏན་ཟད་པ་ཁོ་ན་ཡིན་ནོ་༎
+K10jnalokau:1438	 vaśirājamaṇiratnamayaiḥ kūṭāgārair vidyutpradīpamaṇiratnavedikāparivṛtaiḥ paripūrṇāṃ kṛtvā,  ucchritacchatradhvajapatākābhir gaṅgānadīsikatāsaṃkhyeyebhyo buddhebhyo divase divase dānaṃ dadyāt /  evaṃ dadaṅ gaṅgāsikatāsaṃkhyeyān kalpān dānaṃ dadyāt /	K10D0100_H0103:530b-7	ནོར་བུ་རིན་པོ་ཆེ་དབང་གི་རྒྱལ་པོ་ལས་བྱས་པའི་ཁང་པ་བརྩེགས་པ་། ནོར་བུ་རིན་པོ་ཆེ་གློག་གི་སྒྲོན་མའི་ལན་ཀན་གྱིས་ཡོངས་སུ་བསྐོར་བ་དག་གིས་ཡོངས་སུ་གང་བར་བྱས་པ་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་བསྒྲེང་བ་། གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་ཇི་སྙེད་ཅིག་སངས་རྒྱས་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་སྙེད་དག་ལ་ཉིན་གཅིག་བཞིན་དུ་དབུལ་བར་འབུལ་ཞིང་། དེ་ལྟར་ཕུལ་བས་བསྐལ་པ་གངགའའི་བྱེ་མ་ལྟར་གྲངས་མེད་པ་༄༥༣༡ཨ་༌༎
+K10jnalokau:1217	 yaś cātyantatatkṣīṇo na sa kṣapayitavyaḥ /	K10D0100_H0103:523b-2	གཏན་ཟད་པ་གང་ཡིན་པ་དེ་ནི་། ཟད་པར་བྱ་བ་མ་ཡིན་ནོ་༎
+K10jnalokau:1218	 akṣeyakṣīyatvād akṣayaḥ /	K10D0100_H0103:523b-4	ཟད་པ་བྱ་བ་མ་ཡིན་པའི་ཕྱིར་མི་ཟད་པ་ཡིན་ནོ་༎
+K10jnalokau:1219	 tat kasmād dhetoḥ /	K10D0100_H0103:523b-5	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1220	 yathā ca kṣayaḥ saḥ /	K10D0100_H0103:523b-6	འཇམ་དཔལ་། དེ་ནི་། ཇི་ལྟ་བ་བཞིན་དུ་ཟད་པ་ཡིན་ལ་།
+K10jnalokau:1221	 yaś ca yathāvat kṣayaḥ sa na kasyacit kṣayaḥ /	K10D0100_H0103:523b-8	ཇི་ལྟ་བ་བཞིན་དུ་ཟད་པ་གང་ཡིན་པ་དེ་ལ་ནི་། ཟད་པ་ཅུང་ཟད་ཀྱང་མེད་ལ་།
+K10jnalokau:1222	 yasya na kasyacit kṣayas tad asaṃskṛtam /	K10D0100_H0103:523b-10	གང་ལ་ཟད་པ་ཅུང་ཟད་ཀྱང་མེད་པ་དེ་ནི་། འདུས་མ་བྱས་པ་སྟེ་།
+K10jnalokau:1223	 yad asaṃskṛtaṃ tatra notpādo na nirodhaḥ /	K10D0100_H0103:523b-12	འདུས་མ་བྱས་པ་གང་ཡིན་པ་དེ་ལ་ནི་། སྐྱེ་བའང་མེད་།
+K10jnalokau:1225	 utpādād vā tathāgatānām anutpādād vā sthitaivaiṣā dharmatā dharmasthititā dharmadhātuḥ /	K10D0100_H0103:523b-15	དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་རྣམས་བྱུང་ཡང་རུང་། མ་བྱུང་ཡང་རུང་ཆོས་ཉིད་དང་། ཆོས་གནས་པ་ཉིད་དང་། ཆོས་ཀྱི་དབྱིངས་འདི་ནི་། གནས་པ་ཁོ་ན་ཞེས་བྱ་སྟེ་།
+K10jnalokau:1226	 yathā dharmadhātusthitis tathāgatajñānaṃ na pravṛttaṃ na nivṛttam /	K10D0100_H0103:523b-18	ཇི་ལྟར་ཆོས་ཀྱི་དབྱིངས་ལ་གནས་པ་དེ་བཞིན་དུ་ཤེས་པ་དེའང་འཇུག་པར་མི་བྱེད་། ལྡོག་པར་མི་བྱེད་དོ་༎ ཇི་ལྟར་ཤེས་པ་དེ་འཇུག་པར་མི་བྱེད་།
+K10jnalokau:1227	 īdṛśena dharmanayapraveśena āsravā notpadyante na nirudhyante /	K10D0100_H0103:523b-21	ལྡོག་པར་མི་བྱེད་པ་དེ་ལྟ་བུའི་ཆོས་ཀྱི་ཚུལ་ལ་འཇུག་པས་ཟག་པ་སྐྱེད་པར་མི་བྱེད་། འགག་པར་མི་བྱེད་དོ་༎
+K10jnalokau:1228	 āsravakṣaya iti mañjuśrīr vyavahārarutākṣarasaṃketaprajñaptir eṣā nātra kaścid dharma utpadyate vā nirudhyate vā //	K10D0100_H0103:523b-23	འཇམ་དཔལ་། ཟག་པ་ཟད་པ་ཞེས་བྱ་བ་དེ་ནི་། ཐ་སྙད་དང་། སྒྲ་དང་། ཡི་གེ་དང་། བརྡར་གདགས་པ་ཡིན་ཏེ་། འདི་ལ་ནི་། སྐྱེ་བའམ་། འགག་པར་འགྱུར་བའི་ཆོས་གང་ཡང་མེད་དོ་༎
+K10jnalokau:1240	 saṃskārasamatāprāpta nirālamba namo 'stu te // 3 //	K10D0100_H0103:524a-12	འདུ་བྱེད་མཉམ་པ་ཉིད་བརྙེས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1441	 yo vānyo bodhisattva imaṃ dharmaparyāyam adhimucyānyasya bodhisattvasyeto dharmaparyāyād antaśa ekām api catuṣpādikāṃ gāthāṃ deśayed avatārayed (JĀA 82) vā /	K10D0100_H0103:531a-2	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མོས་པར་བྱས་ནས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་ཞིག་བྱང་ཆུབ་སེམས་དཔའ་གཞན་ལ་བསྟན་ཏམ་།
+K10jnalokau:1241	 traidhātukavinirmukta ākāśasamatāṃ gataḥ /	K10D0100_H0103:524a-14	ཁམས་གསུམ་དག་ལས་རྣམ་པར་གྲོལ་༎ མཁའ་ལྟར་མཉམ་ཉིད་ཐུགས་སུ་ཚུད་༎
+K10jnalokau:1242	 nopalepyasi kāmeṣu nirālamba namo 'stu te // 4 //	K10D0100_H0103:524a-16	འདོད་པ་རྣམས་ཀྱིས་མི་གོས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1243	 (JĀA 70)  sadā samāhitaś cāsi gacchaṃs tiṣṭhaṃ śayann api /	K10D0100_H0103:524a-18	གཤེགས་དང་བཞུགས་དང་གཟིམས་པ་ཡི་༎ སྤྱོད་ལམ་རྣམ་པ་ཐམས་ཅད་དུ་༎ རྟག་ཏུ་མཉམ་པར་བཞག་མཛད་པ་༎
+K10jnalokau:1245	 īryāpatheṣu sarveṣu nirālamba namo 'stu te // 5 //	K10D0100_H0103:524a-21	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1246	 samaṃ kṣeṣi samaṃ yāsi samatāyāṃ pratiṣṭhitaḥ /	K10D0100_H0103:524a-22	མཉམ་པར་བྱོན་ཅིང་མཉམ་པར་གཤེགས་༎ མཉམ་པ་ཉིད་ལ་གནས་པ་པོ་༎
+K10jnalokau:1247	 samatāṃ na vikopesi nirālamba namo 'stu te // 6 //	K10D0100_H0103:524a-24	མཉམ་ཞིང་འཁྲུགས་པར་མི་མཛད་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1248	 samatāṃ ca samāpannaḥ sarvadharmasamāhitaḥ /	K10D0100_H0103:524a-26	མཉམ་པ་ཉིད་ལ་ཞུགས་གྱུར་ཅིང་༎ ཆོས་རྣམས་ཀུན་ལ་༄༥༢༤བ་མཉམ་པར་བཞག་།
+K10jnalokau:1249	 ānimittasamāpanna nirālamba namo 'stu te // 7 //	K10D0100_H0103:524b-1	མཚན་མ་མེད་ལ་ཞུགས་གྱུར་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1250	 apratiṣṭhita nirālamba prajñākūṭasamāhita /	K10D0100_H0103:524b-3	མི་གནས་དམིགས་པ་མི་མངའ་བ་༎ ཤེས་རབ་བསགས་ཤིང་མཉམ་པར་བཞག་།
+K10jnalokau:1251	 dharmaiśvaryam anuprāpta nirālamba namo 'stu te // 8 //	K10D0100_H0103:524b-5	ཆོས་ལ་མངའ་དབང་བརྙེས་གྱུར་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1252	 sarvasattvāna ye rūpā rutaghoṣās tathairyatāḥ /	K10D0100_H0103:524b-7	སེམས་ཅན་ཀུན་གྱི་སྒྲ་སྐད་དང་། དེ་བཞིན་གཟུགས་དང་སྤྱོད་ལམ་དག་། སྐད་ཅིག་གཅིག་གིས་གཟིགས་མཛད་པ་༎
+K10jnalokau:1253	 ekakṣaṇena deśeṣi nirālamba namo 'stu te // 9 //	K10D0100_H0103:524b-9	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1254	 nāmarūpavinirmukta skandhahetusamucchidaḥ /	K10D0100_H0103:524b-10	མིང་དང་གཟུགས་ལས་རྣམ་པར་གྲོལ་༎ རྒྱུད་དང་ཕུང་པོ་ཐམས་ཅད་བཅད་༎
+K10jnalokau:1255	 anākārapraveśo 'si nirālamba namo 'stu te // 10 //	K10D0100_H0103:524b-12	རྣམ་པ་མེད་ལ་འཇུག་མཛད་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1256	 nimittāpagataś cāsi nimittakāravarjitaḥ /	K10D0100_H0103:524b-14	མཚན་མ་དག་དང་རྣམ་བྲལ་ཞིང་༎ མཚན་མའི་རྣམ་པ་རྣམ་པར་སྤངས་༎
+K10jnalokau:1257	 ānimittapraveśo 'si nirālamba namo 'stu te // 11 //	K10D0100_H0103:524b-16	མཚན་མ་མེད་ལ་འཇུག་མཛད་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1259	 avikalpitasaṃkalpa apratiṣṭhitamānasa /	K10D0100_H0103:524b-18	ཡང་དག་རྟོག་པས་རྣམ་མ་བརྟགས་ཐུགས་ཡིད་རབ་ཏུ་མི་གནས་ཤིང་༎
+K10jnalokau:1260	 asmṛty amanasīkāra nirālamba namo 'stu te // 12 //	K10D0100_H0103:524b-19	ཡིད་མཛད་མི་མངའ་མི་དགོངས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1261	 anālayaṃ yathākāśaṃ niḥprapañcaṃ nirañjanam /	K10D0100_H0103:524b-21	ནམ་མཁའ་འདྲ་བར་གནས་མི་མངའ༎ ཐོགས་པ་མི་མངའ་སྤྲོས་མི་མངའ༏་༏ནམ་མཁའ་མཉམ་པའི་ཐུགས་མངའ་བ་༎
+K10jnalokau:1285	 anābhogapravṛtto 'si sarvadoṣavivarjitaḥ /	K10D0100_H0103:525b-2	ལྷུན་གྱིས་གྲུབ་པར་འཇུག་མཛད་ཅིང་༎ ཉེས་པ་ཐམས་ཅད་རྣམ་པར་སྤངས་༎
+K10jnalokau:1442	 asya puṇyābhisaṃskārasya sa pūrvakaḥ puṇyābhisaṃskāras teṣāṃ bodhisattvānāṃ dānamayaḥ śatatamām api kalāṃ nopaiti,  sahasratamām api,  śatasahasratamām api,	K10D0100_H0103:531a-3	འཇུག་པར་བྱས་ན་། བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་སྦྱིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་སྔ་མ་དེས་ནི་།
+K10jnalokau:1262	 ākāśasamacitto 'si nirālamba namo 'stu te // 13 //	K10D0100_H0103:524b-23	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1263	 anantamadhyam ākāśaṃ buddhānāṃ caiva dharmatā /	K10D0100_H0103:524b-24	ནམ་མཁའ་དབུས་མཐའ་མ་མཆིས་པ་༎ སངས་རྒྱས་ཆོས་ཉིད་དེ་དང་འདྲ་༎
+K10jnalokau:1264	 tryadhvasamatikrānta nirālamba namo 'stu te // 14 //	K10D0100_H0103:524b-26	དུས་གསུམ་ཡང་དག་འདུས་གྱུར་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1265	 ākāśalakṣaṇā buddhā ākāśaṃ cāpy alakṣaṇam /	K10D0100_H0103:524b-28	ནམ་མཁའི་མཚན་ཉིད་སངས་རྒྱས་ཏེ་༎ ནམ་མཁའང་མཚན་ཉིད་མཆིས་མ་ལགས་༎
+K10jnalokau:1266	 kāryakāraṇanirmukta nirālamba namo 'stu te // 15 //	K10D0100_H0103:525a-0	རྒྱུ་དང་འབྲས་༄༥༢༥ཨ་༌༎ བུ་རྣམ་གྲོལ་ལ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1267	 dakacandravad agrāhya sarvadharmeṣv aniśritaḥ /	K10D0100_H0103:525a-4	གཟུང་བ་མ་མཆིས་ཆུ་ཟླ་འདྲ་༎ ཆོས་རྣམས་ཀུན་ལ་མི་གནས་པ་༎
+K10jnalokau:1445	 saṃkhyām api,  kalām api,  gaṇanām api,  yāvad upaniṣadam api nopaiti //  §42 Ms. 29b6-301b1, P. 332a2-b4, D. 303a7-302a1,  T. 357 249a11-249b5, T. 358 253b19-23, T. 359(W) 264b8-29.	K10D0100_H0103:531a-5	བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎ སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་། བྱེ་བ་ཕྲག་འབུམ་གྱི་ཆ་དང་། གྲངས་དང་། ཆ་དང་། བགྲང་བ་དང་། དཔེ་དང་། རྒྱུར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎
+K10jnalokau:1268	 anahaṃkāra anirghoṣa nirālamba namo 'stu te // 16 //	K10D0100_H0103:525a-6	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1269	 aniśrito 'si skandheṣu dhātuṣv āyataneṣu ca /	K10D0100_H0103:525a-7	ཕུང་པོ་རྣམས་དང་སྐྱེ་མཆེད་དང་། ཁམས་རྣམས་དག་ལ་མིག་ནས་པ་༎ ཕྱིན་ཅི་ལོག་ལས་རྣམ་པར་གྲོལ་༎
+K10jnalokau:1270	 viparyāsavinirmukta nirālamba namo 'stu te // 17 //	K10D0100_H0103:525a-9	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1272	 antadvayavinirmukta ātmadṛṣṭisamucchidaḥ /	K10D0100_H0103:525a-10	མཐའ་གཉིས་དག་ལས་རྣམ་གྲོལ་ཞིང་། བདག་ཏུ་ལྟ་བ་ཡང་དག་བཅས་༎
+K10jnalokau:1273	 dharmadhātusamatāprāpta nirālamba namo 'stu te // 18 //	K10D0100_H0103:525a-12	ཆོས་དབྱིངས་མཉམ་པ་ཉིད་བརྙེས་པ་།
+K10jnalokau:1274	 rūpasaṃkhyāvinirmukta asaddharmavivarjitaḥ /  anupādāna atyāga nirālamba namo 'stu te // 19 //	K10D0100_H0103:525a-13	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ༏་༏གཟུགས་ཀྱི་གྲངས་ལས་རྣམ་གྲོལ་ཞིང་༎
+K10jnalokau:1276	 māradoṣasamatikrānto dharmadhātuṃ gatiṃgataḥ /	K10D0100_H0103:525a-14	དམ་ཆོས་མ་ལགས་རྣམ་པར་སྤངས་༎
+K10jnalokau:1277	 anāvaraṇadharmo 'si nirālamba namo 'stu te // 20 //	K10D0100_H0103:525a-15	ལེན་དང་གཏོང་བ་མི་མངའ་བ་། མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1278	 astīti nocyate 'rthajñaiḥ nāstīty api tu nocyate /  avākpatha anādāna nirālamba namo 'stu te // 21 //  dvayadharma aniśritya mānadhvajasamucchidaḥ /  dvayādvayavinirmukta nirālamba namo 'stu te // 22 //  jitās te mānasā doṣāḥ śārīrāś ca caturvidhāḥ /	K10D0100_H0103:525a-17	བདུད་ཀྱི་མིང་ལས་རབ་འདས་ཤིང་༎
+K10jnalokau:1453	 atha gṛhī bodhisattvas tān sarvān narakatiryakpretayamalokād uddhṛtya pratyekabuddhatve pratiṣṭhāpayet /	K10D0100_H0103:531a-9	དེ་ནས་བྱང་ཆུབ་སེམས་དཔའི་ཁྱིམ་པ་ཞིག་གིས་སེམས་ཅན་དེ་དག་ཐམས་ཅད་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོ་དང་། ཡི་དབ༹གས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་ནས་བཏོན་ཏེ་རང་སངས་རྒྱས་ཉིད་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1294	 acintya samatāprāpta nirālamba namo 'stu te // 28 //	K10D0100_H0103:525a-20	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1454	 yo vānyo bodhisattvaḥ pravrajito 'ntaśas tiryagyonigate 'pi sattva ekam ālopaṃ dadyāt /	K10D0100_H0103:531b-0	བྱང་ཆུབ་སེམས་དཔའ་རབ་ཏུ་བྱུང་བ་གཞན་གང་ཞིག་གིས་ཐ་༄༥༣༡བ་ན་དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་པའི་སེམས་ཅན་ལ་སྦྱིན་པ་ཁམ་གཅིག་ཙམ་ཞིག་བྱིན་པར་གྱུར་ན་།
+K10jnalokau:1455	 ayaṃ tato bahutaram asaṃkhyeyataraṃ puṇyaṃ prasavayāt //	K10D0100_H0103:531b-1	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་མང་བ་དང་། ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1456	 (2) sacen mañjuśrīr daśasu dikṣu buddhakṣetrānabhilāpyakoṭīniyutaśatasahasraparamāṇurajaḥsamāḥ pravrajitā bodhisattvā bhaveyuḥ /  tata ekaiko bodhisattvo daśasu dikṣv ekaikasmin digbhāge daśabuddhakṣetrānabhilāpyakoṭīniyutaśatasahasraparamāṇurajaḥsamān buddhān bhagavataḥ paśyet /	K10D0100_H0103:531b-2	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་རབ་ཏུ་བྱུང་བ་སངས་རྒྱས་ཀྱི་ཞིང་བཅུའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་ཅིག་བྱུང་བར་གྱུར་ལ༏་དེ་དག་ལས་བྱང་ཆུབ་སེམས་དཔའ་རེ་རེས་ཀྱང་ཕྱོགས་བཅུའི་ཕྱོགས་ཆ་རེ་རེར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སངས་རྒྱས་ཀྱི་ཞིང་བརྗོད་དུ་མེད་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་མཐོང་བར་གྱུར་ཅིང་། དེ་བཞིན་གཤེགས་པ་བྱང་ཆུབ་སེམས་དཔའ་དང་བཅས་།
+K10jnalokau:1458	 ekaikaṃ ca tathāgataṃ sabodhisattvaṃ saśrāvakaṃ daśasu buddhakṣetrānabhilāpyakoṭīniyutaśatasahasraparamaṇurajaḥsamān (JĀA 83)  kalpāṃś cīvarapiṇḍapātaśayanāsanaglānapratyayabhaiṣajyapariṣkārair upatiṣṭhet /	K10D0100_H0103:531b-5	ཉན་ཐོས་དང་བཅས་པ་རེ་རེ་ལའང་བསྐལ་པ་སངས་རྒྱས་ཀྱི་ཞིང་བརྗོད་དུ་མེད་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དུ་ན་བཟའ་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། གདན་དང་། སྙུན་གྱི་གསོས་སྨན་དང་།
+K10jnalokau:1286	 jñānapūrvaṅgamā ceṣtā nirālamba namo 'stu te // 24 //	K10D0100_H0103:525b-4	སྤྱོད་པ་མཁྱེན་པས་ཐོག་དྲངས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1460	 ekaikasya ca tathāgatasya divase divase buddhakṣetrānabhilāpyakoṭīniyutaśatasahasraparamāṇurajaḥsamān lokadhātūn vaśirājamaṇiratnapratipūrṇān kṛtvā dānaṃ dadyāt /	K10D0100_H0103:531b-7	དེ་བཞིན་གཤེགས་པ་རེ་རེ་ལའང་ཉིན་གཅིག་བཞིན་དུ་འཇིག་རྟེན་གྱི་ཁམས་སངས་རྒྱས་ཀྱི་ཞིང་བརྗོད་དུ་མེད་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་ནོར་བུ་རིན་པོ་ཆེ་དབང་གི་རྒྱལ་པོས་ཡོངས་སུ་བཀང་སྟེ་དབུལ
+K10jnalokau:1461	 yo vānyo bodhisattvo 'smin dharmaparyāye 'dhimukto 'ntaśas tiryagyonigate 'pi sattva ekam ālopaṃ dadyāt /	K10D0100_H0103:532a-1	ན༏་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མོས་པར་གྱུར་པ་གཞན་ཞིག་གིས་ཐ་ན་དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་པའི་སེམས་ཅན་ལ་སྦྱིན་པ་ཁམ་གཅིག་ཙམ་ཞིག་བྱིན་པར་གྱུར་ན་།
+K10jnalokau:1462	 asya puṇyābhisaṃskārasya pūrvakaḥ puṇyābhisaṃskāras teṣāṃ bodhisattvānāṃ dānamayaḥ śatatamām api kalāṃ nopaiti,	K10D0100_H0103:532a-2	བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་སྦྱིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་མངོན་པར་འདུ་བྱ་བ་སྔ་མ་དེས་ནི་།
+K10jnalokau:1463	 sahasratamām api,  śatasahasratāmām api,  saṃkhyām api,  kalām api,  gaṇanām api,  upaniṣām api,  upaniṣadam api na kṣamate /	K10D0100_H0103:532a-3	བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎ སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་། བྱེ་བ་ཕྲག་འབུམ་གྱི་ཆ་དང་། གྲངས་དང་། ཆ་དང་། བགྲང་བ་དང་། དཔེ་དང་། རྒྱུར་ཡང་ཉེ་བར་མི་འགྲོའོ་༎
+K10jnalokau:1470	 tat kasya hetoḥ /	K10D0100_H0103:532a-5	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1471	 avaivartikānāṃ bodhisattvānām iyaṃ mudrā yadutāsya dharmaparyāyasya śravaḥ //  §43 Ms. 30b1-31a5, P. 332b4-333a4, D. 304a1-304b6,  T. 357 249b6-249c19, T. 358 -, T. 359(W) 264b30-265a11.	K10D0100_H0103:532a-6	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་པ་ནི་། བྱང་ཆུབ་སེམས་དཔའ་ཕྱིར་མི་ལྡོག་པ་རྣམས་ཀྱི་ཕྱག་རྒྱ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:1474	 (1) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sattvān śraddhānusāritve pratiṣṭhāpayet /	K10D0100_H0103:532a-9	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་དད་པའི་རྗེས་སུ་འབྲང་བ་ཉིད་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1287	 anāsravā te smṛtiḥ sūkṣmā bhūtābhūteṣu tanmayā /	K10D0100_H0103:525b-6	ཁྱོད་དགོངས་ཞི་ཞིང་ཟག་མི་མངའ༎ འབྱུང་མིན་འབྱུང་བའི་བདག་ཅན་༎
+K10jnalokau:1475	 yo vānyo bodhisattva ekaṃ sattvam arthānusāritve pratiṣṭhāpayet /	K10D0100_H0103:532a-10	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་དོན་གྱི་རྗེས་སུ་འབྲང་བ་ཉིད་ལ་བཀོད་པར་གྱུར་ན་།
+K10jnalokau:1476	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:532b-0	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་༄༥༣༢བ་འགྱུར་རོ་༎
+K10jnalokau:1477	 (2) sacen mañjuśrīr bodhisattvo daśadikṣu sarvalokadhātuṣu sarvasattvān arthānusāritve pratiṣṭhāpayet /	K10D0100_H0103:532b-1	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་དོན་གྱི་རྗེས་སུ་འབྲང་བ་ཉིད་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1478	 yo vānyo bodhisattva ekaṃ sattvaṃ dharmānusāritve pratiṣṭhāpayet /	K10D0100_H0103:532b-2	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་ཆོས་ཀྱི་རྗེས་སུ་འབྲང་བ་ཉིད་ལ་བཀོད་པར་གྱུར་ན་།
+K10jnalokau:1479	 ayaṃ (JĀA 84) tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:532b-3	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1480	 (3) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sattvān dharmānusāritve pratiṣṭhāpayet /	K10D0100_H0103:532b-4	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་ཆོས་ཀྱི་རྗེས་སུ་འབྲང་བ་ཉིད་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1481	 yo vānyo bodhisattva ekaṃ sattvaṃ srotāpattiphale pratiṣṭhāpayet /	K10D0100_H0103:532b-5	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ལ་བཀོད་པར་གྱུར་ན་།
+K10jnalokau:1288	 aniketa asaṃkalpa nirālamba namo 'stu te // 25 //	K10D0100_H0103:525b-8	གནས་དང་རྟོག་པ་མི་མངའ་བ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1482	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:532b-6	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1483	 (4) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sarvasattvān srota-āpattiphale pratiṣṭhāpayet /	K10D0100_H0103:532b-7	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1484	 yo vānyo bodhisattva ekaṃ sattvaṃ sakṛdāgāmiphale pratiṣṭhāpayet /	K10D0100_H0103:532b-8	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་ལན་གཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ལ་བཀོད་པར་གྱུར་པ་དེ་ནི་།
+K10jnalokau:1485	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:532b-9	དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1486	 (5) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sarvasattvān sakṛdāgāmiphale pratiṣṭhāpayet /	K10D0100_H0103:533a-0	༄༥༣༣ཨ་༌༎ འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་ལན་གཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1487	 yo vānyo bodhisattva ekaṃ sattvam ānāgāmiphale pratiṣṭhāpayet /	K10D0100_H0103:533a-2	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ལ་བཀོད་པར་གྱུར་ན༏་དེ་ནི་།
+K10jnalokau:1289	 anārambaṇena cittena sarvacittaṃ prajānasi /	K10D0100_H0103:525b-10	དམིགས་པ་མི་མངའ་ཐུགས་ཀྱིས་སུ་༎ ཀུན་གྱི་སེམས་ནི་རབ་ཏུ་མཁྱེན་༎
+K10jnalokau:1488	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:533a-3	དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1489	 (6) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sarvasattvān anāgāmiphale pratiṣṭhāpayet /	K10D0100_H0103:533a-4	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1490	 yo (JĀA 85) vānyo bodhisattva ekaṃ sattvaṃ arhatve pratiṣṭhāpayet /	K10D0100_H0103:533a-5	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་དགྲ་བཅོམ་པ་ཉིད་ལ་བཀོད་པར་གྱུར་ན་།
+K10jnalokau:1491	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:533a-6	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1290	 na cātmaparasaṃjñā te nirālamba namo 'stu te // 26 //	K10D0100_H0103:525b-12	བདག་གཞན་འདུ་ཤེས་མི་མངའ་བ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ༏་༏དམིགས་དང་དམིགས་པ་རྣམས་ཀྱིས་ནི་༎
+K10jnalokau:1492	 (7) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sarvasattvān arhatve pratiṣṭhāpayet /	K10D0100_H0103:533a-7	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་དགྲ་བཅོམ་པ་ཉིད་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1493	 yo vānyo bodhisattva ekaṃ sattvaṃ pratyekabuddhatve pratiṣṭhāpayet /	K10D0100_H0103:533a-8	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་རང་སངས་རྒྱས་ཉིད་ལ་བཀོད་པར་གྱུར་ན་།
+K10jnalokau:1494	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavati //	K10D0100_H0103:533b-0	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་༄༥༣༣བ་རོ༏་༏འཇམ་དཔལ་།
+K10jnalokau:1495	 (8) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sarvasattvān pratyekabuddhatve pratiṣṭhāpayet /  yo vānyo bodhisattva ekaṃ sattvaṃ bodhicitte pratiṣṭhāpayet /	K10D0100_H0103:533b-1	གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་རང་སངས་རྒྱས་ཉིད་ལ་བཀོད་པ་བས་ནི༏་བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བཀོད་པར་གྱུར
+K10jnalokau:1497	 ayaṃ tato 'saṃkhyeyataraṃ puṇyaṃ prasavet //	K10D0100_H0103:533b-2	ན་། དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1498	 (9) sacen mañjuśrīr bodhisattvo daśasu dikṣu sarvalokadhātuṣu sarvasattvān bodhicitte pratiṣṭhāpayet /	K10D0100_H0103:533b-4	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1499	 yo vānyo bodhisattva ekaṃ sattvam avaivartikatve pratiṣṭhāpayet /	K10D0100_H0103:533b-5	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་སེམས་ཅན་གཅིག་ཅིག་ཕྱིར་མི་ལྡོག་པ་ཉིད་ལ་བཀོད་པར་གྱུར་ན་།
+K10jnalokau:1500	 ayaṃ tato bahutaraṃ puṇyaṃ prasavet //  (JĀA 86)	K10D0100_H0103:533b-6	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1502	 (10) sacen mañjuśrīr bodhisattvaḥ sarvasattvān avaivartikatve pratiṣṭhāpayet /	K10D0100_H0103:533b-7	འཇམ་དཔལ་། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ཞིག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་ཕྱིར་མི་ལྡོག་པ་ཉིད་ལ་བཀོད་པ་བས་ནི་།
+K10jnalokau:1503	 yo vānyo bodhisattva imaṃ dharmaparyāyam adhimuktaḥ likhāpayitvā parebhyo vistareṇa saṃprakāśayet,  antaśa ekaṃ sattvam apy asmin dharmaparyāye 'vatārayet /	K10D0100_H0103:533b-8	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མོས་ཤིང་ཡི་གེར་འབྲིར་བཅུག་ནས་གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་སྟོན་པ་དང་། ཐ་ན་སེམས་ཅན་གཅིག་ཅིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་འཇུག་པར་བྱས་ན་།
+K10jnalokau:1505	 ayaṃ tato bahutaraṃ puṇyaṃ prasavet //	K10D0100_H0103:534a-0	དེ་ནི་། དེ་བས་ཆེས་༄༥༣༤ཨ་༌༎ བསོད་ནམས་གྲངས་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:1507	 T. 357 249c19-250a14, T. 358 253b23-253c18, T. 359(W) 265a12-265b24.  atha khalu bhagavāṃs tasyāṃ velāyām imā gāthā abhāṣat /	K10D0100_H0103:534a-2	དེ་ནས་དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ༏་༏བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་ཟད་པའི་དུས་མཐའི་ཚེ་༎
+K10jnalokau:1509	 yo bodhisattvo daśabuddhakoṭināṃ saddharmaṃ dhārayet kṣayāntakāle /	K10D0100_H0103:534a-3	སངས་རྒྱས་བྱེ་བ་ཕྲག་བཅུའི་དམ་ཆོས་འཛིན་པ་བས་༎
+K10jnalokau:1510	 sūtraṃ ca yo 'nyaḥ śṛṇuyāt sagauravād idaṃ tataḥ puṇyamahāntaṃ viśeṣayet // 1 //	K10D0100_H0103:534a-4	གང་ཞིག་མདོ་སྡེ་འདི་ནི་ཉན་པར་བྱེད་གྱུར་ན༏་༏དེ་ནི་དེ་བས་བསོད་ནམས་ཆེན་པོ་ཁྱད་པར་འཕགས་༎
+K10jnalokau:1520	 stūpān pratiṣṭhāpaya uccaśobhanān bhavāgraparyantasuratnacitrān /  chatraiḥ patākais tatha ghaṇṭaśabdaiḥ pariṇāhavante hi yathā bhavāgram // 6 //  (JĀA 88)	K10D0100_H0103:534b-3	མཆོད་རྟེན་གནམ་འཕང་མཐོ་བ་སྲིད་རྩེའི་མཐར་ཐུག་པ་༎ ཁྱོན་དང་ལྡན་པར་གྱུར་པའང་སྲིད་རྩེ་ཇི་བཞིན་པ་༎ རིན་ཆེན་མཛེས་པས་སྤྲས་ཤིང་གདུགས་དང་བ་དན་དང་༎ དེ་བཞིན་དྲིལ་སྒྲས་མཛེས་པར་བྱེད་དུ་གཅིག་གྱུར་པས་༎
+K10jnalokau:1523	 icche tv ayaṃ kaścid iha bodhisattvaḥ sūtraṃ śruṇitvā ima evarūpam /	K10D0100_H0103:534b-6	འདི་ན་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་འདྲ་བའི་༎ མདོ་སྡེ་འདི་ཐོས་ལུས་ལ་གནས་པར་འགྱུར་བའམ་༎
+K10jnalokau:1524	 kāye pratiṣṭhāpayi pustake vā idaṃ tataḥ puṇyaphalaṃ viśiṣyate // 7 //	K10D0100_H0103:534b-8	གླེགས་བམ་བྲི་བ་བྱས་ཏེ་གཞག་པར་བྱེད་འདོད་ན་༎ དེ་ནི་དེ་ཡི་བསོད་ནམས་འབྲས་བུ་ཁྱད་པར་འཕགས་༎
+K10jnalokau:1525	 yo bodhisattvo imu dharmu dhārayed apanītamāccharyamalo viśāradaḥ /	K10D0100_H0103:534b-10	སེར་སྣའི་དྲི་མ་བསལ་བར་གྱུར་ཅིང་འཇིགས་མེད་པའི་༎ བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་ཆོས་འདི་འཛིན་བྱེད་ན་༎
+K10jnalokau:1526	 puṇyaṃ bhavet tasya hi aprameyaṃ labheta bodhiṃ ca yathepsitena // 8 //	K10D0100_H0103:534b-12	དེ་ཡི་བསོད་ནམས་དཔག་ཏུ་ཡོད་པར་མི་འགྱུར་ཏེ་༎ ཇི་ལྟར་འདོད་པ་བཞིན་དུ་བྱང་ཆུབ་ཐོབ་པར་འགྱུར་༎
+K10jnalokau:1527	 idaṃ hi sūtraṃ sugataiḥ praśastaṃ parigṛhītaṃ bahubodhisattvaiḥ /	K10D0100_H0103:534b-14	མདོ་འདི་བདེ་བར་གཤེགས་པ་རྣམས་ཀྱིས་རབ་བསྔགས་ཤིང་༎ བྱང་ཆུབ་སེམས་དཔའ་མང་པོས་ཡོངས་སུ་བཟུང་བ་ཡིན་༎
+K10jnalokau:1528	 tathāgatānām iha-m-ātmabhāva ākāśadhātve hi sarveṣu darśitaḥ // 9 //	K10D0100_H0103:534b-16	དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་སྐུ་ལུས་ནམ་མཁའ་ཡི་༎ ཁམས་དང་འདྲ་བ་ཐམས་ཅད་འདིར་ནི་བསྟན་པ་ཡིན་༎
+K10jnalokau:1529	 (JĀA 89)  §45 Ms. 31b6-32a3, P. 334a5-334a8, D. 305a5-8, T. 357 250a10-14, T. 358 253c14-18, T. 359(W) 265b20-24.  idam avocad bhagavān āttamanā āryamañjuśrīr bodhisattvaḥ,	K10D0100_H0103:535a-0	བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་། བྱང་ཆུབ་སེམས་༄༥༣༥ཨ་༌༎
+K10jnalokau:1532	 te ca daśadiganantāparyantāśeṣalokadhātusaṃnipatitā bodhisattvā mahāsattvā iti ca mahāśrāvakāḥ sadevamānuṣāsuragandharvaś ca loko bhagavato bhāṣitam abhyanandann iti // //	K10D0100_H0103:535a-1	དཔའ་དང་། ཉན་ཐོས་ཆེན་པོ་གྲངས་མེད་པ་བསམ་གྱིས་མི་ཁྱབ་བརྗོད་དུ་མེད་པ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རང་སྟེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ་༎
+K10jnalokau:9	 ājñātakauṇḍinyapramukhaiś cāṣṭaṣaṣṭibhir mahāśrāvakaiḥ,  dvāsaptatibhir bodhisattvakoṭīniyutaśatasahasraiḥ /  tadyathā mañjuśriyā kumārabhūtena,  dhanaśriyā ca buddhiśriyā ca bhaiṣajyarājena ca bhaiṣajyasamudgatena ca bodhisattvena mahāsattvena /	K10D0100_H0103:483b-13	བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་། ནོར་དཔལ་དང་། སངས་རྒྱས་དཔལ་དང་། སྨན་གྱི་རྒྱལ་པོ་དང་། སྨན་ཡང་དག་འཕགས་ལ་སོགས་པ་འཇིག་རྟེན་གྱི་ཁམས་གཞན་དང་གཞན་དག་གི་དེ་བཞིན་གཤེགས་པ་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་དག་གིས་ཀུན་ནས་བཀྱེ་བའི་བྱང་ཆུབ་སེམས་དཔའ་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་བདུན་ཅུ་རྩ་གཉིས་ཐམས་ཅད་ཀྱང་ཕྱིར་མི་ལྡོག
+K10jnalokau:13	 sarvair avaivartikadharmacakrapravartakaiḥ,	K10D0100_H0103:483b-14	པའི་ཆོས་ཀྱི་འཁོར་ལོ་རབ་ཏུ་བསྐོར་བ་།
+K10jnalokau:14	 sarvai ratnakūṭavaipulyasūtraparipṛcchākuśalaiḥ,	K10D0100_H0103:483b-15	ཐམས་ཅད་ཀྱང་ཤིན་ཏུ་རྒྱས་པའི་སྡེ་དཀོན་མཆོག་བརྩེགས་པའི་མདོ་ཡོངས་སུ་ཞུ་བ་ལ་མཁས་པ་།
+K10jnalokau:15	 dharmameghabhūmipratilabdhaiḥ,	K10D0100_H0103:483b-16	ཐམས་ཅད་ཀྱང་ས་བཅུ་པ་ཆོས་ཀྱི་སྤྲིན་ཐོབ་པ་།
+K10jnalokau:16	 sumerubhūtaiḥ prajñayā,	K10D0100_H0103:483b-17	ཐམས་ཅད་ཀྱང་ཤེས་རབ་ཀྱིས་རི་རབ་ལྟར་གྱུར་པ་།
+K10jnalokau:17	 sarvaiḥ śūnyatānimittāpraṇihitānutpādājātābhāvadharmaparibhāvitaiḥ,	K10D0100_H0103:484a-0	ཐམས་ཅད་ཀྱང་སྟོང་པ་ཉིད་༄༤༨༤ཨ་༌༎ དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་དང་། སྐྱེ་བ་མེད་པ་དང་། འབྱུང་བ་མེད་པ་དང་། དངོས་པོ་མེད་པའི་སེམས་སུ་བསྒོམས་པའི་སེམས་དང་ལྡན་པ་།
+K10jnalokau:1291	 anārambaṇa anālamba sarvacittāna mohana /	K10D0100_H0103:525b-14	ཀུན་གྱི་སེམས་ནི་རྨོངས་པར་བགྱིད་༎ སྒྲིབ་པ་མེད་པའི་ཆོས་གྱུར་པ་༎
+K10jnalokau:18	 mahāgaṃbhīradharmanirbhāsaiḥ, (JĀA 20)	K10D0100_H0103:484a-2	ཐམས་ཅད་ཀྱང་ཆོས་ཟབ་མོའི་སྣང་བ་ཆེན་པོ་ཐོབ་པ་།
+K10jnalokau:19	 tathāgateryāpathaiḥ,	K10D0100_H0103:484a-3	ཐམས་ཅད་ཀྱང་དེ་བཞིན་གཤེགས་པའི་སྤྱོད་ལམ་དང་ལྡན་པ་།
+K10jnalokau:20	 anyonyalokadhātuṣu tathāgatakoṭīniyutaśatasahasrasaṃpreṣitaiḥ,  sarvair abhijñāparikarmanirjātaiḥ sarvadharmasvabhāvaprakṛtipratiṣṭhitaiḥ //  T. 357 239b1-239b15, T. 358 250b4-250b13, T. 359(D) 254a15-254a26.	K10D0100_H0103:484a-4	ཐམས་ཅད་ཀྱང་མངོན་པར་ཤེས་པ་ཡོངས་སུ་སྦྱངས་པས་ངེས་པར་འབྱུང་བ་ཐམས་ཅད་ཀྱི་ངོ་བོ་ཉིད་ཀྱི་རང་བཞིན་ལ་གནས་པ་ཤ་སྟག་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ་༎
+K10jnalokau:24	 tena khalu punaḥ samayena bhagavata etad abhūt /  yan nv ahaṃ bodhisattvānāṃ mahāsattvānāṃ mahājavabalavegasthāmasaṃjananārthaṃ dhārmīṃ kathāṃ kathayeyam,	K10D0100_H0103:484a-5	དེའི་ཚེ་ན་བཅོམ་ལྡན་འདས་འདི་སྙམ་དུ་བདག་གིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་མྱུར་བ་དང་། སྟོབས་དང་། ཤུགས་ཆེན་པོ་ཡང་དག་པར་བསྐྱེད་པར་བྱ་བའི་ཕྱིར་ཆོས་ཀྱི་གཏམ་བརྗོད་པར་བྱ་ཞིང་།
+K10jnalokau:26	 yad gaṅgānadīvālikāsamebhyo lokadhātubhyo mahaujaskamahaujaskān bodhisattvān mahāsattvān saṃnipāteyam /	K10D0100_H0103:484a-6	འཇིག་རྟེན་གྱི་ཁམས་གངགའའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཟི་བརྗིད་ཆེ་བ་གཟི་བརྗིད་ཆེ་བ་དག་བསྡུ་བར་ཡང་བྱ་།
+K10jnalokau:27	 yan nv ahaṃ mahādharmanirdeśasya paridīpanāyai nimittam ādarśayeyam,  mahāntam avabhāsaṃ kuryām /	K10D0100_H0103:484a-7	བདག་གིས་ཆོས་བསྟན་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་བཤད་པའི་ལྟས་སྣང་བ་ཆེན་པོའང་བསྟན་པར་བྱ་།
+K10jnalokau:29	 yan me bodhisattvā mahāsattvā āgatya mahādharmanirdeśaṃ paripṛccheyur iti /	K10D0100_H0103:484b-0	བདག་གིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལྷགས་ནས་བདག་ལ་ཆོས་བསྟན་པ་ཆེན་པོ་ཡོངས་སུ་ཞུ་བར་འགྱུར་བར་ཡང་༄༤༨༤བ་བྱའོ༏་༏སྙམ་དུ་དགོངས་སོ་༎
+K10jnalokau:30	 atha khalu bhagavāṃs tasyāṃ velāyāṃ daśasu dikṣv asaṃkhyeyācintyatrisāhasramahāsāhasralokadhātuparamāṇurajaḥsamaṃ lokadhātuṃ mahāraśmimeghair avabhāsayati sma /  tena khalu punaḥ samayena daśabhyo digbhya ekaikasmād digbhāgād daśabuddhakṣetrānabhilāpyakoṭīniyutaśatasahasraparamāṇurajaḥsamā bodhisattvā mahāsattvā āgacchanti sma /	K10D0100_H0103:484b-1	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་གྲངས་མེད་ཅིང་བསམ་གྱི་མི་ཁྱབ་པ་དག་གི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་འོད་ཟེར་ཆེན་པོའི་སྤྲིན་དག་གིས་སྣང་བར་མཛད་དོ་༎ དེའི་ཚེ་ན་ཕྱོགས་བཅུའི་ཕྱོགས་རེ་རེ་ནས་ཀྱང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་བྲག་བརྗོད་དུ་མེད་པ་བཅུའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་ལྷགས་སོ་༎
+K10jnalokau:32	 (JĀA 21) teṣām ekaiko bodhisattvo mahāsattvo 'cintyābhir bodhisattvavikurvaṇābhir  āgatya bhagavato 'nurūpām acintyāṃ pūjāṃ kṛtvā svakasvakapraṇidhānabalanirjāteṣu  padmāsaneṣu bhagavataḥ purato nyaṣīdan /	K10D0100_H0103:484b-3	དེ་དག་ལ་བྱང་ཆུབ་སེམས་དཔའ་རེ་རེའང་བྱང་ཆུབ་སེམས་དཔའི་རྣམ་པར་འཕྲུལ་པ་བསམ་གྱིས་མི་ཁྱབ་པ་དག་གིས་འོངས་ཏེ་ལྷགས་ནས་ཀྱང་བཅོམ་ལྡན་འདས་ལ་ཚུལ་དང་མཐུན་པའི་མཆོད་པ་བསམ་གྱིས་མི་ཁྱབ་པ་དག་བྱས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་རང་རང་གི་སྨོན་ལམ་གྱི་སྟོབས་ལས་བྱུང་བའི་པདམའི་སྟན་དག་ལ་འཁོད་དེ་༎
+K10jnalokau:35	 bhagavantam animiṣaṃ nirīkṣamāṇā sthitā abhūvan //  §3 Ms. 2a7-3a5, P. 302b8-303b8, D. 276b7-277b6,	K10D0100_H0103:484b-5	བཅོམ་ལྡན་འདས་ལ་མིག་མི་འཛུམ་པར་ལྟ་ཞིང་སྡོད་པར་གྱུར་ཏོ་༎
+K10jnalokau:38	 tena khalu punaḥ samayena dharmadhātugarbhe prāsādamadhye mahāratnapadmagarbhasiṃhāsanaṃ prādurabhūt /	K10D0100_H0103:484b-6	དེའི་ཚེ་ན་ཆོས་ཀྱི་དབྱིངས་ཀྱི་སྙིང་པོའི་ཁང་བཟང་དེའི་དབུས་སུ་སེངགེའི་ཁྲི་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོའི་པདམའི་སྙིང་པོ་ཅན་རྒྱར་དཔག་ཚད་བྱེ་བ་ཕྲག་གྲངས་མེད་པ་ཡོད་པ་།
+K10jnalokau:41	 sarvaprabhāsamaṇiratnamayam,	K10D0100_H0103:484b-8	ནོར་བུ་རིན་པོ་ཆེ་ཀུན་ཏུ་སྣང་བ་ལས་གྲུབ་བ་།
+K10jnalokau:42	 vidyutpradīpam,  maṇiratnavedikāparivṛtam,  acintyaprabhāsamaṇiratnadaṇḍam,  anupamamaṇiratnaparivāram,  anupamātikrāntaprabhāvamaṇiratnadāmakṛtaśobham,	K10D0100_H0103:485a-1	རིན་པོ་ཆེ་གློག་གི་སྒྲོན་མའི་ཁ་ཁྱེར་གྱིས་ཡོངས་སུ་བསྐོར་བ་། ནོར་བུ་རིན་པོ་ཆེ་འོད་བསམ་གྱིས་མི་ཁྱབ་པའི་ལན་ཀན་གྱིས་ཡོངས་སུ་བསྐོར་བ་། ནོར་བུ་རིན་པོ་ཆེ་དཔེ་མེད་པས་ཡོངས་སུ་བསྐོར་བ་། ནོར་བུ་རིན་པོ་ཆེ་སྣང་བ་དཔེ་ལས་འདས་པའི་ཕྲེང་བས་མཛེས་པར་བྱས་པ་།
+K10jnalokau:1292	 anārambaṇadharmo 'si nirālamba namo 'stu te // 27 //	K10D0100_H0103:525b-16	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:47	 vaśirājamaṇiratnajālasaṃchannam,	K10D0100_H0103:485a-5	ནོར་བུ་རིན་པོ་ཆེ་དབང་གི་རྒྱལ་པོའི་དྲ་བས་ཀུན་ནས་ག-ཡོགས་པ་།
+K10jnalokau:48	 nānāmaṇiratnapratyuptam,	K10D0100_H0103:485a-6	ནོར་བུ་རིན་པོ་ཆེ་རྣམ་པ་སྣ་ཚོགས་སྤྲས་པ་།
+K10jnalokau:50	 tasya ca mahāmaṇiratnapadmagarbhasiṃhāsanasyopari samantād daśāsaṃkhyeyāni raśmikoṭīniyutaśatasahasrāṇi niścaranti sma /	K10D0100_H0103:485a-7	གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་བསྒྲེད་པ་དང་ལྡན་པ་ཞིག་བྱུང་བར་གྱུར་ཏོ་༎ སེངགེའི་ཁྲོ་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོའི་སྙིང་པོ་ཅན་དེའི་ཁོར་ཁོར་ཡུག་ནས་འོད་ཟེར་གྲངས་མེད་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུ་བྱུང་སྟེ་།
+K10jnalokau:51	 te ca raśmayo daśasu dikṣv anyonyān lokadhātūn mahatāvabhāsena spharanti sma /	K10D0100_H0103:485a-9	འོད་ཟེར་དེ་དག་གིས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་གཞན་དང་གཞན་དག་སྣང་བ་ཆེན་པོས་ཁྱབ་པར་གྱུར་ཏོ་༎
+K10jnalokau:52	 tena khalu punaḥ samayena daśadiśy ekaikasmād digbhāgād daśabuddhakṣetrānabhilāpyakoṭīniyutaśatasahasraparamāṇurajaḥsamā  devanāgayakṣagandharvāsuragaruḍakinnaramahoragaśakrabrahmalokapālā āgacchanti sma /	K10D0100_H0103:485a-10	ཡང་དེའི་ཚེ་ན་ཕྱོགས་བཅུའི་ཕྱོགས་རེ་རེ་ནས་ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མི་འམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྗོད་དུ་མེད་པ་བཅུའི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་དག་ཀྱང་ལྷགས་པར་༄༤༨༥བ་གྱུར་ཏེ༏་དེ་དག་ལས་ཁ་ཅིག་ནི་།
+K10jnalokau:1293	 anārambaṇaṃ ca taccittaṃ svabhāvena na vidyate /	K10D0100_H0103:525b-17	དམིགས་པ་དག་དང་སེམས་རྣམས་ནི་༎ ངོ་བོ་ཉིད་མཆིས་མ་ལགས་༎
+K10jnalokau:54	 tatra kecid ratnakūṭāgāraniṣaṇṇāsaṃkhyeyācintyāpsaraḥkoṭīniyutaśatasahasrasaṃgītisaṃpravāditair (JĀA 22)	K10D0100_H0103:485b-1	རིན་པོ་ཆེའི་ཁང་པ་བརྩེགས་པ་དག་ན་འཁོད་ལ་། ལྷའི་བུ་མོ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་ཅིང་བསམ་གྱིས་མི་ཁྱབ་བ་གླུ་དབྱངས་དང་། རོལ་མོའི་སྒྲ་འབྱིན་པ་དག་དང་ལྷགས་སོ་༎
+K10jnalokau:56	 kecit puṣpamayaiḥ,	K10D0100_H0103:485b-4	མེ་ཏོག་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:57	 kecid uragasāracandanamayaiḥ,	K10D0100_H0103:485b-5	ཙནདན་སྤྲུལ་གྱི་སྙིང་པོ་དག་པས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:58	 kecid muktāmayaiḥ,	K10D0100_H0103:485b-6	མུ་ཏིག་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:59	 kecid vajramayaiḥ,  kecid vajraprabhāsamaṇiratnamayaiḥ,	K10D0100_H0103:485b-7	རྡོ་རྗེ་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་། ནོར་བུ་རིན་པོ་ཆེ་རྡོ་རྗེ་ལྟར་སྣང་བ་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:61	 kecij jāmbūnadasuvarṇamayaiḥ,	K10D0100_H0103:485b-9	ཛམབུའི་ཆུ་བོའི་གསེར་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:62	 kecit sarvaprabhāsasamuccayamaṇiratnarājamayaiḥ,	K10D0100_H0103:485b-10	ནོར་བུ་རིན་པོ་ཆེ་འོད་ཐམས་ཅད་ཡང་དག་པར་འདུས་པ་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:63	 kecid vaśirājamaṇiratnamayaiḥ,	K10D0100_H0103:485b-11	ནོར་བུ་རིན་པོ་ཆེ་དབང་གི་རྒྱལ་པོ་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་། ནོར་བུ་རིན་པོ་ཆེ་ཡིད་བཞིན་གྱི་ནོར་བུ་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་། ནོར་བུ་རིན་པོ་ཆེ་བརྒྱ་བྱིན་ཐོགས་པ་ལས་བྱས་པ་དག་དང་། ཁ་ཅིག་ནི་།
+K10jnalokau:65	 kecic chakrābhilagnamaṇiratnamayaiḥ,  kecit sāgarapratiṣṭhānaviśuddharatnavyūhasamantaraśmiprabhāmaṇimahāratnamayakūṭāgāraniṣaṇṇāsaṃkhyeyācintyāpsaraḥkoṭīniyutaśatasahasrasaṃgītisaṃpravāditair āgacchanti sma /	K10D0100_H0103:485b-14	རྒྱ་མཚོའི་རྟེན་རྣམ་པར་དག་པའི་རིན་པོ་ཆེའི་བཀོད་པ་སྟོང་ལྟ་བུ་རིན་པོ་ཆེ་ཆེན་པོ་ཀུན་ནས་འོད་ཟེར་སྣང་བ་ལས་བྱས་པའི་ཁང་པ་བརྩེགས་པ་དག་ལ་ཁོད་ལ་། ལྷའི་བུ་མོ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་ཅིང་བསམ་གྱིས་མི་༄༤༨༦ཨ་༌༎ ཁྱབ་པའི་གླུ་དབྱངས་དང་རོལ་མོའི་སྒྲ་འབྱིན་པ་དག་ལྷགས་སོ་༎
+K10jnalokau:67	 āgatya ca bhagavato 'cintyātulyāmāpyāṃ parimāṇābhikrāntāṃ pūjāṃ kṛtvā,	K10D0100_H0103:486a-2	ལྷགས་ནས་ཀྱང་བཅོམ་ལྡན་འདས་ལ་བསམ་གྱིས་མི་ཁྱབ་པ་དང་། མཚུངས་པ་མེད་པ་དང་། གཞལ་དུ་མེད་པ་དང་། དཔག་ཏུ་མེད་པ་ལས་ཀྱང་ཤིན་ཏུ་འདས་པའི་མཆོད་པ་བྱས་ཏེ་།
+K10jnalokau:68	 ekānte svapraṇidhānanirjāteṣv āsaneṣu niṣīdanti sma /  niṣīdya bhagavantam animiṣaṃ nirīkṣantaḥ sthitā abhūvan /	K10D0100_H0103:486a-3	བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་རང་རང་གི་སྨོན་ལམ་གྱི་སྟོབས་ལས་བྱུང་བའི་སྟན་དག་ལ་འཁོད་ནས་བཅོམ་ལྡན་འདས་ལ་མིག་མི་འཛུམ་པས་ལྟ་ཞིང་སྡོད་པར་གྱུར་ཏོ་༎
+K10jnalokau:70	 tena khalu punaḥ samayenāyaṃ trisāhasramahāsāhasro lokadhātur jāmbūnadasuvarṇamayaḥ saṃsthito 'bhūt /	K10D0100_H0103:486a-4	དེའི་ཚེ་ན་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་ཛམབུའི་ཆུ་བོའི་གསེར་ལས་གྲུབ་པར་ཀུན་ཏུ་གནས་པར་གྱུར་ཅིང་།
+K10jnalokau:71	 nānāmahāmaṇiratnavṛkṣair divyaiḥ puṣpavṛkṣair vastravṛkṣair uragasāracandanagandhavṛkṣair alaṃkṛtaḥ,	K10D0100_H0103:486a-5	ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོ་སྣ་ཚོགས་ཀྱི་ཤིང་ལྗོན་པ་དག་གིས་ལེགས་པར་བརྒྱན་པ་དང་། ལྷའི་མེ་ཏོག་གི་ཤིང་ལྗོན་པ་དག་དང་། གོས་ཀྱི་ཤིང་ལྗོན་པ་དག་དང་། ཙནདན་སྤྲུལ་གྱི་སྙིང་པོའི་ཤིང་ལྗོན་པ་དག་དང་།
+K10jnalokau:72	 candrasūryavidyutpradīpamaṇiratnajālasaṃcchannaḥ,  ucchritacchatradhvajapatākaḥ /	K10D0100_H0103:486a-7	ནོར་བུ་རིན་པོ་ཆེ་ཉི་མ་དང་། ཟླ་བ་དང་། གློག་གི་སྒྲོན་མའི་དྲ་བས་ཀུན་ནས་ཁེབས་བ་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་བསྒྲེང་བ་དང་ལྡན་ལ་།
+K10jnalokau:74	 sarvavṛkṣāś cāsaṃkhyeyāpsaraḥkoṭīniyutaśatasahasrārdhakāyikā muktāhāraparigṛhītā mahāmaṇiratnadāmaparigṛhītāḥ sthitā abhūvan //  (JĀA 23) II  T. 357 240a2-240a13, T. 358 250c9-250c22, T. 359(D) 254b29-254c11.	K10D0100_H0103:486b-0	ཤིང་ལྗོན་པ་ཐམས་༄༤༨༦བ་ཅད་ལའང་ལྷའི་བུ་མོ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་མུ་ཏིག་གི་དོ་ཤལ་ལུས་ཕྱེད་ལ་ཐོགས་པ་དང་། རིན་པོ་ཆེའི་ཕྲེང་བ་ཐོགས་པ་དག་འཁོད་པར་གྱུར་ཏོ་༎
+K10jnalokau:1294	 acintya samatāprāpta nirālamba namo 'stu te // 28 //	K10D0100_H0103:525b-19	བསམ་ཡས་མཉམ་པ་ཉིད་བརྙེས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:78	 tena khalu punaḥ samayena tato mahāmaṇiratnapadmagarbhāt siṃhāsanād imā gāthā niścaranti sma /	K10D0100_H0103:486b-1	དེའི་ཚེ་ན་སེངགེའི་ཁྲི་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོའི་སྙིང་པོ་ཅན་དེ་ལས་ཚིགས་སུ་བཅད་པ་འདི་དག་བྱུང་ངོ་༎
+K10jnalokau:79	 āgaccha niṣīda narendrarājā ahaṃ hi te puṇyabalena udgataḥ /  saṃpūrṇasaṃkalpa ahaṃ tvam adya saṃdhārayiṣye dvipadottamaṃ jinam // 1 //	K10D0100_H0103:486b-2	ཁྱོད་ཀྱི་བསོད་ནམས་སྟོབས་ཀྱིས་བདག་བྱུང་སྟེ་༎ མི་དབང་རྒྱལ་པོ་ཚུར་གཤེགས་བཞུགས་སུ་གསོལ་༎ རྒྱལ་བ་རྐང་གཉིས་དམ་པ་འདེགས་བགྱི་སྟེ་༎ དེ་རིང་བདག་གིས་བྲང་པ་འདི་རྫོགས་འགྱུར་༎
+K10jnalokau:81	 mamātmabhāvo ratanāmayo hy ayaṃ ratnaikapadmaṃ mama madhyasaṃsthitam /	K10D0100_H0103:486b-6	བདག་གི་ལུས་འདི་རིན་ཆེན་རྒྱུས་གྲུབ་སྟེ་༎ འདྲེན་པ་ཁྱོད་ཕྱིར་བདག་གི་དཀྱིལ་ན་ནི་༎ རིན་ཆེན་པདམ་ཡིད་འོད་གཅིག་མཆིས་ཏེ་༎
+K10jnalokau:82	 manoramaṃ tubhya kṛtena nāyakāḥ saṃkalpa pūrehi mamādya tāyinaḥ // 2 //	K10D0100_H0103:486b-9	སྐྱོབ་པ་བདག་གི་བྲང་པ་དེ་རྫོགས་མཛོད་༎
+K10jnalokau:83	 niṣadya ratnāmayi padmi asmiṃ śobhehi māṃ sarvam imaṃ ca lokam /	K10D0100_H0103:486b-10	རིན་ཆེན་པདམ་འདི་ལ་བཞུགས་ནས་ནི་༎ བདག་དང་འཇིག་རྟེན་འདི་ཀུན་མཛེས་པར་མཛོད་༎
+K10jnalokau:84	 deśehi dharmaṃ bahuprāṇikoṭināṃ yaṃ śruta siṃhāsana īdṛśaṃ labhet // 3 //	K10D0100_H0103:486b-12	གང་ཐོས་སེངགེའི་ཁྲི་འདི་འདྲ་ཐོབ་པ་༎ ཆོས་དེ་སྲོག་ཆགས་བྱེ་མང་བསྟན་དུ་གསོལ་༎
+K10jnalokau:85	 raśmī sahasrā tava gātrasaṃbhavāḥ prabhāsayanto bahulokadhātum /	K10D0100_H0103:486b-14	ཁྱོད་ཀྱི་སྐུ་ལས་འོད་ཟེར་སྟོང་བྱུང་སྟེ་༎ འཇིག་རྟེན་ཁམས་མང་རབ་ཏུ་སྣང་བྱེད་པ་༎
+K10jnalokau:86	 prāmodyajātasya hi lakṣaṇaṃ imaṃ samākramā mahya kṛtena nāyakāḥ // 4 //	K10D0100_H0103:486b-16	དེ་ནི་བདག་གིས་དགའ་མཆོག་སྐྱེས་པའི་མཚན་༎ འདྲེན་པ་བདག་གི་སླད་དུ་བཞུགས་སུ་གསོལ་༎
+K10jnalokau:87	 (JĀA 24)  kṣipraṃ niṣīdasva kuruṣva 'nugrahaṃ pūrvaṃ mayā dhārita aṣṭakoṭiyaḥ /  asmin pradeśe munināṃ svayaṃbhuvāṃ bhagavan pīhādya karotv anugraham // 5 //	K10D0100_H0103:486b-18	སྔོན་ཡང་བདག་གིས་ཕྱོགས་འདིར་རང་བྱུང་བའི་༎ ཐུབ་པ་བྱེ་བ་ཕྲག་བརྒྱད་བ་བཏེགས་གྱུར་བས་༎ མྱུར་དུ་བཞུགས་ཏེ་ཕན་གདགས་མཛད་དུ་༄༤༨༧ཨ་༌༎ གསོལ་༎ བཅོམ་ལྡན་དེང་འདིར་ཕན་གདགས་མཛད་དུ་གསོལ་༎
+K10jnalokau:1295	 aniśritena jñānena sarvakṣetrāṇi paśyasi /	K10D0100_H0103:525b-21	གནས་པ་མི་མངའ་མཁྱེན་པ་ཡིས་༎ ཞིང་རྣམས་ཀུན་དང་དེ་བཞིན་དུ་༎
+K10jnalokau:92	 atha khalu bhagavān utthāya pūrvakād āsanāt tatra mahāratnapadmagarbhe siṃhāsane niṣadya paryaṅkaṃbaddhī sarvāvantaṃ bodhisattvagaṇaṃ svavalokayati sma /	K10D0100_H0103:487a-2	དེ་ནས་བཅོམ་ལྡན་འདས་གདན་སྔ་མ་ལས་བཞེངས་ཏེ་། སེངགེའི་ཁྲི་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོའི་སྙིང་པོ་ཅན་དེ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ཏེ་བཞུགས་ནས་ཐམས་ཅད་དང་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་པ་རྣམ་པར་གཟིགས་ཏེ་།
+K10jnalokau:93	 sāmutkarṣikāyāś ca dharmadeśanāyās teṣāṃ bodhisattvānāṃ mahāsattvānāṃ nimittam akārṣīt /	K10D0100_H0103:487a-4	བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ལ་ཡང་དག་ཕུལ་གྱི་ཆོས་བསྟན་པའི་ལྟས་མཛད་དོ་༎
+K10jnalokau:94	 tena khalu punaḥ samayena sarvāvān bodhisattvagaṇa evaṃ cintayati sma /	K10D0100_H0103:487a-5	དེའི་ཚེ་ན་ཐམས་ཅད་དང་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་རྣམས་འདི་སྙམ་དུ་སེམས་ཏེ་།
+K10jnalokau:95	 yan nv ayaṃ mañjuśrīḥ kumārabhūto 'nutpādānirodhaṃ tathāgatam arhantaṃ samyaksaṃbuddhaṃ paripṛcchet,  ciraśruto 'yam asmābhir dharmaparyāya iti /	K10D0100_H0103:487a-6	འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་འདིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་བདག་ཅག་གིས་ཐོས་ནས་ཡུན་རིང་དུ་ལོན་པ་སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་དེ་ཡོངས་སུ་ཞུས་ན་ཅི་མ་རུང་སྙམ་མོ་༎
+K10jnalokau:97	 atha khalu mañjuśrīḥ kumārabhūto bhagavato 'ntikān nimittaṃ viditvā teṣāṃ ca bodhisattvānāṃ mahāsattvānāṃ cetasaiva cetaḥparivitarkam ājñāya bhagavantam etad avocat /	K10D0100_H0103:487a-7	དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྟས་མཛད་པའང་རིག་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་གི་སེམས་ཀྱི་ཡོངས་སུ་རྟོག་པའང་སེམས་ཀྱིས་ཤེས་ནས་སྟན་ལས་ལངས་ནས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་ག-ཡས་པའི་ལྷ་ང་པདམའི་སྙིང་པོ་ལ་བཙུགས་ཏེ་བཅོམ་ལྡན་འདས་ག་། ༄༤༨༧བ་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K10jnalokau:98	 anutpādo 'nirodha iti bhagavann ucyate,	K10D0100_H0103:487b-1	བཅོམ་ལྡན་འདས་། སྐྱེ་བ་མ་མཆིས་པ་དང་། འགག་པ་མ་མཆིས་པ་ཞེས་བགྱི་ན་།
+K10jnalokau:99	 katamasyaitad bhagavan dharmasyādhivacanam anutpādo 'nirodha iti /	K10D0100_H0103:487b-3	བཅོམ་ལྡན་འདས་། སྐྱེ་བ་མ་མཆིས་པ་དང་། འགག་པ་མ་མཆིས་པ་ཞེས་བགྱི་བ་དེ་ཆོས་གང་གི་ཚིག་བླ་དབ༹གས་ལགས་།
+K10jnalokau:100	 imāś ca gāthā abhāṣat /	K10D0100_H0103:487b-5	དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་གསོལ་ཏོ་༎
+K10jnalokau:101	 anirodham anutpādaṃ bravīṣi tvaṃ vināyaka /  (JĀA 25)	K10D0100_H0103:487b-6	མི་སྐྱེ་འགག་པ་མ་མཆིས་པ་༎ རྣམ་འདྲེན་ཁྱོད་ཀྱིས་བཤད་དུ་གསོལ་༎
+K10jnalokau:103	 tat kīdṛśaṃ mahāprājña tasya niruktilakṣaṇam // 1 //	K10D0100_H0103:487b-8	དེ་ཡི་ངེས་ཚིག་མཚན་ཉིད་དེ་༎ ཅི་འདྲ་ཤེས་རབ་ཆེན་པོ་པ་༎
+K10jnalokau:104	 anirodham anutpādaṃ katham eṣa nigadyate /	K10D0100_H0103:487b-10	མི་སྐྱེ་འགག་པ་མ་མཆིས་པ་༎ དེ་ནི་ཇི་ལྟར་བརྗོད་པར་བགྱི་༎
+K10jnalokau:1296	 sarvasattvacariṃ caiva nirālamba namo 'stu te // 29 //	K10D0100_H0103:525b-23	སེམས་ཅན་ཀུན་གྱི་སྤྱོད་གཟིགས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:105	 dṛṣṭāntair hetubhiś caiva kathayasva mahāmune // 2 //	K10D0100_H0103:487b-12	དཔེ་རྣམས་དང་ནི་གཏན་ཚིགས་ཀྱིས་༎ ཐུབ་ཆེན་བཤད་པ་མཛད་དུ་གསོལ་༎
+K10jnalokau:106	 samāgateme bahubodhisattvā jñānārthinaḥ tvāṃ ca vibho 'bhivanditum /	K10D0100_H0103:487b-14	བྱང་ཆུབ་སེམས་དཔའ་མང་པོ་འདི་དག་ནི་༎ འཇིག་རྟེན་རྣམ་པར་འདྲེན་པ་རྣམས་ཀྱིས་བཀྱེ་ལགས་ཏེ་༎ ཡེ་ཤེས་འཚལ་ཞིང་ཁྱོད་ལ་ཕྱག་འཚལ་མཆིས་ལགས་ན་༎
+K10jnalokau:107	 saṃpreṣitā lokavināyakebhir deśehi saddharmam udāram uttamam // 3 //	K10D0100_H0103:487b-17	དམ་ཆོས་རྒྱ་ཆེན་དམ་པ་བཤད་པ་མཛད་དུ་གསོལ་༎
+K10jnalokau:110	 evam ukte bhagavān mañjuśriyaṃ kumārabhūtam etad avocat /	K10D0100_H0103:487b-18	དེ་སྐད་ཅེས་གསོལ་བ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ་༎
+K10jnalokau:111	 sādhu sādhu mañjuśrīḥ,	K10D0100_H0103:487b-19	འཇམ་དཔལ་། ལེགས་སོ་༎ ལེགས་སོ་༎ འཇམ་དཔལ་།
+K10jnalokau:112	 sādhu khalu punas tvaṃ mañjuśrīs tathāgatam etam arthaṃ paripraṣṭavyaṃ manyase /  bahujanahitāya tvaṃ mañjuśrīḥ pratipanno bahujanasukhāya lokānukampāyai mahato janakāyasyārthāya  hitāya sukhāya devānāṃ ca manuṣyāṇāṃ caitarhy āgatānāṃ ca bodhisattvānāṃ mahāsattvānāṃ  buddhabhūmiprāpaṇārtham /	K10D0100_H0103:488a-0	སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་། འཇིག་རྟེན་ལ་སྙིང་བརྩེ་བ་དང་། ལྷ་དང་མི་༄༤༨༨ཨ་༌༎ རྣམས་ཀྱི་སྐྱེ་བོ་ཕལ་པོ་ཆེའི་དོན་དང་། ཕན་པ་དང་། བདེ་བ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱིས་ཐོབ་པར་བྱ་བའི་ཕྱིར་ཞུགས་ཏེ་། ཁྱོད་དེ་བཞིན་གཤེགས་པ་ལ་དོན་དེ་ལྟ་བུ་ཡོངས་སུ་ཞུ་བར་སེམས་པ་ནི་འཇམ་དཔལ་ཡང་ཁྱོད་ལེགས་སོ་༎
+K10jnalokau:116	 anuttrāsas te mañjuśrīr asmin sthāne yogaḥ karaṇīyo na (JĀA 26)  bhayaṃ na stambhitatvam /	K10D0100_H0103:488a-3	འཇམ་དཔལ་དེ་བཞིན་གཤེགས་པ་དོན་དེ་བསྟན་པ་ན་གནས་དེ་ལ་ཁྱོད་སྐྲག་པ་དང་། འཇིགས་པ་དང་། སྡང་བར་མི་བྱ་ཞིང་།
+K10jnalokau:118	 jñānapratisaraṇena ca te mañjuśrīr bhavitavyam /	K10D0100_H0103:488a-4	འཇམ་དཔལ་ཁྱོད་ཀྱིས་ཡེ་ཤེས་ལ་བསྟེན་པར་ཡང་བྱའོ་༎
+K10jnalokau:119	 tathāgatasyaitam arthaṃ nirdeśataḥ /  anutpādo 'nirodha iti mañjuśrīs tathāgatasyaitad adhivacanam /	K10D0100_H0103:488a-5	འཇམ་དཔལ་སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པ་ཞེས་བྱ་བ་འདི་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་ཚིག་བླ་དབ༹གས་ཡིན་ཏེ་།
+K10jnalokau:121	 tadyathā mañjuśrīr iyaṃ mahāpṛthivī mahāvaiḍūryamayī saṃsthitā bhavet /	K10D0100_H0103:488a-6	འཇམ་དཔལ་འདི་ལྟ་སྟེ་དཔེར་ན་། ས་གཞི་ཆེན་པོ་འདི་བེཨེ་དའུརྱ་རིན་པོ་ཆེའི་རང་བཞིན་དུ་ཀུན་ནས་གནས་པར་གྱུར་ཅིང་།
+K10jnalokau:122	 evaṃ ca saṃsthitā bhaved yathā tasyāṃ vaiḍūryamayāṃ mahāpṛthivyāṃ trayastriṃśadbhavanasya,  śakrasya devānām indrasya,  vaijayantasya ca prāsādasya pratibhāsaḥ saṃdṛśyet /	K10D0100_H0103:488a-8	དེའང་ཇི་ལྟར་བེཨེ་དའུརྱ་ཆེན་པོའི་རང་བཞིན་གྱིས་གཞི་ཆེན་པོ་དེ་ལ་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་པ་དང་། ཁང་བསང་རྣམ་པར་རྒྱལ་བ་བྱེད་ཀྱི་གཟུགས་བརྙན་ཀུན་ཏུ་སྣང་བར་འགྱུར་བ་དེ་ལྟར་ཀུན་ནས་གནས་པར་གྱུར་ལ་།
+K10jnalokau:125	 śakraś ca devānām indras tatra divyaiḥ pañcabhiḥ kāmaguṇaiḥ krīḍan ramamāṇaḥ paricārayan saṃdṛśyet /	K10D0100_H0103:488b-0	དེ་ན་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ལྷའི་འདོད་པའི་ཡོན་ཏན་ལྔ་པོ་དག་གིས་རྩེ་བ་དང་། དགའ་བ་དང་། དགའ་མགུར་སྤྱོད་པའང་ཀུན་ཏུ་༄༤༨༨བ་སྣང་བར་གྱུར་ཅིང་༎
+K10jnalokau:126	 atha tasmin samaye devāḥ sarvajambūdvīpakāḥ strīpuruṣadārakadārikāḥ saṃcodayeyuḥ /	K10D0100_H0103:488b-1	དེ་ནས་དེའི་ཚེ་ལྷ་རྣམས་ཀྱིས་ཛམབུའི་གླིང་གི་སྐྱེས་པ་དང་། བུད་མེད་དང་། ཁྱེའུ་དང་། བུ་མོ་ཐམས་ཅད་ལ་ཚིག་འདི་སྐད་ཅེས་།
+K10jnalokau:127	 āgacchatha bho naranāryaḥ /	K10D0100_H0103:488b-2	ཀྱེ་སྐྱེས་པ་དང་བུད་མེད་དག་ཚུར་ཤོག་།
+K10jnalokau:128	 paśyatemaṃ śakraṃ devānām indraṃ vaijayante prāsāde divyaiḥ pañcabhiḥ kāmaguṇaiḥ krīḍantaṃ ramantaṃ paricārayantam /	K10D0100_H0103:488b-3	ལྷའི་དང་པོ་བརྒྱ་བྱིན་འདི་ཁ་གང་བཟང་རྣམ་པར་རྒྱས་བྱེད་ཀྱི་ནང་ན་། ལྷའི་འདོད་པའི་ཡོན་ཏན་ལྔ་པོ་དག་གིས་བརྩེ་བ་དང་དགའ་བ་དང་དགའ་མགུར་སྤྱོད་པར་བྱེད་པ་ལྟོས་།
+K10jnalokau:129	 āgacchatha bho naranārigaṇāḥ /	K10D0100_H0103:488b-5	ཀྱེ་སྐྱེས་པ་དང་བུད་མེད་ཀྱི་ཚོགས་དག་ཚུར་ཤོག་།
+K10jnalokau:130	 dānāni dadata puṇyāni kuruta /	K10D0100_H0103:488b-6	སྦྱིན་པ་དག་བྱིན་ཅིག་། བསོད་ནམས་དག་གྱིས་ཤིག་།
+K10jnalokau:131	 śīlaṃ ca samādāya vartayata /  īdṛśeṣu vaijayanteṣu prāsādeṣu krīḍiṣyatha ramiṣyatha paricārayiṣyatha śakratvāni ca kariṣyatha /  īdṛśyā ca riddhyā samanvāgatā bhaviṣyatha /	K10D0100_H0103:488b-8	ཚུལ་ཁྲིམས་ཡང་དག་པར་བླངས་ཏེ་འདུག་ཅིག་དང་། ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་འདི་ལྟ་བུ་དག་གི་ནང་ན་བརྩེ་བར་འགྱུར་། དགའ་བར་འགྱུར་། དགའ་མགུར་སྤྱད་པར་འགྱུར་ཞིང་།
+K10jnalokau:134	 yādṛśyā ca śakro devānām indro divyaiḥ paribhogaiḥ samarpitaḥ samanvaṅgībhūta iti /	K10D0100_H0103:488b-12	ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ལྷའི་ལོངས་སྤྱོད་དག་གིས་འབྱོར་ཅིང་ལྡན་པར་གྱུར་པ་ཅི་འདྲ་བ་དེ་འདྲ་བའི་འབྱོར་པ་དག་དང་ལྡན་པ་འགྱུར་རོ་༎ ཞེས་ཡང་དག་པར་སྐུལ་བར་ཡང་བྱེད་ལ་།
+K10jnalokau:1297	 cittaṃ na labdhaṃ buddhehi atyantāya kadācana /	K10D0100_H0103:525b-25	སངས་རྒྱས་རྣམས་ཀྱིས་ལན་དགའ་ཡང་༎ སེམས་དང་ཆོས་ཀུན་གཏན་མ་དམིགས་༎
+K10jnalokau:135	 atha mañjuśrīs te strīpuruṣadārakadārikās tasyāṃ vaiḍūryamayāṃ mahāpṛthivyāṃ trayastriṃśadbhavanasya,  vaijayantasya prāsādasya,  śakrasya devānām indrasya pratibhāsaṃ dṛṣṭvāñjalipragṛhaṃ kuryuḥ /  puṣpāṇi ca kṣiperan (JĀA 27)  gandhāṃś ca kṣiperann evaṃ vācaṃ bhāṣante /	K10D0100_H0103:488b-14	འཇམ་དཔལ་དེ་ནས་སྐྱེས་པ་དང་། བུད་མེད་དང་། ཁྱེའུ་དང་། བུ་མོ་དེ་དག་གིས་བེཨེ་དའུརྱ་ཆེན་པོའི་རང་བཞིན་གྱིས་གཞི་ཆེན་པོ་དེ་ལ་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་དང་། ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་གཟུགས་བརྙན་མཐོང་ནས་ཐལ་མོ་སྦྱོར་ཞིང་མེ་ཏོག་དག་ཀྱང་འཐོར་བར་བྱེད་། སྤོས་དག་ཀྱང་འཐོར་བར་བྱེད་ལ་།
+K10jnalokau:140	 vayam apy evaṃrūpā bhavema yādṛśaḥ śakro devānām indraḥ,	K10D0100_H0103:489a-0	ཚིག་འདི་སྐད་ཅེས་བདག་ཅག་ཀྱང་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཅི་འདྲ་བ་དེ་འདྲ་བའི་༄༤༨༩ཨ་༌༎ ལུས་ཐོབ་པར་གྱུར་ཅིག་།
+K10jnalokau:141	 vayam apy evaṃ vaijayante prāsāde krīḍema ramema parivārayema yathāyaṃ śakro devānām indra iti /	K10D0100_H0103:489a-2	བདག་ཅག་ཀྱང་ཇི་ལྟར་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་འདི་ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་ཀྱི་ངན་ན་ལྷའི་འདོད་པའི་ཡོན་ཏན་ལྔ་པོ་དག་གིས་རྩེ་བ་དང་། དགའ་བ་དང་། དགའ་མགུར་སྤྱོད་པར་བྱེད་པ་དེ་ལྟར་གྱུར་ཅིག་།
+K10jnalokau:142	 na ca te sattvā evaṃ saṃjānanti sma /  pratibhāso 'yaṃ vaiḍūryamayāṃ mahāpṛthivyāṃ yatra trayastriṃśadbhavanam,  vaijayantaś ca prāsādaḥ,  śakraś ca devānām indraḥ pariśuddhatvād mahāvaiḍūryasya pratibhāsaḥ saṃdṛśyata iti /	K10D0100_H0103:489a-3	ཅེས་བརྗོད་པར་བྱེད་ཀྱང་སེམས་ཅན་དེ་དག་གིས་ནི༏་འདི་ལྟར་བེཨེ་དའུརྱ་ཆེན་པོའི་རང་བཞིན་གྱིས་གཞི་ཆེན་པོ་ལ་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་དང་། ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་སྣང་བ་འདི་ནི་། བེཨེ་དའུརྱ་ཆེན་པོའི་རང་བཞིན་ཡོངས་སུ་དག་པའི་ཕྱིར་གཟུགས་བརྙན་ཀུན་ཏུ་སྣང་བ་ཡིན་ནོ་༎ ཞེས་དེ་ལྟར་ཡོངས་སུ་མི་ཤེས་ཏེ་།
+K10jnalokau:146	 te śakratvam abhinandanto dānāni ca dadati,  puṇyāni ca kurvanti,	K10D0100_H0103:489a-6	དེ་དག་བརྒྱ་བྱིན་ཉིད་འདོད་པས་སྦྱིན་པ་དག་ཀྱང་སྦྱིན་། བསོད་ནམས་ཀྱང་བྱེད་།
+K10jnalokau:148	 śīlaṃ ca samādāya vartante /  tatra ca trayastriṃśadbhavane pratibhāsa upapattaye kuśalamūlāni ca pariṇāmayanti /	K10D0100_H0103:489a-8	ཚུལ་ཁྲིམས་ཡང་དག་བར་བླངས་ཏེ་གནས་ཤིང་དགེ་བའི་རྩ་བ་དག་ཀྱང་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་སྣང་བ་དེར་སྐྱེ་བར་བྱ་བའི་ཕྱིར་ཡོངས་སུ་བསྔོ་བར་བྱེད་ན་།
+K10jnalokau:150	 yathā mañjuśrīḥ tatra ca vaiḍūryamayāṃ mahāpṛthivyāṃ nāsti tatra trayastriṃśadbhavanam,	K10D0100_H0103:489a-9	འཇམ་དཔལ་། ཇི་ལྟར་བེཨེ་དའུརྱ་ཆེན་པོའི་རང་བཞིན་གྱིས་གཞི་ཆེན་པོ་དེ་ལ་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་ཀྱང་མེད་།
+K10jnalokau:151	 na vaijayantaś ca prāsādaḥ,  na ca śakro devānām indraḥ /	K10D0100_H0103:489a-10	ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་ཀྱང་མེད་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཡང་མེད་མོད་ཀྱི་།
+K10jnalokau:153	 api tu pariśuddhatvād mahāvaiḍūryasya saṃdṛśyate trayastriṃśadbhavanam,  vaijayantaś ca prāsādaḥ,  śakrasya devānām indraḥ /	K10D0100_H0103:489b-0	འོན་ཀྱང་བེཨེ་དའུརྱ་ཆེན་པོ་ཡོངས་སུ་དག་༄༤༨༩བ་པའི་ཕྱིར་དེ་ལ་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་དང་། ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་གཟུགས་བརྙན་ཀུན་ཏུ་སྣང་སྟེ་།
+K10jnalokau:156	 sa cāsan notpanno na niruddhaḥ pariśuddhatvād mahāvaiḍūryasya pratibhāsaḥ saṃdṛśyate /	K10D0100_H0103:489b-1	དེ་དག་ཀྱང་ཡོད་པ་མ་ཡིན་ཞིང་སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མ་ཡིན་བཞིན་དུ་བེཨེ་དའུརྱ་ཆེན་པོ་ཡོངས་སུ་དག་པའི་ཕྱིར་གཟུགས་བརྙན་ཀྱང་ཀུན་ཏུ་སྣང་བ་དེ་བཞིན་པུ་འཇམ་དཔལ་།
+K10jnalokau:157	 evam eva mañjuśrīḥ pariśuddhatvāc cittasya subhāvitatvād bhāvanāyāḥ sattvānāṃ tathāgatātmabhāvadarśanaṃ bhavati /	K10D0100_H0103:489b-2	སེམས་ཡོངས་སུ་དག་པ་དང་། སྒོམ་པ་ཤིན་ཏུ་གོམས་པར་བྱས་པའི་སེམས་ཅན་ལ་དེ་བཞིན་གཤེགས་པའི་སྐུ་སྣང་བར་གྱུར་།
+K10jnalokau:158	 tathāgatānubhāvena mañjuśrīḥ sattvās tathāgataṃ paśyanti /	K10D0100_H0103:489b-3	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པའི་མཐུས་སེམས་ཅན་རྣམས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་སྐུ་མཐོང་བ་དེའང་མ་བྱུང་བ་། མ་སྐྱེས་པ་། མ་འགག་པ་། དངོས་པོ་མ་ཡིན་། དངོས་པོ་མེད་པ་མ་ཡིན་།
+K10jnalokau:159	 sa cābhūto 'nutpanno 'niruddho na bhāvo nābhāvo na dṛśyo nādṛśyo na lokyo nālokyo na caityo nācaityo na san nāsan /	K10D0100_H0103:489b-8	བལྟར་སྣང་བ་མ་ཡིན་། བལྟར་མི་སྣང་བ་མ་ཡིན་། འཇིག་རྟེན་མ་ཡིན་། འཇིག་རྟེན་མེད་པ་མ་ཡིན་། སེམས་པ་ཡོད་པ་མ་ཡིན་། སེམས་པ་མེད་པ་མ་ཡིན་། བསམ་དུ་ཡོད་པ་མ་ཡིན་། བསམ་དུ་མེད་པ་མ་ཡིན་། ཡོད་པ་མ་ཡིན་། མེད་པ་མ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:160	 atha ca mañjuśrīḥ sattvās tathāgatapratibhāsam ārambaṇīkṛtvā puṣpāṇi kṣipanti,	K10D0100_H0103:489b-18	འཇམ་དཔལ་། འོན་ཀྱང་སེམས་ཅན་རྣམས་ནི་། དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་ལ་དམིགས་ནས་མེ་ཏོག་ཀྱང་འཐོར་བར་བྱེད་།
+K10jnalokau:161	 gandhān vastrāṇi ratnāni ca kṣipanti /	K10D0100_H0103:489b-20	སྤོས་དང་། ན་བཟའ་དང་། རིན་པོ་ཆེ་དག་ཀྱང་དབུལ་བར་བྱེད་།
+K10jnalokau:162	 evaṃ ca vācaṃ bhāṣante /  vayam apy evaṃrūpā bhavema yādṛśas tathāgato 'rhan samyaksaṃbuddha iti /	K10D0100_H0103:490a-1	བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཅི་འདྲ་བ་དེ་འདྲ་བར་གྱུར་ཅིག་། ཅེས་བརྗོད་པར་བྱེད་དེ་།
+K10jnalokau:164	 te buddhajñānābhilāṣiṇo dānāni ca dadati,	K10D0100_H0103:490a-3	སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་འདོད་པ་དེ་དག་བདག་ཀྱང་སྦྱིན་པ་དག་ཀྱང་སྦྱིན་།
+K10jnalokau:165	 puṇyāni ca kurvanti,	K10D0100_H0103:490a-4	བསོད་ནམས་དག་ཀྱང་བྱེད་།
+K10jnalokau:166	 śīlaṃ ca samādāya vartante /  tac ca kuśalamūlaṃ tathāgatajñānapratilambhāya (JĀA 28)  pariṇāmayanti /	K10D0100_H0103:490a-5	ཚུལ་ཁྲིམས་ཡང་དག་པར་བླངས་ཏེ་གནས་ཤིང་དེ་དག་ཀྱང་དེ་བཞིན་གཤེགས་པའི་ཡེ་ཤེས་ཐོབ་པར་བྱ་བའི་ཕྱིར་ཡོངས་སུ་བསྔོ་བར་བྱེད་དོ་༎
+K10jnalokau:169	 tadyathā mañjuśrīs tatra mahāvaiḍūryamayāṃ mahāpṛthivyāṃ śakrasya devānām indrasya pratibhāso neñjati,	K10D0100_H0103:490a-6	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། བེཨེ་དའུརྱ་ཆེན་པོའི་རང་བཞིན་གྱིས་གཞི་ཆེན་པོ་དེ་ལ་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་གཟུགས་བརྙན་སྣང་བ་དེ་ག-ཡོ་བར་མི་བྱེད་།
+K10jnalokau:1298	 sarvadharmā ca sarvajña nirālamba namo 'stu te // 30 //  (JĀA 74)	K10D0100_H0103:525b-27	ཆོས་རྣམས་ཐམས་ཅད་ཀུན་མཁྱེན་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:170	 na manyate,	K10D0100_H0103:490a-8	སེམས་པར་མི་བྱེད་། སྤྲོ་བར་མི་བྱེད་། རྟོག་པར་མི་བྱེད་།
+K10jnalokau:171	 na prapañcayati,  na kalpayati,  na vikalpayati /	K10D0100_H0103:490a-11	རྣམ་པར་རྟོག་པར་མི་བྱེད་ཅིང་། རྟོག་པ་མེད་པ་། རྣམ་པར་རྟོག་པ་མེད་པ་། སེམས་པ་མེད་པ་། ཡིད་ལ་བྱེད་པ་མེད་པ་། ཞི་བ་། བསིལ་བར་གྱུར་པ་། སྐྱེ་པ་མེད་པ་།
+K10jnalokau:174	 akalpo 'vikalpo 'cintyo 'manasikāraḥ śāntaḥ śītībhūto 'nutpādo 'nirodho 'dṛṣṭo 'śruto 'nāghrāto 'nāsvādito 'spṛṣṭo 'nimitto 'vijñaptiko 'vijñāpanīyaḥ	K10D0100_H0103:490a-19	མཐོང་བ་མེད་པ༏་ཐོས་པ་མེད་པ་། བསྣམས་པ་མེད་པ་། མྱངས་པ་མེད་པ་། རེག་པ་མེད་པ་། མཚན་མ་མེད་པ་། རྣམ་པར་རིག་པ་མེད་པ་། རྣམ་པར་རིག་པར་བྱ་བ་མ་ཡིན་པ་།
+K10jnalokau:175	 evam eva mañjuśrīs tathāgato 'rhan samyaksambuddho neñjati,	K10D0100_H0103:490a-26	དེ་བཞིན་དུ་འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱང་ག-ཡོ་བར་མི་བྱེད་།
+K10jnalokau:176	 na manyate,	K10D0100_H0103:490a-28	སེམས་པར་མི་བྱེད་།
+K10jnalokau:177	 na prapañcayati,  na kalpayati,	K10D0100_H0103:490a-29	སྤྲོ་བར་མི་བྱེད་། ༄༤༩༠བ་རྟོག་པར་མི་བྱེད་། རྣམ་པར་རྟོག་པར་མི་བྱེད་ཅིང་།
+K10jnalokau:179	 na vikalpayati /	K10D0100_H0103:490b-3	རྣམ་པར་རྟོག་པ་མེད་པ་། སེམས་པ་མེད་པ་། ཡིད་ལ་བྱེད་པ་མེད་པ་། ཞི་བ་། བསིལ་བར་གྱུར་པ་། སྐྱེ་བ་མེད་པ་།
+K10jnalokau:180	 akalpo 'vikalpo 'cintyo 'manasikāraḥ śāntaḥ śītībhūto 'nutpādo 'nirodho 'dṛṣṭo 'śruto 'nāghrāto 'nāsvādito 'spṛṣṭo 'nimitto 'vijñaptiko 'vijñāpanīyaḥ	K10D0100_H0103:490b-9	མཐོང་བ་མེད་པ་། ཐོས་པ་མེད་པ་། བསྣམས་པ་མེད་པ་། མྱངས་པ་མེད་པ་། རེག་པ་མེད་པ་། མཚན་མ་མེད་པ་། རྣམ་པར་རིག་པ་མེད་པ་། རྣམ་པར་རིག་པར་བྱ་བ་མ་ཡིན་པ་སྟེ་།
+K10jnalokau:181	 anutpādagatiko hi mañjuśrīs tathāgataḥ /	K10D0100_H0103:490b-17	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་།
+K10jnalokau:182	 atha ca pratibimba iva lokeṣu dṛśyate /  yathādhimuktikānāṃ ca sattvānāṃ darśanavaimātratayā,  āyuḥpramāṇavaimātratāṃ darśayati /	K10D0100_H0103:490b-19	འོན་ཀྱང་འཇིག་རྟེན་ན་གཟུགས་བརྙན་བཞིན་དུ་སྣང་ཞིང་སེམས་ཅན་རྣམས་ཀྱི་མོས་པ་ཇི་ལྟ་བ་བཞིན་དུ་མཐོང་བའི་བྱེ་བྲག་གིས་ཚེའི་བྱེ་བྲག་སྟོན་པར་ཡང་བྱེད་ལ་།
+K10jnalokau:185	 paripācanādhimuktibalādhānatayā bodhibhājaneṣu sattveṣu pratibhāsaprāpto bhavati /	K10D0100_H0103:490b-20	ཡོངས་སུ་སྨིན་པ་དང་མོས་པའི་སྟོབས་བསྐྱེད་པས་བྱང་ཆུབ་ཀྱི་སྣོད་དུ་གྱུར་པའི་སེམས་ཅན་རྣམས་ལ་གཟུགས་བརྙན་སྣང་བར་ཡང་འགྱུར་ཏེ་།
+K10jnalokau:186	 yathāśayādhimuktyā ca sattvā dharmaṃ śṛṇvanti /	K10D0100_H0103:490b-21	སེམས་ཅན་རྣམས་ཀྱི་བསམ་པ་དང་མོས་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཐོས་པར་ཡང་འགྱུར་།
+K10jnalokau:187	 yathāśayena triyānam iti saṃjānanti,  yathāśayena cādhimucyante //  §7 Ms. 5b5-7b2, P. 306b4-308b1, D. 280b1-282a4,  T. 357 241a4-241b21, T. 358 ö, T. 359(D) 255b23-256a9	K10D0100_H0103:490b-22	བསམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཐེག་པ་གསུམ་དུ་ཤེས་པར་ཡང་འགྱུར་། བསམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་རྣམ་པར་གྲོལ་བར་ཡང་འགྱུར་རོ་༎
+K10jnalokau:194	 atha ca punar mañjuśrīḥ sā mahādharmadundubhiḥ /  yasmin (JĀA 29) samaye devās trayastriṃśatkāyikā tīvrasatatasamitaṃ divyaiḥ kāmakrīḍāratiparibhogaiḥ pramattā bhavanti,	K10D0100_H0103:491a-2	འཇམ་དཔལ་། འོན་ཀྱང་ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་གང་གི་ཚེ་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷ་རྣམས་ལྷའི་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་དག་གིས་རྟག་པར་རྒྱུན་དུ་ཤེས་ཆེར་བག་མེད་པར་གྱུར་ཅིང་།
+K10jnalokau:196	 na bhūyaḥ sudharmāyāṃ devasabhāyāṃ praviśya dharmaṃ saṃgāyanti,	K10D0100_H0103:491a-3	ཡང་དང་ཡང་དུ་ལྷའི་འདུན་ས་ཆོས་བཟང་གི་ནང་དུ་ཞུགས་ཏེ་།
+K10jnalokau:197	 śakraś ca yadā devānām indro divyaiḥ kāmakrīḍaratiparibhogaiḥ pramatto bhavati,	K10D0100_H0103:491a-5	གང་གི་ཚེ་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཡང་ལྷའི་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་དག་གིས་རྟག་པར་རྒྱུན་དུ་ཤས་ཆེར་བག་མེད་པར་གྱུར་ཅིང་།
+K10jnalokau:198	 na dharmāsane niṣadya dharmaṃ bhāṣate /  tasmin samaye mañjuśrīḥ sā mahādharmadundubhir adṛṣyā cānālokyā cakṣuḥpathasamatikrāntāntarīkṣagatā tādṛśaṃ dharmaśabdaṃ niścārayati /	K10D0100_H0103:491a-6	ཡང་དང་ཡང་དུ་ལྷའི་འདུན་ས་ཆོས་བཟང་གི་ནང་དུ་ཞུགས་ཏེ་ཆོས་ཀྱི་ཁྲི་སྟན་ལ་འདུག་ནས་ཆོས་སྨྲ་བར་མི་བྱེད་པ་དེའི་ཚེ་ཆོས་ཀྱི་རྔ་བོ་ཆེ་བར་སྣང་ལ་འདུག་ཅིང་། བལྟར་མི་སྣང་ཞིང་མི་མཐོང་བ་དེ་ལས་ཆོས་ཀྱི་སྒྲ་འདི་ལྟ་བུ་འབྱུང་བར་འགྱུར་ཏེ་།
+K10jnalokau:200	 yena ca dharmaśabdena sarvān trayastriṃśatkāyikān devān svareṇa vijñapayati /	K10D0100_H0103:491a-9	ཆོས་ཀྱི་སྒྲ་དེས་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷ་ཐམས་ཅད་ལ་འདི་སྐད་དུ་།
+K10jnalokau:1300	 māyopamāḥ sarvadharmā māyā caiva na vidyate /	K10D0100_H0103:526a-0	ཆོས་ཀུན་སྒྱུ་མ་ལྟ་བུ་༄༥༢༦ཨ་༌༎ སྟེ༏་༏སྒྱུ་མ་ཉིད་ཀྱང་མཆིས་མ་ལགས་༎
+K10jnalokau:201	 anityā mārṣā rūpaśabdagandharasasparśā mā pramattacāriṇo bhavatha /	K10D0100_H0103:491a-10	གྲོགས་པོ་དག་། གཟུགས་དང་། སྒྲ་དང་། དྲི་དང་། རོ་དང་། རེག་བྱ་དག་ནི་། མི་རྟག་པ་ཡིན་གྱི་། བག་མེད་པར་མ་སྤྱོད་ཅིག་།
+K10jnalokau:202	 mā kṣipram asmād bhavanāc cyaviṣyatha /	K10D0100_H0103:491b-0	གནས་འདི་༄༤༩༡བ་ནས་མྱུར་དུ་ཤི་འཕོས་པར་གྱུར་ཏ་རེ་།
+K10jnalokau:203	 duḥkhā mārṣāḥ sarvasaṃskārāḥ,	K10D0100_H0103:491b-1	གྲོགས་པོ་དག་། འདུ་བྱེད་ཐམས་ཅད་ནི་། སྡུག་བསྔལ་བ་ཡིན་ནོ་༎
+K10jnalokau:204	 anātmano mārṣāḥ sarvasaṃskārāḥ,  śūnyā mārṣāḥ sarvasaṃskārā mā pramādam āpadyatha /	K10D0100_H0103:491b-4	གྲོགས་པོ་དག་། འདུ་བྱེད་ཐམས་ཅད་ནི་། སྟོང་པ་ཡིན་ནོ་༎ གྲོགས་པོ་དག་། འདུ་བྱེད་ཐམས་ཅད་ནི་། བདག་མེད་པ་ཡིན་ནོ་༎ གྲོགས་པོ་དག་།
+K10jnalokau:206	 duḥkham itaś cyavitānāṃ punar atropapattir bhaviṣyati /	K10D0100_H0103:491b-11	འདི་ནས་ཤི་འཕོས་པ་རྣམས་ནི་། ཡང་འདིར་སྐྱེ་བར་འགྱུར་བ་དཀའ་བ་ཡིན་གྱི་།
+K10jnalokau:207	 saṃgāyata mārṣā dharmam,  dharmārāmaratiratā bhavatha dharmasārāḥ,	K10D0100_H0103:491b-13	བག་མེད་པར་མ་བྱེད་པར་གྲོགས་པོ་དག་། ཆོས་ཡང་དག་པར་བགྲོ་བར་གྱིས་ཤིག་། ཆོས་ཀྱི་ཀུན་དགའ་ལ་དགའ་བས་དགའ་བར་གྱིས་ཤིག་།
+K10jnalokau:209	 dharmanimnāḥ,  dharmapravaṇāḥ,  dharmānusmṛtimanasikārāḥ /	K10D0100_H0103:491b-16	ཆོས་གཅེས་པར་བྱ་བ་དང་། ཆོས་ལ་གཞོལ་བ་དང་། ཆོས་རྗེས་སུ་དྲན་པ་ཡིད་ལ་བྱེད་པ་ལ་གནས་པར་གྱིས་ཤིག་།
+K10jnalokau:1301	 māyādharmavinirmukta nirālamba namo 'stu te // 31 //	K10D0100_H0103:526a-2	སྒྱུ་མའི་ཆོས་ལས་རྣམ་གྲོལ་བ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:212	 mārṣā viharatha yūyaṃ punar ebhir evaṃ divyaiḥ kāmakrīḍāratiparibhogaiḥ,  avirahitā bhaviṣyatheti /	K10D0100_H0103:491b-17	ལྷའི་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་འདི་དག་དང་ཡང་མི་འབྲལ་བར་གྱིས་ཤིག་།
+K10jnalokau:214	 tena khalu punar mañjuśrīḥ samayena tasyā adṛśyā arūpiṇyā akalpyāyā avikalpāyāś cakṣuḥpathasamatikrāntāyā	K10D0100_H0103:491b-19	འཇམ་དཔལ་། དེའི་ཚེ་ན་ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་བལྟར་མི་སྣང་བ་། གཟུགས་མེད་པ་།
+K10jnalokau:215	 anutpannāniruddhāyā vākpathasamatikrāntāyāś cittamanovijñānāpagatāyā mahādharmadundubheḥ	K10D0100_H0103:491b-21	རྟོག་པ་མེད་པ་། རྣམ་པར་རྟོག་པ་མེད་པ་། མིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་། མ་སྐྱེས་པ་། མ་འགགས་པ་། ཚིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་།
+K10jnalokau:216	 śabdena sarve trayastriṃśatkāyikā devāḥ saṃcoditā bhītās trastā udvignodvignāḥ (JĀA 30)	K10D0100_H0103:491b-27	སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་དེ་ལྟ་བུ་དེའི་སྒྲ་དེས་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷ་ཐམས་ཅད་ལ་ཡང་དག་པར་བསྐུལ་བས་དེ་དག་འཇིགས་པ་དང་། སྐྲག་པ་དང་། སྐྱོ་བ་དང་།
+K10jnalokau:217	 sudharmāyāṃ devasabhāyāṃ praviśya dharmārāmaratiratā viharanti /  dharmasārāḥ,	K10D0100_H0103:492a-0	ཡིད་བྱུང་བར་གྱུར་ནས་༄༤༩༢ཨ་༌༎ ལྷའི་འདུན་ས་ཆོས་བཟང་གི་ནང་དུ་ཞུགས་ཏེ་ཆོས་ཀྱི་ཀུན་དགའ་ལ་དགའ་བས་དགའ་བར་གནས་ཤིང་།
+K10jnalokau:219	 dharmanimnāḥ,  dharmapravaṇāḥ,  dharmānusmṛtimanasikārā bhavanti /	K10D0100_H0103:492a-2	ཆོས་གཅེས་པར་བྱ་བ་དང་། ཆོས་ལ་གཞོལ་བར་བྱ་བ་དང་། ཆོས་རྗེས་སུ་དྲན་པ་ཡིད་ལ་བྱེད་པ་ལ་གནས་པར་ཡང་བྱེད་དེ་།
+K10jnalokau:222	 te tataś cyutā viśeṣagāmino bhavanti /  śakraś ca devānām indras tasmin samaye sudharmāyāṃ devasabhāyāṃ praviśya dharmāsane niṣadya dharmaṃ deśayati /	K10D0100_H0103:492a-3	དེ་དག་དེ་ནས་ཤི་འཕོས་ནས་ཁྱད་པར་དུ་འགྲོ་བར་ཡང་ཤེས་སོ༏་༏དེའི་ཚེ་ན་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཡང་ལྷའི་འདུན་ས་ཆོས་བཟང་གི་ནང་དུ་ཞུགས་ཏེ་ཆོས་ཀྱི་ཁྲི་སྟན་ལ་འདུག་ནས་ཆོས་སྟོན་པར་བྱེད་དོ་༎
+K10jnalokau:224	 yadā ca mañjuśrīr asurā devaiḥ sārdhaṃ saṃgrāmayanti /	K10D0100_H0103:492a-4	འཇམ་དཔལ་། གང་གི་ཚེ་ལྷ་མ་ཡིན་རྣམས་ལྷ་རྣམས་དང་ལྷན་ཅིག་ག-ཡུལ་སྤྲོད་པར་བྱེད་ཅིང་།
+K10jnalokau:225	 tatra yadā trayastriṃśā devāḥ parābhavaṃ gacchanti /  tadā sā dharmadundubhī tādṛśaśabdaṃ niścārayati /	K10D0100_H0103:492a-5	དེར་ཡང་གང་གི་ཚེ་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་ཕམ་པར་གྱུར་པ་དེའི་ཚེ་ན་ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་སྒྲ་འདི་ལྟ་བུ་འབྱིན་པར་བྱེད་དེ་།
+K10jnalokau:227	 yena śabdenāsurā bhītās trastā udvignodvignāḥ palāyanti /	K10D0100_H0103:492a-6	སྒྲ་དེས་ལྷ་མ་ཡིན་རྣམས་འཇིགས་པ་དང་། སྐྲག་པ་དང་། སྐྱོ་བ་དང་། ཡིད་བྱུང་བར་གྱུར་ནས་འབྲོས་པར་བྱེད་དོ་༎
+K10jnalokau:228	 na ca mañjuśrīs tasyā mahādharmadundubheḥ kaścit saṃpādayitā vātmabhāvo vā saṃvidyate /	K10D0100_H0103:492a-7	འཇམ་དཔལ་། ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་ལ་ནི་། སྒྲུབ་པར་བྱེད་པ་དང་། ལུས་གཟུགས་ཅུང་ཟད་ཀྱང་མེད་དེ་། འཇམ་དཔལ་། ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་ནི་།
+K10jnalokau:229	 adṛśyā mañjuśrīḥ sā mahādharmadundubhir anālokyāsatyābhūtācittācetanānimittārūpiṇyarutānātmabhāvādvayā cakṣuḥpathasamatikrāntā /	K10D0100_H0103:492a-10	བལྟར་མི་མཐོང་བ་། མི་སྣང་བ༏་ཡོད་པ་མ་ཡིན་པ་། མ་བྱུང་བ་། བསམ་དུ་མེད་པ་། སེམས་པ་མེད་པ་། མཚན་མ་མེད་པ་། གཟུགས་ཅན་མ་ཡིན་པ་།
+K10jnalokau:230	 atha ca mañjuśrīs trayastriṃśatkāyikānāṃ devaputrāṇāṃ pūrvaparikarmakṛtānāṃ mahādharmadundubheḥ śabdo niścarati /	K10D0100_H0103:492a-17	སྒྲ་མེད་པ་། དངོས་པོ་མེད་པ་། གཉིས་༄༤༩༢བ་སུ་མེད་པ་སྟེ་། མིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་ཡིན་མོད་ཀྱི་། འཇམ་དཔལ་། འོན་ཀྱང་སུམ་ཅུ་རྩ་གསུམ་གྱི་རིས་ཀྱི་ལྷའི་བུ་སྔོན་ཡོངས་སུ་སྦྱངས་པ་བྱས་པ་རྣམས་ལ་ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་སྒྲ་དེ་ལྟ་བུ་འབྱིན་ཅིང་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷའི་བུ་རྣམས་ཀྱི་གནོད་པ་དང་།
+K10jnalokau:231	 trāyastriṃśānāṃ devaputrāṇāṃ sarvopadravopāyāsopakleśopaśāntaye saṃvartate /	K10D0100_H0103:492b-3	འཁྲུག་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱེད་དོ་༎
+K10jnalokau:232	 yathā mañjuśrīs tasyā mahādundubher adṛśyo 'nātmabhāvo 'nālokyo 'sann abhūto 'cinto 'cetano 'nimitto (JĀA 31)	K10D0100_H0103:492b-4	འཇམ་དཔལ་། ཇི་ལྟར་ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་བལྟར་མི་སྣང་བ་། མི་མཐོང་བ་། ཡོད་པ་མ་ཡིན་པ་། མ་བྱུང་བ་། བསམ་དུ་མེད་པ་།
+K10jnalokau:233	 'rūpy aruto 'bhāvo 'dvayaś cakṣuḥpathasamatikrāntaḥ,	K10D0100_H0103:492b-10	གཟུགས་ཅན་མ་ཡིན་པ་། སྒྲ་མེད་པ་། དངོས་པོ་མེད་པ་། གཉིས་སུ་མེད་པ་སྟེ་། མིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:234	 pūrvakarmavipākena trayastriṃśatkāyikānāṃ devaputrāṇāṃ sarvopadravopāyāsopakleśopaśāntaye śabdo niścarati /  pramattāṃś ca devaputrān dharmaśabdena saṃcodayati /	K10D0100_H0103:492b-15	འཇམ་དཔལ་། འོན་ཀྱང་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷའི་བུ་སྔོན་ཡོངས་སུ་སྦྱངས་པ་བྱས་པ་རྣམས་ལ་ཆོས་ཀྱི་རྔ་བོ་ཆེ་དེ་སྒྲ་དེ་ལྟ་བུ་འབྱིན་ཅིང་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷའི་བུ་རྣམས་ཀྱི་གནོད་པ་དང་།
+K10jnalokau:236	 sa ca dharmaśabdas trayastriṃśatkāyikānāṃ devaputrāṇāṃ sarvopadravopāyāsopakleśopaśāntaye saṃvartate /	K10D0100_H0103:492b-16	འཁྲུག་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱ་བའི་ཕྱིར་སྒྲ་འབྱིན་པར་བྱེད་ཅིང་ལྷའི་བུ་བག་མེད་པ་རྣམས་ལའང་ཆོས་ཀྱི་སྒྲས་ཡང་དག་པར་སྐུལ་བར་བྱེད་ལ་། ཆོས་ཀྱི་སྒྲ་དེའང་སུམ་ཅུ་རྩ་གསུམ་པའི་རིས་ཀྱི་ལྷའི་བུ་རྣམས་ཀྱི་གནོད་པ་དང་། འཁྲུག་པ་དང་། ཉེ་བའི་ཉོན་མོངས་༄༤༩༣ཨ་༌༎ པ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱེད་དོ་༎ འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱང་བལྟར་མི་སྣང་བ་། མི་མཐོང་བ་། ཡོད་པ་མ་ཡིན་པ་། མ་བྱུང་བ་།
+K10jnalokau:237	 evam eva mañjuśrīs tathāgato 'rhan samyaksaṃbuddho 'dṛśyo 'nālokyo 'nātmabhāvo 'sann abhūto 'citto 'cetano 'nimitto 'rūpy aruto 'dvayo 'bhāvaś cakṣuḥpathasamatikrāntaḥ /	K10D0100_H0103:493a-6	བསམ་དུ་མེད་པ་། སེམས་པ་མེད་པ་། མཚན་མ་མེད་པ་། གཟུགས་ཅན་མ་ཡིན་པ་། སྒྲ་མེད་པ༏་དངོས་པོ་མེད་པ་། གཉིས་སུ་མེད་པ་སྟེ་། མིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:238	 atha ca mañjuśrīḥ sattvāḥ pūrvakarmavipākena yathāśayādhimuktyā dharmaśabdaṃ niścarantaṃ saṃjānanti /	K10D0100_H0103:493a-13	འཇམ་དཔལ་། འོན་ཀྱང་སེམས་ཅན་རྣམས་སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་བསམ་པ་དང་། མོས་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཆོས་ཀྱི་སྒྲ་འབྱུང་བར་ཀུན་ཏུ་ཤེས་ཤིང་།
+K10jnalokau:239	 sa ca dharmaśabdaḥ sarvasattvānāṃ sarvopadravopāyāsopakleśopaśāntaye saṃvartate /	K10D0100_H0103:493a-14	ཆོས་ཀྱི་སྒྲ་དེའང་སེམས་ཅན་ཐམས་ཅད་ཀྱི་གནོད་པ་དང་། འཁྲུག་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱ་བའི་ཕྱིར་འཇུག་པར་འགྱུར་ཏེ་།
+K10jnalokau:240	 dharmasvaranirghoṣeṇa tathāgataghoṣasvara iti loke saṃkhyāṃ gacchati /	K10D0100_H0103:493a-15	ཆོས་ཀྱི་སྒྲ་སྐད་ཀྱིས་འཇིག་རྟེན་ན་དེ་བཞིན་གཤེགས་པའི་གསུང་ཞེས་བྱ་བའི་གྲངས་སུ་འགྲོའོ་༎
+K10jnalokau:241	 nāsti ca mañjuśrīs tathāgataḥ,	K10D0100_H0103:493a-16	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། ཡོད་པ་མ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:242	 atha ca dharmasvaraghoṣeṇa tathāgata iti prajñaptir loke saṃbhavati /	K10D0100_H0103:493a-18	འོན་ཀྱང་འཇིག་རྟེན་ན་ཆོས་ཀྱི་སྒྲ་སྐད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བར་གདགས་པ་འབྱུང་སྟེ་།
+K10jnalokau:243	 sattvānām eva pūrvakuśalakarmavipākena tathāgataśabdaṃ niścarantaṃ sattvāḥ saṃjānanti /	K10D0100_H0103:493b-0	སེམས་ཅན་རྣམས་ཁོ་ནའི་སྔོན་གྱི་དགེ་བའི་རྩ་བའི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་སེམས་ཅན་ཐམས་ཅད་ཀྱིས་༄༤༩༣བ་དེ་བཞིན་གཤེགས་པ་ལས་སྒྲ་འབྱུང་བར་ཀུན་ཏུ་ཤེས་སོ་༎
+K10jnalokau:244	 sarvasattvānāṃ sarvasukhajananārthaṃ pramattānāṃ ca saṃcodanārthaṃ śabdo niścarati /	K10D0100_H0103:493b-1	སྒྲ་དེའང་སེམས་ཅན་ཐམས་ཅད་ཀྱི་བདེ་བ་ཐམས་ཅད་ཡང་དག་པར་བསྐྱེད་པར་བྱ་བ་དང་། བག་མེད་པ་རྣམས་ལ་ཡང་དག་པར་བསྐུལ་བར་བྱ་བའི་ཕྱིར་བྱུང་སྟེ་།
+K10jnalokau:245	 te mañjuśrīḥ sattvāḥ śabdaṃ śrutvā tathāgataṃ saṃkalpayanti /	K10D0100_H0103:493b-2	འཇམ་དཔལ་། སེམས་ཅན་དེ་དག་གིས་སྒྲ་དེ་ཐོས་ནས་འདི་ནི་།
+K10jnalokau:246	 ayaṃ tathāgatasyātmabhāva iti /	K10D0100_H0103:493b-3	དེ་བཞིན་གཤེགས་པའི་སྐུ་ཡིན་ནོ་༎ སྙམ་དུ་དེ་བཞིན་གཤེགས་པ་ལ་རྟོག་པར་ཡང་བྱེད་དོ་༎
+K10jnalokau:1302	 loke carasi saṃbuddha lokadharmair aniśritaḥ /  lokaṃ na ca vikalpeṣi nirālamba namo 'stu te // 32 //	K10D0100_H0103:526a-4	རྫོགས་སངས་འཇིག་རྟེན་སྤྱོད་མཛད་ཀྱང་༎ འཇིག་རྟེན་ཆོས་ལ་རྟེན་མི་མཛད་༎ འཇིག་རྟེན་རྣམ་རྟོག་མི་མངའ་བ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:247	 ādikarmikāṇāṃ ca bodhisattvānāṃ sarvabālapṛthagjanānāṃ ca tathāgatārambaṇakuśalamūlasaṃjananārthaṃ tathāgatavāk śrūyate /	K10D0100_H0103:493b-5	བྱང་ཆུབ་སེམས་དཔའ་ལས་དང་པོ་པ་རྣམས་དང་། བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་ཐམས་ཅད་དེ་བཞིན་གཤེགས་པ་ལ་དམིགས་པའི་དགེ་བའི་རྩ་བ་ཡང་དག་པར་བསྐྱེད་པར་བྱ་བའི་ཕྱིར་དེ་བཞིན་གཤེགས་པའི་གསུང་ཡང་ཐོས་མོད་ཀྱི་།
+K10jnalokau:248	 api tv anutpanno 'niruddho mañjuśrīs tathāgato veditavyaḥ //  (JĀA 32)	K10D0100_H0103:493b-6	འཇམ་དཔལ་། འོན་ཀྱང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་། སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པ་ཡིན་པར་རིག་པར་བྱའོ་༎
+K10jnalokau:253	 pṛthivīgatānāṃ bījagrāmabhūtagrāmasya sarvatṛṇagulmauṣadhivanaspatīnāṃ saṃjananārtham  upari vaihāyasy āntarīkṣa ākāśe tādṛśā vāyavo vānti /	K10D0100_H0103:493b-9	དཔེར་ན་། སོས་ཀའི་དུས་ཀྱི་མཐར་ཐུག་ནས་དབྱར་ཟླ་ར་བ་བྱུང་བར་གྱུར་ཕན་སེམས་ཅན་རྣམས་ཀྱི་སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་ས་ལ་གནས་པའི་ས་བོན་གྱི་ཚོགས་དང་། ལོ་ཏོག་གི་ཚོགས་དང་། རཙབ༹་དང་། ཤིང་གེལ་པ་དང་། རྩི་དང་། ནགས་ཚལ་ཐམས་ཅད་ཀུན་ཏུ་བསྐྱེད་པར་བྱ་བའི་ཕྱིར་སྟེང་གི་ནམ་མཁའ་བར་སྣང་གི་གནས་ལ་འདི་འདྲ་བའི་རླུང་དག་༄༤༩༤ཨ་༌༎
+K10jnalokau:1304	 śūnye carasi śūnyatvāc chūnyatvāc chūnyagocaraḥ /  śūnyaṃ ca śūnyam ākhyāsi nirālamba namo 'stu te // 33 //	K10D0100_H0103:526a-8	སྟོང་ཕྱིར་སྟོང་ལ་སྤྱོད་མཛད་ཅིང་༎ ཁྱོད་ཉིད་སྟོང་ཞིང་སྤྱོད་ཡུལ་སྟོང་༎ སྟོང་པ་སྟོང་པར་སྟོན་མཛད་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:255	 yenodakaṃ saṃbhavati /  saṃbhūtaṃ ca mahāpṛthivyāṃ prapatati /  tena ca sarvī mahāpṛthivī saṃtarpitā bhavati /	K10D0100_H0103:494a-1	ལྡང་སྟེ༏་དེས་ཆར་བ་སྡུད་པར་བྱེད་ཅིང་བསྡུས་ནས་ཀྱང་ས་གཞི་ཆེན་པོ་ལ་འབབ་པར་བྱེད་དོ་༎ དེས་ས་གཞི་ཆེན་པོ་ཐམས་ཅད་ཀུན་ཏུ་ཚིམ་པར་བྱེད་ཅིང་།
+K10jnalokau:258	 sarve jambūdvīpakāś ca sattvās tasmin samaye pramuditā bhavanti /	K10D0100_H0103:494a-3	དེའི་ཚེ་ན་ཛམབུ་གླིང་བའི་མི་ཐམས་ཅད་ཀྱང་རབ་ཏུ་དགའ་བ་དང་། ཡིད་བདེ་བ་སྐྱེ་བར་བྱེད་དེ་།
+K10jnalokau:259	 saumanasyajātās tasya megha iti /  saṃjñā loke saṃbhavati /	K10D0100_H0103:494a-4	དེ་ལ་འཇིག་རྟེན་ན་སྤྲིན་ཅེས་བྱ་བའི་མིང་དུ་འགྱུར་རོ་༎
+K10jnalokau:261	 yasmin khalu punar mañjuśrīḥ samaya upary antarīkṣād mahān udakaskandho na nipatati,  tasmin samaye sarvajambūdvīpakāḥ sattvā evaṃ cintayanti /  nātra meghaḥ saṃbhavati /	K10D0100_H0103:494a-5	འཇམ་དཔལ་། གང་གི་ཚེ་སྟེང་གི་བར་སྣང་ལས་ཆར་བའི་ཚོགས་ཆེན་པོ་མི་འབབ་པ་དེའི་ཚེ་ན་ཛམབུ་གླིང་པའི་མི་ཐམས་ཅད་འདི་སྐད་ཅེས་འདིར་སྤྲིན་མི་འཁོར་རོ་༎
+K10jnalokau:264	 yadā tu mañjuśrīr upary antarīkṣād mahān vāriskandho mahāpṛthivyāṃ nipatati,	K10D0100_H0103:494a-7	འཇམ་དཔལ་། གང་གི་ཚེ་སྟེང་གི་བར་སྣང་ལས་ཆར་བའི་ཚོགས་ཆེན་པོ་ས་གཞི་ལ་འབབ་པ་དེའི་ཚེ་ན་ནི་།
+K10jnalokau:265	 sattvā evaṃ vadanti /  aho mahāmegho vāri pramuñcati saṃtarpayati mahāpṛthivīm iti /	K10D0100_H0103:494a-8	ཛམབུ་གླིང་པའི་མི་ཐམས་ཅད་འདི་སྐད་ཅེས་ཨཨ་ལ་ལ་སྤྲིན་ཆེན་པོ་ནི་། ཆར་གྱི་རྒྱུན་འབེབས་པར་བྱེད་ཅིང་། ས་གཞི་ཆེན་པོའང་ཀུན་ཏུ་ཚིམ་པར་བྱེད་དོ་༎
+K10jnalokau:267	 na punar atra mañjuśrīr megho vā meghaprajñaptir vā vidyate /	K10D0100_H0103:494a-11	འཇམ་དཔལ་། དེ་ན་ནི༏་སྤྲིན་ཡང་མེད་ལ་སྤྲིན་དུ་གདགས་པའང་མེད་དེ་།
+K10jnalokau:268	 vātasaṃjanito mañjuśrīr upary antarīkṣād mahān udakaskandho nipatati /  so 'pskandho mañjuśrīs tatraivāntarīkṣe 'ntardhīyate /  sattvānāṃ pūrvakarmavipākena /	K10D0100_H0103:494a-12	འཇམ་དཔལ་། སེམས་ཅན་རྣམས་ཀྱི་སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་ཆར་པའི་ཚོགས་ཆེན་པོ་རླུང་གིས་ཀུན་ནས་བསྐྱོད་ན་ནི་། སྟེང་གི་བར་སྣང་ལས་འབབ་པར་ཡང་འགྱུར་།
+K10jnalokau:271	 yathā mañjuśrīs tasya vāriskandhasyopary antarīkṣe vātasaṃkṣobheṇa saṃvāryamāṇasya muñcato vāri megha iti prajñaptir bhavati /	K10D0100_H0103:494a-14	འཇམ་དཔལ་། ཆར་བའི་ཚོགས་ཆེན་པོ་དེ་རླུང་གིས་ཀུན་ནས་དཀྲུགས་པ་ནི་། སྟེང་གི་༄༤༩༤བ་བར་སྣང་དེ་ཉིད་དུ་བག་ལ་ཞ་བར་ཡང་འགྱུར་རོ་༎
+K10jnalokau:272	 sattvānāṃ pūrvakarmavipākena /	K10D0100_H0103:494b-1	འཇམ་དཔལ་། དེ་ལྟར་སེམས་ཅན་རྣམས་ཀྱི་སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་སྟེང་གི་བར་སྣང་ལ་ཆར་བའི་ཚོགས་ཆེན་པོ་དེ་ཀུན་ནས་འདུས་པ་དང་། རླུང་ཀུན་ཏུ་འཁྲུག་པ་དག་གི་ཆར་བའི་རྒྱུན་ཀུན་ཏུ་འཛིན་པའམ་། འབེབས་པར་བྱེད་པ་དེ་ལ་སྤྲིན་ཅེས་འདོགས་པ་འབྱུང་མོད་ཀྱི་།
+K10jnalokau:273	 na punar atra mañjuśrīr meghaḥ saṃvidyate,	K10D0100_H0103:494b-3	འཇམ་དཔལ༏་དེ་ལ་ནི་།
+K10jnalokau:274	 na meghaprajñaptiḥ /	K10D0100_H0103:494b-4	སྤྲིན་ཡང་མེད་། སྤྲིན་དུ་གདགས་པའང་མེད་དེ་།
+K10jnalokau:1306	 vikurvasi mahāriddhyā māyopamasamādhinā /	K10D0100_H0103:526a-12	སྒྱུ་མ་ལྟ་བུའི་ཏིང་འཛིན་དང་༎ རྫུ་འཕྲུལ་ཆེན་པོས་རྣམ་འཕྲུལ་ཞིང་༎
+K10jnalokau:275	 (JĀA 33) anutpanno 'niruddho mañjuśrīr meghaś cittagatyanavatāra āgatigativinirmuktaḥ /	K10D0100_H0103:494b-6	འཇམ་དཔལ་། སྤྲིན་དེ་ནི་། མ་སྐྱེས་པ་། མ་འགགས་པ་། སེམས་ཀྱི་ཡུལ་དུ་མི་འཇུག་པ་། འོང་བ་དང་འགྲོ་བ་དང་བྲལ་བ་ཡིན་ནོ་༎
+K10jnalokau:276	 evam eva mañjuśrīḥ pūrvakuśalamūlasaṃbhāropacitānāṃ bodhisattvānāṃ mahāsattvānāṃ  cānyeṣāṃ ca sattvānāṃ śrāvakapratyekabuddhajñānābhiprāyāṇām avaropitakuśalamūlānāṃ	K10D0100_H0103:494b-11	འཇམ་དཔལ་། དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྔོན་དགེ་བའི་རྩ་བའི་ཚོགས་བསགས་པ་དག་དང་། སེམས་ཅན་ཉན་ཐོས་དང་། རང་སངས་རྒྱས་ཀྱི་ཤེས་པ་འདོད་པ་གཞན་དག་དང་། སེམས་ཅན་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་།
+K10jnalokau:278	 ca sattvānāṃ nirvāṇamārgasaṃdarśanahetukānām āsaṃgapratibhānas tathāgato 'rhan samyaksaṃbuddho  loka utpanna iti saṃkhyāṃ gacchati /	K10D0100_H0103:494b-12	མྱ་ངན་ལས་འདས་པ་ཡང་དག་པར་བསྟན་པའི་རྒྱུ་ཅན་རྣམས་ལ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྤོབས་པ་ཐོགས་པ་མི་མངའ་བ་དང་ལྡན་པ་འཇིག་རྟེན་དུ་བྱུང་ངོ་༎ འཇིག་རྟེན་དུ་བྱུང་ངོ་ཞེས་བྱ་བའི་གྲངས་སུ་འགྲོ་སྟེ་།
+K10jnalokau:280	 sa yad bhāṣate tat sarvaṃ tathāvitathānanyathā,	K10D0100_H0103:494b-14	དེ་གང་ཅི་གསུང་བ་དེ་དག་ཐམས་ཅད་ཀྱང་དེ་བཞིན་པ་། མ་ནོར་བ་དེ་བཞིན་པ་། གཞན་མ་ཡིན་པ་དེ་བཞིན་པ་༄༤༩༥ཨ་༌༎
+K10jnalokau:281	 tasya devamanuṣyeṣu tathāgata iti nāma kṛtam /	K10D0100_H0103:495a-1	ཡིན་པས་། དེ་ལ་ལྷ་དང་མི་རྣམས་ཀྱི་ནང་ན་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བའི་མཚན་དུ་བཏགས་པ་ཡིན་ཏེ་།
+K10jnalokau:282	 atha ca mañjuśrīḥ śabdo niścarati devamanuṣyeṣu yaduta tathāgata iti /	K10D0100_H0103:495a-2	འཇམ་དཔལ་། དེ་ལས་ལྷ་དང་མི་རྣམས་ཀྱི་ནང་དུ་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བའི་སྒྲ་འབྱུང་བར་ཡང་འགྱུར་རོ་༎
+K10jnalokau:283	 na punar mañjuśrīs tathāgataḥ saṃvidyate /	K10D0100_H0103:495a-3	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། ཡོད་པ་མ་ཡིན་པ་སྟེ༏་འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། མཚན་མ་མེད་པ་།
+K10jnalokau:1307	 nirnānātvaṃ samāpanna nirālamba namo 'stu te // 34 //	K10D0100_H0103:526a-13	ཐ་དད་མ་མཆིས་སྙོམས་ཞུགས་པ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:284	 animitto mañjuśrīs tathāgato nimittāpagato na deśastho na videśasthaḥ,	K10D0100_H0103:495a-7	མཚན་མ་དང་བྲལ་བ་། ཡུལ་ན་མི་གནས་པ་། ཕྱོགས་ན་མི་གནས་པ་།
+K10jnalokau:285	 abhūto 'nutpanno 'niruddhaḥ /	K10D0100_H0103:495a-10	མ་བྱུང་བ་། མ་སྐྱེས་པ་། མ་འགགས་པ་ཡིན་ནོ་༎
+K10jnalokau:286	 tat khalu punar mañjuśrīs tathāgatapratibhāsaḥ sadevakaṃ lokaṃ dharmeṇa saṃtarpayitvā saṃpravārayitvā,	K10D0100_H0103:495a-13	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པའི་སྤོབས་པ་དེས་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་ཆོས་ཀྱིས་ཡང་དག་པར་ཚིམ་པར་མཛད་ཅིང་།
+K10jnalokau:287	 ādikarmikāṇāṃ ca bodhisattvānāṃ cānyeṣāṃ ca sarvabālapṛthagjanānāṃ nirvāṇavainayikānāṃ pūrvakarmavipākenādarśanābhāso bhavati /  teṣām evaṃ bhavati /  parinirvṛtas tathāgata iti /	K10D0100_H0103:495a-14	ཡང་དག་པར་འཛིན་དུ་བཙུད་ནས་བྱང་ཆུབ་སེམས་དཔའ་ལས་དང་པོ་བ་རྣམས་དང་། བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བས་འདུལ་བ་གཞན་དག་གི་སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་མི་སྣང་བར་གྱུར་པ་ན་བདག་འདི་སྙམ་དུ་དེ་བཞིན་གཤེགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་སོ་༎ སྙམ་དུའང་སེམས་ཏེ་།
+K10jnalokau:290	 na mañjuśrīs tathāgata utpadyate vā nirudhyate vā /	K10D0100_H0103:495a-16	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། སྐྱེ་བའང་མེད་། འགག་པའང་མེད་དོ་༎
+K10jnalokau:291	 anutpanno 'niruddho mañjuśrīs tathāgataḥ /	K10D0100_H0103:495a-19	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། མ་སྐྱེས་པ་། ༄༤༩༥བ་མ་འགགས་པ་སྟེ་།
+K10jnalokau:1308	 anekatva anānātva dūrāsanne na vartase /	K10D0100_H0103:526a-15	དུ་མ་མ་ལགས་གཅིག་མ་ལགས་༎ རིང་དང་ཉེ་ལ་མི་འཇུག་ཅིང་༎ གདེག་དང་གཞག་པ་མི་མངའ་བ་༎
+K10jnalokau:292	 ādiparinirvṛto mañjuśrīs tathāgato 'rhan samyaksaṃbuddhaḥ /	K10D0100_H0103:495b-1	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། གཟོད་མ་ནས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ཡིན་ནོ་༎ འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་། ཡོད་པ་མ་ཡིན་པ་སྟེ་།
+K10jnalokau:293	 yathā mañjuśrīr (JĀA 34)	K10D0100_H0103:495b-5	འཇམ་དཔལ་། ཇི་ལྟར་ཆར་བ་དམིགས་པ་ལས་སྤྲིན་མ་བྱུང་བ་།
+K10jnalokau:294	 udakārambaṇenābhūtasya meghasyānutpannāniruddhasyāsato meghaprajñaptiḥ sthitā loke megha iti /	K10D0100_H0103:495b-6	མ་སྐྱེས་པ་། མ་འགགས་པ་། ཡོད་པ་མ་ཡིན་པ་། དེ་ལ་འཇིག་རྟེན་ན་སྤྲིན་སྤྲིན་ཅེས་བྱ་བར་འདོགས་པ་བྱུང་བ་དེ་བཞིན་དུ་།
+K10jnalokau:295	 evam eva mañjuśrīr dharmadeśanārambaṇenābhūtasya tathāgatasyānutpannāniruddhasyāsata ādita evājātasya nāmaprajñaptiḥ sthitā loke tathāgato 'rhan samyaksaṃbuddha iti //	K10D0100_H0103:495b-10	འཇམ་དཔལ་། ཆོས་སྟོན་པར་དམིགས་པ་ལས་དེ་བཞིན་གཤེགས་པ་མ་བྱུང་བ་། མ་སྐྱེས་པ་། མ་འགགས་པ་། ཡོད་པ་མ་ཡིན་པ་། གཟོད་མ་ཉིད་ནས་མ་སྐྱེས་པ་དེ་ལ་འཇིག་རྟེན་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཞེས་བྱ་བར་འདོགས་པ་འབྱུང་ངོ་༎
+K10jnalokau:296	 §9 Ms. 8b4-10a4 P. 309b6-311a6, D. 283a5-284b3, T. 357 242a3-b15, T. 358 ö, T. 359(D) 256b21-257a2.  tadyathāpi mañjuśrīr mahābrahmānabhibhūr daśatrisāhasramahāsāhasravaśavartī divase divase sarvadevanikāyān vyavalokayati,	K10D0100_H0103:495b-15	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། སྟོང་གསུམ་འབུམ་ཕྲག་བཅུ་ལ་དབང་སྒྱུར་བའི་ཚངས་པ་ཆེན་པོ་ཟིལ་གྱིས་མི་ནོན་ཅིང་ཟིལ་གྱིས་གནོན་པར་བྱེད་པ་ནི་།
+K10jnalokau:298	 yāvac cāturmahārājikadevanikāyaparyantān /	K10D0100_H0103:495b-17	ཉིན་གཅིག་བཞིན་དུ་རྒྱལ་ཆེན་བཞིའི་ལྷའི་རིས་ཀྱི་མཐར་ཐུག་པའི་བར་གྱི་ལྷའི་རིས་ཐམས་ཅད་ལ་རྣམ་པར་ལྟ་བར་བྱེད་དེ་།
+K10jnalokau:299	 tena khalu punar mañjuśrīḥ samayena tasya mahābrahmaṇo daśatrisāhasramahāsāhasravaśavartinaḥ sarvadevanikāyān vyavalokayataḥ,	K10D0100_H0103:496a-0	འཇམ་དཔལ་། སྟོང་གསུམ་འབུམ་ཕྲག་བཅུ་ལ་དབང་སྒྱུར་བའི་ཚངས་པ་ཆེན་པོ་ཟིལ་གྱིས་མི་ནོན་ཅིང་ཟིལ་གྱིས་༄༤༩༦ཨ་༌༎
+K10jnalokau:300	 sarvadevanikāyeṣu sarvadevaputrāḥ svakasvakān kāmakrīḍāratiparibhogāṃs tyaktvā sarvatūryatāḍāvacarasaṃgītiṃ śamayitvā,	K10D0100_H0103:496a-1	གནོན་པར་བྱེད་པ་སྟེ༏་ལྷའི་རིས་ཐམས་ཅད་ལ་རྣམ་པར་ལྟ་བར་བྱེད་པ་དེའི་ཚེ་ན་ལྷའི་རིས་ཐམས་ཅད་ཀྱི་ནང་ན་ལྷའི་བུ་ཐམས་ཅད་རང་རང་གི་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་དག་སྤངས་ཏེ་སིལ་སྙན་དང་།
+K10jnalokau:301	 kāmakrīḍāratimanasikārotsṛṣṭāḥ sagauravā añjaliṃ pragṛhya mahābrahmāṇam animiṣaṃ vyavalokayanti /	K10D0100_H0103:496a-2	ཕེག་རྡོབ་དང་། གླུ་དབྱངས་ཀྱི་སྒྲ་ཐམས་ཅད་ཞི་བར་བྱས་ནས་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་ཡིད་ལ་བྱེད་པ་བཏང་སྟེ་གུས་པ་དང་བཅས་པས་ཐལ་མོ་སྦྱར་ནས་། ཚངས་པ་ཆེན་པོ་དེ་ལ་མིག་མི་འཛུམ་པར་ལྟ་བར་བྱེད་དོ་༎
+K10jnalokau:302	 sa ca mahābrahmā sarvadevanikāyeṣu muhūrtaṃ darśanaṃ dadāti /	K10D0100_H0103:496a-4	ཚངས་པ་ཆེན་པོ་དེའང་གནས་ནས་མི་ག-ཡོ་བར་ལྷའི་བུ་ཐམས་ཅད་ཡུད་ཙམ་ཞིག་བདག་བལྟར་འཇུག་པར་བྱེད་དེ་།
+K10jnalokau:303	 te ca devaputrās tasmin samaye mahābrahmalokopapattim ākāṅkṣanti,	K10D0100_H0103:496a-5	དེའི་ཚེ་ན་ལྷའི་བུ་དེ་དག་ཚངས་པའི་འཇིག་རྟེན་དུ་སྐྱེ་བར་འདོད་ཅིང་།
+K10jnalokau:304	 mahābrahmalokopapattaye ca kuśalamūlāni pariṇāmayanti /	K10D0100_H0103:496a-6	དགེ་བའི་རྩ་བ་རྣམས་ཀྱང་ཚངས་པའི་འཇིག་རྟེན་དུ་སྐྱེ་བར་བྱ་བའི་ཕྱིར་ཡོངས་སུ་བསྔོ་བར་བྱེད་དོ་༎
+K10jnalokau:305	 sa ca mañjuśrīr mahābrahmācyavamānas tato brahmavimānād anyam adhitiṣṭhati mahābrahmāṇaṃ	K10D0100_H0103:496a-7	འཇམ་དཔལ་། ཚངས་པ་ཆེན་པོ་དེའང་ཚངས་པའི་གཞལ་མེད་ཁང་དེ་ནས་འཆི་འཕོ་བར་མི་བྱེད་བཞིན་དུ་།
+K10jnalokau:306	 daśatrisāhasramahāsāhasravaśavartinaṃ pūrvapraṇidhānādhiṣṭhānena teṣāṃ ca devaputrāṇāṃ  pūrvakuśalamūlopacayena /	K10D0100_H0103:496b-0	སྔོན་གྱི་སྨོན་ལམ་གྱི་བྱིན་གྱི་རླབས་དང་། ལྷའི་བུ་དེ་དག་གི་སྔོན་གྱི་དགེ་བའི་རྩ་བ་བསགས་པའི་མཐུས་སྟོང་གསུམ་འབུམ་ཕྲག་བཅུ་ལ་དབང་སྒྱུར་བའི་ཚངས་པ་ཆེན་པོ་ཟིལ་གྱིས་མི་ནོན་ཅིང་ཟིལ་གྱིས་གནོན་པར་བྱེད་པ་གཞན་ཞིག་བྱིན་གྱིས་རློབ་༄༤༩༦བ་པར་བྱེད་དོ་༎
+K10jnalokau:308	 (JĀA 35)  sa ca mañjuśrīr nirmito mahābrahmā divase divase sarvadevanikāyān vyavalokayati,  yāvac cāturmahārājakāyikadevanikāyān /	K10D0100_H0103:496b-1	འཇམ་དཔལ་། སྤྲུལ་བའི་ཚངས་པ་ཆེན་པོ་དེའང་ཉིན་གཅིག་བཞིན་དུ་རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་མཐར་ཐུག་པའི་བར་གྱི་ལྷའི་རིས་ཐམས་ཅད་ལ་རྣམ་པར་ལྟ་པར་བྱེད་དེ་།
+K10jnalokau:311	 tena khalu punar mañjuśrīḥ samayena sarveṣu devanikāyeṣu sarvadevaputrāḥ svakasvakān kāmakrīḍāratiparibhogāṃs tyaktvā sarvatūryatāḍāvacarasaṃgītiṃ	K10D0100_H0103:496b-2	འཇམ་དཔལ་། དེའི་ཚེ་ན་ལྷའི་རིས་ཐམས་ཅད་ཀྱི་ནང་ན་ལྷའི་བུ་ཐམས་ཅད་རང་རང་གི་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་དག་སྤངས་ཏེ་། སིལ་སྙན་དང་། ཕེག་རྡོབ་པ་དང་། གླུ་དབྱངས་ཀྱི་སྒྲ་ཐམས་ཅད་ཞི་བར་བྱས་ནས་འདོད་པའི་རྩེད་མོ་དང་། དགའ་བ་དང་། ལོངས་སྤྱོད་ཡིད་ལ་བྱེད་པ་བཏང་སྟེ་།
+K10jnalokau:1309	 anutkṣepa anikṣepa nirālamba namo 'stu te // 35 //	K10D0100_H0103:526a-18	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:312	 kāmakrīḍāratimanasikārotsṛṣṭāḥ sagauravā añjaliṃ pragṛhya mahābrahmāṇam animiṣaṃ vyavalokayanti sma /	K10D0100_H0103:496b-4	གུས་པ་དང་བཅས་པས་ཐལ་མོ་སྦྱར་ནས་ཚངས་པ་ཆེན་པོ་དེ་ལ་མིག་མི་འཛུམ་པར་ལྟ་བར་བྱེད་དོ་༎
+K10jnalokau:316	 brahmalokopapattaye ca kuśalamūlāni pariṇāmayanti /  na cātra mañjuśrīr brahmā saṃvidyate /  śūnyo 'yaṃ mañjuśrīr brahmā vaśiko 'bhūto 'nakṣaro 'ghoṣo 'deśo 'bhāvo 'cintyo 'nimittaś cittamanovijñānāpagato 'nutpanno 'niruddhaḥ /  atha ca mañjuśrīḥ sarvadevanikāyeṣu darśanābhāso bhavati,  tasyaiva mahābrahmaṇaḥ pūrvakuśalamūlapraṇidhānādhiṣṭhānena teṣāṃ ca devaputrāṇāṃ pūrvakuśalamūlopacayena /	K10D0100_H0103:496b-5	སྤྲུལ་པའི་ཚངས་པ་ཆེན་པོ་དེའང་གནས་ནས་མི་ག-ཡོ་བར་ལྷའི་བུ་ཐམས་ཅད་ཡུད་ཙམ་ཞིག་བདག་ལ་བལྟར་འཇུག་པར་ཡང་བྱེད་དེ་། དེའི་ཚེ་ན་ལྷའི་བུ་དེ་དག་ཀྱང་ཚངས་པའི་འཇིག་རྟེན་དུ་སྐྱེ་བར་འདོད་ཅིང་དགེ་བའི་རྩ་བ་རྣམས་ཀྱང་ཚངས་པའི་འཇིག་རྟེན་དུ་སྐྱེ་བར་བྱ་བའི་ཕྱིར་ཡོངས་སུ་བསྔོ་བར་ཡང་བྱེད་དོ་༎ འཇམ་དཔལ་། དེ་ལ་ནི་། ཚངས་པ་ཡོད་པ་མ་ཡིན་ཏེ་། འཇམ་དཔལ་། ཚངས་པ་དེ་ནི་།
+K10jnalokau:323	 śūnyo vaśiko 'bhūto 'nakṣaro 'ghoṣo 'deśo 'bhāvo 'cintyo 'nimittaś cittamanovijñānāpagato 'nutpanno 'niruddho veti /	K10D0100_H0103:496b-10	སྟོང་པ༏་ཡ་མ་བརླ་། མ་བྱུང་བ་། ཡི་གེ་མེད་པ་། སྒྲ་མེད་པ་། ཡུལ་མེད་པ་།
+K10jnalokau:324	 evam eva mañjuśrīs tathāgato 'py arhan samyaksaṃbuddhaḥ śūnyo vaśiko 'bhūto 'nakṣaro 'ghoṣo 'deśo 'bhāvo 'cintyo 'nimittaś cittamanovijñānāpagato 'nutpanno 'niruddhaḥ /	K10D0100_H0103:496b-15	དངོས་པོ་མེད་པ་། བསམ་དུ་མེད་པ་། མཚན་མ་མེད་པ་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་༄༤༩༧ཨ་༌༎ པ་དང་བྲལ་བ་། མ་སྐྱེས་པ་། མ་འགགས་པ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:325	 atha ca punar mañjuśrīs tathāgato 'rhan samyaksaṃbuddhaḥ pūrvabodhisattvacaryāpraṇidhānādhiṣṭhānena, (JĀA 36)	K10D0100_H0103:497a-4	འཇམ་དཔལ་། འོན་ཀྱང་ཚངས་པ་ཆེན་པོ་དེ་ཉིད་ཀྱི་སྔོན་གྱི་དགེ་བའི་རྩ་བ་དང་། སྨོན་ལམ་གྱི་བྱིན་གྱི་རླབས་དང་། ལྷའི་བུ་དེ་དག་གི་སྔོན་གྱི་དགེ་བའི་རྩ་བ་བསགས་པའི་མཐུས་ལྷའི་རིས་ཐམས་ཅད་ལ་བལྟར་སྣང་བར་ཡང་འགྱུར་རོ་༎ འཇམ་དཔལ༏་འོན་ཀྱང་ལྷའི་བུ་དེ་དག་འདི་སྙམ་དུ་ཚངས་པ་ཆེན་པོ་དེ་ནི་། སྤྲུལ་པ་། སྟོང་པ་། ཡ་མ་བརླ་། མ་བྱུང་བ་། ཡི་གེ་མེད་པ་། སྒྲ་མེད་པ་།
+K10jnalokau:329	 na ca mañjuśrīr ādikarmikāṇāṃ ca bodhisattvānāṃ sarvaśrāvakapratyekabuddhayānikānāṃ sarvabālapṛthagjanānāṃ caivaṃ bhavati /	K10D0100_H0103:497b-3	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་ལས་དང་པོ་བ་རྣམས་དང་། ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ཐེག་པ་པ་ཐམས་ཅད་དང་། བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་ཐམས་ཅད་ནི་། འདི་སྙམ་དུ་དེ་བཞིན་གཤེགས་པ་ནི་། སྟོང་པ་། ཡ་མ་བརླ་། མ་བྱུང་བ་། ཡི་གེ་མེད་པ་།
+K10jnalokau:330	 śūnyas tathāgato vaśiko 'bhūto 'nakṣaro 'ghoṣo 'deśo 'bhāvo 'cintyo 'nimittaś cittamanovijñānāpagato 'nutpanno 'niruddho ceti /	K10D0100_H0103:497b-8	སྒྲ་མེད་པ་། ཡུལ་མེད་པ༏་དངོས་པོ་མེད་པ་། བསམ་དུ་མེད་པ་། མཚན་མ་མེད་པ་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:331	 atha ca mañjuśrīs tathāgatātmabhāvāl lakṣaṇaśatasahasrālaṃkṛtāt sarvatathāgateryāpatheṣu śūnyeṣu nānāvidhivicitrāṇāṃ nānādhimuktānāṃ sattvānāṃ mahādharmadeśanā niścarati /	K10D0100_H0103:497b-13	མ་སྐྱེས་པ་། འོན་ཀྱང་དེ་བཞིན་གཤེགས་པ་ནི་། སྤྱོད་ལམ་ཐམས་ཅད་དུ་དེ་བཞིན་གཤེགས་པའི་སྐུ་མཚན་བརྒྱ་སྟོང་གིས་ལེགས་པར་བརྒྱུན་པ་ལས་སེམས་ཅན་མོས་པ་སྣ་ཚོགས་ཐ་དད་པ་རྣམས་ལ་ཆོས་སྟོན་པ་ཆེན་པོ་འབྱུང་བར་ཡང་བྱེད་དོ་༎
+K10jnalokau:332	 sā ca dharmadeśanā sarvasattvānāṃ sarvopadravopāyāsopakleśopaśāntaye saṃvartate /	K10D0100_H0103:498a-0	ཆོས་བསྟན་པ་དེའང་སེམས་ཅན་ཐམས་ཅད་ཀྱི་གནོད་པ་དང་། འཁྲུག་པ་དང་། ཉེ་༄༤༩༨ཨ་༌༎ བའི་ཉོན་མོངས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱེད་པར་འགྱུར་ཏེ་།
+K10jnalokau:333	 tatra ca tathāgataḥ samayaḥ sarvatropekṣako nirvikalpo nirviśeṣaḥ /	K10D0100_H0103:498a-2	དེ་བཞིན་གཤེགས་པ་ནི་། དེ་ལའང་ཐམས་ཅད་དུ་མཉམ་ཞིང་བཏང་སྙོམས་ལ་རྣམ་པར་མི་རྟོག་ཅིང་བྱེ་བྲག་མི་འབྱེད་དེ་།
+K10jnalokau:334	 tad anenāpi te mañjuśrīḥ paryāyeṇaivaṃ veditavyam,  anutpādo 'nirodha iti tathāgatasyaitad adhivacanam iti //	K10D0100_H0103:498a-4	འཇམ་དཔལ་། རྣམ་གྲངས་དེས་ཀྱང་འདི་ལྟར་སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པ་ཞེས་བྱ་བ་དེ་ནི་། དེ་བཞིན་གཤེགས་པའི་ཚིག་བླ་དབ༹གས་ཡིན་པར་རིག་པར་བྱའོ་༎
+K10jnalokau:1310	 ekakṣaṇe 'bhisaṃbuddha vajropamasamādhinā /	K10D0100_H0103:526a-19	རྡོ་རྗེ་ལྟ་བུའི་ཏིང་འཛིན་གྱིས་༎ སྐད་ཅིག་གཅིག་ལ་མངོན་སངས་རྒྱས༏་༏དངོས་མ་མཆིས་པར་མཉམ་བཞག་པ་༎
+K10jnalokau:337	 atha khalu bhagavāṃs tasyāṃ velāyām ime gāthe abhāṣat /	K10D0100_H0103:498a-6	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ་༎
+K10jnalokau:338	 (JĀA 37)  anutpādadharmaḥ satataṃ tathāgataḥ sarve ca dharmāḥ sugatena sādṛśāḥ /	K10D0100_H0103:498a-7	དེ་བཞིན་གཤེགས་པ་རྟག་ཏུ་སྐྱེ་མེད་ཆོས་༎ ཆོས་རྣམས་ཀུན་ཀྱང་བདེ་བར་གཤེགས་དང་འདྲ་༎
+K10jnalokau:340	 nimittagrāheṇa tu bālabuddhayo asatsu dharmeṣu caranti loke // 1 //	K10D0100_H0103:498a-9	བྱིས་པའི་བློ་ཅན་མཚན་མར་འཛིན་པ་རྣམས་༎ འཇིག་རྟེན་དག་ན་མེད་པའི་ཆོས་ལ་སྤྱོད་༎
+K10jnalokau:341	 tathāgato hi pratibimbabhūtaḥ kuśalasya dharmasya anāsravasya /	K10D0100_H0103:498a-11	དེ་བཞིན་གཤེགས་པ་ཟག་མེད་དགེ་བ་ཡི་༎ ཆོས་ཀྱི་གཟུགས་བརྙན་ཡིན་ཏེ་འདི་ལ་ནི་༎
+K10jnalokau:342	 na cātra tathatā na tathāgato 'sti bimbaṃ ca saṃdṛśyati sarvaloke // 2 //	K10D0100_H0103:498a-13	དེ་བཞིན་ཉིད་མེད་དེ་བཞིན་གཤེགས་པའང་མེད་༎ འཇིག་རྟེན་ཀུན་ཏུ་གཟུགས་བརྙན་ཀུན་ཏུ་སྣང་༎
+K10jnalokau:1311	 nirābhāsasamāpanna nirālamba namo 'stu te // 36 //	K10D0100_H0103:526a-21	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:344	 T. 357 242b20-243a11, T. 358 251a29-b20, T. 359(D) 257a8-b25.  tadyathā mañjuśrīḥ sūryaraśmayo jambūdvīpe pūrvataram eva tāvad mahāśailendrarājānam avabhāsayanti /	K10D0100_H0103:498a-15	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། ཉི་མའི་དཀྱིལ་འཁོར་གྱི་འོད་ཟེར་དག་ནི་། ཛམབུའི་གླིང་དུ་དང་པོ་ཁོ་ནར་རིའི་དབང་པོ་ཆེན་པོ་རྣམས་སྣང་བར་བྱེད་དོ་༎
+K10jnalokau:346	 tataḥ paścāc cakravāḍān mahācakravāḍān avabhāsayanti /	K10D0100_H0103:498a-18	དེའི་འོག་ཏུ་རིའི་ཁོར་ཡུག་དང་། ཁོར་ཡུག་ཆེན་པོ་རྣམས་སྣང་བར་བྱེད་དོ་༎ དེའི་འོག་ཏུ་རི་ཆེན་པོ་གཞན་དག་ཀྱང་སྣང་བར་བྱེད་དོ་༎
+K10jnalokau:347	 tataḥ paścād uccoccān pṛthivīpradeśān avabhāsayanti /	K10D0100_H0103:498b-0	དེའི་འོག་ཏུ་༄༤༩༨བ་རི་ནག་པོ་རྣམས་སྣང་བར་བྱེད་དོ་༎ དེའི་འོག་ཏུ་ས་ཕྱོགས་མཐོན་པོ་མཐོན་པོ་དག་སྣང་བར་བྱེད་དོ་༎
+K10jnalokau:348	 tataḥ paścād iha jambūdvīpe nimnān pṛthivīpradeśān avabhāsayanti /	K10D0100_H0103:498b-2	དེའི་འོག་ཏུ་ཛམབུའི་གླིང་འདིའི་ས་ཕྱོགས་དམའ་བ་དམའ་བ་དག་ཀྱང་སྣང་བར་བྱེད་དོ་༎
+K10jnalokau:1313	 acalaṃ vetsi nirvāṇaṃ sarvatryadhvasu nāyaka /	K10D0100_H0103:526a-22	འདྲེན་པ་དུས་རྣམས་ཐམས་ཅད་དུ་༎ མི་ག-ཡོ་མྱ་ངན་འདས་པ་རྟོགས་༎
+K10jnalokau:349	 te ca mañjuśrīḥ sūryaraśmayo na kalpayanti,  na vikalpayanti,	K10D0100_H0103:498b-3	འཇམ་དཔལ་། འོན་ཀྱང་ཉི་མའི་འོད་ཟེར་དེ་དག་ནི་། རྟོག་པར་མི་བྱེད་། རྣམ་པར་རྟོག་པར་མི་བྱེད་།
+K10jnalokau:351	 na cintayanti,  na vicintayanti /	K10D0100_H0103:498b-7	རྣམ་པར་སེམས་པར་མི་བྱེད་དེ་།
+K10jnalokau:353	 cittamanovijñānāpagatā mañjuśrīḥ sūryaraśmayaḥ,	K10D0100_H0103:498b-8	འཇམ་དཔལ་། ཉི་མའི་འོད་ཟེར་རྣམས་ནི་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:354	 anutpannā aniruddhāḥ,	K10D0100_H0103:498b-10	མ་སྐྱེས་པ་། མ་འགགས་པ་།
+K10jnalokau:1314	 vividhopāyasampanna nirālamba namo 'stu te // 37 //	K10D0100_H0103:526a-24	སྣ་ཚོགས་ཐབས་དང་ལྡན་པ་པོ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:1315	 pāraṃparyeṇa sattvānām upāyajñānakovidaḥ /	K10D0100_H0103:526a-26	སེམས་ཅན་རྣམས་ཀྱི་བརྒྱུད་པའི་ཐབས་༎ མཁྱེན་པས་མཁས་པར་གྱུར་པ་ལགས་༎
+K10jnalokau:355	 alakṣaṇā lakṣaṇāpagatāḥ,  amanaskārā manaskārāpagatāḥ,	K10D0100_H0103:498b-12	མཚན་ཉིད་མེད་པ་། མཚན་ཉིད་དང་བྲལ་བ༏་ཡིད་ལ་བྱེད་པ་མེད་པ་།
+K10jnalokau:357	 aprapañcāḥ prapañcāpagatāḥ, (JĀA 38)  aparidāhā niṣparidāhāḥ,	K10D0100_H0103:498b-14	ཡིད་ལ་བྱེད་པ་དང་བྲལ་བ་། སྤྲོས་པ་མེད་པ་། སྤྲོས་པ་དང་བྲལ་བ་། ཡོངས་སུ་གདུང་བ་མེད་པ་། ཡོངས་སུ་གདུང་བ་དང་བྲལ་བ་།
+K10jnalokau:359	 naurasthā na parasthāḥ,  noccā na nīcāḥ,  na baddhā na muktāḥ,	K10D0100_H0103:498b-19	ཚུ་རོལ་ན་གནས་པ་མ་ཡིན་པ་། ཕ་རོལ་ན་གནས་པ་མ་ཡིན་། མཐོ་བ་མ་ཡིན་། དམའ་བ་མ་ཡིན་། བཅིངས་པ་མ་ཡིན་།
+K10jnalokau:362	 na jñānavanto nājñānavantaḥ,	K10D0100_H0103:498b-24	ཤེས་པ་དང་ལྡན་པ་མ་ཡིན་། ཤེས་པ་དང་མི་ལྡན་པ་མ་ཡིན་།
+K10jnalokau:363	 na saṃkleśā na niḥkleśāḥ,	K10D0100_H0103:498b-26	ཉོན་མོངས་པ་དང་བཅས་པ་མ་ཡིན་། ཉོན་མོངས་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:364	 na satyavādino na mṛṣāvādinaḥ,	K10D0100_H0103:498b-28	བདེན་པར་སྨྲ་བ་མ་ཡིན་། བརྫུན་དུ་སྨྲ་བ་མ་ཡིན་།
+K10jnalokau:365	 na tīre na nimne,  na sthale naughe,	K10D0100_H0103:498b-30	ཕ་རོལ་མ་ཡིན་། ཚུ་རོལ་མ་ཡིན་། འགྲམ་ན་མ་ཡིན་། གཤོང་ན་མ་ཡིན་། ཐང་ལ་མ་ཡིན་། ཆུ་བོ་ན་མ་ཡིན་།
+K10jnalokau:367	 na tarkāvacarā nātarkāvacarāḥ,	K10D0100_H0103:498b-36	རྟོག་གེའི་སྤྱོད་ཡུལ་མ་ཡིན་། རྟོག་གེ་མ་ཡིན་པའི་སྤྱོད་ཡུལ་མ་ཡིན་།
+K10jnalokau:1316	 acalaṃ vetsi nirvāṇaṃ nirālamba namo 'stu te // 38 //	K10D0100_H0103:526b-0	དེ་ཕྱིར་༄༥༢༦བ་མི་ག-ཡོ་མྱ་ངན་འདས་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:368	 na rūpiṇo nārūpiṇaḥ /	K10D0100_H0103:498b-38	གཟུགས་ཅན་མ་ཡིན་། གཟུགས་མེད་༄༤༩༩ཨ་༌༎ པ་མ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:369	 atha ca punar mañjuśrīḥ pṛthivyām uccanīcamadhyaviśeṣeṇa hīnamadhyotkṛṣṭāvabhāsasya cchāyā vaicitryaṃ bhavati /	K10D0100_H0103:499a-2	འཇམ་དཔལ་། འོན་ཀྱང་ས་གཞི་མཐོ་བ་དང་། དམའ་བ་དང་། བར་མའི་བྱེ་བྲག་གིས་སྣང་བ་ཆེན་པོ་དང་། ཆུང་དུ་དང་། བར་མའི་འོད་ཟེར་སྣ་ཚོགས་སྣང་བར་འགྱུར་རོ་༎
+K10jnalokau:370	 evam eva mañjuśrīs tathāgato 'py arhan samyaksaṃbuddho na kalpayati,  na vikalpayati,	K10D0100_H0103:499a-3	འཇམ་དཔལ་། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱང་རྟོག་པར་མི་བྱེད་།
+K10jnalokau:372	 na cintayati,  na vicintayati /	K10D0100_H0103:499a-4	རྣམ་པར་རྟོག་པར་མི་བྱེད་། སེམས་པར་མི་བྱེད་།
+K10jnalokau:374	 cittamanovijñānāpagato mañjuśrīs tathāgataḥ,	K10D0100_H0103:499a-7	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:375	 anutpanno 'niruddhaḥ,	K10D0100_H0103:499a-9	མ་སྐྱེས་པ་། མ་འགགས་པ་།
+K10jnalokau:376	 alakṣaṇo lakṣaṇāpagataḥ,	K10D0100_H0103:499a-11	མཚན་ཉིད་མེད་པ་། མཚན་ཉིད་དང་བྲལ་བ་།
+K10jnalokau:377	 amanaskāro manaskārāpagataḥ,	K10D0100_H0103:499a-13	ཡིད་ལ་བྱེད་པ་མེད་པ་། ཡིད་ལ་བྱེད་པ་དང་བྲལ་བ་།
+K10jnalokau:1317	 nirnimitta nirābhoga niḥprapañca nirāmaya /	K10D0100_H0103:526b-2	མཚན་མ་མི་མངའ་ལྷུན་གྱིས་གྲུབ་༎ སྤྲོས་པ་མི་མངའ་སྐྱོན་མི་མངའ༎
+K10jnalokau:378	 aprapañcaḥ prapañcāpagataḥ,  aparidāho niṣparidāhaḥ /	K10D0100_H0103:499a-15	སྤྲོས་པ་མེད་པ་། སྤྲོས་པ་དང་བྲལ་བ༏་ཡོངས་སུ་གདུང་བ་མེད་པ་། ཡོངས་སུ་གདུང་བ་དང་བྲལ་བ་།
+K10jnalokau:380	 naurastho na pārasthaḥ,  nocco na nīcaḥ,	K10D0100_H0103:499a-18	ཚུ་རོལ་ན་གནས་པ་མ་ཡིན་། ཕ་རོལ་ན་གནས་པ་མ་ཡིན་། མཐོ་བ་མ་ཡིན་། དམའ་བ་མ་ཡིན་།
+K10jnalokau:382	 na baddho na muktaḥ,	K10D0100_H0103:499a-22	བཅིངས་པ་མ་ཡིན་། གྲོལ་བ་མ་ཡིན་།
+K10jnalokau:383	 na jñānavān nājñānavān,	K10D0100_H0103:499a-24	ཤེས་པ་དང་ལྡན་པ་མ་ཡིན་། ཤེས་པ་དང་མི་ལྡན་པ་མ་ཡིན་།
+K10jnalokau:384	 na saṃkleśo na niḥkleśaḥ,	K10D0100_H0103:499a-26	ཉོན་མོངས་པ་དང་བཅས་པ་མ་ཡིན་། ཉོན་མོངས་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:385	 na satyavādī na mṛṣāvādī,  nāvāre na pāre,	K10D0100_H0103:499a-28	བདེན་པར་གསུང་བ་མ་ཡིན་། བརྫུན་པར་གསུང་བ་མ་ཡིན་། ཚུ་རོལ་མ་ཡིན་།
+K10jnalokau:387	 na tīre nātīre,  na nimne nānimne,  na sthale nāsthale,  naughe nānoghe,	K10D0100_H0103:499a-31	ཕ་རོལ་མ་ཡིན་། འགྲམ་ན་མ་ཡིན་། གཤོང་ན་མ་ཡིན་། ཐང་ལ་མ་ཡིན་། ཆུ་བོ་ན་མ་ཡིན་།
+K10jnalokau:391	 na sarvajño nāsarvajñaḥ,	K10D0100_H0103:499b-0	༄༤༩༩བ་ཐམས་ཅད་མཁྱེན་པ་མ་ཡིན་། ཐམས་ཅད་མི་མཁྱེན་པ་མ་ཡིན་།
+K10jnalokau:392	 na tarko nātarkaḥ, na pracāro (JĀA 39)  nāpracāraḥ,  na samudācāro nāsamudācāraḥ,	K10D0100_H0103:499b-2	རྟོག་གེ་མ་ཡིན་། རྟོག་གེ་མེད་པ་མ་ཡིན་། སྤྱོད་པ་མ་ཡིན་། སྤྱོད་པ་མེད་པ་མ་ཡིན་། ཀུན་ཏུ་འབྱུང་བ་མ་ཡིན་། ཀུན་ཏུ་མི་འབྱུང་བ་མ་ཡིན་།
+K10jnalokau:395	 na smṛtimān nāsmṛtimān,  na cetano na niścetanaḥ,	K10D0100_H0103:499b-8	དྲན་པ་དང་ལྡན་པ་མ་ཡིན་། དྲན་པ་དང་མི་ལྡན་པ་མ་ཡིན་།
+K10jnalokau:397	 na mano nāmanaḥ,	K10D0100_H0103:499b-12	ཡིད་མ་ཡིན་། ཡིད་མེད་པ་མ་ཡིན་།
+K10jnalokau:398	 na nirjāto nānirjātaḥ,	K10D0100_H0103:499b-14	སྒྲ་སྐད་མ་ཡིན་། སྒྲ་སྐད་མེད་པ་མ་ཡིན་།
+K10jnalokau:399	 na nāmo nānāmaḥ,	K10D0100_H0103:499b-16	མིང་མ་ཡིན་། མིང་མེད་པ་མ་ཡིན་།
+K10jnalokau:400	 na rūpo nārūpaḥ,	K10D0100_H0103:499b-18	གཟུགས་མ་ཡིན་། གཟུགས་མེད་པ་མ་ཡིན་།
+K10jnalokau:401	 na vyāhāro nāvyāhāraḥ,  na prajñapyo nāprajñapyaḥ,	K10D0100_H0103:499b-20	བརྗོད་པ་མ་ཡིན་། བརྗོད་དུ་མེད་པ་མ་ཡིན་། གདགས་པ་མ་ཡིན་།
+K10jnalokau:403	 na dṛśyo nādṛśyaḥ,	K10D0100_H0103:499b-23	གདགས་སུ་མེད་པ་མ་ཡིན་། བལྟར་སྣང་བ་མ་ཡིན་། བལྟར་མི་སྣང་བ་མ་ཡིན་།
+K10jnalokau:404	 na netrī nānetrī,  na mārgapraṇetā nāmārgapraṇetā,	K10D0100_H0103:499b-26	ཚུལ་མ་ཡིན་། ཚུལ་མེད་པ་མ་ཡིན་། ལམ་སྟོན་པ་མ་ཡིན་། ལམ་མི་སྟོན་པ་མ་ཡིན་།
+K10jnalokau:1318	 nirābhāsa nirātmaika nirālamba namo 'stu te // 39 //	K10D0100_H0103:526b-4	སྣང་མེད་བདག་གི་མི་མངའ་བ་༎ མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:406	 na prāptaphalo nāprāptaphalaḥ,  na kalpo nākalpaḥ,  na kalpāpagato nākalpāpagataḥ /	K10D0100_H0103:499b-30	འབྲས་བུ་ཐོབ་པ་མ་ཡིན་། འབྲས་བུ་མ་ཐོབ་པ་མ་ཡིན་། རྟོག་པ་མ་ཡིན་། རྟོག་པ་མེད་པ་མ་ཡིན་། རྟོག་པ་དང་བྲལ་བ་མ་ཡིན་། རྟོག་པ་དང་མ་བྲལ་བ་མ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:409	 atha ca punar mañjuśrīs tathāgatasūryamaṇḍalajñānaraśmayas traidhātuke 'nantamadhyadharmadhātvapratihataraśmyavabhāsapramuktāḥ /	K10D0100_H0103:499b-36	འཇམ་དཔལ་། འོན་ཀྱང་དེ་བཞིན་གཤེགས་པ་ཉི་མའི་དཀྱིལ་འཁོར་གྱི་ཡེ་ཤེས་ཀྱི་འོད་ཟེར་དག་ནི་། ཁམས་གསུམ་པོ་དེ་དག་ཏུ་ཆོས་ཀྱི་དབྱིངས་མཐའ་དང་དབུས་མེད་པ་དག་ལ་ཐོགས་པ་མེད་པའི་འོད་ཟེར་གྱི་སྣང་བ་དག་གཏོང་བར་མཛད་ཅིང་།
+K10jnalokau:410	 prasṛtāś ca raśmayaḥ pūrvataram eva mahāśailendrakalpādhyāśayānāṃ bodhisattvānāṃ kāye nipatanti /	K10D0100_H0103:500a-0	ཡེ་ཤེས་ཀྱི་འོད་ཟེར་བཏང་བ་དག་གིས་ཀྱང་དང་པོ་ཁོ་ནར་བྱང་ཆུབ་སེམས་དཔའ་ལྷག་པའི་བསམ་༄༥༠༠ཨ་༌༎ པའི་རིའི་དབང་པོའི་རྒྱལ་པོ་ཆེན་པོ་ལྟ་བུ་དང་ལྡན་པ་རྣམས་ཀྱི་ལུས་ལ་འབབ་པར་འགྱུར་རོ་༎
+K10jnalokau:411	 tataḥ paścāt pratyekabuddhayānasaṃprasthitānāṃ kāye nipatanti /	K10D0100_H0103:500a-2	དེའི་འོག་ཏུ་རང་སངས་རྒྱས་ཀྱི་ཐེག་པ་ལ་ཡང་དག་བར་ཞུགས་པ་རྣམས་ཀྱི་ལུས་ལ་འབབ་པར་འགྱུར་རོ་༎
+K10jnalokau:412	 tataḥ paścāc chrāvakayānasaṃprasthitānāṃ kāye nipatanti /	K10D0100_H0103:500a-3	དེའི་འོག་ཏུ་ཉན་ཐོས་ཀྱི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱི་ལུས་ལ་འབབ་པར་འགྱུར་རོ་༎
+K10jnalokau:413	 tataḥ paścāt kuśalādhyāśayānāṃ yathādhimuktīnāṃ sattvānāṃ kāye nipatanti /	K10D0100_H0103:500a-4	དེའི་འོག་ཏུ་སེམས་ཅན་ལྷག་པའི་བསམ་པ་དགེ་བ་དང་། མོས་པ་ཇི་ལྟ་བ་དང་ལྡན་པ་རྣམས་ཀྱི་ལུས་ལ་འབབ་པར་འགྱུར་རོ་༎
+K10jnalokau:414	 tataḥ paścād antaśo mithyātvaniyateṣu sattvasaṃtāneṣu kāye tathāgatasūryamaṇḍalaraśmayo nipatanti /  teṣāṃ copakārībhūtā bhavanty anāgatahetusaṃjananatayā,  saṃvardhayanti ca kuśalair dharmaiḥ /	K10D0100_H0103:500a-5	དེའི་འོག་ཏུ་དེ་བཞིན་གཤེགས་པ་ཉི་མའི་དཀྱིལ་འཁོར་གྱི་ཡེ་ཤེས་ཀྱི་འོད་ཟེར་དག་ཐན་སེམས་ཅན་ལོག་པ་ཉིད་དུ་ངེས་པའི་སེམས་ཀྱི་རྒྱུད་དང་ལྡན་པ་རྣམས་ཀྱི་ལུས་ལ་འབབ་པར་འགྱུར་ཞིང་། དེ་དག་ལ་མ་འོངས་པའི་རྒྱུ་ཡང་དག་པར་སྐྱེད་པས་ཕན་འདོགས་པ་དང་། དགེ་བའི་ཆོས་རྣམས་ཀྱིས་ཡང་དག་པར་འཕེལ་བར་ཡང་བྱེད་དོ་༎
+K10jnalokau:417	 tatra ca tathāgato mañjuśrīḥ samaḥ sarvatropekṣako nirvikalpo nirviśeṣaḥ /	K10D0100_H0103:500a-7	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། དེ་དག་ལ་འང་ཐམས་ཅད་དུ་མཉམ་ཞིང་བཏང་སྙོམས་ལ་རྣམ་པར་མི་རྟོག་ཅིད་བྱེ་བྲག་མི་འབྱེད་དེ་།
+K10jnalokau:418	 na punar mañjuśrīs tathāgatajñānasūryamaṇḍalasyaivaṃ bhavati /  asyāhaṃ sattvasyodāraṃ (JĀA 40)  dharmaṃ deśayiṣyāmi,  asya na deśayiṣyāmīti /  na tasyaivaṃ vikalpo bhavati,	K10D0100_H0103:500a-9	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ཉི་མའི་དཀྱིལ་འཁོར་གྱི་ཡེ་ཤེས་ཀྱི་འོད་ཟེར་ནི་། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་འདི་ལ་ནི་། ཆོས་རྒྱ་ཆེན་པོ་བསྟན་པར་བྱའོ་༎ བསྟན་པར་མི་བྱའོ་༎ སྙམ་དུའང་མི་སེམས་ལ་།
+K10jnalokau:429	 ayam udārāśayādhimuktikaḥ sattvo 'sya mahāyānaṃ deśayiṣyāmi,	K10D0100_H0103:500b-0	འདི་༄༥༠༠བ་སྙམ་དུ་སེམས་ཅན་འདི་ནི་། རྒྱ་ཆེན་པོ་ལ་མོས་པ་ཡིན་ནོ་༎ འདི་ནི་། ཉན་ཐོས་ཀྱི་ཐེག་པ་ལ་མོས་པ་ཡིན་ནོ་༎ འདི་ནི་། དམན་པ་དང་ལོག་པ་ལ་མོས་པ་ཡིན་ནོ་༎ སྙམ་དུ་རྣམ་པར་རྟོག་པར་ཡང་མི་བྱེད་དོ་༎
+K10jnalokau:430	 ayaṃ madhyāśayādhimukto 'sya pratyekabuddhayānaṃ deśayiṣyāmi,	K10D0100_H0103:500b-7	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། འདི་སྙམ་དུ༏་སེམས་ཅན་འདི་ནི་། རྒྱ་ཆེན་པོ་ལ་མོས་པ་ཡིན་གྱི་། ཐེག་པ་ཆེན་པོ་བསྟན་པར་བྱའོ་༎ འདི་ནི་། ལྷག་པའི་བསམ་པ་བར་མ་ལ་མོས་པ་ཡིན་གྱི་། འདི་ལ་ནི༏་རང་སངས་རྒྱས་ཀྱི་ཐེག་པ་བསྟན་པར་བྱའོ་༎
+K10jnalokau:431	 ayaṃ śrāvakayānādhimuktiko 'sya śrāvakayānaṃ deśayiṣyāmi /	K10D0100_H0103:500b-14	འདི་ནི་། ཉན་ཐོས་ཀྱི་ཐེག་པ་ལ་མོས་པ་ཡིན་གྱི་། འདི་ལ་ནི་། ཉན་ཐོས་ཀྱི་ཐེག་པ་བསྟན་པར་བྱའོ་༎
+K10jnalokau:432	 kuśalākuśalāśayānāṃ ca sattvānām āśayaṃ viditvā viśodhayiṣyāmi,	K10D0100_H0103:500b-17	སེམས་ཅན་བསམ་པ་དགེ་བ་རྣམས་ཀྱི་བསམ་པ་རྟོགས་པར་བྱས་ནས་བསམ་པ་རྣམ་པར་སྦྱང་བར་བྱའོ་༎
+K10jnalokau:433	 ṛjukāṃ dṛṣṭiṃ kariṣyāmi /  yāvad mithyātvaniyatānām api sattvānāṃ yathānurūpaṃ dharmaṃ deśayiṣyāmi /	K10D0100_H0103:500b-18	སེམས་ཅན་ལོག་པ་ཉིད་དུ་མོས་པའི་བར་དག་ནི་། ལྟ་བ་དྲང་པོ་བྱ་ཞིང་། ཇི་ལྟར་རྗེས་སུ་མཐུན་པའི་ཆོས་བསྟན་པར་བྱའོ་༎ སྙམ་དུའང་མི་སེམས་ཏེ་།
+K10jnalokau:435	 na tathāgatajñānasūryamaṇḍalaraśmyavabhāsasyaivaṃ vikalpo bhavati /	K10D0100_H0103:500b-22	དེ་བཞིན་གཤེགས་པ་ཉི་མའི་དཀྱིལ་འཁོར་གྱི་ཡེ་ཤེས་ཀྱི་འོད་ཟེར་སྣང་བ་ནི་། དེ་ལྟར་རྣམ་པར་རྟོག་པར་མི་བྱེད་དོ་།
+K10jnalokau:436	 tat kasya hetoḥ /	K10D0100_H0103:500b-24	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:1319	 nirvikalpo nirātmīya yathaivātmānam ātmanā /	K10D0100_H0103:526b-6	རྣམ་རྟོག་མི་མངའ་སྐྱོན་མི་མངའ༎ བདག་གིས་བདག་ཉིད་ཇི་བཞིན་པར་༎
+K10jnalokau:437	 sarvakalpavikalpaprapañcasamucchinnatvāt tathāgatajñānasūryamaṇḍalaraśmyavabhāsasya /	K10D0100_H0103:500b-25	དེ་བཞིན་གཤེགས་པ་ཉི་མའི་དཀྱིལ་འཁོར་གྱི་ཡེ་ཤེས་ཀྱི་འོད་ཟེར་སྣང་བ་ནི་། ཡོངས་སུ་རྟོག་པ་དང་། སྤྲོས་པ་ཐམས་ཅད་ཡང་དག་པར་རྒྱུན་ཆད་པ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:438	 atha ca mañjuśrīḥ sattvānāṃ kuśalāśayasaṃtānavaicitryāt tathāgatajñānasūryamaṇḍalaraśmyavabhāsasya vaicitryaṃ bhavati //	K10D0100_H0103:501a-2	འཇམ་དཔལ་། འོན་ཀྱང་སེམས་ཅན་རྣམས་ཀྱི་དགེ་བའི་བསམ་པའི་རྒྱུད་སྣ་ཚོགས་དག་ལ་དེ་བཞིན་གཤེགས་པ་ཉི་མའི་དཀྱིལ་འཁོར་གྱི་ཡེ་ཤེས་ཀྱི་འོད་ཟེར་གྱི་སྣང་བ་སྣ་ཚོགས་དག་འབྱུང་བར་ཡང་འགྱུར་རོ༏་༏བམ་པོ་གཉིས་པ་།
+K10jnalokau:444	 śabdaṃ niścarantaṃ sattvāḥ saṃjānanti /	K10D0100_H0103:501a-5	དེ་རྒྱལ་མཚན་གྱི་རྩེ་མོ་ལ་བཏགས་ན་དེ་ལས་སེམས་ཅན་གང་གིས་བསམ་པ་ཅི་འདྲ་བ་དེ་ལྟ་བུའི་སྒྲ་འབྱུང་བར་སེམས་ཅན་རྣམས་ཀྱིས་ཀུན་ཏུ་ཤེས་ཀྱང་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོ་དེ་ནི་།
+K10jnalokau:445	 tac ca mahāmaṇiratnaṃ na kalpayati na vikalpayati na cintayati na vicintayati,	K10D0100_H0103:501a-6	རྟོག་པར་མི་བྱེད་། རྣམ་པར་རྟོག་པར་མི་བྱེད་། སེམས་པར་མི་བྱེད་།
+K10jnalokau:446	 acintyaṃ niścintyaṃ cittamanovijñānāpagatam /	K10D0100_H0103:501a-10	སེམས་པ་མེད་པ་། སེམས་མེད་པ་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་ཡིན་ནོ་༎
+K10jnalokau:447	 evam eva mañjuśrīs tathāgato na kalpayati na vikalpayati na cintayati na vicintayati,	K10D0100_H0103:501a-13	འཇམ་དཔལ་། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱང་རྟོག་པར་མི་བྱེད་། རྣམ་པར་རྟོག་པར་མི་བྱེད་། སེམས་པར་མི་བྱེད་། རྣམ་པར་སེམས་པར་མི་བྱེད་ཅིང་།
+K10jnalokau:448	 na cintyo niścintyaś cittamanovijñānāpagataḥ /	K10D0100_H0103:501b-0	༄༥༠༡བ་སེམས་པ་མེད་པ་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:449	 agrāho 'paryavagrāhaḥ,  aprāpto 'prāptavyaḥ,	K10D0100_H0103:501b-2	མ་བཟུང་བ་། ཡོངས་སུ་གཟུང་བར་བྱ་བ་མ་ཡིན་པ་། མ་ཐོབ་པ་།
+K10jnalokau:1320	 vetsi sarvajña sarvatra nirālamba namo 'stu te // 40 //	K10D0100_H0103:526b-8	ཀུན་ཏུ་མཁྱེན་པ་ཐམས་ཅད་མཁྱེན་༎
+K10jnalokau:451	 praṇunnapratyekasatyaḥ,	K10D0100_H0103:501b-5	ཐོབ་པར་བྱ་བ་མ་ཡིན༏་སོ་སོའི་བདེན་པ་གསལ་བ་།
+K10jnalokau:452	 praṇunnarāgaḥ praṇunnadoṣaḥ praṇunnamohaḥ,	K10D0100_H0103:501b-6	འདོད་ཆགས་བསལ་བ་། ཞེ་སྡང་བསལ་བ་། གཏི་མུག་བསལ་བ་།
+K10jnalokau:453	 na satyo na mṛṣā,	K10D0100_H0103:501b-9	བདེན་པ་མ་ཡིན་། རྫུན་པ་མ་ཡིན་།
+K10jnalokau:454	 na nityo nānityaḥ,	K10D0100_H0103:501b-11	རྟག་པ་མ་ཡིན་། མི་རྟག་པ་མ་ཡིན་།
+K10jnalokau:455	 na prabho nāprabhaḥ,	K10D0100_H0103:501b-13	འོད་མ་ཡིན་། འོད་མེད་པ་མ་ཡིན་།
+K10jnalokau:456	 na loko nālokaḥ,	K10D0100_H0103:501b-15	འཇིག་རྟེན་མ་ཡིན་། འཇིག་རྟེན་མེད་པ་མ་ཡིན་།
+K10jnalokau:457	 avitarko 'vicāraḥ,  anutpanno 'niruddhaḥ /  acintyo 'pracintyaḥ,	K10D0100_H0103:501b-17	རྟོག་པ་མེད་པ་། དཔྱོད་པ་མེད་པ་། མ་སྐྱེས་པ་། མ་འགགས་པ་། བསམ་དུ་མེད་པ་། རབ་ཏུ་བསམ་དུ་མེད་པ་།
+K10jnalokau:460	 asvabhāvo 'svābhāvyaḥ,  abhāvaśūnyaḥ,	K10D0100_H0103:501b-23	རང་བཞིན་མེད་པ་། རང་བཞིན་གྱི་གཞི་མེད་པ་། རང་བཞིན་སྟོང་པ་།
+K10jnalokau:462	 anāyūho 'niryūhaḥ,  anabhiniveśyaḥ,	K10D0100_H0103:501b-26	བླང་བ་མེད་པ་། དོར་བ་མེད་པ་། མངོན་པར་ཞེན་པར་བྱ་བ་མེད་པ་། བརྗོད་དུ་མེད་པ་།
+K10jnalokau:464	 avyavahāro vyavahārasamucchedaḥ,  anānando nirānando nandīsamudghātaḥ,	K10D0100_H0103:501b-30	བརྗོད་པ་ཡང་དག་པར་རྒྱུན་ཆད་པ་། ཀུན་ཏུ་དགའ་བ་མེད་པ་། ཀུན་ཏུ་དགའ་བ་དང་བྲལ་བ་།
+K10jnalokau:466	 asaṃkhyātaḥ saṃkhyāpagataḥ,	K10D0100_H0103:501b-33	ཀུན་ཏུ་དགའ་བས་ངེས་པར་བཅོམ་པ༏་གྲངས་སུ་བགྲང་བ་མ་ཡིན་པ་དང་། གྲངས་སུ་བགྲང་བ་དང་། འགྲོ་བ་མེད་པ་།
+K10jnalokau:467	 agatir agatigāmī sarvagatisamucchinnaḥ,  sarvavyāhārasamucchinnaḥ,	K10D0100_H0103:501b-34	འགྲོ་བར་འགྲོ་བ་མེད་པ་། འགྲོ་བ་ཐམས་ཅད་ཡང་དག་པར་རྒྱུན་ཆད་པ་། བརྗོད་པ་ཐམས་ཅད་ཡང་དག་པར་རྒྱུན་ཆད་པ་།
+K10jnalokau:469	 adṛśyo 'nālokyo 'grāhyaḥ,	K10D0100_H0103:501b-37	བལྟར་མི་སྣང་བ་། མི་མཐོང་བ་། གཟུང་དུ་མེད་པ་།
+K10jnalokau:470	 nāvakāśo nānavakāśaḥ,  na paśyo na nirdeśyaḥ,	K10D0100_H0103:501b-40	ཐ་སྙད་མེད་པ་། ནམ་མཁའ་མ་ཡིན་། བླ་གབ་མེད་པ་མ་ཡིན་།
+K10jnalokau:473	 na vikalpito nāvikalpitaḥ,  aviṭhāpito 'saṃdarśitaḥ,  asaṃkliṣṭo 'pariśodhanārhaḥ,	K10D0100_H0103:502a-10	མིང་མེད་པ༏་གཟུགས་མེད་པ་། མཚན་མ་མེད་པ་། ལས་མེད་པ་། ལས་ཀྱི་རྣམ་པར་སྨིན་པ་མེད་པ་།
+K10jnalokau:1321	 §38 Ms. 27a2-6, P. 329a6-b2, D.301a1-4, T. 357 -, T. 358 -, T. 359(W) 263b3-16.  vandāmi tvāṃ daśabala oghatīrṇaṃ vandāmi tvāṃ abhayadadaṃ viśāradam /	K10D0100_H0103:526b-9	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:476	 na nāma na rūpaṃ na nimittam,  na karma na karmavipākaḥ, nātīto (JĀA 42)  nānāgato na pratyutpannaḥ,  niṣkiñcanaḥ,	K10D0100_H0103:502a-14	འདས་པ་མ་ཡིན་། མ་འོངས་པ་མ་ཡིན་། ད་ལྟར་བྱུང་བ་མ་ཡིན༏་ཅིའང་མ་ཡིན་།
+K10jnalokau:481	 anakṣaraḥ,  aghoṣo ghoṣasamatikrānto 'rutaḥ,	K10D0100_H0103:502a-17	ཉོན་མོངས་པ་མེད་པ་། ཡི་གེ་མེད་པ་། སྒྲ་སྐད་ཐམས་ཅད་ལས་ཡང་དག་པར་འདས་པ་། སྒྲ་མེད་པ་།
+K10jnalokau:483	 alakṣaṇaḥ sarvalakṣaṇāpagataḥ,	K10D0100_H0103:502a-21	མཚན་ཉིད་མེད་པ་། མཚན་ཉིད་ཐམས་ཅད་དང་བྲལ་བ་།
+K10jnalokau:484	 nādhyātmyaṃ na bahirddhā nobhayam antareṇopalabhyate /	K10D0100_H0103:502a-23	ནང་ན་མི་དམིགས་། ཕྱི་རོལ་ན་མི་དམིགས་། གཉི་ག་མེད་པར་ཡང་མི་དམིགས་མོད་ཀྱི་།
+K10jnalokau:485	 atha ca mañjuśrīs tathāgatajñānaratnam adhyāśayapariśuddhaṃ mahākaruṇādhvajāgrāvabaddham,	K10D0100_H0103:502a-26	འཇམ་དཔལ་། འོན་ཀྱང་དེ་བཞིན་གཤེགས་པའི་ལྷག་པའི་བསམ་པ་ཡོངས་སུ་དག་པའི་ཡེ་ཤེས་རིན་པོ་ཆེ་སྙིང་རྗེ་ཆེན་པོའི་རྒྱལ་མཚན་གྱི་རྩེ་མོ་ལ་བཏགས་ན་།
+K10jnalokau:1339	 na buddhā ekākino na mahājanamadhyagatāḥ /  na buddhā kenacid dṛṣṭāḥ,  na śrutā na pūjitā na pūjyante /	K10D0100_H0103:527a-22	ཐོས་པ་མ་ཡིན་། མཆོད་པ་མ་ཡིན་ཏེ་།
+K10jnalokau:486	 tato yo yathāśayādhimuktaḥ sattvaḥ sa tathā dharmadeśanāṃ niścarantīṃ saṃjānāti /	K10D0100_H0103:502a-27	དེ་ལས་སེམས་ཅན་གང་ཡིན་པ་དེའི་བསམ་པ་དང་མོས་པ་ཇི་ལྟ་བ་དེ་ལྟ་བུའི་ཆོས་བསྟན་པ་འབྱུང་བར་སེམས་ཅན་རྣམས་ཀྱིས་ཀུན་ཏུ་ཤེས་ཀྱང་དེ་བཞིན་གཤེགས་པ་ནི་།
+K10jnalokau:487	 tatra ca tathāgataḥ samaḥ sarvatropekṣako nirvikalpo nirviśeṣaḥ //	K10D0100_H0103:502b-0	དེ་དག་ལའང་ཐམས་ཅད་དུ་མཉམ་༄༥༠༢བ་ཞིང་བཏང་སྙོམས་ལ་རྣམ་པར་མི་རྟོག་ཅིང་བྱེ་བྲག་མི་འབྱེད་དོ་༎
+K10jnalokau:488	 §13 Ms. 12b4-13b3, P. 314a6-315a7, D. 287a4-288a5,  T. 357 243b5-c4, T. 358 251c5-8, T. 359(D) 257c20-258a19.  tadyathā mañjuśrīḥ pratiśrutkām anyarutavijñaptito niścarantīṃ sattvāḥ saṃjānanti /	K10D0100_H0103:502b-1	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། བྲག་ཅ་ནི་། གཞན་གྱི་རྣམ་པར་རིག་པ་ལས་འབྱུང་བར་སེམས་ཅན་རྣམས་ཀྱིས་ཀུན་ཏུ་ཤེས་ཀྱང་དེ་ནི་།
+K10jnalokau:491	 sā ca nātītā nānāgatā na pratyutpannā,	K10D0100_H0103:502b-4	འདས་པ་མ་ཡིན་། མ་འོངས་པ་མ་ཡིན་། ད་ལྟར་བྱུང་བ་མ་ཡིན་།
+K10jnalokau:1342	 na buddhā kasyacid dharmasya ekatvaṃ vā bahutvaṃ vā kurvanti /	K10D0100_H0103:527a-24	མཆོད་པར་བྱེད་པའང་མ་ཡིན་ནོ་༎
+K10jnalokau:492	 nādhyātmaṃ na bahirdhā nobhayam antareṇopalabhyate,  notpannā na niruddhā,	K10D0100_H0103:502b-7	ནང་ན་མ་ཡིན་། ཕྱི་རོལ་ན་མ་ཡིན་། གཉི་ག་མེད་པར་ཡང་མི་དམིགས་ཏེ༏་མ་སྐྱེས་པ་། མ་འགགས་པ་།
+K10jnalokau:494	 nocchinnā na śāśvatā,	K10D0100_H0103:502b-11	ཆད་པ་མ་ཡིན་། རྟག་པ་མ་ཡིན་།
+K10jnalokau:495	 na jñānavatī nājñānavatī,  na prajñā nāprajñā,  na vidyā nāvidyā,	K10D0100_H0103:502b-13	ཤེས་པ་དང་ལྡན་པ་མ་ཡིན་། ཤེས་པ་དང་མི་ལྡན་པ་མ་ཡིན་། ཤེས་རབ་མ་ཡིན་། ཤེས་རབ་མེད་པ་མ་ཡིན་། རིག་པ་མ་ཡིན་། རིག་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:498	 na vimuktir nāvimuktiḥ,  na sāvadyā na niravadyā,	K10D0100_H0103:502b-19	རྣམ་པར་གྲོལ་བ་མ་ཡིན་། རྣམ་པར་གྲོལ་བ་མེད་པ་མ་ཡིན་། ཁ་ན་མ་ཐོ་བ་དང་བཅས་པ་མ་ཡིན་། ཁ་ན་མ་ཐོ་བ་མེད་པ་མ་ཡིན་།
+K10jnalokau:500	 na smṛtir nāsmṛtiḥ,	K10D0100_H0103:502b-23	དྲན་པ་དང་ལྡན་པ་མ་ཡིན་། དྲན་པ་དང་མི་ལྡན་པ་མ་ཡིན་།
+K10jnalokau:501	 na sthānavatī nāsthānavatī,  na niṣadyā nāniṣadyā,	K10D0100_H0103:502b-25	གནས་པ་དང་ལྡན་པ་མ་ཡིན་། གནས་པ་དང་མི་ལྡན་པ་མ་ཡིན༏་འདུག་པ་མ་ཡིན་། མི་འདུག་པ་མ་ཡིན་།
+K10jnalokau:503	 na pṛthivīdhātur nābdhātur na tejodhātur na vāyudhātuḥ,	K10D0100_H0103:502b-28	སའི་ཁམས་མ་ཡིན་། ཆུའི་ཁམས་མ་ཡིན་། མེའི་ཁམས་མ་ཡིན་། རླུང་གི་ཁམས་མ་ཡིན་།
+K10jnalokau:504	 na saṃskṛtā nāsaṃskṛtā,  na niṣprapañcā na saprapañcā, na (JĀA 43)	K10D0100_H0103:502b-32	འདུས་བྱས་མ་ཡིན་། འདུས་མ་བྱས་མ་ཡིན་། སྤྲོས་པ་ཡོད་པ་མ་ཡིན་། སྤྲོས་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:506	 rutā nārutā,	K10D0100_H0103:502b-36	སྒྲ་མ་ཡིན་། སྒྲ་མེད་པ་མ་ཡིན་།
+K10jnalokau:507	 na dṛśyā nādṛśyā,	K10D0100_H0103:502b-38	བལྟར་སྣང་བ་མ་ཡིན་། བལྟར་མི་སྣང་བ་མ་ཡིན་།
+K10jnalokau:508	 anakṣarā,  anakṣarāpagatā,  aghoṣā ghoṣasamatikrāntā,  atulā tulanāsamatikrāntā,	K10D0100_H0103:502b-40	ཡི་གེ་མེད་པ་། སྒྲ་མེད་པ་། གཞལ་དུ་མེད་པ་། གཞལ་བ་ལས་ཡང་དག་པར་འདས་པ་།
+K10jnalokau:1343	 na buddhair bodhiḥ prāptā /	K10D0100_H0103:527a-25	སངས་རྒྱས་རྣམས་ནི་།
+K10jnalokau:512	 alakṣaṇā lakṣaṇāpagatā,  na śāntir nāśāntiḥ,	K10D0100_H0103:503a-3	མཚན་ཉིད་མེད་པ་། མཚན་ཉིད་དང་བྲལ་བ༏་ཞི་བ་མ་ཡིན་། མ་ཞི་བ་མ་ཡིན་།
+K10jnalokau:514	 na dīrghā na hrasvā,	K10D0100_H0103:503a-6	རིང་པོ་མ་ཡིན་། ཐུང་ངུ་མ་ཡིན་།
+K10jnalokau:515	 na cetanā nācetanā,	K10D0100_H0103:503a-8	སེམས་པ་ཡོད་པ་མ་ཡིན་། སེམས་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:516	 na caityā nācaityā,	K10D0100_H0103:503a-10	སྣང་བ་མ་ཡིན་། མི་སྣང་བ་མ་ཡིན༏་བསྟན་དུ་ཡོད་པ་མ་ཡིན་། བསྟན་དུ་མེད་པ་མ་ཡིན་།
+K10jnalokau:517	 na lokyā nālokyā,  darśanasvabhāvena śūnyāsmṛtir amanasikārā,	K10D0100_H0103:503a-13	རང་བཞིན་སྟོང་པ་མ་ཡིན་། དྲན་པ་མེད་པ་། ཡིད་ལ་བྱེད་པ་མེད་པ་།
+K10jnalokau:519	 avitarkā,  avicārā,	K10D0100_H0103:503a-16	རྟོག་པ་མེད་པ་།
+K10jnalokau:521	 cittamanovijñānāpagatā,	K10D0100_H0103:503a-17	དཔྱོད་པ་མེད་པ༏་སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:522	 sarvatra samā nirvikalpā,	K10D0100_H0103:503a-18	ཐམས་ཅད་དུ་མཉམ་ཞིང་བཏང་སྙོམས་ལ་རྣམ་པར་མི་རྟོག་ཅིང་བྱེ་བྲག་མི་འབྱེད་པ་།
+K10jnalokau:523	 nirviśeṣā tryadhvasamatikrāntā /	K10D0100_H0103:503a-19	དུས་གསུམ་ལས་ཡང་དག་པར་འདས་པ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:524	 atha ca mañjuśrīḥ pratiśrutkā nānārutaghoṣā nānādhyāśayānāṃ sattvānāṃ nānārutaghoṣavijñaptito niścarati /	K10D0100_H0103:503a-20	འཇམ་དཔལ་། འོན་ཀྱང་སེམས་ཅན་ལྷག་པའི་བསམ་པ་ཐ་དད་པ་རྣམས་ཀྱི་སྒྲ་སྐད་དང་། རྣམ་པར་རིག་པ་སྣ་ཚོགས་དག་ལས་བྲག་ཅའི་སྒྲ་སྐད་སྣ་ཚོགས་དག་འབྱུང་བར་འགྱུར་ཞིང་།
+K10jnalokau:525	 tāṃś ca sattvās tathaiva saṃjānanti /	K10D0100_H0103:503a-21	དེ་དག་ནི་། བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་དེ་ཁོ་ན་བཞིན་དུ་ཀུན་ཏུ་ཤེས་པར་འགྱུར་རོ་༎
+K10jnalokau:526	 evam eva mañjuśrīs tathāgato 'rhan samyaksaṃbuddho nātīto nānāgato na pratyutpannaḥ,	K10D0100_H0103:503a-23	འཇམ་དཔལ་། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱང་འདས་པ་མ་ཡིན་། མ་འོངས་པ་མ་ཡིན་། ད་ལྟར་༄༥༠༣བ་བྱུང་བ་མ་ཡིན་།
+K10jnalokau:527	 nādhyātmaṃ na bahirdhā nobhayam antareṇopalabhyate,	K10D0100_H0103:503b-1	ནང་ན་མ་ཡིན་། ཕྱི་རོལ་ན་མ་ཡིན་ཞིང་། གཉི་ག་མེད་པར་ཡང་མི་དམིགས་ཏེ་།
+K10jnalokau:528	 notpanno na niruddhaḥ,	K10D0100_H0103:503b-4	མ་སྐྱེས་པ་། མ་འགགས་པ་། ཆད་པ་མ་ཡིན་།
+K10jnalokau:529	 nocchinno na śāsvataḥ,	K10D0100_H0103:503b-7	རྟག་པ་མ་ཡིན་།
+K10jnalokau:530	 na jñānavān nājñānavān,  aprajñāvān nāprajñāvān,  na vidyā nāvidyā,	K10D0100_H0103:503b-8	ཤེས་པ་དང་ལྡན་པ་མ་ཡིན་། ཤེས་པ་དང་མི་ལྡན་པ་མ་ཡིན་། ཤེས་རབ་མ་ཡིན་། ཤེས་རབ་མེད་པ་མ་ཡིན་། རིག་པ་མ་ཡིན་། རིག་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:533	 na vimuktir nāvimuktiḥ,  na sāvadyo na niravadyaḥ,	K10D0100_H0103:503b-14	རྣམ་པར་གྲོལ་བ་མ་ཡིན་། རྣམ་པར་གྲོལ་བ་མེད་པ་མ་ཡིན་། ཁ་ན་མ་ཐོ་བ་དང་བཅས་པ་མ་ཡིན་། ཁ་ན་མ་ཐོ་བ་མེད་པ་མ་ཡིན་།
+K10jnalokau:535	 na smṛtimān nāsmṛtimān,	K10D0100_H0103:503b-18	དྲན་པ་དང་ལྡན་པ་མ་ཡིན་། དྲན་པ་དང་མི་ལྡན་པ་མ་ཡིན་།
+K10jnalokau:536	 na sthānavān nāsthānavān,	K10D0100_H0103:503b-20	གནས་དང་ལྡན་པ་མ་ཡིན་། གནས་དང་མི་ལྡན་པ་མ་ཡིན་།
+K10jnalokau:537	 na niṣadyo nāniṣadyaḥ,	K10D0100_H0103:503b-22	འདུག་པ་མ་ཡིན་། མི་འདུག་པ་མ་ཡིན་།
+K10jnalokau:538	 na pṛthivīdhātur nābdhātur na tejodhātur na vāyudhātuḥ,	K10D0100_H0103:503b-24	སའི་ཁམས་མ་ཡིན་། ཆུའི་ཁམས་མ་ཡིན་། མེའི་ཁམས་མ་ཡིན་། རླུང་གི་ཁམས་མ་ཡིན་།
+K10jnalokau:539	 na saṃskṛto nāsaṃskṛtaḥ, na (JĀA 44)  prapañco nāprapañcaḥ,	K10D0100_H0103:503b-28	འདུས་བྱས་མ་ཡིན་། འདུས་མ་བྱས་མ་ཡིན་། སྤྲོས་པ་ཡོད་པ་མ་ཡིན་། སྤྲོས་པ་མེད་པ་མ་ཡིན་།
+K10jnalokau:542	 na dṛśyo nādṛśyaḥ,  anakṣaraḥ,  aghoṣo ghoṣasamatikrāntaḥ,	K10D0100_H0103:503b-32	སྒྲ་མ་ཡིན་། སྒྲ་མེད་པ་མ་ཡིན་། བལྟར་སྣང་བ་མ་ཡིན་། བལྟར་མི་སྣང་བ་མ་ཡིན༏་ཡི་གེ་མེད་པ་།
+K10jnalokau:545	 atulas tulāsamatikrāntaḥ,	K10D0100_H0103:503b-38	གཞལ་དུ་མེད་པ་།
+K10jnalokau:546	 alakṣaṇo lakṣaṇāpagataḥ,	K10D0100_H0103:503b-40	མཚན་ཉིད་མེད་པ་།
+K10jnalokau:547	 na śānto nāśāntaḥ,	K10D0100_H0103:503b-41	མཚན་ཉིད་དང་བྲལ་བ༏་ཞི་བ་མ་ཡིན་། མ་ཞི་བ་མ་ཡིན་།
+K10jnalokau:1344	 na buddhāḥ kenacid dharmena prabhāvyante /	K10D0100_H0103:527b-0	ཆོས་འགའ་ཡང་༄༥༢༧བ་གཅིག་པ་ཉིད་དམ་།
+K10jnalokau:548	 na dīrgho na hrasvaḥ,	K10D0100_H0103:503b-43	རིང་པོ་མ་ཡིན་། ཐུང་ངུ་མ་ཡིན་།
+K10jnalokau:549	 na cetano nācetanaḥ,  na caityo nācaityaḥ,	K10D0100_H0103:503b-45	སེམས་པ་ཡོད་པ་མ་ཡིན་། སེམས་པ་མེད་པ་མ་ཡིན་། སྣང་བ་མ་ཡིན་། མི་སྣང་བ་མ་ཡིན་།
+K10jnalokau:552	 darśanasvabhāvena śūnyaḥ,	K10D0100_H0103:504a-2	རང་བཞིན་སྟོང་པ་།
+K10jnalokau:553	 asmṛtī,  amanasikāraḥ,  avitarkaḥ,	K10D0100_H0103:504a-3	དྲན་པ་མེད་པ་། ཡིད་ལ་བྱེད་པ་མེད་པ་། རྟོག་པ་མེད་པ་།
+K10jnalokau:556	 avicāraḥ,  cittamanovijñānāpagataḥ,	K10D0100_H0103:504a-6	དཔྱོད་པ་མེད་པ༏་སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:558	 sarvatra samo nirvikalpaḥ,	K10D0100_H0103:504a-7	ཐམས་ཅད་དུ་མཉམ་ཞིང་བཏང་སྙོམས་ལ་རྣམ་པར་མི་རྟོག་ཅིང་བྱེ་བྲག་མི་འབྱེད་ལ་།
+K10jnalokau:559	 nirviśeṣas tryadhvasamatikramaḥ /	K10D0100_H0103:504a-8	དུས་གསུམ་ལས་ཡང་དག་པར་འདས་པ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:560	 atha ca mañjuśrīr nānāvimuktāḥ sattvā nānādhyāśayavijñaptitas tathāgatavācaṃ niścarantīṃ saṃjānanti //	K10D0100_H0103:504a-9	འཇམ་དཔལ་། འོན་ཀྱང་སེམས་ཅན་མོས་པ་ཐ་དད་པ་རྣམས་ཀྱི་ལྷག་པའི་བསམ་པ་དང་། རྣམ་པར་རིག་པ་སྣ་ཚོགས་དག་ལས་དེ་བཞིན་གཤེགས་པའི་གསུང་འབྱུང་བར་ཀུན་ཏུ་ཤེས་པར་འགྱུར་རོ་༎
+K10jnalokau:563	 tadyathāpi mañjuśrīḥ pṛthivīṃ niśritya pṛthivīṃ pratiṣṭhāya sarvatṛṇagulmauṣadhivanaspatayo vṛddhiṃ virūḍhiṃ vaipulyatām āpadyante /	K10D0100_H0103:504a-10	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་། དཔེར་ན་། ས་ལ་བརྟེན་ཅིང་ས་ལ་གནས་ནས་རཙབ༹་དང་། ཤིང་གེལ་པ་དང་། རྩི་དང་། ནགས་ཚལ་ཐམས་ཅད་འཕེལ་ཞིང་རྒྱས་པ་དང་། ཡངས་པར་འགྱུར་ཡང་འཇམ་དཔལ་།
+K10jnalokau:564	 na mañjuśrīḥ pṛthivī kalpayati,	K10D0100_H0103:504a-12	ས་ནི་། རྟོག་པར་མི་བྱེད་། རྣམ་པར་རྟོག་པར་མི་བྱེད་དེ་།
+K10jnalokau:1345	 na buddhaiḥ kaścid dharmo dṛṣṭo na śruto na smṛto na vijñāto nājñātaḥ /	K10D0100_H0103:527b-1	མང་པོ་ཉིད་དུ་མི་མཛད་པ་ཡིན་ནོ་༎ སངས་རྒྱས་རྣམས་ཀྱི་བྱང་ཆུབ་བརྙེས་པ་མེད་དོ་༎ སངས་རྒྱས་རྣམས་ནི་། ཆོས་གང་གིས་ཀྱང་རབ་ཏུ་འབྱེད་པར་མི་བྱེད་དོ་༎
+K10jnalokau:565	 na vikalpayati,  sarvatra samā nirvikalpā,  nirviśeṣā niścintā cittamanovijñānāpagatā /	K10D0100_H0103:504a-14	ཐམས་ཅད་དུ་མཉམ་ཞིང་རྣམ་པར་མི་རྟོག་པ་། བྱེ་བྲག་མི་འབྱེད་ཅིང་སེམས་པར་མི་བྱེད་དེ་། སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་ཡིན་།
+K10jnalokau:568	 evam eva mañjuśrīs tathāgataṃ niśritya tathāgataṃ pratiṣṭhāya sarvasattvānāṃ sarvakuśalamūlāni vṛddhiṃ virūḍhiṃ vaipulyatām āpadyante /  śrāvakayānikānāṃ vā pratyekabuddhayānikānāṃ vā mahāyānikānāṃ vā, anyeṣāṃ (JĀA 45)  vā carakaparivrājakanirgranthaprabhṛtīnāṃ sarvatīrthyāyatanānāṃ kuśalamūlāni,  yāni cānyāny antaśo mithyātvaniyatānāṃ kuśalamūlāni sarvāṇi tāni tathāgataṃ niśritya tathāgataṃ pratiṣṭhāya vṛddhiṃ virūḍhiṃ vaipulyatām āpadyante	K10D0100_H0103:504a-17	འཇམ་དཔལ་། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་ལ་བརྟེན་ཅིང་དེ་བཞིན་གཤེགས་པ་ལ་གནས་ནས་སེམས་ཅན་ཉན་ཐོས་ཀྱི་ཐེག་པའམ་། རང་སངས་རྒྱས་ཀྱི་ཐེག་པའམ་། ཐེག་པ་༄༥༠༤བ་ཆེན་པོ་པ་ཐམས་ཅད་ཀྱི་དགེ་བའི་རྩ་བ་ཐམས་ཅད་ཀྱང་འཕེལ་ཞིང་རྒྱས་པ་དང་། ཡངས་པར་འགྱུར་ལ་། དེ་བཞིན་གཤེགས་པ་ལ་བརྟེན་ཅིང་དེ་བཞིན་གཤེགས་པ་ལ་གནས་ནས་སྤྱོད་པ་པ་དང་། ཀུན་ཏུ་རྒྱུ་དང་། གཅེར་བུ་པ་ལ་སོགས་པ་མུ་སྟེགས་ཀྱི་གནས་གཞན་ཐམས་ཅད་ཀྱི་དགེ་བའི་རྩ་བ་ཐམས་ཅད་དང་། ཐ་ན་ལོག་པ་ཉིད་དུ་ངེས་པ་རྣམས་ཀྱི་དགེ་བའི་རྩ་བ་གཞན་གང་དག་ཡིན་པ་དེ་དག་ཐམས་ཅད་ཀྱང་འཕེལ་ཞིང་རྒྱས་པ་དང་། ཡངས་པར་འགྱུར་མོད་ཀྱི་།
+K10jnalokau:572	 na ca mañjuśrīs tathāgataḥ kalpayati,  na vikalpayati /	K10D0100_H0103:504b-3	འཇམ་དཔལ་། འོན་ཀྱང་དེ་བཞིན་གཤེགས་པ་ནི་། རྟོག་པར་མི་བྱེད༏་རྣམ་པར་རྟོག་པར་མི་བྱེད་དེ་།
+K10jnalokau:574	 sarvakalpavikalpārambaṇamanasikārocchinno mañjuśrīs tathāgato 'rhan samyaksaṃbuddhaḥ,  cittamanovijñānāpagataḥ,	K10D0100_H0103:504b-5	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་། རྟོག་པ་དང་། རྣམ་པར་རྟོག་པ་དང་། དམིགས་པ་དང་ཡིད་ལ་བྱེད་པ་ཐམས་ཅད་རྒྱུན་ཆད་པ་། སེམས་དང་ཡིད་དང་རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:576	 atarkaḥ,  atarkāvacaraḥ,	K10D0100_H0103:504b-8	རྟོག་གེ་མ་ཡིན་། རྟོག་གེའི་སྤྱོད་ཡུལ་མ་ཡིན་།
+K10jnalokau:578	 adṛśyaḥ,  anālokyaḥ,	K10D0100_H0103:504b-10	མི་སྣང་བ་། མི་མཐོང་བ་། བསམ་དུ་མེད་པ་།
+K10jnalokau:580	 acintyaḥ,  acintanīyaḥ,  niścintaḥ,	K10D0100_H0103:504b-13	བསམ་པར་བྱ་བ་མ་ཡིན་པ་། ཡིད་ལ་བྱེད་པ་མེད་པ་། སེམས་པ་མེད་པ་།
+K10jnalokau:584	 cittamanovijñānāpagataḥ,	K10D0100_H0103:504b-16	སེམས་དང་། ཡིད་དང་། རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:585	 samaḥ sarvatropekṣako nirvikalpo nirviśeṣaḥ //	K10D0100_H0103:504b-17	ཐམས་ཅད་དུ་མཉམ་ཞིང་བཏང་སྙོམས་ལ་རྣམ་པར་མི་རྟོག་ཅིང་བྱེ་བྲག་མི་འབྱེད་དོ་༎
+K10jnalokau:586	 §15 Ms. 14a2-15a2, P. 315b7-317a1, D. 288b4-289b4,  T. 357 243c20-224a29, T. 358 251c12-20, T. 359(D) 258b2-c7.  tadyathā mañjuśrīr ākāśaṃ sarvatra samaṃ nirvikalpaṃ nirviśeṣam,	K10D0100_H0103:504b-18	འཇམ་དཔལ་། འདི་ལྟ་སྟེ་།
+K10jnalokau:611	 atha mañjuśrīḥ sattvāḥ saṃsthānasya hīnamadhyotkṛṣṭatayākāśaṃ hīnotkṛṣṭaṃ saṃjānanti /	K10D0100_H0103:505a-31	འཇམ་དཔལ༏་འོན་ཀྱང་སེམས་ཅན་རྣམས་ཀྱིས་དབྱིབས་ཆུང་དུ་དང་། འབྲིང་དང་། ཆེན་པོ་དག་གིས་ནམ་མཁའ་ཡང་ཆུང་དུ་དང་། འབྲིང་དང་། ཆེན་པོར་ཀུན་ཏུ་ཤེས་པར་འགྱུར་རོ་༎
+K10jnalokau:612	 evam eva mañjuśrīs tathāgato 'py arhan samyaksaṃbuddhaḥ sarvatra samo nirviśeṣaḥ,	K10D0100_H0103:505a-32	འཇམ་དཔལ་། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱང་ཐམས་ཅད་དུ་མཉམ་ཞིང་རྣམ་པར་མི་རྟོག་ལ་། བྱེ་༄༥༠༥བ་བྲག་མི་འབྱེད་དེ་།
+K10jnalokau:613	 anutpanno 'niruddhaḥ,	K10D0100_H0103:505b-1	མ་སྐྱེས་པ་། མ་འགགས་པ་།
+K10jnalokau:614	 nātīto nānāgato na pratyutpannaḥ,	K10D0100_H0103:505b-3	འདས་པ་མ་ཡིན་། མ་འོངས་པ་མ་ཡིན་། ད་ལྟར་བྱུང་བ་མ་ཡིན་།
+K10jnalokau:615	 alakṣyo 'prapañcaḥ,	K10D0100_H0103:505b-6	མཚན་གཞི་མེད་པ་། སྤྲོས་པ་མེད་པ་།
+K10jnalokau:616	 arūpy anidarśano 'vijñaptikaḥ,	K10D0100_H0103:505b-8	གཟུགས་མེད་པ༏་བསྟན་དུ་མེད་པ་། རྣམ་པར་རིག་པ་མེད་པ་། རེག་པ་མེད་པ་།
+K10jnalokau:617	 asparśo 'niketaḥ,	K10D0100_H0103:505b-12	གཞལ་དུ་མེད་པ་།
+K10jnalokau:618	 atulas tulāsamatikrāntaḥ,  anupama upamāsamatikrāntaḥ,	K10D0100_H0103:505b-14	དཔེ་མེད་པ་། དཔེ་ལས་ཡང་དག་པར་འདས་པ་།
+K10jnalokau:620	 apratiṣṭhitaḥ,  agrāhyaḥ,	K10D0100_H0103:505b-16	མི་གནས་པ་། གཟུང་བ་མེད་པ་།
+K10jnalokau:1346	 na buddhair bhāṣitaṃ nodāhṛtam,	K10D0100_H0103:527b-5	སངས་རྒྱས་རྣམས་ཀྱིས་ནི་། ཆོས་འགའ་ཡང་མ་གཟིགས་། མ་གསན་། མ་དགོངས་། རྣམ་པར་མི་མཁྱེན་། ཀུན་ཏུ་མི་མཁྱེན་ཏོ་༎
+K10jnalokau:622	 cakṣuḥpathasamatikrāntaḥ,	K10D0100_H0103:505b-18	མིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་།
+K10jnalokau:623	 cittamanovijñānāpagataḥ,	K10D0100_H0103:505b-19	སེམས་དང་ཡིད་དང་རྣམ་པར་ཤེས་པ་དང་བྲལ་བ་།
+K10jnalokau:624	 alakṣaṇaḥ,	K10D0100_H0103:505b-20	མཚན་ཉིད་མེད་པ་།
+K10jnalokau:625	 anakṣaraḥ,	K10D0100_H0103:505b-21	ཡི་གེ་མེད་པ་།
+K10jnalokau:626	 aghoṣo 'manasikāraḥ,	K10D0100_H0103:505b-22	སྒྲ་མེད་པ་། ཡིད་ལ་བྱེད་པ་མེད་པ་།
+K10jnalokau:627	 anāyūhāniryūhaḥ,  anikṣepo 'prakṣepaḥ,	K10D0100_H0103:505b-24	བླང་བ་མེད་པ་། དོར་བ་མེད་པ་། གདེག་པ་མེད་པ་། གཞག་པ་མེད་པ་།
+K10jnalokau:629	 vākpathasamatikrāntaḥ,	K10D0100_H0103:505b-28	ཚིག་གི་ལམ་ལས་ཡང་དག་པར་འདས་པ་།
+K10jnalokau:1347	 na buddhā bhāṣanti nodāharanti,  na buddhā bhāṣiṣyanti nodāhariṣyanti /	K10D0100_H0103:527b-10	སངས་རྒྱས་རྣམས་ཀྱིས་ནི་། སངས་རྒྱས་རྣམས་ཀྱིས་ནི་། སངས་རྒྱས་རྣམས་ནི་། གསུང་བར་མི་འགྱུར་། བརྗོད་པར་མི་འགྱུར་རོ་༎
+K10jnalokau:630	 sarvatrānugato 'nupraviṣṭaḥ /	K10D0100_H0103:505b-29	ཐམས་ཅད་ཀྱི་རྗེས་སུ་སོང་ཞིང་རྗེས་སུ་ཞུགས་པ་ཡིན་མོད་ཀྱི་།
+K10jnalokau:631	 atha ca mañjuśrīr ye hīnamadhyotkṛṣṭāśayāḥ sattvās te hīnamadhyotkṛṣṭaṃ tathāgataṃ paśyanti //	K10D0100_H0103:505b-30	འཇམ་དཔལ་། འོན་ཀྱང་སེམས་ཅན་དམན་པ་དང་། འབྲིང་དང་། མཆོག་གང་དག་ཡིན་པ་དེ་དག་གིས་དེ་བཞིན་གཤེགས་པ་ཡང་དག་པ་དང་། འབྲིང་དང་། མཆོག་ཏུ་མཐོང་ངོ་༎
+K10jnalokau:632	 na ca mañjuśrīs tathāgatasyaivaṃ bhavati /	K10D0100_H0103:505b-31	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་།
+K10jnalokau:633	 ayaṃ hīnādhyāśayādhimuktaḥ sattvaḥ,	K10D0100_H0103:505b-32	འདི་སྙམ་དུ་སེམས་ཅན་འདི་ནི་། བསམ་པ་དང་། མོས་པ་དམན་པ་ཡིན་གྱི་། སེམས་ཅན་འདི་ལ་ནི་།
+K10jnalokau:634	 asya sattvasya hīnāṃ rūpakāyavarṇapariniṣpattiṃ darśayiṣyāmi /	K10D0100_H0103:505b-35	གཟུགས་ཀྱི་སྐུའི་ཁ་དོག་ཡོངས་སུ་འགྲུབ་པ་དམན་པ་བསྟན་པར་བྱའོ་༎
+K10jnalokau:635	 ayaṃ madhyāśayādhimuktaḥ sattvaḥ,	K10D0100_H0103:505b-36	སེམས་ཅན་འདི་ནི་། བསམ་པ་༄༥༠༦ཨ་༌༎ དང་། མོས་པ་འབྲིང་ཡིན་གྱི་།
+K10jnalokau:1349	 na buddhā abhisaṃbudhyanti,	K10D0100_H0103:527b-17	སངས་རྒྱས་རྣམས་ནི་། མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་མི་མཛད་དོ་༎ སངས་རྒྱས་རྣམས་ཀྱིས་ནི་། ཆོས་གང་ཡང་མངོན་པར་རྫོགས་པར་འཚང་མ་རྒྱས་སོ་༎ སངས་རྒྱས་རྣམས་ནི་།
+K10jnalokau:636	 asya madhyamāṃ rūpakāyavarṇapariniṣpattiṃ darśayiṣyāmi /	K10D0100_H0103:506a-3	གཟུགས་ཀྱི་སྐུའི་ཁ་དོག་ཡོངས་སུ་འགྲུབ་པ་འབྲིང་བསྟན་པར་བྱའོ་༎
+K10jnalokau:637	 ayam udārāśayādhimuktaḥ sattvaḥ,	K10D0100_H0103:506a-4	སེམས་ཅན་འདི་ནི་། བསམ་པ་དང་མོས་པ་རྒྱ་ཆེ་བ་ཡིན་གྱི་།
+K10jnalokau:638	 asyodārāṃ rūpakāyavarṇapariniṣpattiṃ darśayiṣyāmi //	K10D0100_H0103:506a-7	གཟུགས་ཀྱི་སྐུའི་ཁ་དོག་ཡོངས་སུ་འགྲུབ་པ་རྒྱ་ཆེན་པོ་བསྟན་པར་བྱའོ་༎
+K10jnalokau:639	 evam eva mañjuśrīr dharmadeśanāyām anugantavyam /	K10D0100_H0103:506a-9	འཇམ་དཔལ་། ཆོས་སྟོན་པའང་དེ་བཞིན་དུ་རྟོགས་པར་བྱ་སྟེ་།
+K10jnalokau:640	 na ca mañjuśrīs tathāgatasyaivaṃ bhavati /	K10D0100_H0103:506a-10	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་།
+K10jnalokau:1350	 na buddhaiḥ kaścid dharmo 'bhisaṃbuddhaḥ /  na buddhānāṃ kleśāḥ prahīṇāḥ,	K10D0100_H0103:527b-23	སངས་རྒྱས་རྣམས་ཀྱིས་ནི་།
+K10jnalokau:641	 ayaṃ hīnādhimuktaḥ (JĀA 47)	K10D0100_H0103:506a-11	འདི་སྙམ་དུ་སེམས་ཅན་འདི་ནི་། དམན་པ་ལ་མོས་པ་ཡིན་གྱི་།
+K10jnalokau:642	 sattvaḥ, asya sattvasya hīnāṃ śrāvakayānakathāṃ kariṣye /	K10D0100_H0103:506a-14	ཉན་ཐོས་ཀྱི་ཐེག་པའི་གཏམ་དམན་པ་བརྗོད་པར་བྱའོ་༎
+K10jnalokau:643	 ayaṃ madhyāśayādhimuktaḥ sattvaḥ,	K10D0100_H0103:506a-15	སེམས་ཅན་འདི་ནི་། བར་མ་ལ་མོས་པ་ཡིན་གྱི་།
+K10jnalokau:644	 asya sattvasya pratyekabuddhayānakathāṃ kariṣye /	K10D0100_H0103:506a-17	སེམས་ཅན་འདི་ལ་ནི་། རང་སངས་རྒྱས་ཀྱི་ཐེག་པའི་གཏམ་བར་མ་བརྗོད་པར་བྱའོ་༎
+K10jnalokau:645	 ayam udārāśayādhimuktaḥ sattvaḥ,  asya sattvasya mahāyānakathāṃ kariṣye //  na mañjuśrīs tathāgatasyaivaṃ bhavati /  ayam udārādhimuktaḥ sattvaḥ,	K10D0100_H0103:506a-20	རྒྱ་ཆེན་པོ་ལ་མོས་པ་ཡིན་གྱི་། ཐེག་པ་ཆེན་པོའི་གཏམ་རྒྱ་ཆེན་པོ་བརྗོད་པར་བྱའོ་༎
+K10jnalokau:649	 asya sattvasya dānakathāṃ kariṣye //	K10D0100_H0103:506a-27	སྦྱིན་པའི་གཏམ་བརྗོད་པར་བྱའོ་༎
+K10jnalokau:650	 evaṃ śīlaṃ kṣāntiṃ vīryaṃ dhyānaṃ ca /	K10D0100_H0103:506b-0	ཚུལ་ཁྲིམས་དང་། བཟོད་པ་དང་། བརྩོན་འགྲུས་དང་། བསམ་གཏན་ལ་མོས་༄༥༠༦བ་པ་ཡིན་གྱི་། བསམ་གཏན་གྱི་གཏམ་བརྗོད་པར་བྱའོ་༎
+K10jnalokau:651	 na mañjuśrīs tathāgatasyaivaṃ bhavati /	K10D0100_H0103:506b-3	སྙམ་དུའང་མི་སེམས་སོ་༎ འཇམ་དཔལ་། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་ནི་།
+K10jnalokau:1352	 na vyavadānaṃ sākṣātkṛtam /	K10D0100_H0103:527b-24	རྣམ་པར་བྱང་བ་མངོན་སུམ་དུ་མ་མཛད་དོ་༎
+K10jnalokau:652	 ayaṃ prajñāpāramitādhimuktaḥ sattvaḥ,	K10D0100_H0103:506b-5	འདི་སྙམ་དུ་སེམས་ཅན་འདི་ནི་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་མོས་པ་ཡིན་གྱི་།
+K10jnalokau:653	 asya sattvasya prajñāpāramitāṃ kathāṃ kathayiṣye /	K10D0100_H0103:506b-7	སེམས་ཅན་འདི་ལ་ནི་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་གཏམ་བརྗོད་པར་བྱའོ་༎
+K10jnalokau:654	 naivaṃ mañjuśrīs tathāgatasyaivaṃ bhavati /	K10D0100_H0103:506b-9	སྙམ་དུའང་མི་སེམས་ཏེ་། འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ལ་ནི་། རྣམ་པར་རྟོག་པ་དེ་ལྟ་བུ་དག་མེད་དོ་༎
+K10jnalokau:655	 tat kasmād dhetoḥ /	K10D0100_H0103:506b-12	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:656	 dharmakāyo mañjuśrīs tathāgataḥ /	K10D0100_H0103:506b-13	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། ཆོས་ཀྱི་སྐུ་ཡིན་པའི་ཕྱིར་ཏེ་།
+K10jnalokau:657	 atyantānutpanno mañjuśrīs tathāgataḥ //	K10D0100_H0103:506b-15	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། ཤིན་ཏུ་མ་སྐྱེས་པ་དང་། མ་འགགས་པ་ཡིན་ནོ་༎
+K10jnalokau:658	 (JĀA 48) III  na mañjuśrīs tathāgatasya nāmarūpaniruktyānusāri vijñānaṃ pravartate /	K10D0100_H0103:506b-17	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པའི་རྣམ་པར་ཤེས་པ་ནི་། མིང་དང་། གཟུགས་དང་། ངེས་པའི་ཚིག་གི་རྗེས་སུ་འབྲང་ཞིང་འབྱུང་བ་མ་ཡིན་ཏེ་།
+K10jnalokau:662	 na mañjuśrīs tathāgataḥ kalpayati,	K10D0100_H0103:506b-19	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། རྟོག་པར་མི་བྱེད་།
+K10jnalokau:1353	 na buddhaiḥ kaścid dharmo dṛṣṭaḥ,  na śruto nāghrāto na vijñātaḥ /	K10D0100_H0103:527b-25	སངས་རྒྱས་རྣམས་ཀྱིས་ནི་། ཆོས་གང་ཡང་མ་གཟིགས་༎ མ་གསན་། མ་མྱངས་། མ་མ་ནམས་། མ་རེག་། མི་མཁྱེན་ཏོ་༎
+K10jnalokau:663	 na vikalpayati /	K10D0100_H0103:506b-21	རྣམ་པར་རྟོག་པར་མི་བྱེད་པ་ཡིན་ནོ་༎
+K10jnalokau:664	 kṣaṇiko hi mañjuśrīs tathāgato 'kṣayalakṣaṇo 'kṣayakoṭībhūtakoṭīniyataḥ //	K10D0100_H0103:506b-22	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་ནི་། སྐད་ཅིག་པ་ཡིན་ཏེ་། མི་ཟད་པའི་མཚན་ཉིད་དང་། མི་ཟད་པའི་མཐའ་དང་། ཡང་དག་པའི་མཐར་ངེས་པ་ཡིན་ནོ་༎
+K10jnalokau:665	 sarvadharmasamatākoṭī mañjuśrīs tathāgato 'rhan samyaksambuddhaḥ samaḥ sarvatra nirvikalpo nirviśeṣaḥ,	K10D0100_H0103:506b-25	འཇམ་དཔལ་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་། ཆོས་ཐམས་ཅད་ཀྱི་མཉམ་པ་ཉིད་ཀྱི་༄༥༠༧ཨ་༌༎ མཐའ་དང་། གཉིས་སུ་མེད་པའི་མཐའ་དང་། ཤིན་ཏུ་འབྱུང་བ་མེད་པའི་མཐའ་ཡིན་ཏེ་། ཐམས་ཅད་དུ་མཉམ་ཞིང་རྣམ་པར་མི་རྟོག་ལ་བྱེ་བྲག་མི་འབྱེད་དེ་།
+K10jnalokau:666	 na hīno na madhyo notkṛṣṭaḥ /	K10D0100_H0103:507a-3	དམན་པ་མ་ཡིན་། བར་མ་མ་ཡིན་། མཆོག་མ་ཡིན་ནོ་༎
+K10jnalokau:667	 evam eva mañjuśrīḥ samāḥ sarvadharmāḥ,  nirvikalpā nirviśeṣāḥ,	K10D0100_H0103:507a-6	འཇམ་དཔལ་། དེ་བཞིན་དུ་ཆོས་ཐམས་ཅད་ཀྱང་མཉམ་ཞིང་རྣམ་པར་མི་རྟོག་ལ་བྱེ་བྲག་མི་འབྱེད་དེ་།
+K10jnalokau:669	 na hīnā na madhyā notkṛṣṭāḥ /	K10D0100_H0103:507a-7	དམན་པ་མ་ཡིན་། བར་མ་མ་ཡིན་། མཆོག་མ་ཡིན་ནོ་༎
+K10jnalokau:670	 tat kasmād dhetoḥ /	K10D0100_H0103:507a-10	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:671	 anupalabdhitvāt sarvadharmāṇām /  yā mañjuśrīr anupalabdhiḥ sarvadharmāṇāṃ sā samatā,	K10D0100_H0103:507a-11	འཇམ་དཔལ་། ཆོས་ཐམས་ཅད་ནི་། དམིགས་སུ་མེད་པའི་ཕྱིར་ཏེ་། འཇམ་དཔལ་། ཆོས་ཐམས་ཅད་ནི་། དམིགས་སུ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། མཉམ་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:1355	 tat kasya hetoḥ /	K10D0100_H0103:527b-30	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:673	 yā samatā sā sthitā,	K10D0100_H0103:507a-16	མཉམ་པ་ཉིད་གང་ཡིན་པ་དེ་ནི་། གནས་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:674	 yā sthitā sācalanatā,  yācalanatā sāniśrayatā //	K10D0100_H0103:507a-18	གནས་པ་ཉིད་གང་ཡིན་པ་དེ་ནི་། མི་ག-ཡོ་བ་ཉིད་ཡིན་ནོ་༎ མི་ག-ཡོ་བ་ཉིད་གང་ཡིན་པ་དེ་ནི་། མི་རྟེན་པ་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:676	 aniśritasya sarvadharmeṣu nāsti cittapratiṣṭhānam /	K10D0100_H0103:507a-22	ཆོས་ཐམས་ཅད་ལ་། མི་རྟེན་པའི་སེམས་ཀྱི་གནས་མེད་དོ་༎
+K10jnalokau:677	 apratiṣṭhitacittasyānutpattir ājāyate /	K10D0100_H0103:507a-24	སེམས་མི་གནས་པ་ནི་། སྐྱེ་བ་མེད་པར་གྱུར་ཏེ་།
+K10jnalokau:678	 evaṃ darśinaś ca viparyastāc cittacaitasikā na pravartante /	K10D0100_H0103:507a-26	དེ་ལྟར་མཐོང་བའི་སེམས་དང་། སེམས་ལས་བྱུང་བ་རྣམས་ནི་། ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པར་འགྱུར་རོ་༎
+K10jnalokau:679	 yaś cāviparyastacittaḥ sa yathāvatprāpto bhavati /	K10D0100_H0103:507a-28	གང་གིས་སེམས་ཕྱིན་ཅི་མ་ལོག་པ་དེས་ནི་། ཇི་ལྟ་བ་བཞིན་ཐོབ་པར་འགྱུར་རོ་༎
+K10jnalokau:680	 yathāvatprāpto na prapañcayati /	K10D0100_H0103:507a-30	ཇི་ལྟ་བ་བཞིན་ཐོབ་པ་ནི་། འཕྲོ་བར་མི་བྱེད་དོ་༎
+K10jnalokau:681	 aprapañcayataḥ pracāro nāsti /  yadā na pracarati tadā na saṃcarati /  yadā na saṃcarati tadā na visarati /	K10D0100_H0103:507a-32	སྤྲོས་པ་མེད་པ་ལ་ནི་། སྤྱོད་པའང་༄༥༠༧བ་མེད་དོ༏་༏གང་གི་ཚེ་སྤྱོད་པར་མི་བྱེད་པ་དེའི་ཚེ་མི་འཁོར་རོ་༎
+K10jnalokau:684	 avisaraṃ dharmatāṃ na virodhayati /	K10D0100_H0103:507b-1	གང་གི་ཚེ་མི་འཁོར་བ་དེའི་ཚེ་རྣམ་པར་མི་འཕྲོ་སྟེ་། རྣམ་པར་འཕྲོ་བ་མེད་པ་ནི་། ཆོས་ཉིད་དང་འགལ་བར་མི་བྱེད་དོ་༎
+K10jnalokau:685	 dharmatām avirodhayan sarvatrānulomo bhavati /  sarvatrānulomo dharmaprakṛter na calati /	K10D0100_H0103:507b-4	ཆོས་ཉིད་དང་མི་འགལ་བ་ནི་། ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ་༎ ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པ་ནི་།
+K10jnalokau:687	 dharmaprakṛter acalaṃ dharmaprakṛtiprāpto bhavati /	K10D0100_H0103:507b-7	ཆོས་ཀྱི་རང་བཞིན་ལས་མི་ག-ཡོའོ་༎ ཆོས་ཀྱི་རང་བཞིན་ཐོབ་པར་འགྱུར་རོ་༎
+K10jnalokau:688	 dharmaprakṛtiprāpto na kiṃcit prapañcayati /	K10D0100_H0103:507b-10	ཆོས་ཀྱི་རང་བཞིན་ཐོབ་པ་ནི་། ཅུང་ཟད་ཀྱང་འཕྲོ་བར་མི་བྱེད་དོ་༎
+K10jnalokau:689	 tat kasya hetoḥ /	K10D0100_H0103:507b-12	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:690	 pratyayahetujanitatvāt //	K10D0100_H0103:507b-13	འཇམ་དཔལ་། རྒྱུ་དང་རྐྱེན་གྱིས་བསྐྱེད་པའི་ཕྱིར་ཏེ་།
+K10jnalokau:691	 yaḥ pratyayahetujanitaḥ so 'tyantājātaḥ /  yaś cātyantājātaḥ (JĀA 49)  sa niyāmaprāptaḥ /	K10D0100_H0103:507b-14	རྒྱུ་དང་རྐྱེན་གྱིས་བསྐྱེད་པ་གང་ཡིན་པ་དེ་ནི་། ཤིན་ཏུ་མ་སྐྱེས་པ་ཡིན་ནོ་༎ ཤིན་ཏུ་མ་སྐྱེས་པ་གང་ཡིན་པ་དེས་ནི་། ངེས་པ་འཐོབ་བོ་༎
+K10jnalokau:694	 yaś ca niyāmaprāptaḥ sa sarvadharmamanasikāraiḥ sārdhaṃ na saṃvasati /	K10D0100_H0103:507b-18	ངེས་པ་ཐོབ་པ་གང་ཡིན་པ་དེ་ནི་། ཆོས་ཐམས་ཅད་ཡིད་ལ་བྱེད་པ་དང་ལྷན་ཅིག་མི་གནས་ཏེ་།
+K10jnalokau:695	 yadā sarvadharmamanasikāraiḥ sārdhaṃ na saṃvasati tadā saṃvāśyo na bhavati /	K10D0100_H0103:507b-20	གང་གི་ཚེ་ཆོས་ཐམས་ཅད་ཡིད་ལ་བྱེད་པ་དང་ལྷན་ཅིག་མི་གནས་པ་དེའི་ཚེ་གནས་པར་བྱ་བ་མེད་པ་ཡིན་ནོ་༎
+K10jnalokau:696	 yadā saṃvāśyo na bhavati tadā na bhavati na vibhavati /	K10D0100_H0103:507b-21	གང་གི་ཚེ་གནས་པར་བྱ་བ་མེད་པ་དེའི་ཚེ་མི་འབྱུང་མི་འཇིག་གོ་།
+K10jnalokau:697	 yadā na bhavati na vibhavati tadā sthito dharmaprāpto bhavati /	K10D0100_H0103:507b-22	གང་གི་ཚེ་མི་འབྱུང་མི་འཇིག་པ་དེའི་ཚེ་གནས་ཤིང་ཆོས་ཐོབ་པར་འགྱུར་རོ་༎
+K10jnalokau:698	 yadā sthito dharmaprāpto bhavati tadā yoniśodharmaprayukto bhavati /	K10D0100_H0103:507b-23	གང་གི་ཚེ་གནས་ཤིང་ཆོས་ཐོབ་པ་དེའི་ཚེ་ཚུལ་བཞིན་གྱི་ཆོས་ལ་ཞུགས་པར་འགྱུར་རོ་༎
+K10jnalokau:1279	 avākpatha anādāna nirālamba namo 'stu te // 21 //  dvayadharma aniśritya mānadhvajasamucchidaḥ /  dvayādvayavinirmukta nirālamba namo 'stu te // 22 //	K10D0100_H0103:525a-27	མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K10jnalokau:699	 yoniśodharmaprayuktasya na kaścid dharmo 'sti yo na buddhadharmaḥ /	K10D0100_H0103:507b-24	ཚུལ་བཞིན་གྱི་ཆོས་ལ་ཞུགས་པ་ལ་ནི་། གང་སངས་རྒྱས་ཀྱི་ཆོས་མ་ཡིན་པའི་ཆོས་དེ་འགའ་ཡང་མེད་དོ་༎
+K10jnalokau:700	 tat kasya hetoḥ /	K10D0100_H0103:507b-26	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:702	 yaś ca śūnyatānubodhaḥ sa bodhiḥ //	K10D0100_H0103:508a-1	སྟོང་པ་ཉིད་རྗེས་སུ་རྟོགས་པ་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:703	 sa evaṃ śūnyatānimittāpraṇihitānabhisaṃskārāniketāsaṃbhavāgrāhyānālayāvabodhād bodhiḥ /	K10D0100_H0103:508a-3	དེས་དེ་ལྟར་སྟོང་བ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པ་དང་། མངོན་པར་འདུ་བྱ་བ་མེད་པ་དང་། གནས་མེད་པ་དང་། འབྱུང་བ་མེད་པ་དང་། གཟུང་བ་མེད་པ་དང་། གཞི་མེད་པ་རྗེས་སུ་རྟོགས་པའི་ཕྱིར་བྱང་ཆུབ་སྟེ་།
+K10jnalokau:705	 yoniśaḥprayogaḥ,  yoniśaḥ prayogenāmocyate /	K10D0100_H0103:508a-4	བྱང་ཆུབ་ནི་། ཚུལ་བཞིན་ལ་སྦྱོར་བའོ་༎ ཚུལ་བཞིན་དུ་སྦྱོར་བ་ནི་།
+K10jnalokau:707	 anupekṣāprakṣepaḥ,  akāravikāraprayogaḥ,  apramuktaprayogaḥ,  anekatvānānātvaprayogaḥ,	K10D0100_H0103:508a-7	འདེག་པ་མེད་པ་དང་། གཞག་པ་མེད་པ་དང་། བྱ་བ་མེད་པ་དང་། རྣམ་པར་བྱང་བ་མེད་པ་ལ་སྦྱོར་བ་དང་། ཆགས་པ་མེད་པ་དང་། གྲོལ་བ་མེད་པ་ལ་སྦྱོར་བ་དང་། གཅིག་པ་ཉིད་མ་ཡིན་པ་དང་།
+K10jnalokau:712	 anāgataprayogo yoniśaḥ prayogaḥ //	K10D0100_H0103:508a-8	ཐ་དད་པ་ཉིད་མ་ཡིན་པ་ལ་སྦྱོར་བ་དང་། འོངས་པ་མ་ཡིན་པ་ལ་སྦྱོར་བ་དང་། ཚུལ་བཞིན་ལ་སྦྱོར་བ་ཡིན་ནོ་༎ སྦྱོར་བའང་མེད་། སྤངས་པའང་མེད་། འབྲས་བུ་མངོན་སུམ་དུ་བྱ་བའང་མེད་དོ་།
+K10jnalokau:713	 na tatra prayogo na pramāṇaṃ na phalasākṣātkriyā /  prakṛtiprabhāsvaraṃ cittaṃ tac cāgantukair upakleśair upakliśyate na ca prakṛtiḥ saṃkliśyate /	K10D0100_H0103:508a-14	སེམས་ནི་། རང་བཞིན་གྱིས་འོད་གསལ་བའི་ཕྱིར་ཏེ་། དེ་ནི་། གློ་བུར་གྱི་ཉེ་བའི་ཉོན་མོངས་པ་ཐམས་ཅད་ཀྱིས་ཉེ་བར་ཉོན་མོངས་པར་ཟད་ཀྱི་། རང་བཞིན་གྱིས་ཀུན་ནས་ཉོན་མོངས་པ་ཉིད་མ་ཡིན་ནོ་༎ རང་བཞིན་གྱིས་འོད་གསལ་བ་ཉིད་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:718	 tat (JĀA 50) kasya hetoḥ /	K10D0100_H0103:508b-2	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K10jnalokau:719	 na śuddhaḥ śudhyati śuddha eva saḥ /	K10D0100_H0103:508b-3	འཇམ་དཔལ་། དེ་ནི་། དག་པ་ཉིད་ཡིན་པས་དག་པ་ནི་། དག་པར་མི་འགྱུར་བའི་ཕྱིར་ཏེ་།
+K10jnalokau:720	 yaś ca śuddhaḥ so 'nutpādaḥ /	K10D0100_H0103:508b-6	དག་པ་གང་ཡིན་པ་དེ་ནི་། སྐྱེ་བ་མེད་པའོ་༎
+K10jnalokau:721	 yaś cānutpādaḥ so 'ninditaḥ /	K10D0100_H0103:508b-8	སྐྱེ་བ་མེད་པ་གང་ཡིན་པ་དེ་ནི་། མ་སྨད་པའོ་༎ མ་སྨད་པ་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:722	 yaś cāninditaḥ sa nandīprahāṇaṃ tatra sarvasnehā nirudhyante /  yatra sarvasnehā nirudhyante so 'nutpādaḥ /	K10D0100_H0103:508b-11	འདོད་པ་སྤངས་པའོ་༎ འདོད་པ་སྤངས་པ་གང་ཡིན་པ་དེ་ལ་ནི་། སྲེད་པ་ཐམས་ཅད་འགག་གོ་། གང་ལ་སྲེད་པ་ཐམས་ཅད་འགགས་པ་དེ་ནི་།
+K10jnalokau:724	 yaś cānutpādaḥ sa bodhiḥ //	K10D0100_H0103:508b-15	མི་སྐྱེའོ་༎ མི་སྐྱེ་བ་གང་ཡིན་པ་དེ་ནི་། བྱང་ཆུབ་བོ་༎
+K10jnalokau:727	 yā bodhiḥ sā samatā /	K10D0100_H0103:508b-17	བྱང་ཆུབ་གང་ཡིན་པ་དེ་ནི་། མཉམ་པ་ཉིད་དོ་༎
+K10jnalokau:728	 yā samatā sā tathatā /	K10D0100_H0103:508b-19	མཉམ་པ་ཉིད་གང་ཡིན་པ་དེ་ནི་། དེ་བཞིན་ཉིད་དོ་༎
+K10jnalokau:1356	 ādipariśuddhatvāt sarvadharmāṇām //  (JĀA 78) V	K10D0100_H0103:527b-31	འཇམ་དཔལ་། ཆོས་ཐམས་ཅད་ནི་། གཟོད་མ་ནས་ཡོངས་སུ་དག་པ་ཡིན་པའི་ཕྱིར་རོ་༎
+K10jnalokau:729	 tathatāpratiṣṭhitāś ca sarvadharmāḥ saṃskṛtā asaṃskṛtāś ca /	K10D0100_H0103:508b-21	དེ་བཞིན་ཉིད་ལ་ནི་། འདུས་བྱས་དང་། འདུས་མ་བྱས་ཀྱི་ཆོས་ཐམས་ཅད་གནས་སོ་༎
+K10jnalokau:1358	 §40 Ms. 27b4-28b2, P. 330a2-b6, D. 301b3-302a6,  (1) yaḥ kaścin mañjuśrīr bodhisattvaḥ trisāhasramahāsāhasralokadhātuparamāṇurajaḥsamān sattvān pratyekajinatve sthāpayed idaṃ dharmaparyāyaṃ nādhimuktaḥ /	K10D0100_H0103:528a-0	འཇམ་དཔལ་། བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མོས་པ་གང་ལ་ལ་༄༥༢༨ཨ་༌༎ ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་ཀྱི་སེམས་ཅན་རང་རྒྱལ་བ་ཉིད་ལ་བཀོད་པ་བས་ནི༏་འཇམ་དཔལ་།
+K10jnalokau:1361	 yo cānyo mañjuśrīr bodhisattva imaṃ dharmaparyāyam adhimucyet /	K10D0100_H0103:528a-2	བྱང་ཆུབ་སེམས་དཔའ་གཞན་གང་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མོས་པར་གྱུར་ན་།
+K10jnalokau:730	 yā ca tathatā na tatra saṃskṛtaṃ nāsaṃskṛtaṃ na dvayaprajñaptiḥ /	K10D0100_H0103:508b-23	དེ་བཞིན་ཉིད་གང་ཡིན་པ་དེ་ལ་ནི་། འདུས་བྱས་ཀྱང་མེད་། འདུས་མ་བྱས་ཀྱང་མེད་། གཉིས་སུ་གདགས་པའང་མེད་དོ་༎
+K10jnalokau:1362	 ayaṃ tato bahutaraṃ puṇyaṃ prasavati /  kaḥ punar vādo ya imaṃ dharmaparyāyaṃ likhed lekhāpayed vā /	K10D0100_H0103:528a-3	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་མང་དུ་སྐྱེད་པར་གྱུར་ན༏་གང་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཡི་གེར་འབྲིའམ་། ཡི་གེར་འབྲིར་འཇུག་པ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ་།
+K10jnalokau:731	 yatra na saṃskṛtaṃ nāsaṃskṛtaṃ na dvayaprajñaptiḥ sā tathatā /	K10D0100_H0103:508b-27	གང་ལ་འདུས་བྱས་ཀྱང་མེད་། འདུས་མ་བྱས་ཀྱང་མེད་། གཉིས་སུ་གདགས་པའང་མེད་པ་དེ་ནི་།
+K10jnalokau:732	 yā tathatā sānanyatathatā /	K10D0100_H0103:508b-30	དེ་བཞིན་ཉིད་དོ་༎
+K10jnalokau:736	 yā cāvitathatā sā yathāvattathatā /  yā yathāvattathatā sā najātutathatā /	K10D0100_H0103:508b-32	གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་དོ་༎ གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:741	 yā nirvāṇena samā sā na saṃsarati na parinirvāti /  yā na saṃsarati na parinirvāti sā nātītā nānāgatā na pratyutpannā /	K10D0100_H0103:509a-23	ད་ལྟར་བྱུང་བ་མ་ཡིན་ནོ་༎ གང་འདས་པ་མ་ཡིན་། མ་འོངས་པ་མ་ཡིན་། ད་ལྟར་བྱུང་བ་མ་ཡིན་པ་དེ་ནི་།
+K10jnalokau:743	 yā nātītā nānāgatā na pratyutpannā sā na hīnā na madhyā notkṛṣṭā /	K10D0100_H0103:509a-27	དམན་པ་མ་ཡིན་། བར་མ་མ་ཡིན་། མཆོག་མ་ཡིན་ནོ་༎ གང་དམན་པ་མ་ཡིན་།
+K10jnalokau:1364	 ayam eva tato bahutaraṃ puṇyaṃ prasavati //	K10D0100_H0103:528a-5	དེ་ནི་། དེ་བས་ཆེས་བསོད་ནམས་མང་དུ་བསྐྱེད་པར་འགྱུར་རོ་༎
+K10jnalokau:744	 yā na hīnā na madhyā notkṛṣṭā sā tathatā //	K10D0100_H0103:509a-31	བར་མ་མ་ཡིན་། མཆོག་མ་ཡིན་པ་དེ་ནི་།
+K10jnalokau:746	 tattvārthādhivacanam etat tattvam (JĀA 51) ucyate /  tathātvaṃ tathatvam ucyate /	K10D0100_H0103:509a-33	དེ་བཞིན་ཉིད་དེ་། དེ་བཞིན་ཉིད་ཅེས་བྱ་བ་དེ་ནི་། དེ་ཁོ་ནའི་དོན་གྱི་ཚིག་བླ་དབ༹གས་ཡིན་ནོ་༎ དེ་བཞིན་ཉིད་ཁོ་ནའོ་༎ དེ་བཞིན་ཉིད་དོ་༎
+K10jnalokau:748	 tathaiva tathatā cātmā cādvayam etad advaidhīkāram /	K10D0100_H0103:509b-2	དེ་བཞིན་ཉིད་དང་། བདག་དེ་ནི་། གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་དོ་༎
+K10jnalokau:749	 yaś cādvayārthaḥ sa bodhiś cāvabodhārthaḥ//	K10D0100_H0103:509b-4	གཉིས་སུ་བྱར་མེད་པའི་དོན་གང་ཡིན་པ་དེ་ནི་། བྱང་ཆུབ་སྟེ༏་བྱང་ཆུབ་ནི་། དོན་རྟོགས་པའོ་༎
+K10jnalokau:750	 artha ucyate /  trivimokṣamukhapraveśaṃ jñānaṃ sarvadharmanirdeśeṣu /	K10D0100_H0103:509b-8	ཆོས་བསྟན་པ་ཐམས་ཅད་ལ་རྣམ་པར་ཐར་པའི་སྒོ་གསུམ་དུ་འཇུག་པ་ཤེས་པའོ་༎
+K10jnalokau:752	 jñānam ucyate /  tryadhvasamatāvatāraḥ sarvadharmeṣu /	K10D0100_H0103:509b-9	ཤེས་པ་ཞེས་བྱ་བ་ནི་། ཆོས་ཐམས་ཅད་ལ་དུས་གསུམ་མཉམ་པ་ཉིད་དུ་འཇུག་པའོ་༎
+K10jnalokau:754	 asaṃbhedārthaś ca sarvadharmāṇām ayam ucyate 'rthaḥ /	K10D0100_H0103:509b-11	ཆོས་ཐམས་ཅད་ཀྱི་དབྱེར་མེད་པའི་དོན་དེ་ནི་།
+K10jnalokau:755	 aruto 'nabhilāpyo 'vyāhāro vyāhārasamucchinnaḥ //	K10D0100_H0103:509b-13	དོན་ནི་། སྒྲ་མེད་པ་། བརྗོད་དུ་མེད་པ་། ཐ་སྙད་མེད་པ༏་ཐ་སྙད་ཡང་དག་པར་ཆད་པ་ཡིན་ནོ་༎
+K10jnalokau:1365	 (2) yāvanto mañjuśrīr bodhisattva trisāhasramahāsāhasre lokadhātau sattvāḥ saṃvidyante,	K10D0100_H0103:528a-6	འཇམ་དཔལ་། ཡོངས་སུ་བརྟག་པ་ཉེ་བར་བཟུང་ན་།
+K10jnalokau:756	 jñānam ucyate /  yad arthānugamajñānaṃ vijñānānugamaṃ cedam ucyate jñānam /	K10D0100_H0103:509b-16	ཤེས་པ་ཞེས་བྱ་བ་ནི་། དོན་རྗེས་སུ་རྟོགས་པའི་ཤེས་པ་དང་། རྣམ་པར་ཤེས་པ་རྗེས་སུ་རྟོགས་པའི་ཤེས་པ་གང་ཡིན་པ་སྟེ་། དེ་ནི༏་ཤེས་པ་ཞེས་བྱའོ་༎
+K10jnalokau:758	 artha ucyate /	K10D0100_H0103:509b-19	དོན་ཅེས་བྱ་བ་ནི་།
+K10jnalokau:759	 yat tattvārthajñānena vijñānānugamajñānena ca nītārthatā /	K10D0100_H0103:509b-20	དེ་ཁོ་ནའི་དོན་ཤེས་པ་དང་། རྣམ་པར་ཤེས་པ་རྗེས་སུ་རྟོགས་པའི་ཤེས་པས་ངེས་པར་རྟོགས་པ་གང་ཡིན་པ་སྟེ་།
+K10jnalokau:760	 saiva dharmatā yā /	K10D0100_H0103:509b-21	དེ་ཉིད་ཆོས་ཉིད་ཡིན་ནོ་༎
+K10jnalokau:1366	 aṇḍajā vā,  jarāyujā vā,  saṃsvedajā vā,  rūpiṇo vā,  arūpiṇo vā,  saṃjñino vā,  asaṃjñino vā,  apadā vā,	K10D0100_H0103:528a-7	སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སེམས་ཅན་སྒོ་ང་ལས་སྐྱེས་པ་དང་། མངལ་ནས་སྐྱེས་པ་དང་། དྲོད་གཤེར་ལས་སྐྱེས་པ་དང་། རྫུས་ཏེ་སྐྱེས་པ་དང་། གཟུགས་ཅན་དང་། གཟུགས་མེད་པ་དང་། འདུ་ཤེས་ཅན་དང་།
+K10jnalokau:761	 yā ca dharmatā so 'rthaḥ //	K10D0100_H0103:509b-22	ཆོས་ཉིད་གང་ཡིན་པ་དེ་ནི་། དོན་ཡིན་ནོ་༎
+K10jnalokau:762	 yārthānugamajñānena vijñānānugamajñānena nītārthānugamajñānena ca sā dharmatā /	K10D0100_H0103:509b-24	དོན་རྗེས་སུ་རྟོགས་པའི་ཤེས་པ་དང་། རྣམ་པར་ཤེས་པ་རྗེས་སུ་རྟོགས་པའི་ཤེས་པ་དང་། ངེས་པའི་དོན་རྗེས་སུ་རྟོགས་པའི་ཤེས་པས་རྗེས་སུ་རྟོགས་པ་གང་ཡིན་པ་དེ་ནི་། ཆོས་ཉིད་དོ་༎
+K10jnalokau:763	 yā dharmatā so 'rthaḥ /	K10D0100_H0103:509b-26	ཆོས་ཉིད་གང་ཡིན་པ་དེ་ནི་། དོན་ཡིན་ནོ་༎ དོན་གང་ཡིན་པ་དེ་ནི་།
+K10jnalokau:764	 sā ca dharmatā dharmasthititā dharmaniyāmatā,	K10D0100_H0103:510a-0	ཆོས་ཉིད་དང་། ཆོས་༄༥༡༠ཨ་༌༎ གནས་པ་ཉིད་དང་། ཆོས་ངེས་པ་ཉིད་དེ་།
+K10jnalokau:765	 sā dharme na pravartate /	K10D0100_H0103:510a-2	དེ་ནི་། ཆོས་ལ་འཇུག་པར་མི་འགྱུར་རོ་༎
+K10jnalokau:766	 yā dharmasyāpravṛttiḥ,  yā cārthavyaṃjanasamatā sādvayārthe samā /	K10D0100_H0103:510a-3	ཆོས་ལ་མ་ཞུགས་པ་གང་ཡིན་པ་དང་། དོན་དང་ཚིག་འབྲུ་མཉམ་པ་ཉིད་གང་ཡིན་པ་དེ་ནི་། གཉིས་སུ་མེད་པའི་དོན་གྱིས་མཉམ་པ་ཉིད་ཡིན་ཏེ་།
+K10jnalokau:768	 yā ca samatā so 'rthaḥ,	K10D0100_H0103:510a-5	མཉམ་པ་ཉིད་གང་ཡིན་པ་དེ་ནི་། དོན་ཡིན་ནོ་༎

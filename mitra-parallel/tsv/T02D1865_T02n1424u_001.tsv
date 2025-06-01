@@ -1,0 +1,602 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+T02D1865:69a-10	ཆུ་ཐོག་རྗེས་གནང་ཐ་མ་ཡིས་༎ གང་ཞིག་དབང་བསྐུར་དེ་ནས་བླང་༎	T02n1424u_001:5	 udakādyamanujñāntaṃ yo'bhiṣikto gurostataḥ ||2 ||
+T02D1865:69a-12	གསང་བའི་ཁོར་འདིར་དེ་ཉིད་ཐོབ་༎ གསང་དང་ཤེས་རབ་དབང་བསྐུར་བས་༎	T02n1424u_001:6	 tattvāptau guhyacakre'smin guhyaprajñābhiṣekataḥ |
+T02D1865:69a-14	གསང་ཤེས་རྣལ་འབྱོར་དེ་ཉིད་ཤེས་༎ ཐེག་གསུམ་དགོངས་པའི་དེ་ཉིད་ཤེས་༎	T02n1424u_001:7	 guhyajño yogatattvajñastriyānasandhitattvavit ||3 ||
+T02D1865:69a-16	རིགས་དང་སྙིང་པོ་སྔགས་ཕྱག་རྒྱ་༎ ཏིང་ངེ་འཛིན་ནི་གསུམ་དག་དང་༎ ཐུན་མོང་ཅིག་ཤོས་དངོས་གྲུབ་དང་༎ རྒྱུད་གཞུང་གི་ནི་རྣམ་དབྱེ་ཤེས་༎	T02n1424u_001:9	 sāmānyetarasiddhīnāṃ tantranītyā vibhāgavit ||4 ||
+T02D1865:69a-5	ཤེས་བྱ་སོགས་སྒྲིབ་ལས་ངེས་གྲོལ་༎ མེ་ལོང་ཡེ་ཤེས་ལ་སོགས་ལྡན་༎	T02n1424u_001:2	 jñeyādyāvṛtinirmuktaṃ jñānādarśādisaṃyutam |
+T02D1865:69a-7	འཇམ་དཔལ་གསང་བའི་འཁོར་ལོ་མཆོག་། བཏུད་དེ་བདག་དྲན་ཕྱིར་དེ་བཤད་༎	T02n1424u_001:3	 mañjuśrīguhyasaccakraṃ natvā tadvacmi matsmṛtau ||1 ||
+T02D1865:69a-8	དཔལ་ལྡན་འདུས་པའི་གཞུང་དམ་པ་༎ འཁོར་ལོའི་མན་ངག་རིམ་པ་འདིས་༎	T02n1424u_001:4	 śrīmatsamājasannītyā cakrāmnātakramādataḥ |
+T02D1865:69b-0	དམ་ཚིག་ལྡན་ཞིང་སྡོམ་ལ་༄༦༩བ་གནས་༎ ཤས་རབ་རྣལ་འབྱོར་ལ་རབ་བརྩོན་༎	T02n1424u_001:10	 samayasaṃvarastho vā prajñāyogasutatparaḥ |
+T02D1865:69b-10	རང་གི་འཁོར་གནས་སྔོན་བསྙེན་པ་༎ བྱས་ནས་དཀྱིལ་འཁོར་བྲི་བར་བྱ་༎	T02n1424u_001:15	 pūrvasevāṃ svacakrasthaḥ kṛtvā maṇḍalamālikhet ||7 ||
+T02D1865:69b-12	ཡིད་དང་རྗེས་མཐུན་གནས་ལ་ལར་༎ ཙནདན་མཆོག་ལ་སོགས་པས་བྱུག་། མེ་ཏོག་དྲི་བཟང་གཅལ་བཀྲམ་པར་༎	T02n1424u_001:16	 kvacinmanonuge sthāne digdhe saccandanādibhiḥ |
+T02D1865:69b-14	ནང་བར་དང་པོར་འདུག་ནས་ནི་༎ རྣམ་ཐར་སྒོ་ནི་ལེགས་དག་ཕྱིར་༎ སྙིང་གར་མམ་ནི་འོད་འབར་བ་༎	T02n1424u_001:17	 sugandhikusumākīrṇe prāk prātarupaviśya ca ||8 ||  vimokṣamukhasaṃśuddhau hṛdīndau maṃ prabhojvalam |
+T02D1865:69b-17	བསམས་ནས་དགེ་བ་མངོན་འཕེལ་ཕྱིར་༎ བཤགས་ལ་སོགས་པ་རབ་ཏུ་བྱ་༎	T02n1424u_001:19	 dhyātvā śubhābhivṛddhyarthaṃ prakuryāddeśanādikam ||9 ||
+T02D1865:69b-19	ཕྱོགས་བཅུར་དུས་གསུམ་བྱུང་བ་ཡི་༎ སངས་རྒྱས་རྣམས་ཀྱི་མདུན་གནས་ཏ་༎	T02n1424u_001:20	 sarvadiktryadhvasaṃbhūtabuddhānāṃ purataḥ sthitaḥ |
+T02D1865:69b-2	སྔགས་དང་རྒྱུད་ཀྱི་སྦྱོར་བ་མཁས་༎ སེམས་ཅན་དོན་སྒྲུབ་འོས་པ་ཡིན་༎	T02n1424u_001:11	 mantratantraprayogajño bhavyaḥ sattvārthasādhane ||5 ||
+T02D1865:69b-22	མཆོད་པ་ཆོ་ག་བཞིན་དུ་བྱ་༎	T02n1424u_001:21	 hṛtprabhodbhavarūpādyaiḥ pūjāṃ kṛtvā vidhānataḥ ||10 ||
+T02D1865:69b-23	རང་གི་ལོག་རྟོག་ཙམ་ལས་བྱུང་༎ ཉེས་བྱས་དུས་གསུམ་བྱས་པ་རྣམས་༎ རྨི་ལམ་རྨི་ལམ་སོགས་བཞིན་ཀུན་༎ ལན་གསུམ་དག་ནི་འཆགས་པར་བགྱིད་༎	T02n1424u_001:22	 svāsatsaṃkalpamātrotthaṃ tryadhvajaṃ duṣkṛtaṃ kṛtam |  svapnasvapnādivat sarvaṃ triṣkṛtvā deśayāmyaham ||11 ||
+T02D1865:69b-27	རྫོགས་སངས་སྲས་མཆོག་འཕགས་རྣམས་དང་༎ གཞན་གྱི་དགེ་བ་དམ་པ་གང་༎	T02n1424u_001:24	 sambuddhasatsutāryāṇāmanyeṣāṃ yacchubhaṃ śubham |
+T02D1865:69b-28	མ་ལུས་ལ་བདག་ཡི་རང་ཞིང་༎ རྫོགས་བྱང་ཆུབ་ཏུ་རྗེས་བསྔོ་བགྱི་༎ ཀུན་འདོད་དབུགས་འབྱིན་སྩོལ་མཛད་པའི་༎ སངས་རྒྱས་ཀུན་ལ་བདག་བསྐུར་ལ་༎	T02n1424u_001:26	 yāce'haṃ sarvabuddhānāṃ sarvāmāśvāsadāyikā[m] |
+T02D1865:69b-32	བསྟན་པ་ནམ་མཁའི་མཐའ་མཉམ་པ་༎ འཇིག་རྟེན་ཀུན་སྡིག་མེད་སྣང་མཛོད་༎	T02n1424u_001:27	 deśanākāśasaṃsthānāṃ bhātu loke'khile'naghā ||13 ||
+T02D1865:69b-34	ཀུན་རྟོག་མ་ལུས་དག་གྱུར་ཅིང་༎ རང་རིག་དགའ་བ་ཐུགས་ཆུད་ལ་༎ རང་གཞན་དོན་གྱི་འབྲས་བུ་སྩོལ་༎ རྫོགས་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆི་༎	T02n1424u_001:28	 śuddhaniḥśeṣasaṃkalpān pratyātmānandavedinaḥ |  saṃbuddhān śaraṇaṃ yāmi svaparārthaphalapradān ||14 ||
+T02D1865:69b-38	སེམས་མཆོག་དམ་ཆོས་མ་ལུས་པ་༎ ལུང་དང་རྟོགས་པའི་བདག་ཉིད་ཅན་༎ དམ་པའི་ཕུན་ཚོགས་གནས་བསམ་ཡས་༎	T02n1424u_001:30	 satsattvāśeṣasaddharmamāgamādhigamātmakam |  satsampadāśrayācintyaśaraṇaṃ samupaimyaham ||15 ||
+T02D1865:69b-4	གཏོང་བརྟན་ལ་སོགས་ལྡན་གྱུར་ཀྱང་༎ སྔར་བཤད་ཡོན་ཏན་མི་ལྡན་ན་༎	T02n1424u_001:12	 tyāgadhairyādiyukto'pi proktairguṇairananvitaḥ |
+T02D1865:69b-41	བདག་ནི་ཡང་དག་སྐྱབས་སུ་མཆི་༎ མི་ལྡོག་དབུགས་འབྱིན་འཐོབ་གྱུར་ཅིང་༎ རྒྱུ་མཐུན་ལ་སོགས་འབྲས་བུར་ལྡན་༎	T02n1424u_001:32	 prāptāśvāsamavaivartyaṃ niṣyandādiphalairyutam |
+T02D1865:69b-44	གསང་བའི་དབང་བསྐུར་ལས་བྱུང་ཉིད་༎ ཚོགས་ལའང་བདག་ཉིད་སྐྱབས་སུ་མཆི་༎	T02n1424u_001:33	 guhyābhiṣekajaṃ caiva gato'smi śaraṇaṃ gaṇam ||16 ||
+T02D1865:69b-46	ཐུབ་དབང་སྲས་ཀྱི་ལམ་གྱི་མཆོག་། སྤྱོད་པ་ཐོག་མཐའ་མེད་རྟོགས་བྱེད་༎	T02n1424u_001:34	 munīndrasūnusanmārgaṃ caryānantāgrabodhakam |
+T02D1865:69b-6	འདི་ནི་འགྲོ་དོན་འོས་མིན་ཏེ་༎ དེ་ཡི་ཡོན་ཏན་འདི་མཆོག་ཡིན་༎	T02n1424u_001:13	 sattvārthe naiva bhavyo yatsa dbhistaiḥ syurguṇā hyamī ||6 ||
+T02D1865:69b-8	བརྩེར་ལྡན་བརྟུལ་ཞུགས་བཟང་བློས་ལྡན་༎ དང་ལྡན་ཟབ་མོ་དེ་ཉིད་ཤེས་༎	T02n1424u_001:14	 kṛpāvān suvrato jāpī śrāddho gambhīratattvavit |
+T02D1865:70a-0	༄༧༠ཨ་༌་༎ ཀུན་སངས་རྒྱས་བདག་བློ་མཆོག་གིས་༎ དེ་བས་ད་ནི་གནས་པར་བགྱི་༎	T02n1424u_001:35	 sarvabuddhātmasadbuddhyā samāśrito'smyato'dhunā ||17 ||
+T02D1865:70a-10	ཧའུམ་མཛད་ཡང་ན་གཙུག་ཏོར་རམ་༎	T02n1424u_001:43	 hūkāraṃ vāpyathoṣṇīṣān(ṣaṃ)
+T02D1865:70a-12	ཁྲོ་བོའི་འཁོར་ལོར་གནས་སྲུང་ཕྱིར་༏་། བསམས་ལ་བགེགས་ནི་རབ་ཏུ་གཞོམ་༎	T02n1424u_001:45	 rakṣārthaṃ krodhacakrastho dhyāyādvighnān pramarddayan ||20 ||
+T02D1865:70a-14	དེ་ནས་ཆོས་ཀྱི་དབྱིངས་བསམས་ཏེ་༎ ཟུར་གསུམ་དཀར་ཞིང་གྱེན་དཀར་གནས་༎	T02n1424u_001:46	 dharmadhātuṃ tato dhyāyāt tryastraṃ śuklordhvasaṃsthitam |
+T02D1865:70a-16	ཕྱོགས་ཀྱི་འཁོར་ལོར་སྣ་ཚོགས་འོད་༎ མཁའ་ནང་འོག་པད་རྡོ་རྗེ་གནས་༎	T02n1424u_001:47	 dikcakravarticitrābhamantaḥkhādhobjavajragam ||21 ||
+T02D1865:70a-18	དེར་བྷརའུམ་འཁོར་ལོ་ལས་བྱུང་བའི་༎ རིག་བཅས་རྣམ་སྣང་ལས་བྱུང་བ་༎	T02n1424u_001:48	 tatra bhrūṃkāracakrotthaṃ savidyaśāśvatodbhavam |
+T02D1865:70a-2	སྒྲིབ་པ་ཐམས་ཅད་ཡང་དག་སེལ་༎	T02n1424u_001:36	 sarvāvṛti(tiṃ)
+T02D1865:70a-20	སངས་རྒྱས་སྤྲོས་ཚོགས་མཁའ་ཁྱབ་པ་༎ ཟུར་བཞི་ལ་སོགས་ཡང་དག་ལྡན་༎	T02n1424u_001:49	 sphuradbuddhaughakhavyāpi caturastrādisaṃyutam ||22 ||
+T02D1865:70a-22	སྣ་ཚོགས་པདམ་ལྷ་ཡི་གདན་༎ ཟླ་བ་ཉི་མས་ལེགས་མནན་པ་༎	T02n1424u_001:50	 śaśisūryasamākrāntaṃ viśvābjadevatāsanam |
+T02D1865:70a-24	རིན་ཆེན་དམ་པ་ཀུན་གྱིས་བརྒྱན་༎ གཞལ་ཡས་ཁང་པ་རབ་བསམ་བྱ་༎	T02n1424u_001:51	 vibhaktāśeṣasadratnaṃ kūṭāgāraṃ prabhāvayet ||23 ||
+T02D1865:70a-26	དབྱངས་ཡིག་མཚན་དང་ཡང་དག་ལྡན་༎ ཀ་སོགས་དཔེ་བྱད་འོད་ཟེར་ཅན་༎	T02n1424u_001:52	 svaralakṣaṇasaṃyuktaṃ kādivyañjanaraśmikam |
+T02D1865:70a-28	དབུས་མའི་ཟླ་བའི་གདན་ལ་སེམས་༎ ཡེ་ཤེས་ཟླ་བ་རྣམ་བསྒོམས་དེང་༎	T02n1424u_001:53	 madhyacandrāsane cittaṃ jñānacandraṃ vibhāvya tat ||24 ||
+T02D1865:70a-3	ཡེ་ཤེས་མཐའ་ཡས་བདུད་རྩིའི་གནས་༎	T02n1424u_001:37	 samudghātyānantajñānāmṛtāspadam |
+T02D1865:70a-30	དང་པོའི་སྙིང་ལས་བྱུང་རྡོ་རྗེ་༎ དམར་ཞིང་དང་པོའི་སྙིང་པོར་ལྡན་༎	T02n1424u_001:54	 tatrādyahṛdbhavaṃ vajraṃ raktamādyahṛdāyutam |
+T02D1865:70a-32	སྤྲུལ་པས་འགྲོ་བའི་དོན་བྱས་ནས་༎ བདག་ཉིད་དེ་ཡི་ང་རྒྱལ་ལྡན་༎	T02n1424u_001:55	 kṛtajinābhadehyartha stadahaṃkṛtimān svayam ||25 ||
+T02D1865:70a-34	སྐུ་དང་ཞལ་མཆོག་ཤེལ་ཟླ་འདྲ་༎ ག-ཡས་པ་སྔོ་ལ་ཅིག་ཤོས་དམར་༎	T02n1424u_001:56	 sphaṭikendvaṅgamūlāsyaṃ nīlasavyetarāruṇam |
+T02D1865:70a-36	རྣམ་པ་ཀུན་མཆོག་རྒྱ་ཆེ་ཞིང་༎ ཡོན་ཏན་ན་བཟའ་རྒྱན་མཆོག་ལྡན་༎	T02n1424u_001:57	 sarvākāravarodāraṃ sadguṇābharaṇāmbaram ||26 ||
+T02D1865:70a-38	རྡོ་རྗེ་སྐྱིལ་ཀྲུང་ལེགས་པར་བཞུགས་༎ ཕྱག་གཉིས་ཤེས་རབ་མཆོག་ལ་འཁྱུད་༎ ཕྱག་ག-ཡས་རྡོ་རྗེ་རལ་གྲི་སྟེ་༎ ག-ཡོན་ན་རིན་ཆེན་པདམར་ལྡན་༎	T02n1424u_001:58	 dvibhujāśliṣṭasatprajñaṃ vajraparyaṅkasusthiram |  vajrakhaḍgabhujaṃ savye vāme sanmaṇipadminam ||27 ||
+T02D1865:70a-4	འཁྲུལ་པའི་ལྟ་བ་རབ་རྟོགས་ཕྱིར་༎ རྣམ་ཀུན་བྱང་ཆུབ་སེམས་བསྐྱེད་དོ་༎	T02n1424u_001:38	 bhramidṛṣṭiprabodhāya bodhau sarvaṃ dadhe manaḥ ||18 ||
+T02D1865:70a-42	དཔལ་ལྡན་ཤེས་རབ་ཐབས་བདག་ཉིད་༎ ཀུན་དུ་བཟང་པོ་འོད་འཕྲོ་བར་༎ བདག་ཉིད་རྣམ་པར་བསྒོམ་པར་བྱ་༎	T02n1424u_001:60	 prajñopāyātmakaṃ śrīmajjagatsampatsamāśrayam |  samantabhadramātmānaṃ bhāvayetspharaṇatviṣam ||28 ||
+T02D1865:70a-46	དེ་ནས་འདོད་ཆགས་ཆེས་འདུལ་བའི་༎ སྣོད་ཀྱི་འཇིག་རྟེན་མཐོང་བ་དང་༎ དགའ་བའི་སྒྲ་ཡིས་རང་ནང་དུ་༎	T02n1424u_001:62	 mahārāgavineyaṃ tallokamālokya bhājanam |
+T02D1865:70a-6	བྱང་ཆུབ་སེམས་དང་སངས་རྒྱས་ཉིད་༎	T02n1424u_001:39	 bodhicittācca buddhatvaṃ phala(laṃ)
+T02D1865:70a-7	རྒྱུ་དང་འབྲས་བུར་མ་ཆགས་ཉིད་༎	T02n1424u_001:40	 hetorasaṅgataḥ |
+T02D1865:70a-8	སོ་སོ་རང་རིག་ཆོས་ཡིན་ཕྱིར་༎ སྟོང་པའི་ཡེ་ཤེས་བདག་ཅན་བདག་། ཨཨོམ་ཤའུ་ནྱ་ཏའ་ཛཉའ་ན་བཛྲ་སབ༹་བྷའ་ཝ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:41	 pratyātmavedyadharmatvācchūnyajñānātmako hyaham ||19 ||  om śūnyatājñānavajrasvabhāvātmako'ham |
+T02D1865:70b-0	དེར་ནི་སྤྱན་སོགས་རིགས་༄༧༠བ་མཆོག་དང་༎ གཟུགས་སོགས་ཡུལ་གྱི་བདག་ཉིད་ཀྱི་༎	T02n1424u_001:64	 tallocanādisadvidyārūpādiviṣayātmabhiḥ |
+T02D1865:70b-1	ལྷ་མོ་དགུ་རུ་ཕྱུང་ནས་ནི་༎ རང་གི་རིག་པའི་ནང་དུ་གཞུག་། རང་རིག་པདམའི་ལྟེ་བ་རུ་༎ རབ་དགའ་ལས་བྱུང་དཀྱིལ་འཁོར་ནི་༎	T02n1424u_001:65	 protsṛjya navadhā devīḥ svavidyāntarniveśayet ||30 ||  svayoṣitpadmakarkaṭyāṃ suratodbhavamaṇḍalam |
+T02D1865:70b-11	དེ་ཡི་དངོས་དབྱུང་ས་བོན་གྱིས་༎ སེམས་ཅན་ཐམས་ཅད་ཕྱུང་ནས་ནི་༎ འགྲོ་བ་སེམས་བདག་དངོས་ལས་བྱུང་༎	T02n1424u_001:71	 utsṛjet sarvasattvāṃśca jagaccittātmabhāvajān ||33 ||
+T02D1865:70b-14	ས་ཡི་སྙིང་པོ་ལ་སོགས་དྲུག་༎	T02n1424u_001:72	 kṣitigarbhādikāñchaṭkāṃścakṣurādisvabhāvajān |
+T02D1865:70b-4	སྤྲུལ་ནས་འདིར་ནི་འགྲོ་བ་ཀུན་༎ མཁའ་ཁྱབ་སངས་རྒྱས་བཤེས་གཉེན་མཆོག་༎	T02n1424u_001:67	 nirmāyātra jagatkṛtsnamāśvāsāya praveśayet ||31 ||
+T02D1865:70b-7	རང་རྡོ་རྗེ་ནང་ཞུ་ལས་བྱུང་༎	T02n1424u_001:68	 khavyāpibuddhasanmitraiḥ svavajrāntardravodbhavaiḥ |
+T02D1865:70b-8	མི་ལྡོག་ཕྱིར་དང་དེ་ཉིད་ཀྱི་༎ ཡེ་ཤེས་འབྲས་ཐོབ་ཕྱིར་དབང་བསྐུར་༎	T02n1424u_001:69	 secayedavivartyarthaṃ tattvajñānaphalāptaye ||32 ||
+T02D1865:71a-11	དངོས་རྣམས་སྒྱུ་མ་ལྟར་རིག་ནས་༎ རང་སྔགས་དོན་དུ་སླར་ཡང་གྱུར་༎	T02n1424u_001:102	 māyāvadvastusaṃvittyā svamantrārthaḥ punarbhavet ||44 ||
+T02D1865:71a-13	ཞལ་མཆོག་གུར་ཀུམ་ལྟ་བུ་སྟེ་༎ ག-ཡས་པ་སྔོ་ལ་ཅིག་ཤོས་དཀར་༎	T02n1424u_001:103	 kuṅkumākāramūlāsyo nīlasavyasitetaraḥ |
+T02D1865:71a-15	རྒྱན་དང་ཆ་ལུགས་གཞོན་ནུ་འདྲ་༎ ཤེས་རབ་དགའ་བས་ཅིག་ཅར་མཛེས་༎	T02n1424u_001:104	 kumārābharaṇākāraḥ prajñānandaikasundaraḥ ||45 ||
+T02D1865:71a-17	རང་སྣང་ཤེས་རབ་ལྡན་གྱུར་ཅིང་༎ ཕྱག་གཉིས་ཤེས་རབ་དམ་པ་འཁྱུད་༎	T02n1424u_001:105	 dvibhujāśliṣṭasatprajñaḥ svābhaprajñādharāsya dhṛk |
+T02D1865:71a-19	རལ་གྲི་འོད་ལྡན་མདའ་ཡི་མཆོག་། ཨཽཏཔལ་སྔོན་གཞུ་ཕྱག་ན་བསྣམས་༎	T02n1424u_001:106	 bhāsvatkṛpāṇasadbāṇanīlotpaladhanuḥkaraḥ ||46 ||
+T02D1865:71a-20	སངས་རྒྱས་སྤྲིན་གྱི་སྤྲུལ་འཕྲོ་བས་༎ འགྲོ་བ་གསུམ་གྱི་དོན་རྫོགས་པ་༎	T02n1424u_001:107	 sphuradbuddhaughanirmāṇaniṣpāditajagattrayaḥ |
+T02D1865:71a-22	རང་གི་ས་བོན་མཚན་ལས་བྱུང་༎ འཇམ་པའི་རྡོ་རྗེ་རང་ཉིད་འགྱུར་༎	T02n1424u_001:108	 svabījodbhavacihnotthamañjuvajraḥ svayaṃ bhavet ||47 ||
+T02D1865:71a-24	སྲིད་པར་ཆགས་པས་མཐའ་ཡས་ཤིང་༎ ཞི་བར་ཆགས་ན་འབྱོར་ཉམས་འགྱུར་༎	T02n1424u_001:109	 bhavasaṃgādbhavo'nantaḥ śamasaṅgo vipattibhāk |
+T02D1865:71a-26	སྒྱུ་མས་བསྙེན་པ་ཡང་དག་བྱས་༎ ཆོས་དབྱིངས་བདག་ཉིད་ཅན་དུ་འགྱུར་༎	T02n1424u_001:110	 māyayā kṛtasaṃsevo dharmadhātvātmako bhavet ||48 ||
+T02D1865:71a-28	ཨཨོམ་དྷརྨ་དྷའ་ཏུ་སབ༹འ་བྷའ་བ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:111	 om dharmadhātusvabhāvātmako'ham |
+T02D1865:71a-29	བཤེས་གཉེན་དམ་པས་རྒྱུ་མཐུན་བྱས་༎ སྨིན་ལས་ཐམས་ཅད་མཁྱེན་ཉིད་འགྱུར་༎ དེ་ནི་མིག་སོགས་བྱིན་བརླབ་པ་༎ ཉེ་བར་བསྒྲུབ་པ་ཡིན་པར་འདོད་༎	T02n1424u_001:112	 sanmitraiḥ kṛtaniṣyandaḥ pākātsarvajñatāmiyāt |  taccakṣurādyadhiṣṭhānamupasādhana miṣyate ||49 ||
+T02D1865:71a-33	ས་སྙིང་རྡོ་རྗེ་ཅན་མཁའ་སྙིང་༎ འཇིག་དབང་སྒྲིབ་སེལ་ཀུན་དུ་བཟང་༎ དེ་ནི་ས་བོན་རྣམས་ཀྱིས་ནི་༎ མིག་ལ་སོགས་པ་ཡང་དག་དགང་༎	T02n1424u_001:114	 kṣitīśakuliśākāśalokeśaskambhibhadrakaiḥ |  saṃpūrya cakṣurādīni tadbījaiḥ pauruṣaṃ vahet ||50 ||
+T02D1865:71a-37	སྐྱེས་བུ་བསྐྱེད་པ་ཆོས་ལོངས་སྤྱོད་༎ སྦྲུལ་བ་ལས་བྱུང་འགྲོ་དོན་ཉིད་༎	T02n1424u_001:116	 dharmasaṃbhoganirmāṇavāhinī jagadarthatā |
+T02D1865:71a-39	ཐུགས་ཀྱི་གསང་སོགས་བྱིན་གྱིས་བརླབ་༎ དེ་བས་སྒྲུབ་པའི་དོན་དུ་འགྱུར་༎	T02n1424u_001:117	 cittaguhyādyadhiṣṭhānaṃ sādhanārthamato bhavet ||51 ||
+T02D1865:71a-42	ཧའུམ་ཨའ༔་ཨཨོམ་ལས་བྱུང་བའི་གཙོ་༎	T02n1424u_001:118	 svahṛtkaṇṭhaśiraścandre hū-āḥ-om-jāṃśca satprabhūn |
+T02D1865:71a-43	རྡོ་རྗེ་ཆུ་སྐྱེས་འཁོར་ལོ་ཡི་༎ དབུས་གནས་ཐུགས་སོགས་གསང་བ་བསྒོམ་༎	T02n1424u_001:119	 vajrābjacakramadhyasthān dhyātvā cittādiguhyakān ||52 ||
+T02D1865:71a-45	དེ་ཐུགས་ཤེས་རབ་ཡན་ལག་འདུས་༎ ༄༧༡བ་འོད་ཀྱི་གཟུགས་ནི་རྡོ་རྗེ་སོགས་༎	T02n1424u_001:120	 taddhṛtprajñāṅgasaṅgārccī rūpavajrādiraśmibhiḥ |
+T02D1865:71a-7	མགོན་པོ་གལ་ཏེ་དེ་རིང་བདག་ནི་གསོན་པར་མཆིས་བཞེད་ན་༎ ཡོན་ཏན་རིན་ཆེན་མང་པོའི་གཏེར་གྱུར་བདག་ལ་དགྱེས་པར་མཛོད་༎	T02n1424u_001:99	 kāmāhi māṃ guṇanidhiṃ bahuratnabhūtāṃ  yadīcchase jīvitu mahya (mañju)nātha ||43 ||
+T02D1865:71a-9	སློང་བར་བྱེད་པའི་ངོར་བྱས་པས་༎ ཞུ་བ་རྒུད་པ་ལྟར་མཐོང་སྟེ་༎	T02n1424u_001:101	 utthāpanyanurodhāttaddravaṃ paśyan vipattivat |
+T02D1865:71b-1	འོད་ཀྱིས་ཕྱོགས་དུས་ཀུན་མཆོད་ཅིང་༎ མ་ལུས་གཙོ་ལ་ཁྱབ་པར་གྱུར་༎	T02n1424u_001:121	 saṃpūjya sarvadiktryadhvavyāptāśeṣavināyakān ||53 ||
+T02D1865:71b-11	ཕྱོགས་བཅུར་བཞུགས་པའི་སངས་རྒྱས་རྣམས་༎ རྡོ་རྗེ་མི་ཕྱེད་གསུམ་བསྒོམས་པས་༎	T02n1424u_001:126	 daśadiksaṃsthitā buddhāstrivajrābhedyabhāvitāḥ |
+T02D1865:71b-13	དེང་བདག་བྱིན་གྱིས་བརླབས་ནས་སུ་༎ རྡོ་རྗེ་ཐུགས་ཀྱིས་མཛད་དུ་གསོལ་༎	T02n1424u_001:127	 adhiṣṭhānapadaṃ me'dya kurvantu cittavajriṇaḥ ||56 ||
+T02D1865:71b-15	ཨཨོམ་སརྦ་ཏ་ཐའ་ག་ཏ་ཙིཏཏ་བཛྲ་སབ༹་བྷའ་བ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:128	 om sarvatathāgatacittavajrasvabhāvātmako'ham |
+T02D1865:71b-16	ཆོས་ཀྱི་གསུང་ལམ་དཔལ་དང་ལྡན་༎ རྡོ་རྗེ་མི་ཕྱེད་གསུམ་བ་སྒོམས་པས་༎	T02n1424u_001:129	 dharmo vai vākpathaḥ śrīmāṃstrivajrābhedyabhāvitaḥ |
+T02D1865:71b-18	དེང་བདག་བྱིན་གྱིས་བརླབས་ནས་སུ་༎ རྡོ་རྗེ་གསུང་གིས་མཛད་དུ་གསོལ་༎	T02n1424u_001:130	 adhiṣṭhānapadaṃ me'dya karotu vāgvajriṇaḥ ||57 ||
+T02D1865:71b-20	ཕྱོགས་བཅུར་བཞུགས་པའི་སངས་རྒྱས་རྣམས་༎ རྡོ་རྗེ་མི་ཕྱེད་གསུམ་བསྒོམས་ནས་༎	T02n1424u_001:131	 daśadiksaṃsthitā buddhāstrivajrābhedyabhāvitāḥ |
+T02D1865:71b-22	དེང་བདག་བྱིན་གྱིས་བརླབས་ནས་སུ་༎ རྡོ་རྗེ་གསུང་གིས་མཛད་དུ་གསོལ་༎	T02n1424u_001:132	 adhiṣṭhānapadaṃ me'dya kurvantu vāgvajriṇaḥ ||58 ||
+T02D1865:71b-24	ཨཨོམ་སརྦ་ཏ་ཐའ་ག་ཏ་བའ་ག་བཛྲ་སབ༹འ་བྷའ་བ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:133	 om sarvatathāgatavāgvajrasvabhāvātmako'ham |
+T02D1865:71b-25	དཔལ་ལྡན་སངས་རྒྱས་སྐུ་འཆང་བ་༎ རྡོ་རྗེ་མི་ཕྱེད་གསུམ་བསྒོམས་པས་༎	T02n1424u_001:134	 kāyavajradharaḥ śrīmāṃstrivajrābhedyabhāvitaḥ |
+T02D1865:71b-27	དེང་བདག་བྱིན་གྱིས་བརླབས་ནས་སུ་༎ རྡོ་རྗེ་སྐུས་ནི་མཛད་དུ་གསོལ་༎	T02n1424u_001:135	 adhiṣṭhānapadaṃ me'dya karotu kāyavajriṇaḥ ||59 ||
+T02D1865:71b-29	ཕྱོགས་བཅུར་བཞུགས་པའི་སངས་རྒྱས་རྣམས་༎ རྡོ་རྗེ་མི་ཕྱེད་གསུམ་བསྒོམས་པས་༎	T02n1424u_001:136	 daśadiksaṃsthitā buddhāstrivajrābhedyabhāvitāḥ |
+T02D1865:71b-3	གང་ཞིག་སྙིང་ལྐོག་སྤྱི་བོར་ཞུགས་༎ དེ་ཡི་མཛད་དོན་རྫོགས་པར་བྱས་༎	T02n1424u_001:122	 kṛtārthasampadāṃ teṣāṃ ye hṛtkaṇṭhaśirogatāḥ |
+T02D1865:71b-31	དེང་བདག་བྱིན་གྱིས་བརླབས་ནས་སུ་༎ རྡོ་རྗེ་སྐུས་ནི་མཛད་དུ་གསོལ་༎	T02n1424u_001:137	 adhiṣṭhānapadaṃ me'dya kurvantu kāyavajriṇaḥ ||60 ||
+T02D1865:71b-33	ཨཨོམ་སརྦ་ཏ་ཐའ་ག་ཏ་ཀའ་ཡ་བཛྲ་སབ༹་བྷའ་བ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:138	 om sarvatathāgatakāyavajrasvabhāvātmako'ham |
+T02D1865:71b-34	རྗེས་དྲན་བཅུ་དྲུག་དག་པས་ནི་༎ བྱེད་པ་ཡིན་ཞེས་ངེས་གསུངས་པས་༎	T02n1424u_001:139	 ṣoḍaśānusmṛteḥ śuddhau kurvantīti taduktavān |
+T02D1865:71b-36	དེ་ནི་ཐུགས་སོགས་བྱིན་བརླབ་པའི་༎ གནས་སྐབས་མིན་ཕྱིར་མ་བཤད་དོ་༎	T02n1424u_001:140	 tasya cittādyadhiṣṭhānaṃ noktamaprastutoktitaḥ ||61 ||
+T02D1865:71b-38	སྒྱུ་མའི་ཤེས་རབ་ཡང་དག་འདུས་༎ གསང་བ་གསུམ་གྱི་མཚན་ཉིད་བལྟ་༎	T02n1424u_001:141	 triguhyalakṣaṇaṃ vīkṣya māyāprajñāṅgasaṅgataḥ |
+T02D1865:71b-40	དབང་འབྲས་ཆུང་དུ་རྣམ་དག་ཕྱིར་༎ སྒྲུབ་པ་ཆེན་པོ་ཡིན་པར་འདོད་༎	T02n1424u_001:142	 mṛduvaimalyasaṃśuddhau mahāsādhanamiṣyate ||62 ||
+T02D1865:71b-42	ཡེ་ཤེས་སེམས་ཐུགས་སྙིང་འོད་ཀྱི་༎ ཕྱོགས་བཅུའི་མགོན་པོ་ཡང་དག་བསྐུལ་༎	T02n1424u_001:143	 saṃcodya diggatān nāthān jñānasattvahṛdayārciṣā |
+T02D1865:71b-44	དེ་འོད་ལས་བྱུང་རིག་པ་རྣམས་༎ བདུད་རྩིའི་ཆུས་བཀང་བུམ་བསྣམས་པས་༎	T02n1424u_001:144	 tatprabhodbhavavidyābhirbhṛtakumbhāmṛtāmbubhiḥ ||63 ||
+T02D1865:71b-46	གཙོ་བོ་དཔལ་ལྡན་རང་དབང་བསྐུར་༎ རིགས་དབང་ཅོད་པན་དམ་པ་ཡིན་༎	T02n1424u_001:145	 svābhiṣiktaḥ prabhuḥ śrīmānkuleśamakuṭottamaḥ |
+T02D1865:71b-48	དེ་བཞིན་རྒྱུ་མཐུན་སོགས་པར་མས་༎ རང་རིག་ཤེས་རབ་རྣམ་པར་སྦྱོང༎	T02n1424u_001:146	 niṣyandādyaistathā madhyaiḥ svābhāṃ prajñāṃ viśodhayet ||64 ||
+T02D1865:71b-5	དེ་ནི་ཐུགས་ཀྱི་རྡོ་རྗེ་སོགས་༎ བྱིན་བརླབས་དེ་ནི་རབ་ཏུ་བསྒྲུབ་༎	T02n1424u_001:123	 cittavajrādayastāṃstu tadadhiṣṭhāne prayāca(sādha)yet ||54 ||
+T02D1865:71b-7	དང་ལ་ལྡན་རྡོ་རྗེའི་ཐུགས་འཆང་བ་༎ རྡོ་རྗེ་མི་ཕྱེད་གསུམ་བསྒོམས་པས་༎	T02n1424u_001:124	 cittavajradharaḥ śrīmāṃstrivajrābhedyabhāvitaḥ |
+T02D1865:71b-9	དེང་བདག་བྱིན་གྱིས་བརླབས་ནས་སུ་༎ རྡོ་རྗེ་ཐུགས་ཀྱིས་མཛད་དུ་གསོལ་༎	T02n1424u_001:125	 adhiṣṭhānapadaṃ me'dya karotu cittavajriṇaḥ ||55 ||
+T02D1865:72a-0	༄༧༢ཨ་༌་༎ སྤྱི་བོ་སྙིང་ག་ལྟེ་བ་གསང་༎ རྐང་མཐར་ཐུག་པའི་ཆ་རེ་ལ་༎	T02n1424u_001:147	 śirohṛnnābhiguhye syāccaraṇānte ca pratyaṇūn |
+T02D1865:72a-12	གཟུགས་སུ་རྡོ་རྗེའི་པད་ལེགས་གནས་༎	T02n1424u_001:153	 niveśyātmani saccittarūpaṃ vajrābjasaṃsthitam ||67 ||
+T02D1865:72a-13	རྒྱལ་བའི་འཁོར་ལོ་ས་བོན་གྱིས་༎ དེར་བསྐྱེད་ནས་ནི་བརྟན་བྱས་ལ་༎	T02n1424u_001:154	 jina cakraṃ svabījena tatrotpādya sthirīkṛtam |
+T02D1865:72a-15	འགྲོ་བའི་མི་ཤེས་དག་བྱའི་ཕྱིར་༎ རང་གི་ཆོ་གས་དབྱུང་བར་བྱ་༎ ཞེ་སྡང་ཆེན་པོའི་དོན་མཛད་རྒྱལ་༎ བདག་པོ་མི་བསྐྱོད་ཡང་དག་བསྐུལ་༎ བཛྲ་དྷྲིཀ་ཅེས་བྱ་བས་དབྱུང་༎	T02n1424u_001:155	 utsṛjed vidhinānena jagatsvajñānaśuddhaye ||68 ||
+T02D1865:72a-2	ཨཨོམ་ཧའུམ་སབ༹འ་ཨའ༔་ཧའ་སྙིང་པོ་༎ རྟགས་སོགས་རིགས་ཀྱི་བདག་ཉིད་ཅན་༎	T02n1424u_001:148	 om-hū-svā-hṛdbhiḥ āḥ- hābhyāṃ śāśvatādikulātmakaiḥ ||65 ||
+T02D1865:72a-27	ཤར་གྱི་ཟླ་དཀྱིལ་དག་ལ་བསྒོམ་༎	T02n1424u_001:161	 saccakrādyanvitaṃ tadvad dhyāyāt pūrvendumaṇḍale ||71 ||
+T02D1865:72a-28	རཏན་དྷྲིཀ་གིས་རིན་ཆེན་དབང་༎ གསེར་མདོག་མཉམ་ཉིད་བརྩོན་འགྲུས་ཅན་༎	T02n1424u_001:162	 ratnadhṛgiti ratneśaṃ suvarṇābhā samodyamam |
+T02D1865:72a-30	མགོན་པོ་རིན་ཆེན་མཆོག་སོགས་བསྣམས་༎ གཞོན་ནུའི་ཞལ་འདྲ་ལྷོ་ཕྱོགས་སུའོ་༎	T02n1424u_001:163	 sadratnādyanvitaṃ nāthaṃ kumārāsyaṃ tu dakṣiṇe ||72 ||
+T02D1865:72a-32	ཨའ་རོ་ལི་ཀ་གིས་གསུང་དབང་བོ་༎ འདོད་ཆགས་ཆེན་པོས་དོན་མཛད་གཙོ་༎	T02n1424u_001:164	 āroligiti vāgīśaṃ mahārāgārthakṛtprabhum |
+T02D1865:72a-34	པདམ་རའ་གའི་མདོག་པད་སོགས་༎ གཞོན་ནུའི་ཞལ་འདྲ་ནུབ་ཕྱོགས་སུའོ་༎	T02n1424u_001:165	 padmarāgābhapadmādyaṃ kumārāsyaṃ tu pṛṣṭhataḥ ||73 ||
+T02D1865:72a-36	པྲཛཉའ་དྷྲི་ཀ་གིས་དོན་ཡོད་དབང་༎ གཏུམ་ཆེན་ཕྲག་དོག་དོན་མཛད་པ་༎	T02n1424u_001:166	 prajñādhṛgityamogheśaṃ mahogrerṣyārthakṛtkhajam |
+T02D1865:72a-38	བེཨེ་དའུ་རྱ་སྣང་གཞོན་ནུའི་ཞལ་༎ རལ་གྲི་སོགས་བསྣམས་བྱང་དུ་བསམ་༎	T02n1424u_001:167	 vaiḍūryābhaṃ kumārāsyaṃ dhyāyātkhaḍgādyamuttare ||74 ||
+T02D1865:72a-4	རྫོགས་སངས་རྒྱས་ལྔས་དགང་བར་བྱ་༎ ཧའུམ་ཨཨ་ཆུ་སྐྱེས་འདབ་བརྒྱད་པ་༎	T02n1424u_001:149	 āpūrya pañcasaṃbuddhaiḥ hū āḥ aṣṭadalābjikām |
+T02D1865:72a-40	ཀུན་ཀྱང་རལ་པ་ཅོད་པ་ན་བཅས་༎ རང་རིག་གཉིས་སུ་མེད་པར་སྦྱོར་༎	T02n1424u_001:168	 sajaṭāmukuṭāḥ sarve svavidyādvayasaṅginaḥ |
+T02D1865:72a-42	རྒྱན་དང་ན་བཟའ་མཆོག་ཀུན་ལྡན་༎ པདམ་ཉིད་དཀྱིལ་དག་ལ་བསམ་༎	T02n1424u_001:169	 sarvābharaṇasadvastrā dhyeyāḥ padmārkamaṇḍale ||75 ||
+T02D1865:72a-44	མོ་ཧ་ར་ཏའིས་ཤ་ར་ལྷོ་རུ་༎ སྙིང་རྗེ་ཐབས་ཀྱིས་འགྲོ་དོན་སྩོལ་༎	T02n1424u_001:170	 moharatīti āgneyāṃ kṛpopāyajanārthadā |
+T02D1865:72a-46	རང་གི་ངོ་བོ་སྐུ་དབང་འདྲ་༎ སྤྱན་ནི་ཟླ་དཀྱིལ་དག་ལ་བསམ་༎	T02n1424u_001:171	 kāyeśavatsvarūpā syāllocanā svendumaṇḍale ||76 ||
+T02D1865:72a-48	དབེ༹་ཤ་ར་ཏའིས་ལྷོ་ནུབ་ཏུ་༎ བྱམས་དང་སྨོན་ལམ་འདོད་སྩོལ་བ་༎	T02n1424u_001:172	 dveṣaratīti nairṛtyāṃ maitrīpraṇidhikāmadā |
+T02D1865:72a-6	ཡང་དག་སྦྱངས་དེས་སངས་རྒྱས་རྣམས་༎ ཧའུམ་གི་རྡོ་རྗེ་མཆོག་མཉེས་བྱ་༎	T02n1424u_001:150	 saṃviśodhya tayā buddhān hū-sadvajro'nurāgayet ||66 ||
+T02D1865:72a-8	ཨཨོམ་སརྦ་ཏ་ཐའ་ག་ཏ་ཨཨ་ནུ་རའ་ག་ན་བཛྲ་སབ༹་བྷའ་ཝ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:151	 om sarvatathāgatānurāgaṇavajrasvabhāvātmako'ham |
+T02D1865:72a-9	སྙིང་ཟླའི་རལ་གྲི་སྙིང་པོའི་འོད་༎ སངས་རྒྱས་དཀྱིལ་འཁོར་མཁའ་ཁྱབ་པ་༎	T02n1424u_001:152	 hṛccandrakhaḍgahṛdbhābhiḥ khavyāpi buddhamaṇḍalam |
+T02D1865:72b-0	དགའ་ལྡན་ཐུགས་༄༧༢བ་ཀྱི་དབང་པོ་འདྲ་༎ མའ་མ་ཀའི་ནི་ཟླ་དཀྱིལ་བསམ་༎	T02n1424u_001:173	 citteśavadratautsukyā māmakī candramaṇḍale ||77 ||
+T02D1865:72b-10	འདི་རྣམས་མཚན་མ་རིམ་བཞིན་དུ་༎ འཁོར་ལོ་ཨཽཏཔལ་དམར་པོ་མཆོག་། པདམ་ཨཽཏཔལ་སེར་པོ་སྟེ་༎	T02n1424u_001:178	 cakraṃ raktotpalaṃ divyaṃ paṅkajaṃ pītamutpalam |
+T02D1865:72b-12	ལྷག་མ་རང་བདག་ལྟ་བུར་བསྟན་༎	T02n1424u_001:179	 śiṣṭaṃ svādhipavaddiṣṭaṃ cihnamāsāṃ kramādataḥ ||80 ||
+T02D1865:72b-13	མེ་ལ་སོགས་པའི་མཚམས་བཞི་དང་༎ ཤར་སྒོ་ཡི་ནི་ངོས་གཉིས་སུ་༎	T02n1424u_001:180	 āgneyādicatuṣkoṇe pūrvadvāradviparśvayoḥ |  rūpādyā darpaṇādyaiḥ syuḥ kāyādyā tā(dyāstā)
+T02D1865:72b-14	དེ་ཉིད་གསུམ་གྱི་གཟུགས་སོགས་པ་༎	T02n1424u_001:182	 stritattvataḥ ||81 ||
+T02D1865:72b-16	ཡ་མའནཏ་ཀྲི་ཏ་ཀྱིས་ཡམས་འཇོམས་༎ ཕུང་པོ་ཞེས་བྱ་རྣམ་འཇིག་པ་༎ ཐུགས་ཀྱི་དབང་འདྲ་ལྟར་བ་འབར་༎	T02n1424u_001:184	 yamāntakṛditītighnaḥ skandhajñeyavināśataḥ ||82 ||
+T02D1865:72b-2	རའ་ག་ར་ཏིས་ནུབ་བྱང་དུ་༎ དགའ་དང་སྟོབས་དང་ཏིང་འཛིན་སྩོལ་༎	T02n1424u_001:174	 rāgaratīti vāyavyāṃ modabalasamādhidā |
+T02D1865:72b-20	པྲཛཉའ་ནཏ་ཀྲི་ཏ་ཀྱིས་སྲིད་འཇོམས་༎ ཉོན་མོངས་བདག་ལྟ་འཇིག་བྱེད་བ་༎	T02n1424u_001:186	 prajñāntakṛ ditīcchāghnaḥ svātmadṛkkleśahānitaḥ ||83 ||
+T02D1865:72b-22	གཏུམ་ཞིང་འཇིགས་ལ་ཀུན་དང་འདྲ་༎ གཞན་གྱིས་མི་ཐུབ་ལྷོ་སྒོར་རོ་༎	T02n1424u_001:187	 mṛtyujanmaughasāṃghātī pṛṣṭhadvāre'śvakandaraḥ |
+T02D1865:72b-24	པདམའནཏ་ཀྲི་ཏ་ཀྱིས་འདོད་འཇོམས་༎ འཆི་བདག་སྐྱེས་པའི་ཚོགས་འཇིག་པ་༎ གཏུམ་ཞིང་སྒྲ་ཟབ་གསུང་དབང་འདྲ་༎	T02n1424u_001:188	 padmāntakṛditīcchāghno vāgīśābhograghūrṇṇitaḥ ||84 ||
+T02D1865:72b-27	རྟ་མགྲིན་ནུབ་ཀྱི་སྒོ་རུ་བསམ་༎	T02n1424u_001:189	 akṣobhyābhogravighnaghna uttare'mṛtakuṇḍaliḥ |
+T02D1865:72b-28	བིགྷནའ་ནཏ་ཀྲི་ཏ་ཀྱིས་བགེགས་འཇོམས་༎ བྱ་བ་ལྷ་ཡི་བདུད་དག་ཉིད་༎ གཏུམ་ལ་མི་བསྐྱོད་མདོག་འདྲ་བ་༎ བདུད་རྩི་འཁྱིལ་པ་བྱང་སྒོར་བསམ་༎	T02n1424u_001:190	 vighnāntakṛditi dvārakriyāsurāriśuddhitaḥ ||85 ||
+T02D1865:72b-32	སྨིན་འདེགས་དབུ་སྐྲ་གྱེན་དུ་འབར་༎ སྨ་ར་སྨིན་མ་སྤྱན་དམར་སེར་༎ ཞལ་གདངས་ལྗགས་ནི་རྣམ་པར་བསྐྱོད་༎ མཆེ་བར་བཅས་ཤིང་རྟག་ཏུ་བཞད་༎	T02n1424u_001:191	 bhrūbhaṅgordhvajvalatkeśababhrubhrūśmaśrulocanāḥ |  vyāvṛtāsyā lalajjihvāḥ sadaṃṣṭrotkaṭahāsinaḥ ||86 ||
+T02D1865:72b-37	དབྱིག་པ་པདམ་རྡོ་རྗེ་ཐོགས་༎ ཁྲོས་པའི་སྤྲུལ་གྱིས་སྐུ་ལ་བརྒྱན་༎ རང་རིག་ཤེས་རབ་ཡན་ལག་ལུས་༎	T02n1424u_001:193	 caṇḍamudgaradaṇḍābjasvavajrādi karāstvamī |  krūrabhujaṅgabhūṣāṅgāḥ svābhavidyāṅgasaṅginaḥ ||87 ||
+T02D1865:72b-4	གསུང་གི་དབང་འདྲ་དོན་དག་བསམ་༎ གོས་དཀར་མོ་ནི་ཟླ་དཀྱིལ་བསམ་༎	T02n1424u_001:175	 vāgīśābhārthaśuddhā sā pāṇḍarā candramaṇḍale ||78 ||
+T02D1865:72b-40	རྫོགས་པའི་འཁོར་ལོ་ལ་བལྟས་ནས་༎ ཀུན་ནས་རང་གི་དངོས་པོ་ཡིས་༎	T02n1424u_001:195	 niṣpannaṃ cakramālokya nijabhāvena sarvataḥ |
+T02D1865:72b-42	སྙིང་པོའི་ས་བོན་འོད་ལྕགས་ཀྱུས་༎	T02n1424u_001:196	 hṛdbījābhāṃkuśairbuddhāṃścakrākārasamāhṛtān ||88 ||
+T02D1865:72b-44	མཐོང་བར་གྱུར་ནས་བགེགས་རྣམས་ནི་༎ ཀུན་ཏུ་བསྐྲད་དེ་མངོན་པར་བསྲུང་༎	T02n1424u_001:197	 dṛṣṭvā vighnān svavighnaghnaiḥ samutsāryābhirakṣya ca |
+T02D1865:72b-46	ཟླ་སོགས་མེ་ཏོག་ལྡན་པ་ཡི་༎ གསང་སྔགས་མཆོག་བཟླས་མཆོད་ཡོན་དབུལ་༎	T02n1424u_001:198	 dattvārghaṃ mantraṃ saṃjaptaṃ candrādikusumānvitam ||89 ||
+T02D1865:72b-48	འཁོར་ལོ་དེ་འཁོར་ལོ་ལ་གཞུག་། མིག་དང་སྐུ་སོགས་བྱིན་གྱིས་བརླབ་༎ སྔོན་བཞིན་དབང་བསྐུར་དེ་ལ་བསམ་༎ རྒྱུ་མཐུན་ལ་སོགས་ཆེན་པོ་ཉིད་༎	T02n1424u_001:199	 cakre niveśya taccakraṃ cakṣuḥkāyādyadhiṣṭhitam |  prāgvasiktaṃ ca tad dhyāyānniṣyandādyadhimātrataḥ ||90 ||
+T02D1865:72b-6	བཛྲ་ར་ཏའིས་བྱང་ཤར་དུ་༎ བཏང་སྙོམས་ཡེ་ཤེས་ཏིང་འཛིན་སྩོལ་༎	T02n1424u_001:176	 vajraratīti caiśānyāmupekṣājñānasādhikā |
+T02D1865:72b-8	རང་གི་ངོ་བོར་རིན་དབང་འདྲ་༎ ཡིད་འོང་སྒྲོལ་མ་ཟླ་དཀྱིལ་བསམ་༎	T02n1424u_001:177	 ratneśavatsvarūpā syāccandre tārā manoramā ||79 ||
+T02D1865:73a-0	༄༧༣ཨ་༌་༎ སངས་རྒྱས་ཅོད་པན་མི་བསྐྱོད་པ་༎ ལྷག་མ་རང་བདག་དབང་བསྐུར་བ་༎	T02n1424u_001:201	 buddhānāṃ mukuṭo'kṣobhyaḥ śeṣāḥ svādhipasekinaḥ |
+T02D1865:73a-11	ཨཨོམ་སརྦ་ཏ་ཐའ་ག་ཏ་པའུ་ཛ་བཛྲ་སབ༹་བྷའ་ཝ་ཨའཏམ་ཀོ&ཨམཔ༏་ཧམ་།	T02n1424u_001:208	 om sarvatathāgatapūjāvajrasvabhāvātmako'ham |
+T02D1865:73a-12	ཆོས་རྣམས་ཀུན་གྱི་འཁོར་ལོ་བསྟོད་༎ རང་གི་བདག་ཉིད་རྫོགས་སངས་སྐུས་༎	T02n1424u_001:209	 sarvaḥ(rva)dharmaiḥ stuyāccakraṃ saṃbuddhasvātmamūrtibhiḥ |
+T02D1865:73a-14	ཡེ་ཤེས་ལྔ་དང་ཕྱག་རྒྱ་དང་༎ རིགས་བརྒྱ་ལྔ་དང་གསུམ་གྱིས་སོ་༎	T02n1424u_001:210	 pañcajñānāni mudrābhiḥ śatapañcakulaṃ trikam ||94 ||
+T02D1865:73a-15	མི་བསྐྱོད་རྡོ་རྗེ་ཡེ་ཤེས་ཆེ་༎ རྡོ་རྗེ་དབྱིངས་ནི་མཁའ་ཆེན་པོ་༎	T02n1424u_001:211	 akṣobhyavajra mahājñāna vajradhātu mahābudha |
+T02D1865:73a-17	དཀྱིལ་མཆོག་གསུམ་པ་ཡི་གེ་གསུམ་༎ རྡོ་རྗེ་དབྱངས་ལ་ཕྱག་འཚལ་ལོ་༎	T02n1424u_001:212	 trimaṇḍala trivajrāgra ghoṣavajra namo'stu te ||95 ||
+T02D1865:73a-19	རྣམ་པར་སྣང་མཛད་དག་པ་ཆེ་༎ རྡོ་རྗེ་ཞི་བ་དགའ་ཆེན་པོ་༎	T02n1424u_001:213	 vairocana mahāśuddha vajraśānta mahārate |
+T02D1865:73a-2	སྐུ་དབང་མི་བསྐྱོད་གསུང་དབང་པོ་༎	T02n1424u_001:202	 kāyeśākṣobhyavāgīśacitteśairdvāriṇo matāḥ ||91 ||
+T02D1865:73a-21	རང་བཞིན་འོད་གསལ་མཆོག་གི་མཆོག་། སྟོན་པ་རྡོ་རྗེ་ཕྱག་འཚལ་ལོ་༎	T02n1424u_001:214	 prakṛtiprabhāsvarāgrāgrya deśavajra namo'stu te ||96 ||
+T02D1865:73a-22	རིན་ཆེན་རྒྱལ་པོ་རབ་ཏུ་ཟབ་༎ རྡོ་རྗེ་ནམ་མཁའ་དྲི་མ་མེད་༎	T02n1424u_001:215	 ratnarāja sugāmbhīrya khavajrākāśanirmala |
+T02D1865:73a-24	རང་བཞིན་དག་པས་གོས་པ་མེད་༎ རྡོ་རྗེའི་སྐུ་ལ་ཕྱག་འཚལ་ལོ་༎	T02n1424u_001:216	 svabhāvaśuddha nirlepa kāyavajra namo'stu te ||97 ||
+T02D1865:73a-26	རྡོ་རྗེ་མི་འཆི་རྒྱལ་པོ་ཆེ་༎ མི་རྟོག་ནམ་མཁའ་རྡོ་རྗེ་འཛིན་༎	T02n1424u_001:217	 vajrāmṛtamahārāja nirvikalpa khavajradhṛk |
+T02D1865:73a-28	འདོད་ཆགས་ཕ་རོལ་ཕྱིན་པ་བརྙེས་༎ རྡོ་རྗེའི་གསུང་ལ་ཕྱག་འཚལ་ལོ་༎	T02n1424u_001:218	 rāgapāramitāprāpta bhāṣavajra namo'stu te ||98 ||
+T02D1865:73a-30	དོན་ཡོད་རྡོ་རྗེ་རྫོགས་སངས་རྒྱས་༎ བསམ་པ་ཐམས་ཅད་རྫོགས་མཛད་པ་༎ རང་བཞིན་དག་པ་ཉིད་ལས་བྱུང་༎ རྡོ་རྗེ་སེམས་དཔའ་ཕྱག་འཚལ་ལོ་༎	T02n1424u_001:219	 amoghavajrasaṃbuddha sarvāśāparipūraka |  śuddhasvabhāvasaṃbhūta vajrasattva namo'stu te ||99 ||
+T02D1865:73a-5	འོད་ཀྱིས་ཤེས་རབ་པད་དེར་གཞུག་། གཟུགས་སོགས་སྤུ་ཁུང་ལས་བྱུང་བའི་༎ གཟུགས་ཀྱི་རྡོ་རྗེ་སོགས་འོད་ནི་༎	T02n1424u_001:204	 rūpādyaṃ romakūpau(po)  tthaṃ rūpavajrādiraśmibhiḥ ||92 ||
+T02D1865:73a-7	གཞལ་ཡས་ཁང་འོད་ལས་འདས་ནས་༎ ནམ་མཁའི་མཐའ་ནི་རབ་ཁྱབ་པས་༎	T02n1424u_001:206	 kūṭāgāraprabhonmuktairgaganāntaḥprasarpibhiḥ |
+T02D1865:73a-9	ཐུབ་དབང་རང་ནི་ལེགས་མཆོད་པའི་༎ མཆོད་དང་མཆོད་པའི་བདག་ཅན་གྱུར་༎	T02n1424u_001:207	 saṃpūjya svaṃ munīndrāṃśca pūjyapūjātmako bhavet ||93 ||
+T02D1865:73b-13	བརྟན་པའི་མཚན་མ་མཐོང་བ་དང་༎ དེར་རྟོགས་འོད་ཟེར་སྤྲོ་བྱ་ཞིང་༎	T02n1424u_001:235	 dṛṣṭvā sthairyanimittaṃ tu spharaṇaṃ tadraśminimittaiḥ(rmitaiḥ) |
+T02D1865:73b-14	སྣ་ཚོགས་མཚན་མ་སངས་རྒྱས་ནི་༎ ཡང་དང་ཡང་དུ་སྤྲོ་བར་བྱ་༎	T02n1424u_001:236	 buddhairnānāvidhaiścihnairvidadhīta punaḥ punaḥ ||107 ||
+T02D1865:73b-16	སྐུ་གསུང་ཐུགས་ཀྱི་རྡོ་རྗེ་མཆོག་། ཡེ་ཤེས་ལྔ་ཡི་འོད་ཟེར་ཅན་༎	T02n1424u_001:237	 kāyavākcittasadvajrāt pañca sajñānaraśmikam |
+T02D1865:73b-17	སྤྲོས་ཏེ་སྔགས་ནི་བཟླ་བྱ་བ་༎ ཅིག་ཅར་ཡང་ན་རིམ་གྱིས་སོ་༎	T02n1424u_001:238	 spharanmantraṃ japaṃ kuryād yugapat kramaśo'thavā ||108 ||
+T02D1865:73b-19	རྡོ་རྗེ་གསལ་ཆོས་འཁོར་ལོ་སྟེ་༎ སྐུ་གསུང་ཐུགས་ཀྱི་རྡོ་རྗེར་གཏོགས་༎	T02n1424u_001:239	 vajrācchadharma taccakraṃ kāyavākcittavajragam |
+T02D1865:73b-21	གནས་སུ་དེ་ནི་བརྟན་བྱས་ལ་༎ ཡེ་ཤེས་སྐུ་ནི་སྤྲོ་ཞིང་བཟླ་༎ བརྗོད་ཅིང་སྲོག་གིས་སྤྲོ་བྱ་ཞིང་༎ སྔགས་ནི་རྩོལ་བས་བསྡུ་བར་བྱ་༎	T02n1424u_001:240	 nilayanaṃ dṛḍhīkurvañjñānakāyaṃ spharañjapet ||109 ||  uccārayetspharanprāṇairmantramāyāmasaṃhṛtam |
+T02D1865:73b-25	སྐུ་སོགས་སྤྲོ་དང་བསྡུས་པ་ཡིས་༎ རིམ་བཞིན་རིམ་བཞིན་བཟླས་བརྗོད་བྱ་༎ དེ་ལྟར་བརྗོད་དེ་མཁའ་ཁྱབ་པའི་༎ སྐུ་ལ་སོགས་ཏེ་རང་འོད་ཀྱིས་༎	T02n1424u_001:242	 kāyādisphārasaṃhāraiḥ kuryājjāpaṃ yathākramam ||110 ||  uccāryaivaṃ viyad vyāpya kāyādyaistaiḥ svaraśmibhiḥ |
+T02D1865:73b-29	སྔོན་བཞིན་སྣ་ཚོགས་མཆོད་མཆོག་འོས་༎	T02n1424u_001:244	 prāgvatsaccitrapūjārhaṃ prāṇādvidyaughamutsṛjan ||111 ||
+T02D1865:73b-30	སྲོག་ལས་རིག་པའི་ཚོགས་རྣམས་སྤྲོ་༎ རིག་པ་སྒེག་པས་ཡོངས་འཁྱུད་པའི་༎ བདེ་བ་བབས་པས་དབང་བྱས་པའི་༎	T02n1424u_001:245	 parigūḍhollasadvidyāsukhāveśavaśīkṛtam |
+T02D1865:73b-34	མཐར་ནི་རང་གི་ནང་ལ་གཞུག་། ཐིག་ལེ་ཕྲ་མོ་གསང་གསུམ་དབྱུང་༎ ལྷག་མར་མོས་པ་རྒྱུ་མཐུན་སོགས་༎ ཆུང་ངུ་ལ་སོགས་ཀྱིས་ཕྱེ་ལྟར་༎ རྣལ་འབྱོར་བསྙེན་སོགས་དེ་བཞིན་བསྒོམ་༎	T02n1424u_001:247	 nabuddhaughaṃ svātmanyante niveśayet ||112 ||  viṣyandādyadhimokṣaiśca bindusūkṣmatriguhyajāḥ |  dhyeyā mṛdvādibhirbhedairyogāḥ sevādivattathā ||113 ||
+T02D1865:73b-38	རང་སྙིང་དེ་ཉིད་མཆོག་བརྟགས་པས་༎	T02n1424u_001:250	 svahṛttattvaparāmarṣā(rśā)
+T02D1865:73b-39	སེམས་ཀྱི་འཇུག་པ་ཞུམ་གྱུར་ན་༎	T02n1424u_001:251	 tparīttacittasaṃsṛteḥ |
+T02D1865:73b-40	སྤྱན་སོགས་ཚོགས་ཀྱི་གླུ་ཡིས་ནི་༎ འཁོར་ལོ་གསོལ་བཏབ་མཆོད་པར་བྱ་༎	T02n1424u_001:252	 locanādigaṇodgītaiścakramabhyarcya pūjayet ||114 ||
+T02D1865:73b-42	སྤྱི་བོར་ཟླ་བ་ཨཨོམ་རླན་ཅན་༎ དམ་པའི་སེམས་ཀྱི་ཆུ་འཛག་པས་༎ སྐུ་གསུང་ཐུགས་ནི་ཚིམ་བྱེད་པ་༎ ཆོ་ག་བཞིན་དུ་དབབ་པར་བྱ་༎	T02n1424u_001:253	 mūrdhnīndupraṇavārdrāṃ tu saccittavārivāhinīm |  vidhivatpātayankuryātkāyavākcittaprīṇanam ||115 ||
+T02D1865:73b-46	དེ་ལྟར་ངལ་བསོ་བཟླས་བྱས་ཤིང་༎ མཁས་པས་མཆོད་ལ་སོགས་བྱས་ནས་༎	T02n1424u_001:255	 viśramyaivaḥ japaṃ kṛtvā kṛtapūjādiko budhaḥ |
+T02D1865:73b-48	དེ་ཉིད་གསུམ་བསྡུས་སངས་རྒྱས་རྣམས་༎ བཞུད་པའི་སྐབས་སུ་གཤེགས་སུ་གསོལ་༎	T02n1424u_001:256	 tritattavasaṃhṛtā nbuddhāngatasaṅgo visarjayet ||116 ||
+T02D1865:73b-50	འདི་ནི་དེ་ཉིད་མཐོང་བར་བཤད་༎ ལུས་བལྟས་ནས་ཀྱང་༎	T02n1424u_001:257	 evaṃ tattvadṛśāmuktaṃ jagatkṛtsnaṃ vilokya ca |
+T02D1865:74a-16	། རང་གི་ལོག་རྟོག་རྣམ་སྤངས་པས་༎ བྱ་བ་ཐམས་ཅད་རྫོགས་པར་བྱ་༎	T02n1424u_001:265	 sarvaṃ sampādayetkṛtyaṃ svāsatsaṅkalpavarjitaḥ |
+T02D1865:74a-18	རྟག་ཏུ་ཚད་མེད་རབ་སྦྱོར་བས་༎ འཁོར་ལོ་མཆོག་འདི་མཐའ་ཡས་མཆོད་༎	T02n1424u_001:266	 saccakrānanta pūjeya sadāmeyāśca yoginaḥ ||121 ||
+T02D1865:74a-2	སྙིང་རྗེས་དེ་ལ་ཕན་པའི་ཕྱིར་༎ སྨོན་ལམ་རྣམས་ནི་མངོན་དུ་བྱ་༎	T02n1424u_001:258	 praṇidhimā mukhīkuryātkṛpayā taddhitāya tu ||117 ||
+T02D1865:74a-20	རང་སྙིང་ཟླ་བར་རང་འཁོར་གཙོ་༎ རང་གིས་བོན་རང་ཟས་ལ་༎	T02n1424u_001:267	 svahṛccandre svacakreśaṃ nijabījaiḥ svabhojanam |
+T02D1865:74a-22	ལེགས་དམིགས་རང་སྙིང་དེ་ཉིད་ཀྱིས་༎ བདུད་རྩིས་སངས་རྒྱས་ཀུན་ཚིམ་བྱ་༎	T02n1424u_001:268	 samālambya svahṛttattvaiḥ sarvabuddhāmṛtāyitam ||122 ||
+T02D1865:74a-24	ཆོས་ཉིད་ཀུན་གྱིས་དག་པ་དང་༎ དེ་ཉིད་གསུམ་གྱིས་མངོན་བཟླས་ལ་༎ རང་གི་ལྷ་ཡི་འཁོར་ལོ་མཆོག་། ཚིམ་བྱ་དེས་ནི་མཆོད་པར་བྱ་༎	T02n1424u_001:269	 sarvadharmatayā śuddhaṃ tritattvairabhimantritam |  svādhidaivatasaccakraṃ prīṇayaṃstena pūjayet ||123 ||
+T02D1865:74a-26	ཕྱི་ཡི་སྦྱིན་སྲེག་དགེ་ཚུལ་གྱི་༎ སེམས་ཙམ་གྱིས་ནི་ཡིད་ཀྱིས་བྱ་༎	T02n1424u_001:271	 homo bāhyo'numeyo'yaṃ cittamātrānmanomayaḥ |
+T02D1865:74a-28	ཡེ་ཤེས་མེ་ཡིས་ཕུང་པོའི་ཤིང་༎ བསྲེགས་པས་འདི་ནི་བླ་མེད་ཡིན་༎	T02n1424u_001:272	 anuttarastvayaṃ jñānāgniskandhendhanadāhataḥ ||124 ||
+T02D1865:74a-30	དེ་ལྟར་འདོད་པ་མ་ལུས་པས་༎ བདག་ཉིད་རང་ལྷའི་དངོས་གྱུར་དང་༎ གཞན་ཡང་དེ་མཆོད་བྱ་བ་ཡིན་༎	T02n1424u_001:273	 kāmairevaṃ samastaiḥ svasvadevātmasvabhāvajam |
+T02D1865:74a-32	དམ་ཚིག་བདེ་གཤེགས་བཞེད་པ་ཡིན་༎	T02n1424u_001:274	 parāṃśca pūjayedevaṃ samayaḥ sugatairmataḥ ||125 ||
+T02D1865:74a-33	ལུས་སོགས་ལས་གང་དེ་དང་དེས་༎ སངས་རྒྱས་ཐམས་ཅད་མཆོད་པ་དང་༎ རྗེས་མཐུན་འགྲོ་བའི་བྱ་བ་རྣམས་༎	T02n1424u_001:275	 tattatkāyādi yatkarma sarvabuddhāṃstu pūjayan |
+T02D1865:74a-35	རྟག་ཏུ་མཉམ་པར་གཞག་པས་བྱ་༎	T02n1424u_001:276	 anurūpaṃ jagatkāryaṃ kuryānnityaṃ samāhitaḥ ||126 ||
+T02D1865:74a-36	ལུས་ངག་ལས་ཀྱི་རང་བཞིན་གང་༎ ཕྱག་རྒྱ་སྔགས་ཀྱི་བདག་ཉིད་ཆེ་༎	T02n1424u_001:277	 yatkāyavāṅmayaṃ karma mudrāmantrātmakaṃ mahat |
+T02D1865:74a-38	དེ་དང་དེ་ཡི་ལས་སྒྲུབ་པས་༎ སངས་རྒྱས་ཐམས་ཅད་མཆོད་པར་བྱ་༎	T02n1424u_001:278	 tattatkarma samāsādya sarvabuddhāṃstu pūjayet ||127 ||
+T02D1865:74a-4	ཏིང་ངེ་འཛིན་ལས་ལངས་ནས་ཀྱང་༎ བདག་པོའི་ང་རྒྱལ་མངོན་དུ་བྱ་༎	T02n1424u_001:259	 samādhitaḥ samutthāya garvaṃ patyuḥ samudvahan |
+T02D1865:74a-40	དངོས་གཅིག་ལ་ཡང་ཀུན་རྟོག་པ་༎ རྣམ་པ་སྣ་ཚོགས་སྣང་གྱུར་ཏེ་༎	T02n1424u_001:279	 vastunyekatra saṃkalpā nānākārāvabhāsinaḥ |
+T02D1865:74a-42	གྲོལ་དང་སྡུག་བསྔལ་བདེ་བསྐྱེད་པའི་༎ ལས་ནི་མ་ལུས་འབྱུང་བར་འགྱུར་༎	T02n1424u_001:280	 muktiduḥkhasukhotpādāḥ karmāśeṣā bhavanti yat ||128 ||
+T02D1865:74a-44	དེ་བས་ལུས་ལ་སོགས་པའི་ལས་༎ དགེ་དང་མི་དགེ་རྟོག་ལས་བྱུང་༎	T02n1424u_001:281	 tasmācchubhāśubhaṃ karma kāyādyaṃ kalpanodbhavam |
+T02D1865:74a-6	འཇུག་པར་རྟོགས་ཆོ་རྫོགས་སངས་རྒྱས་༎ ཡུལ་གྱིས་ཡང་དག་མཆོད་པར་བྱ་༎	T02n1424u_001:260	 cāragatastu sambuddhaviṣayaiḥ saṃprapūjayet ||118 ||
+T02D1865:74a-8	འཇམ་དཔལ་རྡོ་རྗེ་ཀུན་བདག་ཉིད་༎	T02n1424u_001:261	 śrīmañjuvajrasarvātmān svabhāva viṣayānugān |
+T02D1865:74b-22	ཡང་དག་ཡེ་ཤེས་དབང་ཐོབ་བསྒོམ་༎	T02n1424u_001:294	 prāptajñānavaśī kiñcidaniśaṃ yogamāśrayet ||135 ||
+T02D1865:74b-23	ཁམས་ཀྱི་རྡུལ་ནང་ཁམས་གསུམ་མཆོག་། གཟུགས་བརྙན་བདག་ཉིད་སྐུ་ཅན་གྱི་༎ འགྲོ་བའི་དོན་གྱི་བྱ་བ་བྱེད་༎	T02n1424u_001:295	 samyagjñānavaśī dhyāyan kuryātkāryaṃ jagaddhitam |  dhātvaṇvantastrisaccakraiḥ pratibimbātmamūrtibhiḥ ||136 ||
+T02D1865:74b-25	རྣལ་འབྱོར་མཚན་མ་དགེ་བ་ཡང་༎ དུ་མ་ཐོབ་ཅིང་ཡང་དག་འགྲུབ་༎	T02n1424u_001:297	 saṃsiddhāvasakṛllabdhvā yogī nimittameva tu |
+T02D1865:74b-27	དེ་ཉིད་གསུམ་ནི་ཆོ་ག་བཞིན་༎ མཆོད་བྱས་དཀྱིལ་འཁོར་བྲི་བར་བྱ་༎	T02n1424u_001:298	 tritattvāṃ vidhivatpūjāṃ kṛtvā maṇḍalamālikhet ||137 ||
+T02D1865:74b-29	རང་ངམ་གཞན་གྱིས་གསོལ་བཏབ་བམ་༎ གཞན་དོན་འབད་པར་བྱེད་པས་ཀྱང་༎ འཁོར་ལོ་ལ་གནས་ཚུལ་བཞིན་བཟླས་༎	T02n1424u_001:299	 cakrastho vidhivajjaptvā svayaṃ vādhyeṣito'pi vā |
+T02D1865:74b-32	མཚན་མ་ཐོབ་ནས་ཡང་དག་བྲི་༎	T02n1424u_001:300	 parārthaṃ ghaṭamāno'pi nimittaṃ prāpya saṃlikhet ||138 ||
+T02D1865:74b-33	འཁོར་ལོ་ཅན་སྔགས་འབུམ་བཟླས་སམ་༎ ཡང་ན་རང་གི་ལྷ་ཡི་འབུམ་༎ གཞན་གྱི་ཁྲི་སྟེ་ཡང་ན་ནི་༎	T02n1424u_001:301	 cakrimantraṃ japellakṣaṃ lakṣaṃ vā svādhidaivatam |
+T02D1865:74b-36	འཁོར་ལོ་ཅན་གྱི་བཀས་གནང་བྲི་༎	T02n1424u_001:302	 anyeṣāmayutaṃ samyak cakriṇāṃ vā'jñayā likhet ||139 ||
+T02D1865:74b-37	འབྱིན་པ་དེ་ཉིད་གསུམ་དང་སྤེལ་༎ གཞན་དག་སྙིང་པོའི་ས་བོན་སྤེལ་༎ མིང་གི་ཡི་གེ་དང་པོ་ནི་༎ ཀླད་ཀོར་བཅས་པས་སྔགས་རྣམས་བཏུ་༎ སྐུ་དང་གསུང་ཐུགས་རྡོ་རྗེར་བཤད་༎	T02n1424u_001:303	 tritattvairgarbhitotsargānanyān hṛdbījagarbhitān |  sānusvārādyavarṇāṃstu nāmno mantrān samuddharet ||140 ||
+T02D1865:74b-42	ལས་ཆོས་ཆེན་པོའི་བདག་ཉིད་ཅན་༎ གསང་གསུམ་དམ་ཚིག་ཕྱག་རྒྱ་ཡིན་༎ ས་བོན་སྙིང་པོ་ཡིན་པར་བཤད་༎	T02n1424u_001:305	 kāyavākcittaguhyākhyā karmadharmamahātmikā |  triguhyā samayā mudrā bījaṃ hṛdayamucyate ||141 ||
+T02D1865:74b-48	མཁས་པས་དེ་རྣམས་ཀུན་དུ་བཟླ་༎	T02n1424u_001:308	 mālāmantrāśca vidyoktā[ḥ] sarvathā tā japedbudhaḥ ||142 ||
+T02D1865:75a-0	ཅི་རིགས་པར་ནི་བཟླས་བྱས་དང་༎ རང་བདག་ལ་སོགས་བཀའ་༄༧༥ཨ་༌་༎ ཐོབ་བམ་༎ འགོག་པའི་འཁོར་ལོ་གོམས་པ་ཡིས་༎	T02n1424u_001:309	 yathāyogaṃ japaṃ kṛtvā labdhvājñāṃ svādhipāditaḥ |
+T02D1865:75a-11	འཇམ་རྡོ་རྗེ་བདག་རྣལ་འབྱོར་ལྡན་༎ སྔོན་དུ་བསྙེན་པ་རྫོགས་བྱས་ལ་༎	T02n1424u_001:315	 ācīrṇapūrvasaṃsevo mañjuvajrātmayogavān |
+T02D1865:75a-13	གྲོགས་དང་མཆོད་པ་དང་ལྡན་པར༎ དཀྱིལ་འཁོར་གནས་ནི་ཡང་དག་སྦྱང་༎	T02n1424u_001:316	 saṃskṛtya maṇḍalasthānaṃ sahāyaiḥ pūjayānvitaḥ ||146 ||
+T02D1865:75a-15	བགེགས་དགྲའི་འཁོར་ལོའི་སྦྱོར་ལ་གནས་༎ རང་གི་དབང་བསྐུར་ཡང་དག་བླང་༎ དེ་ལྟར་གདུག་པ་ཚར་གཅད་པ་༎ ཡང་ན་རང་ལྷའི་སྦྱོར་བས་བྱ་༎	T02n1424u_001:317	 vighnāricakrayogasthaḥ svābhiṣekaṃ samādadet |  duṣṭānnikṛntayedevaṃ yogādvā svādhidaivatāt ||147 ||
+T02D1865:75a-19	ཨཨོམ་བྷུ་ཁམ་གི་སྔགས་ཀྱིས་ནི་༎ ས་ནི་ནམ་མཁར་གྱུར་པར་བྱ་༎	T02n1424u_001:319	 om bhūḥ khamiti mantreṇa viyadbhūtāṃ vasundharām |
+T02D1865:75a-2	རང་སེམས་དག་ནས་བྲི་བར་བྱ་༎	T02n1424u_001:310	 nirodhacakramābhujya svacittaśuddhito likhet ||143 ||
+T02D1865:75a-21	ཧའུམ་ལམ་ཧའུམ་གིས་རྡོ་རྗེའི་བདག་། ས་བྱས་དེ་ནི་བྱིན་གྱིས་བརླབ་༎	T02n1424u_001:320	 hū la hū iti vajrātmakṣmāṃ kṛtvā tāmadhiṣṭhayet ||148 ||
+T02D1865:75a-22	ཨཨོམ་མེ་དི་ནའི་བཛྲའི་བྷ་བ་བཛྲ་བནདྷ་ཧའུམ་།	T02n1424u_001:321	 om medini vajrībhava vajrabandha hū |
+T02D1865:75a-23	སྔར་བཞིན་བགེགས་གཞོམ་སྦྱོར་བའི་བདག་། བསྙེན་སོགས་རྗེས་ཆགས་མཐར་ཐུག་པའི་༎	T02n1424u_001:322	 prāgvadvighnaghnayogātmā sevādyantānurāgaṇaḥ |
+T02D1865:75a-24	དང་པོའི་སྦྱོར་ལྡན་རང་འཁོར་ལོ་འང་༎ རང་བྱུང་བདུད་རྩིའི་མཐར་ཐུག་དེ་༎	T02n1424u_001:323	 ādiyogī svacakraṃ tu protsṛjyāttāmṛtaśca saḥ ||149 ||
+T02D1865:75a-26	འཁོར་ལོའི་རྒྱལ་མཆོག་སྦྱོར་བའི་བདག་།འཁོར་ལོའི་ལས་ནི་ལས་མཆོག་བྱེད་༎ ལས་རྒྱལ་མཆོག་གི་སྦྱོར་ལྡན་པས་༎	T02n1424u_001:324	 cakrarājāgriyogātmā cakrakarma sukarmakṛt |
+T02D1865:75a-28	ཏིང་འཛིན་གསུམ་པོ་དམ་པ་ཡིན་༎	T02n1424u_001:325	 karmarājāgriyogīti samādhitrayamuttamam ||150 ||
+T02D1865:75a-29	དེ་ལྟའི་སྦྱོར་གནས་སློབ་དཔོན་ནི་༎ སངས་རྒྱས་ཀུན་བདག་ལུས་ཅན་ཏེ་༎	T02n1424u_001:326	 etadyogastha ācāryaḥ sarvabuddhātmamūrtikaḥ |
+T02D1865:75a-3	ཏིང་འཛིན་གསུམ་པོ་བྱས་ནས་ནི་༎ སངས་རྒྱས་ལ་སོགས་ལྷག་གནས་བྱ་༎ བགེགས་རྣམས་བསལ་ཏེ་ཕུར་བུས་གདབ་༎ བསང་བྱུགས་ས་ལ་གསོལ་བ་གདབ་།	T02n1424u_001:311	 vighnānutsārya saṃkīlyābhyukṣya kṣmāṃ prārthya yācayet |  samādhitritayaṃ kṛtvā buddhādīnadhivāsya ca ||144 ||
+T02D1865:75a-31	ངོ་བོ་ཉིད་བདག་རྡོ་རྗེའི་བདག་།འཁོར་ལོའི་ས་གཞི་དབུས་ལེགས་གནས་༎	T02n1424u_001:327	 svabhāvaśuddhavajrātmā cakrabhūmadhyasaṃsthitaḥ ||151 ||
+T02D1865:75a-32	རྡོ་རྗེ་དྲིལ་འཛིན་དཔའ་བོ་ལ་༎ རྡོ་རྗེ་དྲིལ་མཆོག་འཛིན་པའི་གྲོགས་༎	T02n1424u_001:328	 vajraghaṇṭādharo vīro'dhyeṣyastricakranirmitau |
+T02D1865:75a-7	མཆོད་ཡོན་མཆོད་དང་གཏོར་སྦྱིན་ནས་༎ སྦྱིན་སྲེག་ཚིམ་བྱས་མཁའ་ལ་དགོད་༎ བགེགས་མེད་ས་ནི་བརྐོས་ནས་སུ་༎ ཁུང་བུ་དགང་བའང་རིམ་འདི་ཡིན་༎	T02n1424u_001:313	 datvā balyarghamāpūjya homairāpyāyya khe nyaset |  khānayet kṣmāṃ sunirvighnāṃ garttāpūre'pyayaṃ kramaḥ ||145 ||
+T02D1865:75b-10	ཡི་གེ་མ་ཏས་ཉི་ཟླའི་མིག་། ཕྱོགས་དུས་ཐམས་ཅད་སྦར་བ་དང་༎ བློ་ལྡན་འགྲོ་ལ་བལྟས་ནས་ནི་༎	T02n1424u_001:342	 maṭkāracandrasūryākṣaḥ sarvādhvadikṣu dīpayan |
+T02D1865:75b-11	འཁོར་ལོའི་ས་ནི་ཡོངས་སུ་བསྐོར་༎	T02n1424u_001:343	 jagadālokayandhīmāṃścakrabhūmau parikramet ||158 ||
+T02D1865:75b-12	རྐང་འོག་རྡོ་རྗེ་འབར་བ་དང་༎ རྡོ་རྗེ་གསོར་བར་ཤིན་ཏུ་བརྩོན་༎ རོལ་པའི་རྡོ་རྗེ་འགྲོས་ཀྱི་གར་༎ མཆེ་བ་གཙིགས་བཅས་ཧའུམ་སྒྲོགས་ཤིང་༎	T02n1424u_001:344	 pādatalajvaladvajro vajrollālanatatparaḥ |  līlāvajrapadaṃ nṛtyan sadaṃṣṭrotkaṭahūkṛtaḥ ||159 ||
+T02D1865:75b-15	ལྷ་སོགས་བགེགས་ཀྱི་དཀྱིལ་འཁོར་རྣམས་༎ རབ་གདུག་བགེགས་སོགས་བསྐྲད་པར་བྱ་༎	T02n1424u_001:346	 protsārayetpraduṣṭaughān devādyānvighnamaṇḍalān |
+T02D1865:75b-17	ལུས་ངག་སེམས་ལ་གནས་པ་ཡི་༎ ང་ནི་དཔལ་ལྡན་འཇམ་དབྱངས་ཏེ་༎	T02n1424u_001:347	 śrṛṇvantu sarvavighnaughāḥ kāyavākcittasaṃsthitāḥ ||160 ||
+T02D1865:75b-22	རྡོ་རྗེ་འབར་བའི་གཟུགས་ལྡན་པས་༎ སྐུ་གསུམ་འབྱུང་བས་དགས་བྱ་སྟེ་༎	T02n1424u_001:349	 vajreṇādīptavapuṣā sphālayāmi trikāyajān ||161 ||
+T02D1865:75b-25	ས་ནི་ཡོངས་སུ་གཟུང་བྱས་ནས་༎ བགེགས་མེད་ཕྱིར་ནི་ཕུར་བུ་གདབ་༎	T02n1424u_001:351	 bhūmeḥ parigrahaṃ kṛtvā nirvighnāya prakīlayet ||162 ||
+T02D1865:75b-27	སྔགས་ལ་། ཨཨོམ་གྷ་གྷ་། གྷའ་ཏ་ཡ་གྷའ་ཏ་ཡ་༎ སརྦ་དུཤཏའ་ན་ཕཏ་། ཀའི་ལ་ཡ་ཀའི་ལ་ཡ་སརྦ་པའ་བམ་ཕཏ་ཕཏ་ཧའུམ་ཧའུམ་ཧའུམ་བཛྲ་ཀའི་ལ་ཡ་བཛྲ་དྷ་རོ་ཨའཛཉའ་པ་ཡ་ཏི་། ཀའ་ཡ་བའཀ་ཙིཏཏ་བཛྲ་ཀའི་ལ་ཡ་ཧའུམ་ཕཏ་།	T02n1424u_001:352	 om gha gha ghātaya ghātaya sarvaduṣṭān phaṭ kīlaya kīlaya sarvapāpān phaṭ hū hū hū vajra kīla[ya] vajradhara ājñāpayati kāyavākcittavajra kīlaya hū phaṭ |
+T02D1865:75b-32	སྨད་དུ་རྩེ་གཅིག་སྟོད་བགེགས་དགྲ་༎ བསམ་ནས་དབུས་སུ་ཕུར་བུས་གདབ་༎	T02n1424u_001:353	 adhaḥ śūlordhvavighnāriṃ dhiyā madhye prakīlayet |
+T02D1865:75b-34	ཕྱོགས་བཅུ་ཀུན་དུ་གནས་པ་ཡི་༎ བགེགས་ཚོགས་ཐམས་ཅད་གཞོམ་པར་བྱ་༎	T02n1424u_001:354	 vighnaughān ghātayet sarvān daśadiksaṃvyavasthitān ||163 ||
+T02D1865:75b-36	ས་ནི་ཀུན་དུ་བགེགས་བྲལ་ཞིང་༎ འབར་བའི་ཟེར་རྣོས་ཁྱབ་བསམས་ལ་༎ མཚམས་དང་ར་བ་ཕྱོགས་བཅིང་བ་༎ བློས་བྱས་ནས་ནི་ལྷག་གནས་བྱ་༎	T02n1424u_001:355	 saṃvīkṣya kṣmāṃ sunirvighnāṃ tīkṣṇajvālākulaprabhām |  sīmāprākāradigbandhān dhiyā kṛtvādhivāsayet ||164 ||
+T02D1865:75b-40	སྐྱོབ་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་༎ སྤྱོད་པའི་ཚུལ་གྱི་ཁྱད་པར་དང་༎ ས་དང་ཕ་རོལ་ཕྱིན་པ་ལ་༎	T02n1424u_001:357	 tvaṃ devi sākṣibhūtāsi sarvabuddhān(nāṃ)tāyinām |  caryānayaviśeṣeṣu bhūmipāramitāsu ca ||165 ||
+T02D1865:75b-43	ཤའཀྱ་སེང་གེ་སྐྱོབ་པ་ཡིས་༎ ཇི་ལྟར་བདུད་ཀྱི་སྡེ་བཅོམ་པ་༎	T02n1424u_001:359	 yathā mārabalaṃ bhagnaṃ śākyasiṃghe(he)na tāyinā |
+T02D1865:75b-45	དེ་བཞིན་བདག་གིས་བདུད་ཀྱི་སྡེ་། ༄༧༦ཨ་༌་༎ ཕམ་པར་བྱས་ཏེ་དཀྱིལ་འཁོར་བྲི་༎	T02n1424u_001:360	 tathā mārabalaṃ jitvā maṇḍalaṃ lelikhāmyaham ||166 ||
+T02D1865:76a-1	ས་གཞི་དྲི་ཞིམ་སོགས་བྱུགས་ཤིང་༎ མེ་ཏོག་སྣ་ཚོགས་སིལ་མ་དགྲམ་༎	T02n1424u_001:361	 kṣmāṃ saṃlipya sugandhādyaiścitraiḥ puṣpaiḥ prakīrya ca |
+T02D1865:76a-13	འབྲུ་སྨན་རིན་ཆན་ལྔ་རྣམས་དང་༎ དྲི་བཟངས་ཆུ་དང་འཁོར་ལོའི་ཚོགས་༎	T02n1424u_001:368	 pañcavrīhyauṣadhīratnagandhāmbucakrasaṃcayam |
+T02D1865:76a-14	མེ་ཏོག་ཕྲེང་བཏགས་རྡོ་རྗེ་ནི་༎	T02n1424u_001:369	 stragbaddhavajramūrdhnānaṃ cakreśena jayaṃ japet ||170 ||
+T02D1865:76a-15	སྟེང་བཞག་འཁོར་ལོའི་གཙོ་རྒྱལ་ལ་༎ མཆོད་ཡོན་ཕུལ་ཏེ་ཡང་དག་མཆོད་༎ མེ་ཏོག་དཀར་པོ་གཞུག་པར་བྱ་༎ དེར་ནི་སྤོས་སོགས་དྲིས་བསྒོས་པའི་༎	T02n1424u_001:370	 arghaṃ datvā samāpūjya prakṣipya sitapuṣpakam |
+T02D1865:76a-19	པད་སྣོད་དྲི་བཟངས་སོགས་ལྡན་བྱ་༎	T02n1424u_001:371	 dhūpādhivāsitaṃ tatra sadgandhādyabjabhājanam ||171 ||
+T02D1865:76a-20	ཉིན་རེ་བཞིན་དུ་ཐུན་གསུམ་དུ་༎ གཏོར་མ་བྱིན་ལ་དེ་བཞིན་བཟླ་༎	T02n1424u_001:372	 pratidinaṃ trisandhyāsu baliṃ datvā tathā japet |
+T02D1865:76a-22	དེ་ཡང་འཁོར་ལོའི་ཕྱི་མཚམས་སུ་༎ རྣམ་རྒྱལ་འཁོར་གཙོའི་ག-ཡས་སུའོ་༎	T02n1424u_001:373	 te ca cakrabahiṣkoṇe jayaścakreśasavyataḥ ||172 ||
+T02D1865:76a-24	དེ་ལས་མཆོད་ཡོན་སྣོད་དུ་ཆུ་༎	T02n1424u_001:374	 tebhyo'rghabhājane toyaṃ kṣiptvā tenābhiṣecanāt |
+T02D1865:76a-25	བཅུག་ནས་དེ་ཡིས་དབང་བསྐུར་ན་༎ ཆུ་ཡི་དབང་གིས་བསྐུར་བར་འགྱུར་༎	T02n1424u_001:375	 ātmanaḥ sarvaśiṣyāṇāṃ jalābhiṣecanaṃ bhavet ||173 ||
+T02D1865:76a-28	སླར་ཡང་འཁོར་ལོ་མཆོད་བྱས་ལ་༎ ལག་པར་བདུག་སྤོས་ཐོགས་ནས་ནི་༎	T02n1424u_001:376	 cakrapūjāṃ punaḥ kṛtvā dhūpamutkṣipya pāṇinā |
+T02D1865:76a-3	ཟླ་སོགས་འཁོར་ལོ་ཅན་གནས་སུ་༎ མཁས་པས་དཀྱིལ་འཁོར་རབ་ཏུ་བྱ་༎	T02n1424u_001:362	 candrādyaiścakriṇāṃ sthāne prakuryānmaṇḍalaṃ budhaḥ ||167 ||
+T02D1865:76a-30	བློ་ལྡན་པུས་བཙུགས་འཁོར་ལོའི་གཙོ་༎ བདེ་གཤེགས་རྣམས་ལ་གསོལ་བ་གདབ་༎	T02n1424u_001:377	 cakreśaṃ prārthayeddhīmānbuddhāṃśca jānusaṃsthitaḥ ||174 ||
+T02D1865:76a-32	བཅོམ་ལྡན་འཇམ་པའི་རྡོ་རྗེ་མཆོག་། རིག་སྔགས་རྒྱལ་ལ་ཕྱག་འཚལ་ལོ་༎	T02n1424u_001:378	 bhagavā(va)n mañjusadvajra vidyārāja namo'stu te |
+T02D1865:76a-33	སློབ་མ་རྣམས་ལ་བརྩེ་བ་དང་༎ ཁྱེད་ཅག་རྣམས་ལ་མཆོད་པའི་ཕྱིར་༎ དཀྱིལ་འཁོར་བདག་ནི་འདྲི་བར་འཚལ་༎	T02n1424u_001:379	 icchāmi likhituṃ nātha maṇḍalaṃ karuṇātmakam ||175 ||  śiṣyāṇāmanukampāyai yuṣmākaṃ pūjanāya ca |
+T02D1865:76a-36	བཅོམ་ལྡན་བདག་ནི་གུས་པ་ལ་༎	T02n1424u_001:381	 tanme bhaktasya bhagavan prasādaṃ kartumarhasi ||176 ||
+T02D1865:76a-38	སངས་རྒྱས་འགྲོ་འཁོར་བྱ་དོན་སྩོལ་༎	T02n1424u_001:382	 samanvāharantu māṃ buddhā jagaccakrakriyārthadāḥ |
+T02D1865:76a-39	བྱང་ཆུབ་སེམས་དཔའ་འབྲས་གནས་དང་༎ གང་གཞན་གསང་སྔགས་ལྷ་རྣམས་དང་༎ འཇིག་རྟེན་སྐྱོང་བའི་ལྷ་རྣམས་དང་༎ གང་ཡང་འབྱུང་པོ་མཐུ་ཆེན་དང་༎ གང་ཡང་ལྷ་ཡི་སྤྱན་མངའ་བའི་༎	T02n1424u_001:383	 phalasthā bodhisattvāśca yāścānyā mantradevatāḥ ||177 ||  devatālokapālāśca bhūtāḥ saṃbodhiśāsitāḥ |
+T02D1865:76a-40	སེམས་ཅན་བསྟན་ལ་དགའ་བ་རྣམས་༎	T02n1424u_001:385	 śāsanābhiratāḥ sattvā ye kecidvajracakṣuṣaḥ ||178 ||
+T02D1865:76a-41	བདག་ལ་དགོངས་པར་མཛད་དུ་གསོལ་༎ བདག་༄༧༦བ་མིང་འདི་ཞེས་བགྱི་བ་ཡིས་༎ དཀྱིལ་འཁོར་འཇམ་དཔལ་འབྱུང་བ་ནི་༎ འགྲོ་བ་དག་པར་བྱ་བའི་ཕྱིར་༎ ཡོ་བྱད་ཅི་འབྱོར་པས་འདྲི་ན་༎	T02n1424u_001:386	 amuko'haṃ mahāvajrī mañjuśryudayamaṇḍalam |  likhiṣyāmi jagacchuddhyai yathāśaktyupacārataḥ ||179 ||
+T02D1865:76a-5	དེ་ལ་འཁོར་ལོ་སྤྱན་དྲང་བ་༎	T02n1424u_001:363	 tatrāvāhya tu sa ca(cca)
+T02D1865:76a-6	བྱས་ནས་མཚམས་ལ་སོགས་བཅིངས་ཏེ་༎	T02n1424u_001:364	 kraṃ kṛtvā sīmādibandhanam |
+T02D1865:76a-7	མཆོད་བསྟོད་བདུད་རྩི་མྱང་བྱས་ནས་༎	T02n1424u_001:365	 pūjāstutyāmṛtāsvādaṃ kalaśānadhivāsayet ||168 ||
+T02D1865:76a-8	བུམ་བ་ལྷག་པར་གནས་པར་བྱ་༎ མགྲིན་པ་གོས་མཆོག་གིས་དཀྲིས་ལ་༎ ཨཨ་སྨྲ་སོགས་འདབ་ཀྱིས་ཁ་དགབ་༎ དཀྱིལ་འཁོར་པ་ཡི་བུམ་པ་ནི་༎ དེ་ཡི་སྔགས་ཀྱིས་ལྷག་གནས་བྱ་༎	T02n1424u_001:366	 vastrācchāditasadgrīvāṃścūtādipallavānvitān |  kalaśānmāṇḍaleyānāṃ tanmantrairadhivāsayet ||169 ||
+T02D1865:76b-10	ཡང་དག་བསྲུངས་ལ་ཕྱིར་ཕྱུང་ནས་༎ མེ་ཏོག་ཕྲེང་ཐོགས་རང་སློབ་མ་༎	T02n1424u_001:391	 samārakṣya bahirgatvā svaśiṣyān strakkaragrahān ||181 ||
+T02D1865:76b-12	ཡིད་གཞུངས་སྤྲོ་བ་ཆེ་བ་དང་༎ བྱས་པ་གཟོ་ཞིང་ང་རྒྱལ་མེད་༎	T02n1424u_001:392	 manīṣiṇo mahotsāhān kṛtajñānnirahaṅkṛtān |
+T02D1865:76b-13	རིགས་མཐོ་ཡོན་ཏན་ལྡན་ཞིང་དང་༎ གཟུགས་དང་ཁ་དོག་ལང་ཚོར་ལྡན་༎ བདེ་བར་གཤེགས་པའི་གསང་བ་ནི་༎ གཟུགས་ངན་ཡོན་ཏན་མེད་པའམ་༎ དམན་པའང་ལྷག་པར་གནས་པར་བྱ་༎	T02n1424u_001:393	 kulino guṇinaḥ śrāddhānrūpavarṇavayo'nvitān ||182 ||  arthinaścābhiyuktāṃśca saugatānmantrasādhane |  virūpānnirguṇāṃścāpi hīnānapyadhivāsayet ||183 ||
+T02D1865:76b-18	དཀྱིལ་འཁོར་གྱི་ནི་ཆོ་ག་ལས་༎ འཁོར་བཞི་ཆར་ཡང་རྗེས་སུ་གནང་༎	T02n1424u_001:396	 caturṇāmapyanujñātaḥ parṣadāṃ maṇḍale vidhiḥ |
+T02D1865:76b-20	རང་གི་བསླབ་དང་ཤིན་ཏུ་ལྡན་༎ ཐེག་ཆེན་ལ་དགའི་བདག་ཉིད་ཅན་༎	T02n1424u_001:397	 śikṣāsu svāsu yuktānāṃ mahāyānaratātmanām ||184 ||
+T02D1865:76b-22	ལ་ལ་གསང་སྔགས་སྒྲུབ་དོན་གཉེར་༎ འདི་ནི་དཀྱིལ་འཁོར་འཇུག་པར་བྱེད་༎	T02n1424u_001:398	 mantrasiddhyarthinaḥ kecit praviśantīha maṇḍale |
+T02D1865:76b-24	བསོད་ནམས་འདོད་པས་དེ་ལས་གཞན་༎ གཞན་དག་འཇིག་རྟེན་གཞན་དོན་གཉེར་༎ འཇིག་རྟེན་ཕ་རོལ་དོན་གཉེར་བའི་༎	T02n1424u_001:399	 puṇyakāmāstato'nye ca paralokārthino'pare ||185 ||
+T02D1865:76b-27	དད་པ་མང་དུ་བྱེད་པ་ཡིས་༎ བློ་ལྡན་དཀྱིལ་འཁོར་འཇུག་བྱ་ཡི་༎	T02n1424u_001:401	 praviśenmaṇḍalaṃ dhīmānnaihikaṃ phalamīhayet ||186 ||
+T02D1865:76b-29	ཚེ་འདིའི་འབྲས་བུ་འདོད་མི་བྱ་༎	T02n1424u_001:402	 aihikaṃ kāṅkṣamāṇasya na tathā pāralaukikam |
+T02D1865:76b-30	ཚེ་འདི་འདོད་པར་གྱུར་པ་ལ་༎ འཇིག་རྟེན་ཕ་རོལ་དོན་མི་འགྱུར་༎ འཇིག་རྟེན་ཕ་རོལ་དོན་གཉེར་སྐྱེས་༎ འཇིག་རྟེན་འདི་ཡི་འབྲས་བུ་རྒྱས་༎	T02n1424u_001:403	 paralokārthinaḥ puṃsaḥ puṣkalaṃ tvaihikaṃ phalam ||187 ||
+T02D1865:76b-34	དེ་སྐད་བརྗོད་ནས་སློབ་མ་དེ་༎	T02n1424u_001:404	 evamuktvā tu tān śiṣyān dhiyā sā(svā)
+T02D1865:76b-35	བློ་ཡིས་རང་གི་ནང་དུ་གཞུག་། སྔོན་བཞིན་རྡོ་རྗེ་ཆུ་སྐྱེས་ཀྱིས་༎	T02n1424u_001:405	 ntarniveśitān |  prāgvadvajrābjasaṃśuddhān gṛhadvāre tu yācayet ||188 ||
+T02D1865:76b-4	དེང་བདག་སློབ་མར་བཅས་པ་ལ་༎ ཐུགས་ནི་བརྩེ་བར་དགོངས་ནས་སུ་༎	T02n1424u_001:388	 anukampāmupādāya saśiṣyastuṣyatu mama |
+T02D1865:76b-6	ཚོགས་པ་ཐམས་ཅད་དཀྱིལ་འཁོར་དུ་༎	T02n1424u_001:389	 maṇḍale sahitāḥ sarve sānidhyaṃ kartumarhatha ||180 ||
+T02D1865:76b-8	དེ་ལྟར་ལན་གསུམ་དེ་གསོལ་གདབ་༎ གཙོ་བོ་མཆོད་ལ་སོགས་བྱས་ཏེ་༎	T02n1424u_001:390	 nimantryaivaṃ trivārāṃstān kṛtvā pūjādikaṃ vibhoḥ |
+T02D1865:77a-15	དེ་བས་ཀུན་མཁྱེན་ཐོབ་བྱའི་ཕྱིར་༎	T02n1424u_001:421	 tasmānmatimimāṃ vatsa kuru sarvajñatāptaye ||195 ||
+T02D1865:77a-16	བུ་ཡིས་བློ་གྲོས་འདི་གྱིས་ཤིག་། བཤགས་སོགས་ལན་གསུམ་བརྗོད་ནས་ནི་༎	T02n1424u_001:422	 deśanādīṃstridhālāpya bodhicittaṃ tato guruḥ |
+T02D1865:77a-17	དེ་ནས་བླ་མས་བྱང་ཆུབ་སེམས་༎ མ་བསྐྱེད་པ་ནི་བསྐྱེད་པར་བྱ་༎	T02n1424u_001:423	 utpādayedanutpannamutpannaṃ smārayetpunaḥ ||196 ||
+T02D1865:77a-19	བསྐྱེད་པ་སླར་ཡང་དྲན་དུ་གཞུག་། ལས་ཀུན་བྱེད་པས་བསྲུངས་ནས་ནི་༎ སྙིང་ག་ལྐོག་མ་སྤྱི་བོ་རུ་༎ རྡོ་རྗེ་པདམ་འཁོར་ལོ་དག་། ཧའུམ་ཨའ༔་ཨཨོམ་ལས་དེ་རུ་དགོད་༎	T02n1424u_001:424	 sarvakarmakṛtārakṣya dhyāyāddhṛtkaṇṭhamūrddhasu |  vajramabjaṃ tathā cakraṃ hū āḥ om teṣu vinyaset ||197 ||
+T02D1865:77a-22	རྡོ་རྗེ་སྤོས་ཆུ་ཁུ་ཚུར་མཆོག་། སྙིང་ག་སྤྱི་བོ་ལྐོག་མར་གཏུགས་༎ དེ་བཞིན་ཧའུམ་ཨཨོམ་ཨའ༔་བརྗོད་བྱ་༎	T02n1424u_001:426	 gandhāmbuvajrasanmuṣṭyā hū om āḥ evamāpaṭhan |
+T02D1865:77a-24	མེ་ཏོག་ལ་སོགས་རིམ་བཞིན་སྦྱིན་༎ སྤྱི་བོར་མེ་ཏོག་མདུན་དུ་སྤོས་༎ མར་མེ་དྲི་ཡང་ཐུགས་ཀ་རུ་༎	T02n1424u_001:427	 hṛcchiraḥ kaṇṭhamālabhya dadyātpuṣpādikaṃ kramāt ||198 ||  puṣpaṃ mūrdhni puro dhūpaṃ dīpaṃ gandhaṃ punarhṛdi |
+T02D1865:77a-27	ཀུན་བྱེད་བཟླས་ནས་གུས་པ་ཡིས་༎ སློབ་མ་རྣམས་ལ་སྦྱིན་པར་བྱ་༎	T02n1424u_001:429	 dadyātsarvakṛtājaptaṃ śiṣyebhyo yati rādarāt ||199 ||
+T02D1865:77a-29	ཨཨ་ཤབ༹ད་ཨཽ་དུམཝའ་ར་ཡི་༎ སོ་ཤིང་སོར་ནི་བཅུ་གཉིས་པ་༎ མ་ཡོ་མ་གས་སྲོག་ཆགས་མེད་༎ རྩེ་མོར་མེ་ཏོག་བཅས་པ་སྦྱིན་༎	T02n1424u_001:430	 dvādaśāṅgulapuṣpāgramakīṭāpāṭitāvraṇam |  āśvatthodumbarāvakraṃ pradadyāddantadhāvanam ||200 ||
+T02D1865:77a-33	ཤར་རམ་བྱང་དུ་ཁ་བལྟས་བཞག་། བཅས་ནས་ལྟོས་པ་མེད་པར་ནི་༎ བ་ཀོ་ཙམ་ནི་བྱུག་པར་དོར་༎ ཞི་ལ་སོགས་པའི་དངོས་གྲུབ་བསྟན་༎	T02n1424u_001:432	 prāgudaṅmukhasaṃsthaistaiḥ khādayitvaiva prakṣipet |  gocarmamātrabhū lipte siddhiṃ śāntyādikāṃ diśet ||201 ||
+T02D1865:77a-36	འཐོར་འཐུང་སྐྱོར་ཆུ་ལན་གསུམ་བླུད་༎ ཕྱི་རོལ་དུ་ནི་ངེས་བཞག་སྟེ་༎	T02n1424u_001:434	 ācamya tricalupānaṃ dattvā bāhye niveśya ca |
+T02D1865:77a-42	འཇིག་རྟེན་དུ་ནི་ཀུན་མཁྱེན་རྣམས་༎	T02n1424u_001:438	 sarvajñānāṃ kadā loke sambhavo jāyate na vā |
+T02D1865:77a-43	ཨཽ་དུམཝའ་རའི་མེ་ཏོག་བཞིན་༎	T02n1424u_001:439	 udumbarasyai(sye)
+T02D1865:77a-45	གསང་སྔགས་སྤྱོད་པའི་ཚུལ་བྱུང་བ་༎ དེ་བས་ཀྱང་༄༧༧བ་ནི་དཀོན་པ་སྟེ་༎	T02n1424u_001:441	 tato'pi durlabhotpādo mantracaryānayasya hi |
+T02D1865:77b-1	གང་གིས་མཉམ་མེད་སེམས་ཅན་དོན་༎ མྱ་ངན་མི་འདའ་བྱེད་པར་ནུས་༎	T02n1424u_001:442	 yena sattvārthamatulaṃ kartuṃ śaktā hyanirvṛtāḥ ||204 ||
+T02D1865:77b-11	གང་དག་སྤྱོད་པ་མཆོག་འདི་ལ་༎ བློ་གྲོས་ཤིན་ཏུ་མི་ག-ཡོ་བ་༎ དེ་དག་གིས་ནི་ངན་འགྲོའི་རྒྱུན་༎ སྡུག་བསྔལ་ཀུན་འབྱུང་རབ་ཏུ་བཅད་༎	T02n1424u_001:447	 ucchinnā durgati steṣāṃ sarvaduḥkhasya sambhavā |  yeṣāṃ caryāvare hyasminmatiratyantanirmalā ||207 ||
+T02D1865:77b-15	བདག་ཉིད་ཆེན་པོ་ཁྱེད་རྣམས་ཀྱིས་༎ རྙེད་པ་མཉམ་མེད་དེ་རིང་རྙེད་༎	T02n1424u_001:449	 adya yuṣmābhiratulā lābhā labdhā mahātmabhiḥ |
+T02D1865:77b-17	གང་ཕྱིར་རྒྱལ་བ་སྲས་བཅས་པ་༎ བདག་ཉིད་ཆེན་པོ་ཀུན་གྱིས་ནི་༎ བསྟན་པ་འདི་ལ་ཁྱེད་རྣམས་ཀུན་༎	T02n1424u_001:450	 yena yūyaṃ jinaiḥ sarvaiḥ saputrairiha śāsane ||208 ||  sarve parigṛhītāḥ stha jāyamānā mahātmabhiḥ |
+T02D1865:77b-21	དེ་ཕྱིར་ཁྱེད་རྣམས་ཐེག་ཆེན་ལ་༎ སང་ནི་རབ་ཏུ་སྐྱེ་བར་འགྱུར་༎	T02n1424u_001:453	 tā hi bhaviṣyatha ||209 ||
+T02D1865:77b-23	ཐེག་པ་ཆེན་པོ་ཆེར་འབྱུང་བའི་༎ ལམ་མཆོག་འདི་ནི་དཔལ་དང་ལྡན་༎	T02n1424u_001:454	 eṣa mārgavaraḥ śrīmān mahāyānamahodayaḥ |
+T02D1865:77b-29	དོན་བཤད་བསྲུང་བ་བྱས་ནས་ནི་༎ ཀུ་ཤའི་སྟན་ལ་ཉལ་དུ་གཞུག་།	T02n1424u_001:456	 kṛtvārthadeśanāṃ rakṣāṃ svāpayet kuśasaṃstare |
+T02D1865:77b-3	བསྐལ་པ་བྱེ་བ་དུ་མ་རུ་༎ སྡིག་པ་བགྱིས་པར་གྱུར་པ་གང་༎	T02n1424u_001:443	 anekakalpakoṭibhiryatkṛtaṃ pāpakaṃ purā |
+T02D1865:77b-31	རྨི་ལམ་གང་དག་ཅི་མཐོང་བ་༎ དེ་ཀུན་ནང་པར་ང་ལ་ཟློས་༎	T02n1424u_001:457	 yatkiñcitpaśyatha svapne prātarme kathayiṣyatha ||211 ||
+T02D1865:77b-33	སྲུང་དང་བྱིན་རླབས་སོགས་གང་དག་། དེར་ནི་ལས་ཀུན་བྱེད་པ་བཟླ་༎	T02n1424u_001:458	 rakṣādhiṣṭhādikaṃ kṛtvā tajjapet sārvakarmikam |
+T02D1865:77b-34	རིགས་ལྔ་འཁོར་ལོ་གསུམ་གྱི་ནི་༎	T02n1424u_001:459	 pañcakulatricakrāṇāṃ kuṇḍali(lī)
+T02D1865:77b-35	ལས་ཀུན་བྱེད་པ་ཐབས་སྦྱོར་ཡིན་༎	T02n1424u_001:460	 sārvakarmikaḥ ||212 ||
+T02D1865:77b-36	རྨི་ལམ་བཟང་ངན་དྲིས་ནས་ནི་༎ མི་དགེ་ཐབས་སྦྱོར་དག་གིས་གཞོམ་༎ སློབ་མ་ལེགས་བསྲུངས་སྐལ་ལྡན་པ་༎	T02n1424u_001:461	 pṛṣṭvā śubhāśubhaṃ svapnaṃ hatvā kuṇḍalināśubham |  śiṣyānsaṃrakṣya tān yogyānsaṃvaraṃ grāhayettataḥ ||213 ||
+T02D1865:77b-39	དེ་ནས་སྡོམ་པ་འཛིན་དུ་གཞུག་། མི་ལྡོག་འཁོར་ལོའི་དབང་བསྐུར་བ་༎ སྩལ་ནས་མགོན་པོ་བདག་ལ་ནི་༎	T02n1424u_001:463	 cakre'vaivartyasaṃsekaṃ dattvā nātha vadasva me |
+T02D1865:77b-41	འཁོར་ལོ་ལྷ་ཡི་དེ་ཉིད་དང་༎ སློབ་དཔོན་གྱི་ནི་ལས་རྣམས་དང་༎ སངས་རྒྱས་ཀུན་གྱི་དམ་ཚིག་དང་༎ སྡོམ་དང་གསང་བ་དམ་པ་དང་༏་། སེམས་ཅན་ཀུན་གྱི་དོན་གྱི་ཕྱིར་༎ རྟག་ཏུ་སློབ་དཔོན་བདག་འགྱུར་གསུངས་༎	T02n1424u_001:464	 cakradevatayostattvamācāryaparikarma ca ||214 ||  samayaṃ sarvabuddhānāṃ saṃvaraṃ guhyamuttaram |  ācāryaḥ syāmahaṃ nityaṃ sarvasattvārthakāraṇāt ||215 ||
+T02D1865:77b-43	སློབ་མ་སློབ་དཔོན་ཉིད་དོན་གཉེར་༎	T02n1424u_001:467	 ācāryatārthinaḥ śiṣyān grāhayitvā tu saṃvaram |
+T02D1865:77b-5	དེ་ཀུན་དཀྱིལ་འཁོར་འདི་འདྲ་བ་༎ མཐོང་བས་འབྱང་བར་འགྱུར་ལགས་ན་༎	T02n1424u_001:444	 tatsarvaṃ hi kṣayaṃ yāti dṛṣṭvā maṇḍalamīdṛśam ||205 ||
+T02D1865:77b-8	ཚུལ་ལ་གནས་པ་སྨོས་ཅི་འཚལ་༎ སྐྱོབ་པའི་གསང་སྔགས་བཟླས་ནས་ནི་༎ གོ་འཕང་བླ་ན་མེད་པར་འགྱུར་༎	T02n1424u_001:445	 kimutānantayaśasāṃ mantracaryānaye sthitaḥ |  padaṃ hyanuttaraṃ yāti japanvai mantra(ntraṃ) tāyinām ||206 ||
+T02D1865:78a-0	སྡོམ་པ་རྣམས་ཀྱང་འཛིན་དུ་གཞུག་། རྣལ་འབྱོར་མཉམ་གཞག་འཁོར་ལོ་མཆོག་། ལེགས་མཆོག་བློ་ཡིས་མཁའ་ལ་བཞག་། རྟག་པ་ལ་སོགས་དངོས་འདྲ་༄༧༨ཨ་༌་༎ ཞིང་༏་། དེ་མདོག་ས་བོན་ལས་བྱུང་བ་༎	T02n1424u_001:468	 yogamādhāya saccakraṃ saṃpūjya khe dhiyā nyaset ||216 ||  śāśvatādisvarūpābhaṃ tadvarṇabījasaṃbhavam |
+T02D1865:78a-2	ཡེ་ཤེས་ལྔ་ལྡན་སྲད་བུ་ནི་༎ ཉི་ཤུ་རྩ་ལྔར་རྣམ་ཕྱེ་བ་༎	T02n1424u_001:470	 pañcajñānānvitaṃ sūtraṃ pañcaviṃśatibheditam ||217 ||
+T02D1865:78a-37	ཐིག་དེ་ཉིས་རིམ་བྱས་ནས་ནི་༎ འཁོར་ལོའི་དབུས་སུ་བཞག་ནས་སུ་༎	T02n1424u_001:490	 dviguṇīkṛtya tatsūtraṃ cakramadhyeṣu dhārya ca |
+T02D1865:78a-39	འཁོར་ལོའི་རྣམ་པ་དེ་རྒྱབ་ཏུ་༎ རྡོ་རྗེའི་སྲད་བུ་གཉིས་ཀྱང་གདབ་༎	T02n1424u_001:491	 cakrākāraṃ tato bāhyaṃ vajrasutradvayaṃ punaḥ ||227 ||
+T02D1865:78a-4	ཛ༔་ལས་ཉི་མ་ཟླ་བའི་མིག་།འཇམ་པའི་རྡོ་རྗེ་བདག་གཟུགས་ཀྱིས་༎	T02n1424u_001:471	 yaḥ(jaḥ) kārasūryacandrākṣo mañjuvajrātmavigrahaḥ |
+T02D1865:78a-41	དབང་ལྡན་ལས་ནི་ལྕགས་རི་དག་། རང་དང་རྗེས་མཐུན་ག-ཡས་ནས་བསྐོར་༎	T02n1424u_001:492	 aiśānyāṃ cakravāḍaṃ ca svānupūrvyā pradakṣiṇāt |
+T02D1865:78a-42	མཁས་པས་ཐིག་གིས་ཐིག་བཏབ་ནས་༎ ཕྱོགས་ཀུན་མཉམ་པ་ཉིད་དུ་བྱ་༎	T02n1424u_001:493	 sūtreṇa sūtrayetprājñaḥ sarvadiksamatāṃ vahan ||228 ||
+T02D1865:78a-44	ལྟས་ངན་བྱུང་ན་དངོས་མི་འགྲུབ་༎ སྲད་བུ་ཆད་ན་བླ་མ་འཆི་༎ རིང་ཐུང་ཁྱེར་ན་ན་བར་འགྱུར་༎ ཕྱོགས་འཁྲུལ་སློབ་མ་མྱོས་པར་འགྱུར་༎	T02n1424u_001:494	 animittairasiddhiḥ syāt sūtracchede guroḥ kṣayaḥ |  hīnātiriktato rogā diṅmohe śiṣyavibhramaḥ ||229 ||
+T02D1865:78a-48	ཟུར་བཞི་པ་ལ་སྒོ་བཞི་པ་༎ རྟ་བབས་བཞིས་ནི་རྣམ་པར་༄༧༨བ་མཛེས་༎ ཐིག་བཞི་དང་ནི་ཡང་དག་ལྡན་༎ དར་དང་མེ་ཏོག་ཕྲེང་བས་བརྒྱན་༎	T02n1424u_001:496	 caturastraṃ caturdvāraṃ catustoraṇabhūṣitam |  catuḥsūtrasamāyuktaṃ paṭṭastragdāmabhūṣitam ||230 ||
+T02D1865:78a-5	འབར་བའི་བལྟ་བའི་ལྕགས་ཀྱུས་དགུག་། རང་གི་མདོག་ནི་ནང་དུ་གཞུག་། རྣམ་སྣང་ལ་སོགས་ཐུགས་ཡེ་ཤེས་༎	T02n1424u_001:472	 dīptadṛṣṭyaṃkuśākṛṣṭaṃ svavarṇāntarniveśitam ||218 ||
+T02D1865:78b-10	ཀ་བ་འཁོར་ལོ་ལ་སོགས་སྦྲས་༎ རྡོ་རྗེ་ཕྲེང་བ་བཟང་པོས་བསྐོར་༎	T02n1424u_001:502	 cakrastambhādyaracitaṃ vajrāvalyāvṛtaṃ śubham |
+T02D1865:78b-12	དེ་ནས་ཧའི་ལས་ཁྲོ་བོ་ཡི་༎ བལྟ་བས་སྒོ་ནི་རྣམ་པར་དབྱེ་༎	T02n1424u_001:503	 vibhajecca tato dvāraṃ hīḥkārakrodhadṛṣṭitaḥ ||233 ||
+T02D1865:78b-14	སྒོ་ནི་འཁོར་ལོའི་བརྒྱད་ཆ་སྟེ་༎ ཁ་ཁྱེར་མེད་པ་ཉིད་དུ་འདོད་༎	T02n1424u_001:504	 cakrāṣṭabhāgikaṃ dvāraṃ vedikārahitaṃ matam |
+T02D1865:78b-16	སྒོ་ཁྱུད་སྒོ་ཡི་ཚད་ཡིན་ཏེ་༎ ལྷ་ཡི་སྣམ་བུའང་དེ་ཡི་ཚད་༎	T02n1424u_001:505	 dvārapramāṇā niryūhā devatāpaṭṭikāstathā ||234 ||
+T02D1865:78b-18	དེ་ཕྱེད་ཁ་ཁྱེར་ཀུན་ནས་བསྐོར་༎ ལོགས་དང་འགྲམ་ནི་དེ་བཞིན་ཏེ་༎ དྲ་བ་དྲ་ཕྱེད་ཉི་ཟླ་དང་༎ དར་སོགས་སྣམ་བུ་ཚད་དེ་བཞིན་༎	T02n1424u_001:506	 dvārārddhā sarvato vedī kapolaḥ pakṣakastathā |  hārārddhahāracandrārkapaṭṭastragdāmapaṭṭikāḥ ||235 ||
+T02D1865:78b-21	ཚོན་གྱི་ས་ནི་དེ་ཡི་ཕྱེད་༎ རྩ་བའི་ཐིག་སའི་ཕྱི་རོལ་དུའོ་༎	T02n1424u_001:508	 rajobhūmistarddhena mūlasūtraṃ bhuvo bahiḥ |
+T02D1865:78b-23	འཁོར་ལོ་ལ་སོགས་ཀ་བའི་ཐིག་། ཚོན་གྱིས་དང་ས་གཞི་མཉམ་༎ རྟ་བབས་སྒོ་ཡི་སུམ་འགྱུར་ཏེ་༎ བ་དན་ཕྲེང་བ་རྣམས་དང་ལྡན་༎ དྲིལ་བུ་མཆོག་ནི་རླུང་གིས་བསྐྱོད་༎ བ་དན་ཕྱི་ཡི་མཚམས་སུ་བྱ་༎	T02n1424u_001:509	 cakrādyastambhasūtrāṇāṃ bhūmistulyā rajo bhuvā ||236 ||  toraṇaṃ triguṇaṃ dvārātpatākāghaṇṭayānvitam |  saddhaṇṭāmārutoddhūtā patākā bāhyakoṇataḥ ||237 ||
+T02D1865:78b-28	གཞན་དག་འཁོར་ལོའི་རྗེས་མཐུན་པར་༎ ཇི་ལྟར་མཛེས་པར་རྣམ་པར་བརྟགས་༎	T02n1424u_001:512	 cakrānurūpato'nyeṣāṃ yathāśobhaṃ prakalpanā |
+T02D1865:78b-3	གརབ༹་ཡི་ཕྱོགས་རྣམས་ཐམས་ཅད་དང་༎ སྒོ་ཁྱུད་ཀྱི་ནི་མཚམས་རྣམས་སུ་༎	T02n1424u_001:498	 koṇabhāgeṣu sarveṣu dvāraniryūhasandhiṣu |
+T02D1865:78b-30	རྫོགས་སངས་ཡེ་ཤེས་སྐུ་ཡིན་ཕྱིར་༎ ཆོས་སྐུའི་བདག་ཉིད་ཤིན་ཏུ་དག་། གསུང་དབང་རྡོ་རྗེའི་རིགས་སུ་བཤད་༎ འདི་ནི་ཐུགས་ཀྱི་འཁོར་ལོ་ཡིན་༎	T02n1424u_001:513	 saṃbuddhajñānakāyatvādvāgmī vajrakule smṛtaḥ ||238 ||  dharmakāyātmasaṃśuddhau cittamaṇḍalamasya tu |
+T02D1865:78b-33	སེམས་ཅན་བསམ་པ་ལ་བརྟེན་ནས་༎ ཚད་ལ་སོགས་པ་ངེས་མཛད་ཀྱི་༎	T02n1424u_001:515	 sattvāśayaṃ samāsādya mānādiniyamaḥ kṛtaḥ ||239 ||
+T02D1865:78b-35	ཐབས་ཤེས་ལས་བྱུང་དངོས་གྲུབ་ལ་༎ ཚད་སོགས་ངེས་པས་ཅི་ཞིག་བྱ་༎	T02n1424u_001:516	 prajñopāyodbhavā siddhirjātyādi niyamena kim |
+T02D1865:78b-37	དེ་ནི་ཁྲུ་གཅིག་ནས་བརྩམས་ཏེ་༎ ཇི་སྲིད་ཁྲུ་སྟོང་བར་དུའོ་༎	T02n1424u_001:517	 tadekahastamārabhya yāvaddhastasahastrakam ||240 ||
+T02D1865:78b-39	དེ་ལྟར་འཁོར་ལོ་དེ་ཐིག་གདབ་༎ ཚོན་ལ་འབར་བའི་བལྟ་བས་ཀྱང་༎	T02n1424u_001:518	 evamāsūtrya taccakraṃ dīptadṛṣṭyā rajāṃsi tu |
+T02D1865:78b-4	རྡོ་རྗེ་རིན་ཆེན་སྦས་པར་ནི་༎ དཀྱིལ་འཁོར་ཕྱི་རིམ་ཐིག་གདབ་བོ་༎	T02n1424u_001:499	 khacitaṃ vajraratnaistu sūtrayed bāhyamaṇḍalam ||231 ||
+T02D1865:78b-41	སྔ་མའི་རིམ་གྱིས་ཡེ་ཤེས་སྦར་༎ ཡང་དག་གཟི་བསྐྱེད་གསང་སྔགས་བཟླ་༎	T02n1424u_001:519	 prākkramajñānasaddīptyā samuktejyābhimantrayet ||241 ||
+T02D1865:78b-43	ཨཨོམ་བཛྲ་ཙི་ཏྲ་ས་མ་ཡ་ཧའུམ་༎	T02n1424u_001:520	 om vajracitta(tra) samaya hū |
+T02D1865:78b-44	འདི་ནི་ཆོས་དབྱིངས་དག་པ་སྟེ་༎ སེམས་ཅན་ཁམས་ནི་གྲོལ་བྱེད་པ་༎	T02n1424u_001:521	 dharmadhāturayaṃ śuddhaḥ sattvadhātupramocakaḥ |
+T02D1865:78b-46	འཇམ་དབྱངས་རྒྱལ་པོ་རང་ཉིད་ནི་༎ དེ་བཞིན་གཤེགས་པ་ཀུན་གྱི་གནས་༎	T02n1424u_001:522	 svayaṃ mañjuravo rājā sarvatāthāgatālayaḥ ||242 ||
+T02D1865:78b-48	ཉེས་པ་ཀུན་ལས་རབ་གྲོལ་བའོ་༎ འཁོར་ལོའི་ནང་ན་ཡང་དག་གནས་༎	T02n1424u_001:523	 sarvadoṣavinirmuktaścakrābhyantarasaṃsthitaḥ |
+T02D1865:78b-50	བླ་མས་ག-ཡོན་པའི་ཁུ་ཚུར་གྱིས་༎ དབང་ལྡན་ཕྱོགས་ནས་བརྩམས་ནས་ནི་༎	T02n1424u_001:524	 aiśānīṃ diśamāśritya gururvāmena muṣṭinā ||243 ||
+T02D1865:78b-6	དེ་ཡི་ནང་གི་འཁོར་ལོ་ནི་༎ དཀྱིལ་འཁོར་བརྒྱད་པ་འདྲ་བ་ལ་༎	T02n1424u_001:500	 tasyābhyantarataścakramaṣṭamaṇḍalakopamam |
+T02D1865:78b-8	ཕྱི་ཡི་འཁོར་ལོའི་ཕྱེད་ཀྱི་ཚད་༎ ཀུན་ནས་ཡོངས་སུ་ཟླུམ་པོར་བྱ་༎	T02n1424u_001:501	 arddhena bāhyacakrasya samantātparimaṇḍalam ||232 ||
+T02D1865:79a-0	༄༧༩ཨ་༌་༎ དཀར་དང་སེར་དང་དེ་བཞིན་དམར་༎ ལྗང་གུ་དང་ནི་ནག་པོ་ཉིད་༎	T02n1424u_001:525	 śvetaṃ pītaṃ tathā raktaṃ haritaṃ kṛṣṇameva ca |
+T02D1865:79a-10	ཚོན་རྩི་ཕུར་བུས་བཏབ་པར་འགྱུར་༎	T02n1424u_001:530	 apradakṣiṇapāte tu rajasāṃ kīlanaṃ bhavet ||246 ||
+T02D1865:79a-11	དཀར་པོ་རྡོ་རྗེ་རྩེ་རང་བཞིན་༎ གཉིས་པ་གསེར་ལ་དམིགས་པ་སྟེ་༎ པདམ་རའ་གའི་རང་བཞིན་ཏེ་༎ དེ་བཞིན་གཞན་དག་མརྒད་ཡིན་༎ ནག་པོ་ནང་དུ་ཤེས་བྱ་སྟེ་༎	T02n1424u_001:531	 śvetavajramayī sūcī sauvarṇālambanāparā |  padmarāgamayī sūcī tathā marakatāparā ||247 ||  kṛṣṇābhyantarato jñeyā eṣa raṅgakramo'sya tu |
+T02D1865:79a-16	འདི་ནི་ཚོན་གྱི་རིམ་པར་བཤད་༎ དཀར་པོ་ཆེན་པོ་ཤར་ཕྱོགས་སུ་༎ ལྷོ་རུ་སེར་དང་ཡང་དག་ལྡན་༎	T02n1424u_001:534	 pūrveṇa tu mahāśvetaṃ dakṣiṇe pītasaṃyutam ||248 ||
+T02D1865:79a-19	ནུབ་ཀྱི་ཆ་ནི་དམར་པོ་སྟེ་༎ བྱང་ནི་ལྗང་དང་ཡང་དག་ལྡན་༎	T02n1424u_001:535	 lohitaṃ paścimabhāgaṃ māñjiṣṭhottarasaṃyutam |
+T02D1865:79a-2	མཉམ་ཞིང་ག-ཡས་སྐོར་རྒྱུན་མཆད་༎ མ་ཡོ་བར་ནི་ཚོན་རྩི་དགྱེ་༎ སྒོ་ཡི་ཉི་ཤུ་ཆ་རུ་ནི་༎ རི་མོ་མཉམ་པར་དགྱེ་བར་བྱ་༎	T02n1424u_001:526	 samapradakṣiṇācchinnāvakrāṃ rekhā prapātayet ||244 ||  samāṃ ca pātayedrekhāṃ dvāraviśatibhāgikām |
+T02D1865:79a-21	དབུས་ཀྱི་ས་གཞིའི་ཆ་དག་ནི་༎ ཨཻནདྲ་ནའི་ལའི་འོད་གསལ་འབར་༎	T02n1424u_001:536	 madhyato bhūmibhāgaṃ tu indranīlaprabhāsvaram ||249 ||
+T02D1865:79a-23	རྟག་པར་ཤེས་རབ་ཐབས་བདག་ཉིད་༎ ཤིན་ཏུ་མཉམ་གཞག་ལེགས་པར་བྲི་༎	T02n1424u_001:537	 prajñopāyātmako nityaṃ saṃlikhet susamāhitaḥ |
+T02D1865:79a-25	རི་མོ་ཕན་ཚུན་ནས་གང་གིས་༎ མ་རེག་པར་ནི་བྲི་བར་བྱ་༎ བདུད་རྩི་ཐབ་སྦྱོར་རྡོ་རྗེ་ཡིས་༎	T02n1424u_001:539	 kuṇḍalāmṛtavajreṇa sarvaduṣṭān pramarddayan |
+T02D1865:79a-28	གདུག་པ་ཐམས་ཅད་རྣམ་པར་གཞོམ་༎ འདི་ནི་རྒྱ་ཆེན་ཆེ་བར་བཤད་༎ གདུག་པའི་དགྲ་སྟེ་གསང་སྔགས་རྒྱལ་༎	T02n1424u_001:540	 mahāmudrāsya daṃṣṭroktā duṣṭaśatruśca mantrarāṭ ||451 ||
+T02D1865:79a-35	ཏིཤཐ་ཏིཤཐ་། བནདྷ་བནདྷ་། ཧ་ན་ཧ་ན་། ད་ཧ་ད་ཧ་། གཛཛ་གཛཛ་། བི་སཕོ་ཏ་ཡ་བི་སཕོ་ཏ་ཡ་། སརྦ་བིགྷནའ་ན་བི་ནའ་ཡ་ཀའ་ན་མ་ཧའ་ག་ན་པ་ཏི་ཛའི་བི་ཏའནཏ་ཀ་ར་ཡ་ཧའུམ་ཕཏ་།	T02n1424u_001:542	 namo vajrakrodhāya mahādaṃṣṭrotkaṭabhairavāya asimuṣalaparśupāśahastāya |  om amṛtakuṇḍali kha-kha-khāhi-khāhi tiṣṭha-tiṣṭha bandha-bandha hana-hana daha- daha garja- garja visphoṭaya-visphoṭaya sarvavighnavināyakān mahāgaṇapatijīvitāntakarāya hū phaṭ |
+T02D1865:79a-40	དེ་ལྟར་དཀྱིལ་འཁོར་ཀུན་བྲིས་ནས་༎ ཟླ་བ་ཉི་མའི་གདན་བྱས་ཏེ་།	T02n1424u_001:544	 evaṃ maṇḍalamālikhya candrasūryakṛtāsanam |
+T02D1865:79a-42	རལ་གྲི་སྔོ་བསངས་དབུས་བྲི་བ་༎ ཤིན་ཏུ་རྣམ་དག་སོགས་འོད་ལྡན་༎	T02n1424u_001:545	 madhye khaḍgaṃ likhecchyāmaṃ suviśuddhādibhāsvaram ||252 ||
+T02D1865:79a-44	ཤ་དུ་འཁོར་ལོ་རྩིབས་བརྒྱད་མཆོག་། མེ་ལོང་ལ་སོགས་ཡང་དག་འབར་༎	T02n1424u_001:546	 pūrveṇāṣṭāraṃ saccakramādarśādisamujjavalam |
+T02D1865:79a-45	ལྷོ་རུ་རིན་ཆེན་སྔོ་བསངས་འོད་༎ ཆ་དགུ་པ་མཐོ་མཉམ་པ་ཉིད་༎	T02n1424u_001:547	 savye ratnaṃ haritābhaṃ navāṅgaṃ samatonnatam ||253 ||
+T02D1865:79a-47	ནུབ་ཏུ་པདམ་འདབ་བརྒྱད་པ་༎ སོ་སོར་རྟོག་ལ་སོགས་ལྡན་དམར་༎	T02n1424u_001:548	 paścime'ṣṭadalaṃ padmaṃ pratyavekṣādiraktakam |
+T02D1865:79a-49	བྱང་དུ་རལ་གྲི་དམ་པ་ནི་༎ བྱ་བ་ལ་སོགས་ཀྱིས་རབ་བརྒྱན་༎	T02n1424u_001:549	 uttare tu sat khaḍgaṃ kṛtyādipratimaṇḍitam ||254 ||
+T02D1865:79a-51	ཤར་ལྷོར་སྤྱན་དེ་ཐབས་ཡིན་ལ་༎ ལྷོ་ནུབ་རྡོ་རྗེ་སྨོན་ལམ་སྟེ་༎	T02n1424u_001:550	 upāyairnetramāgneyāṃ nairṛtyāṃ vajramarthanāt |
+T02D1865:79a-53	ནུབ་བྱང་ཁ་ནི་བྱེ་བ་ཡི་། ༄༧༩བ་པདམ་སྡོང་བུ་བཅས་པ་སྟོབས་༎	T02n1424u_001:551	 vāyavyāṃ vikacāsyaṃ tu balātpadmaṃ sakandakam ||255 ||
+T02D1865:79a-6	སྦོམ་པོར་བཀྱེ་བས་ནད་ཀྱིས་འདེབས་༎ ཕྲ་མོས་ནོར་ནི་རྣམ་པར་འཇིག་། ཡོན་པོས་རྣམ་འགྲས་ཆད་པ་ཡིས་༎	T02n1424u_001:528	 sthūlapāte bhaved vyādhiḥ kṛśayā dhananāśanam ||245 ||  vidveṣo vakrayā mṛtyuśchinnayā guruśiṣyayoḥ |
+T02D1865:79b-1	བྱང་ཤར་ཨཽཏཔལ་ཡེ་ཤེས་ཏེ་༎ སེར་དང་སྤྲིན་སྔོན་ལྟ་བུར་མཛེས་༎	T02n1424u_001:552	 aiśānyāmutpalaṃ jñānāt pītaṃ nīlābhraśobhanam |
+T02D1865:79b-10	སྔར་བཞིན་ཤེས་རབ་ཡང་དག་འདུག་། སངས་རྒྱས་རྣམས་ནི་རང་ནང་གཞུག་། སེམས་བཟང་ནམ་མཁའ་ཁྱབ་བྱས་པའི་༎ འཁོར་ལོའི་ངོས་སུ་གནས་བྱའོ་༎	T02n1424u_001:559	 prāgvatprajñāṅgasaṃyogād buddhān svāntarniveśya ca |  saccittena viyadvyāpya cakrapārśvakṛtāspadān ||259 ||
+T02D1865:79b-12	དེ་དང་ལྷན་ཅིག་འོངས་པའི་བགེགས་༎ དེ་ནི་ཀུན་བསྐྲད་མངོན་པར་བསྲུང་༎ གཤིན་རྗེའི་དགྲ་སོགས་ཀྱིས་བཀུག་ལ་༎ བཅུག་སྟེ་བཅིངས་ནས་དབང་དུ་བྱ་༎	T02n1424u_001:561	 taiḥ samāyātavighnāṃstānsamutsāryābhirakṣya ca |  yamāryādibhirākṛṣyāveśya badhvā vaśaṃ nayet ||260 ||
+T02D1865:79b-16	མིག་དངས་ཀུ་སོགས་བྱིན་བརླབས་ལ་༎ མཆོད་ཡོན་དབང་བསྐུར་མངོན་མཆོད་པ་༎ བྱས་ནས་བསྟོད་དེ་ཚིམ་བྱ་ཞིང་༎ རྣམ་བསྒོམས་བཟླས་པས་མཉེས་པར་བྱ་༎	T02n1424u_001:563	 cakṣuḥkāyādyadhiṣṭhāyārghābhiṣekābhipūjanam |  kṛtvā stutvātha saṃprīṇya japtvā vibhāvya toṣayet ||261 ||
+T02D1865:79b-20	སྔོན་བཞིན་པད་སྣོད་དམ་པར་ཡང་༎ བདུད་རྩི་ཡེ་ཤེས་བདུད་རྩིར་བྱ་༎	T02n1424u_001:565	 prāgvat satpadmabhāṇḍe tu kṛtvā jñānāmṛtāmṛtam |
+T02D1865:79b-22	ཕྱོགས་སྐྱོང་རང་རང་སྦྱོར་ལ་གནས་༎ རབ་ཏུ་མཆོད་དེ་དཀྱིལ་འཁོར་འཇུག་།འཇིག་རྟེན་གསུམ་ལས་རྒྱལ་གྱུར་པས་༎ གོས་དང་རྒྱན་ནི་ཇི་སྙེད་དང་༎ འཁོར་ལོ་བསྐོར་བ་བྱས་ནས་ནི་༎	T02n1424u_001:566	 dikpālān svasvayogasthān prapūjya maṇḍalaṃ viśet ||262 ||  trailokyavijayo bhūtvā yathāptyābharaṇāmbaraḥ |
+T02D1865:79b-25	ཕྱག་བྱས་སྦྱིན་སྲེག་དག་གིས་མཆོད་༎ ཀུན་ནས་སོར་བཞི་དོར་བར་དུ་༎ ཁ་ཁྱེར་དེའི་ཚད་པད་ཁ་བྱེ་༎	T02n1424u_001:568	 kṛtapradakṣiṇaścakraṃ natvā homena pūra(ja)yet ||263 ||  caturaṅgphalamātyajya tanmānābjapraphullayā |
+T02D1865:79b-28	ཁྲུ་ཕྱེད་པ་དང་ཁྲུ་གང་པ་༎ འཁོར་ལོ་ལྟ་བུ་ལས་ཀུན་བྱེད་༎	T02n1424u_001:570	 vedyā hastārddhahastādhaścakravat sārvakarmikam ||264 ||
+T02D1865:79b-3	མེ་ལ་སོགས་པའི་མཚམས་བཞི་དང་༎ ཤར་སྒོ་ཡི་ནི་ངོས་གཉིས་སུ་༎	T02n1424u_001:553	 a(ā)gneyyādicatuṣkoṇe pūrvadvāradvipārśvayoḥ ||256 ||
+T02D1865:79b-30	རལ་གྲི་ཆུ་དང་དབངས་སུ་ནི་༎ སོར་བརྒྱད་སོར་གཅིག་པ་ཡི་ཚད་༎ ཐབ་ནང་འཁོར་ལོ་རིན་ཆེན་དང་༎ པདམ་རལ་གྲི་དབུས་ཆུད་བྲི་༎	T02n1424u_001:571	 dairghāducchrayataḥ khaḍgamaṣṭaikāṅgulamānakam |  kuṇḍamadhye likheccakraratnābjakhaḍgamadhyagam ||265 ||
+T02D1865:79b-33	ཕྱི་རོལ་རྡོ་རྗེ་ཕྲེང་བས་བསྐོར་༎ སྔགས་པ་ཤར་དུ་ཁ་བལྟས་ཏེ་༎	T02n1424u_001:573	 bahirveṣṭitavajrālīṃ yogī pūrvamukhasthitaḥ |
+T02D1865:79b-35	ཀུན་བྱེད་བཟླས་པས་ཀུན་དུ་བསྲུང་༎	T02n1424u_001:574	 japtvā sarvakṛtā rakṣya vāme'rghādyanyadanyat(taḥ) ||266 ||
+T02D1865:79b-36	མཆོད་ཡོན་སོགས་ག-ཡོན་དེ་ལས་གཞན་༎ ཡོ་བྱད་ག-ཡས་བཞག་བསངས་ནས་ནི་༎	T02n1424u_001:575	 nyasyopakaraṇaṃ prokṣya mañjuvajrātmayogavān |
+T02D1865:79b-38	འཇམ་པའི་རྡོ་རྗེའི་འབྱོར་བདག་ལྡན་༎ འོ་མ་ཅན་ཤིང་གིས་སྦར་བའི་༎	T02n1424u_001:576	 kṣīravṛkṣendhanādīptamagniṃ tryakṣararecitam ||267 ||
+T02D1865:79b-4	མེ་ལོང་དེ་བཞིན་པི་ཝང་དང་༎ དྲི་ཡི་དུང་དང་བཅུད་ལེན་སྣོད་༎	T02n1424u_001:554	 darpaṇaṃ ca tathā vīṇāṃ gandhaśaṃkharasāyanam |
+T02D1865:79b-40	མེ་ནི་ཡི་གེ་གསུམ་གྱིས་བསང་༎ རླུང་ཡབ་ག-ཡབས་པས་རབ་སྦར་ལ་༎ ག-ཡས་ནས་བསྐོར་ཞིང་ཀུ་ཤ་དགྲམ་༎	T02n1424u_001:577	 prajvālya vyajanāghātaiḥ kuśān dadyāt pradakṣiṇam |
+T02D1865:79b-43	དང་པོའི་སྙིང་བྱུང་རམ་གྲུ་གསུམ་༎	T02n1424u_001:578	 ādyajahṛt sa ca (ādyahṛjjaṃ ca raṃ)
+T02D1865:79b-5	གོས་དང་ཆོས་འབྱུང་ཉིད་དག་སྟེ་༎	T02n1424u_001:555	 vastraṃ dharmodayaṃ(ya)
+T02D1865:79b-6	སྦྱིན་དང་ཚུལ་ཁྲིམས་སོགས་པས་བརྒྱན་༎	T02n1424u_001:556	 ścaiva dānaśīlādiśodhitam ||257 ||
+T02D1865:79b-7	དད་སོགས་ཐོ་བ་དབྱིག་པ་དང་༎ པདམ་རྡོ་རྗེ་བཞི་པ་ཡིན་༎	T02n1424u_001:557	 śraddhādimudgaraṃ daṇḍaṃ padmaṃ vajraṃ caturthakam |
+T02D1865:79b-8	རྣམ་གསལ་ཀུན་དར་ཤེས་བྱས་ལ་༎ རང་གི་འཁོར་ལོ་རབ་གསལ་བསྒོམ་༎	T02n1424u_001:558	 dvāreṣu sarvathā jñātvā sphuṭaṃ dhyātvā svacakrakam ||258 ||
+T02D1865:80a-0	པད་གནས་ས་བོན་༄༨༠ཨ་༌་༎ རམ་ལས་བྱུང་༎	T02n1424u_001:579	 tryastrābjasthaṃ ruṃ(raṃ)
+T02D1865:80a-10	དགང་གཟར་བླུགས་གཟར་ཡུ་བ་ཁྲུ་༎ འོག་ཏུ་རྡོ་རྗེ་རིན་ཆེན་བྱ་༎ དེ་སྟེང་དགང་གཟར་རྒྱར་སོར་བཞི་༎	T02n1424u_001:585	 strukstruve hastadaṇḍādho vajraratnaistadūrdhvataḥ |  caturastrāṅgulā pātrī dvyaṅgulakhātavajradhā(jrādhaḥ) ||271 ||  caturaṅgulavajrāntarante padmadalākṛtiḥ |
+T02D1865:80a-2	སེར་ཞིང་ཞལ་སེར་གསུམ་པ་ལ་༎ ཤེས་རབ་ཡན་ལག་རྒྱས་དང་ལྡན་༎	T02n1424u_001:581	 dhyātvā pītaṃ trivaktraṃ tu pīnaṃ prajñāṅgasaṅginam |
+T02D1865:80a-6	སྔར་བཞིན་དེ་ཉིད་གསུམ་འདོན་པས་༎ ཡེ་ཤེས་དམ་པའི་མེ་སྤྱན་དྲངས་༎	T02n1424u_001:583	 āvāhya jñānasadvahniṃ prāgvat tritattvaṭakkinā |
+T02D1865:80a-9	བྱས་ནས་གདན་ལ་བཞུགས་སུ་གསོལ་༎	T02n1424u_001:584	 abhyukṣaṇādikaṃ tasya kṛtvāsananiveśanam ||270 ||
+T02D1865:80b-25	སེམས་ཅན་ཀུན་གྱི་སྙིང་ལ་བཞུགས་༎	T02n1424u_001:629	 sarvasattvamanovyāpī sarvasattvahṛdi sthitaḥ |
+T02D1865:80b-26	སེམས་ཅན་ཀུན་གྱི་ཡབ་གྱུར་ཉིད་༎ འདོད་མཆོག་དམ་ཚིག་མཆོག་གྱུར་པའོ་༎	T02n1424u_001:630	 sarvasattvapitā caiva kāmo'gryaḥ samayāgriṇām ||287 ||
+T02D1865:80b-28	བདེན་པ་གང་གིས་ཡེ་ཤེས་མཆོག་། ཤེས་རབ་ཐབས་དག་དཀྱིལ་འཁོར་ཡིན་༎	T02n1424u_001:631	 yena satyena sajjñānaṃ prajñopāyātmamaṇḍalam |
+T02D1865:80b-29	བདེན་པ་དེ་ཡིས་མགོན་བདག་ལ་༎ ཁྱེད་ཀྱི་འདོད་པ་རབ་རྫོགས་མཛོད་༎	T02n1424u_001:632	 tena satyena me nātha kāmāṃstvaṃ paripūraya ||288 ||
+T02D1865:80b-31	ཆོས་རྣམས་གཟུགས་བརྙན་ལྟ་བུ་སྟེ་༎	T02n1424u_001:633	 pratibimbasamā dharmā acchāḥ suddhā hyanāvilāḥ |
+T02D1865:80b-32	དག་ཅིང་གསལ་ལ་རྙོག་པ་མེད་༎ གཟུང་དུ་མེད་ཅིང་བརྗོད་དུ་མེད་༎ རྒྱུ་དང་ལས་ལས་ཀུན་དུ་འབྱུང་༎	T02n1424u_001:634	 agrāhyā anabhilāpyāśca hetukarmasamudbhavāḥ ||289 ||
+T02D1865:80b-35	དེ་བཞིན་ཉིད་ལས་ངེས་པར་སྐྱེས་༎ བདེན་པ་འདི་ཡིས་དཀྱིལ་འཁོར་དུ་༎ གཟུགས་བརྙན་གསལ་བར་སློབ་མ་ནི་༎	T02n1424u_001:635	 tathātā tattvaniryātā iti satyena maṇḍale |  pratibimbaṃ sphuṭaṃ śiṣyāḥ sarve paśyantvakalmaṣāḥ ||290 ||
+T02D1865:80b-38	ཀུན་གྱིས་དྲི་མ་མེད་མཐོང་ཤོག་། སློབ་མ་སྤྱི་ཡི་སྡོམ་པ་དང་༎ སྔོན་བཞིན་སྐུ་སོགས་འོད་གསལ་བྱ་༎	T02n1424u_001:637	 sāmānyasaṃvaraṃ śiṣyaṃ prāgvatkāyādibhāsvaram |
+T02D1865:80b-39	ཀུན་བྱེད་བུམ་པའི་ཆུ་ཡིས་ནི་༎ ཡོལ་བའི་མཐར་ནི་བསང་གཏོར་བྱ་༎	T02n1424u_001:639	 kāntaraṃ prokṣya sarvakṛt kalaśāṃstathā ||291 ||
+T02D1865:80b-41	དེ་ནས་གོས་དམར་གྱིས་གདོང་ག-ཡོགས༎ ༄༨༡ཨ་༌་༎ སྡུག་པ་ཁྱོད་ནི་སུ་ཞེས་དྲི་༎	T02n1424u_001:640	 raktāmbaraṃ tadāsyaṃ ca pṛcchet kastvamiti priya |
+T02D1865:81a-1	དེ་ནས་སླེབ་མས་ཚིག་ཏུ་ནི་༎ བདག་ནི་སྐལ་བ་བཟང་ཞེས་བརྗོད་༎	T02n1424u_001:641	 śiṣyeṇāpi tato vācyaṃ subhago'hamiti priya ||292 ||
+T02D1865:81a-11	ཡི་གེ་ལྔ་དང་དེ་བཞིན་དུ་༎ བརྗོད་དེ་དམ་ཚིག་འཛིན་དུ་གཞུག་། དེང་ཁྱོད་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་རིགས་སུ་ཞུགས་ཀྱིས་།	T02n1424u_001:648	 pañcākṣarairathāpyevaṃ vācyaṃ satsaṃvaragrahe ||294 ||  adya tvaṃ sarvatathāgatakule praviṣṭaḥ |
+T02D1865:81a-13	ངས་ཁྱོད་ལ་ཡེ་ཤེས་གང་གིས་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་དངོས་གྲུབ་ཀྱང་ཐོབ་ན་། དངོས་གྲུབ་གཞན་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ་། དེ་ལྟ་བུའི་རྡོ་རྗེ་ཡེ་ཤེས་བསྐྱེད་པར་བྱ་ཡིས་།	T02n1424u_001:650	 tadahaṃ te vajrajñānamutpādayāmi yena jñānena tvaṃ sarvatathāgatasiddhīrapi prāpyasi kimutānyāḥ siddhīḥ |
+T02D1865:81a-16	ཁྱོད་ཀྱིས་དཀྱིལ་འཁོར་ཆེན་པོ་མ་མཐོང་བ་རྣམས་ལ་མ་སྨྲ་ཤིག་དམ་ཚིག་ཉམས་པར་གྱུར་ཏ་རེ་།	T02n1424u_001:651	 na ca tvayādṛṣṭamaṇḍalasya purato vaktavyam |  mā te samayo vyathe(vyarthaṃ gacche)
+T02D1865:81a-17	དེའི་སྙིང་གར་རྡོ་རྗེ་བཞག་ལ་། ཨཨོམ་རྡོ་རྗེ་སེམས་དཔའ་དེང་ཁྱོད་ཀྱི་༎ སྙིང་ལ་ཡང་དག་ཞུགས་པར་གྱུར་༎	T02n1424u_001:653	 diti taddhṛdi vajramāsthāpya |  om vajrasattva svayaṃ te'dya hṛdaye samavasthitaḥ ||295 ||
+T02D1865:81a-20	གལ་ཏེ་ཚུལ་འདི་སྨྲས་ན་ནི་༎ དེ་མ་ཐག་ཏུ་དྲལ་ནས་གཤེགས་༎	T02n1424u_001:655	 nirbhidya tatkṣaṇaṃ yāyād yadi brūyādimaṃ nayam |
+T02D1865:81a-22	པད་གནས་ཡི་གེ་གསུམ་གྱིས་སྦར་༎	T02n1424u_001:656	 padmasthaṃ tryakṣarojvalaṃ pāyayedamṛtaṃ pañca ||296 ||
+T02D1865:81a-23	མི་འཆི་ལྡང་འཐུང་དུ་གཞུག་།འདི་ནི་དམ་ཚིག་དམྱལ་བའི་ཆུ་༎ དམ་ཚིག་འདས་ན་སྲེག་པར་བྱེད་༎	T02n1424u_001:657	 idaṃ te nārakaṃ vāri samayātikramād dahet |
+T02D1865:81a-25	དམ་ཚིག་བསྲུངས་ན་དངོས་གྲུབ་སྟེར་༎ རྡོ་རྗེ་བདུད་རྩིའི་ཆུ་འཐུང་ཤིག་། ཨཨོམ་བཛྲད་ཀ་ཐ་ཐ་ཐ་།	T02n1424u_001:658	 samayarakṣaṇāt siddhiḥ piba vajrāmṛtodakam ||297 ||  om vajrodaka ṭhaḥ ||
+T02D1865:81a-27	དམ་བཅའ་བ་བརྟན་པར་འདི་སྐད་ཅེས་བརྗོད་དོ་༎	T02n1424u_001:660	 dṛḍhapratijñamidaṃ vadet |
+T02D1865:81a-28	དེང་ཕྱིན་ཆད་ཁྱོད་ཀྱི་ཕྱག་ན་རྡོ་རྗེ་ནི་ང་ཡིན་གྱིས་། ངས་འདི་བྱོས་ཤིག་ཅེས་བསྒོ་བ་གང་ཡིན་པ་དེ་ཡང་བྱ་དགོས་སོ་༎	T02n1424u_001:661	 adyaprabhṛti tavāhaṃ vajrapāṇiryadahaṃ brūyāmima kuru tat tvayā kartavyam |
+T02D1865:81a-30	ཁྱོད་ཀྱིས་ང་ལ་བརྙས་པར་མ་བྱེད་ཅིག་མི་བདེ་བ་མ་སྤངས་པར་ཁྱོད་དུས་བྱས་ནས་དམྱལ་བར་ལྟུང་བར་གྱུར་ཏ་རེ་ཞེས་སྨྲས་ལ་།	T02n1424u_001:662	 na cāhamavamantavyo mā te viṣamāparihāreṇa kālakriyāṃ kṛtvā narakapatanaṃ syāt |
+T02D1865:81a-5	སྙིང་གར་རྡོ་རྗེ་སྙིང་པོ་བསམ་༎	T02n1424u_001:643	 yogacittaṃ samutpādya hṛdi vajraṃ hṛdā nyaset ||293 ||
+T02D1865:81a-6	སྔགས་ལ་ཨཨོམ་སརྦ་ཡོ་ག་ཙིཏཏ་ཨཽཏཔའ་ད་ཡའ་མི་སུ་ར་ཏ་ས་མ་ཡ་སཏབ༹མ་ཧོ་སིདདྷི་བཛྲ་ཡ་ཐའ་སུ་ཁམ་།	T02n1424u_001:644	 mantraḥ- om sarvayogacittamutpādayāmi surate samayastvaṃ hoḥ sidhya vajra yathāsukham |
+T02D1865:81a-7	དེང་ཁྱོད་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱིས་བྱིན་གྱིས་བརླབས་ཀྱིས་།	T02n1424u_001:645	 adya tvaṃ sarvatathāgatādhiṣṭhito bhaviṣyasi |
+T02D1865:81a-8	དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་མཆོག་ཏུ་གསང་བ་འདི་ཁྱོད་ཀྱིས་དཀྱིལ་འཁོར་མ་མཐོང་བ་རྣམས་ལ་སྨྲ་བར་མ་བྱེད་ཅིག་། དད་པ་དང་མི་ལྡན་པ་རྣམས་ལ་ཡང་མ་ཡིན་ནོ་ཞེས་བརྗོད་པར་བྱའོ་༎	T02n1424u_001:646	 na ca tvayedaṃ sarvatathāgataparamarahasyamamaṇḍalapraviṣṭāya vaktavyaṃ na cāśraddhā[ya dā]tavyamiti vācyam |
+T02D1865:81a-9	གཤིན་རྗེ་གཤེད་སོགས་རང་སྔགས་ནི་༎ དམ་པས་དགུག་དང་གཞུག་པར་བྱ་༎	T02n1424u_001:647	 yamāryādi svasanmantraiḥ samākṛṣya praveśya ca |
+T02D1865:81b-33	འཁོར་ལོའི་བདག་པོ་ནས་བརྩམས་ཏེ་༎ བདུད་རྩི་ཐབ་སྦྱོར་བར་དུའོ་༎ བཛྲ་ཨཨ་བྷི་ཤི་ཉཙ་ཞེས་༎	T02n1424u_001:683	 cakrādhipaṃ samārabhya yāvadamṛtakuṇḍalim |
+T02D1865:81b-36	བརྗོད་དེ་སྤྱི་བོར་ཆུས་དབང་བསྐུར་༎	T02n1424u_001:684	 secayedambunā mūrdhni vajrābhiṣiñcivāgbruvan ||306 ||
+T02D1865:81b-37	སྔོན་བཞིན་ཅོད་པན་གྱིས་རང་བདག་། ལྷ་ཡི་དབང་བསྐུར་སྦྱིན་པར་བྱ་༎	T02n1424u_001:685	 secayenmaulinā prāgvaddattvā cādhipadaivatam |
+T02D1865:81b-38	སྙིང་གར་རྡོ་རྗེ་དེ་འཛིན་ལ་༎ རྡོ་རྗེ་ཡིས་ཀྱང་དབང་བསྐུར་བྱ་༎ སངས་རྒྱས་ཀུན་གྱི་རྡོ་རྗེའི་དབང་༎	T02n1424u_001:686	 hṛdi saṃgrāhya tadvajraṃ vajreṇāpyabhiṣecayet ||307 ||  adyābhiṣiktastvamasi buddhairvajrābhiṣekataḥ |
+T02D1865:81b-41	དེ་རིང་ཁྱོད་ནི་བསྐུར་བར་འགྱུར་༎ སངས་རྒྱས་ཀུན་དུ་རབ་གྲུབ་པའི་༎	T02n1424u_001:688	 idaṃ tatsarvabuddhatvaṃ gṛhṇa vajraṃ susiddhaye ||308 ||
+T02D1865:81b-44	རྡོ་རྗེ་དྲིལ་བུས་འཁྱུད་ནས་ནི་༎	T02n1424u_001:689	 āliṅgya vajraghṇṭābhyāṃ svādhipāt-
+T02D1865:81b-45	རང་གི་བདག་པོས་དབང་བསྐུར་སྦྱིན་༎ ཨཨོམ་བཛྲ་ཨཨ་དྷི་པ་ཏི་ཏབ༹མ་ཨཨ་བྷི་ཤི་ཉཙའ་མི་ཏི་ཤཐ་བཛྲ་ས་མ་ཡ་སཏབ༹མ་།	T02n1424u_001:690	 om vajrādhipati tvāmabhiṣiñcāmi tiṣṭha vajrasamayastvam |
+T02D1865:81b-47	སྤྱི་བོར་མིང་གི་སྟེ་། ཨཨོམ་བཛྲ་སཏབ༹་སཏབ༹མ་ཨཨ་བྷི་ཤི་ཉཙའ་མི་བཛྲ་ནའ་མ་ཨཨ་བྷི་ཤེ་ཀ་ཏ་། ཀྱེ་ཆེ་གེ་མོ་རྡོ་རྗེ་༎	T02n1424u_001:691	 om vajrasattva tvāmabhiṣiñcāmi vajranāmābhiṣekataḥ |  he amuka vajra !  mūrdhnināmataḥ |
+T02D1865:81b-50	རང་གི་དངོས་པོ་གང་གང་སྣང་༎ གཙོ་ཆེར་དེར་ནི་འཇམ་༄༨༢ཨ་༌་༎	T02n1424u_001:694	 yadyad bhāti svasarvasvaṃ mukhyaṃ tanmañjurāṭ svayam |
+T02D1865:82a-1	རྒྱལ་རང་༎ ཆོས་རྣམས་རང་བཞིན་གྱིས་དག་པས་༎ སངས་རྒྱས་ཡེ་ཤེས་གང་ཡིན་དེར་༎	T02n1424u_001:695	 dharmāḥ śuddhāḥ prakṛtyā yad buddhajñānacayaḥ sa hi ||309 ||
+T02D1865:82a-12	བརྟུལ་ཞུགས་ལུང་བསྟན་དབུགས་འབྱིན་པ་༎ རིགས་དབང་བསྐུར་ལའང་འདི་མིང་ཡིན་༎	T02n1424u_001:701	 vratavyākaraṇāśvāsā vidyāseke'pi nāmnyamī ||312 ||
+T02D1865:82a-14	འདི་དེ་སངས་རྒྱས་ཐམས་ཅད་དེ་༎ རྡོ་རྗེ་སེམས་དཔའི་ལག་ན་གནས་༎	T02n1424u_001:702	 idaṃ tatsarvabuddhatvaṃ vajrasattvakare sthitam |
+T02D1865:82a-16	ཁྱོད་ཀྱིས་ཀྱང་ནི་རྟག་ཏུ་བཅང་༎ རྡོ་རྗེ་སེམས་དཔའི་བརྟུལ་ཞུགས་བརྟན་།	T02n1424u_001:703	 tvayāpi hi sadā dhāryaṃ vajrapāṇi dṛḍhavratam ||313 ||
+T02D1865:82a-18	ཨཨོམ་སརྦ་ཏ་ཐའ་ག་ཏ་སིདདྷི་བཛྲ་ས་མ་ཡ་ཏི་ཤཐ་ཨཨེ་ཤ་ཏབ༹མ་དྷ་ར་ཡའ་མི་ཧི་ཧི་ཧི་ཧི་ཧའུམ་།	T02n1424u_001:704	 om sarvatathāgatasiddhivajrasamaye tiṣṭha eṣa tvāṃ dhārayāmi hīḥ hi hi hi hi hū |
+T02D1865:82a-19	རྡོ་རྗེ་བརྟུལ་ཞུགས་ཀུན་བྱིན་ནས་༎	T02n1424u_001:705	 sarvānvajravrataṃ dattvā vajraṃ tattvena grāhayet |
+T02D1865:82a-20	རྡོ་རྗེ་དེ་ཉིད་ཀྱིས་འཛིན་གཞུག་། ཐོག་མཐའ་མེད་པའི་སེམས་དཔའ་ནི་༎ རྡོ་རྗེ་སེམས་དཔའ་དགའ་བ་ཆེ་༎	T02n1424u_001:706	 anādinidhanaḥ sattvo vajrasattvo mahārataḥ ||314 ||
+T02D1865:82a-22	ཀུན་དུ་བཟང་པོ་ཀུན་བདག་ཉིད་༎	T02n1424u_001:707	 samantabhadraḥ sarvātmā vajragarvāpatiḥ patiḥ |
+T02D1865:82a-23	རྡོ་རྗེ་བསྙེམས་ཚུལ་བདག་པོའི་བདག་། དྲིལ་བུ་དེ་ཉིད་ཀྱིས་བཟུང་བ་༎ ཆོས་ཀྱི་སྒྲ་ཡིས་དཀྲོལ་དུ་གཞུག་།འདི་དེ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་༎	T02n1424u_001:708	 ghaṇṭāṃ tattvena saṃgrāhya dharmaśabdena vādayet ||315 ||
+T02D1865:82a-25	ཤེས་རབ་སྒྲ་ཡི་རྗེས་འགྲོར་བཤད་༎	T02n1424u_001:709	 iyaṃ sā sarvabuddhānāṃ prajñāghoṣānugā smṛtā |
+T02D1865:82a-26	ཁྱོད་ཀྱིས་ཀྱང་ནི་རྟག་ཏུ་བཅང་༎ བྱང་ཆུབ་མཆོག་ཏུ་རྒྱལ་བས་བཞེད་༎	T02n1424u_001:710	 tvayāpi hi sadā dhāryā bodhiragrā jinairmatā |
+T02D1865:82a-28	དེ་ཆོས་ཀྱིས་དཀྲོལ་དུ་གཞུག་སྟེ་༎	T02n1424u_001:711	 tāṃ taddharmeṇa vādayet ||316 ||
+T02D1865:82a-29	སྲིད་པ་ངོ་བོ་ཉིད་ཀྱིས་དག་། ངོ་བོ་ཉིད་ཀྱིས་འགལ་སྲིད་བྱས་༎	T02n1424u_001:712	 svabhāvaśuddho hi bhavaḥ svabhāvairvibhavīkṛtaḥ |
+T02D1865:82a-3	རང་ཉིད་འཁོར་ལོས་སྒྱུར་ཉིད་པས་༎ མཚན་གྱི་ཐོག་མར་དཔལ་གྱི་སྒྲ་༎ ཀུན་ལའང་བདག་པོ་ཐམས་ཅད་ལས་༎	T02n1424u_001:696	 svasyaiva cakravartitve śrīdhvanirnāma āditaḥ |
+T02D1865:82a-30	རང་བཞིན་གྱིས་དག་སེམས་དཔའ་མཆོག་། སྲིད་པ་མཆོག་ཏུ་བྱེད་པར་འགྱུར་༎	T02n1424u_001:713	 svabhāvaśuddhaiḥ satsattvaiḥ kriyate paramo bhavaḥ ||317 ||
+T02D1865:82a-32	བསྙེན་སོགས་སྙིང་པོར་བཤད་པ་ཡིས་༎ ཕྱག་རྒྱ་ཆེན་པོར་བྱིན་བརླབས་ལ་༎ གཟུགས་སོགས་འདོད་པའི་དམ་ཚིག་གིས་༎ གསང་སྔགས་མ་ཚང་མེད་པར་བཟླ་༎	T02n1424u_001:714	 adhiṣṭhāya mahāmudrāṃ hṛdbhiḥ sevādikīrtitaiḥ |
+T02D1865:82a-36	རང་གི་རིག་པའི་ངོ་བོ་དེ་༎ ཕྱོགས་བཅུར་དུས་གསུམ་བཞུགས་པ་དེ་༏	T02n1424u_001:716	 svasaṃvedyasvabhāvaistaiḥ sarvadiktryadhvasaṃsthitaiḥ |
+T02D1865:82a-38	། རང་གི་ལྷ་ཡི་སྦྱོར་བ་ཡི་༎ བདག་དང་གཞན་ལ་མཆོད་པར་བྱ་༎	T02n1424u_001:717	 svādhidaivatayogena svaṃ parāṃścaiva pūjayet ||319 ||
+T02D1865:82a-40	དཀའ་ཐུབ་སྔོམ་པ་མི་ཟད་པ་༎	T02n1424u_001:718	 duṣkarairniyamaistairyat sevyamānairna siddhayaḥ |
+T02D1865:82a-41	བསྟེན་ན་མི་སྣང་མངོན་ཤེས་དང་༎ མཁའ་ལ་རྒྱུ་དང་ལུས་ངག་ཡིད་༎ ལས་བྱུང་དངོས་གྲུབ་འགྲུབ་མི་འགྱུར་༎	T02n1424u_001:719	 sidhyante'ntarddhyabhijñākhacārīvākcittakāyajāḥ ||320 ||
+T02D1865:82a-6	ཀྱེ་དང་རྡོ་རྗེ་མཐའ་མར་སྦྱར་༎	T02n1424u_001:697	 sarve sarvādhipatyā tu vajrānto he niyojitāḥ ||310 ||
+T02D1865:82a-7	ཆུ་ཁམས་དག་པ་མི་བསྐྱོད་པ་༎ ཅོད་པན་མཉམ་པའི་བདག་ཉིད་ཅན་༎	T02n1424u_001:698	 abdhātuśuddhirakṣobhyā makuṭaḥ samatātmakaḥ |
+T02D1865:82a-9	རྡོ་རྗེ་སོ་སོར་རྟོག་མཆོག་བདག་། བདག་པོ་བྱ་སྒྲུབ་དོན་སྩོལ་བ་༎ ཡེ་ཤེས་རིགས་ཡིན་འདིར་རྡོ་རྗེ་༎ རྒྱུ་དང་རིགས་ཀྱི་དབང་བྱས་པ་༎	T02n1424u_001:699	 vajraṃ satpratyavekṣātmādhipaḥ kṛtyakaro'rthadaḥ ||311 ||  jñānaṃ vidyātra vajraṃ syāddhāturgotraṃ vaśīhya(kṛ)taḥ |
+T02D1865:82b-0	དེ་བས་སངས་རྒྱས་སེམས་དཔའ་མཆོག་། སྔགས་༄༨༢བ་ཀྱི་སྤྱོད་མཆོག་སྤྱོད་པ་རྣམས་༎	T02n1424u_001:720	 tasmād buddhāśca satsattvā mantracaryāgracāriṇaḥ |
+T02D1865:82b-32	རྡོ་རྗེ་ཆེན་པོའི་དབང་བསྐུར་བ་༎ ཁམས་གསུམ་གྱིས་ནི་ཕྱག་བྱས་པ་༎	T02n1424u_001:738	 abhiṣekaṃ mahāvajraṃ traidhātukanamaskṛtam |
+T02D1865:82b-34	གསང་བ་གསུམ་གྱི་གནས་ལས་བྱུང་༎ སངས་རྒྱས་ཀུན་གྱིས་སྦྱིན་པར་བྱ་༎	T02n1424u_001:739	 dadāmi sarvabuddhānāṃ triguhyālayasaṃbhavam ||329 ||
+T02D1865:82b-36	མི་ལྡོག་དབང་བསྐུར་བྱིན་ནས་ནི་༏་།འཁོར་ལོ་དེ་ཉིད་སྦྱིན་པར་བྱ་༎	T02n1424u_001:740	 dattvāvivartyasaṃsekaṃ cakratattvaṃ tu darśayet |
+T02D1865:82b-38	མི་མཉམ་མེད་པ་ཟུར་བཞི་པ་༎ སངས་རྒྱས་སངས་རྒྱས་མི་མཉམ་ཉིད་༎	T02n1424u_001:741	 caturastramavaiṣamyādbuddhābuddhasamatvataḥ ||330 ||
+T02D1865:82b-40	ལུས་ཚོར་སེམས་དང་ཆོས་རྣམས་ཀྱིས་༎ གཅིག་དང་སྣ་ཚོགས་སྦྱོར་བྲལ་ཉིད་༎	T02n1424u_001:742	 kāyaviccittadharmāṇāṃ nānaikatvādyayogataḥ |
+T02D1865:82b-42	དེ་དྲན་དེ་ལ་དད་པ་གང་༎ ཤར་སྒོར་བྱང་ཆུབ་ཕྱིར་འདོད་དོ་༎	T02n1424u_001:743	 tatsmṛtistatra yā śraddhā prāgdvāraṃ bodhaye matam ||331 ||
+T02D1865:82b-44	དེ་ནས་བྱུང་དང་འབྱུང་འགྱུར་བའི་༎ ཕྱིན་ཅི་ལོག་སྤང་མ་སྐྱེས་བྱ་༎ མ་སྐྱེས་སྐྱེས་པའི་ཡང་དག་ཀྱང་༎ བསྐྱེད་པ་དང་ནི་གནས་བྱ་བ་༎ བརྩོན་འགྲུས་རྣམ་བཞི་ལྷོ་ཡི་སྒོ་༎	T02n1424u_001:744	 bhūtabhāviviparyāsahānyanutpattaye tataḥ |  abhūtotpannatathyasya cotpattisthitaye punaḥ ||332 ||
+T02D1865:82b-49	མདུན་དང་སྤྲོ་དང་གནས་དང་བློ་༎ རྫུ་འཕྲུལ་རྐང་དང་དྲན་པ་འདིར་༎	T02n1424u_001:746	 avāgdvāraṃ caturvīryacchandotsāhasthitirmatiḥ |
+T02D1865:82b-51	ནུབ་ཀྱི་སྒོ་ནི་ཡིན་པར་བཤད་༎	T02n1424u_001:747	 paścimaṃ ṛddhipādāstu dvāraṃ tat smṛtiratra tu ||333 ||
+T02D1865:83a-0	དད་དང་༄༨༣ཨ་༌་༎ བརྩོན་འགྲུས་དྲན་བསམ་གཏན་༎ ཤེས་རབ་དབང་སྟོབས་མཉམ་མེད་དེ་༎	T02n1424u_001:748	 śraddhāvīryasmṛtidhyānaprajñendriyabalātulam |
+T02D1865:83a-18	དྲ་བ་དྲ་ཕྱེད་ཉི་ཟླ་དང་༎ རྔ་ཡབ་མེ་ལོང་མེ་ཏོག་ཕྲེང་༎ འཁོར་ལོ་རིན་ཆེན་སོགས་ཀ་བ་༎	T02n1424u_001:757	 hārārddhahāracandrārkādarśastrakcāmarojjvalam ||338 ||
+T02D1865:83a-21	དེ་ཡི་ནང་གི་འཁོར་ལོ་དེ་༎ དཀྱིལ་འཁོར་བརྒྱད་པ་ལྟ་བུ་ཡིན་༎	T02n1424u_001:759	 tasyābhyantarataścakramaṣṭamaṇḍalakopamam |339 ||
+T02D1865:83a-23	ཕྱོགས་ཀུན་དུས་གསུམ་རྫོགས་སངས་རྒྱས་༎ རྡོ་རྗེ་ཐེག་པ་རབ་སྟོན་པས་༎ ཀུན་ནས་ཡོངས་སུ་ཟླུམ་པོར་ནི་༎ རྡོ་རྗེ་ཐིག་གིས་བསྐོར་བ་ཡིན་༎	T02n1424u_001:760	 sarvadiktryadhvasambhūta vajrayānapravartanāt |  vajrasūtraparikṣiptaṃ samantātparimaṇḍalam ||340 ||
+T02D1865:83a-27	ཡེ་ཤེས་ཀྱིས་འགྲོ་ལ་ཞེན་པས་༎ ཚོན་ནི་རྫོགས་སངས་རྒྱས་ལྔ་ཡིན་༎	T02n1424u_001:762	 raṅgāṇi pañcasaṃbuddhāstu jñānaiḥ sattvarañjanāt |
+T02D1865:83a-29	དབང་པོ་དོན་སོགས་རྣམ་དག་པ་༎ རང་གི་མཚན་ཉིད་དབེན་པ་ཉིད་༎	T02n1424u_001:763	 indriyārthādisaṃśuddhyā savalakṣaṇavivekataḥ ||341 ||
+T02D1865:83a-31	ཤེས་རབ་ཡེ་ཤེས་བདུད་རྩི་ནི་༎ རྡོ་རྗེ་ཅན་གསོལ་བུམ་པའང་དེ་༎	T02n1424u_001:764	 prajñājñānāmṛtaṃ pītaṃ vajriṇāṃ kalaśaṃ tu tat |
+T02D1865:83a-33	ཚོགས་རྫོགས་པ་ཡི་རྒྱུ་མཐུན་པ་། ཐུགས་རྗེས་བརླན་ཞིང་བུམ་པ་གང་༎	T02n1424u_001:765	 sambhārapūriniṣyandaḥ pūrṇakumbhaḥ kṛpārdrataḥ ||342 ||
+T02D1865:83a-35	དཀྱིལ་འཁོར་གང་དུ་མེ་ཏོག་སྤོས་༎ མར་མེ་ཆེ་དང་དྲིར་བཤད་པ་༎	T02n1424u_001:766	 puṣpadhūpamahādīpagandhākhyaṃ yacca maṇḍale |
+T02D1865:83a-37	བྱང་ཆུབ་ཡན་ལག་ཡིད་རབ་ཚིམ་༎ ཆོས་ཀྱི་སྣང་བ་གྲགས་བསྡུས་ཡིན་༎	T02n1424u_001:767	 bodhyaṅgasumanohlādidharmolkāyaśasāṃ cayaḥ ||343 ||
+T02D1865:83a-39	ཆོས་ཀྱི་ཟས་ནི་ལྷ་བཤོས་ཡིན་༎ ངོ་ཚ་ཁྲེལ་ཡོད་པ་ཡི་གོས་༎	T02n1424u_001:768	 dharmāhārastu naivedyaṃ hrīrapatrāpyamanbaram |
+T02D1865:83a-41	གླུ་སྙན་གར་དང་རོལ་མོ་རྣམས་༎ བདེ་བ་ཆེན་པོ་རྣམས་འཕེལ་བའོ་༎	T02n1424u_001:769	 sugītanṛtyavāditraṃ mahāsukhavivarddhanam ||344 ||
+T02D1865:83a-43	གྲོང་ཁྱེར་ཐར་པའི་གྲོང་ཁྱེར་པས་༎ དཀྱིལ་འཁོར་སྙིང་པོ་བསྡུས་པ་ཡིན་༎	T02n1424u_001:770	 puraṃ mokṣapuratvācca maṇḍalaṃ sārasaṃgrahāt |
+T02D1865:83a-45	འཁོར་ལོའི་དེ་ཉིད་ལེགས་བསྟན་ནས་༎ ལྷ་ཡི་དེ་ཉིད་བསྟན་པར་བྱ་༎	T02n1424u_001:771	 cakratattvaṃ samādarśya devatātattvamādiśet ||345 ||
+T02D1865:83a-47	དད་དང་བརྩོན་འགྲུས་དྲན་བསམ་གཏན་༎ རྣམ་དག་སྒོ་སྲུང་མཆོག་གི་གཟུགས་༎ སྐུ་སོགས་རྣལ་འབྱོར་འཛིན་པའི་སེམས་༎	T02n1424u_001:772	 śraddhāvīryasmṛtidhyānaśuddhyā saddvārirūpakam |
+T02D1865:83a-50	ཤེས་རབ་དག་པས་རབ་དྲི་མེད་༎	T02n1424u_001:774	 kcittaṃ prajñāśuddhyā sunirmalam ||346 ||
+T02D1865:83b-0	༄༨༣བ་སྦྱིན་སོགས་དྲུག་པོས་ཕྱི་རོལ་དག་། གཟུགས་རྡོ་རྗེ་སོགས་རང་བཞིན་ཅན་༎	T02n1424u_001:775	 dānādiṣaṭbahiḥśuddhyā rūpavajrādibhāvadhṛk |
+T02D1865:83b-1	ས་ཐབས་ལ་སོགས་མཚན་མེད་ཕྱིར་༎ སྤྱན་ལ་སོགས་པའི་ངོ་བོ་ཉིད་༎	T02n1424u_001:776	 bhūpāyādyanimittatvāllocanādisvabhāvakam ||347 ||
+T02D1865:83b-10	སེར་སྣ་ལ་སོགས་གནས་གྱུར་པ་༎ མཆོག་དང་སར་ནི་ཤིན་ཏུ་བསྟན་༎	T02n1424u_001:781	 mātsaryādiparāvṛttaiḥ paramābhūsu susthiram |
+T02D1865:83b-12	རང་གི་རྣམ་རྟོག་གནས་གྱུར་པ་༎ སྟོབས་སོགས་ཚང་ཞིང་དྲི་མ་མེད་༎	T02n1424u_001:782	 svavipakṣa parāvṛttyā balādyavikalāmalam ||350 ||
+T02D1865:83b-14	རྣམ་པར་མི་རྟོག་ཟབ་པ་དང་༎ རྒྱ་ཆེ་བ་ནི་རང་གཞན་འབྱུང་༎ ཟབ་དང་རྒྱ་ཆེན་འདི་དག་ཉིད་༎ ཤེས་རབ་ཐབས་བདག་ཉིད་གང་སྟེ་༎	T02n1424u_001:783	 avikalpāttu gāmbhīryamaudāryaṃ svaparodayāt |  gāmbhīryaudāryataścetaḥ prajñopāyātmakaṃ matam ||351 ||
+T02D1865:83b-17	སོ་སོར་རང་རིག་ཆོས་ཡིན་ཕྱིར་༎ དབྱེ་ཡོད་དབྱེ་མེད་སོགས་མི་གནས་༎	T02n1424u_001:785	 pratyātmavedyadharmatvād bhedābhedādyasaṃsthitam |
+T02D1865:83b-19	དེ་ལྟར་སྤྲོས་པར་གྱུར་པ་ནི་༎ ཕ་རོལ་ཕྱིན་སོགས་འབྲས་བུར་སྣང་༎	T02n1424u_001:786	 evaṃ prapañcite bhānti phalāḥ pāramitādayaḥ ||352 ||
+T02D1865:83b-21	དེ་ནས་རྣལ་འབྱོར་དམ་ཚིག་མཆོག་། གཟུགས་དང་ལང་ཚོ་ཡོན་ཏན་ལྡན་༎ སྦྱོར་བྱས་སློབ་དཔོན་དེ་འདུག་ལ་༎	T02n1424u_001:788	 kṛtvācāryo'tra saṃviśya jñānāveśaṃ prakalpayet ||353 ||
+T02D1865:83b-23	ཡེ་ཤེས་དབབ་པ་རབ་ཏུ་བརྟག་། རྡོ་རྗེ་ཆུ་སྐྱེས་ཁ་ཕྱེ་ལ་༎ སངས་རྒྱས་རང་སྣང་གཞུག་པར་བྱ་༎	T02n1424u_001:789	 vajreṇa padmamāsphoṭya buddhān svāntarniveśya ca |
+T02D1865:83b-25	པདམ་ལ་གནས་བརྟན་བྱས་ཏེ་༎	T02n1424u_001:790	 sthirīkṛtya ca padmasthān prāpyānujñāṃ kulādhipāt ||354 ||
+T02D1865:83b-26	རིགས་བདག་སྣང་བ་ཐོབ་པ་དང་༎ རྡོ་རྗེའི་བདག་ཉིད་རང་མིང་བརྗོད་༎ འཁོར་ལོའི་སྦྱོར་བས་སྤྲོ་བར་བྱ་༎	T02n1424u_001:791	 svanāmoccārya vajrātmā sphārayeccakrayogataḥ |
+T02D1865:83b-28	རྡོ་རྗེ་ཆུ་སྐྱེས་སྒྲས་སངས་རྒྱས་༎ སྤྱན་དྲངས་འཁོར་ལོའི་ཕྱོགས་ལོགས་སུ་༎	T02n1424u_001:792	 vajrābjadhvanibhirbuddhānānīya cakrapārśvataḥ ||355 ||
+T02D1865:83b-3	དོན་དང་སེམས་ཅན་བདག་ཀུན་རྟོག་།འཇུག་པའི་ཤེས་པ་རྣམ་དག་པ་༎	T02n1424u_001:777	 arthasattvātmasaṃkalpapravṛttijñānaśuddhitaḥ |
+T02D1865:83b-30	བགེགས་རྣམས་བསམས་ལ་ཡང་དག་བསྲུང་༎ མཆོད་ཡོན་ཕུལ་ལ་རབ་ཏུ་འང་མཆོད་༎	T02n1424u_001:793	 vighnānutsārya saṃrakṣya dattvārghaṃ pratipūjya ca |
+T02D1865:83b-32	ཡང་དག་བསྟོད་དེ་སྒོ་བས་སྒོར་༎ ལས་རྣམས་བྱས་ནས་བསྒྲུབ་པར་བྱ་༎	T02n1424u_001:794	 saṃstutya dvāribhirdvārakarma kṛtvātra sādhayet ||356 ||
+T02D1865:83b-34	མིག་དང་སྐུ་སོགས་བྱིན་བརླབས་ལ་༎ དབང་བསྐུར་མཆོད་པ་ལ་སོགས་བརྟག་། དངོས་གྲུབ་ཀུན་ཕྱིར་སེམས་ཅན་དོན་༎ མཛོད་ཅིག་ཅེས་ནི་གསོལ་བ་གདབ་༎	T02n1424u_001:795	 cakṣuḥkāyādyadhiṣṭhānasekapūjādikalpite |  vijñapayetsarvasattvārthaṃ kurudhvaṃ sarvasiddhaye ||357 ||
+T02D1865:83b-37	འཁོར་ལོ་ཡང་དག་བྲིས་ནས་ནི་༎ དང་པོ་རབ་གནས་ཆོ་ག་འདི་༎	T02n1424u_001:797	 cakraṃ saṃlikhya samyak prākpratiṣṭhāyāstvayaṃ vidhiḥ |
+T02D1865:83b-39	སྐུ་གཟུགས་གླེགས་བམ་ལ་སོགས་ལ་༎ སྐྱེས་བུའི་མཐར་ཐུག་པས་དབང་བསྐུར་༎	T02n1424u_001:798	 pratimāpustakādīnāṃ pauruṣāntastu sekataḥ ||358 ||
+T02D1865:83b-4	མེ་ལོང་ལ་སོགས་ཡེ་ཤེས་ནི་༎ སངས་རྒྱས་ཀུན་གྱི་ངོ་བོ་ཡིན་༎	T02n1424u_001:778	 ādarśādiakaṃ ca jñānaṃ sarvabuddhasvarūpakam ||348 ||
+T02D1865:83b-41	བུམ་པ་མཆོད་ཡོན་བླ་རེ་སོགས་༎ བསྲུངས་ནས་སྦྱིན་སྲེག་སོགས་བཤད་གང་༎	T02n1424u_001:799	 kalaśārghavitānādi rakṣāhomādi yatsmṛtam |
+T02D1865:83b-43	ཡི་གེ་སྔགས་གསུམ་སྔགས་མཆོག་གམ་། ༄༨༤ཨ་༌་༎ སྔར་བཏུས་པ་ཡི་སྔགས་ཀྱིས་བྱ་༎	T02n1424u_001:800	 tripañcākṣara sanmantrairmantrairvā prāksamuddhṛtaiḥ ||359 ||
+T02D1865:83b-6	མ་སྐྱེས་ཡེ་ཤེས་སྦྱོར་བ་ཡིས་༎ འཁོར་ལོའི་གཙོ་བོ་ལྟ་བུར་སྣང་༎	T02n1424u_001:779	 jñānānutpādayogena cakreśākārabhāsvaram |
+T02D1865:83b-8	གཟུགས་སོགས་འཁྲུལ་པ་ལེགས་དག་པ་༎ ཕུང་པོ་སྐྱེ་མཆེད་ཁམས་རྣམས་སོ་༎	T02n1424u_001:780	 rūpādibhramasaṃśuddhyā skandhāyatanadhātukam ||349 ||
+T02D1865:84a-1	ཕྱི་ཡི་ཁྲུས་ནི་བྱས་བདག་།འཁོར་ལོས་སྒྱུར་འདྲ་དེ་རང་ཉིད་༎	T02n1424u_001:801	 kārayitvā bahiḥsnānaṃ cakravartīva tatsvayam |
+T02D1865:84a-16	བརྟན་པའི་བློ་ལྡན་སྣོད་ཀྱིས་ཀུན་༎ རྣམ་སྣང་བདག་ཉིད་ཅན་འཐུངས་ལ་༎	T02n1424u_001:809	 śiṣyo dṛḍhamatiḥ sarvaṃ pibedvairocanātmanā |
+T02D1865:84a-19	ཀྱེ་མ་ཤིན་ཏུ་བདེན་ཚིག་བརྗོད་༎	T02n1424u_001:811	 ho sukheti vāgbruvan ||364 ||
+T02D1865:84a-2	ཤེས་རབ་ཐབས་ཀྱི་བདག་ཉིད་གང་༎ བདག་ཉིད་མཆོག་ནི་དེ་ཉིད་ཡིན་༎	T02n1424u_001:802	 uttamaṃ tattvametaddhi prajñopāyātmakaṃ tu yat ||360 ||
+T02D1865:84a-20	ཤེས་རབ་ཡན་ལག་འདུས་དཔལ་ལྡན་༎ དེ་ཉིད་ཉེ་བར་ཤེས་པར་བྱ་༎	T02n1424u_001:812	 prajñāsamparkataḥ śrīmān tattvaṃ samupalakṣayet |
+T02D1865:84a-22	གཟུངས་འདི་ཤིན་ཏུ་ཡིད་འོང་སྟེ་༎ བསྟེན་བྱར་སངས་རྒྱས་རྣམས་ཀྱིས་བརྟགས་༎	T02n1424u_001:813	 iyaṃ te dhāraṇī ramyā sevyā buddhaiḥ prakalpitā ||365 ||
+T02D1865:84a-24	འཁོར་ལོའི་རིམ་གྱིས་རབ་སྦྱོར་བས་༎ བདེ་བ་དམ་པ་ཡང་དག་སྤྱོད་༎	T02n1424u_001:814	 cakrakramaprayogeṇa samāsvādaya satsukham |
+T02D1865:84a-26	རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་ཉིད་དང་སེམས༎ ནོར་ལྡན་ཁོངས་སུ་གཏོགས་པར་བསམ་༎	T02n1424u_001:815	 vajraparyaṅkataścittaṃ maṇyantargatamīkṣayan ||366 ||
+T02D1865:84a-28	དཀྱིལ་འཁོར་ལྷ་ཡི་དེ་ཉིད་དང་༎ སློབ་དཔོན་གྱི་ནི་ལས་རྣམས་དག་། རབ་གསང་ཤེས་རབ་མཆོག་གི་ནི་༎ དབང་བསྐུར་དེ་ཉིད་ཡང་དག་བཤད་༎	T02n1424u_001:816	 maṇḍalaṃ devatātattvamācāryaparikarma ca |  saṃkathya guhyaprajñābhyāṃ siktvā tattvaṃ samuddiśet ||367 ||
+T02D1865:84a-31	བྱང་ཆུབ་སྤྱོད་གཞན་དེ་བཞིན་དུ་༎ དགེ་བའི་ཚུལ་ནི་གཞན་གསུངས་པ་༎ སངས་རྒྱས་ཀུན་སོགས་འཐོབ་མི་འགྱུར་༎	T02n1424u_001:819	 na tathā bodhicaryādyairanyai rvāpi nayaiḥ śubhaiḥ |  prāpyante sarvabuddhādyā yathābhiṣekādito nayāt ||368 ||
+T02D1865:84a-34	དམ་ཚིག་དང་ནི་བསྲུང་བ་དང་༎ རྟག་ཏུ་སྡོམ་པ་བསྐྱང་བར་བྱ་༎ བཅུ་ཕྱེད་སྒྲོན་མ་མི་འཆི་སྤྱད་༎	T02n1424u_001:821	 samayaṃ rakṣayedbhartuḥ saṃvaraṃ pālayetsadā |  pañcamāṃsāmṛtāṃ(taṃ)  bhakṣyaṃ rakṣo(kṣyo)
+T02D1865:84a-36	དམ་ཚིག་གཞན་ཡང་བསྲུང་བ་ནི་༎	T02n1424u_001:824	 'nyaḥ samayo'pyataḥ ||369 ||
+T02D1865:84a-37	དཀོན་མཆོག་གནོད་གཞོམ་བུད་མེད་ཀུན་༎ མཆོག་མྱང་ལོག་པའི་ངག་མ་ཡིན་༎	T02n1424u_001:825	 ratnaghnaghātasarvastrīparasvādanaṃ vāṅmṛṣā |
+T02D1865:84a-39	འདི་དག་ཆོ་ག་བཞིན་བསྲུང་བ་༎ རྣལ་འབྱོར་རྒྱུད་དུ་གང་བཤད་པའོ་༎	T02n1424u_001:826	 etaddhi vidhivadrakṣyaṃ yogatantre ca yatsmṛtam ||370 ||
+T02D1865:84a-4	རྒྱུ་མཐུན་ཆུ་དང་ཕྲེང་བ་སྟེ་༎ རྣམ་སྨིན་རྡོ་རྗེའི་བདག་པོར་བཤད་༎	T02n1424u_001:803	 jalamaulī tu niṣyandaḥ pāko vajrādhipāhvakāḥ(kaḥ) |
+T02D1865:84a-41	དེ་ནས་དེ་བཞིན་གཤེགས་གྱུར་ལ་༎ གཟེངས་བསྟོད་འདི་དང་ལུང་བསྟན་ཏེ་༎	T02n1424u_001:827	 tatastathāgato bhūtvā vyākuryādudga(gī)tayānayā |
+T02D1865:84a-43	ག-ཡོན་པ་སྙིང་གར་ཁུ་ཚུར་དང་༎ ཆོས་གོས་འཛིན་ཚུལ་ག-ཡས་མཆོག་སྦྱིན་༎	T02n1424u_001:828	 hṛnmuṣṭicīvarā vāmā dakṣiṇā tu varapradā ||371 ||
+T02D1865:84a-7	དབང་འབྲས་གསང་བའི་སྦྱོར་བ་ཉིད་༎	T02n1424u_001:804	 sambuddhaiḥ pauruṣaḥ seko vaimalyo guhyayogataḥ ||361 ||
+T02D1865:84a-8	དེ་ནས་གཟུགས་སོགས་ཡོན་ཏན་ལྡན་༎	T02n1424u_001:805	 tato rūpādisampannāṃ svabhyastacakrayoginīm |
+T02D1865:84a-9	འཁོར་ལོའི་རྣལ་འབྱོར་ཤིན་ཏུ་གོམས་༎ དམ་ཚིག་སྡོམ་ལ་གནས་པ་ཉིད་༎	T02n1424u_001:806	 samayasaṃvarasthāṃ tāṃ cakre madrāmadhiṣṭhya ca ||362 ||
+T02D1865:84b-0	ཨཨོམ་ད་༄༨༤བ་ཡིས་འདི་ལྟར་ལུང་བསྟན་ཏེ་༎ རྡོ་རྗེ་སེམས་དཔའ་དེ་བཞིན་གཤེགས་༎ སྲིད་པའི་མཐའ་ནི་གྲུབ་པའི་ཕྱིར་༎ སྲིད་པའི་ངན་འགྲོ་ཉིད་ལས་བཏོན་༎	T02n1424u_001:829	 om eṣo'haṃ vyākaromi tvāṃ vajrasattvastathāgataḥ |
+T02D1865:84b-12	ཉིན་རེ་བཞིན་དུ་ཐུན་བཞི་རུ་༎ ཏིང་འཛིན་གསུམ་གྱི་སྦྱོར་ལྡན་པར་༎ གྱུར་པས་ཐུན་མོང་ཅིག་ཤོས་ཀྱི་༎	T02n1424u_001:836	 pratidinaṃ catuḥsandhyaṃ samādhitrayayogavān |  bhūtvā sādhaya saṃsiddhiṃ sāmānyetarabhāvanīm ||375 ||
+T02D1865:84b-15	དངོས་གྲུབ་ཐོབ་པ་བསྒྲུབ་པར་བྱ་༎ མི་སྣང་བ་ནི་སྟོང་ཡིན་ཏེ་༎ མངོན་ཤེས་ལྡན་པ་ཉིས་སྟོང་ཡིན་༎	T02n1424u_001:838	 antarddhirdhātusāhastre dvisāhastreṣvabhijñakaḥ |
+T02D1865:84b-18	རིག་པ་འཛིན་པ་སུམ་སྟོང་གིས་༎ རྡོ་རྗེ་ཅན་ནི་འགྲོ་ཀུན་བདག་། ཞི་དང་རྒྱས་སོགས་ལས་གང་དང་༎ དེ་ལས་གཞན་པ་ཅི་འདོད་པ་༎	T02n1424u_001:839	 vidyādharastrisāhastre vajrī sarvajagatpatiḥ ||376 ||  śāntipuṣṭyādi yatkarma tadanyadvā yadīpsitam
+T02D1865:84b-20	འཁོར་ལོ་རྗེས་མཉེས་སྦྱོར་བ་ཡིས་༎ བསྒྲུབས་ན་མྱུར་དུ་འགྲུབ་པར་འགྱུར་༎	T02n1424u_001:841	 cakrānurāgayogena sādhayan sidhyate laghu ||377 ||
+T02D1865:84b-22	ད་ཡང་། རྡོ་རྗེ་བདག་པོ་ཐམས་ཅད་ནི་༎ འདོད་ཆགས་དེ་ཉིད་དོན་སེམས་པ་༎	T02n1424u_001:842	 taduktam- vajrādhipatayaḥ sarve rāgatattvārthacintakāḥ |
+T02D1865:84b-24	སེམས་ཅན་ཀུན་ལ་ཕན་བཞེད་པ་༎ འདོད་ཆགས་ལས་བྱུང་བྱང་ཆུབ་བྱེད་༎ དེ་བས་བྱང་ཆུབ་འདོད་ཆགས་པས་༎	T02n1424u_001:843	 kurvanti rāgajāṃ bodhiṃ sarvasattvahitaiṣiṇīm ||378 ||
+T02D1865:84b-27	ལུས་ངག་ཡིད་ཀྱི་སྤྱོད་པ་རྣམས་༎ ཆོ་ག་བཞིན་དུ་ལས་རྣམས་བྱ་༎ ཞེས་གསུངས་པ་ཡིན་ནོ་༎ དེ་ནས་དབུགས་དབྱུང་བ་དཔལ་མཆོག་དང་པོ་ལས་བྱུང་བ་༎ ཇི་བཞིན་བཞུགས་པའི་སློབ་མ་དང་༏་། ཕན་དོན་གཉེར་བ་རྣམས་ལ་ཡང་༎	T02n1424u_001:844	 ato bodhyarthiko mantrī kāyavākcittaceṣṭitam |  karma kuryādvidhānena sarvaṃ tadbodhaye matam ||379 ||  yathā praviṣṭaśiṣyebhyo'nuśaṃsārthibhya ityapi |
+T02D1865:84b-33	གང་ཕྱིར་དབུགས་འབྱིན་དམ་ཚིག་གསུམ་༎ ཆོ་ག་བཞིན་དུ་སྦྱིན་པར་བྱ་༎	T02n1424u_001:847	 samāśvāsaṃ trisamayamato dadyādvidhānataḥ ||380 ||
+T02D1865:84b-35	མཆོག་གསང་དཀྱིལ་འཁོར་དམ་པ་འདི་༎ མཐོང་བ་དང་ནི་ཞུགས་གྱུར་པས་༎	T02n1424u_001:848	 dṛṣṭvā praviṣṭvā paramaṃ rahasyottamamaṇḍalam |
+T02D1865:84b-37	སྡིག་པ་ཀུན་ལས་ངེས་གྲོལ་བར་༎ ཁྱེད་རྣམས་དེ་ཉིད་ལེགས་པར་གནས༎	T02n1424u_001:849	 sarvapāpairvirnimuktā bhavanto'dyaiva susthitāḥ ||381 ||
+T02D1865:84b-39	བདེ་ཆེན་ཐེག་པ་འདི་ལས་ནི་༎	T02n1424u_001:850	 na bhūyo maraṇaṃ vo'sti yānādasmānmahāsukhāt |
+T02D1865:84b-4	ཀྱེ་དེ་བཞིན་གཤེགས་པ་རྡོ་རྗེ་ཆེ་གེ་མོ་ཞེས་བྱ་བ་སིདདྷི་བྷུར་བྷུ་བ་སབ༹༔་༎ འདི་ཡིས་དབང་བསྐུར་གྱུར་པ་ཡི་༎ སྔགས་པ་འགྲོ་བ་ཀུན་གྱི་བདག་། བླ་ན་མེད་པའི་བྱང་ཆུབ་ཏུ་༎	T02n1424u_001:831	 he vajra nāma tathāgata siddhaye bhūrbhuvaḥ svaḥ |  vyākriyate'nayā yastu mantrī sarvajagatpatiḥ |
+T02D1865:84b-41	མི་ཚུགས་པ་དང་མི་གསོད་པས་༎	T02n1424u_001:851	 adhṛṣyāścāpyabaddhā(dhyā)
+T02D1865:84b-42	ཅིས་ཀྱང་མི་ཚུགས་དགའ་བར་གྱིས་༎	T02n1424u_001:852	 śca ramadhvamakutobhayāḥ ||382 ||
+T02D1865:84b-43	སྲིད་པ་ཤིན་ཏུ་དག་པའི་ཕྱིར་༎ སྲིད་པའི་སྡུག་བསྔལ་ལས་ཁྱོད་འདས་༎	T02n1424u_001:853	 nivṛtaṃ bhavaduḥkhaṃ vo'tyantabhavaśuddhaye |
+T02D1865:84b-45	སྲིད་པ་ཤིན་ཏུ་གྲུབ་པའི་ཕྱིར་༎ སྟོན་པའི་མཆོག་ཏུ་གྱུར་པ་༄༨༥ཨ་༌་༎	T02n1424u_001:854	 saṃbhūtāḥ śāsināmagrā atyantabhavasiddhaye ||383 ||
+T02D1865:84b-7	བདེ་གཤེགས་ཀྱིས་ཀྱང་ལུང་བསྟན་མཛད་༎ ངོ་བོ་ཉིད་ཀྱི་སེམས་ཅན་རྣམས་༎	T02n1424u_001:833	 bodhāvanuttarāyāṃ hi vyākuryātsugatairapi ||373 ||  yathā yathā hi vinayaṃ sattvā yānti svabhāvataḥ |
+T02D1865:84b-9	ཇི་ལྟ་ཇི་ལྟར་འདུལ་འགྱུར་བ་༎ དེ་ལྟ་དེ་ལྟར་ཆགས་ལ་སོགས་༎ གཙང་བས་སེམས་ཅན་དོན་བྱའོ་༎	T02n1424u_001:835	 tathā tathā hi sattvārthaṃ kuryādrāgādibhiḥ śuciḥ ||374 ||
+T02D1865:85a-1	ཡིན་༏་། དམ་ཚིག་སྔོམ་པ་གྲུབ་པ་འདི་༎ རྟག་ཏུ་ཁྱོད་ཀྱིས་བསྲུང་བར་བྱ་༎	T02n1424u_001:855	 ayaṃ vaḥ satataṃ rakṣaḥ(kṣyaḥ)  siddhaḥ samayasaṃvaraḥ |
+T02D1865:85a-11	མི་ཤེས་པའམ་རྨོངས་པ་ཡིས་༎ ཚུལ་ཆེན་བསྟན་པར་མི་བྱའོ་༎	T02n1424u_001:861	 ajñānādvātha mohādvā na vai vivṛṇuyāt sa tu ||386 ||
+T02D1865:85a-13	བདག་ཉིད་ཡོངས་སུ་སྤངས་ནས་སུ་༎ དཀའ་ཐུབ་ཀྱིས་ནི་མ་གདུངས་ཤིང་༎	T02n1424u_001:862	 svamātmānaṃ parityājya tapobhirna ca pīḍayet |
+T02D1865:85a-15	ཅི་བདེ་བར་ནི་བདེ་བར་གཟུང་༎ འདི་ནི་མ་བྱོན་རྫོགས་སངས་རྒྱས་༎	T02n1424u_001:863	 yathāsukhaṃ sukhaṃ dhāryaḥ saṃbuddho'yamanāgataḥ ||387 ||
+T02D1865:85a-17	རྡོ་རྗེ་དྲིལ་བུའི་ཕྱག་རྒྱ་རྣམས་༎	T02n1424u_001:864	 vajraṃ ghaṇṭā ca mudrā ca na vai tyājyā kadācana |
+T02D1865:85a-19	སློབ་དཔོན་སྤང་བར་མི་བྱ་སྟེ་༎ འདི་ནི་སངས་རྒྱས་ཀུན་དང་འདྲ་༎ སངས་རྒྱས་ཚུལ་མཚུངས་བླ་མ་ཡིས་༎ སློབ་དཔོན་ལ་ནི་གང་སྨོད་པ་༎ དེས་ནི་སངས་རྒྱས་ཀུན་སྨད་པས་༎	T02n1424u_001:865	 ācāryo nāvamantavyaḥ sarvabuddhasamo hyasau ||388 ||
+T02D1865:85a-24	རྟག་ཏུ་སྡུག་བསྔལ་འཐོབ་འགྱུར་ཏེ་༎ རིམས་དང་དུག་དང་དབྱིག་དུག་དང་༎ མཁའ་འགྲོ་རྣམས་ཀྱིས་གཙེས་པ་དང་༎ གདོན་དང་ལོག་འདྲེན་གཏུམ་པོ་ཡིས་༎ བསད་ནས་སེམས་ཅན་དམྱལ་བར་འགྱུར་༎	T02n1424u_001:866	 jvarairgarairviṣai rogairḍākinyupadravairgrahaiḥ |  vighnairvināyakairghorairmārito narakaṃ vrajet ||390 ||
+T02D1865:85a-27	དེ་བས་ནན་ཏན་ཐམས་ཅད་ཀྱིས་༎ རྡོ་རྗེ་སློབ་དཔོན་བློ་གྲོས་ཆེ་༎ དགེ་བ་རབ་ཏུ་མི་སྤྱོམས་པ་༎ ནམ་ཡང་སྨད་པར་མི་བྱའོ་༎	T02n1424u_001:868	 tasmāt sarvaprayatnena vajrācāryaṃ mahāgurum |  pracchannavarakalyāṇaṃ nāvamanyet kadācana ||391 ||
+T02D1865:85a-3	སངས་རྒྱས་ཀུན་གྱིས་མཐུན་པར་གསུངས་༎ དམ་པ་རྟག་པའི་བཀའ་ཡིན་ནོ་༎	T02n1424u_001:857	 sarvabuddhaiḥ samaṃ proktājñā paramaśāśvatī ||384 ||
+T02D1865:85a-31	བླ་མ་ལ་ནི་གུས་བཅས་ཡོན་༎ རྗེས་མཐུན་ཁྱོད་ཀྱིས་སྦྱིན་པར་བྱ་༎	T02n1424u_001:870	 anurūpaṃ ca te deyaṃ gurubhaktaṃ sadakṣiṇam |
+T02D1865:85a-33	དེས་ནི་རིམས་སོགས་གནོད་པ་རྣམས་༎ ཕྱིར་ཞིང་འབྱུང་བར་མི་འགྱུར་རོ་༎	T02n1424u_001:871	 tato jvarādayastāpā na bhūyaḥ prabhavanti hi ||392 ||
+T02D1865:85a-35	རྟག་ཏུ་རང་གི་དམ་ཚིག་བསྲུང་༎ རྟག་ཏུ་དེ་བཞིན་གཤེགས་པ་མཆོད་༎	T02n1424u_001:872	 nityaṃ svasamayaḥ sādhyo nityaṃ pūjyāstathāgatāḥ |
+T02D1865:85a-37	རྟག་ཏུ་བླ་མ་ལ་ཡང་དབུལ་༎ འདི་ནི་སངས་རྒྱས་ཀུན་དང་མཉམ་༎	T02n1424u_001:873	 nityaṃ ca gurave deyaṃ sarvabuddhasamo hyasau ||393 ||
+T02D1865:85a-39	དེ་བྱིན་སངས་རྒྱས་ཐམས་ཅད་ལ་༎ རྟག་ཏུ་བྱིན་པ་ཉིད་དུ་འགྱུར་༎ དེ་བྱིན་བསོད་ནམས་ཚོགས་ཡིན་ཏེ་༎ ཚོགས་ལས་དངོས་གྲུབ་མཆོག་ཏུ་གྱུར་༎	T02n1424u_001:874	 tad dānāt puṇyasaṃbhāraḥ sambhārādbodhiruttamā |  datte'smai sarvabuddhebhyo dattaṃ bhavati śāśvatam ||394 ||
+T02D1865:85a-43	གང་ཕྱིར་འདིར་ནི་ལེགས་གནས་པས་༎ དེང་ཁྱོད་སྐྱེ་བ་འབྲས་བུར་བཅས་༎	T02n1424u_001:876	 adya vaḥ saphalaṃ janma yadasmin supratiṣṭhitāḥ |
+T02D1865:85a-45	དམ་ཚིག་ལྷ་རྣམས་ཀུན་མཉམ་པར་༎ དེང་ཁྱོད་གྱུར་པར་ཐེ་ཚོམ་མེད་༎	T02n1424u_001:877	 samāḥ samayadevānāṃ bhavitāstha na saṃśayaḥ ||395 ||
+T02D1865:85a-47	སངས་རྒྱས་རྡོ་རྗེ་འཛིན་བཅས་པ་༎ ཀུན་གྱིས་དེང་ཁྱོད་དབང་བསྐུར་བས་༎	T02n1424u_001:878	 adyābhiṣiktā āyuṣmantaḥ sarvabuddhaiḥ savajribhiḥ |
+T02D1865:85a-49	ཁམས་གསུམ་གྱི་ནི་རྒྱལ་པོ་ཆེ་༎ རྒྱལ་པོའི་བདག་པོར་བསྟན་པ་ཡིས༎	T02n1424u_001:879	 traidhātukamahārājyaṃ(jāḥ)  rājādhipatayaḥ sthirāḥ ||396 ||
+T02D1865:85a-5	གང་ཞིག་བསྐྱེད་པ་ཙམ་གྱིས་ནི་༎ སངས་རྒྱས་ཉིད་དུ་དོགས་མེད་པའི་༎ བྱང་ཆུབ་སེམས་ནི་གཏམ་མི་བྱ་༏་། ཕྱག་རྒྱ་རྡོ་རྗེ་གང་ཡིན་པའོ་༎	T02n1424u_001:858	 bodhicittaṃ na vai tyājyaṃ yadvajramiti mudrayā |  yasyotpādanamātreṇa buddha eva na saṃśayaḥ ||385 ||
+T02D1865:85a-9	དམ་པའི་ཆོས་ནི་མི་སྤང་ཞིང་༎ ནམ་ཡང་དོར་བར་མི་བྱའོ་༎	T02n1424u_001:860	 saddharmo na pratikṣepyo na ca tyājyaḥ kadācana |
+T02D1865:85b-0	༄༨༥བ་དེང་ནི་བདུད་ལས་རྣམ་རྒྱལ་ཏེ་༎ རྒྱལ་པོའི་བདག་པོར་བསྟན་པ་ཡིན་༎ གྲོང་ཁྱེར་མཆོག་ཏུ་རབ་ཏུ་ཞུགས་༎	T02n1424u_001:881	 adya mārān vinirjitya praviṣṭāḥ paramaṃ puram |
+T02D1865:85b-10	གཙོ་བོས་ཇི་སྐད་བཀའ་སྩལ་པའི་༎ གསུང་ནི་དེ་བཞིན་བདག་བགྱིད་དོ་༎	T02n1424u_001:888	 brūyureva kariṣyāmo yathājñāpayase vibho ||399 ||
+T02D1865:85b-12	གལ་ཏེ་འབྱོར་ན་དེ་རྣམས་ཀྱིས་༎	T02n1424u_001:889	 satyeva saṃbhave teṣāṃ pratyekaṃ vāmapāṇinā |
+T02D1865:85b-13	མཐེ་བོ་ག-ཡས་པ་ལག་ག-ཡོན་གྱིས་༎ ལེགས་པར་བཟུང་སྟེ་རེ་རེ་ནས་༎ ཟི་བ་ཆོ་ག་བཞིན་དུ་བྱ་༎	T02n1424u_001:890	 savyāṅguṣṭhakamāgṛhya śāntiṃ kuryād vidhānataḥ ||400 ||
+T02D1865:85b-16	དེ་ནས་རྒྱལ་པོའམ་ས་བདག་ཕྱིར་༎ སྦྱིན་བླུགས་གསུམ་མམ་བདུན་གཅིག་བྱའོ་༎	T02n1424u_001:891	 trisaptāhutimekāṃ vā rājño vā bhūpateratha |
+T02D1865:85b-18	ཕྱོགས་སྐྱོད་བདག་ཉིད་ཞི་བྱའི་ཕྱིར་༎ སྲེག་བླུགས་ཕུལ་ལ་ཡོན་བླང་ངོ་༎	T02n1424u_001:892	 dikpālasvātmaśāntau ca hutvā yācet(ta) dakṣiṇām ||401 ||
+T02D1865:85b-20	ཉན་པ་ལ་སོགས་རེ་རེ་ཞིང་༎ སེམས་ཅན་ཀུན་གྱི་དོན་བྱའོ་༎	T02n1424u_001:893	 sarvasattvārthakartavye śrutādau vā prati prati |
+T02D1865:85b-22	ས་གཞི་རྒྱལ་སྲིད་གསེར་ལ་སོགས་༎ ཡང་ན་རང་གྲུབ་ཕྱིར་གྲོགས་ཉིད་༎	T02n1424u_001:894	 bhūgajādi suvarṇādau svasiddhau vā sahāyatām ||402 ||
+T02D1865:85b-24	གང་དེ་བཏང་ནས་ལེགས་བླངས་པའི་༎ ཡོན་ཕུལ་བས་ནི་མགུ་བར་བྱ་༎	T02n1424u_001:895	 saṃgṛhya yattadutsṛṣṭaṃ saṃtoṣya dattadakṣiṇān |
+T02D1865:85b-26	ཁ་ཟས་དང་ནི་སྤྱོད་ཀུན་གྱིས་༎ རང་གཞན་འཁོར་ལོ་མཆོད་པར་བྱ་༎	T02n1424u_001:896	 sarvāhāravihāraistaiḥ svaparaiścakramarcayet ||403 ||
+T02D1865:85b-28	ལེགས་བཟུང་སྣོད་གྱུར་སློབ་མ་མཆོག་། སྣ་ཚོགས་ཆེ་མཆོག་རྣམས་ཀྱིས་ནི་༎	T02n1424u_001:897	 saṃgṛhya yogyasacchiṣyān vicitraparamāyubhiḥ |
+T02D1865:85b-3	ཁྱེད་རྣམས་ཀྱིས་ནི་སངས་རྒྱས་ཉིད་༎ དེང་ཉིད་ཐོབ་པར་ཐེ་ཚོམ་མེད་༎	T02n1424u_001:882	 prāptamadyaiva buddhatvaṃ bhavadbhirnātra saṃśayaḥ ||397 ||
+T02D1865:85b-30	ཡི་གེ་གསུམ་གྱིས་ཡང་དག་བསྡུ་༎	T02n1424u_001:898	 santarpya copasaṃhṛtya muḥkārāntaiśca tryakṣaraiḥ ||404 ||
+T02D1865:85b-31	ཨཨ་ཀའ་རོ་སོགས་སྔགས་ཀྱིས་ནི་༎ དཀྱིལ་འཁོར་དམ་པ་དབྱི་བར་བྱ་༎	T02n1424u_001:899	 akāretyādi mantreṇa śūnyavaccakramukttamam |
+T02D1865:85b-33	སློང་ལ་ཚོན་རྩི་ཅུང་ཟད་སྦྱིན་༎ ཚོན་རྣམས་ཆུ་བོ་ཆེན་པོར་དོར་༎	T02n1424u_001:900	 dattvārthine rajaḥ stokaṃ mahattoye rajaḥ sṛjet ||405 ||
+T02D1865:85b-36	དེ་ཀུན་སློབ་དཔོན་ཉིད་དབང་ཞེས་༎ རྡོ་རྗེ་མཆོག་ནི་འཛིན་པས་གསུངས་༎	T02n1424u_001:901	 garttāpūre pratiṣṭhāyāṃ home cakre ca yaddhanam |  ācāryasyaiva tatsarvamityāha varavajradhṛk ||406 ||
+T02D1865:85b-38	དེ་ལྟར་དང་པོའི་ལས་ཅན་གྱིས་༎ དཀྱིལ་འཁོར་ཆོ་ག་གསལ་བར་བཤད་༎	T02n1424u_001:903	 ityādikarmikasyāyamuktaścakravidhiḥ sphuṭaḥ |
+T02D1865:85b-42	ལོ་བཅུ་གཉིས་ལོན་བྱིས་པ་དང་༎ བུ་མོ་དབབ་བྱས་ཡང་དག་མཆོད་༎	T02n1424u_001:905	 dvādaśābde samāveśya saṃpūjya bālabālike |
+T02D1865:85b-44	ཐུགས་ལ་མི་བསྐྱོད་མའ་མ་ཀའི་༎ དབབ་ཡིན་པར་ནི་ཡང་དག་བཤད་༎	T02n1424u_001:907	 citte tvakṣobhyamāmakyorāde(ve)
+T02D1865:85b-5	དེ་ལྟར་ཡིད་ནི་རབ་དང་རྡོ་རྗེ་ཉིད་དུ་གྱིས་༎	T02n1424u_001:883	 iti kuruta manaḥ prasādavajraṃ
+T02D1865:85b-6	རང་གི་དམ་ཚིག་མི་ཟད་བདེ་བསྐྱེད་བསྟེན་པར་གྱིས༎	T02n1424u_001:884	 svasamayamakṣayasaukhyadaṃ bhajadhvam |
+T02D1865:85b-7	དེར་ནི་འགྲོ་ལ་མྱུར་བདེ་རྡོ་རྗེ་སེམས་དཔའ་དང་༎ རབ་ཏུ་མཉམ་ཞིང་རྟག་པ་ཉིད་དུ་རྟོགས་པར་འགྱུར་༎	T02n1424u_001:885	 jagati laghusukhe'dya vajrasattva-  pratisamaśāśvatatāṃ gatā bhavantaḥ ||398 ||
+T02D1865:85b-8	སློབ་མ་རབ་དང་མཉེས་གཤིན་པས་༎ བླ་མའི་ཞབས་ལ་ཕྱག་བྱས་ཏེ་༎	T02n1424u_001:887	 praṇipatya guroḥ pādau śiṣyāḥ sadbhaktivatsalāḥ |
+T02D1865:86a-0	གསུང་ལ་དཔག་མེད་གོས་དཀར་༄༨༦ཨ་༌་༎ མོ་༏་། སྐུ་ལ་རྣམ་སྣང་མཛད་དང་སྤྱན་༎	T02n1424u_001:908	 śaḥ samudāhṛtaḥ |  pāṇḍarāmitayorvāci kāye śāśvatalocane ||409 ||
+T02D1865:86a-10	ཡེ་ཤེས་དབང་ཐོབ་པ་ཡི་སེམས་༎ ཉིད་ཀྱིས་འཁོར་ལོ་གསུམ་པོ་བྱ་༎	T02n1424u_001:914	 prāptajñānavaśī kuryāccetasaiva tricakrakam |
+T02D1865:86a-12	བྱིན་བརླབས་དེས་ནི་འཁོར་ལོ་དེ་༎ གང་ཕྱིར་རང་བཞིན་དག་ལ་སྣང་༎	T02n1424u_001:915	 tadadhiṣṭhānataścakraṃ dṛśyate svaparairyataḥ ||412 ||
+T02D1865:86a-14	འདིར་ནི་འཇུག་དང་རྗེས་གནང་བས་༎ རྨི་ལམ་གསལ་བ་བཞིན་དུ་སྣང་༎	T02n1424u_001:916	 praveśo'trābhyanujñātaḥ spaṣṭasvapnavadiṣyate |
+T02D1865:86a-16	གང་ཕྱིར་སེམས་ཀྱི་ཚུལ་བསྟན་པས་༎ དེ་ནི་མཆོག་ཏུ་ཤེས་པར་བྱ་༎	T02n1424u_001:917	 yatastenottamo jñeyaścittama(vṛ)  ttidṛḍhatvataḥ ||413 ||
+T02D1865:86a-18	རྣལ་འབྱོར་པ་གསུམ་ཆར་གྱིས་ཀྱང་༎	T02n1424u_001:919	 triyogināmapi prāgvad vidhirvākkāyacakrayoḥ |
+T02D1865:86a-19	གསུངས་སྐུའི་གསང་བ་དག་བྱའི་ཕྱིར་༎ གསུང་སྐུའི་འཁོར་ལོའི་ཆོ་ག་ནི་༎ སྔོན་བཞིན་གནས་དེར་མི་བསྐྱོད་མཚན་༎	T02n1424u_001:920	 tatsthāne'kṣobhyacihnaṃ syādvākkāyaguhyaśuddhaye ||414 ||
+T02D1865:86a-2	ཐུགས་གསུང་སྐུ་ནི་ལེགས་དབབ་པས་༎ བྲིས་པ་འདི་ནི་རྨད་བྱུང་ཡིན་༎	T02n1424u_001:910	 cittavākkāyasaṃstobhādracanā tviyamadbhutā |
+T02D1865:86a-24	ཡིད་ཀྱི་ཆོ་ག་ཀུན་བྱ་སྟེ་༎ དེ་མེད་པར་ནི་འགྲུབ་མི་འགྱུར་༎	T02n1424u_001:922	 cetasaiva vidhiḥ sarvastaddhīno naiva sidhyati ||415 ||
+T02D1865:86a-26	རྡོ་རྗེ་སློབ་དཔོན་སློབ་མ་མཆོག་། རྒྱུ་མཐུན་ལ་སོགས་དགའ་བའི་བདག་། ཡིད་བཤད་ཆོ་ག་མཆོག་ཡིན་གྱིས་༎	T02n1424u_001:923	 vajrācāryāgraśiṣyāṇāṃ niṣyandādiratātmanām |
+T02D1865:86a-27	ཚིག་ཙམ་གྱིས་འདིར་ཅི་ཞིག་འགྱུར་༎	T02n1424u_001:924	 manasokto vidhiḥ śreṣṭho vāṅmātreṇātra kiṃ bhavet ||416 ||
+T02D1865:86a-28	འཇུག་པ་ཙམ་གྱིས་འཚང་མི་རྒྱ་༎ ཐོས་ཙམ་གྱིས་ཀྱང་མི་འགྱུར་རོ་༎	T02n1424u_001:925	 vṛttamātrānna buddhatvaṃ śrutamātrācca no bhavet |
+T02D1865:86a-30	ཇི་སྲིད་བསམས་པར་གྱུར་པ་དང་༎ བསྒོམས་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར་༎	T02n1424u_001:926	 cintayāpi na yāvacca bhāvanāto nirudhyate ||417 ||
+T02D1865:86a-31	ཇི་སྐད་དུ་།	T02n1424u_001:927	 yadāha-
+T02D1865:86a-32	གསང་སྔགས་སྨྲ་རྣམས་མང་དུ་ནི་༎ སྤྲོས་ཏེ་སྨྲས་པས་ཅི་ཞིག་བྱ་༎	T02n1424u_001:928	 alaṃ bahuvisarpiṇyā kathayā mantravādiṃnām |
+T02D1865:86a-34	ཁྱད་པར་དུ་ནི་སེམས་བསྒྲུབས་ཏེ་༎ སེམས་ལས་རྫོགས་པའི་བྱང་ཆུབ་འབྱུང་༎	T02n1424u_001:929	 cetaḥ sādhyaṃ viśeṣeṇa cittāt saṃbodhisambhavaḥ ||418 ||
+T02D1865:86a-36	ཞེས་གསུངས་པ་དང་། ཇི་སྐད་དུ་།	T02n1424u_001:930	 yaduktam-
+T02D1865:86a-37	བྱང་ཆུབ་སེམས་ཀྱི་འབྲས་བུ་གང་༎	T02n1424u_001:931	 yatphalaṃ bodhicittaṃ tadbuddhajñānamanuttaram |
+T02D1865:86a-4	ཐུགས་བབས་པས་ནི་ཡོངས་ཤེས་པ་༎ གསུང་བབས་གསང་སྔགས་སྨྲ་བའོ་༎	T02n1424u_001:911	 cittastobhāt parijñānaṃ vākstobhānmantrabhāṣaṇam ||410 ||
+T02D1865:86a-6	སྐུ་ཡི་བབས་པས་མཁའ་ལ་གནས་༎ དབབ་དང་ག-ཡོ་བའི་ཆོ་ག་འདིའོ་༎	T02n1424u_001:912	 kāyastobhācca khe sthānaṃ stobhāveśe vidhistvayam |
+T02D1865:86a-8	སློབ་དཔོན་སློབ་མ་དབང་བསྐུར་འདིར་༎ སྔ་མའི་ཚུལ་ནི་ཉིད་ཀྱིས་གནས་༎	T02n1424u_001:913	 ācāryaśiṣyaseko'tra prāṅnyāyenaiva saṃsthitaḥ ||411 ||
