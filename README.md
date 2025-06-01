@@ -42,9 +42,9 @@ The MITRA project also provides three models, one base model and two finetuned m
 
 **Model links:**
 
-- [Gemma 2 MITRA on HuggingFace (placeholder)](https://huggingface.co/buddhist-nlp/gemma-2-mitra)
-- [Gemma 2 MITRA-MT on HuggingFace (placeholder)](https://huggingface.co/buddhist-nlp/gemma-2-mitra-it)
-- [Gemma 2 MITRA-E on HuggingFace (placeholder)](https://huggingface.co/buddhist-nlp/gemma-2-mitra-e)
+- [Gemma 2 MITRA on HuggingFace](https://huggingface.co/buddhist-nlp/gemma-2-mitra)
+- [Gemma 2 MITRA-MT on HuggingFace](https://huggingface.co/buddhist-nlp/gemma-2-mitra-it)
+- [Gemma 2 MITRA-E on HuggingFace](https://huggingface.co/buddhist-nlp/gemma-2-mitra-e)
 
 ## Citation
 If you use this dataset or models, please cite:
@@ -64,7 +64,7 @@ If you use this dataset or models, please cite:
 - For more information and updates, see the [project website](http://dharmamitra.org) 
 
 ## License
-This dataset and associated models are released under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). This means you are free to:
+The MITRA-parallel dataset is released under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). This means you are free to:
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially
 
