@@ -2,7 +2,7 @@
 
 # MITRA-parallel: A Large-Scale Parallel Corpus for Sanskrit, Buddhist Chinese, and Tibetan
 
-[![arXiv](https://img.shields.io/badge/arXiv-2024.XXXX-blue)](https://github.com/dharmamitra/mitra-semantic-similarity)
+[![arXiv](https://img.shields.io/badge/arXiv-2024.XXXX-blue)](https://github.com/dharmamitra/mitra-parallel)
 
 ## Overview
 
@@ -10,7 +10,7 @@
 
 > **MITRA: A Large-Scale Parallel Corpus and Multilingual Pretrained Language Model for Machine Translation and Semantic Retrieval for Pāli, Sanskrit, Buddhist Chinese, and Tibetan**  
 > Sebastian Nehrdich, Kurt Keutzer  
-> [arXiv preprint](https://github.com/dharmamitra/mitra-semantic-similarity)
+> [arXiv preprint](https://github.com/dharmamitra/mitra-parallel)
 
 This repository includes:
 - A corpus of 1.74 million parallel sentence pairs between Sanskrit, Chinese, and Tibetan
