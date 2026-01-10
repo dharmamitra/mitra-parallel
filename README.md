@@ -2,7 +2,7 @@
 
 # MITRA-parallel: A Large-Scale Parallel Corpus for Sanskrit, Buddhist Chinese, and Tibetan
 
-[![arXiv](https://img.shields.io/badge/arXiv-2024.XXXX-blue)](https://github.com/dharmamitra/mitra-parallel)
+[![arXiv](https://img.shields.io/badge/arXiv-2026.XXXX-blue)](https://github.com/dharmamitra/mitra-parallel)
 
 ## Overview
 
@@ -53,13 +53,13 @@ If you use this dataset or models, please cite:
   title={MITRA: A Large-Scale Parallel Corpus and Multilingual Pretrained Language Model for Machine Translation and Semantic Retrieval for Pāli, Sanskrit, Buddhist Chinese, and Tibetan},
   author={Sebastian Nehrdich and Kurt Keutzer},
   journal={arXiv preprint},
-  year={2024},
+  year={2026},
   url={https://github.com/dharmamitra/mitra-semantic-similarity}
 }
 ```
 
 ## Acknowledgments
-- The MITRA project is supported by the [Tsadra Foundation](https://tsadra.org), and collaborative partners including [monlam.ai](http://monlam.ai) and the (https://khyentsefoundation.org/kf-projects/kumarajiva-project/)[Kumarajiva project].
+- The MITRA project is hosted at the Center for [Integrated Japanese Studies, Tohoku University](https://cijs.oii.tohoku.ac.jp/en/), supported by the [Tsadra Foundation](https://tsadra.org), and collaborative partners including [monlam.ai](http://monlam.ai) and the [Kumarajiva project](https://khyentsefoundation.org/kf-projects/kumarajiva-project/).
 - For more information and updates, see the [project website](http://dharmamitra.org) 
 
 ## License
