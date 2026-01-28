@@ -2,7 +2,7 @@
 
 # MITRA-parallel: A Large-Scale Parallel Corpus for Sanskrit, Buddhist Chinese, and Tibetan
 
-[![arXiv](https://img.shields.io/badge/arXiv-2026.XXXX-blue)](https://arxiv.org/pdf/2601.06400)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.06400-blue)](https://arxiv.org/pdf/2601.06400)
 
 ## Overview
 
