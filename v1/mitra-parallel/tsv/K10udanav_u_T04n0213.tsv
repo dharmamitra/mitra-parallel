@@ -1,0 +1,906 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K10udanav_u:uv_18.21c_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b03_0	如蛇脫故皮，　　諸有無家業，
+K10udanav_u:uv_18.21d_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yo lobham udāchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b04_13	又斷不善根，　　苾芻勝彼此。 如蛇脫故皮，　　諸有不熱惱， 又斷不善根，　　苾芻勝彼此。
+K10udanav_u:uv_18.21f_0	tṛṣṇām ya;udāchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam tva tvacam purāṇam //	T04n0213_004:0797b07_0	如蛇脫故皮，　　斷欲無遺餘，
+K10udanav_u:uv_29.57_0	muñca purato muñca paścato madhye muñca bhavasya pāragaḥ. [paścāto] sarvatra viṃkuta mānaso na punar jāti jarām upeṣyasi // 30 sukhavarga jayād vairam prasavate duhkham śete parājitaḥ / upaśāntaḥ sukham śete hitvā jaya parājayau //	T04n0213_004:0794a23_0	30 樂品法集要頌經樂品第三十忍勝則怨賊，　　自負則自鄙， 息意則快樂，　　無勝無負心。
+K10udanav_u:uv_30.2_0	para duhkha upadhānena ya;icchet sukham ātmanaḥ /	T04n0213_004:0794a25_0	若人擾亂彼，　　自求安樂世，
+K10udanav_u:uv_30.2_1	vaira saṃsarga saṃsakto duhkhān na parimucyate //	T04n0213_004:0794a26_13	遂成其怨憎，　　終不得解脫。
+K10udanav_u:uv_30.3_0	sukha kāmāni bhūtāni yo daṇḍena vihiṃṣati /	T04n0213_004:0794a27_0	善樂於愛欲，　　以杖加羣生，
+K10udanav_u:uv_30.3_1	ātmanaḥ sukham eṣāṇaḥ sa vai na labhate sukham //	T04n0213_004:0794a28_13	於中自求安，　　後世不得樂。
+K10udanav_u:uv_30.4_0	sukha kāmāni bhūtāni yo daṇḍena na hiṃsati /	T04n0213_004:0794a29_0	人欲得歡樂，　　杖不加羣生，
+K10udanav_u:uv_30.4_1	ātmanaḥ sukham eṣāṇaḥ sa pretya labhate sukham //	T04n0213_004:0794b01_13	於中自求樂，　　後世亦得樂。
+K10udanav_u:uv_30.5_0	dharmam caret sucaritam na enam duścaritam caret /	T04n0213_004:0794b02_0	樂法樂學行，　　慎莫行惡法，
+K10udanav_u:uv_30.5_1	dharma cārī sukham śete hy asmin loke paratra ca //	T04n0213_004:0794b03_13	能善行法者，　　今世後世樂。
+K10udanav_u:uv_30.6_0	dharmaḥ sadā rakṣati dharma cāriṇam chatram mahad varṣa kāle yathaiva /	T04n0213_004:0794b04_0	護法行法者，　　修法獲善報，
+K10udanav_u:uv_30.6_1	eṣa anuśaṃso dharme sucīrṇe na durgatim gacchati dharma cārī //	T04n0213_004:0794b05_13	此應法律教，　　行法不趣惡。
+K10udanav_u:uv_30.7_0	dharmaḥ sadā rakṣati dharma cāriṇam dharmaḥ sucīrṇaḥ sukham ādadhāti /	T04n0213_004:0794b06_0	護法行法者，　　如蓋覆其形，
+K10udanav_u:uv_30.7_1	eṣa anuśaṃso dharme sucīrṇe na durgatim gacchati dharma cārī //	T04n0213_004:0794b07_13	此應法律教，　　行法不趣惡。
+K10udanav_u:uv_30.9_0	dānam ca yuddham ca samānam āhur na ete guṇāḥ kāpuruṣā iva santi /	T04n0213_004:0794b12_0	施與戰同處，　　此德智不譽，
+K10udanav_u:uv_30.9_1	saṃgrāma velā iva hi dāna velā tulyam bhavet kāraṇa saṃgraheṇa //	T04n0213_004:0794b13_13	施時亦戰時，　　此事二俱等。
+K10udanav_u:uv_30.10_0	ayam hi pratyūha śatāni jitvā mātsaryam ākramya ca śatru bhūtam /	T04n0213_004:0794b14_0	人遭百千變，　　等除憍慢怨，
+K10udanav_u:uv_30.10_1	śurādd hi tam śūrataram vadāmi dadāti yo dānam asakta cittaḥ / [śūrād]	T04n0213_004:0794b15_13	時施清淨心，　　健夫最為勝。 忍少得勝多，　　戒勝懈怠多， 有信慧施者，　　後身受善報。
+K10udanav_u:uv_30.11_0	sukho vipākaḥ puṇyānām abhiprāyaḥ samṛdhyate /	T04n0213_004:0794b18_0	快樂施福報，　　所願皆全成，
+K10udanav_u:uv_30.11_1	kṣipram ca paramām śāntim nirvṛtim so adhigacchati //	T04n0213_004:0794b19_13	速得第一滅，　　漸入無為際。
+K10udanav_u:uv_30.13_0	dharma prītiḥ sukham śete viprasannena cetasā / ārya pravedite dharme ramate paṇḍitaḥ smṛtaḥ //	T04n0213_004:0794b22_0	愛法善安隱，　　心意潔清淨， 賢聖所說法，　　智者所娛樂。
+K10udanav_u:uv_30.14_0	yeṣām dharma ratam cittam anupādāya nirvṛtim /	T04n0213_004:0794b24_0	若人心樂禪，　　亦復樂不起，
+K10udanav_u:uv_30.14_1	smṛty upasthāna niratam bodhy aṅgeṣu ca saptasu //	T04n0213_004:0794b25_0	亦樂四意止，　　并及七覺意，
+K10udanav_u:uv_30.15_1	ṛddhi pāda ratam caiva mārge ca aṣṭa aṅgike ratam //	T04n0213_004:0794b26_0	及彼四神足，　　賢聖八品道，
+K10udanav_u:uv_18.19_1	chittvā iha mārasya tu puṣpakāṇi tv adarśanam mṛtyu rājasya gacchet // phena upamam lokam imam viditvā marīci dharmam paribudhya caiva / chitttvā iha mārasya tu puṣpakāṇi tv adarśanam mṛtyu rājasya gacchet // yo na adhyagamad bhaveṣu sāram buddhvā puṣpam udumbarasya yadvat /	T04n0213_004:0797a25_13	觀世如幻夢，　　苾芻勝彼此。
+K10udanav_u:uv_30.16_0	sukham te bhuñjate piṇḍam dhārayanti ca cīvaram /	T04n0213_004:0794b27_0	善樂於摶食，　　善樂攝法服，
+K10udanav_u:uv_30.16_1	sukham caṅkramaṇam teṣām parvateṣu guhāsu ca //	T04n0213_004:0794b28_0	善樂於經行，　　樂處於山藪，
+K10udanav_u:uv_30.17_0	kṣema prāptā hi sukhitā dṛṣṭa dharma abhinirvṛtāḥ /	T04n0213_004:0794b29_13	已逮安樂處，　　現法而無為。
+K10udanav_u:uv_30.17_1	sarva vaira bhaya atītās tīrṇā loke viṣaktikām //	T04n0213_004:0794c01_0	已越諸恐懼，　　超世諸染著，
+K10udanav_u:uv_30.18_1	avyāvadhyaḥ sukham loke prāṇa bhūteṣu samyamaḥ // sukham virāgatā loke kāmānām samatikramaḥ /	T04n0213_004:0794c03_0	善哉世無害，　　養育眾生類， 世無欲愛樂，　　越諸染著意，
+K10udanav_u:uv_30.19_1	asmi mānasya vinaya;etad vai paramam sukham //	T04n0213_004:0794c05_13	能滅己憍慢，　　此名第一樂。
+K10udanav_u:uv_30.20_0	sukham yāvaj jarā śīlam sukham śraddhā pratiṣṭhitā /	T04n0213_004:0794c06_13	耆年持戒樂，　　有信成就樂；
+K10udanav_u:uv_18.21_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797a26_0	如蛇脫故皮，　　能斷愛根本，
+K10udanav_u:uv_18.21a_0	yo rāgam udācchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya /	T04n0213_004:0797a27_13	盡竭欲深泉，　　苾芻勝彼此。
+K10udanav_u:uv_30.20_1	sukham ca artha ratā vācā pāpasya akaraṇam sukham //	T04n0213_004:0794c07_13	分別義趣樂，　　不造眾惡業；
+K10udanav_u:uv_30.21_0	sukham mātṛvyatā loke sukham caiva pitṛvyatā /	T04n0213_004:0794c08_13	世有父母樂，　　眾集和亦樂；
+K10udanav_u:uv_30.21_1	sukham śrāmaṇyatā loke tathā brāhmaṇyatā sukham //	T04n0213_004:0794c09_13	世有沙門樂，　　靜志樂亦然；
+K10udanav_u:uv_30.22_0	sukham buddhasya ca utpādaḥ sukham dharmasya deśanā /	T04n0213_004:0794c10_13	諸佛出興樂，　　說法堪受樂；
+K10udanav_u:uv_18.21a_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797a28_0	如蛇脫故皮，　　能斷於五欲，
+K10udanav_u:uv_18.21b_0	yo dveṣam udāchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya /	T04n0213_004:0797a29_13	斷於欲根本，　　苾芻勝彼此。
+K10udanav_u:uv_18.21b_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b01_0	如蛇脫故皮，　　能斷於五結，
+K10udanav_u:uv_18.21c_0	yo moham udāchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya /	T04n0213_004:0797b02_13	拔於愛欲刺，　　苾芻勝彼此。
+K10udanav_u:uv_2.6_1	etad api chittvā tu parivrajanti hy anapekṣiṇaḥ kāma sukham prahāya //	T04n0213_001:0778a13_13	遠離於妻子，　　堅固能利益。 貪欲難解脫，　　離欲真出家， 不貪受快樂，　　智者無所欲。
+K10udanav_u:uv_2.7_0	na te kāmā yāni citrāṇi loke saṃkalpa rāgaḥ puruṣasya kāmaḥ /	T04n0213_001:0778a16_0	世間貪欲人，　　種種非思惟，
+K10udanav_u:uv_2.7_1	tiṣṭhanti citrāṇi tathā eva loke;atha atra dhīrā vinayanti chandam // [cchandam]	T04n0213_001:0778a17_13	若能調伏者，　　是名真離欲。
+K10udanav_u:uv_2.8_0	na santi nityā manujeṣu kāmāḥ santi tv anityāḥ kāmino yatra baddhāḥ /	T04n0213_001:0778a18_0	若人恒貪欲，　　處縛難解脫，
+K10udanav_u:uv_2.9_0	chanda jāto hy avasrāvī manasā anāvilo bhavet / kāmeṣu tv apratibaddha citta;ūrdhva sroto nirucyate //	T04n0213_001:0778a22_0	常行貪欲人，　　愚者共狎習， 念定不放逸，　　次第獲無漏。
+K10udanav_u:uv_2.10_0	anupūrveṇa medhāvī stokam stokam kṣaṇe kṣaṇe /	T04n0213_001:0778a24_0	剎那修止觀，　　能離諸罪垢，
+K10udanav_u:uv_2.10_1	karmāro rajatasya eva nirdhamen malam ātmanaḥ // ratha kāra;iva carmaṇaḥ parikartann upānaham / yad yaj jahāti kāmānām tat tat sampadyate sukham //	T04n0213_001:0778a25_13	我慢自消除，　　解脫獲安樂。 若人不斷欲，　　如皮入火燒，
+K10udanav_u:uv_2.13_0	yāvat kāmān anusaran na tṛptim manaso adhyagāt / tato nivṛttim pratipaśyamānās te vai tṛptāḥ prajñayā ye sutṛptāḥ //	T04n0213_001:0778a29_13	若離於愛欲，　　正念受快樂。 無厭有何足？ 　　不足何有樂？ 無樂有何憂？
+K10udanav_u:uv_2.14_0	śreyasī prajñayā tṛptir na hi kāmair vitṛpyate / prajñayā puruṣam tṛptam tṛṣṇā na kurute vaśam //	T04n0213_001:0778b02_13	　　有愛有何樂？ 寂靜智慧足，　　能長無漏道，
+K10udanav_u:uv_2.15_0	gṛddhā hi kāmeṣu narāḥ pramattā hy adharme bata te ratāḥ / antarāyam na te paśyanty alpake jīvite sati /	T04n0213_001:0778b04_13	貪愛若不足，　　非法受中夭。 見色心迷惑，　　不自觀無常，
+K10udanav_u:uv_2.16_0	durmedhasam hanti bhogo na tv iha ātma gaveṣiṇam /	T04n0213_001:0778b06_13	愚以為美善，　　不知其非真。
+K10udanav_u:uv_1.42_1	māram sasainyam hy abhibhūya bhikṣavo bhaveta jātī maraṇasya pāragāḥ // 2 kāmavarga	T04n0213_001:0777c29_13	魔羅不能伺，　　度生到彼岸。
+K10udanav_u:uv_2.1_0	kāma jānāmi te mūlam saṃkalpāt kāma jāyase /	T04n0213_001:0778a02_0	慾我知汝根，　　意以思想生，
+K10udanav_u:uv_2.1_1	na tvām saṃkalpayiṣyāmi tato me na bhaviṣyasi //	T04n0213_001:0778a03_13	我不思惟汝，　　則汝慾不有。
+K10udanav_u:uv_2.2_0	kāmebhyo jāyate śokaḥ kāmebhyo jāyate bhayam /	T04n0213_001:0778a04_0	因慾生煩惱，　　因慾生怖畏，
+K10udanav_u:uv_2.2_1	kāmebhyo vipramuktānām na asti śokaḥ kuto bhayam //	T04n0213_001:0778a05_13	離慾得解脫，　　無怖無煩惱。
+K10udanav_u:uv_2.3_0	ratibhyo jāyate śoko ratibhyo jāyate bhayam /	T04n0213_001:0778a06_0	從愛生煩惱，　　從愛生怖畏，
+K10udanav_u:uv_2.3_1	ratibhhyo vipramuktānām na asti śokaḥ kuto bhayam //	T04n0213_001:0778a07_13	離愛得解脫，　　無怖無煩惱。
+K10udanav_u:uv_2.4_0	madhura agrā vipāke tu kaṭukā hy abhinanditāḥ /	T04n0213_001:0778a08_0	菓先甜後苦，　　愛慾亦如斯，
+K10udanav_u:uv_2.5_1	saṃrakta cittasya hi manda buddheḥ putreṣu dāreṣu ca yā;avekṣā //	T04n0213_001:0778a10_0	愚迷貪愛慾，　　戀著於妻子，
+K10udanav_u:uv_2.6_0	etad dṛḍham bandhanam āhur āryāḥ samantataḥ susthiram duṣpramokṣam /	T04n0213_001:0778a11_13	為愛染纏縛，　　堅固難出離。 賢聖示愛慾，　　莊嚴諸眷屬，
+K10udanav_u:uv_2.16_1	durmedhā bhoga tṛṣṇābhir hanty ātmānam atho parān // na karṣāpaṇa varṣeṇa tṛptiḥ kāmair hi vidyate /	T04n0213_001:0778b07_0	愚以貪自縛，　　不求度彼岸， 貪財為愛欲，　　害人亦自縛。
+K10udanav_u:uv_2.17_1	alpa āsvāda sukhāḥ kāmā;iti vijñāya paṇḍitaḥ // api divyeṣu kāmeṣu sa ratim na adhigacchati / tṛṣṇā kṣaya rato bhavati buddhānām śrāvakaḥ sadā //	T04n0213_001:0778b09_0	世容眾妙欲，　　此欲最味少， 若比天上樂，　　迦哩灑跛拏。
+K10udanav_u:uv_2.19_0	parvato api suvarṇasya samo himavatā bhavet /	T04n0213_001:0778b11_0	眾山盡為金，　　猶如鐵圍山，
+K10udanav_u:uv_4.9_1	api jāti sahasrāṇi na asau gacchati durgatim //	T04n0213_001:0779a19_0	歷於百千生，　　終不墮地獄，
+K10udanav_u:uv_4.10_0	pramādam anuvartante bālā durmedhaso janāḥ /	T04n0213_001:0779a20_13	修習放逸人，　　愚人所狎習。
+K10udanav_u:uv_4.10_1	apramādam tu medhāvī dhanam śreṣṭhī iva rakṣati // pramādam anuvartante bālā durmedhaso janāḥ / apramattaḥ sadā dhyāyī prāpnute hy āsrava kṣayam //	T04n0213_001:0779a21_0	止觀不散亂，　　如財主守藏，
+K10udanav_u:uv_4.12_0	pramādam na anuyujyeta na kāma rati saṃstavam /	T04n0213_001:0779a22_13	莫貪樂鬪諍，　　亦勿嗜欲樂。
+K10udanav_u:uv_2.19_1	vittam tam nālam ekasya etaj jñātvā samam caret // [vittam tam na alam ekasya]	T04n0213_001:0778b12_13	此猶無厭足，　　正覺盡能知。
+K10udanav_u:uv_2.20_1	upadhim hi loke śalyam iti matvā tasya eva dhīro vinayāya śikṣet //	T04n0213_001:0778b14_13	智者善調伏，　　應依此中學。
+K10udanav_u:uv_3.0_0	3 tṛṣṇāvarga vitarka pramathitasya jantunas tīvra rāgasya śubha anudarśinaḥ /	T04n0213_001:0778b16_0	極貪善顯現，　　有情懷疑慮，
+K10udanav_u:uv_3.1_1	bhūyas tṛṣṇā pravardhate gāḍham hy eṣa karoti bandhanam //	T04n0213_001:0778b17_13	若復增貪意，　　自作堅固縛。
+K10udanav_u:uv_3.2_1	tṛṣṇā hy eṣa prahāsyate sa tu khalu pūti karoti bandhanam // [eṣā]?	T04n0213_001:0778b19_13	棄捨彼貪愛，　　堅固縛自壞。
+K10udanav_u:uv_3.3_0	kāma andha jāla prakṣiptās tṛṣṇayā ācchāditāḥ prajāḥ / pramattā bandhane baddhā matsyavat kupinā mukhe /	T04n0213_001:0778b20_0	以欲網自弊，　　以愛蓋自覆， 愚情自恣縛，　　如魚入釣手，
+K10udanav_u:uv_3.3_2	jarā maraṇam āyānti vatsaḥ kṣīrapaka;iva mātaram //	T04n0213_001:0778b22_13	死命恒來逼，　　如犢逐愛母。
+K10udanav_u:uv_4.4_0	pramādam apramādena yadā nudati paṇḍitaḥ / prajñā prasādam āruhya tv aśokaḥ śokinīm prajām /	T04n0213_001:0779a08_13	已昇智慧堂，　　去危乃獲安。
+K10udanav_u:uv_4.4_2	parvatasthā eva bhūmisthān dhīro bālān avekṣate //	T04n0213_001:0779a09_0	智者觀愚人，　　譬如山與地， 當念捨憍慢，　　智者習明慧。
+K10udanav_u:uv_4.5_0	uttānena apramādena samyamena damena ca /	T04n0213_001:0779a11_0	發行不放逸，　　約己調伏心，
+K10udanav_u:uv_4.6_0	utthānavataḥ smṛta ātmanaḥ śubha cittasya niśāmya cāriṇaḥ / samyatasya hi dharma jīvino hy apramattasya yaśo abhivardhate //	T04n0213_001:0779a13_0	正念常興起，　　意靜易滅除， 自制以法命，　　不犯善名稱。
+K10udanav_u:uv_4.7_0	adhicetasi mā pramadyata pratatam mauna padeṣu śikṣata / śokā na bhavanti tāyino hy upaśāntasya sadā smṛta ātmanaḥ //	T04n0213_001:0779a15_0	專意莫放逸，　　習意牟尼戒，
+K10udanav_u:uv_4.8_0	hīnām dharmām na seveta pramādena na saṃvaset / mithyā dṛṣṭim na roceta na bhavel loka vardhanaḥ //	T04n0213_001:0779a16_13	不親卑漏法，　　不與放逸會。 不種邪見根，　　不於世增惡，
+K10udanav_u:uv_4.9_0	samyag dṛṣṭir adhīmātrā laukikī yasya vidyate /	T04n0213_001:0779a18_13	正見增上道，　　世俗智所察。
+K10udanav_u:uv_4.12_1	apramattaḥ sadā dhyāyī prāpnute hy acalam sukham //	T04n0213_001:0779a23_0	思念不放逸，　　可以獲大安，
+K10udanav_u:uv_4.25_0	apramādam praśaṃsanti sadā kṛtyeṣu paṇḍitāḥ /	T04n0213_001:0779b19_0	若人不放逸，　　智者所讚歎，
+K10udanav_u:uv_4.26_1	artha abhisamayād dhīraḥ paṇḍito hi nirucyate //	T04n0213_001:0779b22_13	安情如不動，　　爾乃說為智。
+K10udanav_u:uv_4.27_0	apramāda rato bhikṣuḥ pramāde bhaya darśakaḥ /	T04n0213_001:0779b23_0	苾芻懷謹慎，　　放逸多憂愆，
+K10udanav_u:uv_4.27_1	durgād uddharate tmānam paṅka sannaiva kuñjaraḥ // [ātmānam] [paṅkasannaiva]	T04n0213_001:0779b24_13	如象拔淤泥，　　難救深海苦。
+K10udanav_u:uv_4.28_0	apramāda rato bhikṣuḥ pramāde bhaya darśakaḥ /	T04n0213_001:0779b25_0	苾芻懷謹慎，　　放逸多憂愆，
+K10udanav_u:uv_4.28_1	dhunāti pāpakām dharmām pattrāṇi iva hi mārutaḥ //	T04n0213_001:0779b26_13	抖擻諸罪塵，　　如風飄落葉。
+K10udanav_u:uv_4.29_0	apramāda rato bhikṣuḥ pramāde bhaya darśakaḥ /	T04n0213_001:0779b27_0	苾芻懷謹慎，　　放逸多憂愆，
+K10udanav_u:uv_4.29_1	samyojanam aṇu sthūlam dahann agnir iva gacchati //	T04n0213_001:0779b28_13	結使深纏縛，　　如火焚枯薪。
+K10udanav_u:uv_4.30_0	apramāda rato bhikṣuḥ pramāde bhaya darśakaḥ /	T04n0213_001:0779b29_0	苾芻懷謹慎，　　放逸多憂愆，
+K10udanav_u:uv_4.30_1	spṛśati hy anupūrveṇa sarva samyojana kṣayam //	T04n0213_001:0779c01_13	各各順次第，　　得盡諸結使。
+K10udanav_u:uv_4.31_0	apramāda rato bhikṣuḥ pramāde bhaya darśakaḥ /	T04n0213_001:0779c02_0	苾芻懷謹慎，　　放逸多憂愆，
+K10udanav_u:uv_4.31_1	pratividhyate padam śāntam saṃskāra upaśamam sukham //	T04n0213_001:0779c03_13	義解分別句，　　寂靜永安寧。
+K10udanav_u:uv_4.13_0	na ayam pramāda kālaḥ syād aprāpte hy āsrava kṣaye /	T04n0213_001:0779a24_13	不為時自恣，　　能制漏得盡。
+K10udanav_u:uv_4.32_0	apramāda rato bhikṣuḥ pramāde bhaya darśakaḥ /	T04n0213_001:0779c04_0	苾芻懷謹慎，　　放逸多憂愆，
+K10udanav_u:uv_4.33_1	asmṛtiś ca pramādaś caiva anutthānam asamyamaḥ //	T04n0213_001:0779c12_0	放逸不憶念，　　亦不習威儀，
+K10udanav_u:uv_4.13_1	māraḥ pramattam anveti siṃham vā mṛga mātṛkā //	T04n0213_001:0779a25_0	放逸魔得便，　　如師子搏鹿，
+K10udanav_u:uv_4.14_0	sthānāni catvāri naraḥ pramatta;āpadyate yaḥ para dāra sevī /	T04n0213_001:0779a26_0	放逸有四事，　　好犯他人婦，
+K10udanav_u:uv_4.14_1	apuṇya lābham hy anikāma śayyām nindām tṛtīyam narakam caturtham //	T04n0213_001:0779a27_13	初獄二尠福，　　毀三睡眠四。
+K10udanav_u:uv_4.15_0	apuṇya lābham ca gatim ca pāpikām bhītasya bhītābhir atha alpikām ratim/ nindām ca paśyan nwpateś ca daṇḍam parasya dārāṇi vivarjayeta // apuṇya lābhaś ca gatiś ca pāpikā bhītasya bhītābhir atha alpikā ratiḥ /	T04n0213_001:0779a28_0	無福利墮惡，　　畏而畏樂寡，
+K10udanav_u:uv_4.15_a_1	rājā ca daṇḍam gurukam dadāti kāyasya bhedād narakeṣu paśyate //	T04n0213_001:0779a29_13	王法加重罪，　　身死入地獄。
+K10udanav_u:uv_4.18_0	evam dharmād apakramya hy adharmam anuvartya ca / bālo mṛtyu vaśam prāptaś chinna akṣa;iva śocate // yat kṛtyam tad apaviddham akṛtyam kriyate punaḥ /	T04n0213_001:0779b04_13	示導世間人，　　如目將無目。 若所作不善，　　如彼無目人， 涉道甚艱難，　　路險懷恐怖。
+K10udanav_u:uv_4.19_1	uddhatānām pramattānām teṣām vardhanti;āsravāḥ / āsravās teṣu vardhante;ārāt te hy āsrava kṣayāt // yeṣām tu susamārabdhā nityam kāya gatā smṛtiḥ /	T04n0213_001:0779b07_0	善法若增長，　　魔羅不得便， 漏盡證寂滅，　　可獲真實果。
+K10udanav_u:uv_4.21_0	na tāvatā dharma dharo yāvatā bahu bhāṣate /	T04n0213_001:0779b11_0	所謂持法者，　　不必多誦習，
+K10udanav_u:uv_4.21_1	yas tv iha alpam api śrutvā dharmam kāyena vai spṛśet /	T04n0213_001:0779b12_13	若少有所聞，　　具足法身行。
+K10udanav_u:uv_4.21_2	sa vai dharma dharo bhavati yo dharme na pramādyate // subahv api iha sahitam bhāṣamāṇo na tat karo bhavati naraḥ pramattaḥ /	T04n0213_001:0779b13_0	雖誦習多義，　　放逸不從正，
+K10udanav_u:uv_4.22_1	gopā eva gāḥ saṃgaṇayan pareṣām na bhāgavān śrāmaṇya arthasya bhavati // [bhāgavān śrāmaṇya arthasya]	T04n0213_001:0779b14_13	如牧數他牛，　　難獲沙門果。
+K10udanav_u:uv_4.23_1	rāgam ca doṣam ca tathaiva moham prahāya bhāgī śrāmaṇya arthasya bhavati //	T04n0213_001:0779b16_13	消除貪瞋癡，　　彼獲沙門性。
+K10udanav_u:uv_4.24_0	apramādam praśaṃsanti pramādo garhitaḥ sadā /	T04n0213_001:0779b17_0	讚歎不放逸，　　毀彼放逸人，
+K10udanav_u:uv_5.15_2	trayāṇām anyatamam yāmam pratijāgreta paṇḍitaḥ // ātmānam cet priyam vidyād gopayet tam sugopitam /	T04n0213_001:0780a19_0	夫欲自念者，　　藏己仍堅密，
+K10udanav_u:uv_5.16_1	yathā pratyanta nagaram guptam antar bahisthiram / [antar bahiḥ sthiram]	T04n0213_001:0780a20_13	猶如防邊城，　　內外悉牢固。
+K10udanav_u:uv_4.34_0	nidrā tandrīr anāyoga;ete śikṣā antarāyikāḥ /	T04n0213_001:0779c13_13	耽睡不相應，　　此是戒障礙。
+K10udanav_u:uv_4.34_1	tad aṅgam paribudhyadhvam smṛtir mā antar adhīyata //	T04n0213_001:0779c14_0	常離不相應，　　使不壞其念，
+K10udanav_u:uv_4.36_0	apramāda ratā bhavata suśīlā bhavata bhikṣavaḥ /	T04n0213_001:0779c16_0	苾芻懷謹慎，　　持戒勿破壞，
+K10udanav_u:uv_4.36_1	susamāhita saṃkalpāḥ sva cittam anurakṣata //	T04n0213_001:0779c17_13	善守護自心，　　今世及後世。
+K10udanav_u:uv_4.37_0	ārabhadhvam niṣkramadhvam yujyadhvam buddha śāsane /	T04n0213_001:0779c18_0	苾芻勿放逸，　　捨家順佛教，
+K10udanav_u:uv_4.37_1	dhunidhvam mṛtyunaḥ sainyam naḍāgāram iva kuñjaraḥ // [naḍa agāram]	T04n0213_001:0779c19_13	抖擻無常軍，　　如象出蓮池。
+K10udanav_u:uv_4.38_0	yo hy asmin dharma vinaye tv apramatto bhaviṣyati /	T04n0213_001:0779c20_0	依此毘尼法，　　不懷放逸行，
+K10udanav_u:uv_4.38_1	prahāya jāti saṃsāram duhkhasya antam sa yāsyati //	T04n0213_001:0779c21_13	消除生死輪，　　永得盡苦惱。
+K10udanav_u:uv_5.0_0	5 priyavarga priyebhyo jāyate śokaḥ priyebhyo jāyate bhayam /	T04n0213_001:0779c23_0	愛處生憂愁，　　愛處生怖畏，
+K10udanav_u:uv_5.1_1	priyebhyo vipramuktānām na asti śokaḥ kuto bhayam // priyebhyo jāyate śokaḥ priyebhyo jāyate bhayam / priyāṇām anyathī bhāvād unmādam api gacchati // śokā hi ye vai paridevitam ca duhkham ca lokasya hi naikarūpam / priyam pratītya iha tad asti sarvam priye asati syān na kathaṃcid etat //	T04n0213_001:0779c24_13	若無所愛樂，　　何愁何怖畏？
+K10udanav_u:uv_5.13_0	ātmānam cet priyam vidyān na enam pāpena yojayet / na hy etat sulabham bhavati sukham duṣkṛta kāriṇā // ātmānam cet priyam vidyān na enam pāpena yojayet /	T04n0213_001:0780a15_0	夫自念欲者，　　不與惡共居，
+K10udanav_u:uv_5.14_1	etadd hi sulabham bhavati sukham sukṛta kāriṇā //	T04n0213_001:0780a16_13	此則難獲得，　　樂為惡根本。
+K10udanav_u:uv_5.15_0	ātmānam cet priyam vidyād rakṣed enam surakṣitam /	T04n0213_001:0780a17_0	夫欲自念者，　　宜自善守護，
+K10udanav_u:uv_5.15_1	yathā pratyanta nagaram gambhīra parikham dṛḍham /	T04n0213_001:0780a18_13	如防護邊城，　　乃牢固墻塹。
+K10udanav_u:uv_5.17_0	evam gopayata ātmānam kṣaṇo vo mā hy upatyagāt /	T04n0213_001:0780a21_0	當自善防護，　　後剎那虛悔，
+K10udanav_u:uv_5.17_1	kṣaṇa atītā hi śocante narakeṣu samarpitāḥ //	T04n0213_001:0780a22_13	時過則生憂，　　須臾墮地獄。
+K10udanav_u:uv_5.18_0	sarvā diśas tv anuparigamya cetasā na eva adhyagāt priyataram ātmanaḥ kvacit /	T04n0213_001:0780a23_0	徧於諸方求，　　令心中間察，
+K10udanav_u:uv_5.18_1	evam priyaḥ pṛthag ātmā pareṣām tasmān na hiṃsyāt param ātma kāraṇam //	T04n0213_001:0780a24_13	頗有斯等類，　　不愛乃愛彼。 以己喻彼命，　　是故不害人，
+K10udanav_u:uv_5.19_0	sarve daṇḍasya bibhyanti sarveṣām jīvitam priyam /	T04n0213_001:0780a26_0	一切皆懼死，　　莫不畏刀杖，
+K10udanav_u:uv_5.19_1	ātmānam upamām kṛtvā na eva hanyān na ghātayet //	T04n0213_001:0780a27_13	恕己可為喻，　　勿殺勿行杖。
+K10udanav_u:uv_5.24_1	ātmanaḥ kārakam santam tam janaḥ kurute priyam // pareṣām ca priyo bhavati hy ātma artham kriyate api ca /	T04n0213_001:0780b08_13	能誡自身者，　　為人所愛敬。 為人所敬故，　　皆由己所造，
+K10udanav_u:uv_5.25_1	dṛṣṭe ca dharme prāśaṃsyaḥ sāmparāye ca sad gatiḥ //	T04n0213_001:0780b10_13	現世得名譽，　　後生於天上。
+K10udanav_u:uv_5.26_0	avavadeta anuśāsīta ca asabhyāc ca nivārayet /	T04n0213_001:0780b11_0	教習使稟受，　　制止非法行，
+K10udanav_u:uv_5.26_1	asatām na priyo bhavati satām bhavati tu priyaḥ // asantaś caiva santaś ca nānā yānti tv itaś cyutāḥ / asanto narakam yānti santaḥ svarga parāyaṇāḥ // 6 śīlavarga	T04n0213_001:0780b12_13	善者之所念，　　惡者當遠離。 善與不善者，　　此二俱不別， 善者生天上，　　不善墮地獄。
+K10udanav_u:uv_6.1_0	śīlam rakṣeta medhāvī prārthayan vai sukha trayam / [prārthayaṃ]	T04n0213_001:0780b16_0	智者能護戒，　　福致三種報，
+K10udanav_u:uv_6.1_1	praśaṃsā vitta lābham ca pretya svarge ca modanam //	T04n0213_001:0780b17_13	現名聞得利，　　終後生天上。
+K10udanav_u:uv_6.2_0	sthānāny etāni sampaśyan śīlam rakṣeta paṇḍitaḥ /	T04n0213_001:0780b18_0	當見持戒者，　　護之為明智，
+K10udanav_u:uv_6.2_1	āryo darśana sampannaḥ sa loke labhate śivam //	T04n0213_001:0780b19_13	得成真正見，　　彼獲世安靜。
+K10udanav_u:uv_6.3_0	sukham śīla samādānam kāyo na paridahyate /	T04n0213_001:0780b20_0	持戒得快樂，　　令身無煩惱，
+K10udanav_u:uv_6.3_1	sukham ca rātrau svapati pratibhuddhaś ca nandati //	T04n0213_001:0780b21_13	夜睡眠恬淡，　　寤則長喜悅。
+K10udanav_u:uv_6.4_0	śīlam yāvaj jarā sādhu śraddhā sādhu pratiṣṭhitā /	T04n0213_001:0780b22_0	戒終老死安，　　戒善止亦寧， 慧為人之寶，　　福德賊難脫。 何法終為善？ 　　何法善安止？
+K10udanav_u:uv_6.4_1	prajñā narāṇām ratnam vai puṇyam coraiḥ sudurharam //	T04n0213_001:0780b25_5	何法為人寶？ 　　何盜不能取？
+K10udanav_u:uv_6.5_0	kṛtvā puṇyāni saprajño dattvā dānāni śīlavān / [datvā]	T04n0213_001:0780b26_0	戒法終為安，　　戒法善安止， 慧為人之寶，　　唯福不能盜。 修戒行布施，　　作福為良田，
+K10udanav_u:uv_6.5_1	iha ca atha paratra asau sukham samadhigacchati //	T04n0213_001:0780b29_13	從是至彼岸，　　常到安樂處。
+K10udanav_u:uv_6.6_0	śīle pratiṣṭhito bhikṣur indriyaiś ca susaṃvṛtaḥ /	T04n0213_001:0780c01_0	苾芻立戒德，　　守護諸根門，
+K10udanav_u:uv_6.6_1	bhojane ca api mātrajño yukto jāgarikāsu ca //	T04n0213_001:0780c02_13	飲食知節量，　　寤寐意相應。
+K10udanav_u:uv_6.8_0	śīle pratiṣṭhito bhikṣuś cittam prajñām ca bhāvayet /	T04n0213_001:0780c05_0	智者立禁戒，　　專心習智慧，
+K10udanav_u:uv_5.20_0	cira pravāsinam yadvad dūrataḥ svastinā āgatam / jñātayaḥ suhṛdo mitrāś ca abhinandanti āgatam //	T04n0213_001:0780a28_0	譬如久行人，　　從遠吉却還， 親厚亦安和，　　歸來懷慶悅。
+K10udanav_u:uv_5.21_0	kṛta puṇyam tathā martyam asmāṃl lokāt param gatam / [asmāl lokāt]	T04n0213_001:0780b01_0	好福行善者，　　從此達於彼，
+K10udanav_u:uv_6.9_0	tasmāt satata śīlī syāt samādher anurakṣakaḥ /	T04n0213_001:0780c07_0	以戒常伏心，　　守護正定意，
+K10udanav_u:uv_5.21_1	puṇyāny eva abhinandanti priyam jñātim iva āgatam //	T04n0213_001:0780b02_13	自受多福祚，　　如親厚來喜。
+K10udanav_u:uv_5.23_0	puṇyam devāḥ praśaṃsanti sama caryām ca yaś caret / iha ca anindito bhavati pretya svarge ca modate //	T04n0213_001:0780b06_13	近道則生天，　　不近墮地獄。
+K10udanav_u:uv_5.24_0	dharmastham śīla sampannam hrīmantam satya vādinam /	T04n0213_001:0780b07_0	樂法戒成就，　　成信樂而習，
+K10udanav_u:uv_6.19_0	teṣām viśuddha śīlānām apramāda vihāriṇām /	T04n0213_001:0780c25_0	若人能持戒，　　清淨不放逸，
+K10udanav_u:uv_6.19_1	samyag ājñā vimuktānām māro mārgam na vindati // eṣa kṣema gamo mārga;eṣa mārgo viśuddhaye /	T04n0213_001:0780c26_13	正智得解脫，　　是名安樂處。
+K10udanav_u:uv_6.20_1	pratipannakāḥ prahāsyanti dhyāyino māra bandhanam //	T04n0213_001:0780c27_0	此道無有上，　　消除禪定魔，
+K10udanav_u:uv_7.1_0	kāya pradoṣam rakṣeta syāt kāyena susaṃvṛtaḥ / kāya duścaritam hitvā kāyena sukṛtam caret //	T04n0213_001:0781a01_0	守護身惡行，　　自正護身行， 守護身惡者，　　常修身善行。
+K10udanav_u:uv_7.2_0	vācaḥ pradoṣam rakṣeta vacasā saṃvṛto bhavet / vāco duścaritam hitvā vācā sucaritam caret //	T04n0213_001:0781a03_0	守護口惡行，　　自正護口行，
+K10udanav_u:uv_7.3_0	manaḥ pradoṣam rakṣeta manasā saṃvṛto bhavet / mano duścaritam hitvā manaḥ sucaritam caret //	T04n0213_001:0781a05_0	守護意惡行，　　自正護意行， 守護意惡者，　　恒修意善行。
+K10udanav_u:uv_7.4_0	kāya duścaritam hitvā vaco duścaritāni ca /	T04n0213_001:0781a07_0	身當棄惡行，　　及棄口惡行，
+K10udanav_u:uv_7.4_1	mano duścaritam hitvā yac ca anyad doṣa saṃhitam //	T04n0213_001:0781a08_13	意亦棄惡行，　　及諸穢惡法。
+K10udanav_u:uv_7.5_0	kāyena kuśalam kuryād vacasā kuśalam bahu /	T04n0213_001:0781a09_0	身當修善行，　　修口善亦然，
+K10udanav_u:uv_7.6_0	kāyena kuśalam kṛtvā vacasā cetasā api ca /	T04n0213_001:0781a11_0	身當修善行，　　修口意亦爾，
+K10udanav_u:uv_8.10_1	artham dharmam ca deśayati madhuram tasya bhāṣitam // subhāṣitam hy uttamam āhur āryā dharmam vaden na adharmam tad dvitīyam / priyam vaden na apriyam tat tṛtīyam satyam vaden na asatyam tac caturtham // tām eva vācam bhāṣeta yayā ātmānam na tāpayet /	T04n0213_001:0781c05_0	至誠甘露說，　　說法無有上，
+K10udanav_u:uv_8.12_1	parāṃś ca na vihiṃseta sā hi vāk sādhu bhāṣitā // priya udyam eva bhāṣeta yā hi vācā abhinanditā / na ādadāti yayā pāpam bhāṣamāṇaḥ sadā priyam // satyā syād amṛtā vācā satya vācā hy anuttarā / satyam arthe ca dharme ca vācam āhuḥ pratiṣṭhitām //	T04n0213_001:0781c06_13	諦說義如法，　　是為立道本。
+K10udanav_u:uv_8.15_0	yām buddho bhāṣate vācam kṣemām nirvāṇa prāptaye /	T04n0213_001:0781c07_0	如說佛言者，　　是吉得滅度，
+K10udanav_u:uv_6.9_1	vipaśyanāyām śikṣec ca samprajāna pratismṛtaḥ //	T04n0213_001:0780c08_13	內學修止觀，　　無忘為正智。
+K10udanav_u:uv_8.15_1	duhkhasya anta kriyā yuktām sā hi vāk sādhu bhāṣitā // 9 karmavarga	T04n0213_001:0781c08_13	為能斷苦際，　　是謂言中上。
+K10udanav_u:uv_9.1_0	eka dharmam atītasya mṛṣā vādasya jantunaḥ /	T04n0213_001:0781c10_0	應遠離一法，　　所謂妄語人，
+K10udanav_u:uv_9.1_1	vitīrṇa para lokasya na akāryam pāpam asti yat //	T04n0213_001:0781c11_13	無惡不經歷，　　不免後世苦。
+K10udanav_u:uv_9.2_0	śreyo hy ayoguḍā bhuktās taptā hy agni śikhā upamāḥ /	T04n0213_001:0781c12_0	寧吞熱鐵丸，　　渴飲洋銅汁，
+K10udanav_u:uv_9.2_1	na tu bhuñjīita duhśīlo rāṣṭra piṇḍam asamyataḥ //	T04n0213_001:0781c13_13	不以無戒身，　　食人信施物。 犯戒放逸人，　　國中如肉團，
+K10udanav_u:uv_9.3_0	sa ced bibheṣi duhkhasya sa cet te duhkham apriyam /	T04n0213_001:0781c15_13	無慚不畏罪，　　後受地獄殃。 若人畏苦報，　　亦不樂行苦， 勿造諸惡行，　　念尋生變悔。
+K10udanav_u:uv_9.3_1	mā kārṣīḥ pāpakam karma tv āvir vā yadi vā rahaḥ // sa cet pāpāni karmāṇi kariṣyasi karoṣi vā /	T04n0213_001:0781c18_0	至誠為諸惡，　　自作教他作，
+K10udanav_u:uv_6.10_0	sa tu vikṣīṇa samyogaḥ kṣīṇa māno niraupadhiḥ / kāyasya bhedat saprajñaḥ saṃkhyān na upaiti nirvṛtaḥ //	T04n0213_001:0780c09_0	蠲除諸罪垢，　　盡慢勿生疑， 終身求法戒，　　勿遠離聖念。
+K10udanav_u:uv_6.11_0	śīlam samādhiḥ prajñā ca yasya hy ete subhāvitāḥ /	T04n0213_001:0780c11_0	戒定慧解脫，　　應當善觀察，
+K10udanav_u:uv_6.11_1	so atyanta niṣṭho vimalas tv aśokaḥ kṣīṇa sambhavaḥ // saṅgāt pramukto hy asita;ājñātāvī niraupadhiḥ /	T04n0213_001:0780c12_13	彼已離塵垢，　　盡煩惱不生。 集白淨解脫，　　無智皆以盡，
+K10udanav_u:uv_6.12_1	atikramya māra viṣayam ādityo vā virocate //	T04n0213_001:0780c14_13	超越魔羅界，　　如日光明照。
+K10udanav_u:uv_6.13_0	uddhatasya pramattasya bhikṣuṇo bahir ātmanaḥ /	T04n0213_001:0780c15_0	我慢及迷醉，　　苾芻應外避，
+K10udanav_u:uv_6.13_1	śīlam samādhiḥ prajñā ca pāripūrim na gacchati //	T04n0213_001:0780c16_13	戒定慧三行，　　求滿勿遠離。
+K10udanav_u:uv_6.14_1	tasmādd hi channam vivared evam tam na abhivarṣati // [cchannam]	T04n0213_001:0780c18_13	是故捨陰蓋，　　不生如是障。
+K10udanav_u:uv_6.15_0	etadd hi dṛṣṭvā śikṣeta sadā śīleṣu paṇḍitaḥ /	T04n0213_001:0780c19_0	苾芻防禁戒，　　恒見學此者，
+K10udanav_u:uv_6.15_1	nirvāṇa gamanam mārgam kṣipram eva viśodhayet //	T04n0213_001:0780c20_13	直趣涅槃路，　　速得淨如是。
+K10udanav_u:uv_6.16_0	na puṣpa gandhaḥ prativātam eti na vāhnijāt tagarāc candanād vā /	T04n0213_001:0780c21_0	花香不逆風，　　芙蓉栴檀香，
+K10udanav_u:uv_6.16_1	satām tu gandhaḥ prativātam eti sarvā diśaḥ sat puruṣaḥ pravāti //	T04n0213_001:0780c22_13	德香逆風薰，　　德人徧聞香。
+K10udanav_u:uv_6.17_0	tagarāc candanāc ca api vārṣikāyās tathā utpalāt /	T04n0213_001:0780c23_0	烏鉢嚩哩史，　　多誐羅栴檀，
+K10udanav_u:uv_6.17_1	etebhyo gandha jātebhyaḥ śīla gandhas tv anuttaraḥ // alpa mātro hy ayam gandho yo ayam tagara candanāt / yas tu śīlavatām gandho vāti deveṣv api iha saḥ /	T04n0213_001:0780c24_13	如是等花香，　　勿比於戒香。
+K10udanav_u:uv_9.4_1	na te duhkhāt pramokṣo asti hy utplutya api palāyataḥ //	T04n0213_001:0781c19_13	不免於苦報，　　欲避有何益？
+K10udanav_u:uv_10.3_0	śraddhā hi vittam puruṣasya śreṣṭham dharmaḥ sucīrṇaḥ sukham ādadhāti /	T04n0213_001:0782a23_0	信者真人長，　　念法所安住，
+K10udanav_u:uv_10.3_1	satyam hi vai svādutamam rasānām prajñā ājīvī jīvinām śreṣṭha;uktaḥ //	T04n0213_001:0782a24_13	近者應得上，　　智壽中中賢。 人業何者上？ 　　何行致歡樂？
+K10udanav_u:uv_10.4_0	śraddhā dhano hy arhatām dharmam nirvāṇa prāptaye /	T04n0213_001:0782a26_5	何要出要者？ 　　何壽壽中上？ 信者真人長，　　念法所安住，
+K10udanav_u:uv_10.5_0	śraddhayā tarati hy ogham apramādena ca arṇavam /	T04n0213_001:0782a29_0	信財乃得道，　　自致法滅度，
+K10udanav_u:uv_10.6_0	śraddhā dvitīyā puruṣasya bhavati prajñā ca enam praśāsati /	T04n0213_001:0782b02_0	信之與戒法，　　慧意則能行，
+K10udanav_u:uv_9.5_0	na eva antarīkṣe na samudra madhye na parvatānām vivaram praviśya /	T04n0213_001:0781c20_0	非空非海中，　　非入山石間，
+K10udanav_u:uv_9.5_1	na vidyate asau pṛthivī pradeśo yatra sthitam na prasaheta karma //	T04n0213_001:0781c21_13	莫能於此處，　　避免宿惡殃。
+K10udanav_u:uv_9.7_0	ye kūṭa māna yogena viṣameṇa ca karmaṇā / manuṣyān upahiṃsanti parato upakrameṇa vā / [paratopakrameṇa vā]	T04n0213_001:0781c24_0	妄語求賄賂，　　自所行不正， 怨譖良善人，　　以枉治善士，
+K10udanav_u:uv_9.7_2	te vai prapātam prapatanti karma baddhā hi te janāḥ //	T04n0213_001:0781c26_13	罪纏斯等人，　　沒溺深險坑。
+K10udanav_u:uv_9.8_0	yat karoti naraḥ karma kalyāṇam atha pāpakam /	T04n0213_001:0781c27_0	夫士為行者，　　好之與暴惡，
+K10udanav_u:uv_9.13_0	caranti bālā duṣprajñā hy amitrair iva ca ātmabhiḥ / kurvantaḥ pāpakam karma yad bhavati kaṭukam phalam // na tat karma kṛtam sādhu yat kṛtvā hy anutapyate /	T04n0213_001:0782a03_13	猶行善惡行，　　終不離自身。 遂貪食毒味，　　不從吾往言，
+K10udanav_u:uv_9.16_0	hasantaḥ pāpakam karma kurvanty ātma sukha eṣiṇaḥ / rudantas tasya vīpākam prativindanti duhkhitāḥ // [vipākam]	T04n0213_001:0782a08_0	戲笑為其惡，　　已作身自受， 號泣受罪報，　　隨行而罪至。
+K10udanav_u:uv_9.17_0	na hi pāpa kṛtam karma sadyaḥ kṣīram iva mūrchati / [mūrcchati]	T04n0213_001:0782a10_0	惡不即時受，　　如𤛓牛湩汁，
+K10udanav_u:uv_9.17_1	dahan tad bālam anveti bhasma ācchanna;iva analaḥ //	T04n0213_001:0782a11_13	罪在於陰伺，　　譬如灰覆火。
+K10udanav_u:uv_9.18_0	na hi pāpa kṛtam karma sadyaḥ śastram iva kṛntati /	T04n0213_001:0782a12_0	惡不即時受，　　如彼鋒利劍，
+K10udanav_u:uv_9.18_1	sāmparāye tu jānāti yā gatiḥ pāpa karmaṇām / paścāt tu kaṭukam bhavati vipākam pratiṣevataḥ //	T04n0213_001:0782a13_13	不慮於後世，　　當受其苦報。 惡為惡所縛，　　為惡不自覺， 至惡知惡至，　　受惡惡根源。
+K10udanav_u:uv_9.19_0	ayaso hi malaḥ samutthitaḥ sa tad utthāya tam eva khādati /	T04n0213_001:0782a16_0	如鐵生翳垢，　　反食其自身，
+K10udanav_u:uv_10.1_0	śraddhā atha hrī śīlam atha api dānam dharmā;ime sat puruṣa praśastāḥ /	T04n0213_001:0782a19_0	信慚戒布施，　　上士譽此法，
+K10udanav_u:uv_10.1_1	etam hi mārgam divyam vadanti;etena asau gacchati deva lokam //	T04n0213_001:0782a20_13	斯道明智說，　　得生於天界。
+K10udanav_u:uv_10.2_0	na vai kadaryā deva lokam vrajanti bālā hi te na praśaṃsanti dānam / śrādhas tu dānam hy anumodamāno apy evam hy asau bhavati sukhī paratra //	T04n0213_001:0782a21_0	愚不修天行，　　亦不讚布施， 正直隨喜施，　　彼得後世樂。
+K10udanav_u:uv_10.7_0	yasya śraddhā ca śīlam caiva ahiṃsā samyamo damaḥ /	T04n0213_001:0782b04_0	信使戒成就，　　亦獲壽及慧，
+K10udanav_u:uv_11.0_0	11 śramaṇavarga chindhi srotaḥ parākramya kāmān praṇuda sarvaśaḥ /	T04n0213_001:0782c02_0	斷漏降伏他，　　離欲名梵行，
+K10udanav_u:uv_11.1_1	na aprahāya muniḥ kāmān ekatvam adhigacchati //	T04n0213_001:0782c03_13	不犯牟尼戒，　　無一願不滿。
+K10udanav_u:uv_11.2_0	kurvāṇo hi sadā prājño dṛḍham eva parākramet / śithilā khalu pravrajyā hy ādadāti puno rajaḥ //	T04n0213_001:0782c04_0	行力若緩慢，　　作善與不善， 梵行不清淨，　　不獲於大果。
+K10udanav_u:uv_11.3_0	yat kiṃcit śithilam karma saṃkliṣṭam vā api yat tapaḥ /	T04n0213_001:0782c06_0	所有緩慢業，　　劣意盡除之，
+K10udanav_u:uv_11.3_1	apariśuddham brahmacaryam na tad bhavati mahā phalam //	T04n0213_001:0782c07_13	修習清淨行，　　獲果盡無餘。
+K10udanav_u:uv_11.4_0	śaro yathā durgṛhīto hastam eva apakṛntati /	T04n0213_001:0782c08_0	譬如執利劍，　　執緩則傷手，
+K10udanav_u:uv_11.4_1	śrāmaṇyam duṣparāmṛṣṭam narakān upakarṣati //	T04n0213_001:0782c09_13	沙門不禁制，　　地獄縛牽引。
+K10udanav_u:uv_11.5_0	śaro yathā sugṛhīto na hastam apakṛntati /	T04n0213_001:0782c10_0	又如執利劍，　　執緊不傷手，
+K10udanav_u:uv_11.5_1	śrāmaṇyam suparāmṛṣṭam nirvāṇasya eva so antike //	T04n0213_001:0782c11_13	沙門禁制戒，　　漸近涅槃路。
+K10udanav_u:uv_11.6_0	duṣkaram dustitīkṣam ca śrāmaṇyam manda buddhinā / [dustitikṣam]	T04n0213_001:0782c12_0	難曉則難了，　　沙門少智慧，
+K10udanav_u:uv_11.6_1	bahavas tatra sambādhā yatra mando viṣīdati //	T04n0213_001:0782c13_13	諸想多擾亂，　　愚者致苦惱。
+K10udanav_u:uv_11.8_0	duṣpravrajyam durabhiramam duradhyāvasitā gṛhāḥ / duhkhā asamāna saṃvāsā duhkhāś ca upacitā bhavāḥ // [duhkhāsamāna saṃvāsā]	T04n0213_001:0782c16_0	學難捨罪難，　　居在家亦難， 會止同利難，　　艱難不過是。
+K10udanav_u:uv_11.7_1	punaḥ punar viṣīdet sa saṃkalpānām vaśam gataḥ //	T04n0213_001:0782c15_13	　　如意不自禁，步步數黏著，　　但隨思想走。
+K10udanav_u:uv_11.9_0	kāṣāya kaṇṭhā bahavaḥ pāpa dharmā hy asamyatāḥ /	T04n0213_001:0782c18_0	袈裟在肩披，　　為惡不捐棄，
+K10udanav_u:uv_11.9_1	pāpā hi karmabhiḥ pāpair ito gacchanti durgatim /	T04n0213_001:0782c19_13	常念行惡者，　　斯則墮惡道。
+K10udanav_u:uv_11.10_0	yo asāv atyanta duhśīlaḥ sālavān mālutā yathā / karoty asau tathā ātmānam yathā enam dviṣad icchati //	T04n0213_001:0782c20_0	畏罪懷驚懼，　　假名為沙門， 身披僧伽胝，　　如刳娑羅皮。
+K10udanav_u:uv_11.12_0	yas tu puṇyam ca pāpam ca prahāya brahmacaryavān /	T04n0213_001:0782c24_0	能知罪福者，　　身淨修梵行，
+K10udanav_u:uv_11.11_0	sthaviro na tāvatā bhavati yāvatā palitam śiraḥ / paripakvam vayas tasya moha jīrṇaḥ sa;ucyate //	T04n0213_001:0782c22_0	所謂長老者，　　不必以耆年， 形熟鬢髮白，　　愚憃不知罪。
+K10udanav_u:uv_12.0_0	12 mārgavarga ārya satyāni catvāri prajñayā paśyate yadā /	T04n0213_002:0783a16_0	正道四聖諦，　　智慧所觀察，
+K10udanav_u:uv_11.12_1	viśreṇayitvā carati sa vai sthavira;ucyate // na muṇḍa bhāvāt śramaṇo hy avṛtas tv anṛtam vadan /	T04n0213_001:0782c25_13	明遠純清潔，　　是名為長老。
+K10udanav_u:uv_12.2_1	evam śāmyanti saṃkalpāḥ prajñayā paśyate yadā //	T04n0213_002:0783a18_0	能見聖諦者，　　寂靜應觀察，
+K10udanav_u:uv_12.1_1	eṣa mārgam prajānāti bhava tṛṣṇā pradālanam // uddhatam hi rajo vātair yathā vṛṣṭena śāmyati /	T04n0213_002:0783a17_13	破壞愛輪迴，　　如風吹塵散。
+K10udanav_u:uv_12.4_1	śreṣṭho virāgo dharmāṇām cakṣuṣmān dvipadeṣu ca //	T04n0213_002:0783a23_13	無欲法之最，　　明眼善觀察。 智為出世長，　　快樂證無為， 知受正教者，　　永盡生老死。
+K10udanav_u:uv_12.4_0	mārgeṣv aṣṭa aṅgikaḥ śreṣṭhaś catvāry āryāṇi satyataḥ /	T04n0213_002:0783a22_0	道為八真妙，　　聖諦四句上，
+K10udanav_u:uv_12.5_0	anityān sarva saṃskārān prajñayā paśyate yadā /	T04n0213_002:0783a26_0	一切行無常，　　如慧所觀察，
+K10udanav_u:uv_12.5_1	atha nirvidyate duhkhād eṣa mārgo viśuddhaye //	T04n0213_002:0783a27_13	若能覺此苦，　　行道淨其迹。
+K10udanav_u:uv_12.6_0	duhkham hi sarva saṃskārān prajñayā paśyate yadā /	T04n0213_002:0783a28_0	一切諸行苦，　　如慧之所見，
+K10udanav_u:uv_12.6_1	atha nirvidyate duhkhād eṣa mārgo viśuddhaye //	T04n0213_002:0783a29_13	若能覺此苦，　　行道淨其迹。
+K10udanav_u:uv_12.7_0	śunyataḥ sarva saṃskārān prajñayā paśyate yadā / [śūnyataḥ]	T04n0213_002:0783b01_0	一切諸行空，　　如慧之所見，
+K10udanav_u:uv_12.8_0	sarva dharmā;anātmānaḥ prajñayā paśyate yadā /	T04n0213_002:0783b03_0	一切法無我，　　如慧之所見，
+K10udanav_u:uv_12.7_1	atha nirvidyate duhkhād eṣa mārgo viśuddhaye //	T04n0213_002:0783b02_13	若能覺此苦，　　行道淨其迹。
+K10udanav_u:uv_10.7_1	sa vānta doṣo medhāvī sādhu rūpo nirucyate // śrāddhaḥ śīlena sampannas tyāgavān vīta matsaraḥ / vrajate yatra yatra eva tatra tatra eva pūjyate //	T04n0213_001:0782b05_13	在在則能行，　　處處見供養。 施共與鬪集，　　此業智不處，
+K10udanav_u:uv_10.10_0	āryāṇām darśanaḥ kāmaḥ sad dharma śravaṇe rataḥ /	T04n0213_001:0782b10_0	欲見諸真者，　　樂聽聞法教，
+K10udanav_u:uv_10.10_1	vinīta mātsarya malaḥ sa vai śrāddho nirucyate //	T04n0213_001:0782b11_13	能捨慳垢心，　　此乃為上信。
+K10udanav_u:uv_10.11_0	śrāddho gṛhṇāti pātheyam puṇyam coraiḥ sudurharam / coram harantam vārayati harantaḥ śramaṇāḥ priyāḥ /	T04n0213_001:0782b12_0	信能渡有河，　　其福難侵奪， 能禁止竊盜，　　閑靜沙門樂。
+K10udanav_u:uv_10.11_2	śramaṇān āgatān dṛṣṭvā;abhinandanti paṇḍitāḥ //	T04n0213_001:0782b14_0	沙門恒來至，　　智者所見樂，
+K10udanav_u:uv_10.12_1	tatra yo durmanā bhavati pareṣām pāna bhojane /	T04n0213_001:0782b16_0	若人懷懊惱，　　貪他人衣食，
+K10udanav_u:uv_10.12_2	na asau divā ca rātrau ca samādhim adhigacchati //	T04n0213_001:0782b17_13	彼人晝夜寐，　　不獲三摩地。
+K10udanav_u:uv_10.13_0	yasya tv ete samucchinnās tāla mastakavadd hatāḥ / [mastakavad dhatāḥ]	T04n0213_001:0782b18_0	若人能斷貪，　　如截多羅樹，
+K10udanav_u:uv_10.13_1	sa vai divā ca rātrau ca samādhim adhigacchati //	T04n0213_001:0782b19_13	彼人則晝夜，　　及獲三摩地。
+K10udanav_u:uv_10.14_0	vīta śraddham na seveta hradam yadvadd hi nirjalam /	T04n0213_001:0782b20_0	無信不修行，　　好剝正言說，
+K10udanav_u:uv_10.15_0	śrāddham prājñam tu seveta hradam yadvaj jala arthikaḥ / acchodakam viprasannam śīta toyam anāvilam / [accha udakam]	T04n0213_001:0782b22_0	智者習信行，　　樂仰清淨流， 如善取泉水，　　思冷不擾濁。
+K10udanav_u:uv_10.16_1	aprasannām varjayitvā prasannān upasevate //[10 śraddhāvargah]	T04n0213_001:0782b27_13	遠離無信者，　　信仁應行之。
+K10udanav_u:uv_10_17_0	anitya kāma tṛṣṇā ca;apramādas tathā priyaḥ / [p.184]	T04n0213_001:0782b28_0	無常及欲、貪　　放逸與愛樂
+K10udanav_u:uv_10_17_1	śīlam sucaritam vāca karma śraddhā ca te daśaḥ //	T04n0213_001:0782b29_0	戒善、行、語言　　業、信為第十
+K10udanav_u:uv_12.16_0	yo dharma cakram hy ananuśrutam purā prāvartayat sarva bhūta anukampī /	T04n0213_002:0783b19_13	可趣服甘露，　　前未聞法輪。 轉為哀眾生。
+K10udanav_u:uv_12.17_0	sadā vitarkān kuśalān vitarkayet sadā punaś ca akuśalān vivarjayet /	T04n0213_002:0783b22_5	三念當離惡。
+K10udanav_u:uv_12.18_2	pradālayitvā tribhir ālayāṃs trīn jahāti bandhān nipakaḥ pratismṛtaḥ //	T04n0213_002:0783b25_0	無量修念待，　　能除三有垢，
+K10udanav_u:uv_12.19_0	prajñā āyudho dhyāna bala upapetaḥ samāhito dhyāna rataḥ smṛta ātmā /	T04n0213_002:0783b26_0	攝定用縛意，　　智慧禪定力，
+K10udanav_u:uv_12.20_0	sukham sukha arthī labhate samācaran kīrtim samāpnoti yaśaś ca sarvataḥ /	T04n0213_002:0783b29_5	快樂無窮盡。 讚歎得名譽，　　逮賢聖八品，
+K10udanav_u:uv_12.20_1	ya;āryam aṣṭa aṅgikam āñjasam śivam bhāvayati mārgam hy amṛtasya prāptaye // 13 satkāravarga	T04n0213_002:0783c02_5	修道甘露果。
+K10udanav_u:uv_13.1_0	phalam vai kadalim hanti phalam veṇum phalam naḍam /	T04n0213_002:0783c04_0	芭蕉以實死，　　竹蘆實亦然，
+K10udanav_u:uv_13.1_1	satkāraḥ kāpuruṣam hanti sva garbho aśvatarīm yathā //	T04n0213_002:0783c05_13	駏驉坐妊終，　　人為貪利喪。
+K10udanav_u:uv_13.2_1	hanti bālasya śukla aṃśam mūrdhānam ca asya pātayet //	T04n0213_002:0783c07_13	愚為此害賢，　　首落分于地。
+K10udanav_u:uv_13.3_0	asanto lābham icchanti satkāram ca eva bhikṣuṣu /	T04n0213_002:0783c08_0	貪利不善性，　　苾芻勿羨之，
+K10udanav_u:uv_13.3_1	āvāseṣu ca mātsaryam pūjām para kuleṣu ca //	T04n0213_002:0783c09_13	住處多愛戀，　　希望他供養。
+K10udanav_u:uv_13.4_0	mām eva nityam jānīyur gṛhī pravrajitas tathā /	T04n0213_002:0783c10_0	在家及出家，　　族姓諸愚迷，
+K10udanav_u:uv_13.4_1	mama prativaśāś ca syuḥ kṛtya akṛtyeṣu keṣucit // iti bālasya saṃkalpā;icchā māna abhivardhakāḥ /	T04n0213_002:0783c11_13	貪利興嫉心，　　我為降伏彼。 愚為愚計想，　　欲慢日夜增，
+K10udanav_u:uv_12.8_1	atha nirvidyate duhkhād eṣa mārgo viśuddhaye //	T04n0213_002:0783b04_13	若能覺此苦，　　行道淨其迹。
+K10udanav_u:uv_12.9_0	ākhyāto vo mayā mārgas tv ajñāyai śalya kṛntanaḥ /	T04n0213_002:0783b05_0	吾已說道迹，　　愛箭而為射，
+K10udanav_u:uv_12.9_1	yuṣmābhir eva karaṇīyam ākhyātāras tathā gatāḥ //	T04n0213_002:0783b06_13	宜以自勗勵，　　諦受如來言。
+K10udanav_u:uv_12.10_0	deśito vo mayā mārgas tṛṣṇā śalya nikṛntanaḥ /	T04n0213_002:0783b07_0	吾已說道迹，　　拔愛堅固刺，
+K10udanav_u:uv_12.11_0	eṣo hi mārgo na asty anyo darśanasya viśuddhaye /	T04n0213_002:0783b09_0	此道無別法，　　見諦之所淨，
+K10udanav_u:uv_12.11_1	pratipannakāḥ prahāsyanti dhyāyino māra bandhanam //	T04n0213_002:0783b10_13	趣向滅眾苦，　　能壞魔羅軍。 此道無有餘，　　見諦能證果， 趣向滅眾苦，　　能破魔羅軍。
+K10udanav_u:uv_12.12_0	eṣo añjaso hy eṣa ca vai parākrame tv eka ayano haṃsa patho yathā hrade /	T04n0213_002:0783b13_0	是道更無過，　　一趣如淵流，
+K10udanav_u:uv_12.12_1	yam adhyagāt śākya muniḥ samāhitas tam eva ca ākhyāti gaṇeṣv abhīkṣṇaśaḥ //	T04n0213_002:0783b14_0	如能仁入定，　　在眾頻演道，
+K10udanav_u:uv_12.13_0	eka ayanam jāti jarā anta darśī mārgam vadaty eṣa hita anukampī /	T04n0213_002:0783b15_13	一入見生死，　　得道為祐助。
+K10udanav_u:uv_12.13_1	etena mārgeṇa hi tīrṇavantas tariṣyate ye prataranti ca ogham //	T04n0213_002:0783b16_0	此道度當度，　　截流至彼岸，
+K10udanav_u:uv_12.14_0	atyanta niṣṭhāya damāya śuddhaye saṃsāra jātī maraṇa kṣayāya /	T04n0213_002:0783b17_13	究竟道清淨，　　已盡生死源。
+K10udanav_u:uv_30.31_1	tṛṣṇā kṣaya sukhasya etat kalām na arghati ṣoḍaśīm //	T04n0213_004:0795a01_13	此名為愛極，　　十六未獲一。
+K10udanav_u:uv_30.32_0	nikṣipya hi gurum bhāram na ādadyād bhāram eva tu /	T04n0213_004:0795a02_0	欲捨於重擔，　　更不造重業，
+K10udanav_u:uv_30.32_1	bhāra ādānam param duhkham bhāra nikṣepaṇam sukham //	T04n0213_004:0795a03_13	重擔世之苦，　　能捨最快樂。
+K10udanav_u:uv_30.33_0	sarva tṛṣṇām viprahāya sarva samyojana kṣayāt /	T04n0213_004:0795a04_0	盡斷諸愛欲，　　及滅一切行，
+K10udanav_u:uv_30.34_0	artheṣu jāteṣu sukham sahāyāḥ puṇyam sukham jīvita saṃkṣayeṣu /	T04n0213_004:0795a06_0	義聚則有樂，　　朋友食福樂，
+K10udanav_u:uv_30.52_0	sāpatrapāḥ sat puruṣā bhavanti na kāma hetor lapayanti santaḥ / spṛṣṭā hi duhkhena tathā sukhena na ucca avacāḥ sat puruṣā bhavanti // 31 cittavarga durnigrahasya laghuno yatra kāma nipātinaḥ /	T04n0213_004:0795b06_0	心輕難調伏，　　為欲所居懷，
+K10udanav_u:uv_31.1_1	cittasya damanam sādhu cittam dāntam sukhāvaham //	T04n0213_004:0795b07_13	降心則為善，　　以降便輕安。
+K10udanav_u:uv_31.2_0	vārijo vā sthale kṣipta;okād oghāt samuddhṛtaḥ /	T04n0213_004:0795b08_0	如魚在旱地，　　以離於深淵，
+K10udanav_u:uv_31.2_1	parispandati vai cittam māra dheyam prahātavai //	T04n0213_004:0795b09_13	心識極惶懼，　　魔眾而奔馳。
+K10udanav_u:uv_31.3_0	pṛthag vidhāvate cittam sūryasya iva hi raśmayaḥ /	T04n0213_004:0795b10_0	心走非一處，　　猶如日光明，
+K10udanav_u:uv_30.22_1	sukham saṃghasya sāmagrī samagrāṇām tapaḥ sukham //	T04n0213_004:0794c11_13	眾僧和合樂，　　和則常有安；
+K10udanav_u:uv_30.23_0	śīlavantaḥ sukham dṛṣṭum sukham dṛṣṭum bahu śrutāḥ / [draṣṭum]	T04n0213_004:0794c12_13	持戒完具樂，　　多聞廣知樂。
+K10udanav_u:uv_31.3_1	tat paṇḍito vārayati hy aṅkuśena eva kuñjaram //	T04n0213_004:0795b11_13	智者所能制，　　如鉤止惡象。
+K10udanav_u:uv_30.23_1	arhantaś ca sukham dṛṣṭum vipramukta punar bhavāḥ //	T04n0213_004:0794c13_0	覩見真人樂，　　解脫行跡樂，
+K10udanav_u:uv_30.24_0	sukhā nadī sūpatīrthā sukham dharmajino jinaḥ /	T04n0213_004:0794c14_13	德水清涼樂，　　法財自集快。
+K10udanav_u:uv_30.24_1	prajñā lābhaḥ sukho nityam asmi māna kṣayaḥ sukham //	T04n0213_004:0794c15_0	得智明慧快，　　滅慢無邪快，
+K10udanav_u:uv_30.25_0	sukham darśanam āryāṇām saṃvāso api sadā sukham /	T04n0213_004:0794c16_13	得覩諸賢樂，　　同會亦復樂。
+K10udanav_u:uv_30.25_1	adarśanena bālānām nityam eva sukhī bhavet // bāla saṃsarga cārī hi dīrgha adhvānam praśocati /	T04n0213_004:0794c17_0	不與愚從事，　　畢固永已樂， 不與愚從事，　　經歷無數日。
+K10udanav_u:uv_30.26_1	duhkho bālair hi saṃvāso hy amitrair iva sarvaśaḥ / dhīrais tu sukha saṃvāso jñātīnām iva saṃgamaḥ //	T04n0213_004:0794c19_0	與愚同居難，　　如與怨憎會， 與智同處易，　　如共親親會。
+K10udanav_u:uv_30.27_0	durlabhaḥ puruṣo jātyo na asau sarvatra jāyate /	T04n0213_004:0794c21_0	人智甚難遇，　　終不虛託生，
+K10udanav_u:uv_30.27_1	yatra asau jāyate vīras tu kulam sukham edhate //	T04n0213_004:0794c22_13	設當託生處，　　彼家必蒙慶。
+K10udanav_u:uv_30.28_0	sarvathā vai sukham śete brāhmaṇaḥ parinirvṛtaḥ /	T04n0213_004:0794c23_0	一切得安隱，　　梵志取滅度，
+K10udanav_u:uv_30.28_1	yo na lipyate kāmebhir vipramukto nirāsravaḥ // sarvā hy āśāstayaś chittvā vinīya hṛdaya jvaram /	T04n0213_004:0794c24_13	不為欲所染，　　盡脫於諸處。 盡斷不祥結，　　降伏內煩惱，
+K10udanav_u:uv_30.29_1	upaśāntaḥ sukham śete śāntim prāpya iha cetasaḥ //	T04n0213_004:0794c26_13	永息得睡眠，　　心識得清徹。
+K10udanav_u:uv_30.31_0	yac ca kāma sukham loke yac ca api divijam sukham /	T04n0213_004:0794c29_0	如世欲歡樂，　　及彼天上樂，
+K10udanav_u:uv_14.15_0	caraṃś ca na adhigaccheta sahāyam tulyam ātmanaḥ / eka caryām dṛḍham kuryān na asti bāle sahāyatā //	T04n0213_002:0784b09_0	學無同伴侶，　　又不得親友， 寧獨守善行，　　不與愚人偕。
+K10udanav_u:uv_14.16_0	ekasya caritam śreyo na tu bālaḥ sahāyakaḥ / ekaś caren na ca pāpāni kuryād alpa utsuko araṇya gataiva nāgaḥ // ekasya caritam śreyo na tu bāla sahāyatā /	T04n0213_002:0784b11_13	樂戒學法行，　　奚用伴侶為？
+K10udanav_u:uv_14.16_a_1	alpa utsukaś cared eko mātaṅga araṇye nāgavat //	T04n0213_002:0784b12_13	如龍好深淵，　　如象樂曠野。
+K10udanav_u:uv_15.0_0	15 smṛtivarga ānāpāna smṛtir yasya paripūrṇā subhāvitā /	T04n0213_002:0784b14_0	入息出息念，　　具滿諦思惟，
+K10udanav_u:uv_15.1_1	anupūrvam parijitā yathā buddhena deśitā /	T04n0213_002:0784b15_13	常依次第行，　　按如佛所說。
+K10udanav_u:uv_15.1_2	sa;imam bhāsate lokam abhra muktaiva candramāḥ //	T04n0213_002:0784b16_0	是則照世間，　　如雲開月現，
+K10udanav_u:uv_15.2_0	sthitena kāyena tathaiva cetasā sthito niṣaṇṇo apy athavā śayānaḥ / nityam smṛto bhikṣur adhiṣṭhamāno labheta pūrva aparato viśeṣam /	T04n0213_002:0784b17_13	起止覺思惟，　　坐臥不廢忘。
+K10udanav_u:uv_15.9_0	lābhas teṣām manuṣyāṇām ye buddham śaraṇam gatāḥ /	T04n0213_002:0784c05_0	若人得善利，　　而來自歸佛，
+K10udanav_u:uv_15.9_1	yeṣām divā ca rātrau ca nityam buddha gatā smṛtiḥ //	T04n0213_002:0784c06_13	是故當晝夜，　　一心常念佛。
+K10udanav_u:uv_15.10_0	lābhas teṣām manuṣyāṇām ye dharmam śaraṇam gatāḥ /	T04n0213_002:0784c07_0	若人得善利，　　而來自歸法，
+K10udanav_u:uv_15.10_1	yeṣām divā ca rātrau ca nityam dharma gatā smṛtiḥ //	T04n0213_002:0784c08_13	是故當晝夜，　　一心常念法。
+K10udanav_u:uv_15.11_0	lābhas teṣām manuṣyāṇām ye saṃgham śaraṇam gatāḥ /	T04n0213_002:0784c09_0	若人得善利，　　而來自歸僧，
+K10udanav_u:uv_15.11_1	yeṣām divā ca rātrau ca nityam saṃgha gatā smṛtiḥ //	T04n0213_002:0784c10_13	是故當晝夜，　　一心常念僧。
+K10udanav_u:uv_15.12_0	suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c11_0	善知自覺者，　　是瞿曇聲聞，
+K10udanav_u:uv_15.12_1	yeṣām divā ca rātrau ca nityam buddha gatā smṛtiḥ //	T04n0213_002:0784c12_13	應當於晝夜，　　一心恒念佛。
+K10udanav_u:uv_15.13_0	suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c13_0	善知自覺者，　　是瞿曇聲聞，
+K10udanav_u:uv_15.13_1	yeṣām divā ca rātrau ca nityam dharma gatā smṛtiḥ //	T04n0213_002:0784c14_13	應當於晝夜，　　一心恒念法。
+K10udanav_u:uv_15.14_0	suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c15_0	善知自覺者，　　是瞿曇聲聞，
+K10udanav_u:uv_13.5_1	anyā hi lābha upaniṣad anyā nirvāṇa gāminī //	T04n0213_002:0783c13_13	異哉得利養，　　圓寂趣不同。
+K10udanav_u:uv_13.6_0	etaj jñātvā yathā bhūtam buddhānām śrāvakaḥ sadā /	T04n0213_002:0783c14_0	能論知足者，　　苾芻真佛子，
+K10udanav_u:uv_15.14_1	yeṣām divā ca rātrau ca nityam saṃgha gatā smṛtiḥ //	T04n0213_002:0784c16_13	應當於晝夜，　　一心恒念僧。
+K10udanav_u:uv_15.16_1	yeṣām divā ca rātrau ca nityam śīla gatā smṛtiḥ //	T04n0213_002:0784c18_13	應當於晝夜，　　一心恒念戒。
+K10udanav_u:uv_15.16a_0	suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c19_0	善知自覺者，　　是能仁弟子，
+K10udanav_u:uv_13.6_1	satkāram na abhinandeta vivekam anubṛṃhayet //	T04n0213_002:0783c15_13	不貪著名譽，　　喜悅是智人。
+K10udanav_u:uv_13.7_0	na vyāyameta sarvatra na anyeṣām puruṣo bhavet /	T04n0213_002:0783c16_0	不愛著一切，　　不諂於他人，
+K10udanav_u:uv_13.7_1	na anyām nihśritya jīveta dharmeṇa na vaṇik caret //	T04n0213_002:0783c17_13	不依他活命，　　當自守法行。
+K10udanav_u:uv_13.8_0	sva lābham na avamanyeta na anyeṣām spṛhako bhavet /	T04n0213_002:0783c18_13	自利尚無貪，　　豈貴他名譽？
+K10udanav_u:uv_13.8_1	anyeṣām spṛhako bhikṣuḥ samādhim na adhigacchati //	T04n0213_002:0783c20_0	苾芻貪利養，　　不得三摩地，
+K10udanav_u:uv_13.10_0	sukham jīvitum icchet cet śrāmaṇya artheṣv avekṣavān /	T04n0213_002:0783c22_0	苾芻遠利譽，　　常足不貪求，
+K10udanav_u:uv_13.10_1	itaretareṇa saṃtuṣyed eka dharmam ca bhāvayet // sukham jīvitum icchet cet śrāmaṇya artheṣv avekṣavān /	T04n0213_002:0783c23_13	但三衣飲食，　　真活命快樂。
+K10udanav_u:uv_14.14_0	no cel labhed vai nipakam sahāyam loke caran sādhu hi nityam eva /	T04n0213_002:0784b07_0	設不得善友，　　獨遊無伴侶，
+K10udanav_u:uv_14.14_1	rājā iva rāṣṭram vipluam prahāya ekaś caren na ca pāpāni kuryāt //	T04n0213_002:0784b08_13	應觀諸國土，　　獨善不造惡。
+K10udanav_u:uv_15.16a_1	yeṣām divā ca rātrau ca nityam tyāga gatā smṛtiḥ //	T04n0213_002:0784c20_13	應當於晝夜，　　一心恒念施。
+K10udanav_u:uv_15.16b_0	suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c21_0	善知自覺者，　　是能仁弟子，
+K10udanav_u:uv_15.16b_1	yeṣām divā ca rātrau ca nityam deva gatā smṛtiḥ //	T04n0213_002:0784c22_13	應當於晝夜，　　一心恒念天。
+K10udanav_u:uv_16.5_1	sa;imam bhāsate lokam abhra muktaiva candramāḥ //	T04n0213_002:0785a26_13	是光照世間，　　如月現雲消。
+K10udanav_u:uv_16.6_0	yas tu pūrvam pramādya iha paścād vai na pramādyate /	T04n0213_002:0785a27_0	人先為放逸，　　後止而不犯，
+K10udanav_u:uv_16.8_0	daharo api cet pravrajate yujyate buddha śāsane /	T04n0213_002:0785b02_0	少年而出家，　　求佛深妙法，
+K10udanav_u:uv_16.8_1	sa;imām viṣaktikām loke smṛtaḥ samativartate // yasya pāpa kṛtam karma kuśalena pithīyate / [pidhīyate] sa;imam bhāsate lokam abhra muktaiva candramāḥ // yasya pāpa kṛtam karma kuśalena pithīyate / [pidhīyate] sa;imām viṣaktikām loke smṛtaḥ samativartate //	T04n0213_002:0785b03_13	是光照世間，　　如月晃雲散。
+K10udanav_u:uv_16.11_0	yo jīvite na tapate maraṇa ante ca sarvaśaḥ /	T04n0213_002:0785b04_0	現世不施害，　　死而無憂慼，
+K10udanav_u:uv_16.13_0	yo jīvite na tapate maraṇa ante ca sarvaśaḥ /	T04n0213_002:0785b06_0	現世不施害，　　死而無憂慼，
+K10udanav_u:uv_16.13_1	sa vai dṛṣṭa pado dhīro jñāti madhye virocate //	T04n0213_002:0785b07_13	彼見道無畏，　　眷屬中最勝。
+K10udanav_u:uv_16.14_0	kṛṣṇān dharmān viprahāya śuklān bhāvayata bhikṣavaḥ /	T04n0213_002:0785b08_0	除斷濁黑業，　　惟修白淨行，
+K10udanav_u:uv_16.15_0	śuddhasya hi sadā phalguḥ śuddhasya poṣathaḥ sadā / śuddhasya śuci karmaṇaḥ sadā sampadyate vratam //	T04n0213_002:0785b10_0	持戒常清淨，　　清淨晡沙他， 三業恒清淨，　　清淨名出家。
+K10udanav_u:uv_16.16_0	kṣetrāṇi tṛṇa doṣāṇi rāga doṣā tv iyam prajā /	T04n0213_002:0785b12_0	愛欲意為田，　　婬怒癡為種，
+K10udanav_u:uv_16.16_1	tasmād vigata rāgebhyo dattam bhavati mahā phalam //	T04n0213_002:0785b13_13	故施度世者，　　得福無有量。
+K10udanav_u:uv_16.17_0	kṣetrāṇi tṛṇa doṣāṇi dveṣa doṣā tv iyam prajā /	T04n0213_002:0785b14_0	猶如穢惡田，　　瞋恚滋蔓生，
+K10udanav_u:uv_15.17_0	suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c23_0	善知自覺者，　　是能仁弟子，
+K10udanav_u:uv_15.17_1	yeṣām divā ca rātrau caiva ahiṃsāyām ratam manaḥ // suprabuddham prabudhyante;ime gautama śrāvakāḥ / yeṣām divā ca rātrau caivā avyāpāde ratam manaḥ // suprabuddham prabudhyante;ime gautama śrāvakāḥ /	T04n0213_002:0784c24_13	應當於晝夜，　　一心恒念身。
+K10udanav_u:uv_15.26_1	yeṣām divā ca rātrau ca nirvāṇe abhiratam manaḥ // 16 prakīrṇakavarga	T04n0213_002:0785a13_13	應當於晝夜，　　一心念圓寂。
+K10udanav_u:uv_16.1_0	pūrvam hi kṛtyam pratijāgareta mā me kṛtyam kṛtya kāle vihanyāt / tam nitya kāle pratiyatya kāriṇam na eva kṛtyam kṛtya kāle vihanti //	T04n0213_002:0785a15_0	當念自覺悟，　　作時勿虛妄， 行要修亦安，　　所造時真實。
+K10udanav_u:uv_16.2_0	vyāyameta eva puruṣo yāvad arthasya niṣpadaḥ /	T04n0213_002:0785a17_0	人當求方便，　　自致獲財寶，
+K10udanav_u:uv_16.2_1	paśyed asau tathā ātma artham yathā eva icchet tathā bhavet //	T04n0213_002:0785a18_13	彼自觀亦然，　　意願即果之。
+K10udanav_u:uv_16.3_0	uttiṣṭhata vyāyamata kurudhvam dvīpam ātmanaḥ /	T04n0213_002:0785a19_0	坐臥求方便，　　發起於精進，
+K10udanav_u:uv_16.3_1	karmāro rajatasya eva haradhvam malam ātmanaḥ //	T04n0213_002:0785a20_13	如工鍊真金，　　除其塵垢冥。
+K10udanav_u:uv_16.3_2	nirdhānta malā hy anaṅgaṇā na punar jāti jarām upeṣyatha //	T04n0213_002:0785a21_0	不為闇所蔽，　　永離老死患，
+K10udanav_u:uv_16.4_0	alajjitavye lajjante lajjitavye tv alajjinaḥ /	T04n0213_002:0785a22_13	不羞而反羞，　　反羞而不羞。
+K10udanav_u:uv_16.4_1	abhaye bhaya darśīno bhaye ca abhaya darśinaḥ / [bhaya darśino]	T04n0213_002:0785a23_0	不畏而現畏，　　畏現而不畏，
+K10udanav_u:uv_16.4_2	mithyā dṛṣṭi samādānāt sattvā gacchanti durgatim //	T04n0213_002:0785a24_13	生為人邪見，　　死定入地獄。
+K10udanav_u:uv_16.5_0	yas tu pūrvam pramādya iha paścād vai na pramādyate /	T04n0213_002:0785a25_0	人先為放逸，　　後止而不犯，
+K10udanav_u:uv_16.17_1	tasmād vigata dveṣebhyo dattam bhavati mahā phalam //	T04n0213_002:0785b15_13	是故當離恚，　　施報無有量。
+K10udanav_u:uv_17.3_0	acaritvā brahmacaryam alabdhvā yauvane dhanam /	T04n0213_002:0785c06_0	少不修梵行，　　至老不積財，
+K10udanav_u:uv_17.4_0	acaritvā brahmacaryam alabdhvā yauvane dhanam /	T04n0213_002:0785c08_0	少不修梵行，　　至老不積財，
+K10udanav_u:uv_17.5_0	na alpam manyeta pāpasya na etam mām āgamiṣyati /	T04n0213_002:0785c10_0	莫輕小惡罪，　　以為無殃報，
+K10udanav_u:uv_17.5_1	uda bindu nipātena mahā kumbho api pūryate /	T04n0213_002:0785c11_0	水滴雖極微，　　漸盈於大器，
+K10udanav_u:uv_17.5_2	pūryanti bālāḥ pāpair hi stoka stokam kṛtair api //	T04n0213_002:0785c12_13	惡業漸漸增，　　纖毫成廣大。
+K10udanav_u:uv_17.6_0	na alpam manyeta puṇyasya na etam mām āgamiṣyati /	T04n0213_002:0785c13_0	莫輕小善業，　　以為無福報，
+K10udanav_u:uv_17.6_1	uda bindu nipātena mahā kumbho api pūryate /	T04n0213_002:0785c14_0	水滴雖極微，　　漸盈於大器，
+K10udanav_u:uv_17.6_2	pūryanti dhīrāḥ puṇyair hi stoka stokam kṛtair api //	T04n0213_002:0785c15_13	善業漸漸增，　　纖毫成廣大。
+K10udanav_u:uv_17.7_0	ye taranty ārṇavam nityam kolam baddhvā janāḥ śubham / na te taranti saritām tīrṇā medhāvino janāḥ //	T04n0213_002:0785c16_0	猶如人渡河，　　縛栰而牢固， 彼謂度不度，　　聰叡乃謂度。
+K10udanav_u:uv_17.8_0	uttīrṇo bhagavān buddhaḥ sthale tiṣṭhati brāhmaṇaḥ /	T04n0213_002:0785c18_0	佛世尊已度，　　梵志度當度，
+K10udanav_u:uv_17.8_1	bhikṣavaḥ snānti caiva atra kolam badhnanti ca apare //	T04n0213_002:0785c19_13	苾芻入淵池，　　聲聞縛牢固。
+K10udanav_u:uv_17.9_0	kim kuryād uda pānena yatra āpaḥ sarvato bhavet /	T04n0213_002:0785c20_0	是泉而何用，　　水恒而停滿，
+K10udanav_u:uv_17.9_1	tṛṣṇāyā mūlam uddhṛtya kasya paryeṣaṇām caret //	T04n0213_002:0785c21_13	拔愛根本除，　　復欲何所望？
+K10udanav_u:uv_17.10_0	udakena nijanti nejakā;iṣu kārā namayanti tejasā /	T04n0213_002:0785c22_0	水工調舟船，　　弓師能調角，
+K10udanav_u:uv_17.10_1	dārum namayanti takṣakā hy ātmānam damayanti paṇḍitāḥ //	T04n0213_002:0785c23_13	巧匠樂調木，　　智者能調身。
+K10udanav_u:uv_17.11_0	yathā hradaḥ sugambhīro viprasanno hy anāvilaḥ /	T04n0213_002:0785c24_0	猶如深淨泉，　　表裏甚清徹，
+K10udanav_u:uv_17.11_1	evam śrutvā hi saddharmam viprasīdanti paṇḍitāḥ //	T04n0213_002:0785c25_13	聞法得清淨，　　智者生歡喜。
+K10udanav_u:uv_16.18_0	kṣetrāṇi tṛṇa doṣāṇi moha doṣā tv iyam prajā /	T04n0213_002:0785b16_0	猶如穢惡田，　　愚癡滋蔓生，
+K10udanav_u:uv_16.18_1	tasmād vigata mohebhyo dattam bhavati mahā phalam //	T04n0213_002:0785b17_13	是故當離愚，　　獲報無有量。
+K10udanav_u:uv_16.19_0	kṣetrāṇi tṛṇa doṣāṇi māna doṣā tv iyam prajā /	T04n0213_002:0785b18_0	猶如穢惡田，　　憍慢滋蔓生，
+K10udanav_u:uv_16.19_1	tasmād vigata mānebhyo dattam bhavati mahā phalam //	T04n0213_002:0785b19_13	是故當離慢，　　獲報無有量。
+K10udanav_u:uv_16.20_0	kṣetrāṇi tṛṇa doṣāṇi lobha doṣā tv iyam prajā /	T04n0213_002:0785b20_0	猶如穢惡田，　　慳悋滋蔓生，
+K10udanav_u:uv_16.20_1	tasmād vigata lobhebhyo dattam bhavati mahā phalam //	T04n0213_002:0785b21_13	是故當離慳，　　獲報無有量。
+K10udanav_u:uv_16.21_0	kṣetrāṇi tṛṇa doṣāṇi tṛṣṇā doṣā tv iyam prajā /	T04n0213_002:0785b22_0	猶如穢惡田，　　愛樂滋蔓生，
+K10udanav_u:uv_16.21_1	tasmād vigata tṛṣṇebhyo dattam bhavati mahā phalam //	T04n0213_002:0785b23_13	是故當離愛，　　獲報無有量。
+K10udanav_u:uv_16.22_0	ṣaṣṭha;adhipatī rājā rajyamāne rajasvalaḥ /	T04n0213_002:0785b24_0	六識王為主，　　愛染為眷屬，
+K10udanav_u:uv_16.22_1	arakte virajā bhavati rakte bālo nirucyate //	T04n0213_002:0785b25_13	無染則離愛，　　染著是愚癡。
+K10udanav_u:uv_16.23_0	nagaram hy asthi prākāram māṃsa śoṇita lepanam /	T04n0213_002:0785b26_0	骨幹以為城，　　肉血而塗飾，
+K10udanav_u:uv_17.0_0	17 udakavarga smṛtimantaḥ prayujyante na nikete ramanti te /	T04n0213_002:0785c02_0	淨心常憶念，　　無所有貪愛，
+K10udanav_u:uv_17.1_1	haṃsavat palvalam hitvā hy okam ogham jahante te // [jahanti te] haṃsā āditya pathe yānti ākāśe jīvita indriyāḥ /	T04n0213_002:0785c03_13	已度愚癡淵，　　如鵝守枯池。 彼心既棄捨，　　翱翔昇虛空，
+K10udanav_u:uv_17.2_1	niryānti dhīrā lokān māra sainyam pramathya te //	T04n0213_002:0785c05_13	修行出世間，　　能破魔羅眾。
+K10udanav_u:uv_18.7_1	evam subhāṣitā vācā saphalā bhavati kurvataḥ //	T04n0213_002:0786a17_13	巧言善如是，　　必獲其好報。
+K10udanav_u:uv_18.8_0	yathā api bhramaraḥ puṣpād varṇa gandhāv aheṭhayan /	T04n0213_002:0786a18_0	猶如蜂採華，　　不壞色與香，
+K10udanav_u:uv_18.8_1	paraiti rasam ādāya tathā grāmān muniś caret //	T04n0213_002:0786a19_13	但取味飛去，　　苾芻入聚然。
+K10udanav_u:uv_18.9_0	na pareṣām vilomāni na pareṣām kṛta akṛtam / ātmanas tu samīkṣeta samāni viṣamāni ca //	T04n0213_002:0786a20_0	不違他好惡，　　勿觀作不作， 但自觀身行，　　若正若不正。
+K10udanav_u:uv_18.10_0	yathā api puṣpa rāśibhyaḥ kuryān mālā guṇān bahūn /	T04n0213_002:0786a22_0	如田糞穢溝，　　而近于大道， 其中生蓮華，　　香潔甚可悅。
+K10udanav_u:uv_18.11_0	varṣāsu hi yathā puṣpam vaguro vipramuñcati / [vāguro]? evam rāgam ca doṣam ca vipramuñcata bhikṣavaḥ //	T04n0213_002:0786a25_13	慧人愛出離，　　真是佛聲聞。 多集眾妙華，　　結鬘為步搖，
+K10udanav_u:uv_18.12_0	yathā saṃkāra kūṭe tu vyujjhite hi mahā pathe / padmam tatra tu jāyeta śuci gandhi mano ramam // evam saṃkāra bhūte asminn andha bhūte pṛthag jane /	T04n0213_002:0786a27_13	有情積善根，　　後世轉殊勝。 如末哩妙華，　　末拘羅清淨，
+K10udanav_u:uv_18.14_0	puṣpāṇy eva pracinvantam vyāsakta manasam naram /	T04n0213_002:0786b01_0	如人採妙華，　　專意不散亂，
+K10udanav_u:uv_18.14_1	suptam grāmam mahaughaiva mṛtyur ādāya gacchati // suptam grāmam mahaughaiva mṛtyur ādāya gacchati //	T04n0213_002:0786b02_13	因眠遇水漂，　　俄被死王降。
+K10udanav_u:uv_18.15_0	puṣpāṇy eva pracinvantam vyāsakta manasam naram /	T04n0213_002:0786b03_0	如人採妙華，　　專意不散亂，
+K10udanav_u:uv_18.15_1	atṛptam eva kāmeṣu tv antakaḥ kurute vaśam //	T04n0213_002:0786b04_13	欲意無厭足，　　常為窮所困。
+K10udanav_u:uv_18.16_0	puṣpāṇy eva pracinvantam vyāsakta manasam naram /	T04n0213_002:0786b05_0	如人採妙華，　　專意不散亂，
+K10udanav_u:uv_18.17_0	kumbha upamam kāyam imam viditvā marīci dharmam paribudhya caiva / chittvā iha mārasya tu puṣpakāṇi tv adarśanam mṛtyu rājasya gacchet //	T04n0213_002:0786b07_0	若不見死王，　　慧照如淨華， 苾芻到彼岸，　　如蛇脫故皮。
+K10udanav_u:uv_18.18_1	chittvā iha mārasya tu puṣpakāṇi tv adarśanam mṛtyu rājasya gacchet //	T04n0213_002:0786b14_13	苾芻到彼岸，　　如蛇脫故皮。 癡根若除斷，　　如華水上浮， 苾芻到彼岸，　　如蛇脫故皮。 如人結花鬘，　　意樂貪無足， 不盡現世毒，　　三根常纏縛。
+K10udanav_u:uv_18.19_0	kumbha upamam lokam imam viditvā marīci dharmam paribudhya caiva /	T04n0213_002:0786b19_0	觀身如坏器，　　幻法如野馬，
+K10udanav_u:uv_18.19_1	chittvā iha mārasya tu puṣpakāṇi tv adarśanam mṛtyu rājasya gacchet //	T04n0213_002:0786b20_13	斷魔華開敷，　　不覩死王路。
+K10udanav_u:uv_18.20_0	phena upamam lokam imam viditvā marīci dharmam paribudhya caiva /	T04n0213_002:0786b21_0	是身如聚沫，　　知此幻化法，
+K10udanav_u:uv_17.12_0	pṛthivī sadṛśo na lipyate tāyī kīlavad aprakampayaḥ / hrada;iva hi vinīta kardamo niṣkaluṣā hi bhavanti paṇḍitāḥ //	T04n0213_002:0785c26_0	猶如深淨泉，　　表裏甚清徹， 智者聞妙法，　　歡喜無窮盡。 忍心如大地，　　不動如虛空， 聞法喻金剛，　　獲味免輪迴。
+K10udanav_u:uv_18.0_0	18 puṣpavarga ka;imām pṛthivīm vijeṣyate yama lokam ca tathā sadevakam /	T04n0213_002:0786a02_5	18 華喻品法集要頌經華喻品第十八何人能擇地？
+K10udanav_u:uv_18.2_0	śaikṣaḥ pṛthivīm vijeṣyate yama lokam ca tathā sadevakam /	T04n0213_002:0786a04_0	學人能擇地，　　捨地獄取天，
+K10udanav_u:uv_18.2_1	sa hi dharma padam sudeśitam kuśalaḥ puṣpam iva praceṣyate //	T04n0213_002:0786a05_13	善說妙法句，　　能採眾妙華。
+K10udanav_u:uv_18.3_0	vanam chindata mā vṛkṣam vanād vai jāyate bhayam /	T04n0213_002:0786a06_0	截林勿截樹，　　因林生怖畏，
+K10udanav_u:uv_18.3_1	chittvā vanam samūlam tu nirvaṇā bhavata bhikṣavaḥ //	T04n0213_002:0786a07_13	截林而滅已，　　苾芻得圓寂。
+K10udanav_u:uv_18.4_1	pratibaddha manāḥ sa tatra vai vatsaḥ kṣīrapaka;iva mātaram //	T04n0213_002:0786a11_13	心纏最難離，　　如犢戀愛母。
+K10udanav_u:uv_18.5_0	ucchinddhi hi sneham ātmanaḥ padmam śāradakam yathā udakāt /	T04n0213_002:0786a12_0	當自斷愛戀，　　猶如枯蓮池，
+K10udanav_u:uv_18.5_1	śānti mārgam eva bṛṃhayen nirvāṇam sugatena deśitam //	T04n0213_002:0786a13_13	息跡受正教，　　佛說圓寂樂。
+K10udanav_u:uv_18.6_0	yathā api ruciram puṣpam varṇavat syād agandhavat /	T04n0213_002:0786a14_0	猶如可意華，　　色好而無香，
+K10udanav_u:uv_18.6_1	evam subhāṣitā vācā niṣphalā asāv akurvātaḥ //	T04n0213_002:0786a15_13	巧言華如是，　　無果不獲報。
+K10udanav_u:uv_18.7_0	yathā api ruciram puṣpam varṇavat syāt sugandhavat /	T04n0213_002:0786a16_0	猶如可意華，　　色好而香潔，
+K10udanav_u:uv_19.8_1	ātmanā hi sudāntena kṣipram śāntim nigacchati // na hi tena sa yānena tām bhūmim abhisambhavet / yām ātmanā sudāntena dānto dāntena gacchati // yac ca iha aśvataram damayed ājanyam vā api saindavam / kuñjaram vā mahā nāgam ātma dāntas tato varam // na hy asau tena yānena tām bhūmim adhigacchati /	T04n0213_002:0786c16_13	能調為人賢，　　乃受誠信語。
+K10udanav_u:uv_19.9_1	ātmanā hi sudāntena sarvās tyajati durgatīḥ // na hi tena sa yānena tām bhūmim abhisambhavet / yām ātmanā sudāntena sarvān tyajaty durgatiḥ // yac ca iha aśvataram damayed ājanyam vā api saindhavam / kuñjaram vā mahā nāgam ātma dāntas tato varam // na hy asau tena yānena tām bhūmim adhigacchati /	T04n0213_002:0786c17_0	雖為常調伏，　　如彼新馳馬，
+K10udanav_u:uv_19.10_1	ātmanā hi sudāntena sarvam chinatti bandhanam //	T04n0213_002:0786c18_13	亦如善龍象，　　不如自調者。
+K10udanav_u:uv_19.10_a_0	na hi tena sa yānena tām bhūmim abhisambhavet /	T04n0213_002:0786c19_0	彼人不能乘，　　人所亦不至，
+K10udanav_u:uv_19.10_a_1	yām ātmanā sudāntena sarvam chindati bandhanam //	T04n0213_002:0786c20_13	惟自調伏者，　　乃到調方所。
+K10udanav_u:uv_19.11_0	na hy asau tena yānena tām bhūmim adhigacchati /	T04n0213_002:0786c21_0	彼人不能乘，　　人所亦不至，
+K10udanav_u:uv_19.11_1	ātmanā hi sudāntena sarva duhkhāt pramucyate //	T04n0213_002:0786c22_13	惟自調伏者，　　乃滅一切苦。
+K10udanav_u:uv_19.11_a_0	na hi tena sa yānena tām bhūmim abhisambhavet /	T04n0213_002:0786c23_0	彼人不能乘，　　人所亦不至，
+K10udanav_u:uv_19.11_a_1	yām ātmanā sudāntena sarva duhkhāt pramucyate //	T04n0213_002:0786c24_13	惟自調伏者，　　得至圓寂路。
+K10udanav_u:uv_19.11a_0	yac ca iha aśvataram damayed ājanyam vā api saindhavam / kuñjaram vā mahā nāgam ātma dāntas tato varam //	T04n0213_002:0786c25_0	應常自調伏，　　亦如止奔馬，
+K10udanav_u:uv_19.11c_0	yac ca iha aśvataram damayed ājanyam vā api saindhavam / kuñjaram vā mahā nāgam ātma dāntas tato varam //	T04n0213_002:0786c29_0	惟自調伏者，　　善意如良馬， 亦如大象龍，　　自調最為上。
+K10udanav_u:uv_19.12_a_1	yām ātmanā sudāntena nirvāṇasya eva so antike //	T04n0213_002:0787a03_13	苾芻善調伏，　　能斷於纏縛。
+K10udanav_u:uv_19.13_0	ātmānam eva damayed bhadra aśvam iva sārathiḥ / ātmā hi sudāntena smṛtimān duhkha pāragaḥ //	T04n0213_002:0787a04_0	惟自調伏者，　　此善最無比， 亦如善象龍，　　意念到彼岸。
+K10udanav_u:uv_19.14_0	ātmā eva hy ātmano nāthaḥ ātmā śaraṇam ātmanaḥ /	T04n0213_002:0787a06_0	自師自衛護，　　自歸求自度，
+K10udanav_u:uv_19.14_1	tasmāt samyamaya ātmānam bhadra aśvam iva sārathiḥ // 20 krodhavarga	T04n0213_002:0787a07_13	是故躬謹慎，　　如商賈智馬。
+K10udanav_u:uv_20.1_0	krodham jahed viprajahec ca mānam samyojanam sarvam atikrameta /	T04n0213_002:0787a09_0	除瞋去我慢，　　遠離諸煩惱，
+K10udanav_u:uv_20.1_1	tam nāmne rūpe ca;asajyamānam akiṃcanam na anupatanti saṃgāḥ // krodham jahed utpatitam rāgam jātam nivārayet / avidyām prajahed dhīraḥ satya abhisamayāt sukham //	T04n0213_002:0787a10_13	不染彼名色，　　冤家無有伴。
+K10udanav_u:uv_20.3_0	krodham hatvā sukham śete krodham hatvā na śocati /	T04n0213_002:0787a11_0	除恚得善眠，　　恚盡不懷憂，
+K10udanav_u:uv_20.3_1	krodhasya viṣa mūlasya madhura ghnasya bhikṣavaḥ / vadham āryāḥ praśaṃsanti tam ca hatvā na śocati //	T04n0213_002:0787a12_13	恚為毒根本，　　苾芻為甘甜。 賢聖悉能除，　　斷彼善眠睡，
+K10udanav_u:uv_20.4_0	yat tu rocayati kruddho duṣkṛtam sukṛtam tv iti /	T04n0213_002:0787a14_13	人興恚怒心，　　作諸不善業。
+K10udanav_u:uv_18.20_1	chitttvā iha mārasya tu puṣpakāṇi tv adarśanam mṛtyu rājasya gacchet //	T04n0213_002:0786b22_13	斷魔華開敷，　　不覩死王路。
+K10udanav_u:uv_18.21_0	yo na adhyagamad bhaveṣu sāram buddhvā puṣpam udumbarasya yadvat /	T04n0213_002:0786b23_0	我慢根除斷，　　如華水上浮，
+K10udanav_u:uv_20.4_1	paścāt sa vigate krodhe spṛṣṭvā agnim iva tapyate //	T04n0213_002:0787a15_13	後恚若得除，　　智火漸熾盛。
+K10udanav_u:uv_20.5_0	ahrīkaś ca anavatrāpī ca avrataś caiva roṣaṇaḥ /	T04n0213_002:0787a16_0	無慚復無愧，　　復好生瞋怒，
+K10udanav_u:uv_20.6_0	abalam hi balam tasya yasya krodhe balam balam /	T04n0213_002:0787a18_0	彼力非為力，　　以恚為力者，
+K10udanav_u:uv_20.6_1	kruddhasya dharma hīnasya pratipattir na vidyate //	T04n0213_002:0787a19_13	恚為凡朽法，　　不知善響應。
+K10udanav_u:uv_20.7_0	yas tv ayam balavān bhūtvā durbalasya titīkṣati / [titikṣati] tām āhuḥ paramām kṣāntim nityam kṣamati durbalaḥ // yaḥ pareṣām prabhūḥ saṃs tu durbalān saṃtitīkṣati / [titikṣati] tām āhuḥ paramām kṣāntim nityam kṣamati durbalaḥ //	T04n0213_002:0787a20_0	有力近猛軍，　　無力退怯弱， 能忍為上將，　　宜當忍勿羸。
+K10udanav_u:uv_20.9_0	atyukto hi parair yo vai balavān saṃtitīkṣati / [titikṣati] tām āhuḥ paramām kṣāntim nityam kṣamati durbalaḥ //	T04n0213_002:0787a22_0	舉眾共輕之，　　有力名為忍， 能忍最為上，　　宜當懷忍羸。
+K10udanav_u:uv_20.10_0	ātmānam ca param caiva mahato rakṣate bhayāt /	T04n0213_002:0787a24_0	自我與彼人，　　大畏不可救，
+K10udanav_u:uv_20.10_1	yaḥ param kupitam jñātvā svayam tatra upaśāmyati //	T04n0213_002:0787a25_0	如知彼瞋恚，　　宜滅己中瑕，
+K10udanav_u:uv_20.11_0	ubhayoś carate so artham ātmanasya parasya ca /	T04n0213_002:0787a26_13	二俱行其義，　　我與彼亦然。
+K10udanav_u:uv_20.11_1	yaḥ param kupitam jñātvā svayam tatra upaśāmyati //	T04n0213_002:0787a27_0	如知彼瞋恚，　　宜忍彼中瑕，
+K10udanav_u:uv_20.12_0	ubha arthe caramāṇam tam hy ātmanasya parasya ca /	T04n0213_002:0787a28_13	俱行於二義，　　我忍彼亦然。
+K10udanav_u:uv_20.12_1	abalam manyate bālo dharmeṣv avavicakṣaṇaḥ //	T04n0213_002:0787a29_0	愚謂我無力，　　觀法亦復爾，
+K10udanav_u:uv_20.13_0	jayam hi manyate bālo vacobhiḥ paruṣair vadan /	T04n0213_002:0787b01_0	若愚勝於智，　　麁言及惡語，
+K10udanav_u:uv_20.13_1	nityam iva jayas tasya yo ativākyam titīkṣati // [titikṣati]	T04n0213_002:0787b02_13	欲常得勝者，　　於言宜寂默。
+K10udanav_u:uv_20.14_0	śreṣṭhasya vākyam kṣamate bhayena saṃrambha hetoḥ sadṛśasya caiva / yo vai nihīnasya vacaḥ kṣameta tām uttamām kṣāntim iha āhur āryāḥ //	T04n0213_002:0787b03_0	常習智者教，　　不與愚人集， 能忍穢陋言，　　故說忍中上。
+K10udanav_u:uv_20.15_0	kruddho vācam na bhāṣeta pariṣatsv atha vā mithaḥ /	T04n0213_002:0787b05_0	恚者不發言，　　處眾若屏處，
+K10udanav_u:uv_20.15_1	krodha abhibhūtaḥ puruṣaḥ svam artham hi na budhyate //	T04n0213_002:0787b06_13	人恚以熾然，　　終己不自覺。
+K10udanav_u:uv_20.16_0	satyam vaden na ca krudhyed dadyād alpād api svayam /	T04n0213_002:0787b07_0	諦說不瞋恚，　　乞者念以施，
+K10udanav_u:uv_20.16_1	sthānair ebhis tribhir yukto devānām antikam vrajet //	T04n0213_002:0787b08_13	三分有定處，　　自然處天宮。
+K10udanav_u:uv_18.21_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_002:0786b24_13	苾芻到彼岸，　　如蛇脫故皮。
+K10udanav_u:uv_18.21a_0	yo rāgam udācchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya /	T04n0213_002:0786b25_0	慳悋根若斷，　　如華水上浮，
+K10udanav_u:uv_18.21a_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_002:0786b26_13	苾芻到彼岸，　　如蛇脫故皮。
+K10udanav_u:uv_18.21b_0	yo dveṣam udāchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya /	T04n0213_002:0786b27_0	愛支根若斷，　　如華水上浮，
+K10udanav_u:uv_18.21b_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_002:0786b28_13	苾芻到彼岸，　　如蛇脫故皮。
+K10udanav_u:uv_18.21f_0	tṛṣṇām ya;udāchinatty aśeṣam bisa puṣpam iva jaleruham vigāhya / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam tva tvacam purāṇam // 19 aśvavarga	T04n0213_002:0786c01_13	苾芻到彼岸，　　如蛇脫故皮。
+K10udanav_u:uv_19.1_0	bhadro yathā aśvaḥ kaśayā abhispṛṣṭa hy ātāpinaḥ saṃvijitāś careta / [abhispṛṣṭo]?	T04n0213_002:0786c03_0	譬馬調能軟，　　隨意如所行，
+K10udanav_u:uv_19.1_2	jita indriyaḥ kṣānti balair upeto jahāti sarvān sa bhavān aśeṣān // bhadro yathā aśvaḥ kaśayā abhitāḍita hy ātāpinaḥ saṃvijitāś careta / [abhitāḍito]?	T04n0213_002:0786c06_13	一心行和忍，　　得免輪迴苦。
+K10udanav_u:uv_19.3_0	yasya indriyāṇi samatām gatāni aśvo yathā sārathinā sudāntaḥ /	T04n0213_002:0786c08_13	從是得住定，　　如馬善調御。
+K10udanav_u:uv_19.3_1	prahīṇa doṣāya nirāsravāya devā api tasmai spṛhayanti nityam //	T04n0213_002:0786c09_0	斷恚獲無漏，　　如馬能自調， 棄惡至平坦，　　後受生天樂。
+K10udanav_u:uv_19.4_0	apramattaḥ pramatteṣu supteṣu bahu jāgaraḥ /	T04n0213_002:0786c11_0	不恣在放恣，　　於眠多覺悟，
+K10udanav_u:uv_19.4_1	abala aśva;iva bhadra aśvam hitvā yāti sumedhasam /	T04n0213_002:0786c12_13	如羸馬比良，　　棄惡乃為賢。
+K10udanav_u:uv_19.5_0	hrī niṣevī hi puruṣaḥ prājño yaḥ susamāhitaḥ /	T04n0213_002:0786c13_0	若人有慚愧，　　智慧可成就，
+K10udanav_u:uv_19.5_1	sarva pāpam jahāty eṣa bhadra aśvo hi kaśām iva // dānto vai samitim yāti dāntam rājā adhirohati /	T04n0213_002:0786c14_13	是故易誘進，　　如策於良馬。
+K10udanav_u:uv_19.6_1	dāntaḥ śreṣṭho manuṣyāṇām yo ativākyam titīkṣati // [titikṣati] yo hy aśvam damayej jānyam ājāneyam ca saindhavam / kuñjaram vā mahā nāgam ātmā dāntas tato varam // yac ca iha aśvataram damayed ājanyam vā api saindhavam / kuñjaram vā mahā nāgam ātma dāntas tato varam // na hi asau tena yānena tām bhūmim adhigacchati /	T04n0213_002:0786c15_0	譬馬若調平，　　可堪王乘騎，
+K10udanav_u:uv_20.22_0	yas tv iha utpatitam krodham ratham bhrāntam iva dhārayet /	T04n0213_002:0787b17_0	恚能自制斷，　　如止奔走車，
+K10udanav_u:uv_20_23_1	śramaṇo mārga satkāro droha smṛti prakīrṇakaḥ /	T04n0213_002:0787b19_0	沙門及正道　　利養、怨、憶念
+K10udanav_u:uv_20_23_2	udakam puṣpam aśvaś ca saha krodhena te daśaḥ //	T04n0213_002:0787b20_0	清淨、水兼華　　馬、恚為第十
+K10udanav_u:uv_21.0_0	21 tathāgata varga sarva abhibhūḥ sarvavid eva ca asmi sarvaiś ca dharmaiḥ satatam na liptaḥ /	T04n0213_002:0787b22_0	自獲正覺最無等，　　一染世間一切法，
+K10udanav_u:uv_21.1_1	sarvam jahaḥ sarva bhayād vimuktaḥ svayam hy abhijñāya kam uddiśeyam //	T04n0213_002:0787b23_17	具一切智力無畏，　　自然無師亦無證。 自獲正覺最無等，　　不染一切世間法， 具一切智力無畏，　　自然無師無保證。
+K10udanav_u:uv_21.2_0	kam uddiśeyam tv asamo hy atulyaḥ svayam pravaktā hy adhigamya bodhim /	T04n0213_002:0787b26_0	善逝獨證無等倫，　　應現世間成正道，
+K10udanav_u:uv_20.17_0	śāntasya hi kutaḥ krodho dāntasya sama jīvinaḥ / samyag ājñā vimuktasya krodho na asti prajānataḥ //	T04n0213_002:0787b09_5	息意何有恚？ 　　自撿壽中明，等智定解脫，　　知已無有恚。
+K10udanav_u:uv_20.18_0	tasya eva pāpam bhavati yaḥ kruddhe krudhyate punaḥ /	T04n0213_002:0787b11_0	若為惡意者，　　怒有怒果報，
+K10udanav_u:uv_20.18_1	kruddheṣv akruddhamānas tu saṃgrāmam durjayam jayet // [akrudhamānas]?	T04n0213_002:0787b12_13	怒不報其怒，　　勝其彼鬪負。
+K10udanav_u:uv_20.19_0	akrodhena jayet krodham asādhum sādhunā jayet /	T04n0213_002:0787b13_0	忍辱勝於怨，　　善勝不善者，
+K10udanav_u:uv_20.19_1	jayet kadaryam dānena satyena tv anṛtam jayet //	T04n0213_002:0787b14_13	勝者能施善，　　真誠勝欺善。
+K10udanav_u:uv_20.20_0	akruddhasya kutaḥ krodho dāntasya sama jīvinaḥ / samyag ājñā vimuktasya krodhas tasya na vidyate // akrodhaś ca avihiṃsā ca vasaty āryeṣu sarvadā /	T04n0213_002:0787b15_0	無恚亦不害，　　恒念真實行，
+K10udanav_u:uv_20.21_1	sadā pāpa jane krodhas tiṣṭhati parvato yathā //	T04n0213_002:0787b16_13	愚者自生恚，　　結冤常存在。
+K10udanav_u:uv_21.7_1	ādeśayanto virajaḥ padam śānta manīṣiṇaḥ //	T04n0213_002:0787c08_13	說於無垢迹，　　永息無有上。
+K10udanav_u:uv_21.8_0	nadanti iha mahā vīraḥ sad dharmeṇa tathāgatāḥ /	T04n0213_002:0787c09_0	勇猛師子吼，　　正法名如來，
+K10udanav_u:uv_21.9_0	ye dhyāna prasṛtā dhīrā naiṣkramya upaśame ratāḥ /	T04n0213_002:0787c11_0	勇健立靜慮，　　出家日夜滅，
+K10udanav_u:uv_21.9_1	devā api spṛhayanty eṣām buddhānām śrīmatām sadā //	T04n0213_002:0787c12_13	諸天常衛護，　　為佛所稱記。
+K10udanav_u:uv_21.10_0	teṣām devā manuṣyāś ca sambuddhānām yaśasvinām /	T04n0213_002:0787c13_0	於彼天人中，　　歎說正等覺，
+K10udanav_u:uv_21.10_1	spṛhayanty āśu buddhīnām śarīra antima dhāriṇām //	T04n0213_002:0787c14_13	速修而自覺，　　最後離胎身。
+K10udanav_u:uv_21.11_0	ye ca abhyatītāḥ sambuddhā ye ca buddhā hy anāgatāḥ /	T04n0213_002:0787c15_0	說諸過去佛，　　及以當來者，
+K10udanav_u:uv_21.11_1	yaś ca apy etarhi sambuddho bahūnām śoka nāśakaḥ //	T04n0213_002:0787c16_13	現在正等覺，　　多除群生憂。
+K10udanav_u:uv_21.12_0	sarve sad dharma guravo vyāhārṣu viharanti ca /	T04n0213_002:0787c17_0	盡皆尊重法，　　已敬今敬者，
+K10udanav_u:uv_21.12_1	atha api vihariṣyanti;eṣā buddheṣu dharmatā //	T04n0213_002:0787c18_13	若當生恭敬，　　是謂佛法要。
+K10udanav_u:uv_21.13_1	sad dharmo guru kartavyaḥ smaratā buddha śāsanam //	T04n0213_002:0787c20_13	信敬於正法，　　憶念佛教戒。
+K10udanav_u:uv_21.2_1	tathāgato deva manuṣya śāstā sarvajñatām prāpya balair upetaḥ //	T04n0213_002:0787b27_17	如來諸天世中尊，　　一切神通智圓滿。
+K10udanav_u:uv_21.3_0	aham hi lokeṣv arahann aham lokeṣv anuttaraḥ sadevakeṣu lokeṣu ca aham māra abhibhūr jinaḥ //	T04n0213_002:0787b28_0	我為佛世尊，　　斷漏無婬欲， 諸天及世人，　　一切從吾心。
+K10udanav_u:uv_21.4_0	ācāryo me na vai kaścit sadṛśas ca na vidyate /	T04n0213_002:0787c01_0	我既無師保，　　亦獨無伴侶，
+K10udanav_u:uv_21.4_1	eko asmin loke sambuddhaḥ prāptaḥ sambodhim uttamām // jinā hi mādṛśā jñeyā ye prāptā hy āsrava kṣayam / jitā me pāpakā dharmās tato aham upagā jinaḥ //	T04n0213_002:0787c02_13	積諸行得佛，　　自然通聖道。 己勝不受惡，　　一切世間勝， 叡智廓無邊，　　誘蒙吾為勝。
+K10udanav_u:uv_21.6_0	bārāṇasīm gamiṣyāmi haniṣye amṛta dundubhim /	T04n0213_002:0787c05_0	今往波羅奈，　　欲擊甘露鼓，
+K10udanav_u:uv_21.6_1	dharma cakram pravartayiṣye lokeṣv aprativartitam //	T04n0213_002:0787c06_13	當轉於法輪，　　未曾有轉者。
+K10udanav_u:uv_21.7_0	na hi santaḥ prakāśyante viditvā loka paryāyam /	T04n0213_002:0787c07_0	智人不處愚，　　觀世而隨化，
+K10udanav_u:uv_21.14_0	na śraddhāsyanti vai ye tu narā buddhasya śāsanam /	T04n0213_002:0787c21_0	諸有不信佛，　　如此群盲類，
+K10udanav_u:uv_22.7_1	śīlatas tam vigarhanti na asya sampadyate śrutam //	T04n0213_002:0788a16_13	為法律所彈，　　所聞便有闕。
+K10udanav_u:uv_22.8_0	alpa śruto api ced bhavati śīleṣu susamāhitaḥ /	T04n0213_002:0788a17_0	行人雖少聞，　　禁戒悉具足，
+K10udanav_u:uv_22.8_1	śīlatas tam praśaṃsanti tasya sampadyate śrutam //	T04n0213_002:0788a18_13	於法律所稱，　　於聞便有闕。
+K10udanav_u:uv_22.9_0	alpa śruto api ced bhavati śīleṣu tv asamāhitaḥ /	T04n0213_002:0788a19_0	雖少多有聞，　　持戒不完具，
+K10udanav_u:uv_22.9_1	ubhayatas tam vigarhanti na asya sampadyate vratam //	T04n0213_002:0788a20_13	二俱被呵責，　　所願而皆失。
+K10udanav_u:uv_22.10_0	bahu śruto api ced bhavati śīleṣu susamāhitaḥ /	T04n0213_002:0788a21_0	多聞能持固，　　奉法為垣墻，
+K10udanav_u:uv_22.10_1	ubhayatas tam praśaṃsanti tasya sampadyate vratam //	T04n0213_002:0788a22_13	精進難毀譽，　　從是三學成。
+K10udanav_u:uv_22.11_0	bahu śrutam dharma dharam prājñam nityam samāhitam /	T04n0213_002:0788a23_0	多聞能奉法，　　智慧常定意，
+K10udanav_u:uv_22.11_1	niṣkam jāmbunadasya eva kas tam ninditum arhati //	T04n0213_002:0788a24_13	如彼閻浮金，　　孰能說有瑕。
+K10udanav_u:uv_22.12_a_0	ye rūpeṇa pramiṇvanti mām ghoṣeṇa anuyānti ca /	T04n0213_002:0788b02_0	諸有稱己色，　　有歎說名德，
+K10udanav_u:uv_22.12_a_1	chanda rāga vaśa upetā na mām jānanti te janāḥ //	T04n0213_002:0788b03_13	斯皆諸貪欲，　　然自不覺知。
+K10udanav_u:uv_22.14_0	ādhyātmam tu prajānāti bahirdhā ca na paśyati /	T04n0213_002:0788b06_0	內無人自知，　　外無人所見，
+K10udanav_u:uv_22.14_1	ādhyātma phala darśī tu sa vai ghoṣeṇa nīyate //	T04n0213_002:0788b07_13	內不見其果，　　便隨聲而住。
+K10udanav_u:uv_22.15_0	ādhyātmam ca na jānānti bahirdhā ca na paśyati /	T04n0213_002:0788b08_0	內既而知之，　　外無人所見，
+K10udanav_u:uv_22.15_1	ubhaye aphala darśī tu sa vai ghoṣeṇa nīyate //	T04n0213_002:0788b09_13	二果俱已成，　　便隨聲而住。
+K10udanav_u:uv_22.16_0	ādhyātmam ca prajānāti bahirdhā ca vipaśyati /	T04n0213_002:0788b10_0	內有而所知，　　外有而所見，
+K10udanav_u:uv_22.16_1	sa tu nihsaraṇa prajño na vai ghoṣeṇa nīyate //	T04n0213_002:0788b11_13	彼有其明智，　　不隨聲而住。
+K10udanav_u:uv_22.17_0	bahu śṛṇoti śrotreṇa bahū paśyati cakṣuṣā /	T04n0213_002:0788b12_0	耳識多所聞，　　眼識多所見，
+K10udanav_u:uv_21.14_1	vyasanam te gamiṣyanti vaṇijo rākṣasīṣv iva //	T04n0213_002:0787c22_13	當墮於惡道，　　如商遇羅剎。
+K10udanav_u:uv_22.17_1	na tad dṛṣṭam śrutam dhīraḥ sarvam śraddhātum arhati // śrotreṇa śrūyate bahu dṛśyate bahu cakṣuṣā / na tad dṛṣṭam śrutam dhīraḥ sarvam śraddhātum arhati //	T04n0213_002:0788b13_13	聞見不牢固，　　事由義析理。
+K10udanav_u:uv_22.18_0	vijñāna sārāṇi subhāṣitāni jñātam śrutam caiva samādhi sāram /	T04n0213_002:0788b14_0	智牢善說快，　　聞知定意快，
+K10udanav_u:uv_22.18_1	na tasya vijñāna śrutam mahā artham yaḥ sāhaso bhavati naraḥ pramattaḥ //	T04n0213_002:0788b15_13	彼不用智定，　　速行放逸者。
+K10udanav_u:uv_22.19_0	dharme tu ye hy ārya nivedite ratās tadā carante vacasā yadā āhuḥ /	T04n0213_002:0788b16_0	賢聖樂於法，　　所行應於口，
+K10udanav_u:uv_23.2_0	eka āsanam tv eka śayyām eka caryām atandritaḥ /	T04n0213_002:0788b21_0	一坐而一臥，　　獨步而無伴，
+K10udanav_u:uv_23.2_1	ramayec ca ekam ātmānam vaneṣv ekaḥ sadā vaset //	T04n0213_002:0788b22_13	當自降伏心，　　自樂居山林。
+K10udanav_u:uv_23.3_0	yaḥ sahasram sahasrāṇām saṃgrāme dviṣatām jayet /	T04n0213_002:0788b23_0	千千而為敵，　　一夫能勝之，
+K10udanav_u:uv_23.3_1	yaś ca ātmānam jayed ekam saṃgrāmo dujayaḥ sa vai // ātmā hy asya jitaḥ śreyān yac ca iyam itarāḥ prajāḥ / [yac ceyam]	T04n0213_002:0788b24_13	莫若自伏心，　　便為戰中勝。 自勝而為上，　　如彼眾生心，
+K10udanav_u:uv_23.4_1	ātma dāntasya puruṣasya nityam saṃvṛta cāriṇaḥ //	T04n0213_002:0788b26_13	自降為大士，　　眾行則具足。
+K10udanav_u:uv_23.5_0	na devā na api gandharvā na māro brāhmaṇā saha /	T04n0213_002:0788b27_0	非天彥達嚩，　　非魔及梵天，
+K10udanav_u:uv_23.5_1	jitasya apajitam kuryus tathā prājñasya bhikṣuṇaḥ //	T04n0213_002:0788b28_13	棄勝最為上，　　如智慧苾芻。
+K10udanav_u:uv_23.6_0	ātmānam eva prathamam pratirūpe niveśayet / tato anyam anuśāsīta.............yathā hy aḥ. //	T04n0213_002:0788b29_0	先自而正己，　　然後正他人，
+K10udanav_u:uv_23.7_0	ātmānam eva prathamam pratirūpe niveśayet / tato anyam anuśāsīta na kliśyeta hi paṇḍitaḥ //	T04n0213_002:0788c01_13	若自而正者，　　乃謂之上士。
+K10udanav_u:uv_23.8_0	ātmānam hi tathā kuryāt śāsīta anyam yathā svayam /	T04n0213_002:0788c02_0	先自而正己，　　然後正他人，
+K10udanav_u:uv_23.8_1	sudānto bata me nityam ātmā sa hi sudurdamaḥ //	T04n0213_002:0788c03_13	若自而正者，　　不侵名真智。
+K10udanav_u:uv_23.9_0	ātmānam hi tathā kuryāt śāsīta anyam yathā svayam /	T04n0213_002:0788c04_0	當自而修剋，　　隨其教訓之，
+K10udanav_u:uv_21.16_1	kṣemas tathaiva praviveka yuktas tamo nudam pāra gatam maharṣim // prāptaḥ sa ca āryo vaśitām aśeṣām viśva uttaraḥ sarva bhayād vimuktaḥ / tṛṣṇā prahīṇo vimalo nirāśaś ca ālokayan loka hitāya sattvān //	T04n0213_002:0787c28_13	除冥超神仙，　　善獲得自在。
+K10udanav_u:uv_23.10_1	ātma artham paramam jñātvā svaka artha paramo bhavet // ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet / ātmanā hi sudāntena nātham labhati paṇḍitaḥ // ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c06_0	念自而修剋，　　使彼而信解，
+K10udanav_u:uv_23.14_1	ātmanā hi sudāntena yaśo labhati paṇḍitaḥ //	T04n0213_002:0788c11_13	己以被降伏，　　智者演其義。
+K10udanav_u:uv_21.18_0	śaile yathā parvata mūrdhani sthito yathā eva paśyej janatām samantāt /	T04n0213_002:0787c29_0	譬人立山頂，　　徧見村落人，
+K10udanav_u:uv_21.18_1	tathā hy asau dharma mayam sumedhāḥ prāsādam āruhya samanta cakṣuḥ /	T04n0213_002:0788a01_13	審觀法如是，　　如登樓觀園。
+K10udanav_u:uv_22.0_0	22 śrutavarga sādhu śrutam sucaritam sādhu ca apy aniketatā /	T04n0213_002:0788a05_0	多聞善能行，　　修善無煩惱，
+K10udanav_u:uv_22.2_0	bālā;iha avijānantaś caranti hy amarā;iva /	T04n0213_002:0788a07_0	愚迷不覺知，　　好行不死法，
+K10udanav_u:uv_22.2_1	vijānatām tu sad dharmam āturasya eva śarvarī //	T04n0213_002:0788a08_13	善解知法者，　　病如芭蕉樹。
+K10udanav_u:uv_22.3_0	yathā hy agāram succhannam praviśya tamasā sphuṭam / [su chhannam]	T04n0213_002:0788a09_0	猶如蓋屋密，　　闇冥無所見，
+K10udanav_u:uv_22.3_1	vidyamānāni rūpāṇi cakṣuṣmān hi na paśyati //	T04n0213_002:0788a10_13	雖有眾妙色，　　有目不見明。
+K10udanav_u:uv_22.4_0	tathaiva iha naro nityam jñānavān api yo bhavet /	T04n0213_002:0788a11_0	猶如有一人，　　智達廣博學，
+K10udanav_u:uv_22.4_1	aśrutvā na vijānāti dharmān kalyāṇa pāpakān //	T04n0213_002:0788a12_13	不聞則不知，　　善法及惡法。
+K10udanav_u:uv_22.5_0	pradīpena tu rūpāṇi cakṣuṣmān paśyate yathā /	T04n0213_002:0788a13_0	譬如執明燭，　　悉見諸色相，
+K10udanav_u:uv_22.5_1	evam śrutvā vijānāti dharmān kalyāṇa pāpakān // śrutvā dharmān vijānāti śrutvā pāpam na sevate / śrutvā hy anartham varjayate śrutvā prāpnoti nirvṛtim //	T04n0213_002:0788a14_13	聞已盡能知，　　善惡之所趣。
+K10udanav_u:uv_22.7_0	bahu śruto api ced bhavati śīleṣu tv asamāhitaḥ /	T04n0213_002:0788a15_0	雖稱為多聞，　　禁戒不具足，
+K10udanav_u:uv_23.20_1	ātmanā hi sudāntena jñāti madhye virocate //	T04n0213_002:0788c21_13	自己為師者，　　親族中最勝。
+K10udanav_u:uv_23.21_0	ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c22_0	自己心為師，　　不依他為師，
+K10udanav_u:uv_23.21_1	ātmanā hi sudāntena śoka madhye na śocati //	T04n0213_002:0788c23_13	自己為師者，　　煩惱中無憂。
+K10udanav_u:uv_23.22_0	ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c24_0	自己心為師，　　不依他為師，
+K10udanav_u:uv_23.22_1	ātmanā hi sudāntena sarvam chindati bandhanam //	T04n0213_002:0788c25_13	自己為師者，　　斷除一切縛。
+K10udanav_u:uv_23.23_0	ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c26_0	自己心為師，　　不依他為師，
+K10udanav_u:uv_23.23_1	ātmanā hi sudāntena sarvās tyajati durgatīḥ //	T04n0213_002:0788c27_13	自己為師者，　　能破諸惡趣。
+K10udanav_u:uv_23.24_0	ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c28_0	自己心為師，　　不依他為師， 自己為師者，　　長作真智師。 自己心為師，　　不依他為師，
+K10udanav_u:uv_23.24_1	ātmanā hi sudāntena sarva duhkhāt pramucyate //	T04n0213_002:0789a02_13	自己為師者，　　解脫一切苦。
+K10udanav_u:uv_24.1_0	yac ca gāthā śatam bhāṣed anartha pada saṃhitam /	T04n0213_003:0789a16_13	雖說百伽陀，　　不明有何益？
+K10udanav_u:uv_23.15_1	ātmanā hi sudāntena kīrtim labhati paṇḍitaḥ //	T04n0213_002:0788c13_13	自己為師者，　　獲真智人法。
+K10udanav_u:uv_23.16_1	ātmanā hi sudāntena sukhām labhati paṇḍitaḥ //	T04n0213_002:0788c15_13	自己為師者，　　得譽獲利樂。
+K10udanav_u:uv_24.1_1	ekam artha padam śreyo yat śrutvā hy upaśāmyati //	T04n0213_003:0789a17_13	不如解一義，　　聞乃得止息。
+K10udanav_u:uv_24.2_0	yac ca gāthā śatam bhāṣed adharma pada saṃhitam /	T04n0213_003:0789a18_0	雖解多伽陀，　　不行無所益， 不如行一句，　　習行可得道。 若人壽百歲，　　毀戒意不息，
+K10udanav_u:uv_24.2_1	ekam dharma padam śreyo yat śrutvā hy upaśāmyati //	T04n0213_003:0789a21_13	不如一日中，　　供養持戒人。
+K10udanav_u:uv_24.3_0	yac ca varṣa śatam jīved duhśīlo hy asamāhitaḥ /	T04n0213_003:0789a22_0	若人壽百歲，　　懈怠劣精進，
+K10udanav_u:uv_24.3_1	eka aham jīvitam śreyaḥ sadā śīlavataḥ śuceḥ //	T04n0213_003:0789a23_13	不如一日中，　　勇猛行精進。
+K10udanav_u:uv_24.4_0	yac ca varṣa śatam jīved duṣprajño hy asamāhitaḥ /	T04n0213_003:0789a24_0	若人壽百歲，　　不觀生滅法，
+K10udanav_u:uv_24.4_1	eka aham jīvitam śreyaḥ prājñasya dhyāyinaḥ sadā //	T04n0213_003:0789a25_13	不如一日中，　　而解生滅法。
+K10udanav_u:uv_24.5_0	yac ca varṣa śatam jīvet kusīdo hīna vīryavān /	T04n0213_003:0789a26_0	若人壽百歲，　　不觀成敗事，
+K10udanav_u:uv_24.5_1	eka aham jīvitam śreyo vīryam ārabhato dṛḍham //	T04n0213_003:0789a27_13	不如一日中，　　覩微知所忌。
+K10udanav_u:uv_24.6_0	yac ca varṣa śatam jīved apaśyann udaya vyayam /	T04n0213_003:0789a28_0	若人壽百歲，　　不見無漏句，
+K10udanav_u:uv_24.6_1	eka aham jīvitam śreyaḥ paśyato hy udaya vyayam //	T04n0213_003:0789a29_13	不如一日中，　　得見無漏道。
+K10udanav_u:uv_24.7_0	yac ca varṣa śatam jīved apaśyan vedanā kṣayam /	T04n0213_003:0789b01_0	若人壽百歲，　　不見無動句，
+K10udanav_u:uv_24.7_1	eka aham jīvitam śreyaḥ paśyato vedanā kṣayam //	T04n0213_003:0789b02_13	不如一日中，　　得見無動道。
+K10udanav_u:uv_23.17_1	ātmanā hi sudāntena svargam labhati paṇḍitaḥ //	T04n0213_002:0788c17_13	自己為師者，　　獲智為天人。
+K10udanav_u:uv_23.18_0	ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c18_0	自己心為師，　　不依他為師，
+K10udanav_u:uv_23.18_1	ātmanā hi sudāntena ciram svarge pratiṣṭhati //	T04n0213_002:0788c19_13	自己為師者，　　久受生天樂。
+K10udanav_u:uv_23.19_0	ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet / ātmanā hi sudāntena prajñām labhati paṇḍitaḥ // ātmā tv iha ātmano nāthaḥ ko nu nāthaḥ paro bhavet /	T04n0213_002:0788c20_0	自己心為師，　　不依他為師，
+K10udanav_u:uv_24.8_0	yac ca varṣa śatam jīved apaśyann āsrava kṣayam /	T04n0213_003:0789b03_0	若人壽百歲，　　不覩難見句， 不如一日中，　　得見微妙道。
+K10udanav_u:uv_24.9_0	yac ca varṣa śatam jīved apaśyann acalam padam /	T04n0213_003:0789b05_0	若人壽百歲，　　不見無生句，
+K10udanav_u:uv_24.9_1	eka aham jīvitam śreyaḥ paśyato hy acalam padam //	T04n0213_003:0789b06_13	不如一日中，　　得見無生道。
+K10udanav_u:uv_24.10_0	yac ca varṣa śatam jīved apaśyann acyutam padam /	T04n0213_003:0789b07_0	若人壽百歲，　　不見無作句，
+K10udanav_u:uv_24.10_1	eka aham jīvitam śreyaḥ paśyato hy acyutam padam //	T04n0213_003:0789b08_13	不如一日中，　　得見無作道。
+K10udanav_u:uv_24.11_0	yac ca varṣa śatam jīved apaśyann arajaḥ padam /	T04n0213_003:0789b09_0	若人壽百歲，　　不見最上句，
+K10udanav_u:uv_24.11_1	eka aham jīvitam śreyaḥ paśyato hy arajaḥ padam //	T04n0213_003:0789b10_13	不如一日中，　　得見最上道。
+K10udanav_u:uv_24.12_0	yac ca varṣa śatam jīved apaśyan virajaḥ padam /	T04n0213_003:0789b11_0	若人壽百歲，　　不見寂滅句，
+K10udanav_u:uv_24.12_1	eka aham jīvitam śreyaḥ paśyato virajaḥ padam //	T04n0213_003:0789b12_13	不如一日中，　　得見寂滅道。
+K10udanav_u:uv_24.13_0	yac ca varṣa śatam jīved apaśyan durdṛśam padam /	T04n0213_003:0789b13_0	若人壽百歲，　　不見甘露句，
+K10udanav_u:uv_24.13_1	eka aham jīvitam śreyaḥ paśyato durdṛśam padam //	T04n0213_003:0789b14_13	不如一日中，　　得服甘露味。
+K10udanav_u:uv_24.14_0	yac ca varṣa śatam jīved apaśyann uttamam padam /	T04n0213_003:0789b15_0	若人壽百歲，　　不見無垢句，
+K10udanav_u:uv_24.14_1	eka aham jīvitam śreyaḥ paśyato hy uttamam padam //	T04n0213_003:0789b16_13	不如一日中，　　得見清淨道。
+K10udanav_u:uv_24.15_0	yac ca varṣa śatam jīved apaśyann amṛtam padam /	T04n0213_003:0789b17_0	若人壽百歲，　　不見離垢句，
+K10udanav_u:uv_24.15_1	eka aham jīvitam śreyaḥ paśyato hy amṛtam padam //	T04n0213_003:0789b18_13	不如一日中，　　離垢得解脫。
+K10udanav_u:uv_24.16_0	yac ca varṣa śatam pūrṇam agnim paricared vane /	T04n0213_003:0789b19_0	雖復壽百歲，　　山林祭火神，
+K10udanav_u:uv_24.16_1	yac ca ekam bhāvita ātmānam muhūrtam api pūjayet /	T04n0213_003:0789b20_13	不如須臾間，　　觀身而積行。
+K10udanav_u:uv_24.16_2	sā tasya pūjanā śreṣṭhā na tad varṣa śatam hutam //	T04n0213_003:0789b21_0	雖復百歲中，　　山林祭火神， 不如須臾間，　　正見得解脫。
+K10udanav_u:uv_31.4_0	bhrūṇa dheyam idam cittam nihsāram anidarśanam /	T04n0213_004:0795b12_0	今我論此心，　　無堅不可見，
+K10udanav_u:uv_31.4_1	sadā enam anuśāsāmi mā me anarthāya niścaret //	T04n0213_004:0795b13_13	我今欲訓誨，　　慎莫生瑕隟。
+K10udanav_u:uv_31.5_0	idam purā cittam acāri cārikām yena icchakam yena kāmam yathā iṣṭam /	T04n0213_004:0795b14_0	汝心莫遊行，　　恣意而放逸，
+K10udanav_u:uv_31.5_1	tat samnigṛhṇāmi hi yoniśas tv idam nāgam prabhinnam hi yathā aṅkuśena //	T04n0213_004:0795b15_13	我今還攝汝，　　如御暴逸象。
+K10udanav_u:uv_31.6_0	anekam jāti saṃsāram saṃdhāvitvā punaḥ punaḥ /	T04n0213_004:0795b16_0	生死無有量，　　往來無端緒，
+K10udanav_u:uv_24.20e_1	na tat svākhyāta dharmasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c11_13	彼不恤蠕動，　　十六不及一。
+K10udanav_u:uv_24.21_0	māse māse sahasreṇa yo yajeta samā śatam /	T04n0213_003:0789c12_0	月月常千祀，　　恒施於平等，
+K10udanav_u:uv_24.21_1	na tad buddhe prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c13_13	若無悲念心，　　十六不及一。
+K10udanav_u:uv_24.22_0	māse māse sahasreṇa yo jayeta samā śatam /	T04n0213_003:0789c14_0	月月常千祀，　　恒施於平等，
+K10udanav_u:uv_24.22_1	na tad dharme prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c15_13	彼懷怨恨心，　　十六不及一。
+K10udanav_u:uv_24.23_0	māse māse sahasreṇa yo yajeta samā śatam /	T04n0213_003:0789c16_0	月月常千祀，　　恒施於平等，
+K10udanav_u:uv_24.23_1	na tad saṃghe prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c17_13	不見擇滅法，　　十六不及一。
+K10udanav_u:uv_24.24_0	māse māse sahasreṇa yo yajeta samā śatam /	T04n0213_003:0789c18_0	月月常千祀，　　終身而不輟，
+K10udanav_u:uv_24.24_1	na tat śīle prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c19_13	不如須臾間，　　一心念真法。 一念福無邊，　　勝彼終身祀，
+K10udanav_u:uv_24.25_0	māse māse sahasreṇa yo yajeta samā śatam /	T04n0213_003:0789c21_13	雖終百歲壽，　　奉事祀火神。
+K10udanav_u:uv_25.5_1	śreṣṭham upagato hy upaiti śraiṣṭhyam tasmāt śreṣṭham iha ātmano bhajeta // śreyo hi labhate nityam yaḥ śreṣṭhān upasevate /	T04n0213_003:0790a07_5	　　善者終以善，斯由親近善。
+K10udanav_u:uv_25.6_1	prajñayā ca uttamatamān śīlena upaśamena ca //	T04n0213_003:0790a08_5	　　智慧為最上，持戒永寂滅。
+K10udanav_u:uv_25.7_0	pūti matsyān kuśa agreṇa yo naro hy upanahyate /	T04n0213_003:0790a09_0	如魚湊臭爛，　　人貪競取之，
+K10udanav_u:uv_25.8_0	tagaram palāśa pattreṇa yo naro hy upanahyati /	T04n0213_003:0790a11_0	多誐波羅葉，　　眾生往採取，
+K10udanav_u:uv_25.8_1	pattrāṇy api sugandhīni sad evam saṃgamāt satām //	T04n0213_003:0790a12_13	葉薰香遠布，　　習善亦如是。 親近惡知識，　　罪垢日夜增， 如猪身不淨，　　自污兼污他。
+K10udanav_u:uv_25.9_0	akurvann api pāpāni kurvāṇam upasevate /	T04n0213_003:0790a15_0	己自不習惡，　　親近習惡者，
+K10udanav_u:uv_25.9_1	śaṅkito bhavati pāpasya avarṇaś ca asya vardhate // saṃsevamānaḥ pāpo hi saṃspṛṣṭaḥ saṃspṛśet parān /	T04n0213_003:0790a16_13	為人所輕笑，　　惡名日夜熾。 觀習而習之，　　知近而親近，
+K10udanav_u:uv_25.10_1	śaro liptaḥ kalāpasthān aliptān upalimpati /	T04n0213_003:0790a18_13	毒箭在其束，　　淨者被其污。
+K10udanav_u:uv_25.10_2	upalepa bhayād dhīro na eva pāpa sakhā bhavet // yādṛśam kurute mitram yādṛśam ca upasevate / na cirāt tādṛśo bhavati saṃsevā hy asya tādṛśī //	T04n0213_003:0790a19_0	勇夫能除污，　　去惡不為伴，
+K10udanav_u:uv_25.12_0	tasmāt phala puṭasya eva dṛṣṭvā sampākam ātmanaḥ /	T04n0213_003:0790a20_13	是故知果報，　　智人悉分別。
+K10udanav_u:uv_25.12_1	asanto na upaseveta santaḥ seveta paṇḍitaḥ // yāvaj jīvam pi ced bālaḥ paṇḍitān paryupāsate /	T04n0213_003:0790a21_0	非親慎莫習，　　習當近於賢，
+K10udanav_u:uv_25.14_0	muhūrtam api saprajñaḥ paṇḍitān paryupāsate /	T04n0213_003:0790a23_0	愚人盡形壽，　　承事明智人，
+K10udanav_u:uv_25.14_1	sa vai dharmam vijānāti jihvā sūpa rasān iva //	T04n0213_003:0790a24_13	亦不知真法，　　如杓斟酌食。
+K10udanav_u:uv_26.6_0	ārogya paramā lābhā saṃtuṣṭi paramam dhanam /	T04n0213_003:0790b26_0	無病第一利，　　知足第一富，
+K10udanav_u:uv_26.6_1	viśvāsa paramam mitram nirvāṇa paramam sukham //	T04n0213_003:0790b27_13	知親第一友，　　圓寂第一樂。
+K10udanav_u:uv_26.7_0	kṣudhā parama rogāṇām saṃskārā duhkham eva tu / [paramā]?	T04n0213_003:0790b28_0	飢為第一患，　　行為第一苦，
+K10udanav_u:uv_26.7_1	etaj jñātvā yathā bhūtam nirvāṇa paramo bhavet //	T04n0213_003:0790b29_13	如實知此者，　　圓寂第一樂。 最妙聖言教，　　流布無窮際， 世共傳習者，　　實無有厭時。 如是無等倫，　　所說善言教， 身苦所逼迫，　　何過飢患苦？
+K10udanav_u:uv_26.8_0	alpakāḥ sugatim yānti bahavo yānti durgatim //	T04n0213_003:0790c05_0	趣善之徒少，　　趣惡之徒多，
+K10udanav_u:uv_26.8_1	etaj jñātvā yathā bhūtam nirvāṇa paramo bhavet //	T04n0213_003:0790c06_13	如實知此者，　　速求於圓寂。
+K10udanav_u:uv_26.9_0	sahetum sugatim yānti sahetum yānti durgatim /	T04n0213_003:0790c07_0	有緣生善處，　　有緣生惡趣，
+K10udanav_u:uv_26.10_0	gatir mṛgāṇām pravaṇam ākāśam pakṣiṇām gatiḥ /	T04n0213_003:0790c09_0	鹿歸於田野，　　鳥歸於虛空，
+K10udanav_u:uv_26.10_1	dharmo gatir vibhāgīnām nirvāṇam tv arhatām gatiḥ //	T04n0213_003:0790c10_13	義歸於分別，　　真人歸寂滅。
+K10udanav_u:uv_24.17_0	māse māse kuśa agreṇa yo hi bhuñjīta bhojanam /	T04n0213_003:0789b23_0	從月至於月，　　愚者用飲食，
+K10udanav_u:uv_24.17_1	na tad buddhe prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789b24_13	彼人不信佛，　　十六不獲一。
+K10udanav_u:uv_26.10b_0	..........na saṃvaset / na hi idam hīna vīryeṇa mandena apy avijānatā /	T04n0213_003:0790c11_0	不以懈怠意，　　怯弱有所至，
+K10udanav_u:uv_26.11_1	nirvāṇam śakyam adhigantum sarva grantha pradālanam // ..taḥ kāmeṣu ni............ /	T04n0213_003:0790c12_13	欲求於圓寂，　　焚燒諸縛著。
+K10udanav_u:uv_26.12_0	siñca bhikṣor imām nāvam siktā laghvī bhaviṣyati /	T04n0213_003:0790c13_0	苾芻速杼船，　　以杼便當輕，
+K10udanav_u:uv_26.12_1	hitvā rāgam ca doṣam ca tato nirvāṇam eṣyasi //	T04n0213_003:0790c14_13	求斷貪欲情，　　然後至圓寂。
+K10udanav_u:uv_26.13_1	na ca abhūn na bhaviṣyati na vā apy etarhi vidyate //	T04n0213_003:0790c16_13	非無亦非有，　　如今不可獲。
+K10udanav_u:uv_26.14_0	durdṛśam satyam acalam sudṛśam pratividhyataḥ / tṛṣṇā kṣayam paśyato hi duhkhasya anto nirucyate //	T04n0213_003:0790c17_0	難見諦不動，　　善觀而不動， 當察愛盡源，　　是謂名業際。
+K10udanav_u:uv_24.18_1	na tad dharme prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789b26_13	彼於四分中，　　亦不獲其一。
+K10udanav_u:uv_24.19_0	māse māse kuśa agreṇa yo hi bhuñjīta bhojanam /	T04n0213_003:0789b27_0	從月至於月，　　愚者用飲食，
+K10udanav_u:uv_24.19_1	na tad saṃghe prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789b28_13	不生慈愍心，　　十六不及一。
+K10udanav_u:uv_24.20_0	māse māse kuśa agreṇa yo hi bhuñjīta bhojanam /	T04n0213_003:0789b29_0	從月至於月，　　愚者用飲食，
+K10udanav_u:uv_26.15_0	chittvā tṛṣṇām praśāmya iha rajaḥ sarvam samāhitaḥ /	T04n0213_003:0790c19_0	斷愛除其欲，　　竭河無流兆，
+K10udanav_u:uv_24.20_1	na tat śīle prasādasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c01_13	彼不知法數，　　十六不及一。
+K10udanav_u:uv_24.20a_0	māse māse kuśa agreṇa yo hi bhuñjīta bhojanam /	T04n0213_003:0789c02_0	從月至於月，　　常行平等會，
+K10udanav_u:uv_24.20a_1	na tam maitrasya cittasya kalām arghati ṣoḍaśīm //	T04n0213_003:0789c03_13	彼人不信佛，　　十六不及一。
+K10udanav_u:uv_24.20b_0	māse māse kuśa agreṇa yo hi bhuñjīta bhojanam /	T04n0213_003:0789c04_0	從月至於月，　　常行平等會，
+K10udanav_u:uv_24.20b_1	na tat sattva anukampāyāḥ kalām arghati ṣoḍaśīm //	T04n0213_003:0789c05_13	彼人不信法，　　十六不及一。
+K10udanav_u:uv_24.20c_0	māse māse kuśa agreṇa yo hi bhuñjīta bhojanam /	T04n0213_003:0789c06_0	從月至於月，　　常行平等會，
+K10udanav_u:uv_24.20c_1	na tat prāṇa anukampāyāḥ kalām arghati ṣoḍaśīm //	T04n0213_003:0789c07_13	彼人不信僧，　　十六不及一。
+K10udanav_u:uv_24.20d_1	na tad bhūta anukampāyāḥ kalām arghati ṣoḍaśīm //	T04n0213_003:0789c09_13	彼無慈愍心，　　十六不及一。
+K10udanav_u:uv_27.10_0	yat prāptam yac ca prāptavyam rajaḥ kīrṇam idam dvayam /	T04n0213_003:0791b22_0	已得與當得，　　二俱受塵垢，
+K10udanav_u:uv_27.11_0	śikṣā sārāś ca ye sattvā jīvino brahma jīvinaḥ /	T04n0213_003:0791b24_0	觀諸持戒者，　　梵行清淨人，
+K10udanav_u:uv_27.11_1	upasthāna rataye ca sa;eko antaḥ prakīrtitaḥ //	T04n0213_003:0791b25_13	瞻侍病瘦者，　　是謂至邊際。
+K10udanav_u:uv_26.31_0	jayate dānam dharma dānam ca sarvam jayate ratim dharma ratiṃś ca sarvām / jayate balam kṣānti balam ca sarvam jayate sukham sarva tṛṣṇā nirodhaḥ // sarvam dānam dharma dānam jināti sarvām ratim dharma ratim jināti /	T04n0213_003:0791a29_0	眾施法施勝，　　眾樂法樂上，
+K10udanav_u:uv_27.15_0	yathā budbudikām paśyed yathā paśyen marīcikām /	T04n0213_003:0791b28_0	當觀水上泡，　　亦觀幻野馬，
+K10udanav_u:uv_27.15_1	evam lokam avekṣam vai mṛtyu rājam na paśyati //	T04n0213_003:0791b29_13	如是不觀世，　　亦不見死王。
+K10udanav_u:uv_27.16_0	yathā budbudikām paśyed yathā paśyen marīcikām / evam kāyam avekṣam vai mṛtyu rājam na paśyati // paśyata imam sadā kāyam citram rāja ratha upamam /	T04n0213_003:0791c01_0	如是當觀身，　　如王雜色車，
+K10udanav_u:uv_27.17_1	yatra bālāḥ pramuhyante saṅgo na asti prajānatām //	T04n0213_003:0791c02_13	愚者所染著，　　善求遠離彼。
+K10udanav_u:uv_27.17a_0	paśyata imam sadā kāyam citram rāja ratha upamam /	T04n0213_003:0791c03_0	如是當觀身，　　如王雜色車，
+K10udanav_u:uv_27.17a_1	yatra bālā viṣīdanti paṇḍito atra virajyate //	T04n0213_003:0791c04_13	愚者所染著，　　智者遠離之。
+K10udanav_u:uv_27.18_0	paśyata imam sadā kāyam citram rāja ratha upamam / yatra bālā viṣīdanti yathā paṅke jaradgavaḥ // paśyata imam sadā kāyam citram rāja ratha upamam /	T04n0213_003:0791c05_0	如是當觀身，　　眾病之所因，
+K10udanav_u:uv_27.19_1	yatra bālāḥ pramuhyante paṇḍito atra virajyate / paśya citra kṛtam bimbam arukam kāya saṃjñitam / āturam moṣa saṃkalpam yasya na asti dhruva sthitiḥ // ..........saṅgo na asti prajānatām //	T04n0213_003:0791c06_13	病與愚合會，　　焉能可恃怙？
+K10udanav_u:uv_26.31_a_1	sarvam balam kṣānti balam jināti tṛṣṇā kṣayaḥ sarva sukham jināti //	T04n0213_003:0791b01_13	眾力忍力最，　　愛盡圓寂樂。
+K10udanav_u:uv_27.0_0	27 paśyavarga supaśyam para vadyam syād ātma vadyam tu durdṛśam / paraḥ parasya vadyāni tu utpunāti busam yathā //	T04n0213_003:0791b03_0	善觀己瑕隙，　　使己不露外， 彼彼自有隙，　　如彼飛輕塵。
+K10udanav_u:uv_27.21_0	paśya citra kṛtam bimbam maṇibhiḥ kuṇḍalais tathā /	T04n0213_003:0791c07_0	當觀畫形像，　　摩尼紺青髮，
+K10udanav_u:uv_27.21_1	alam bālasya mohāya na tu pāra gaveṣiṇām //	T04n0213_003:0791c08_13	愚者以為緣，　　不求越彼岸。
+K10udanav_u:uv_27.22_0	paśya citra kṛtam bimbam maṇibhiḥ kuṇḍalais tathā / alam bālasya mohāya paṇḍito atra virajyate // gandhena gātrām anuliptaḥ pādau gairika rañjitau / alam bālasya mohāya na tu pāra gaveṣiṇām // gandhena gātrām anuliptaḥ pādau gairika rañjitau /	T04n0213_003:0791c09_0	當觀畫形像，　　摩尼紺青髮，
+K10udanav_u:uv_27.22b_1	alam bālasya mohāya paṇḍito atra virajyate //	T04n0213_003:0791c10_13	愚者以為緣，　　智者所厭患。
+K10udanav_u:uv_27.22d_1	alam bālasya mohāya................ /	T04n0213_003:0791c12_13	愚者以為緣，　　亦不求自度。
+K10udanav_u:uv_27.23_0	aṣṭāpadī kṛtāḥ keśā netre ca añjana rañjite /	T04n0213_003:0791c13_0	爪髮為八分，　　雙部眼耳璫，
+K10udanav_u:uv_27.23_1	alam bālasya mohāya na tu pāra gaveṣiṇām //	T04n0213_003:0791c14_13	愚者所染著，　　亦不求自度。
+K10udanav_u:uv_27.30_0	nelāṅgaḥ śveta saṃchanna;ekāro vartate rathaḥ / [nīla aṅgaḥ]?	T04n0213_003:0791c21_0	青衣白蓋身，　　御者御一輪，
+K10udanav_u:uv_27.30_1	anigham paśyata āyāntam chinna yoktram abandhanam //	T04n0213_003:0791c22_13	觀彼未離垢，　　求便斷縛著。
+K10udanav_u:uv_27.31_0	bahavaḥ śaraṇam yānti parvatāṃś ca vanāni ca /	T04n0213_003:0791c23_0	人多求自歸，　　山川樹木神，
+K10udanav_u:uv_27.31_1	ārāmām vṛkṣa caityāṃś ca manuṣyā bhaya tarjitāḥ //	T04n0213_003:0791c24_13	園觀及神祀，　　望免苦患難。
+K10udanav_u:uv_27.32_0	na etadd hi śaraṇam kṣemam na etat śaraṇam uttamam /	T04n0213_003:0791c25_0	此非自歸上，　　亦非有吉利，
+K10udanav_u:uv_27.2_0	para vadya anudarśino nitya avadhyāna saṃjñinaḥ / vāmā dharmāḥ pravardhante sa hy ārād dharma darśanāt //	T04n0213_003:0791b05_0	若己稱無瑕，　　罪福俱并至， 但見他人隙，　　恒懷無明想。
+K10udanav_u:uv_27.3_0	ahrīkena sujīvam syāt kāka śūreṇa dhvāṅkṣiṇā / praskandinā pragalbhena saṃkliṣṭam tv iha jīvate //	T04n0213_003:0791b07_0	知慚壽中上，　　焉以貪牽縛， 力士無畏忌，　　斯等命短促。
+K10udanav_u:uv_27.32_1	na etat śaraṇam āgamya sarva duhkhāt pramucyate //	T04n0213_003:0791c26_13	如有自歸者，　　不脫一切苦。
+K10udanav_u:uv_27.33_0	yas tu buddham ca dharmam ca saṃgham ca śaraṇam gataḥ /	T04n0213_003:0791c27_0	若有自歸佛，　　及法苾芻僧，
+K10udanav_u:uv_27.33_1	catvāri ca ārya satyāni prajñayā paśyate yadā //	T04n0213_003:0791c28_0	修習聖四諦，　　如慧之所見，
+K10udanav_u:uv_27.34_0	duhkham duhkha samutpādam duhkhasya samatikramam /	T04n0213_003:0791c29_0	苦因緣苦生，　　當越此苦本，
+K10udanav_u:uv_27.34_1	āryam ca aṣṭa aṅgikam mārgam duhkha upaśama gāminam //	T04n0213_003:0792a01_13	賢聖八品道，　　滅盡甘露際。
+K10udanav_u:uv_27.35_0	etadd hi śaraṇam kṣemam etat śaraṇam uttamam /	T04n0213_003:0792a02_0	是為自歸上，　　非不有吉利，
+K10udanav_u:uv_27.35_1	etat śaraṇam āgamya sarva duhkhāt pramucyate //	T04n0213_003:0792a03_13	如有自歸者，　　得脫一切苦。
+K10udanav_u:uv_27.36_0	paśyataḥ paśyate paśyam paśyate ca apy apaśyataḥ / apaśyan paśyate na eva paśyato na apy apaśyataḥ //	T04n0213_003:0792a04_0	觀已觀當觀，　　不觀亦當觀，
+K10udanav_u:uv_27.37_1	divasasya yathā eva rātribhiḥ saṃdhānam ca tayor na vidyate //	T04n0213_003:0792a07_13	計晝以為夜，　　寶身壞不久。
+K10udanav_u:uv_27.38_0	anupaśyati cen na paśyati tv atha cet paśyati na anupaśyati / paśyann ayam na anupaśyati tv anupaśyaṃs tu sadā na paśyati //	T04n0213_003:0792a08_0	觀而不重觀，　　雖見亦不見， 如見而不見，　　觀而亦不見。
+K10udanav_u:uv_27.39_0	paśyan nu kim na anupaśyate kim apaśyan na anupaśyate sadā / kasmin sati ha anupaśyanā kasmin na sati na anupaśyanā //	T04n0213_003:0792a10_5	云何見不見？ 　　何說見不見？ 因何見不見？ 　　因為出何見。
+K10udanav_u:uv_27.40_0	duhkham yad ayam na paśyati tad apaśyann ātmā iti paśyati / duhkham tu yathā tathā prapaśyann ayam ātmā iti sadā anupaśyati //	T04n0213_003:0792a12_0	猶若不觀苦，　　常當深自觀， 以解苦根原，　　是為明妙觀。
+K10udanav_u:uv_27.41_0	yena āvṛtaḥ pṛthag janaḥ saṃskārān duhkham na paśyati /	T04n0213_003:0792a14_13	誰令凡夫人，　　不觀眾行本？
+K10udanav_u:uv_28.1_0	sarva pāpasya akaraṇam kuśalasya upasampadaḥ /	T04n0213_003:0792a17_0	諸惡業莫作，　　諸善業奉行，
+K10udanav_u:uv_28.1_1	sva citta paryavadanam etad buddhasya śāsanam //	T04n0213_003:0792a18_13	自淨其意行，　　是名諸佛教。
+K10udanav_u:uv_28.2_0	dadataḥ puṇyam pravardhate vairam na kriyate ca samyamāt /	T04n0213_003:0792a19_0	惠施獲福報，　　不藏恚怒懷，
+K10udanav_u:uv_28.2_1	kuśalī prajahāti pāpakam rāga doṣa moha kṣayāt tu nirvṛtiḥ //	T04n0213_003:0792a20_13	以善滅其惡，　　欲怒癡無餘。
+K10udanav_u:uv_28.3_0	sārdham carann ekakaḥ sadā miśro hy anya janena vedakaḥ /	T04n0213_003:0792a21_0	獨行勿逐愚，　　欲群當逐智，
+K10udanav_u:uv_27.4_0	hrīmatā tv iha durjīvam nityam śuci gaveṣiṇā /	T04n0213_003:0791b09_0	知慚不盡壽，　　恒求清淨行，
+K10udanav_u:uv_27.4_1	sulīnena apragalbhena śuddha ājīvena paśyatā //	T04n0213_003:0791b10_13	威儀不缺漏，　　當觀真淨壽。
+K10udanav_u:uv_28.3_1	kuśalī prajahāti pāpakam krauñcaḥ kṣīrapako yathā udakam //	T04n0213_003:0792a22_13	智者滅其惡，　　如鶴擇乳飲。
+K10udanav_u:uv_28.13_1	paṇḍito jīva loke asmin pāpāni parivarjayet //	T04n0213_003:0792b12_13	智者善壽世，　　亦不為眾惡。
+K10udanav_u:uv_28.14_0	vaṇig vā sabhayam mārgam alpa śāstro mahā dhano /	T04n0213_003:0792b13_0	商人在路懼，　　伴少而貨多，
+K10udanav_u:uv_28.15_0	paṇau ca asya vraṇo na syād dhārayet pāṇinā viṣam / na avraṇe krāmati viṣam na asti pāpam akurvataḥ //	T04n0213_003:0792b15_0	有身無瘡疣，　　不為毒所害， 毒無奈瘡何？ 　　無惡無所造。
+K10udanav_u:uv_28.16_0	sukarāṇi hy asādhūni sva ātmano hy ahitāni ca /	T04n0213_003:0792b17_0	多有行眾惡，　　必為身作累，
+K10udanav_u:uv_28.16_1	yad vai hitam ca pathyam ca tad vai parama duṣkaram //	T04n0213_003:0792b18_13	施善布恩德，　　此事甚為難。
+K10udanav_u:uv_28.17_0	sukaram sādhunā sādhu sādhu pāpena duṣkaram / pāpam pāpena sukaram pāpam āryeṇa duṣkaram //	T04n0213_003:0792b19_0	善哉修善者，　　傷哉為甚惡， 惡惡自為易，　　惡人為善難。
+K10udanav_u:uv_28.18_0	madhuvad manyate bālo yāvat pāpam na pacyate /	T04n0213_003:0792b21_0	愚者自謂正，　　猶惡不成熟，
+K10udanav_u:uv_28.18_1	yadā tu pacyate pāpam atha duhkham nigacchati //	T04n0213_003:0792b22_13	惡已成熟滿，　　諸苦亦復熟。
+K10udanav_u:uv_28.19_0	pāpo api paśyate bhadram yāvat pāpam na pacyate /	T04n0213_003:0792b23_0	賢者見於惡，　　不為惡所熟，
+K10udanav_u:uv_28.19_1	yadā tu pacyate pāpam atha pāpāni paśyati //	T04n0213_003:0792b24_13	如惡以不熟，　　惡者觀其惡。
+K10udanav_u:uv_27.5_0	andha bhūto hy ayam lokas tanuko atra vipaśyataḥ /	T04n0213_003:0791b11_0	世間普盲冥，　　智眼尠尠耳，
+K10udanav_u:uv_27.5_1	śakunto jāla muktaiva hy alpam svargeṣu modate //	T04n0213_003:0791b12_13	群鳥墮羅網，　　生天不足言。
+K10udanav_u:uv_27.6_0	moṣa sambandhano loko bhavya rūpa;iva dṛśyate /	T04n0213_003:0791b13_0	觀世衰耗法，　　但見眾色變，
+K10udanav_u:uv_27.6_1	upadhī bandhanā bālās tamasā parivāritāḥ /	T04n0213_003:0791b14_0	愚者自繫縛，　　為闇所纏繞，
+K10udanav_u:uv_27.6_2	asat sad iva dṛśyate paśyato na asti kiṃcanam //	T04n0213_003:0791b15_13	亦不見於行，　　觀而無所有。
+K10udanav_u:uv_27.7_1	etad eke na jānanti paśyanti na hi śalyataḥ //	T04n0213_003:0791b17_13	一一不相見，　　不覩邪見刺。
+K10udanav_u:uv_27.8_0	etat tu śalyam pratiyatya paśyato hy adhyavasitā yatra prajāḥ prasaktāḥ /	T04n0213_003:0791b18_0	觀此刺因緣，　　眾生多染著，
+K10udanav_u:uv_27.8_1	aham karomi iti na tasya hiṃsyāt paraḥ karoti iti na tasya hiṃsyāt //	T04n0213_003:0791b19_13	我造彼非有，　　彼造非我有。
+K10udanav_u:uv_27.9_0	māna upeto hy ayam loko māna saktaḥ sadā sthitaḥ /	T04n0213_003:0791b20_0	眾生為慢纏，　　染著於憍慢，
+K10udanav_u:uv_27.9_1	dṛṣṭibhiś caiva saṃrabdhaḥ saṃsāram na ativartate //	T04n0213_003:0791b21_13	為見所迷惑，　　不免生死際。
+K10udanav_u:uv_28.20_0	bhadro api paśyate pāpam yāvad bhadram na pacyate /	T04n0213_003:0792b25_0	賢者觀其惡，　　乃至賢不熟，
+K10udanav_u:uv_28.21_0	kuryāc cet puruṣaḥ pāpam na enam kuryāt punaḥ punaḥ /	T04n0213_003:0792b27_0	人雖為惡行，　　亦不數數行，
+K10udanav_u:uv_28.21_1	na tatra chandam kurvīta duhkham pāpasya saṃcayaḥ // [cchandam]	T04n0213_003:0792b28_13	於彼意不樂，　　知惡之為苦。
+K10udanav_u:uv_28.22_0	kuryāt tu puruṣaḥ puṇyam kuryāc ca enam punaḥ punaḥ /	T04n0213_003:0792b29_0	人能作其福，　　亦當數數造，
+K10udanav_u:uv_28.23_0	abhitvareta kalyāṇe pāpāc cittam nivārayet / dhandham hi kurvataḥ puṇyam pāpeṣu ramate manaḥ // [dvandvam]?	T04n0213_003:0792c02_0	先當制善心，　　攝持惡根本， 由是興福業，　　心由樂於惡。
+K10udanav_u:uv_28.24_0	alpakam pi kṛtam pāpam duhkhāya parataḥ sadā /	T04n0213_003:0792c04_0	為惡雖復少，　　後世受苦深，
+K10udanav_u:uv_28.24_1	mahate bhavaty anarthāya viṣam koṣṭha gatam yathā //	T04n0213_003:0792c05_13	當獲無邊福，　　如毒在心腹。
+K10udanav_u:uv_28.25_0	alpakam pi kṛtam puṇyam para loke sukhāvaham /	T04n0213_003:0792c06_0	為福雖微少，　　後受大福德，
+K10udanav_u:uv_28.25_1	arthāya mahate nityam sasyānām iva saṃcayaḥ //	T04n0213_003:0792c07_13	當獲大果報，　　如種獲真實。
+K10udanav_u:uv_28.26_0	adaṇḍeṣu hi daṇḍena yo apraduṣṭeṣu duṣyate /	T04n0213_003:0792c08_0	無過而強輕，　　無恚而強侵，
+K10udanav_u:uv_28.26_1	daśānām anyatamam sthānam kṣipram eva nigacchati //	T04n0213_003:0792c09_13	當於十品處，　　便當趣於彼。
+K10udanav_u:uv_28.27_0	jñātīnām vā vinā bhāvam bhogānām vā parikṣayam / rājato hy upasargam vā apy abhyākhyānam ca dāruṇam // vedanām kaṭukām vā api śarīrasya ca bhedanam/	T04n0213_003:0792c10_0	痛癢語麤獷，　　此形必壞敗， 眾病所逼切，　　心亂而不定。 宗族別離散，　　財貨費耗盡，
+K10udanav_u:uv_28.29_0	atha vā asya apy agārāṇi hy agnir dahati sarvathā /	T04n0213_003:0792c14_0	或復無數變，　　為火所焚燒，
+K10udanav_u:uv_29.16e_1	bhojane ca api mātrajñam yuktam jāgarikāsu ca /	T04n0213_003:0793b04_5	於食知止足。
+K10udanav_u:uv_29.16e_2	tam na prasahate tṛṣṇā vātaḥ śailam iva sthiram //	T04n0213_003:0793b05_13	　　有信執精進，不恣於欲意，　　如風吹泰山。
+K10udanav_u:uv_29.17_0	ramaṇīyāny araṇyāni na ca atra ramate janaḥ / vīta rāgā atra raṃsyante na tu kāma gaveṣiṇaḥ //	T04n0213_003:0793b06_0	空閑甚可樂，　　然人不樂彼， 無欲常居之，　　非欲之所處。
+K10udanav_u:uv_29.19_1	asanto na prakāśyante rātri kṣiptāḥ śarā yathā //	T04n0213_003:0793b09_13	非賢則不現，　　猶夜射冥室。
+K10udanav_u:uv_29.20_1	artham mahāntam gambhīram prajñayā pratividhyate //	T04n0213_003:0793b11_13	義理極深邃，　　智者所分別。
+K10udanav_u:uv_29.21_0	aham nāga;iva saṃgrāme cāpād utpatitān śarān / ativākyam titīkṣāmi duhśīlo hi mahā janaḥ // [titikṣāmi]	T04n0213_003:0793b12_0	多有眾生類，　　非射而不值， 今觀此義理，　　無戒人所恥。
+K10udanav_u:uv_29.22_0	bhave ca aham bhayam dṛṣṭvā bhūyaś ca vibhavam bhave /	T04n0213_003:0793b14_0	觀有知恐怖，　　變易知有無，
+K10udanav_u:uv_29.22_1	tasmād bhavam na abhinande nandī ca vibhavena me //	T04n0213_003:0793b15_13	是故不樂有，　　當念遠離有。
+K10udanav_u:uv_29.43_1	jñāyante bhāṣamānās tu deṣayanto arajaḥ padam // bhāṣayed dyotayed dharmam ucchrayed ṛṣiṇām dhvajam / subhāṣita dhvajā nityam ṛṣayor dharma gauravāḥ //	T04n0213_003:0793c21_0	說應法議論，　　當豎仙人幢， 法幢為仙人，　　仙人為法幢。
+K10udanav_u:uv_29.45_0	nindanti tuṣṇim āsīnam nindanti bahu bhāṣiṇam / [tūṣṇīm āsīnam]	T04n0213_003:0793c23_0	或有寂然罵，　　或有在眾罵，
+K10udanav_u:uv_29.45_1	alpa bhāṇim ca nindanti na asti lokeṣv aninditaḥ //	T04n0213_003:0793c24_13	或有未聲罵，　　世無不罵者。
+K10udanav_u:uv_29.46_0	ekānta ninditaḥ puruṣaḥ ekāntam vā praśaṃsitaḥ /	T04n0213_003:0793c25_0	一毀及一譽，　　但利養其名，
+K10udanav_u:uv_29.46_1	na abhūd bhaviṣyati ca no na ca apy etarhi vidyate //	T04n0213_003:0793c26_13	非有亦非有，　　則亦不可知。
+K10udanav_u:uv_29.47_0	yam tu vijñāḥ praśaṃsanti hy anuyujya śubha aśubham / praśaṃsā sā samākhyātā na tv ajñair yaḥ praśaṃsitaḥ //	T04n0213_003:0793c27_0	智人所稱譽，　　若好兼及醜，
+K10udanav_u:uv_29.49_0	śailo yathā apy eka ghano vāyunā na prakampyate /	T04n0213_003:0794a01_0	猶如安明山，　　不為風所動，
+K10udanav_u:uv_29.49_1	evam nindā praśaṃsābhir na kampyante hi paṇḍitāḥ //	T04n0213_003:0794a02_13	智人亦如是，　　不為毀譽動。
+K10udanav_u:uv_29.50_0	yasya mūle tvacā na asti parṇā na asti tathā latāḥ /	T04n0213_003:0794a03_13	如樹無有根，　　無枝況有葉？
+K10udanav_u:uv_31.11_1	evam hy abhāvitam cittam rāgaḥ samatibhindati // yathā hy agāram ducchannam vṛṣṭiḥ samatibhindati / evam hy abhāvitam cittam dveṣaḥ samatibhindati // yathā hy agāram ducchannam vṛṣṭiḥ samatibhindati / evam hy abhāvitam cittam mohaḥ samatibhindati //	T04n0213_004:0795b27_13	人不思惟行，　　恒歷婬怒癡。
+K10udanav_u:uv_31.14_0	yathā hy agāram ducchannam vṛṣṭiḥ samatibhindati /	T04n0213_004:0795b28_0	蓋屋若不密，　　天雨則常漏，
+K10udanav_u:uv_31.24_0	manaḥ pūrvam gamā dharmā manaḥ śreṣṭhā mano javāḥ /	T04n0213_004:0795c04_0	心為諸法本，　　心尊是心使，
+K10udanav_u:uv_31.24_1	manasā hi prasannena bhāṣate vā karoti vā /	T04n0213_004:0795c05_0	心若念善行，　　即言即善行，
+K10udanav_u:uv_31.24_2	tatas tam sukham anveti chāyā vā hy anugāminī //	T04n0213_004:0795c06_13	福慶自追隨，　　如影隨其形。
+K10udanav_u:uv_31.25_0	na aprasannena cittena duṣṭena kṣubhitena vā / dharmo hi śakyam ājñātum saṃrambha bahulena vā //	T04n0213_004:0795c07_0	不以不淨意，　　亦及瞋怒人， 欲得知法者，　　正等覺所說。
+K10udanav_u:uv_31.26_1	āghātam caiva nihsṛjya prajānīyāt subhāṣitam //	T04n0213_004:0795c10_13	能捨傷害懷，　　乃得聞正法。
+K10udanav_u:uv_31.27_0	na pratyanīka sāreṇa suvijñeyam subhāṣitam / upakliṣṭena cittena saṃrambha bahulena vā // anavasthita cittasya saddharmam avijānataḥ / pāriplava prasādasya prajñā na paripūryate //	T04n0213_004:0795c11_0	心不住止息，　　亦不知善法， 迷於出世事，　　無有正知見。
+K10udanav_u:uv_31.29_0	srotāṃsi yasya ṣaṭ triṃśan manaḥ prasravaṇāni hi /	T04n0213_004:0795c13_0	三十六使流，　　并及心意漏，
+K10udanav_u:uv_31.29_1	vahanti nityam durdṛṣṭeḥ saṃkalpair gredha nihśritaiḥ //	T04n0213_004:0795c14_13	數數有邪見，　　依於欲想結。
+K10udanav_u:uv_31.30_0	ratim anusṛtam indriya anugam puruṣam citta vaśa anuvartakam /	T04n0213_004:0795c15_0	捨意放其根，　　人隨意迴轉，
+K10udanav_u:uv_31.30_1	yaśa;iha hi jahāti sarvadā drumam iva śīrṇa phalam yathā aṇḍajaḥ //	T04n0213_004:0795c16_13	為少滅名稱，　　如鳥捨空林。
+K10udanav_u:uv_31.31_0	ātāpī vihara tvam apramatto mā te kāma guṇo matheta cittam / mā loha guḍām gileḥ pramattaḥ krandan vai narakeṣu pacyamānaḥ //	T04n0213_004:0795c17_0	在靜自修學，　　慎勿逐欲跡， 莫吞熱鐵丸，　　嘷哭受其報。
+K10udanav_u:uv_31.32_0	utthāna kāleṣu nihīna vīryo vācā balī tv ālasiko nirāśaḥ / sadā eva saṃkalpa hataḥ kusīdo jñānasya mārgam satatam na vetti //	T04n0213_004:0795c19_0	應修而不修，　　恃力不精勤， 自陷人形卑，　　懈怠不解慧。
+K10udanav_u:uv_31.33_1	vitarkayan vai satatam vitarkān etām sadā dhāvati bhrānta cittaḥ //	T04n0213_004:0795c22_13	能覺知心觀，　　愚心數數亂。
+K10udanav_u:uv_31.34_0	etāṃs tu vidyān manaso vitarkān ātāpavān saṃvaravān smṛta ātmā /	T04n0213_004:0795c23_0	智者如是觀，　　念者專為行，
+K10udanav_u:uv_31.37_0	kumbha upamam lokam imam viditvā nagara upamam cittam adhiṣṭhitam ca /	T04n0213_004:0795c25_0	觀身如空瓶，　　安心如丘城，
+K10udanav_u:uv_31.37_1	yudhyeta māram prajñā yuddhena jitam ca rakṣed aniveśanaḥ syāt //	T04n0213_004:0795c26_13	以慧與魔戰，　　守勝勿復失。
+K10udanav_u:uv_31.38_0	phena upamam lokam imam viditvā nagara upamam cittam adhiṣṭhitam ca /	T04n0213_004:0795c27_0	觀身如聚沫，　　如陽焰野馬，
+K10udanav_u:uv_31.38_1	yudhyeta māram prajñā yuddhena jitam ca rakṣed aniveśanaḥ syāt //	T04n0213_004:0795c28_13	以慧與魔戰，　　守勝勿復失。
+K10udanav_u:uv_31.39_0	sambhodhy aṅgeṣu yeṣāṃs tu samyak cittam subhāvitam /	T04n0213_004:0795c29_0	心念七覺意，　　等意不差違，
+K10udanav_u:uv_31.39_2	kṣīṇa āsravā vānta doṣās te loke parinirvṛtāḥ //	T04n0213_004:0796a02_0	盡漏無有漏，　　於世取滅度，
+K10udanav_u:uv_31.40_0	sva cittam anurakṣam vai sva vālam camarī yathā /	T04n0213_004:0796a03_13	當自護其意，　　若𤛆牛護尾。
+K10udanav_u:uv_31.40_1	bhūteṣu ca dayā āpannaḥ sukhān na parihīyate //	T04n0213_004:0796a04_0	有施於一切，　　終不離其樂，
+K10udanav_u:uv_31.41_1	sameti cittam cittena yad eko ramate vane //	T04n0213_004:0796a06_0	心心自平等，　　獨樂於曠野，
+K10udanav_u:uv_31.42_0	avyāpannena cittena yo bhūtāny anukampate / maitraḥ sa sarva sattveṣu vairam tasya na kenacit // avyāpannena cittena yo bhūtāny anukampate / maitraḥ sa sarva prāṇeṣu vairam tasya na kenacit //	T04n0213_004:0796a07_0	不以能害心，　　盡為一切人，
+K10udanav_u:uv_31.42b_0	avyāpannena cittena yo bhūtāny anukampate / maitraḥ sa sarva bhūteṣu vairam tasya na kenacit //	T04n0213_004:0796a08_13	慈心為眾生，　　彼無有怨恨。
+K10udanav_u:uv_31.43_0	ekam api cet prāṇam aduṣṭa citto maitrāyate kuśalam tena hi syāt /	T04n0213_004:0796a09_0	慈心為一人，　　便護諸善本，
+K10udanav_u:uv_31.43_1	sarvāṃs tu sattvān manasā anukampayan prabhūtam āryaḥ prakaroti puṇyam / [sattvām]*	T04n0213_004:0796a10_13	盡當為一切，　　賢聖福稱上。 普慈於一切，　　愍念眾生類，
+K10udanav_u:uv_31.44_1	bhāvayet kuśalān dharmān yoga kṣemasya prāptaye //	T04n0213_004:0796a14_13	修於諸善法，　　獲致安隱處。
+K10udanav_u:uv_31.45_0	śāntam asya mano bhavati śāntā vāk kāya karma ca /	T04n0213_004:0796a15_0	自則致歡喜，　　身口意相應，
+K10udanav_u:uv_31.45_1	samyag ājñā vimuktasya hy upaśāntasya bhikṣuṇaḥ //	T04n0213_004:0796a16_13	以得等解脫，　　苾芻息意快。 一切諸結盡，　　無復有塵勞，
+K10udanav_u:uv_31.46_0	pañca aṅgikena tūryeṇa na ratir bhavati tādṛśī /	T04n0213_004:0796a18_13	正使五音樂，　　不能悅人意。
+K10udanav_u:uv_31.46_1	yādṛśy eka agra cittasya samyag dharmān vipaśyataḥ //	T04n0213_004:0796a19_0	不如一正心，　　向於平等法，
+K10udanav_u:uv_31.47_0	sukham svapanti munayo na te śocanti māmikām /	T04n0213_004:0796a20_13	最勝得善眼，　　亦不計有我。
+K10udanav_u:uv_31.47_1	yeṣām dhyāna ratam cittam kāmas teṣām na vidyate //	T04n0213_004:0796a21_0	諸有心樂禪，　　不樂於欲意，
+K10udanav_u:uv_31.48_0	sukham modanti munayo na te śocanti māmikām /	T04n0213_004:0796a22_13	最勝踊躍意，　　亦不見有我。
+K10udanav_u:uv_31.48_1	yeṣām dhyāna ratam cittam vartmas teṣām na vidyate //	T04n0213_004:0796a23_0	諸有心樂禪，　　不樂於欲意，
+K10udanav_u:uv_31.49_1	viraktam rajanīyebhyaḥ kopanīye na kupyate /	T04n0213_004:0796a25_0	於染無所染，　　於恚不起恚，
+K10udanav_u:uv_31.49_2	yasya evam bhāvitam cittam kutas tam duhkham eṣyati //	T04n0213_004:0796a26_13	諸有如此心，　　焉知苦蹤跡？
+K10udanav_u:uv_31.6_1	gṛha kāraka eṣamāṇas tvam duhkhā jātiḥ punaḥ punaḥ //	T04n0213_004:0795b17_13	求於屋舍者，　　數數受胞胎。
+K10udanav_u:uv_31.7_0	gṛha kāraka dṛṣṭo asi na punar geham kariṣyasi /	T04n0213_004:0795b18_0	以觀此居屋，　　更不造諸舍，
+K10udanav_u:uv_31.7_1	sarve te pārśukā bhagnā gṛha kūṭam visaṃskṛtam /	T04n0213_004:0795b19_13	梁棧看已壞，　　臺閣則摧折。
+K10udanav_u:uv_31.7_2	visaṃskāra gate citte;iha eva kṣayam adhyagāḥ //	T04n0213_004:0795b20_0	心已離諸行，　　中間是己心，
+K10udanav_u:uv_31.8_0	spandanam capalam cittam durakṣyam durnivāraṇam / [dūrakṣyam]	T04n0213_004:0795b21_13	心多為輕躁，　　難持難調護。
+K10udanav_u:uv_31.8_1	ṛjum karoti medhāvī;iṣu kāra;iva tejasā //	T04n0213_004:0795b22_0	智者能自正，　　如匠搦箭直，
+K10udanav_u:uv_31.9_1	mithyā praṇihitam cittam yat kuryād ātmanā ātmanaḥ // na tam mātā pitā vā api kuryāj jñātis tathā aparaḥ / samyak praṇihitam cittam yat kuryādd hitam ātmanaḥ //	T04n0213_004:0795b24_0	是意皆自造，　　非干父母為， 除邪就正定，　　為福勿迴復。
+K10udanav_u:uv_31.11_0	yathā hy agāram ducchannam vṛṣṭiḥ samatibhindati /	T04n0213_004:0795b26_0	蓋屋若不密，　　天雨則常漏，
+K10udanav_u:uv_31.50_0	na upavādī na upaghātī prīti mokṣe ca saṃvaraḥ /	T04n0213_004:0796a27_0	無害無所染，　　具足於戒律，
+K10udanav_u:uv_31.50_2	adhicitte samāyoga;etad buddhasya śāsanam //	T04n0213_004:0796a29_13	修意求方便，　　是謂諸佛教。
+K10udanav_u:uv_31.51_0	citta nimittasya kovidaḥ pravivekasya rasam prajānakaḥ /	T04n0213_004:0796b01_0	行人觀心相，　　分別念待意，
+K10udanav_u:uv_31.51_1	dhyāyī nipakaḥ pratismṛto vetti prīti sukham nirāmiṣam //	T04n0213_004:0796b02_13	以得入禪定，　　便獲喜安樂。
+K10udanav_u:uv_31.52_0	manaś ca yo rakṣati bhāṣitam ca ceṣṭe ca kāyasya sadā eva yuktaḥ /	T04n0213_004:0796b03_0	護意自莊嚴，　　嫉彼而營己，
+K10udanav_u:uv_31.52_1	sa prāpya śokam hi na duhkhitaḥ syāt satya sthitaḥ satyavidaḥ sumedhāḥ //	T04n0213_004:0796b04_13	遭憂不患苦，　　智者審諦住。
+K10udanav_u:uv_31.53_0	arakṣitena cittena mithyā dṛṣṭi hatena ca /	T04n0213_004:0796b05_0	人不守護心，　　為邪見所害，
+K10udanav_u:uv_31.53_1	stīna middha abhibhūtena vaśam mṛtyor nigacchati / [stīnamiddhābhibhūtena]	T04n0213_004:0796b06_13	兼懷掉戲意，　　斯等就死徑。
+K10udanav_u:uv_31.54_0	tasmād rakṣita cittaḥ syāt samyak saṃkalpa gocaraḥ /	T04n0213_004:0796b07_0	是故當護心，　　等修清淨行，
+K10udanav_u:uv_31.54_1	samyag dṛṣṭi puraskāro jñātvā caiva udaya vyayam /	T04n0213_004:0796b08_13	正見恒在前，　　分別起滅法。
+K10udanav_u:uv_32.49_1	yaś ca dveṣa kṣayam prāptaḥ sa vai bhikṣur nirucyate // uttīrṇo yena vai paṅko marditā grāma kaṇṭakāḥ /	T04n0213_004:0797a22_0	以脫於魔界，　　以勝叢林刺， 及除罵詈者，　　猶憑妙高山。
+K10udanav_u:uv_32.53_0	uttīrṇo yena vai paṅko marditā grāma kaṇṭakāḥ / yaś ca tṛṣṇā kṣayam prāptaḥ sa vai bhikṣur nirucyate // yena jitā grāma kaṇṭakā hy ākrośāś ca vadhāś ca bandhanam ca / yaḥ parvatavat sthito hy aneyaḥ sukha duhkhena na vethate sa bhikṣuḥ // yo na atyasaram na ca atyalīyam jñātvā vitatham imam hi sarva lokam /	T04n0213_004:0797a25_13	觀世如幻夢，　　苾芻勝彼此。
+K10udanav_u:uv_32.55_1	sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yo rāgam udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya /	T04n0213_004:0797a26_0	如蛇脫故皮，　　能斷愛根本， 盡竭欲深泉，　　苾芻勝彼此。
+K10udanav_u:uv_31.50_1	mātrajñatā ca bhakteṣu prāntam ca śayana āsanam /	T04n0213_004:0796a28_0	於食知止足，　　及諸床臥具，
+K10udanav_u:uv_32.56_1	sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yo dveṣam udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yo moham udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797a28_0	如蛇脫故皮，　　能斷於五欲，
+K10udanav_u:uv_32.59_0	yo mānam udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yo lobham udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // tṛṣṇām ya;udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti rāgam visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797a29_13	斷於欲根本，　　苾芻勝彼此。
+K10udanav_u:uv_32.63_0	yas tu utpalitam nihanti dveṣam visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti moham visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti mānam visṛtam sarpa viṣam yathā auṣadhena /	T04n0213_004:0797b01_0	如蛇脫故皮，　　能斷於五結，
+K10udanav_u:uv_32.65_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti lobham visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti tṛṣṇām visṛtam sarpa viṣam yathā auṣadhena /	T04n0213_004:0797b02_13	拔於愛欲刺，　　苾芻勝彼此。
+K10udanav_u:uv_32.67_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b03_0	如蛇脫故皮，　　諸有無家業，
+K10udanav_u:uv_32.68_0	yo rāgam udācchinatty aśeṣam naḍa setum iva sudurbalam mahaughaḥ / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yo dveṣam udācchinatty aśeṣam naḍa setum iva sudurbalam mahaughaḥ /	T04n0213_004:0797b04_13	又斷不善根，　　苾芻勝彼此。
+K10udanav_u:uv_32.69_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b05_0	如蛇脫故皮，　　諸有不熱惱，
+K10udanav_u:uv_32.70_0	yo moham udācchinatty aśeṣam naḍa setum iva sudurbalam mahaughaḥ /	T04n0213_004:0797b06_13	又斷不善根，　　苾芻勝彼此。
+K10udanav_u:uv_32.70_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b07_0	如蛇脫故皮，　　斷欲無遺餘，
+K10udanav_u:uv_33.73_0	yadā hi sveṣu dharmeṣu brāhmaṇaḥ pārago bhavet /	T04n0213_004:0799b18_0	猶如內法本，　　梵志為在表，
+K10udanav_u:uv_33.73_1	atha jāti jarām caiva maraṇam ca ativartate //	T04n0213_004:0799b19_13	知生知老病，　　轉知於死徑。
+K10udanav_u:uv_33.74_0	divā tapati ha ādityo rātrāv ābhāti candramāḥ /	T04n0213_004:0799b20_0	日照照於晝，　　月照照於夜，
+K10udanav_u:uv_1.2_0	evam uktam bhagavatā sarva abhijñena tāyinā /	T04n0213_001:0777a10_0	如是佛世尊，　　一切智中師，
+K10udanav_u:uv_1.3_0	anityā bata saṃskārā utpāda vyaya dharmiṇaḥ /	T04n0213_001:0777a12_0	一切行非常，　　皆是興衰法，
+K10udanav_u:uv_1.3_1	utpadya hi nirudhyante teṣām vyupaśamaḥ sukham //	T04n0213_001:0777a13_13	夫生輒還終，　　寂滅最安樂。
+K10udanav_u:uv_1.5_0	yāni imāny apaviddhāni vikṣiptāni diśo diśam / kapota varṇāny asthīni tāni drṣṭvā iha kā ratiḥ //	T04n0213_001:0777a16_0	人身有形器，　　棄散在諸方， 骸骨如鴿色，　　觀斯有何樂？
+K10udanav_u:uv_1.6_0	yām eva prathamām rātrim garbhe vasati mānavaḥ /	T04n0213_001:0777a18_0	譬如人初夜，　　識託住母胎，
+K10udanav_u:uv_1.7_0	sāyam eke na dṛśyante kālyam dṛṣṭā mahā janāḥ / kālyam ca eke na dṛṣyante sāyam dṛṣṭā mahā janāḥ //	T04n0213_001:0777a20_0	晨朝覩好事，　　夜至則不現， 昨所瞻視者，　　今夕則或無。
+K10udanav_u:uv_1.8_1	daharā api ṃriyante hi narā nāryaś ca-n-ekaśaḥ // [anekaśaḥ] garbha;eke vinaśyante tathā eke sūtikā kule / parisṛptās tathā hy eke tathā eke paridhāvinaḥ //	T04n0213_001:0777a24_0	或有在胎殞，　　或初誕亦亡， 盛壯不免死，　　老耄甘心受。
+K10udanav_u:uv_1.10_0	ye ca vṛddhā ye ca dahrā ye ca madhyama puruṣāḥ / [pūruṣāḥ]	T04n0213_001:0777a26_0	若老或少年，　　及與中年者，
+K10udanav_u:uv_1.10_1	anupūrvam pravrajanti phalam pakvam va bandhanāt // yathā phalānām pakvānām nityam patanato bhayam /	T04n0213_001:0777a27_13	恒被死來侵，　　云何不懷怖？ 命如菓自熟，　　常恐會零落，
+K10udanav_u:uv_1.11_1	evam jātasya martyasya nityam maraṇato bhayam //	T04n0213_001:0777a29_13	生已必有終，　　誰能免斯者？
+K10udanav_u:uv_1.12_0	yathā api kumbha kāreṇa mṛttikā bhājanam kṛtam /	T04n0213_001:0777b01_0	譬如陶家師，　　埏埴作坏器，
+K10udanav_u:uv_1.12_1	sarvam bhedana paryantam evam martyasya jīvitam //	T04n0213_001:0777b02_13	諸有悉破壞，　　人命亦如是。
+K10udanav_u:uv_32.71_0	yo mānam udācchinatty aśeṣam naḍa setum iva sudurbalam mahaughaḥ / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yo lobham udācchinatty aśeṣam naḍa setum iva sudurbalam mahaughaḥ / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // tṛṣṇām ya;udācchinatty aśeṣam naḍa setum iva sudurbalam mahaughaḥ / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b08_13	如拔不牢固，　　苾芻勝彼此。
+K10udanav_u:uv_32.74_0	tṛṣṇām ya;udācchinatty aśeṣam saritām śīghra javām aśoṣayajñaḥ / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b09_0	如蛇脫故皮，　　愛生如流溢，
+K10udanav_u:uv_1.13_1	alpam bhavati vātavyam evam martyasya jīvitam //	T04n0213_001:0777b04_13	絃斷無少聲，　　人命亦如是。
+K10udanav_u:uv_32.76_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b11_0	如蛇脫故皮，　　諸有斷相觀，
+K10udanav_u:uv_32.77_0	yasya vitarkā vidhūpitās tv ādhyātmam vinivartitā hy aśeṣam /	T04n0213_004:0797b12_13	內不造其心，　　苾芻勝彼此。
+K10udanav_u:uv_32.77_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b13_0	如蛇脫故皮，　　貪根若斷盡， 是名真苾芻，　　降伏魔羅軍。
+K10udanav_u:uv_32.78_0	yasya hi vanasā na santi kecin mūlam ca akuśalasya yasya naṣṭam /	T04n0213_004:0797b15_0	得盡苦輪迴，　　瞋根若斷盡，
+K10udanav_u:uv_32.78_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yasya jvarathā na santi kecin mūlam ca akuśalasya yasya naṣṭam / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797b16_13	是名真苾芻，　　解脫諸煩惱。
+K10udanav_u:uv_32.57_0	yo dveṣam udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797c05_13	如藥解蛇毒，　　苾芻能破壞。 如蛇脫故皮，　　調伏瞋恚念，
+K10udanav_u:uv_32.58_0	yo moham udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yo mānam udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // yo lobham udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam // tṛṣṇām ya;udācchinatty aśeṣam bisa puṣpam iva jale ruham vigāhya / sa tu bhikṣur idam jahāt apāram hy urago jīrṇam iva tvacam purāṇam //	T04n0213_004:0797c07_13	如藥解蛇毒，　　苾芻能破壞。
+K10udanav_u:uv_32.62_0	yas tu utpalitam nihanti rāgam visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti dveṣam visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti moham visṛtam sarpa viṣam yathā auṣadhena /	T04n0213_004:0797c08_0	如蛇脫故皮，　　調伏愚癡念，
+K10udanav_u:uv_32.64_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti mānam visṛtam sarpa viṣam yathā auṣadhena /	T04n0213_004:0797c09_13	如藥解蛇毒，　　苾芻能遠離。 如蛇脫故皮，　　調伏憍慢念，
+K10udanav_u:uv_32.65_1	sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti lobham visṛtam sarpa viṣam yathā auṣadhena / sa tu bhikṣur idam jahāty apāram hy urago jīrṇam iva tvacam purāṇam // yas tu utpalitam nihanti tṛṣṇām visṛtam sarpa viṣam yathā auṣadhena /	T04n0213_004:0797c11_13	如藥解蛇毒，　　苾芻能遠離。
+K10udanav_u:uv_33.71_0	yadā hi sveṣu dharmeṣu brāhmaṇaḥ pārago bhavet /	T04n0213_004:0799b11_13	於己法在外，　　梵志為最上。
+K10udanav_u:uv_33.71_1	atha asya ca āsravāḥ sarve;astam gacchanti paśyataḥ //	T04n0213_004:0799b12_0	一切諸有漏，　　皆盡皆無餘， 或復觀於法，　　皆盡皆無餘， 或復觀合會，　　皆盡皆無餘， 或復觀因緣，　　皆盡皆無餘。
+K10udanav_u:uv_33.72_0	yadā hi sveṣu dharmeṣu brāhmaṇaḥ pārago bhavet /	T04n0213_004:0799b16_0	猶如內法本，　　梵志為在表，
+K10udanav_u:uv_1.14_1	- - - ghatano bhavati;evam martyasya jīvitam //	T04n0213_001:0777b06_13	動則向死路，　　壽命亦如是。
+K10udanav_u:uv_1.15_0	yathā nadī pārvatīyā gacchate na nivartate /	T04n0213_001:0777b07_0	如河急駛流，　　往而悉不還，
+K10udanav_u:uv_1.15_1	evam āyur manuṣyāṇām gacchate na nivartate //	T04n0213_001:0777b08_13	人生亦如是，　　逝者皆不迴。
+K10udanav_u:uv_1.16_1	udake daṇḍa rājī iva kṣipram eva vinaśyati // yathā daṇḍena gopālo gāḥ prāpayati gocaram /	T04n0213_001:0777b12_13	如杖擊急水，　　暫開還却合。 如人操杖行，　　牧牛飲飼者，
+K10udanav_u:uv_1.17_1	evam rogair jarā mṛtyuḥ āyuḥ prāpayate nṛṇām //	T04n0213_001:0777b14_13	人命亦如是，　　亦即養命去。
+K10udanav_u:uv_1.18_0	atiyānti hy aho rātrā jīvitam ca uparudhyate /	T04n0213_001:0777b15_0	夫人欲立德，　　晝夜勿空過，
+K10udanav_u:uv_1.18a_0	........................ jīvitam ca uparudhyate / dīrghā jāgarato rātrir dīrgham śrāntasya yojanam /	T04n0213_001:0777b17_0	不寐覺夜長，　　疲倦道路長，
+K10udanav_u:uv_1.19_1	dīrgho bālasya saṃsāraḥ saddharmam avijānataḥ //	T04n0213_001:0777b18_13	愚迷生死長，　　希聞於妙法。
+K10udanav_u:uv_1.20_0	putro me asti dhanam me asti ity evam bālo vihanyate /	T04n0213_001:0777b19_0	有子兼有財，　　慳惜遇散壞，
+K10udanav_u:uv_1.20_1	ātmā eva hy ātmano na asti kasya putraḥ kuto dhanam //	T04n0213_001:0777b20_13	愚夫不自觀，　　何恃有財子？
+K10udanav_u:uv_1.20a_0	maraṇe ........................................... / anekāni sahasrāṇi nara nārī śatāni ca /	T04n0213_001:0777b21_0	百千非算數，　　族姓富男女，
+K10udanav_u:uv_1.32_1	nadīnām vā yathā sroto gacchate na nivartate //	T04n0213_001:0777c16_0	江河無停止，　　駛流去不迴，
+K10udanav_u:uv_1.35_1	śunyo vyapeta vijñāno nirastam vā kaḍaṅgaram // [śūnyo] kim anena śarīreṇa sravatā pūutinā sadā /	T04n0213_001:0777c19_13	地種散壞時，　　神識空何用？
+K10udanav_u:uv_1.36_1	nityam roga abhibhūtena jarā maraṇa bhīruṇā // anena pūti kāyena hy ātureṇa prabhaṅguṇā /	T04n0213_001:0777c20_0	此身多障惱，　　膿漏恒疾患，
+K10udanav_u:uv_1.38_0	iha varṣam kariṣyāmi hemantam grīṣmam eva ca /	T04n0213_001:0777c22_0	今歲雖云在，　　冬夏不久停，
+K10udanav_u:uv_1.40_0	na santi putrās trāṇāya na pitā na api bāndhavāḥ /	T04n0213_001:0777c24_0	父母與兄弟，　　妻子并眷屬，
+K10udanav_u:uv_1.40_1	antakena abhibhūtasya na hi trāṇā bhavanti te //	T04n0213_001:0777c25_13	無常來牽引，　　無能救濟者。
+K10udanav_u:uv_1.41_1	ity evam spandato martyān jarā mṛtyuś ca mardati //	T04n0213_001:0777c27_13	無常老病侵，　　不覺生苦惱。
+K10udanav_u:uv_1.22_0	sarve kṣaya antā nicayāḥ patana antāḥ samucchrayāḥ /	T04n0213_001:0777b25_0	聚集還散壞，　　崇高必墜落，
+K10udanav_u:uv_1.22_1	samyogā viprayoga antā maraṇa antam hi jīvitam // sarve sattvā mariṣyanti maraṇa antam hi jīvitam / [satvā]	T04n0213_001:0777b26_13	生者皆盡終，　　有情亦如是。
+K10udanav_u:uv_1.23_1	yathā karma gamiṣyanti puṇya pāpa phala upagāḥ // narakam pāpa karmāṇaḥ kṛta puṇyās tu sad gatim /	T04n0213_001:0777b27_0	行惡入地獄，　　修善則生天， 若能修善者，　　漏盡得涅槃。 諸佛與菩薩，　　緣覺及聲聞，
+K10udanav_u:uv_1.25_0	na eva antarīk se na samudra madhye na parvatānām vivaram praviśya /	T04n0213_001:0777c02_0	非空非海中，　　非入山窟間，
+K10udanav_u:uv_1.25_1	na vidyate asau pṛthivī pradeśo yatra sthitam na prasaheta mṛtyuH //	T04n0213_001:0777c03_13	無有地方所，　　脫止不受死。
+K10udanav_u:uv_1.26_0	ye ca iha bhūtā bhaviṣyanti vā punaḥ sarve gamiṣyanti prahāya deham /	T04n0213_001:0777c04_0	若住現在世，　　過去及未來， 一切有為事，　　終歸於盡壞。
+K10udanav_u:uv_1.26_1	tām sarva hānim kuśalo viditvā dharme sthito brahmacaryam careta // jīrṇam ca dṛṣṭvā iha tathā eva rogiṇam mṛtam ca dṛṣṭvā vyapayāta cetasam /	T04n0213_001:0777c06_0	智者能離繫，　　恒正念觀察， 常思無漏道，　　是名真智者。
+K10udanav_u:uv_1.27_1	jahau sa dhīro gṛha bandhanāni kāmā hi lokasya na supraheyāḥ //	T04n0213_001:0777c08_0	如囚被繫縛，　　所欲無能益，
+K10udanav_u:uv_1.28_0	jīryanti vai rāja rathāḥ sucitrā hy atho śarīram api jarām upaiti /	T04n0213_001:0777c09_13	亦如朽故車，　　不久見破壞。
+K10udanav_u:uv_1.30_0	yo api varṣa śatam jīvet so api mṛtyu parāyaṇaḥ /	T04n0213_001:0777c12_0	雖壽滿百歲，　　亦被死相隨，
+K10udanav_u:uv_1.30_1	anu hy enam jarā hanti vyādhir vā yadi vā antakaḥ //	T04n0213_001:0777c13_13	為老病所逼，　　患終至後際。
+K10udanav_u:uv_1.31_0	sadā vrajanti hy anivartamānā divā ca rātrau ca vilujyamānāḥ / matsyā;iva atīva hi tapyamānā duhkhena jāti maraṇena yuktāḥ // āyur divā ca rātrau ca caratas tiṣṭhatas tathā /	T04n0213_001:0777c14_0	老至苦纏身，　　晝夜多痛惱， 辛楚有千般，　　如魚入灰火。

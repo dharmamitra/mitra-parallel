@@ -1,0 +1,615 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K01vinv06_u:3598	 te kathayanti /  devatārādhanaṃ kuru putras te bhaviṣyatīti /  so 'putraḥ putrābhinandī śivavaruṇakuberaśakrabrahmādīn anyāṃś ca devatāviśeṣān āyācate	K01D0001-3_H0001-3:164b-12	དེས་རིགས་མཉམ་པ་ལས་ཆུང་མ་བླངས་ནས་དེ་བུ་མེད་ཅིང་བུ་མངོན་པར་འདོད་པས་ཞི་བ་དང་། ཆུ་ལྷ་དང་། ལུས་ངན་དང་། བརྒྱ་བྱིན་དང་། ཚངས་པ་ལ་སོགས་པ་ལ་གསོལ་བ་འདེབས་ཤིང་། ལྷའི་བྱེ་བྲག་གཞན་ཡང་།
+K01vinv06_u:3601	 tadyathā ārāmadevatā vanadevatāś catvaradevatāḥ śṛṅgāṭakadevatā balipratigrāhikā  devatāḥ sahajāḥ sahadharmikā nityānubaddhā api devatā āyācate /	K01D0001-3_H0001-3:164b-14	འདི་ལྟ་སྟེ་། ཀུན་དགའ་ར་བའི་ལྷ་དག་དང་། ཚལ་གྱི་ལྷ་དག་དང་། བཞི་མདོའི་ལྷ་དག་དང་། སུམ་མདོའི་ལྷ་དག་དང་། གཏོར་མ་ལེན་པའི་ལྷ་དང་། ལྷན་ཅིག་སྐྱེས་པ་དང་། ཆོས་མཐུན་པའི་ལྷ་དག་དང་། རྟག་ཏུ་རྗེས་སུ་འབྲང་བའི་ལྷ་དག་ལ་ཡང་གསོལ་བ་འདེབས་སོ་༎
+K01vinv06_u:3603	 asti caiṣa loke pravādo yadāyācanahetoḥ putrā jāyante duhitaraś ca /	K01D0001-3_H0001-3:164b-16	འཇིག་རྟེན་ན་གང་དག་གསོལ་བ་འདེབས་པའི་རྒྱུ་ལས་། བུ་ཕོ་དང་། བུ་མོ་དག་སྐྱེའོ་ཞེས་བྱ་བའི་གཏམ་དེ་ལྟ་བུ་ཡོད་དོ་༎
+K01vinv06_u:3604	 tac ca naivam* /	K01D0001-3_H0001-3:164b-18	དེ་ནི་། དེ་ལྟ་མ་ཡིན་ཏེ་།
+K01vinv06_u:3605	 yady evam abhaviṣyad ekaikasya putrasahasram abhaviṣyat tadyathā rājñaś cakravartinaḥ /	K01D0001-3_H0001-3:164b-19	གལ་ཏེ་དེ་ལྟར་གྱུར་དུ་ཟིན་ན་། དཔེར་ན་། འཁོར་ལོས་བསྒྱུར་བའི་རྒྱལ་པོ་བཞིན་དུ་བུ་སྟོང་སྟོང་ཡོད་པར་འགྱུར་རོ་༎
+K01vinv06_u:3606	 api tu trayāṇāṃ sthānānāṃ saṃmukhībhāvāt putrā jāyante duhitaraś ca /	K01D0001-3_H0001-3:164b-23	འོན་ཀྱང་གནས་གསུམ་པོ་དག་མངོན་དུ་གྱུར་པ་ལས་། བུ་༄༡༦༥ཨ་༌༎ ཕོ་དང་། བུ་མོ་དག་སྐྱེ་བར་འགྱུར་ཏེ་།
+K01vinv06_u:3607	 katameṣāṃ trayāṇām* /	K01D0001-3_H0001-3:165a-1	གསུམ་པོ་དེ་དག་གང་ཞེ་ན་།
+K01vinv06_u:1450	 vairaṃbhye koṭarayavān paribhuktavān sārdhaṃ bhikṣudvyūnaiḥ paṃcabhir bhikṣuśataiḥ /  āyuṣmantau śāriputramaudgalyāyanau (fol. 153v1 = GBM 6.975)	K01D0001-3_H0001-3:4a-18	ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་དང་། མོའུ་འགལ་གྱི་བུ་གཉིས་ནི་།
+K01vinv06_u:1452	 divyāṃ sudhām iti /	K01D0001-3_H0001-3:4a-19	ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱད་ལགས་།
+K01vinv06_u:1453	 bhagavān āha /	K01D0001-3_H0001-3:4a-20	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:1454	 tathāgatenaiva etāni bhikṣavaḥ pūrvam anyāsu jātiṣu karmāṇi kṛtāny upacitāni labdhasaṃbhārāṇi pūrvavad yāvat phalanti khalu dehinām* /	K01D0001-3_H0001-3:4a-21	དགེ་སློང་དག་། དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་ཚེ་རབས་གཞན་རྣམས་སུ་ལས་རྣམས་བྱས་ཤིང་བསགས་ཞེས་བྱ་བ་ནས་། འབྲས་བུ་དག་ཏུ་འགྱུར་བ་ཉིད་༎
+K01vinv06_u:1455	 bhūtapūrvaṃ bhikṣavaḥ aśītivarṣasahasrāyuṣi prajāyāṃ vipaśyī nāma samyaksaṃbuddho	K01D0001-3_H0001-3:4a-25	དགེ་སློང་དག་། སྔོན་བྱུང་བ་སྐྱེ་རྒུ་རྣམས་ཀྱིས་ཚེ་ལོ་༄༤བ་བརྒྱད་ཁྲི་ཐུབ་པ་ན་། འཇིག་རྟེན་དུ་སྟོན་པ་རྣམ་པར་གཟིགས་ཞེས་བྱ་བ་ཞིག་བྱུང་ནས་ཞེས་བྱ་བ་ནས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:1459	 tena khalu samayena bandhumatyāṃ rājadhānyām anyatamo gaṇavācako brāhmaṇaḥ pāñcaśatikaṃ gaṇaṃ brāhmaṇakān maṃtrān pāṭhayati /	K01D0001-3_H0001-3:4b-3	རྒྱལ་པོའི་ཕོ་བྲང་བཤེས་ལྡན་དུ་བྱོན་ཏོ་༎ བཤེས་ལྡན་དེའི་བྲམ་ཟེ་ཞིག་། བྲམ་ཟེའི་ཁྱེའུ་ལྔ་བརྒྱ་ལ་། བྲམ་ཟེ་རྣམས་ཀྱི་གསང་ཚིག་ཀློག་ཏུ་འཇུག་གོ་།
+K01vinv06_u:1471	 nārhantīme muṇḍakāḥ śramaṇakā nānāsūpikarasavyaṃjanopetaṃ śālyodanaṃ paribhoktum* /	K01D0001-3_H0001-3:4b-9	ཤེས་ལྡན་དག་། དགེ་སྦྱོང་མགོ་རེག་འདི་དག་ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱོད་པའི་འོས་མ་ཡིན་གྱི་།
+K01vinv06_u:1472	 arhanti tu koṭarayavān paribhoktum iti /	K01D0001-3_H0001-3:4b-11	ནས་རུལ་བ་ཟ་བའི་འོས་ཡིན་ནོ་༎
+K01vinv06_u:1473	 tair apy anusaṃvarṇitam* /	K01D0001-3_H0001-3:4b-12	དེ་རྣམས་ཀྱིས་ཀྱང་རྗེས་སུ་ཡི་རང་བ་བྱས་ཏེ་།
+K01vinv06_u:1474	 evam etad upādhyāya evam etat* /	K01D0001-3_H0001-3:4b-13	མཁན་པོ་། དེ་མད་དེ་།
+K01vinv06_u:1475	 nārhanty eva ime muṇḍakāḥ śramaṇakā nānāsūpikarasavyaṃjanopetaṃ śālyodanaṃ paribhoktum* /	K01D0001-3_H0001-3:4b-14	དགེ་སྦྱོང་མགོ་རེག་འདི་དག་ནི་། ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱོད་པའི་འོས་མ་ལགས་ཀྱི་།
+K01vinv06_u:1476	 arhanti tu koṭarayavān paribhoktum iti /	K01D0001-3_H0001-3:4b-16	ནས་རུལ་པ་འཚལ་བའི་འོས་ལགས་སོ་༎
+K01vinv06_u:1478	 tau kathayataḥ /  upādhyāya maivaṃ vocuḥ /	K01D0001-3_H0001-3:4b-18	མཁན་པོས་ནི་མ་ལེགས་པ་ཞིག་གསུངས་ཏེ་།
+K01vinv06_u:1480	 mahātmāna ete 'rhanty eva divyāṃ sudhāṃ paribhoktuṃ na koṭarayavān iti /	K01D0001-3_H0001-3:4b-19	བདག་ཉིད་ཆེན་པོ་འདི་དག་ནི་། ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱོད་པའི་འོས་ལགས་སོ་༎
+K01vinv06_u:1481	 kiṃ manyadhve bhikṣavaḥ /	K01D0001-3_H0001-3:4b-21	དགེ་སློང་དག་། ཇི་སྙམ་དུ་སེམས་།
+K01vinv06_u:1482	 yo 'sau vipaśyitathāgatena gaṇavācako brāhmaṇaḥ aham eva sa tena kālena tena samayena /  yāni tāni dvyūnāni paṃca māṇavakaśatāni etāny eva paṃca bhikṣuśatāni /	K01D0001-3_H0001-3:4b-23	དེའི་ཚེ་དེའི་དུས་ཀྱི་བྲམ་ཟེ་ལྔ་བརྒྱ་ཅན་གག་ཡིན་པ་དེ་ནི་། ང་ཉིད་ཡིན་ཏེ་།
+K01vinv06_u:1484	 yau tau dvau māṇavakau śrāddhau bhadrau kalyāṇāśayau etāv eva tau śāriputramaudgalyāyanau bhikṣū /  yan mayā vipaśyinaḥ samyaksaṃbuddhasya śaikṣāśaikṣāṇāṃ śrāvakāṇām antike cittaṃ pradūṣya	K01D0001-3_H0001-3:4b-25	ངས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་གཟིགས་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པ་ལ་ངག་གི་ལས་རྩུབ་མོས་ཕྱུང་བ་གང་ཡིན་པ་དེའི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་།
+K01vinv06_u:5318	 katarad asādhāraṇam* /	K01D0001-3_H0001-3:1b-2	ཐུན་མོང་མ་ཡིན་པ་གང་ཞེ་ན་།
+K01vinv06_u:5319	 bhūtapūrvaṃ bhikṣavo vārāṇasyāṃ brahmadatto nāma rājā rājyaṃ kārayati ṛddhaṃ ceti vistareṇa /	K01D0001-3_H0001-3:1b-3	དགེ་སློང་དག་། སྔོན་བྱུང་བ་ཝའ་ར་ནའ་སིའི་གྲོང་ཁྱེར་དུ་། རྒྱལ་པོ་ཚངས་སྦྱིན་ཞེས་བྱ་བ་རྒྱལ་སྲིད་བྱེད་དུ་འཇུག་སྟེ་། འབྱོར་པ་དང་ཞེས་བྱ་བ་ནས་རྒྱས་པར་བྱ་སྟེ་།
+K01vinv06_u:5322	 tena tasyā vastrālaṃkāram anupreṣitaṃ paricāraṇāya /  sā tad vastrālaṃkāraṃ prāvṛtā /	K01D0001-3_H0001-3:2a-0	དེས་དེ་དགའ་མགུར་སྤྱད་པའི་ཕྱིར་གོས་༄༢ཨ་༌༎ དང་། རྒྱན་རྣམས་བསྐུར་བ་དང་། དེས་གོས་དང་རྒྱན་རྣམས་བགོས་ནས་སོང་བ་ལས་།
+K01vinv06_u:5320	 tena khalu samayena bhadrā nāma rūpājīvinī prativasati /  mṛṇālaś ca nāma dhūrtapuruṣaḥ /	K01D0001-3_H0001-3:1b-7	དེའི་ཚེ་སྨད་ཚོང་མ་བཟང་མོ་ཞེས་བྱ་བ་དང་། སྐྱེས་བུ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་ཅེས་བྱ་བ་ཞིག་གནས་སོ་༎
+K01vinv06_u:5324	 anyatamaś ca puruṣa paṃcakārṣāpaṇaśatāny ādāya upasthitaḥ /  kathayati /	K01D0001-3_H0001-3:2a-2	སྐྱེས་པ་གཞན་ཞིག་ཀྱང་དོང་ཚེ་ལྔ་བརྒྱ་ཐོགས་ཏེ་འོངས་ནས་།
+K01vinv06_u:5326	 bhadre āgaccha paricārayāva iti /	K01D0001-3_H0001-3:2a-3	བཟང་མོ་། དགའ་མགུར་སྤྱོད་ཀྱི་། ཚུར་ཤོག་ཅེས་སྨྲས་སོ་༎
+K01vinv06_u:5327	 sā saṃlakṣayati /	K01D0001-3_H0001-3:2a-5	དེས་བསམས་པ་།
+K01vinv06_u:5328	 yadi gamiṣyāmi paṃca kārṣāpaṇaśatāni na lapsye /	K01D0001-3_H0001-3:2a-6	གལ་ཏེ་སོང་ན་ནི་། དོང་ཚེ་ལྔ་བརྒྱ་ཡང་མི་ཐོབ་ལ་།
+K01vinv06_u:5329	 adakṣiṇyaṃ caitat gṛhāgataṃ pratyākhyāya anyatra gamanam iti /	K01D0001-3_H0001-3:2a-8	ཁྱིམ་དུ་འོངས་པ་བོར་ཏེ་གཞན་དུ་འགྲོ་བ་འདི་ནི་། གསོལ་ཀ་མི་ཡང་བར་ཡང་འགྱུར་རོ་༎
+K01vinv06_u:5330	 tayā preṣyadārikā uktā /	K01D0001-3_H0001-3:2a-10	སྙམ་ནས་། དེས་བུ་མོ་མངག་གཞུག་མ་ལ་སྨྲས་པ་།
+K01vinv06_u:5331	 gaccha mṛṇālasya kathaya āryā kathayati na tāvad ahaṃ sajjā paścād āgamiṣyāmīti /	K01D0001-3_H0001-3:2a-11	སོང་ལ་པདམའི་རྩ་ལག་ལ་ཇོ་བོ་རེ་ཞིག་བདག་གིས་སྟ་གོན་མ་བགྱིས་ཀྱི་།
+K01vinv06_u:5351	 saṃjātāmarṣaḥ kathayati /  dārike bhadrāyā gatvā kathaya amukam udyānaṃ gaccheti /  tayā gatvā bhadrāyā ārocitam* /	K01D0001-3_H0001-3:2b-25	སྐྱེད་མོས་ཚལ་ག་གེ་མོ་ཞིག་ཏུ་ཤོག་ཅིག་ཅེས་ཟེར་རོ་ཞེས་སྨྲོས་ཤིག་། དེས་སོང་ནས་བཟང་མོ་ལ་སྨྲས་པ་དང་། དེ་ནས་དེ་སྐྱེད་༄༣ཨ་༌༎
+K01vinv06_u:5345	 tayā samākhyātam* /  āryaputra nāsau sajjā /	K01D0001-3_H0001-3:2b-22	དེ་མི་བཟོད་པ་སྐྱེས་ནས་སྨྲས་པ་།
+K01vinv06_u:5354	 sā tad udyānaṃ gatā /  mṛṇālena dhūrtakapuruṣeṇoktā /	K01D0001-3_H0001-3:3a-1	མོས་ཚལ་དེར་སོང་བ་དང་། སྐྱེས་བུ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་གིས་སྨྲས་པ་།
+K01vinv06_u:5356	 yuktaṃ nāma tava madīyena vastrālaṃkāreṇa anyena puruṣeṇa sārdhaṃ paricaritum iti /	K01D0001-3_H0001-3:3a-2	ཁྱོད་ཁོ་བོའི་གོས་དང་རྒྱན་གྱིས་གཞན་དང་ལྷན་ཅིག་དགའ་མགུར་ཡོངས་སུ་སྤྱད་པ་ཇི་ག་རིགས་སམ་།
+K01vinv06_u:5357	 sā kathayati /	K01D0001-3_H0001-3:3a-3	དེས་སྨྲས་པ་།
+K01vinv06_u:5358	 āryaputra asti eva mamāparādhaḥ /	K01D0001-3_H0001-3:3a-4	རྗེའི་སྲས་། འདི་ནི་། བདག་གིས་ནོངས་ལགས་ཏེ་།
+K01vinv06_u:5359	 kin tu nityāparādho mātṛgrāmaḥ kṣamasveti /	K01D0001-3_H0001-3:3a-6	འོན་ཀྱང་བུད་མེད་ནི་། རྟག་ཏུ་སྐྱོན་ཅན་ལགས་ཀྱི་། བཟོད་པར་མཛོད་ཅིག་།
+K01vinv06_u:5360	 tatas tena saṃjātāmarṣeṇa [fol._219r1] niṣkoṣam asiṃ kṛtvā jīvitād vyaparopitā /	K01D0001-3_H0001-3:3a-9	དེ་ནས་དེས་མི་བཟོད་པ་སྐྱེས་ནས་། རལ་གྲི་ཤུབས་ནས་ཕྱུང་སྟེ་སྲོག་དང་བྲལ་ལོ་༎
+K01vinv06_u:5361	 tatas tayā preṣyadārikayā mahān kolāhalaśabdaḥ kṛtaḥ /	K01D0001-3_H0001-3:3a-11	དེ་ནས་བུ་མོ་དེས་།
+K01vinv06_u:5362	 āryā praghātitā āryā praghātitena śrutvā mahājanakāyaḥ pradhāvito [GBM_6.1071a] yāvat tasminn udyāne surucir nāma pratyekabuddho dhyāyati /	K01D0001-3_H0001-3:3a-12	ཇོ་མོ་བསད་དོ་༎ ཇོ་མོ་བསད་དོ་ཞེས་ཀུ་ཅོའི་སྒྲ་ཆེན་པོ་བཏོན་པ་དེ་། སྐྱེ་བོའི་ཚོགས་ཆེན་པོས་ཐོས་ནས་བརྒྱུགས་སོ་༎ དེ་ཙམ་ན་སྐྱེད་མོས་ཚལ་དེ་ན་། རང་སངས་རྒྱས་ལེགས་སྨོན་ཞེས་བྱ་བ་བསམ་གཏན་བྱེད་དོ་༎
+K01vinv06_u:5363	 tato 'sau mṛṇālo  dhūrtapuruṣaḥ saṃtrasto rudhiramrakṣitam asiṃ suruceḥ pratyekabuddhasya purastāc chorayitvā tasyaiva mahājanakāyasya madhyaṃ praviṣṭaḥ /	K01D0001-3_H0001-3:3a-17	དེ་ནས་སྐྱེས་བུ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་དེས་སྐྲག་ནས་། རལ་གྲི་ཁྲག་ཅན་རང་སངས་རྒྱས་ལེགས་སྨོན་གྱི་དྲུང་དུ་པོར་ནས་། སྐྱེ་བོའི་ཚོགས་ཆེན་པོ་དེ་ཉིད་ཀྱི་ནང་དུ་ཞུགས་སོ་༎
+K01vinv06_u:5365	 mahājanakāyaś ca rudhiramrakṣitam asiṃ dṛṣṭvā anena pravrajitena bhadrā (MSV I 215)  jīvitād vyaparopitā /	K01D0001-3_H0001-3:3a-20	སྐྱེ་བོའི་ཚོགས་ཆེན་པོས་རལ་གྲི་ཁྲག་ཅན་མཐོང་ནས་། རབ་ཏུ་བྱུང་བ་འདིས་བཟང་མོ་སྲོག་དང་བྲལ་ལོ་༎
+K01vinv06_u:5367	 tatas taṃ pratyekabuddhaṃ saṃjātāryāḥ kathayanti /	K01D0001-3_H0001-3:3b-0	ཞེས་དེ་ནས་རང་སངས་རྒྱས་དེ་ཀུན་ནས་བསྐོར་༄༣བ་ནས་། མི་བཟོད་པ་བསྐྱེད་དེ་སྨྲས་པ་།
+K01vinv06_u:5368	 bhoḥ pravrajita ṛṣidhvajaṃ dhārayasi /  īdṛśaṃ nāma karoṣīti /	K01D0001-3_H0001-3:3b-2	ཀྱེ་། རབ་ཏུ་བྱུང་བ་དྲང་སྲོང་གི་རྒྱལ་མཚན་བསྲེལ་ནས་འདི་འདྲ་བའི་ལས་བྱེད་དམ་།
+K01vinv06_u:5370	 sa kathayati /  kiṃ kṛtam* /	K01D0001-3_H0001-3:3b-3	དེས་སྨྲས་པ་། ཅི་ཞིག་བྱས་།
+K01vinv06_u:5372	 te kathayanti /	K01D0001-3_H0001-3:3b-5	དེ་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5373	 bhadrayā te sārdhaṃ paricāritam* /  sā jīvitād vyaparopiteti /	K01D0001-3_H0001-3:3b-6	ཁྱོད་ཀྱིས་བཟང་མོ་དང་ལྷན་ཅིག་དགའ་མགུར་སྤྱད་ནས་། དེ་སྲོག་དང་ཕྲལ་ལོ་༎
+K01vinv06_u:5375	 sa kathayati /	K01D0001-3_H0001-3:3b-8	དེས་སྨྲས་པ་།
+K01vinv06_u:5376	 śāntaṃ nāham asya karmaṇaḥ kārīti /	K01D0001-3_H0001-3:3b-9	རྣ་བས་མི་བཟོད་དོ་༎ ང་ནི་། ལས་འདི་མི་བྱེད་དོ་༎
+K01vinv06_u:5377	 sa śāntavādy api tena mahājanakāyena paścādbāhugāḍhabandhanabaddho rājña upanāmitaḥ /	K01D0001-3_H0001-3:3b-11	དེས་རྣ་བས་མི་བཟོད་པའི་ཚིག་སྨྲས་ཀྱང་སྐྱེ་བོའི་ཚོགས་ཆེན་པོ་དེས་ལག་པ་ཕྱིན་ཀ་ལོག་ཏུ་དམ་དུ་བཅིངས་ནས་རྒྱལ་པོ་ལ་ཕུལ་ཏེ་།
+K01vinv06_u:5378	 devānena pravrajitena bhadrayā sārdhaṃ paricaritam* /	K01D0001-3_H0001-3:3b-12	ལྷ་། རབ་ཏུ་བྱུང་བ་འདིས་བཟང་མོ་དང་ལྷན་ཅིག་དགའ་མགུར་སྤྱད་ནས་།
+K01vinv06_u:5379	 sā jīvitād vyaparopiteti /	K01D0001-3_H0001-3:3b-13	དེ་སྲོག་དང་བྲལ་ལགས་སོ་༎
+K01vinv06_u:5380	 aparīkṣakā hi rājānaḥ /  kathayati /	K01D0001-3_H0001-3:3b-14	རྒྱལ་པོ་དག་མི་རྟོག་པ་ཡིན་པས་། དེས་སྨྲས་པ་།
+K01vinv06_u:5382	 yady evaṃ gacchata ghātayata /  parityakto 'yaṃ mayā pravrajita iti /	K01D0001-3_H0001-3:3b-16	གལ་ཏེ་དེ་ལྟ་ན་། རབ་ཏུ་བྱུང་བ་འདི་ངས་སྤངས་ཀྱི་། དེངས་ལ་སོད་ཅིག་།
+K01vinv06_u:5384	 tato 'sau karavīramālāvasaktakaṇṭhaguṇo nīlāmbaravasanaiḥ puruṣair udyataśastraiḥ saṃparivārito rathyāvīthicatvaraśṛṅgāṭakeṣv anuśrāvyamāno nagarād udyānābhimukho nīyate /	K01D0001-3_H0001-3:3b-19	དེ་ནས་དེའི་མགུལ་ནས་མེ་ཏོག་ཀའ་ར་བའི་རའི་ཕྲེང་བ་བཏགས་ནས་། གཤེད་མ་གོས་སྔོན་པོ་གྱོན་པ་། མཚོན་ཐོགས་པ་རྣམས་ཀྱིས་ཡོངས་སུ་བསྐོར་ནས་། ལམ་པོ་ཆེ་དང་། ཚོང་དུས་དང་། བཞི་མདོ་དང་། སུམ་མདོ་རྣམས་སུ་བསྒྲགས་ཏེ་། གྲོང་ཁྱེར་ནས་སྐྱེད་མོས་ཚལ་ལོགས་སུ་ཁྲིད་དོ་༎
+K01vinv06_u:5385	 tato mṛṇālasya dhūrtapuruṣasya buddhir utpannā ayaṃ tapasvī pravrajita adūṣyanapakārī abhūtenābhyākhyātaḥ /	K01D0001-3_H0001-3:3b-24	དེ་ནས་སྐྱེས་བུ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་གི་བློ་སྐྱེས་པས་། རབ་ཏུ་བྱུང་བ་དཀའ་ཐུབ་ཅན་། སྐྱོན་མེད་པ་། ཉེས་པ་མི་བྱེད་པ་འདི་ལ་ཡང་དག་པ་མ་ཡིན་པས་སྐུར་པ་བཏབ་པས་།
+K01vinv06_u:5386	 so 'yam idānīṃ praghātyate /	K01D0001-3_H0001-3:3b-28	ད་འདི་གསད་པ་ལ་ཐུག་ན་།
+K01vinv06_u:5389	 iti viditvā parāvṛtya rājñaḥ sakāśam upasaṃkrāntaḥ pādayor nipatya kathayati /	K01D0001-3_H0001-3:3b-31	སྙམ་དུ་བསམ་ནས་། སླར་ལོག་སྟེ་། རྒྱལ་པོའི་དྲུང་དུ་སོང་ནས་། རྐང་པ་གཉིས་ལ་གཏུགས་༄༤ཨ་༌༎
+K01vinv06_u:5387	 na mama pratirūpaṃ syāt* /  yad aham apy upekṣeya /	K01D0001-3_H0001-3:3b-29	བདག་གིས་ཡལ་བར་དོར་བ་ནི་། བདག་གི་ཆ་མ་ཡིན་ནོ་༎
+K01vinv06_u:5390	 deva nāyaṃ pravrajito 'sya karmaṇaḥ kārī mayaitat pāpakaṃ karma kṛtam* /	K01D0001-3_H0001-3:4a-1	ཏེ་སྨྲས་པ་། ལྷ་། རབ་ཏུ་བྱུང་བ་འདིས་ནི་། ལས་འདི་མ་བགྱིས་ཏེ་། སྡིག་པའི་ལས་འདི་ནི་། བདག་གིས་བགྱིས་ཀྱི་།
+K01vinv06_u:5391	 mucyatām ayaṃ pravrajita iti /	K01D0001-3_H0001-3:4a-6	རབ་ཏུ་བྱུང་བ་འདི་གཏང་བར་གསོལ་།
+K01vinv06_u:5392	 kiṃ manyadhve bhikṣavaḥ /	K01D0001-3_H0001-3:4a-7	དགེ་སློང་དག་། ཇི་སྙམ་དུ་སེམས་།
+K01vinv06_u:5393	 yo 'sau mṛṇālo nāma dhūrtaḥ ahaṃ sa tena kālena tena samayena /	K01D0001-3_H0001-3:4a-9	དེའི་ཚེ་དེའི་དུས་ཀྱི་སྐྱེས་པ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་གང་ཡིན་པ་དེ་། ང་ཉིད་ཡིན་ཏེ་།
+K01vinv06_u:5394	 yan mayā pratyekabuddho 'bhūtenābhyākhyātas tasyāhaṃ karmaṇo vipākena bahūni varṣāṇi pūrvavad yāvan narakeṣu pakvaḥ /	K01D0001-3_H0001-3:4a-11	ངས་རང་སངས་རྒྱས་ལ་ཡང་དག་པ་མ་ཡིན་པས་སྐུར་པ་བཏབ་པ་གང་ཡིན་པ་དེའི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་ལོ་མང་པོ་དང་ཞེས་བྱ་བ་ནས་སེམས་ཅན་དམྱལ་བ་རྣམས་སུ་བཙོས་སོ་ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5395	 tena ca (MSV I 216) karmāvaśeṣeṇa caṃcāmāṇavikayā abhūtenākhyātaḥ /	K01D0001-3_H0001-3:4a-12	ལས་ཀྱི་ལྷག་མ་དེ་ཁོ་ནས་། ད་ལྟར་ང་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ་ན་ཡང་བྲམ་ཟེའི་བུ་མོ་རཙབ༹་མིས་ཡང་དག་པ་མ་ཡིན་པས་སྐུར་བ་བཏབ་སྟེ་།
+K01vinv06_u:5397	 kiṃ bhadanta bhagavatā karma kṛtaṃ yasya karmaṇo vipākena vairaṃbheṣu yavān paribhuktavān	K01D0001-3_H0001-3:4a-15	བཙུན་པ་། བཅོམ་ལྡན་འདས་ཀྱིས་འཕྲིན་ལས་ཅི་ཞིག་མཛད་ན་། འཕྲིན་ལས་དེའི་རྣམ་པར་སྨིན་པས་།
+K01vinv06_u:5398	 sārdhaṃ bhikṣudvayonaiḥ pañcabhir bhikṣuśatair āyuṣman* śāriputramaudgalyāyanābhyāṃ	K01D0001-3_H0001-3:4a-17	ཡུལ་དགྲ་མཐར་དགེ་སློང་གཉིས་ཀྱིས་ལྔ་བརྒྱར་མ་ཚང་བའི་དགེ་སློང་རྣམས་དང་ཐབས་ཅིག་ནས་རུལ་གསོལ་ལ་། ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་དང་། མོའུ་འགལ་གྱི་བུ་གཉིས་ནི་།
+K01vinv06_u:5399	 divyā sudhā paribhukteti /	K01D0001-3_H0001-3:4a-19	ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱད་ལགས་།
+K01vinv06_u:5400	 bhagavān āha /	K01D0001-3_H0001-3:4a-20	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5403	 yo 'śītivarṣasahasrāyuṣi prajāyāṃ vipaśyī nāma śāstā loka utpannaḥ /  pūrvavad yāvad buddho bhagavān* /	K01D0001-3_H0001-3:4a-25	དགེ་སློང་དག་། སྔོན་བྱུང་བ་སྐྱེ་རྒུ་རྣམས་ཀྱིས་ཚེ་ལོ་༄༤བ་བརྒྱད་ཁྲི་ཐུབ་པ་ན་། འཇིག་རྟེན་དུ་སྟོན་པ་རྣམ་པར་གཟིགས་ཞེས་བྱ་བ་ཞིག་བྱུང་ནས་ཞེས་བྱ་བ་ནས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5401	 tathāgatenaiva bhikṣavaḥ pūrvam anyāsu jātiṣu karmāṇi kṛtāni upacitāni /	K01D0001-3_H0001-3:4a-21	དགེ་སློང་དག་། དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་ཚེ་རབས་གཞན་རྣམས་སུ་ལས་རྣམས་བྱས་ཤིང་བསགས་ཞེས་བྱ་བ་ནས་།
+K01vinv06_u:5405	 sa janapadacārikāṃ caran bandhumatīrājadhānīm anuprāptaḥ /	K01D0001-3_H0001-3:4b-2	དེས་འཁོར་དྲུག་ཁྲི་དང་ལྗོངས་རྒྱུ་ཞིང་གཤེགས་པ་ན་། རྒྱལ་པོའི་ཕོ་བྲང་བཤེས་ལྡན་དུ་བྱོན་ཏོ་༎
+K01vinv06_u:5406	 tasyāṃ bandhumatyām anyatamo brāhmaṇaḥ paṇcamāṇavakaśatāni brāhmaṇānāṃ mantrān vācayati /	K01D0001-3_H0001-3:4b-4	བཤེས་ལྡན་དེའི་བྲམ་ཟེ་ཞིག་། བྲམ་ཟེའི་ཁྱེའུ་ལྔ་བརྒྱ་ལ་། བྲམ་ཟེ་རྣམས་ཀྱི་གསང་ཚིག་ཀློག་ཏུ་འཇུག་གོ་།
+K01vinv06_u:5407	 tena vipaśyī samyaksaṃbuddhaḥ pañcaśataparivāro dṛṣṭaḥ /	K01D0001-3_H0001-3:4b-7	དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་གཟིགས་འཁོར་ལྔ་བརྒྱ་དག་མཐོང་ནས་།
+K01vinv06_u:5408	 sa māṇavakān [fol._219v1] āmantrayate /	K01D0001-3_H0001-3:4b-8	དེས་བྲམ་ཟེའི་ཁྱེའུ་རྣམས་ལ་སྨྲས་པ་།
+K01vinv06_u:5409	 nārhanti bhavanto 'mī muṇḍakāḥ śramaṇakā divyāṃ sudhām arhanti tu koṭarayavān paribhoktum iti /	K01D0001-3_H0001-3:4b-9	ཤེས་ལྡན་དག་། དགེ་སྦྱོང་མགོ་རེག་འདི་དག་ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱོད་པའི་འོས་མ་ཡིན་གྱི་། ནས་རུལ་བ་ཟ་བའི་འོས་ཡིན་ནོ་༎
+K01vinv06_u:5410	 tair abhyanumoditam* /	K01D0001-3_H0001-3:4b-12	དེ་རྣམས་ཀྱིས་ཀྱང་རྗེས་སུ་ཡི་རང་བ་བྱས་ཏེ་།
+K01vinv06_u:5412	 tatra dvau māṇavakau śuklau /	K01D0001-3_H0001-3:4b-17	དེ་ནས་ཡང་བྲམ་ཟེའི་ཁྱེའུ་དཀར་པོ་ཅན་གཉིས་ཤིག་གིས་སྨྲས་པ་།
+K01vinv06_u:5411	 evam evaitad upādhyāya nārhanty evāmī muṇḍakāḥ śramaṇakā divyāṃ sudhāṃ [GBM_6.1071b] bhoktum arhanti tu koṭarayavān paribhoktum iti /	K01D0001-3_H0001-3:4b-13	མཁན་པོ་། དེ་མད་དེ་། དགེ་སྦྱོང་མགོ་རེག་འདི་དག་ནི་། ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱོད་པའི་འོས་མ་ལགས་ཀྱི་། ནས་རུལ་པ་འཚལ་བའི་འོས་ལགས་སོ་༎
+K01vinv06_u:5413	 tau kathayataḥ /  upādhyāya na śobhanam uktam* /	K01D0001-3_H0001-3:4b-18	མཁན་པོས་ནི་མ་ལེགས་པ་ཞིག་གསུངས་ཏེ་།
+K01vinv06_u:5415	 arhanty evāmī mahātmāno divyāṃ sudhāṃ paribhoktum iti /	K01D0001-3_H0001-3:4b-19	བདག་ཉིད་ཆེན་པོ་འདི་དག་ནི་། ལྷའི་ཞལ་ཟས་ལ་ལོངས་སྤྱོད་པའི་འོས་ལགས་སོ་༎
+K01vinv06_u:5416	 kiṃ manyadhve bhikṣavaḥ /	K01D0001-3_H0001-3:4b-21	དགེ་སློང་དག་། ཇི་སྙམ་དུ་སེམས་།
+K01vinv06_u:5417	 yo 'sau pañcaśataparivāro brāhmaṇaḥ aham eva sa tena kālena tena samayena /	K01D0001-3_H0001-3:4b-23	དེའི་ཚེ་དེའི་དུས་ཀྱི་བྲམ་ཟེ་ལྔ་བརྒྱ་ཅན་གག་ཡིན་པ་དེ་ནི་། ང་ཉིད་ཡིན་ཏེ་།
+K01vinv06_u:5418	 yan mayā vipaśyinaḥ samyaksaṃbuddhasya saśrāvakasaṃghasyāntike kharaṃ (MSV I 217)	K01D0001-3_H0001-3:4b-25	ངས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་གཟིགས་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པ་ལ་ངག་གི་ལས་རྩུབ་མོས་ཕྱུང་བ་གང་ཡིན་པ་དེའི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་།
+K01vinv06_u:5419	 vākkarma niścāritaṃ tasya karmaṇo vipākena mayā bahūni varṣāṇi bahūni varṣaśatāni bahūni varṣasahasrāṇi bahūni varṣaśatasahasrāṇi koṭarayavāḥ paribhuktāḥ /	K01D0001-3_H0001-3:5a-0	ང་ལོ་མང་པོ་དང་། ལོ་བརྒྱ་ཕྲག་མང་པོ་དང་། ལོ་༄༥ཨ་༌༎ སྟོང་ཕྲག་མང་པོ་དང་། ལོ་བརྒྱ་སྟོང་ཕྲག་མང་པོར་ནས་རུལ་པ་ཟོས་སོ་༎
+K01vinv06_u:5420	 tenaiva karmāvaśeṣeṇaitarhy apy abhisaṃbuddhabodhinā vairambheṣu koṭarayavāḥ paribhuktāḥ sārdhaṃ bhikṣudvayonaiḥ paṃcabhikṣuśataiḥ /	K01D0001-3_H0001-3:5a-2	ལས་ཀྱི་ལྷག་མ་དེ་ཁོ་ནས་ད་ལྟར་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ་ན་ཡང་མཐར་དགེ་སློང་གཉིས་ཀྱིས་ལྔ་བརྒྱར་མ་ཚང་བའི་དགེ་སློང་རྣམས་དང་ཐབས་ཅིག་ནས་རུལ་པ་ལ་ལོངས་སྤྱད་དོ་༎
+K01vinv06_u:5421	 yau tau dvau māṇavakau etau śāriputramaudgalyāyanau bhikṣū /	K01D0001-3_H0001-3:5a-3	བྲམ་ཟེའི་ཁྱེའུ་གཉིས་པོ་གང་ཡིན་པ་དེ་ནི་། དགེ་སློང་ཤའ་རིའི་བུ་དང་། མོའུ་འགལ་གྱི་བུ་འདི་དག་ཉིད་ཡིན་ནོ་༎
+K01vinv06_u:5426	 kiṃ manyadhve bhikṣavaḥ /	K01D0001-3_H0001-3:13b-10	དགེ་སློང་དག་། ཇི་སྙམ་དུ་སེམས་།
+K01vinv06_u:5422	 kiṃ bhadanta bhagavatā karma kṛtaṃ yasya karmaṇo vipākena duṣkaraṃ caritam iti /	K01D0001-3_H0001-3:5a-5	བཙུན་པ་། བཅོམ་ལྡན་འདས་ཀྱིས་འཕྲིན་ལས་ཅི་ཞིག་མཛད་ན་།
+K01vinv06_u:5427	 yo 'sāv uttaro nāmo māṇavo 'ham eva sa tena kālena tena samayena /	K01D0001-3_H0001-3:13b-12	དེའི་ཚེ་དེའི་དུས་ཀྱི་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་གང་ཡིན་པ་དེ་ནི་། ང་ཉིད་ཡིན་ཏེ་།
+K01vinv06_u:5428	 yan mayā pudgalo 'pavādo dattasya {MS:	K01D0001-3_H0001-3:13b-14	ངས་གང་ཟག་ལ་སྐུར་གྱི་།
+K01vinv06_u:5430	 } karmaṇo vipākena bodhimūle ṣaḍvarṣaṃ duṣkaraṃ caritam* /	K01D0001-3_H0001-3:13b-15	བྱང་ཆུབ་ལ་མ་ཡིན་པ་གང་ཡིན་པ་དེའི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་བྱང་ཆུབ་ཀྱི་སྙིང་པོར་དཀའ་བ་ལོ་དྲུག་སྤྱད་དོ་༎
+K01vinv06_u:5431	 yan mayā bodhir abodhitābhaviṣyat* punar api mayā (MSV I 218)	K01D0001-3_H0001-3:13b-16	གལ་ཏེ་ངས་བྱང་ཆུབ་ལ་སྐུར་པར་གྱུར་ན་།
+K01vinv06_u:5432	 parāvṛtya trīṇi kalpāsaṃkhyeyāni bodhinimittam ātmā parikhedito 'bhaviṣyat* /	K01D0001-3_H0001-3:13b-17	ངས་སླར་ཡང་བསྐལ་པ་གྲངས་མེད་པ་གསུམ་དུ་བྱང་ཆུབ་ཀྱི་ཆེད་དུ་བདག་ཉིད་ཤིན་ཏུ་དུབ་པར་འགྱུར་རོ་༎
+K01vinv06_u:5433	 kiṃ bhadanta bhagavatā karma kṛtaṃ yasya karmaṇo vipākenābhisaṃbuddhabodhir api bhagavān mandāgninā vyādhinā spṛṣṭa iti /	K01D0001-3_H0001-3:13b-18	བཙུན་པ་། བཅོམ་ལྡན་འདས་ཀྱིས་འཕྲིན་ལས་ཅི་ཞིག་མཛད་ན་། འཕྲིན་ལས་དེའི་རྣམ་པར་སྨིན་པས་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་ན་ཡང་། བཅོམ་ལྡན་འདས་ལ་འཁྲུ་བའི་སྙུན་གྱིས་ཐེབས་ལགས་།
+K01vinv06_u:5434	 bhagavān āha tathāgatenaiva tāni bhikṣavaḥ pūrvam anyāsu jātiṣu karmāṇi kṛtāni upacitāni pūrvavad yāvat phalanti khalu dehinām* /	K01D0001-3_H0001-3:13b-21	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་། དགེ་སློང་དག་། དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་སྔོན་གྱི་ཚེ་རབས་གཞན་རྣམས་སུ་ལས་རྣམས་༄༡༤ཨ་༌༎ དགེ་སློང་དག་། སྔོན་བྱུང་བ་།
+K01vinv06_u:5435	 bhūtapurvaṃ bhikṣavo 'nytamasmin karvaṭake vaidyo babhūva /	K01D0001-3_H0001-3:14a-4	རི་བོར་ཞིག་ན་སྨན་བ་ཞིག་ཡོད་པ་ལས་།
+K01vinv06_u:5436	 tato 'nyatamasya gṛhapateḥ putraḥ glānaḥ saṃvṛttaḥ /  tenāsau vaidya āhūya pṛṣṭaḥ /  tena tasya bhaiṣajyaṃ dattam* /	K01D0001-3_H0001-3:14a-5	དེ་ན་ཁྱིམ་བདག་ཅིག་གི་བུ་ནད་ཀྱིས་ཐེབས་ནས་དེས་སྨན་པ་དེ་བཀུག་སྟེ་དྲིས་ནས་།
+K01vinv06_u:5439	 sa svasthaḥ saṃvṛttaḥ /	K01D0001-3_H0001-3:14a-6	དེས་དེ་ལ་སྨན་བྱིན་པས་སོས་པར་གྱུར་ན་།
+K01vinv06_u:5440	 tena gṛhapatinā tasyābhisāro na dattaḥ /	K01D0001-3_H0001-3:14a-7	ཁྱིམ་བདག་དེས་དེ་ལ་རྔན་པ་མ་བྱིན་ནོ་༎
+K01vinv06_u:5441	 yāvat trir apy asau gṛhapatiputro glānaḥ saṃvṛttaḥ yāvat trir api tena svasthīkṛtaḥ /	K01D0001-3_H0001-3:14a-8	ཁྱིམ་བདག་གི་བུ་དེ་ལན་གསུམ་གྱི་བར་དུ་ནད་ཀྱིས་ཐེབས་ཏེ་། སྨན་པ་དེས་ལན་གསུམ་གྱི་བར་དུ་སོས་པར་བྱས་ཀྱང་།
+K01vinv06_u:5442	 na ca tena tasyābhisāro dattaḥ /	K01D0001-3_H0001-3:14a-10	དེས་དེ་ལ་རྔན་པ་མ་བྱིན་ནས་།
+K01vinv06_u:5443	 tataḥ sa vaidyas tīvreṇa paryavasthānenāmarṣitaḥ saṃlakṣayati /	K01D0001-3_H0001-3:14a-11	དེ་ནས་སྨན་པ་དེ་ཀུན་ནས་དཀྲིས་པ་དྲག་པོས་མ་བཟོད་པར་གྱུར་ནས་བསམ་པ་།
+K01vinv06_u:5444	 asya gṛhapatiputrasya mayā yāvat trir api cikitsā kṛtā /	K01D0001-3_H0001-3:14a-12	ཁྱིམ་བདག་གི་བུ་འདི་བདག་གིས་ལན་གསུམ་གྱི་བར་དུ་དཔྱད་བྱས་ཀྱང་།
+K01vinv06_u:5451	 bhagavān āha /	K01D0001-3_H0001-3:20a-19	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5452	 samayenāhaṃ yuṣmāka nāmnā dakṣiṇām ādiśāmi /  yadi yūyam anenaiva varṣeṇa dakṣiṇādeśanākāla upasaṃkrāmateti /	K01D0001-3_H0001-3:20a-20	ངས་དམ་ཞིག་བཅའ་སྟེ་། གལ་ཏེ་ཁྱེད་ཅག་ཆ་བྱད་འདི་ཉིད་ཀྱིས་ཡོན་བསྔོ་བ་བྱེད་པའི་ཚེ་འོང་ན་ནི་། ཁྱེད་ཅག་གི་མིང་ནས་ཡོན་བསྔོ་བ་བྱའོ་༎
+K01vinv06_u:5454	 te [GBM_6.1072a] kathayanti /	K01D0001-3_H0001-3:20a-23	དེ་རྣམས་ཀྱིས་གསོལ་བ་།
+K01vinv06_u:5455	 jihrīmaḥ katham āgacchāma iti /	K01D0001-3_H0001-3:20a-25	ཇི་ལྟར་མཆི་ལགས་།
+K01vinv06_u:5456	 atha bhagavāṃs tasyāṃ velāyāṃ gāthāṃ bhāṣate /	K01D0001-3_H0001-3:20b-0	དེ་ནས་བཅོམ་ལྡན་འདས་༄༢༠བ་ཀྱིས་། དེའི་ཚེ་ཚིགས་སུ་བཅད་པས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5457	 alajjitavye lajjino lajjitavye alajjinaḥ /	K01D0001-3_H0001-3:20b-2	ངོ་ཚ་མེད་ལ་ངོ་ཚ་བྱེད་༎ ངོ་ཚ་བ་ལ་ངོ་མི་ཚ་༎
+K01vinv06_u:5458	 abhaye bhayadarśino bhaye cābhayadarśinaḥ /	K01D0001-3_H0001-3:20b-4	འཇིགས་པ་མེད་ལ་འཇིགས་པར་ལྟ་༎ འཇིགས་པ་ལ་ནི་མི་འཇིགས་ལྟ་༎
+K01vinv06_u:5459	 mithyādṛṣṭisamādānāt satvā gacchanti durgatim* //	K01D0001-3_H0001-3:20b-6	ལོག་པའི་ལྟ་བ་བླངས་པས་ན་༎ སེམས་ཅན་རྣམས་ནི་ངན་འགྲོར་འགྲོ་༎
+K01vinv06_u:5460	 alajjitavye 'lajjino lajjitavye ca lajjinaḥ /	K01D0001-3_H0001-3:20b-8	ངོ་ཚ་བ་ངོ་ཚ་དང་༎ ངོ་ཚ་མེད་ལ་ངོ་མི་ཚེ་༎ མི་འཇིགས་པ་ལ་མི་འཇིགས་ལྟ་༎
+K01vinv06_u:5461	 abhaye 'bhayadarśino bhaye ca bhayadarśinaḥ /	K01D0001-3_H0001-3:20b-10	འཇིགས་པ་ལ་ནི་འཇིགས་ལྟ་བའི་༎
+K01vinv06_u:5462	 samyagdṛṣṭisamādānāt satvā gacchanti sadgatim* // iti /	K01D0001-3_H0001-3:20b-11	ཡང་དག་ལྟ་བ་བླངས་པ་ཡིས་༎ སེམས་ཅན་རྣམས་ནི་བདེ་འགྲོར་འགྲོ་༎
+K01vinv06_u:5463	 te kathayanti /	K01D0001-3_H0001-3:20b-13	དེ་རྣམས་ཀྱིས་གསོལ་བ་།
+K01vinv06_u:5464	 bhagavann adyaivāgamiṣyāma iti /	K01D0001-3_H0001-3:20b-14	བཅོམ་ལྡན་འདས་། གལ་ཏེ་དེ་ལྟར་ན་མཆི་ལགས་སོ་༎
+K01vinv06_u:5465	 atha nāgarabindavā brāhmaṇagṛhapatayas tām eva rātriṃ śuci praṇītaṃ khādanīyabhojanīyaṃ pūrvavad yāvan nīcataram āsanaṃ gṛhītvā bhagavataḥ purastān niṣaṇṇo dharmaśravaṇāya /	K01D0001-3_H0001-3:20b-16	དེ་ནས་གྲོང་ཁྱེར་ཐིགས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱིས་། དེ་ཉིད་ཀྱི་ནུབ་མོ་ནས་གཙང་ཞིང་བསོད་པའི་བཟའ་བ་དང་བཅའ་བ་དག་སྟ་གོན་བྱས་ནས་ཞེས་བྱ་བ་ནས་སྟན་ཆེས་དམའ་བ་ཞིག་བླངས་ཏེ་། ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ་། ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5466	 tāni ca pañca pretaśatāny upasaṃkrāntāni /  tato nāgarabindavā brāhmaṇagṛhapatayaḥ pretān dṛṣṭvā niṣpalāyitum ārabdhāḥ /  bhagavatābhihitāḥ /	K01D0001-3_H0001-3:20b-20	ཡི་དབ༹གས་ལྔ་བརྒྱ་པོ་དེ་དག་འོངས་པ་དང་། དེ་ནས་གྲོང་ཁྱེར་ཐིགས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱིས་། ཡི་དབ༹གས་རྣམས་མཐོང་ནས་འབྲོས་པར་བརྩམས་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5469	 bhavantaḥ kimarthaṃ niṣpalāyanti /	K01D0001-3_H0001-3:20b-22	ཤེས་ལྡན་དག་། ཅིའི་ཕྱིར་འབྲོས་།
+K01vinv06_u:5470	 te kathayanti /	K01D0001-3_H0001-3:20b-24	དེ་རྣམས་ཀྱིས་གསོལ་པ་།
+K01vinv06_u:5471	 bhagavan ete pretā āgacchanti /	K01D0001-3_H0001-3:20b-25	བཅོམ་ལྡན་འདས་ཡི་དབ༹གས་འོ་ནི་དག་མཆི་ལགས་སོ་༎
+K01vinv06_u:5472	 bhagavān āha /  āgacchantu yuṣmākam evaite jñātayaḥ /	K01D0001-3_H0001-3:20b-26	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་། ཚུར་ཤོག་། འདི་དག་ནི་། ཁྱེད་ཅག་གི་ཉེ་དུ་ཡིན་ནོ་༎
+K01vinv06_u:5474	 yadi yūyam anujānīdhve aham eṣāṃ nāmnā dakṣiṇām ādiśeyam iti /	K01D0001-3_H0001-3:20b-29	གལ་ཏེ་ཁྱེད་ཅག་གིས་གནང་ན་། ངས་འདི་རྣམས་ཀྱི་མིང་གིས་ཡོན་༄༢༡ཨ་༌༎
+K01vinv06_u:5475	 te kathayanti /	K01D0001-3_H0001-3:21a-1	བསྔོའོ་༎ དེ་རྣམས་ཀྱིས་གསོལ་བ་།
+K01vinv06_u:5476	 bhagavann anujānīmahe {MS: -nīdhvam*} /	K01D0001-3_H0001-3:21a-2	བཅོམ་ལྡན་འདས་། རུང་ལགས་སོ་༎
+K01vinv06_u:5477	 tato bhagavān pañcāṅgena svareṇa teṣāṃ nāmnā dakṣiṇām ādeṣṭuṃ pravṛttaḥ /  (MSV I 221)	K01D0001-3_H0001-3:21a-4	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡན་ལག་ལྔ་དང་ལྡན་པའི་གསུང་དབྱངས་ཀྱིས་། དེ་རྣམས་ཀྱི་མིང་ནས་ཡོན་བསྔོ་བ་མཛད་དེ་།
+K01vinv06_u:5479	 ito dānād dhi yad puṇyaṃ tat pretānupagacchatu /	K01D0001-3_H0001-3:21a-6	སྦྱིན་པ་འདི་ཡིས་བསོད་ནམས་གང་༎ དེ་ནི་ཡི་དབ༹གས་རྗེས་འགྲོ་ཞིང་༎
+K01vinv06_u:5480	 vyuttiṣṭhantāṃ kṣipram ime pretalokāt sudāruṇāt* // iti	K01D0001-3_H0001-3:21a-8	འདི་དག་ཡི་དབ༹གས་འཇིག་རྟེན་ནི་༎ མི་བཟད་པ་ནས་མྱུར་ལྡང་ཤོག་།
+K01vinv06_u:5481	 tato '; bhinivṛttaṃ teṣāṃ cīvaraṃ pānabhojanam* /	K01D0001-3_H0001-3:21a-10	དེ་ཡིས་གོས་དང་སྐོམ་དང་ཟས་༎
+K01vinv06_u:5482	 śayanaṃ vāpi vividham akṣayaṃ sārvakālikam* //	K01D0001-3_H0001-3:21a-11	གནས་མལ་རྣམ་པ་སྣ་ཚོགས་པ་༎ དུས་ཀུན་དུ་ནི་མི་ཟད་པར་༎ དེ་རྣམས་ལ་ནི་གྲུབ་པར་ཤོག་།
+K01vinv06_u:5483	 tato nāgarabindavān brāhmaṇagṛhapatīn dharmyayā kathayā saṃdarśya samādāpya samuttejya saṃpraharṣyotthāyāsanāt prakrāntaḥ /	K01D0001-3_H0001-3:21a-14	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་གྲོང་ཁྱེར་ཐིགས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ལ་ཆོས་དང་ལྡན་པའི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན་། ཡང་དག་པར་འཛིན་དུ་བཅུག་། ཡང་དག་པར་གཟེངས་བསྟོད་། ཡང་དག་པར་རབ་ཏུ་དགའ་བར་མཛད་ནས་གདན་ལས་བཞེངས་ཏེ་གཤེགས་སོ་༎
+K01vinv06_u:5484	 tato nāgarabindavānāṃ brāhmaṇagṛhapatīnāṃ kutūhalaśālāyāṃ saṃniṣaṇṇānāṃ saṃnipatitānām ayam evaṃrūpo 'bhūd antasamudāhāraḥ /	K01D0001-3_H0001-3:21a-18	དེ་ནས་གྲོང་ཁྱེར་ཐིགས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་རྟོག་ཁང་དུ་ལྷགས་ཤིང་ཚོགས་ནས་། འདི་ལྟ་བུའི་སྐབས་ཀྱི་གཏམ་དག་གླེང་བར་བྱེད་དེ་།
+K01vinv06_u:5485	 maheccho vata bhavantaḥ śramaṇo gautamo mahecchā vāsya śrāvakā iti /	K01D0001-3_H0001-3:21a-20	ཀྱེ་། དགེ་སྦྱོང་གོའུ་ཏ་མ་ནི་། འདོད་ཞེན་ཆེ་ཞིང་། དེའི་ཉན་ཐོས་རྣམས་ཀྱང་འདོད་ཞེན་ཆེ་བ་ཡིན་ནོ་༎
+K01vinv06_u:5486	 apare kathayanti /	K01D0001-3_H0001-3:21a-23	ཁ་ཅིག་གིས་སྨྲས་པ་།
+K01vinv06_u:5487	 alpeccho bhavantaḥ śramaṇo gautamo alpecchā vāsya śrāvakā na yathā tīrthyā iti /	K01D0001-3_H0001-3:21a-25	དགེ་སྦྱོང་གོའུ་ཏ་མ་ནི་། འདོད་ཞེན་ཆུང་ཞིང་། དེའི་ཉན་ཐོས་རྣམས་ཀྱང་འདོད་ཞེན་ཆུང་སྟེ་། མུ་སྟེགས་ཅན་རྣམས་ནི་། དེ་ལྟ་མ་ཡིན་ནོ་༎
+K01vinv06_u:5488	 tena khalu samayena vairaṭṭasiṃho nāma brāhmaṇas tasyām eva parṣadi sanniṣaṇṇo 'bhūt sannipatitaḥ /	K01D0001-3_H0001-3:21a-30	དེའི་ཚེ་བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེ་ཞེས་བྱ་བ་། འཁོར་དེ་ཉིད་དུ་འདུས་ཤིང་འདུག་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5489	 atha vairaṭṭasiṃho brāhmaṇo nāgarabindavān brāhmaṇagṛhapatīn idam avocat* /	K01D0001-3_H0001-3:21b-0	དེ་༄༢༡བ་ནས་བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེས་། གྲོང་ཁྱེར་ཐིགས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ་༎
+K01vinv06_u:5490	 ahaṃ bhavatāṃ pratyakṣīkariṣyāmi /  alpeccho vā śramaṇo gautamo maheccho vā alpecchā vāsya śrāvakā mahecchā veti /	K01D0001-3_H0001-3:21b-2	དགེ་སྦྱོང་གོའུ་ཏ་མ་འདོད་ཞེན་ཆེའམ་། འདོད་ཞེན་ཆུང་བ་དང་། དེའི་ཉན་ཐོས་རྣམས་འདོད་ཞེན་ཆེའམ་། འདོད་ཞེན་ཆུང་བ་ངས་ཁྱེད་ཅག་ཡིད་ཆེས་པར་བྱའོ་༎
+K01vinv06_u:5492	 atha vairaṭṭasiṃho brāhmaṇo yena bhagavāṃs tenopasaṃkrāntaḥ /	K01D0001-3_H0001-3:21b-5	དེ་ནས་བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེ་།
+K01vinv06_u:5493	 upasaṃkramya bhagavantam idam avocat* /	K01D0001-3_H0001-3:21b-6	བཅོམ་ལྡན་འདས་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་པ་དང་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K01vinv06_u:5494	 adhivāsayatu me bhagavān gautamo guḍakhādanikayā sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:21b-7	ཤེས་ལྡན་གོའུ་ཏ་མ་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ལ་བདག་གི་བཅའ་བ་བུ་རམ་ཞིག་འབུལ་ཞིང་མཆིས་ན་། གནང་བར་མཛད་དུ་གསོལ་།
+K01vinv06_u:5495	 adhivāsayati bhagavān vairaṭṭasiṃhasya tūṣṇīṃbhāvena /	K01D0001-3_H0001-3:21b-9	བཅོམ་ལྡན་འདས་ཀྱིས་། བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེ་ལ་ཅང་མི་གསུང་བས་གནང་ངོ་༎
+K01vinv06_u:5496	 atha vairaṭṭasiṃho brāhmaṇo bhagavatas tūṣṇīṃbhāvena adhivāsanaṃ viditvā bhagavato 'ntikāt prakrāntaḥ /	K01D0001-3_H0001-3:21b-11	དེ་ནས་བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེས་བཅོམ་ལྡན་འདས་ཅང་མི་གསུང་བས་གནང་བར་རིག་ནས་། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔ་ནས་སོང་ངོ་༎
+K01vinv06_u:5497	 tatra bhagavān bhikṣūn āmantrayate [fol._222v1] sma /	K01D0001-3_H0001-3:21b-13	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ་།
+K01vinv06_u:5498	 avatāraprekṣiṇā bhikṣavo vairaṭṭasiṃhena (MSV I 222)  brāhmaṇena buddhapramukho bhikṣusaṃgho guḍakhādanikayā upanimantritaḥ /	K01D0001-3_H0001-3:21b-14	དགེ་སློང་དག་། བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེ་ཀླན་ཀ་ཚོལ་བས་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་བཅའ་བ་བུ་རམ་ལ་སྤྱན་དྲངས་ཀྱི་།
+K01vinv06_u:5500	 tad yuṣmākaṃ yo yāvat paribhuṃkte tena tāvad grahītavyam iti /	K01D0001-3_H0001-3:21b-16	ཁྱེད་ཅག་ལས་གང་གིས་ཇི་ཙམ་ག-ཡོགས་པ་དེས་དེ་ཙམ་ཞིག་བླང་བར་བྱའོ་༎
+K01vinv06_u:5501	 [GBM_6.1072b] vairaṭṭasiṃhabrāhmaṇasya pañcaguḍasthālīśatāni bhavanti /	K01D0001-3_H0001-3:21b-17	བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེ་ལ་བུ་རམ་འཚོང་བའི་ཁང་པ་ལྔ་བརྒྱ་ཡོད་པ་ནས་།
+K01vinv06_u:5502	 sa pratyekaṃ guḍaśālāyā guḍasthālīṃ gṛhītvā paṃcaguḍasthālīśatāny ādāya yena bhagavāṃs tenopasaṃkrāntaḥ /	K01D0001-3_H0001-3:21b-18	དེས་བུ་རམ་གྱི་ཁང་པ་རེ་རེ་ནས་བུ་རམ་གྱི་སྣོད་བླངས་ཏེ་། བུ་རམ་གྱི་སྣོད་ལྔ་བརྒྱ་ཁྱེར་ནས་།
+K01vinv06_u:5503	 upasaṃkramya bhagavantam idam avocat* /	K01D0001-3_H0001-3:22a-0	བཅོམ་ལྡན་འདས་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་པ་དང་། བཅོམ་ལྡན་འདས་ལ་འདི་༄༢༢ཨ་༌༎
+K01vinv06_u:5504	 niṣīdatu bhagavān gautamaḥ saśrāvakasaṃghaḥ /  sajjo guḍaḥ /  paribhuṃkṣva /	K01D0001-3_H0001-3:22a-2	ཤེས་ལྡན་གོའུ་ཏ་མ་། ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ་ལོངས་སྤྱད་དུ་གསོལ་།
+K01vinv06_u:5507	 atha bhagavān niṣpāditapāṇipātraḥ purastād bhikṣusaṃghasya prajñapta evāsane niṣaṇṇaḥ /	K01D0001-3_H0001-3:22a-5	དེ་ནས་བཅོམ་ལྡན་འདས་ཕྱག་དང་ལྷུང་བཟེད་བཅབས་ནས་། དགེ་སློང་གི་དགེ་འདུན་གྱི་གུང་ལ་གདན་བཤམས་པ་ཉིད་ལ་བཞུགས་སོ་༎
+K01vinv06_u:5508	 tato vairaṭṭasiṃho brāhmaṇaḥ ekāṃ guḍasthālīṃ gṛhītvā cārayitum ārabdhaḥ /  yāvad bhagavatā tathādhiṣṭhitā yathā bhikṣusaṃghasya cāritā /  avaśiṣṭā pūrṇāvasthitā /	K01D0001-3_H0001-3:22a-7	དེ་ནས་བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེས་བུ་རམ་གྱི་སྣོད་གཅིག་བླངས་ཏེ་བྲིམ་པར་བརྩམས་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཇི་ལྟར་དགེ་སློང་གི་དགེ་འདུན་གྱི་བར་དུ་བྲིམས་ཀྱང་ལྷག་པས་ཐམས་ཅད་དེ་ཁོ་ན་བཞིན་དུ་འདུག་པ་དེ་ལྟར་བྱིན་གྱིས་བརླབས་སོ་༎
+K01vinv06_u:5511	 tato vairaṭṭasiṃho brāhmaṇo 'bhiprasannaḥ /	K01D0001-3_H0001-3:22a-8	དེ་ནས་བྲམ་ཟེ་སྨྲ་འདོད་ཀྱི་སེང་གེ་མངོན་པར་དད་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5512	 tatas tena prasādajātena sāmantakena śabdo niścāritaḥ /	K01D0001-3_H0001-3:22a-9	དེ་ནས་དེ་དད་པ་སྐྱེས་ནས་ཕྱོགས་མཐའ་དག་ཏུ་སྒྲ་བསྒྲགས་པ་།
+K01vinv06_u:5513	 alpeccho bhavantaḥ śramaṇo  gautamaḥ / alpecchāś cāsya śrāvakā iti /	K01D0001-3_H0001-3:22a-10	ཤེས་ལྡན་གོའུ་ཏ་མ་ནི་། འདོད་ཞེན་ཆུང་ཞིང་། དེའི་ཉན་ཐོས་རྣམས་ཀྱང་འདོད་ཞེན་ཆུང་བ་ཡིན་ནོ་༎
+K01vinv06_u:5515	 tatas tena tīrthyā upanimantritāḥ /  guḍaṃ paribhuktam* /  tair amātrayā guḍo gṛhītaḥ /	K01D0001-3_H0001-3:22a-13	དེ་ནས་དེས་མུ་སྟེགས་ཅན་རྣམས་བུ་རམ་ལ་ལོངས་སྤྱོད་དུ་གཞུག་པའི་ཕྱིར་མགྲོན་དུ་བོས་པ་དང་། དེ་རྣམས་ཀྱིས་བུ་རམ་བག་མེད་པར་བླངས་ནས་། ཁ་ཅིག་གིས་ནི་ལོངས་སྤྱད་དོ་༎
+K01vinv06_u:5518	 kaiścit khorakāṃ pūrayitvā tato gṛhītvā ca saṃprasthitam* /	K01D0001-3_H0001-3:22a-15	ཁ་ཅིག་གིས་ནི་། སྣོད་བཀང་ནས་བོར་ཞིང་ཁྱེར་ཏེ་སོང་ངོ་༎
+K01vinv06_u:5520	 yūyam eva mohapuruṣā mahecchāḥ /	K01D0001-3_H0001-3:22a-18	སྐྱེས་བུ་བླུན་པོ་ཁྱེད་ཅག་ཁོ་ན་འདོད་ཞེན་ཆེ་བ་ཡིན་ལ་།
+K01vinv06_u:5521	 śramaṇas tu gautamaḥ alpecchaḥ /	K01D0001-3_H0001-3:22a-19	དགེ་སྦྱོང་གོའུ་ཏ་མ་ནི་། འདོད་ཞེན་ཆུང་ཞིང་།
+K01vinv06_u:5522	 alpecchā vāsya śrāvakāḥ /	K01D0001-3_H0001-3:22a-21	དེའི་ཉན་ཐོས་རྣམས་ཀྱང་འདོད་ཞེན་ཆུང་བ་ཡིན་ནོ་༎
+K01vinv06_u:5523	 ity uktvā sa bhūyasyā mātrayā bhagavaty abhiprasanno yena bhagavāṃs tenopasaṃkrāntaḥ /	K01D0001-3_H0001-3:22b-0	བཅོམ་ལྡན་འདས་ལ་ལྷག་པར་༄༢༢བ་ཡང་མངོན་པར་དད་པར་གྱུར་ཏེ་།
+K01vinv06_u:5524	 upasaṃkramya bhagavatā sārdhaṃ saṃmodanīṃ saṃraṃjanīṃ vividhāṃ kathāṃ vyatisāryaikānte nyaṣīdat* /  atha vairaṭṭasiṃho brāhmaṇo yena bhagavāṃs tenāṃjaliṃ praṇamayya bhagavantam idam avocat* /	K01D0001-3_H0001-3:22b-1	བཅོམ་ལྡན་འདས་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་པ་དང་། བཅོམ་ལྡན་འདས་དང་ལྷན་ཅིག་མངོན་དུ་ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུ་སྟེ་།
+K01vinv06_u:5526	 labheyāhaṃ bhadanta svākhyāte dharmavinaye (MSV I 223)  pravrajyām upasaṃpadaṃ bhikṣubhāvaṃ careyam ahaṃ bhagavato 'ntike brahmacaryam iti /	K01D0001-3_H0001-3:22b-2	བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎ བཙུན་པ་། ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་བདག་ཅེས་བྱ་བ་ནས་ཚངས་པར་སྤྱད་པར་བགྱིའོ་༎
+K01vinv06_u:5528	 tato bhagavatā ehibhikṣukayā ābhāṣitaḥ /  ehi bhikṣo cara brahmacaryam iti /	K01D0001-3_H0001-3:22b-5	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་ཚུར་ཤོག་ཅེས་བྱ་བ་ནས་དགེ་སློང་ཚུར་ཤོག་། ཚངས་པར་སྤྱད་པ་སྤྱོད་ཅིག་ཅེས་གསུངས་པས་ཞེས་བྱ་བ་ནས་།
+K01vinv06_u:5534	 tatra bhagavān bhikṣūn āmantrayate sma /  tasmād anujānāmi kālena vākalena vā glānena vāglānena vā guḍaḥ paribhoktavyaḥ /	K01D0001-3_H0001-3:22b-9	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་བ་། དུས་སམ་། དུས་མ་ཡིན་པའམ་། ན་བ་འམ་།
+K01vinv06_u:5536	 nātra kaukṛtyaṃ karaṇīyam iti /	K01D0001-3_H0001-3:22b-13	མི་ན་བས་བུ་རམ་ལ་ལོངས་སྤྱད་པར་བྱ་སྟེ་། འདི་ལ་འགྱོད་པར་ནི་།
+K01vinv06_u:5537	 āyuṣmān vairaṭṭasiṃhaḥ kuṇapadaurgandhyena cittaikāgratāṃ nārāgayati /	K01D0001-3_H0001-3:22b-15	མི་བྱའོ་༎ ཚེ་དང་ལྡན་པ་སྨྲ་འདོད་ཀྱི་སེང་གེ་རོ་མྱགས་པའི་དྲི་མི་ཞིམ་པས་། སེམས་རྩེ་གཅིག་པ་ཉིད་མ་ཐོབ་ནས་།
+K01vinv06_u:5538	 bhagavān saṃlakṣayati /	K01D0001-3_H0001-3:22b-17	བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་པ་།
+K01vinv06_u:5539	 vairaṭṭasiṃho bhikṣuś caramabhavikaḥ kimarthaṃ satyāni na paśyatīti /	K01D0001-3_H0001-3:22b-18	དགེ་སློང་སྨྲ་འདོད་ཀྱི་སེང་གེ་ནི་། སྲིད་པ་ཐ་མ་པ་ཡིན་ན་། ཅིའི་ཕྱིར་བདེན་པ་མ་མཐོང་སྙམ་དུ་དགོངས་ན་།
+K01vinv06_u:5543	 tatra bhagavān āyuṣmantam ānandam āmantrayate sma /	K01D0001-3_H0001-3:22b-22	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ་།
+K01vinv06_u:5544	 gacchānanda vairaṭṭasiṃhasya bhikṣor vihāraṃ gandhair mālyair dhūpaiś cūrṇaiḥ saṃskuru /	K01D0001-3_H0001-3:22b-23	ཀུན་དགའ་བོ་སོང་ལ་། དགེ་སློང་སྨྲ་འདོད་ཀྱི་སེང་གེའི་གཙུག་ལག་ཁང་དྲི་དང་། མེ་ཏོག་གི་ཕྲེང་བ་དང་། བདུག་༄༢༣ཨ་༌༎ པ་དང་། ཕྱེ་མ་རྣམས་ཀྱིས་གཏོར་ལ་།
+K01vinv06_u:5545	 śayanāsanaṃ ca dhūpaya /  surabhikusumopacitaṃ ca puṣpavitānaṃ vitanv iti /	K01D0001-3_H0001-3:23a-2	གནས་མལ་ལ་ཡང་བདུག་པས་བདུག་ཅིང་། མེ་ཏོག་དྲི་ཞིམ་པོས་བརྒྱན་པའི་མེ་ཏོག་གི་གདུགས་བྲེས་ཤིག་།
+K01vinv06_u:5547	 evaṃ bhadantety āyuṣmān ānando bhagavataḥ pratiśrutya yāvad asau piṇḍapātaṃ gatas tāvat tasya vihāraṃ gatvā bhagavatopadiṣṭena vidhinā sarvam anuṣṭhitavān* /	K01D0001-3_H0001-3:23a-4	བཙུན་པ་། བཀའ་བཞིན་འཚལ་ཞེས་། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་ཏོ་༎ དེ་བསོད་སྙོམས་ལ་སོང་བ་དེའི་བར་དུ་། དེའི་གཙུག་ལག་ཁང་དུ་སོང་ནས་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་དེ་བཞིན་ཐམས་ཅད་བྱས་སོ་༎
+K01vinv06_u:5548	 athāyuṣmān vairaṭṭasiṃhaḥ piṇḍapātam aṭitvā vihāram āgataḥ /	K01D0001-3_H0001-3:23a-10	དེ་ནས་ཚེ་དང་ལྡན་པ་སྨྲ་འདོད་ཀྱི་སེང་གེ་བསོད་སྙོམས་ལ་བརྒྱུས་ནས་།
+K01vinv06_u:5549	 paśyati divyāṃ vibhūtim* /	K01D0001-3_H0001-3:23a-11	གཙུག་ལག་ཁང་དུ་འོངས་པ་དང་ལྷའི་འབྱོར་པ་མཐོང་ནས་།
+K01vinv06_u:5550	 tataḥ prītamanāḥ piṇḍapātaṃ paribhujya kṛtabhaktakṛtyo bahir vihārasya pādau prakṣālya vihāraṃ prāviśat* /	K01D0001-3_H0001-3:23a-12	དེ་ནས་དགའ་བའི་ཡིད་ཀྱིས་བསོད་སྙོམས་ལ་ལོངས་སྤྱད་དེ་། ཟས་ཀྱི་བྱ་བ་བྱས་ནས་། གཙུག་ལག་ཁང་གི་ཕྱི་རོལ་ཏུ་རྐང་པ་གཉིས་བཀྲུས་ཏེ་གཙུག་ལག་ཁང་དུ་ཞུགས་ནས་།
+K01vinv06_u:5551	 praviśya niṣaṇṇaḥ paryaṅkam ābhujya ṛjuṃ kāyaṃ praṇidhāya pratimukhāṃ smṛtim upasthāpya [fol._223r1] tasya sugandhaṃ ghrātvā cittasamādhānam utpannam* /	K01D0001-3_H0001-3:23a-15	སྐྱིལ་མོ་ཀྲུང་བཅས་ཏེ་ལུས་དྲང་པོར་བསྲངས་ནས་དྲན་པ་མངོན་དུ་ཕྱོགས་པར་བཞག་སྟེ་འདུག་པ་དང་། དྲི་ཞིམ་པོ་མནམ་ནས་དེའི་སེམས་མཉམ་པར་གཞག་པར་སྐྱེས་སོ་༎
+K01vinv06_u:5552	 tatas tena sarvakleśaprahāṇād arhatvaṃ sākṣātkṛtam* /	K01D0001-3_H0001-3:23a-16	དེ་ནས་དེས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ནས་ཞེས་བྱ་བ་ནས་མངོན་དུ་སྨྲ་བར་གྱུར་ཏོ་༎
+K01vinv06_u:5553	 pūrvavad yāvad abhivādyaś ca (MSV I 224) saṃvṛttaḥ /	K01D0001-3_H0001-3:23a-17	ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5554	 tatra bhagavān bhikṣūn āmantrayate sma /	K01D0001-3_H0001-3:23a-18	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ་། དགེ་སློང་དག་།
+K01vinv06_u:5555	 eṣo 'gro me [GBM_6.1073a] bhikṣavo bhikṣūṇāṃ mama śrāvakāṇāṃ śubhādhimuktānāṃ yaduta vairaṭṭasiṃho bhikṣuḥ /	K01D0001-3_H0001-3:23a-20	ངའི་དགེ་སློང་དང་། ངའི་ཉན་ཐོས་སྡུག་པས་རྣམ་པར་གྲོལ་བ་རྣམས་ཀྱི་མཆོག་ནི་། འདི་ལྟ་སྟེ་། དགེ་སློང་སྨྲ་འདོད་ཀྱི་སེང་གེ་འདི་ཡིན་ནོ་༎
+K01vinv06_u:5556	 bhikṣavaḥ saṃśayajātāḥ sarvasaṃśayacchettāraṃ buddhaṃ bhagavantaṃ papracchuḥ /	K01D0001-3_H0001-3:23b-0	དགེ་སློང་༄༢༣བ་རྣམས་ཐེ་ཚོམ་སྐྱེས་ནས་ཐེ་ཚོམ་ཐམས་ཅད་གཅོད་པ་། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ་།
+K01vinv06_u:5557	 paśya bhadanta anye bhikṣavaḥ śubhayādhimuktāḥ /  āyuṣmāṃs tu vairaṭṭasiṃhaḥ śubhayādhimukta iti /	K01D0001-3_H0001-3:23b-2	བཙུན་པ་། དགེ་སློང་གཞན་རྣམས་ནི་། མི་སྡུག་པས་རྣམ་པར་གྲོལ་ན་། ཚེ་དང་ལྡན་པ་སྨྲ་འདོད་ཀྱི་སེང་གེ་སྡུག་པས་རྣམ་པར་གྲོལ་བ་ལ་གཟིགས་།
+K01vinv06_u:5559	 bhagavān āha /	K01D0001-3_H0001-3:23b-5	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5560	 eṣa bhikṣavaḥ paṃca janmaśatāni nirantaraṃ trayastriṃśebhyo devebhyaś cyutvā teṣv evopapannaḥ /	K01D0001-3_H0001-3:23b-6	དགེ་སློང་དག་། འདི་ནི་། ཚེ་རབས་ལྔ་བརྒྱ་བསྟུད་མར་སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷ་རྣམས་ནས་ཤི་འཕོས་ཤིང་དེ་ཉིད་དུ་སྐྱེས་ཏེ་།
+K01vinv06_u:5561	 idānīṃ carame bhave manuṣyeṣūpapannaḥ /	K01D0001-3_H0001-3:23b-8	ད་ལྟར་གྱི་སྲིད་པ་ཐ་མ་མི་རྣམས་སུ་སྐྱེས་པ་ན་།
+K01vinv06_u:5562	 kuṇapagandhaṃ ghrātvā cittaikāgratāṃ nāsāditavān* /	K01D0001-3_H0001-3:23b-9	ལུས་རུལ་བའི་དྲི་མནམ་པས་སེམས་རྩེ་གཅིག་པ་མ་གྲུབ་པའོ་༎
+K01vinv06_u:5563	 sugandhaṃ tu ghrātvā cittasamādhānaṃ pratilabhya śubhayādhimuktaḥ /	K01D0001-3_H0001-3:23b-10	དྲི་ཞིམ་པོའི་དྲི་མནམ་ནས་སེམས་མཉམ་པ་ཐོབ་ནས་སྡུག་པས་རྣམ་པར་གྲོལ་བ་ཐོབ་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5564	 yady asyāyam upacāro na kṛto 'bhaviṣyad ūṣmagatam apy anena notpāditam abhaviṣyad iti /	K01D0001-3_H0001-3:23b-11	གལ་ཏེ་འདི་ལ་ཐབས་འདི་མ་བྱས་པར་གྱུར་ན་། དྲོ་བར་གྱུར་བ་ཡང་འདིས་བསྐྱེད་པར་མི་འགྱུར་རོ་༎
+K01vinv06_u:5565	 tasmād anujānāmi yo 'py anya evaṃ śubhādhimuktas tasyāpy evaṃrūpānupūrvī kartavyā /	K01D0001-3_H0001-3:23b-13	དེ་ལྟ་བས་ན་། རྗེས་སུ་གནང་སྟེ་། གཞན་གང་ཞིག་སྡུག་པ་འདི་ལྟ་བུས་རྣམ་པར་གྲོལ་བར་འགྱུར་བ་དེས་རིམ་པ་དེ་ལྟ་བུ་བྱ་སྟེ་།
+K01vinv06_u:5566	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:23b-16	འདི་ལ་འགྱོད་པར་ནི་མི་བྱའོ་༎
+K01vinv06_u:5567	 atha bhagavān vṛjiṣu janapadeṣu cārikāṃ caran vaiśālīm anuprāpto vaiśālyāṃ viharati markaṭahradatīre kūṭāgāraśālāyām* /  aśrauṣur vaiśālakā brāhmaṇagṛhapatayo bhagavān vṛjiṣu janapadeṣu cārikāṃ caran vaiśālīm anuprāpto vaiśālyāṃ viharati markaṭahradatīre kūṭāgāraśālāyām iti /	K01D0001-3_H0001-3:23b-17	དེ་ནས་བཅོམ་ལྡན་འདས་ཡུལ་སྤོང་བྱེད་ནས་ལྗོངས་རྒྱུ་ཞིང་གཤེགས་ཏེ་ཡངས་པ་ཅན་དུ་བྱོན་ནས་། ཡངས་པ་ཅན་གྱི་སྤྲེའུ་རྫིང་གི་འགྲམ་ན་། ཁང་པ་བརྩེགས་པའི་གནས་ན་བཞུགས་སོ་༎ ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱིས་། བཅོམ་ལྡན་འདས་ཡུལ་སྤོང་བྱེད་ནས་ལྗོངས་རྒྱུ་ཞིང་གཤེགས་ཏེ་ཡངས་པ་ཅན་དུ་བྱོན་ནས་། ཡངས་པ་ཅན་གྱི་སྤྲེའུ་རྫིང་གི་འགྲམ་ན་། ཁང་པ་བརྩེགས་པའི་གནས་ན་བཞུགས་སོ་༎
+K01vinv06_u:5569	 śrutvā ca punar ekadhye sannipatya kathayati /	K01D0001-3_H0001-3:23b-24	ཞེས་ཐོས་སོ་༎ ཐོས་ནས་ཀྱང་གཅིག་ཏུ་འདུས་ནས་སྨྲས་པ་།
+K01vinv06_u:5570	 bhavantaḥ śrūyate bhagavān vṛjiṣu janapadeṣu cārikāṃ caran vaiśālīm anuprāpto vaiśālyāṃ viharati markaṭahradatīre kūṭāgāraśālāyām iti /	K01D0001-3_H0001-3:24a-0	༄༢༤ཨ་༌༎ ཤེས་ལྡན་དག་། བཅོམ་ལྡན་འདས་ཡུལ་སྤོང་བྱེད་ནས་ལྗོངས་རྒྱུ་ཞིང་གཤེགས་ཏེ་ཡངས་པ་ཅན་དུ་བྱོན་ནས་། ཡངས་པ་ཅན་གྱི་སྤྲེའུ་རྫིང་གི་འགྲམ་ན་ཁང་པ་བརྩེགས་པའི་གནས་ན་བཞུགས་སོ་༎ ཞེས་གྲག་གི་།
+K01vinv06_u:5571	 yady asmākam ekaiko bhagavantam upanimantrya bhojayiṣyati bhagavān viprakramiṣyati /	K01D0001-3_H0001-3:24a-4	གལ་ཏེ་བདག་ཅག་རེ་རེ་ནས་བཅོམ་ལྡན་འདས་སྤྱན་དྲངས་ཏེ་གདུགས་ཚོད་གསོལ་ན་ནི་།
+K01vinv06_u:5572	 anye 'vakāśaṃ na lapsyante /	K01D0001-3_H0001-3:24a-5	བཅོམ་ལྡན་འདས་སླར་གཤེགས་དང་གཞན་གྱི་སྐབས་མི་རྙེད་པར་འགྱུར་བས་།
+K01vinv06_u:5573	 (MSV I 225) tat kriyākāraṃ vyavasthāpayāmo yathā gaṇa eva sambhūya bhagavantaṃ bhojayati na tv ekapuruṣa iti /	K01D0001-3_H0001-3:24a-6	དེ་ལ་ཁྲིམས་ཤིག་བཅའ་སྟེ་། ཅི་ནས་ཀྱང་ཚོགས་ཤིང་འདུས་པ་ཁོ་ནས་བཅོམ་ལྡན་འདས་གདུགས་ཚོད་གསོལ་གྱི་། མི་གཅིག་པུས་ནི་མ་ཡིན་ནོ་༎
+K01vinv06_u:5574	 te kriyākāraṃ kṛtvā vyavasthitāḥ /	K01D0001-3_H0001-3:24a-9	ཞེས་དེ་རྣམས་ཀྱིས་ཁྲིམས་སུ་བཅའ་བ་དག་བྱས་ནས་བཞག་གོ་།
+K01vinv06_u:5575	 tena khalu samayena vaiśālyāṃ catvāro mahāpuṇyāḥ prativasanti /	K01D0001-3_H0001-3:24a-10	དེའི་ཚེ་ཡངས་པ་ཅན་ན་བསོད་ནམས་ཆེན་པོ་དང་ལྡན་པ་བཞི་གནས་ཏེ་།
+K01vinv06_u:5576	 dhaniko dhanikapatnī dhanikaputro dhanikasnuṣā ca /	K01D0001-3_H0001-3:24a-11	ནོར་ཅན་དང་། ནོར་ཅན་གྱི་ཆུང་མ་དང་། ནོར་ཅན་ཅན་གྱི་བུ་དང་། ནོར་ཅན་གྱི་མནའ་མའོ་༎
+K01vinv06_u:5577	 teṣāṃ divyamānuṣyaśrīr gṛhe prādurbhūtā /	K01D0001-3_H0001-3:24a-12	དེ་དག་གི་ཁྱིམ་དུ་ནི་། ལྷ་དང་མི་རྣམས་ཀྱི་ག-ཡང་བབས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5578	 tair asau kriyākāro na śrutaḥ /  aśrauṣīd dhaniko gṛhapatir bhagavān vṛjiṣu janapadeṣu cārikāṃ caran vaiśālīm anuprāpto vaiśālyāṃ viharati markaṭahradatīre kūṭāgāraśālāyām iti	K01D0001-3_H0001-3:24a-14	དེ་རྣམས་ཀྱིས་ཁྲིམས་སུ་བཅས་པ་དེ་མ་ཐོས་པར་ཁྱིམ་བདག་ནོར་ཅན་གྱིས་། བཅོམ་ལྡན་འདས་གང་ཡུལ་སྤོང་བྱེད་ནས་ལྗོངས་རྒྱུ་ཞིང་གཤེགས་ཏེ་ཡངས་པ་ཅན་དུ་བྱོན་ནས་། ཡངས་པ་ཅན་གྱི་སྤྲེའུ་རྫིང་གི་འགྲམ་ན་ཁང་པ་བརྩེགས་པའི་གནས་ན་བཞུགས་སོ་༎
+K01vinv06_u:5580	 śrutvā ca punar vaiśālyā niṣkramya yena bhagavāṃs tenopasaṃkrāntaḥ /  pūrvavad yāvat saṃpraharṣya tūṣṇīm* /	K01D0001-3_H0001-3:24a-17	ཞེས་ཐོས་སོ་༎ ཐོས་ནས་ཀྱང་ཡངས་པ་ཅན་ནས་བྱུང་ནས་། བཅོམ་ལྡན་འདས་གང་ན་བ་དེར་སོང་སྟེ་ཞེས་བྱ་བ་ནས་ཡང་དག་པར་རབ་ཏུ་དགའ་བར་མཛད་ནས་ཅང་མི་གསུང་ངོ་༎
+K01vinv06_u:5582	 atha dhaniko gṛhapatir utthāyāsanād ekāṃsam uttarāsaṃgaṃ kṛtvā yena bhagavāṃs tenāṃjaliṃ praṇamayya bhagavantam idam avocat* /	K01D0001-3_H0001-3:24b-1	དེ་ནས་ཁྱིམ་བདག་ནོར་ཅན་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་། བཅོམ་ལྡན་འདས་གང་ན་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K01vinv06_u:5583	 adhivāsayatu bhagavān me śvo 'ntargṛhe bhaktena sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:24b-4	བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་སང་བདག་གི་སྡུམ་པར་གདུགས་ཚོད་སྦྱོར་ཞིང་མཆིས་ན་།
+K01vinv06_u:5584	 adhivāsayati bhagavān dhanikasya gṛhe tūṣṇīṃbhāvena /  atha dhaniko gṛhapatir bhagavatas tūṣṇīṃbhāvenādhivāsanāṃ viditvā bhagavataḥ pādau śirasā vanditvā bhagavato 'ntikāt prakrāntaḥ /	K01D0001-3_H0001-3:24b-5	གནང་བར་མཛད་དུ་གསོལ་། བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་པས་ཁྱིམ་བདག་ནོར་ཅན་ལ་གནང་ངོ་༎ དེ་ནས་ཁྱིམ་བདག་ནོར་ཅན་གྱིས་། བཅོམ་ལྡན་འདས་ཅང་མི་གསུང་བས་གནང་བར་རིག་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་བྱས་ཏེ་། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔ་ནས་སོང་ངོ་༎
+K01vinv06_u:5586	 atha vaiśālakā brāhmaṇagṛhapatayo yena bhagavāṃs tenopasaṃkrāntāḥ /	K01D0001-3_H0001-3:24b-10	དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཡངས་པ་ཅན་ནས་བྱུང་ནས་།
+K01vinv06_u:5587	 pūrvavad yāvad adhivāsayatu asmākaṃ bhagavān śvo 'ntargṛhe bhaktena sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:24b-11	བཅོམ་ལྡན་འདས་གང་ན་བ་དེར་སོང་སྟེ་ཞེས་བྱ་བ་ནས་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་རྣམས་དང་ཐབས་ཅིག་ཏུ་སང་བདག་ཅག་གི་སྡུམ་པར་གདུགས་ཚོད་སྦྱོར་ཞིང་མཆིས་ན་གནང་བར་མཛད་དུ་གསོལ་ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ
+K01vinv06_u:5588	 bhagavān āha /	K01D0001-3_H0001-3:24b-12	༎ བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5589	 nimantrito 'smi vāsiṣṭhās [fol._223v1] tatprathamataraṃ dhanikena gṛhapatineti /	K01D0001-3_H0001-3:24b-13	གནས་འཇོག་གི་བུ་དག་། ང་སྔར་ཁྱིམ་བདག་ནོར་ཅན་གྱིས་སྤྱན་དྲངས་ཟིན་ཏོ་༎
+K01vinv06_u:5590	 te kathayanti /	K01D0001-3_H0001-3:24b-15	དེ་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5591	 bhavanto dhanikena gṛhapatinā gaṇasya kriyākāro 'tikrānta ity apare kathayanti /	K01D0001-3_H0001-3:24b-17	ཁྱིམ་བདག་ནོར་ཅན་གྱིས་ནི་། ཚོགས་ཀྱི་ཁྲིམས་བཅས་པ་ལས་འདས་པར་བྱས་སོ་༎ ཁ་ཅིག་གིས་སྨྲས་པ་།
+K01vinv06_u:5592	 (MSV I 226) kim asau vyatikramiṣyati /	K01D0001-3_H0001-3:24b-20	ཅི་སྟེ་དེ་འདས་པར་བྱེད་།
+K01vinv06_u:5593	 na tena kriyākāraḥ śrutaḥ /	K01D0001-3_H0001-3:25a-0	གདོན་མི་ཟ་བར་དེས་ཁྲིམས་བཅས་པ་མ་ཐོས་༄༢༥ཨ་༌༎
+K01vinv06_u:5594	 [GBM_6.1073b] puruṣaḥ śvo bhojayatu /	K01D0001-3_H0001-3:25a-1	སོ༏་༏འོན་ཀྱང་བདག་ཅག་པས་དེ་ནི་སྐྱེས་བུ་དམ་པ་ཡིན་པས་། གདུགས་ཚོད་གསོལ་དུ་ཆུག་།
+K01vinv06_u:5595	 vayaṃ paraśvo bhojayiṣyāma iti /	K01D0001-3_H0001-3:25a-3	བདག་ཅག་གིས་ནི་། གནངས་གདུགས་ཚོད་གསོལ་ལོ་༎
+K01vinv06_u:5596	 athāyuṣmān ānandaḥ kālyam evotthāya pātracīvaram ādāya yena dhanikasya gṛhapater niveśanaṃ tenopasaṃkrāntaḥ /	K01D0001-3_H0001-3:25a-5	དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ནང་བར་སྔར་ལངས་ཏེ་། ལྷུང་བཟེད་དང་ཆོས་གོས་ཐོགས་ནས་། ཁྱིམ་བདག་ནོར་ཅན་གྱི་ཁྱིམ་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་།
+K01vinv06_u:5597	 upasaṃkramya pūrveṇa nagaradvāreṇa praviṣṭaḥ /  yāvat paśyati nāsanaprajñaptiṃ na bhaktaṃ sajjīkṛtam* /	K01D0001-3_H0001-3:25a-8	ཤར་སྒོ་ནས་ཞུགས་པ་དང་། ཇི་ཙམ་ན༏་གདན་མ་བཤམས་ཤིང་ཞལ་ཟས་རྣམས་སྟ་གོན་མ་བྱས་པ་མཐོང་ནས་།
+K01vinv06_u:5599	 tato dhanikaṃ gṛhapatim idam avocat* /	K01D0001-3_H0001-3:25a-9	དེ་ནས་ཁྱིམ་བདག་ནོར་ཅན་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ་༎
+K01vinv06_u:5600	 gṛhapate tvaṃ buddhapramukhaṃ bhikṣusaṃgham upanimantryālpotsukaḥ sthita iti /	K01D0001-3_H0001-3:25a-10	ཁྱིམ་བདག་། ཁྱོད་ཀྱིས་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་སྤྱན་དྲངས་ནས་སྙིང་ལས་ཆུང་ངུས་གནས་སམ་།
+K01vinv06_u:5601	 sa kathayati /	K01D0001-3_H0001-3:25a-11	དེས་སྨྲས་པ་།
+K01vinv06_u:5602	 kim āryānandaiva kathayasi gṛhapate nāsanaprajñaptiṃ paśyāmi nāpy āhāraṃ sajjīkṛtam* /	K01D0001-3_H0001-3:25a-12	འཕགས་པ་ཀུན་དགའ་བོ་། ཅི་སྟེ་དེ་སྐད་གསུང་། ཁྱིམ་བདག་། གདན་མ་བཤམས་ཤིང་ཞལ་ཟས་རྣམས་སྟ་གོན་མ་བྱས་པ་མཐོང་ངོ་༎
+K01vinv06_u:5603	 ārya katareṇa tvaṃ dvāreṇa praviṣṭaḥ /  gṛhapate pūrveṇa nagaradvāreṇa /	K01D0001-3_H0001-3:25a-15	འཕགས་པ་ཁྱོད་ཆབ་སྒོ་གང་ནས་ཞུགས་། ཁྱིམ་བདག་། ཤར་ནས་སོ་༎
+K01vinv06_u:5605	 ārya dakṣiṇena praviśa /	K01D0001-3_H0001-3:25a-17	འཕགས་པ་ལྷོ་ནས་ཞུགས་ཤིག་།
+K01vinv06_u:5606	 sa dakṣiṇena praviṣṭo yāvat paśyati divyām āsanaprajñaptiṃ kṛtāṃ divyaṃ cāhāram upanvāhṛtam* /	K01D0001-3_H0001-3:25a-18	དེ་ཞུགས་པ་ལས་། ཇི་ཙམ་ན་ལྷའི་གདན་བཤམས་ཤིང་། ལྷའི་ཞལ་ཟས་རྣམས་སྟ་གོན་བྱས་པ་ཡང་མཐོང་ངོ་༎
+K01vinv06_u:5607	 dṛṣṭvā ca punaḥ paraṃ vismayam āpannaḥ /	K01D0001-3_H0001-3:25a-21	མཐོང་ནས་ཀྱང་ཤིན་ཏུ་ངོ་མཚར་སྐྱེས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5608	 atha dhaniko gṛhapatir bhagavato dūtena kālam ārocayati /	K01D0001-3_H0001-3:25a-22	དེ་ནས་ཁྱིམ་བདག་ནོར་ཅན་གྱི་སྤྱན་འདྲེན་གྱིས་། བཅོམ་ལྡན་འདས་ལ་དུས་ཚོད་གསོལ་བ་།
+K01vinv06_u:5609	 samayo bhadanta sajjaṃ bhaktam* /	K01D0001-3_H0001-3:25a-24	བཙུན་པ་། གདུགས་ཚོད་བཤམས་ཤིང་མཆིས་ན་།
+K01vinv06_u:5610	 apīdānīṃ pūrvavad bhagavantaṃ bhuktavantaṃ viditvā dhautahastam apanītapātraṃ nīcataram āsanaṃ gṛhītvā bhagavataḥ purastān niṣaṇṇo dharmaśravaṇāya	K01D0001-3_H0001-3:25a-25	བཅོམ་ལྡན་འདས་། ད་དེའི་དུས་ལ་བབ་པར་མཁྱེན་པར་མཛད་དུ་གསོལ་ཞེས་བྱ་བ་ནས་བཅོམ་ལྡན་འདས་༄༢༥བ་ཀྱིས་གསོལ་ཟིན་ནས་། ཕྱག་བཅབས་ཏེ་ལྷུང་བཟེད་གྱུ་བར་རིག་ནས་། སྟན་ཆེས་དམའ་བ་ཞིག་བླངས་ཏེ་ཆོས་མཉམ་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ་། ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5611	 atha dhanikapatnī utthāyāsanād yena bhagavāṃs tenāṃjaliṃ praṇamayya bhagavantam idam avocat* /	K01D0001-3_H0001-3:25b-4	དེ་ནས་ནོར་ཅན་གྱི་ཆུང་མ་སྟན་ལས་ལངས་ཏེ་། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K01vinv06_u:5612	 adhivāsayatu me bhagavān śvo 'ntargṛhe bhaktena sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:25b-7	བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་རྣམས་དང་ཐབས་ཅིག་ཏུ་སང་བདག་གི་སྡུམ་པར་གདུགས་ཚོད་སྦྱོར་ཞིང་མཆིས་ན་། གནང་བར་མཛད་དུ་གསོལ་།
+K01vinv06_u:5613	 adhivāsayati bhagavān dhanikapatnyā tūṣṇīṃbhāvena /	K01D0001-3_H0001-3:25b-9	བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བས་ནོར་ཅན་གྱི་ཆུང་མ་ལ་གནང་ངོ་༎
+K01vinv06_u:5614	 adhivāsya ca dhanikasya gṛhapater dharmadeśanāṃ kṛtvotthāyāsanāt prakrāntaḥ /	K01D0001-3_H0001-3:25b-10	གནང་ནས་ཀྱང་ཁྱིམ་བདག་ནོར་ཅན་ལ་ཆོས་བཤད་པ་མཛད་ནས་གདན་ལས་བཞེངས་ཏེ་གཤེགས་སོ་༎
+K01vinv06_u:5615	 dhanikapatnyāpi (MSV I 227)  bhojanaṃ sajjīkṛtam* /	K01D0001-3_H0001-3:25b-11	ནོར་ཅན་གྱི་ཆུང་མས་ཀྱང་ཞལ་ཟས་རྣམས་སྟ་གོན་བྱས་སོ་༎
+K01vinv06_u:5617	 athāyuṣmān ānandaḥ kālyam evotthāya pātracīvaram ādāya yena dhanikasya gṛhapater niveśanaṃ tenopasaṃkrāntaḥ /	K01D0001-3_H0001-3:25b-12	དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ནང་པར་སྔར་ལངས་ཏེ་། ལྷུང་བཟེད་དང་ཆོས་གོས་ཐོགས་ནས་།
+K01vinv06_u:5618	 upasaṃkramya dakṣiṇena dvāreṇa praviṣṭaḥ /	K01D0001-3_H0001-3:25b-14	ཁྱིམ་བདག་ནོར་ཅན་གྱི་ཁྱིམ་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་ལྷོ་སྒོ་ནས་ཞུགས་ནས་།
+K01vinv06_u:5619	 nāsanaprajñaptiṃ paśyati nāpy āhāraṃ sajjīkṛtam* /	K01D0001-3_H0001-3:25b-15	གདན་མ་བཤམས་ཤིང་ཞལ་ཟས་རྣམས་ཀྱང་སྟ་གོན་མ་བྱས་པར་མཐོང་ངོ་༎
+K01vinv06_u:5620	 dṛṣṭvā ca punar dhanikapatnīm idam avocat* /	K01D0001-3_H0001-3:25b-16	མཐོང་ནས་ཀྱང་ནོར་ཅན་གྱི་ཆུང་མ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ་༎
+K01vinv06_u:5621	 gṛhapatipatni buddhapramukhaṃ bhikṣusaṃgham upanimantrya kimartham ity alpotsukā tiṣṭhasīti nāsanaprajñaptiṃ nāpy āhāraṃ sajjīkṛtam* /	K01D0001-3_H0001-3:25b-17	ཁྱིམ་བདག་གི་ཆུང་མ་། སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་སྤྱན་དྲངས་ནས་ཅི་། སྙིང་ལས་ཆུང་ངུས་གནས་སམ་། དེས་སྨྲས་པ་། འཕགས་པ་། ཅི་སྟེ་དེ་སྐད་གསུང་།
+K01vinv06_u:5622	 ārya katareṇa tvaṃ dvāreṇa praviṣṭaḥ /	K01D0001-3_H0001-3:26a-1	ངོ༏་༏འཕགས་པ་། ཁྱེད་ཆབ་སྒོ་གང་ནས་ཞུགས་།
+K01vinv06_u:5623	 dakṣiṇena /	K01D0001-3_H0001-3:26a-3	ལྷོ་ནས་སོ་༎
+K01vinv06_u:5624	 ārya pūrveṇa dvāreṇa praviśa /  sa pūrveṇa praviṣṭaḥ /	K01D0001-3_H0001-3:26a-4	འཕགས་པ་ཤར་ནས་ཞུགས་ཤིག་། ཇི་ཙམ་ན་།
+K01vinv06_u:5626	 yāvat paśyati śobhanām āsanaprajñaptiṃ praṇītaṃ cāhāram upanvāhṛtam* /	K01D0001-3_H0001-3:26a-6	གདན་བཟང་པོ་བཤམས་ཤིང་། ཞལ་ཟས་བསོད་པ་སྟ་གོན་བྱས་པ་ཡང་མཐོང་ངོ་༎
+K01vinv06_u:5627	 dṛṣṭvā ca punaḥ paraṃ vismayam āpannaḥ /	K01D0001-3_H0001-3:26a-8	མཐོང་ནས་ཀྱང་ཤིན་ཏུ་ངོ་མཚར་སྐྱེས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5628	 tato dhanikapatnī bhagavato dūtena kālam ārocayati /	K01D0001-3_H0001-3:26a-9	དེ་ནས་ནོར་ཅན་གྱི་ཆུང་མའི་སྤྱན་འདྲེན་གྱིས་། བཅོམ་ལྡན་འདས་ལ་དུས་ཚོད་གསོལ་པ་།
+K01vinv06_u:5629	 samayo bhadanta sajjaṃ bhaktaṃ yasyedānīṃ bhagavān kālaṃ manyata iti /	K01D0001-3_H0001-3:26a-11	བཙུན་པ་། གདུགས་ཚོད་བཤམས་ལགས་ཤིང་མཆིས་ན་། བཅོམ་ལྡན་འདས་། ད་དེའི་དུས་ལ་བབ་པར་མཁྱེན་པར་མཛད་དུ་གསོལ་ཞེས་བྱ་བ་ནས་ཕྱག་བཅབས་ཏེ་ལྷུང་བཟེད་གྱུ་བར་རིག་ནས་།
+K01vinv06_u:5630	 pūrvavad yāvad dhautahastam apanītapātraṃ nīcataram āsanaṃ gṛhītvā purastān niṣaṇṇo dharmaśravaṇāya /	K01D0001-3_H0001-3:26a-14	སྟན་ཆེས་དམའ་བ་ཞིག་བླངས་ཏེ་ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ་། ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5631	 atha dhanikaputraḥ utthāyāsanād ekāṃsam uttarāsaṃgaṃ kṛtvā yena bhagavāṃs tenāṃjaliṃ praṇamayya bhagavantam idam avocat* /	K01D0001-3_H0001-3:26a-16	དེ་ནས་ནོར་ཅན་གྱི་བུ་སྟན་ལས་ལངས་ཏེ་། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K01vinv06_u:5632	 adhivāsayatu bhagavān śvo 'ntargṛhe bhaktena sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:26a-20	བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་སང་བདག་གི་སྡུམ་པར་གདུགས་ཚོད་སྦྱོར་ཞིང་མཆིས་ན་། གནང་བར་མཛད་དུ་གསོལ་།
+K01vinv06_u:5633	 adhivāsayati bhagavān dhanikaputrasya tūṣṇīṃbhāvena /	K01D0001-3_H0001-3:26a-22	བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བས་ནོར་ཅན་གྱི་བུ་ལ་གནང་ངོ་༎
+K01vinv06_u:5634	 atha bhagavān dhanikapatnyā dharmadeśanāṃ kṛtvā prakrāntaḥ /	K01D0001-3_H0001-3:26a-23	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ནོར་ཅན་གྱི་ཆུང་མ་ལ་ཆོས་བཤད་པ་མཛད་ནས་གཤེགས་སོ་༎
+K01vinv06_u:5635	 dhanikaputreṇāpi śucinā praṇītaṃ khādaniyabhojanīyaṃ samudānītam* /	K01D0001-3_H0001-3:26a-24	ནོར་ཅན་གྱི་བུས་ཀྱང་གཙང་ཞིང་བསོད་པའི་བཟའ་བ་དང་བཅའ་བ་དག་སྟ་གོན་བྱས་སོ་༎
+K01vinv06_u:5636	 athāyuṣmān ānandaḥ kālyam evotthāya [fol._224r1] pātracīvaram ādāya yena dhanikasya gṛhapater niveśanaṃ tenopasaṃkrāntaḥ /	K01D0001-3_H0001-3:26b-0	དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་༄༢༦བ་དགའ་བོ་ནང་པར་སྔར་ལངས་ཏེ་། ལྷུང་བཟེད་དང་ཆོས་གོས་ཐོགས་ཏེ་། ནོར་ཅན་གྱི་ཁྱིམ་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་།
+K01vinv06_u:5637	 upasaṃkramya dakṣiṇena dvāreṇa praviṣṭaḥ /	K01D0001-3_H0001-3:26b-3	ལྷོ་སྒོ་ནས་ཞུགས་ནས་།
+K01vinv06_u:5638	 nāsanaprajñaptiṃ paśyati nāpy āhāraṃ sajjīkṛtam* /	K01D0001-3_H0001-3:26b-4	གདན་མ་བཤམས་ཤིང་། ཞལ་ཟས་སྟ་གོན་མ་བྱས་པ་ཡང་མཐོང་ངོ་༎
+K01vinv06_u:5639	 dṛṣṭvā (MSV I 228) ca punar [GBM_6.1074a] dhanikaputram idam avocat* /	K01D0001-3_H0001-3:26b-6	མཐོང་ནས་ཀྱང་ནོར་ཅན་གྱི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ་༎ ཁྱིམ་བདག་གི་བུ་།
+K01vinv06_u:5640	 gṛhapatiputra tvaṃ buddhapramukhaṃ bhikṣusaṃgham upanimantrya kim alpotsukas tiṣṭhasīti /  sa kathayati /	K01D0001-3_H0001-3:26b-8	སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་སྤྱན་དྲངས་ནས་ཅི་།
+K01vinv06_u:5642	 ārya kim eva kathayasi /	K01D0001-3_H0001-3:26b-11	འཕགས་པ་། ཅི་སྟེ་དེ་སྐད་གསུང་།
+K01vinv06_u:5643	 na paśyāmy āsanaprajñaptiṃ nāpy āhāraṃ sajjīkṛtam* /	K01D0001-3_H0001-3:26b-12	གདན་མ་བཤམས་ཤིང་ཞལ་ཟས་སྟ་གོན་མ་བྱས་པ་མཐོང་ངོ་༎
+K01vinv06_u:5644	 ārya katareṇa tvaṃ dvāreṇa praviṣṭaḥ /	K01D0001-3_H0001-3:26b-13	འཕགས་པ་། ཁྱེད་ཆབ་སྒོ་གང་ནས་ཞུགས་།
+K01vinv06_u:5645	 dakṣiṇena /	K01D0001-3_H0001-3:26b-14	ལྷོ་ནས་སོ་༎
+K01vinv06_u:5646	 ārya paścimena praviśa /  yāvad asau praviṣṭaḥ /	K01D0001-3_H0001-3:26b-15	འཕགས་པ་ནུབ་ནས་ཞུགས་ཤིག་། ཇི་ཙམ་ན་།
+K01vinv06_u:5648	 yāvat paśyati śobhanām āsanaprajñaptiṃ praṇītaṃ cāhāram upanvāhṛtam* /	K01D0001-3_H0001-3:26b-17	གདན་བཟང་པོ་བཤམས་ཤིང་། ཞལ་ཟས་བསོད་པ་སྟ་གོན་བྱས་པ་ཡང་མཐོང་ངོ་༎
+K01vinv06_u:5649	 dṛṣṭvā ca punaḥ paraṃ vismayam āpannaḥ /	K01D0001-3_H0001-3:26b-19	མཐོང་ནས་ཀྱང་ཤིན་ཏུ་ངོ་མཚར་སྐྱེས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5650	 tato dhanikaputro bhagavato dūtena kālam ārocayati /	K01D0001-3_H0001-3:26b-20	དེ་ནས་ནོར་ཅན་གྱི་བུའི་སྤྱན་འདྲེན་གྱིས་། བཅོམ་ལྡན་འདས་ལ་དུས་ཚོད་གསོལ་པ་།
+K01vinv06_u:5651	 samayo bhadanta sajjaṃ bhaktaṃ yasyedānīṃ bhagavān kālaṃ manyata iti pūrvavad yāvad	K01D0001-3_H0001-3:26b-22	བཙུན་པ་། གདུགས་ཚོད་བཤམས་ལགས་ཤིང་མཆིས་ན་། བཅོམ་ལྡན་འདས་། ད་དེའི་དུས་ལ་བབ་པར་མཁྱེན་པར་མཛད་དུ་གསོལ་ཞེས་བྱ་བ་ནས་ཕྱག་བཅབས་ཏེ་ལྷུང་བཟེད་གྱུར་བར་རིག་ནས་།
+K01vinv06_u:5652	 dhautahastam apanītapātraṃ nīcataram āsanaṃ gṛhītvā bhagavataḥ purastān niṣaṇṇo dharmaśravaṇāya /  atha dhanikasnuṣā utthāyāsanād yena bhagavāṃs tenāṃjaliṃ praṇamayya bhagavantam idam avocat* /	K01D0001-3_H0001-3:26b-25	སྟན་ཆེས་དམའ་བ་ཞིག་བླངས་ཏེ་ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ་། ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎ དེ་ནས་ནོར་ཅན་གྱི་མནའ་མ་སྟན་ལས་ལངས་ཏེ་། བཅོམ་ལྡན་འདས་གང་ན་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K01vinv06_u:5654	 adhivāsayatu me bhagavān śvo 'ntargṛhe bhaktena sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:27a-0	༄༢༧ཨ་༌༎ བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་སང་བདག་གི་སྡུམ་པར་གདུགས་ཚོད་སྦྱོར་ཞིང་མཆིས་ན་། གནང་བར་མཛད་དུ་གསོལ་།
+K01vinv06_u:5655	 adhivāsayati bhagavān /	K01D0001-3_H0001-3:27a-2	བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བས་ནོར་ཅན་གྱི་མནའ་མ་ལ་གནང་ངོ་༎
+K01vinv06_u:5656	 dhanikaputrasya dharmadeśanāṃ kṛtvā prakrāntaḥ /	K01D0001-3_H0001-3:27a-3	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ནོར་ཅན་གྱི་བུ་ལ་ཆོས་བཤད་པ་མཛད་ནས་གཤེགས་སོ་༎
+K01vinv06_u:5657	 atha vaiśālakā brāhmaṇagṛhapatayo yena bhagavāṃs tenopasaṃkrāntāḥ /	K01D0001-3_H0001-3:27a-4	དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་།
+K01vinv06_u:5658	 upasaṃkramya bhagavataḥ pādau śirasā vanditvaikānte niṣaṇṇaḥ /	K01D0001-3_H0001-3:27a-5	བཅོམ་ལྡན་འདས་གང་ན་བ་དེར་སོང་སྟེ་ལྷགས་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་བྱས་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ་།
+K01vinv06_u:5659	 ekāntaniṣaṇṇān vaiśālakān brāhmaṇagṛhapatīn dharmyayā kathayā yāvat samādāpya samuttejya saṃpraharṣya tūṣṇīm* /	K01D0001-3_H0001-3:27a-6	ཕྱོགས་གཅིག་ཏུ་འདུག་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ལ་ཆོས་དང་ལྡན་པའི་གཏམ་གྱིས་ཞེས་བྱ་བ་ནས་ཅང་མི་གསུང་ངོ་༎
+K01vinv06_u:5660	 atha vaiśālakā brāhmaṇagṛhapatayaḥ utthāyāsanād ekāṃsam uttarāsaṃgaṃ kṛtvā yena bhagavāṃs tenāṃjaliṃ praṇamayya bhagavantam idam avocan* /	K01D0001-3_H0001-3:27a-8	དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་སྟན་ལས་ལངས་ཏེ་། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་། བཅོམ་ལྡན་འདས་གང་ན་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K01vinv06_u:5661	 adhivāsayatu bhagavān tv asmākaṃ śvo 'ntargṛhe bhaktena sārdhaṃ bhikṣusaṃgheneti /	K01D0001-3_H0001-3:27a-12	བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་། སང་བདག་ཅག་གི་སྡུམ་པར་གདུགས་ཚོད་སྦྱོར་ཞིང་མཆིས་ན་།
+K01vinv06_u:5663	 nimintrito 'smi vāsiṣṭhās tatprathamataraṃ dhanikasnuṣayeti /	K01D0001-3_H0001-3:27a-17	ང་སྔར་ནོར་ཅན་གྱི་མནའ་མས་སྤྱན་དྲངས་ཟིན་ཏོ་༎
+K01vinv06_u:5664	 tato vaiśālikā (MSV I 229)  brāhmaṇagṛhapatayaḥ kṣubdhāḥ kathayanti /	K01D0001-3_H0001-3:27b-0	དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་༄༢༧བ་རྣམས་རྔམ་ནས་སྨྲས་པ་།
+K01vinv06_u:5666	 bhavantaḥ kiṃ dhanikasyaikasya dhanam asti yena buddhapramukhaṃ bhikṣusaṃghaṃ pratidinaṃ bhojayati vayam avakāśaṃ na labhāmahe /	K01D0001-3_H0001-3:27b-1	ཤེས་ལྡན་དག་། ནོར་ཅན་གཅིག་པུ་ལ་ནོར་ཡོད་ཀྱི་། བདག་ཅག་ལ་མེད་དམ་། ཅི་ན་དེས་། སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ཉི་མ་རེ་རེ་གདུགས་ཚོད་གསོལ་ཞིང་།
+K01vinv06_u:5667	 katham atra pratipattavyam iti /	K01D0001-3_H0001-3:27b-6	བདག་ཅག་ཁོ་ནས་སྐབས་མ་ཐོབ་པར་གྱུར་། དེ་ལ་ཇི་ལྟར་བསྒྲུབ་པར་བྱ་།
+K01vinv06_u:5668	 apare kathayanti /	K01D0001-3_H0001-3:27b-8	གཞན་དག་གིས་སྨྲས་པ་།
+K01vinv06_u:5669	 yadā buddhapramukho bhikṣusaṃgho bhuktvā prakrāmati tadāsya gṛhād ekaikāṃ śilām udveṣṭayāma iti /	K01D0001-3_H0001-3:27b-9	གང་གི་ཚེ་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་གདུགས་ཚོད་གསོལ་ཟིན་ནས་གཤེགས་པར་གྱུར་པ་དེའི་ཚེ་། དེའི་ཁྱིམ་རྡོ་བ་རེ་རེ་ནས་བཀོགས་ཏེ་བཤིག་གོ་།
+K01vinv06_u:5670	 athāyuṣmān ānandaḥ kālyam evotthāya pātracīvaram ādāya yena gṛhapater niveśanaṃ tenopasaṃkrāntaḥ /  upasaṃkramya paścimena dvāreṇa praviṣṭaḥ /  paśyati nāsanaprajñaptiṃ nāpy āhāraṃ upanvāhṛtam* /	K01D0001-3_H0001-3:27b-11	དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ནང་པར་སྔར་ལངས་ཏེ་། ལྷུང་བཟེད་དང་ཆོས་གོས་ཐོགས་ནས་། ཁྱིམ་བདག་ནོར་ཅན་གྱི་ཁྱིམ་གང་ན་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་ནུབ་སྒོ་ནས་ཞུགས་ནས་། གདན་མ་བཤམས་ཤིང་ཞལ་ཟས་ཀྱང་སྟ་གོན་མ་བྱས་པར་མཐོང་ངོ་༎
+K01vinv06_u:5673	 dṛṣṭvā ca punar dhanikasnuṣām idam avocat* /	K01D0001-3_H0001-3:27b-15	མཐོང་ནས་ཀྱང་ནོར་ཅན་གྱི་མནའ་མ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ་༎ ནོར་ཅན་གྱི་མནའ་མ་།
+K01vinv06_u:5674	 dhanikasnuṣe buddhapramukhaṃ bhikṣusaṃgham upanimantrya kim tvam alpotsukā tiṣṭhasīti /	K01D0001-3_H0001-3:27b-17	སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་སྤྱན་དྲངས་ནས་ཅི་། སྙིང་ལས་ཆུང་དུས་གནས་སམ་།
+K01vinv06_u:5675	 sā kathayati /  maiva kathayasi /	K01D0001-3_H0001-3:27b-19	དེས་སྨྲས་པ་། འཕགས་པ་། ཅི་སྟེ་དེ་སྐད་གསུང་།
+K01vinv06_u:5677	 na paśyāmy āsanaprajñaptiṃ nāpy āhāraṃ sajjīkṛtam* /	K01D0001-3_H0001-3:27b-21	གདན་མ་བཤམས་ཤིང་ཞལ་ཟས་རྣམས་ཀྱང་སྟ་གོན་མ་བྱས་པར་མཐོང་ངོ་༎
+K01vinv06_u:5678	 ārya katareṇa tvaṃ dvāreṇa praviṣṭaḥ /	K01D0001-3_H0001-3:27b-22	འཕགས་པ་ཆབ་སྒོ་གང་ནས་ཞུགས་།
+K01vinv06_u:5679	 paścimena /	K01D0001-3_H0001-3:27b-23	ནུབ་ནས་སོ་༎
+K01vinv06_u:5680	 ārya uttareṇa praviśa /  sa uttareṇa dvāreṇa praviṣṭaḥ /	K01D0001-3_H0001-3:27b-24	འཕགས་པ་བྱང་ནས་ཞུགས་ཤིག་། དེ་ནས་བྱང་ནས་ཞུགས་ན་། ཇི་ཙམ་ན་།
+K01vinv06_u:5682	 yāvat paśyati divyām āsanaprajñaptiṃ kṛtāṃ divyaṃ cāhāram upanvāhṛtam* /	K01D0001-3_H0001-3:27b-27	ལྷའི་གདན་བཤམས་ཤིང་། ལྷའི་ཞལ་ཟས་སྟ་གོན་བྱས་པ་མཐོང་ངོ་༎
+K01vinv06_u:5683	 dṛṣṭvā ca punaḥ paraṃ vismayam āpannaḥ /	K01D0001-3_H0001-3:27b-29	མཐོང་ནས་ཀྱང་ཤིན་ཏུ་ངོ་མཚར་སྐྱེས་པར་གྱུར་ཏེ་།
+K01vinv06_u:5684	 tato dhanikasnuṣā bhagavato dūtena kālam ārocayati /	K01D0001-3_H0001-3:28a-0	དེ་ནས་ནོར་ཅན་གྱི་མནའ་མའི་༄༢༨ཨ་༌༎ སྤྱན་འདྲེན་གྱིས་བཅོམ་ལྡན་འདས་ལ་དུས་ཚོད་གསོལ་པ་།
+K01vinv06_u:5685	 [fol._224v1] samayo bhadanta sajjaṃ bhaktam* /	K01D0001-3_H0001-3:28a-2	བཙུན་པ་། གདུགས་ཚོད་བཤམས་ཤིང་མཆིས་ན་། བཅོམ་ལྡན་འདས་།
+K01vinv06_u:5686	 yasyedānīṃ pūrvavad yāvad purastād bhikṣusaṃghaya prajñapta evāsane niṣaṇṇaḥ /	K01D0001-3_H0001-3:28a-4	ད་དེའི་དུས་ལ་བབ་པར་མཁྱེན་པར་མཛད་དུ་གསོལ་ཞེས་བྱ་བ་ནས་དགེ་སློང་གི་དགེ་འདུན་གྱི་གུང་ལ་གདན་བཤམས་པ་ཉིད་ལ་བཞུགས་སོ་༎ ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5687	 atha vaiśālakā brāhmaṇagṛhapatayaḥ sarve saṃbhūya dhanikasya gṛhadvāre sthitāḥ /	K01D0001-3_H0001-3:28a-6	དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་ཐམས་ཅད་འདུས་ནས་ཁྱིམ་བདག་ནོར་ཅན་གྱི་སྒོ་ན་འདུག་གོ་།
+K01vinv06_u:5688	 [GBM_6.1074b] dhanikaṃ gṛhapatim idam avocan* /	K01D0001-3_H0001-3:28a-7	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱིམ་བདག་ནོར་ཅན་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ་༎
+K01vinv06_u:5689	 gṛhapate vaiśālako gaṇaḥ kṣuṇṇo dvāre tiṣṭhati /	K01D0001-3_H0001-3:28a-8	ཁྱིམ་བདག་། ཡངས་པ་ཅན་གྱི་ཚོགས་རྔམ་ནས་སྒོ་ན་འདུག་སྟེ་།
+K01vinv06_u:5690	 gaccha kṣamayainam* /  mā te anarthaṃ kariṣyatīti /	K01D0001-3_H0001-3:28a-9	དེ་དག་གིས་ཁྱོད་ལ་གནོད་པ་བྱས་པར་འགྱུར་དུ་འོང་གི་། སོང་ལ་བཟོད་པ་མཛོད་ཅིག་།
+K01vinv06_u:5692	 (MSV I 230) sa nirgatya kṣamāyitum ārabdhaḥ /  te kathayanti /	K01D0001-3_H0001-3:28a-11	དེ་ཕྱིར་བྱུང་ནས་བཟོད་པ་གསོལ་བར་བརྩམས་པ་དང་། དེ་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5694	 gṛhapate kiṃ tavaivaikasya dhanam asti yena tvaṃ pratidivasaṃ buddhapramukhaṃ bhikṣusaṃghaṃ bhojayasi vayam avakāśaṃ na labhāmahe iti /	K01D0001-3_H0001-3:28a-12	ཁྱིམ་བདག་། ཅི་། ཁྱོད་གཅིག་པུ་ལ་ནོར་ཡོད་དམ་། གང་གི་ཕྱིར་ཁྱོད་ཀྱིས་ཉིན་རེ་ཞིང་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ལ་གདུགས་ཚོད་གསོལ་ཏེ༏་ཁོ་བོ་ཅག་གིས་སྐབས་མི་རྙེད་པར་བྱེད་།
+K01vinv06_u:5695	 sa kathayati /	K01D0001-3_H0001-3:28a-15	དེས་སྨྲས་པ་།
+K01vinv06_u:5696	 bhavanto na mayā gaṇasya kriyākāraḥ śrutaḥ /	K01D0001-3_H0001-3:28a-16	ཤེས་ལྡན་དག་། བདག་གིས་ཚོགས་ཀྱི་ཁྲིམས་སུ་བཅས་པ་མ་ཐོས་ཀྱི་།
+K01vinv06_u:5697	 tad arhati gaṇaḥ kṣantum iti /	K01D0001-3_H0001-3:28a-18	དེ་བས་ན་། ཚོགས་ཀྱིས་བཟོད་པར་བྱ་བའི་རིགས་སོ་༎
+K01vinv06_u:5698	 apare kathayanti /	K01D0001-3_H0001-3:28a-20	གཞན་དག་གིས་སྨྲས་པ་།
+K01vinv06_u:5699	 bhavantaḥ pradhānapuruṣo 'yaṃ kṣamyatām asyeti /	K01D0001-3_H0001-3:28a-21	ཤེས་ལྡན་དག་། སྐྱེས་བུ་འདི་ནི་། འདི་ལ་བཟོད་པར་བྱའོ་༎
+K01vinv06_u:5700	 taiḥ kṣāntam* /  sa kathayati /	K01D0001-3_H0001-3:28a-25	ཞེས་དེ་རྣམས་བཟོད་པར་གྱུར་པ་དང་། དེས་སྨྲས་པ་།
+K01vinv06_u:5702	 yady evaṃ praviśata /	K01D0001-3_H0001-3:28a-26	གལ་ཏེ་དེ་ལྟ་ན་ནང་དུ་ཞུགས་ཤིག་།
+K01vinv06_u:5703	 te gṛhaṃ praviṣṭāḥ /  paśyanti śobhanām āsanaprajñaptiṃ kṛtāṃ praṇītaṃ cāhāraṃ samanvāhṛtam* /	K01D0001-3_H0001-3:28b-0	༄༢༨བ་དེ་རྣམས་ཁྱིམ་དུ་ཞུགས་པ་དང་། གདན་བཟང་པོ་བཤམས་ཤིང་ཞལ་ཟས་བསོད་པ་རྣམས་སྟ་གོན་བྱས་པ་ཡང་མཐོང་ངོ་༎
+K01vinv06_u:5705	 dṛṣṭvā ca punaḥ paraṃ vismayam āpannāḥ kathayanti /	K01D0001-3_H0001-3:28b-1	མཐོང་ནས་ཀྱང་ཤིན་ཏུ་ངོ་མཚར་སྐྱེས་པར་གྱུར་ནས་།
+K01vinv06_u:5706	 gṛhapate tvam evaiko 'rhasi buddhapramukhaṃ bhikṣusaṃghaṃ bhojayituṃ na vayam iti /	K01D0001-3_H0001-3:28b-2	སྨྲས་པ་། ཁྱིམ་བདག་། ཁྱེད་འབའ་ཞིག་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ལ་གདུགས་ཚོད་གསོལ་བར་འོས་ཀྱི་། ཁོ་བོ་ཅག་ནི་། མ་ཡིན་ནོ་༎
+K01vinv06_u:5707	 sa teṣāṃ ratnān anuprayacchati /  te na pratigṛhṇanti /	K01D0001-3_H0001-3:28b-6	དེས་དེ་རྣམས་ལ་རིན་པོ་ཆེ་དག་བྱིན་པ་དང་། དེ་རྣམས་ཀྱིས་མ་བླངས་སོ་༎
+K01vinv06_u:5709	 bhagavatābhihitāḥ /	K01D0001-3_H0001-3:28b-7	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5710	 pratigṛhṇīdhvaṃ durlabhāny etāni ratnānīti /	K01D0001-3_H0001-3:28b-8	རིན་པོ་ཆེ་འདི་དག་ནི་། རྙེད་པར་དཀའ་བ་ཡིན་གྱི་།
+K01vinv06_u:5711	 tair gṛhītāni /	K01D0001-3_H0001-3:28b-10	ལོངས་ཤིག་། དེ་རྣམས་ཀྱིས་བླངས་པ་ལས་།
+K01vinv06_u:5712	 yena ca yādṛśaṃ gṛhītaṃ tasya tādṛśam eva varṇāvabhāsaḥ saṃvṛttaḥ /	K01D0001-3_H0001-3:28b-11	གང་གིས་ཅི་འདྲ་བ་བླངས་པ་དེའི་ཁ་དོག་དེ་འདྲ་བ་ཁོ་ནར་སྣང་བར་གྱུར་ཏོ་༎
+K01vinv06_u:5713	 tato dhanikasnuṣā sukhaniṣaṇṇaṃ buddhapramukhaṃ bhikṣusaṃghaṃ viditvā śucinā praṇītena	K01D0001-3_H0001-3:28b-12	དེ་ནས་ནོར་ཅན་གྱི་མནའ་མས་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་བདེ་བར་བཞུགས་པར་རིག་ནས་།
+K01vinv06_u:5714	 khādanīyabhojanīyena pūrvavad yāvad dhautahastam apanītapātraṃ nīcataram āsanaṃ gṛhītvā  bhagavataḥ purastān niṣaṇṇo dharmaśravaṇāya /	K01D0001-3_H0001-3:28b-13	གཙང་ཞིང་བསོད་པའི་བཟའ་བ་དང་། བཅའ་བ་དག་གིས་ཞེས་བྱ་བ་ནས་ཕྱག་བཅབས་ཏེ་ལྷུང་བཟེད་གྱུ་བར་རིག་ནས་། སྟན་ཆེས་དམའ་བ་ཞིག་བླངས་ཏེ་ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ་། ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5716	 tato bhagavatā dhanikasya dhanikapatnyā dhanikaputrasya dhanikasnuṣāyāś cāśayānuśayaṃ dhātuṃ prakṛtiṃ ca viditvā caturāryasatyasaṃprativedhikī dharmadeśanā kṛtā /	K01D0001-3_H0001-3:28b-16	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ནོར་ཅན་དང་། ནོར་ཅན་གྱི་ཆུང་མ་དང་། ནོར་ཅན་གྱི་བུ་དང་། ནོར་ཅན་གྱི་མནའ་མ་རྣམས་ཀྱི་བསམ་པ་དང་། བག་ལ་ཉལ་དང་། ཁམས་དང་རང་བཞིན་མཁྱེན་ནས་།
+K01vinv06_u:5717	 yāṃ śrutvā dhanikena dhanikapatnyā dhanikaputreṇa dhanikasnuṣayā ca viṃśatiśikharaṃ samudgataṃ satkāyadṛṣṭiśailaṃ jñānavajreṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam* /	K01D0001-3_H0001-3:28b-17	གང་ཐོས་ན་ནོར་ཅན་དང་། ནོར་ཅན་གྱི་ཆུང་མ་དང་། ནོར་ཅན་གྱི་བུ་དང་། ནོར་ཅན་གྱི་མནའ་མ་རྣམས་ཀྱིས་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་ཉི་ཤུ་མཐོ་བ་། ཡེ་ཤེས་ཀྱི་རྡོ་རྗེས་བཅོམ་སྟེ་རྒྱུན་དུ་ཞུགས་པའི་༄༢༩ཨ་༌༎ འབྲས་བུ་མངོན་སུམ་དུ་བྱས་པ་དེ་ལྟ་བུར་འཕགས་པའི་བདེན་པ་བཞི་སོ་སོར་རྟོགས་པར་བྱེད་པའི་ཆོས་བཤད་པ་མཛད་དེ་།
+K01vinv06_u:5718	 (MSV I 231) te dṛṣṭasatyās trir udānam udānayanti pūrvavad yāvat* /	K01D0001-3_H0001-3:29a-2	དེ་རྣམས་ཀྱིས་བདེན་པ་མཐོང་ནས་ལན་གསུམ་དུ་ཆེད་དུ་བརྗོད་པས་ཆེད་དུ་བརྗོད་པ་ཞེས་བྱ་བ་ནས་བདག་ཅག་ནི་། མངོན་པར་འཕགས་སོ་༎
+K01vinv06_u:5719	 abhikrāntā vayaṃ bhagavantaṃ śaraṇaṃ gacchāmo dharmaṃ ca bhikṣusaṃghaṃ ca /  upāsakāṃś cāsmān dhārayantu yāvajjīvaṃ prāṇopetaṃ śaraṇagatam abhiprasannāḥ /	K01D0001-3_H0001-3:29a-5	བདག་ཅག་བཅོམ་ལྡན་འདས་དང་། ཆོས་དང་དགེ་སློང་གི་དགེ་འདུན་ལ་སྐྱབས་སུ་མཆི་ལགས་ཀྱི་། བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ཅག་དགེ་བསྙེན་དུ་གཟུང་དུ་གསོལ་།
+K01vinv06_u:5721	 atha bhagavān dhanikaṃ dhanikapatnīṃ dhanikaputraṃ dhanikasnuṣāṃ ca dharmyayā kathayā saṃdarśya samādāpya samuttejya saṃpraharṣyotthāyāsanāt prakrāntaḥ /	K01D0001-3_H0001-3:29a-8	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་། ནོར་ཅན་དང་། ནོར་ཅན་གྱི་ཆུང་མ་དང་། ནོར་ཅན་གྱི་བུ་དང་། ནོར་ཅན་གྱི་མནའ་མ་རྣམས་ལ་ཆོས་དང་ལྡན་པའི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན་། ཡང་དག་པར་འཛིན་ཏུ་འཇུག་། ཡང་དག་པར་གཟེངས་བསྟོད་། ཡང་དག་པར་རབ་ཏུ་དགའ་བར་མཛད་ནས་གདན་ལས་བཞེངས་ཏེ་གཤེགས་སོ་༎༎
+K01vinv06_u:5722	 bhikṣavaḥ saṃśayajātāḥ sarvasaṃśayacchettāraṃ buddhaṃ bhagavantaṃ papracchuḥ /	K01D0001-3_H0001-3:29a-13	འདུལ་བ་གཞི་། བམ་པོ་ང་བདུན་པ་། དགེ་སློང་རྣམས་ཐེ་ཚོམ་སྐྱེས་ནས་། ཐེ་ཚོམ་ཐམས་ཅད་གཅོད་པ་།
+K01vinv06_u:5723	 kiṃ bhadanta dhanikena dhanikapatnyā dhanikaputreṇa dhanikasnuṣayā ca karma kṛtaṃ  yasya karmaṇo vipākena āḍhye mahādhane mahābhoge kule jātā divyamānuṣīṃ ca śriyaṃ pratyanubhavanti /  bhagavataś cāntike satyadarśanaṃ kṛtam iti /	K01D0001-3_H0001-3:29a-17	སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ་། བཙུན་པ་། ནོར་ཅན་དང་། ནོར་ཅན་གྱི་མཆིས་བྲང་དང་། ནོར་ཅན་གྱི་བུ་དང་། ནོར་ཅན་གྱི་མནའ་མ་རྣམས་ཀྱིས་ལས་ཅི་ཞིག་བགྱིས་ན་། ལས་དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་༄༢༩བ་སུ་སྐྱེས་ཤིང་། ལྷ་དང་མི་རྣམས་ཀྱི་དཔལ་ཉམས་སུ་མྱོང་བར་གྱུར་ལགས་།
+K01vinv06_u:5726	 bhagavān āha /	K01D0001-3_H0001-3:29b-2	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5727	 ebhir eva bhikṣavaḥ karmāṇi kṛtāny upacitāni labdhasaṃbhārāṇi pariṇatapratyayāny oghavat pratyupasthitāny avaśyaṃbhāvīni /  pūrvavad yāvat phalanti khalu dehinām* /	K01D0001-3_H0001-3:29b-3	དགེ་སློང་དག་། འདི་རྣམས་ཁོ་ནས་ལས་རྣམས་བྱས་ཤིང་བསགས་པ་ཚོགས་རྙེད་པ་ཞེས་བྱ་བ་ནས་། འབྲས་བུ་དག་ཏུ་འགྱུར་བ་ཉིད་༎ ཅེས་བྱ་བའི་བར་གོང་མ་བཞིན་ནོ་༎
+K01vinv06_u:5729	 bhūtapurvaṃ bhikṣavo vārāṇasyām anyatamo mālākāraḥ (fol. 225r1 = GBM 6.1059; MSV,Wi 108)	K01D0001-3_H0001-3:29b-7	དགེ་སློང་དག་། སྔོན་བྱུང་བ་། ཝའ་ར་ནའ་སི་ན་མེ་ཏོག་ཕྲེང་རྒྱུན་མཁན་ཞིག་ཡོད་པ་དེས་། རིགས་མཉམ་པ་ལས་ཆུང་མ་བླངས་ཏེ་།
+K01vinv06_u:5730	 prativasati tena sadṛśāt kulāt kalataram ānītaṃ sa tayā sārdhaṃ krīḍati ramate paricārayati /  tasya krīḍato ramamāṇasya paricārayataḥ putro jātaḥ tenāpy asau sadṛśāt kulāt pariṇītaḥ	K01D0001-3_H0001-3:29b-11	དེ་དེ་དང་ལྷན་ཅིག་རྩེ་བར་བྱེད་། དགའ་བར་བྱེད་། དེ་ལྷན་ཅིག་རྩེ་བར་བྱེད་། དགའ་བར་བྱེད་། དགའ་མགུར་སྤྱོད་པར་བྱེད་པ་ལས་ཁྱེའུ་ཞིག་བཙས་སོ་༎ དེས་དེར་ཡང་རིགས་མཉམ་པ་ལས་ཆུང་མ་བླངས་སོ་༎
+K01vinv06_u:5732	 so [GBM_6.1075a] 'pareṇa samayena daridraḥ saṃvṛttaḥ paramadaridras tena saputrakalatrasnuṣeṇa /	K01D0001-3_H0001-3:29b-18	དེ་དུས་ཕྱི་ཞིག་ན་བཀྲེན་ཞིང་ཤིན་ཏུ་བཀྲེན་པར་གྱུར་ནས་།
+K01vinv06_u:5733	 mahatā yatnenaikaḥ paṭaḥ saṃpāditas tatas taṃ prāvṛtya mālākāro rājñe puṣpāṇy upanāmayati /	K01D0001-3_H0001-3:29b-19	དེ་དང་། བུ་དང་། ཆུང་མ་དང་། མནའ་མས་བརྩོན་པ་ཆེན་པོས་འབད་པས་དར་ཡུག་གཅིག་ཅིག་གྲུབ་ནས་། དེ་ནས་མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་ཡང་དེ་བགོས་ནས་རྒྱལ་པོ་ལ་མེ་ཏོག་ཕྲེང་འབུལ་།
+K01vinv06_u:5734	 tam eva prāvṛtya mālākārapatnī antaḥpurāyopanayati mālākāraputro 'pi tam eva prāvṛtya kumārāṇāṃ upanayati /  mālākārasnuṣāpi tam eva prāvṛtya rājñaḥ snuṣāṇāṃ puṣpāṇy upanayati /	K01D0001-3_H0001-3:29b-21	མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་ཆུང་མ་ཡང་དེ་ཉིད་བགོས་ནས་བཙུན་མོ་ལ་འབུལ་། མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་བུ་ཡང་དེ་ཉིད་བགོས་ནས་གཞོན་ནུ་རྣམས་ལ་འབུལ་། མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་མནའ་མ་ཡང་དེ་ཉིད་བགོས་ནས་རྒྱལ་པོའི་མནའ་མ་རྣམས་ལ་མེ་ཏོག་ཕྲེང་འབུལ་བར་བྱེད་དོ་༎
+K01vinv06_u:5736	 asati buddhānām utpāde pratyekabuddhā loka utpadyante hīnadīnānukampakāḥ prāntaśayanāsanabhaktā ekadakṣiṇīyā lokasya /	K01D0001-3_H0001-3:29b-24	སངས་རྒྱས་རྣམས་འབྱུང་བ་མེད་པ་ན་། འཇིག་རྟེན་དུ་རང་སངས་རྒྱས་དམན་པ་དང་། ངན་པ་ལ་སྙིང་བརྩེ་བ་། གནས་མལ་བས་མཐའ་ལ་བརྟེན་པ་། ༄༣༠ཨ་༌༎ འཇིག་རྟེན་གྱི་ཡོན་གནས་གཅིག་བུ་དག་འབྱུང་བར་འགྱུར་བས་།
+K01vinv06_u:5737	 yāvad anyatamaḥ pratyekabuddho janapadacārikāṃ caraṃ sūryasyāstaṃgamanakālasamaye vārāṇasīm anuprāptaḥ /	K01D0001-3_H0001-3:30a-1	ཇི་ཙམ་ན་། རང་སངས་རྒྱས་ཤིག་ལྗོངས་རྒྱུ་ཞིང་འགྲོ་བ་ན་། ཉི་མ་ནུབ་ཀའི་དུས་སུ་ཝའ་ར་ནའ་སིར་ཕྱིན་ནས་མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་དེའི་ཁྱིམ་གྲོང་ཁྱེར་གྱི་སྒོ་ན་འདུག་པ་དེའི་ལྡུམ་རར་ནུབ་མོ་གནས་བཏབ་སྟེ་མེའི་ཁམས་ལ་སྙོམས་པར་ཞུགས་སོ་༎
+K01vinv06_u:5739	 Wi_109] nagarasaṃpraveśe gṛhaṃ tasya ca vāṭikāyāṃ rātriṃ vāsam upagatas tejodhātuṃ  samāpannaḥ tatas tena mālākāreṇa dṛṣṭo 'gniskandha iva jvalaṃ tena prasādajātena	K01D0001-3_H0001-3:30a-4	དེ་ནས་མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་དེས་། མེའི་ཕུང་པོ་འབར་བ་ལར་བུར་མཐོང་ནས་དེ་དད་པ་སྐྱེས་ཏེ་ཆུང་མ་ལ་སྨྲས་པ་དང་དེ་ཡང་དད་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5741	 patnyāḥ samākhyātaṃ sābhiprasannā tayā putrasya so 'bhiprasannas tenāpi snuṣāyā ākhyātaṃ	K01D0001-3_H0001-3:30a-6	དེས་བུ་ལ་སྨྲས་པ་དང་དེ་ཡག་དད་པར་གྱུར་ཏོ་༎ དེས་མནའ་མ་ལ་སྨྲས་པ་དང་དེ་ཡང་དད་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5742	 sābhiprasannā tatas te saṃjalpaṃ kartum ārabdhāḥ alam asmākaṃ śvo bhaktena ayaṃ pravrajitaḥ  śāntātmā saṃbhūyainaṃ bhojayāma iti /	K01D0001-3_H0001-3:30a-8	དེ་ནས་དེ་རྣམས་ཀྱིས་གྲོས་བྱ་བར་བརྩམས་པ་དང་། བདག་ཅག་སང་ཟན་མ་ཟོས་ཀྱང་བླ་། འདུས་ལ་རབ་ཏུ་བྱུང་བ་། ཞི་བ་། ཞི་བའི་བདག་ཉིད་ཅན་འདིར་བཤོས་གསོལ་ལོ་༎
+K01vinv06_u:5744	 tataḥ prabhātāyāṃ rajanyāṃ tair asau piṇḍakena pratipāditaḥ mālākāraḥ kathayati bhadre	K01D0001-3_H0001-3:30a-11	དེ་ནས་ནམ་ལངས་ནས་། དེ་རྣམས་ཀྱིས་དེ་ལ་བསོད་སྙོམས་ཕུལ་ལོ་༎ མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱིས་སྨྲས་པ་།
+K01vinv06_u:5745	 yo mama paṭapratyaṃśas tam asmai pravrajitāya pratipādayāmi .. sā kathayaty āryaputra	K01D0001-3_H0001-3:30a-14	བཟང་མོ་། ཁོ་བོའི་རས་ཀྱི་བགོ་སྐལ་གང་ཡིན་པ་དེ་ནི་། རབ་ཏུ་བྱུང་བ་འདི་ལ་དབུལ་ལོ་༎ དེས་སྨྲས་པ་། རྗེའི་སྲས་། བདག་གི་ཡང་དབུལ་ལོ་༎
+K01vinv06_u:5746	 mayā dattaḥ putraḥ kathayati mayā dattaḥ snuṣā kathayati mayāpi datta iti /	K01D0001-3_H0001-3:30a-18	བུས་སྨྲས་པ་། བདག་གི་ཡང་དབུལ་ལོ་༎ མནའ་མས་སྨྲས་པ་། བདག་གི་ཡང་དབུལ་ལོ་༎
+K01vinv06_u:5747	 tatas tair asau saṃbhūya paṭenācchāditaḥ kāyikī teṣāṃ mahātmanāṃ dharmadeśanā na vācikī /	K01D0001-3_H0001-3:30a-22	དེས་དེ་རྣམས་འདུས་ནས་དེ་ལ་རས་བསྐོན་ཏོ་༎ བདག་ཉིད་ཆེན་པོ་དེ་དག་ནི་། ལུས་ཀྱིས་ཆོས་སྟོན་གྱི་། ཚིག་གིས་མ་ཡིན་པས་།
+K01vinv06_u:5748	 tataḥ sa mahātmā teṣām anukampayā uparivihāyasam abhyudgamya jvalanatapanavarṣaṇavidyotanaprātihāryāṇi	K01D0001-3_H0001-3:30b-0	དེ་ནས་བདག་ཉིད་ཆེན་པོ་དེ་དེ་རྣམས་ལ་སྙིང་བརྩེ་བའི་ཕྱིར་ནམ་༄༣༠བ་མཁའ་ལ་འཕགས་ནས་། འབར་བ་དང་། གསལ་བ་དང་། ཆར་འབེབས་པ་དང་། གློག་འབྱིན་པའི་ཆོ་འཕྲུལ་དག་བྱ་བར་བརྩམས་སོ་༎
+K01vinv06_u:5750	 iva drumāḥ pādayor nipatya praṇidhānaṃ kartum ārabdhāḥ yad asmābhir evaṃvidhe sadbhūtadakṣiṇīye	K01D0001-3_H0001-3:30b-2	སོ་སོའི་སྐྱེ་བོ་རྣམས་ནི་། རྫུ་འཕྲུལ་ལ་མྱུར་དུ་སེམས་གཏོད་པ་ཡིན་པས་། ཤིང་རྩ་བ་ནས་བཅད་པ་བཞིན་དུ་རྐང་པ་གཉིས་ལ་གཏུགས་ཏེ་སྨོན་ལམ་གདབ་པར་བརྩམས་པ་། བདག་ཅག་གིས་ཡོང་ནས་དམ་པ་འདི་ལྟ་བུ་ལ་བྱ་བ་བྱས་པའི་དགེ་བའི་རྩ་བ་འདིས་།
+K01vinv06_u:5751	 kāraḥ kṛto 'nena vayaṃ kuśalamūlenāḍhye mahādhane mahābhoge kule jāyema divyamānuṣī  asmākaṃ gṛhe śrīḥ prādurbhaved evaṃvidhānāṃ ca dharmāṇāṃ lābhinaḥ syāma /	K01D0001-3_H0001-3:30b-6	བདག་ཅག་ཕྱུག་ཅིང་ནོར་མང་ལ་། ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་ཞིང་། བདག་ཅག་གི་ཁྱིམ་དུ་ལྷ་དང་། མིའི་ག-ཡང་འབབ་པར་གྱུར་ཅིག་། འདི་ལ་བུའི་ཆོས་རྣམས་ཀྱང་ཐོབ་ནས་།
+K01vinv06_u:5753	 prativiśiṣṭataraṃ cātaḥ śāstāram ārāgayemo mā virāgayema iti /	K01D0001-3_H0001-3:30b-10	འདི་བས་ཁྱད་པར་འཕགས་པའི་སྟོན་པ་མཉེས་པར་བྱེད་ཀྱི་། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག་།
+K01vinv06_u:5754	 tataḥ pratyekabuddhas teṣāṃ anukampayā riddhiṃ kṛtvā rājakulasyopariṣṭhāt saṃprasthitaḥ /  Wi_110] rājña upari patitā sa ūrdhvamukho nirīkṣitum ārabdhaḥ paśyati taṃ mahātmānaṃ sa saṃlakṣayati kasyāpy anena mahātmanā dāridramūlāni samuddhṛtāni	K01D0001-3_H0001-3:30b-13	དེ་ནས་རང་སངས་རྒྱས་ཀྱིས་དེ་རྣམས་ལ་སྙིང་བརྩེ་བས་རྫུ་འཕྲུལ་བྱས་ནས་རྒྱལ་པོའི་ཁབ་ཀྱི་སྟེང་ན་ཕར་ཆས་ཏེ་སོང་བ་དང་། དེའི་གྲིབ་མས་རྒྱལ་པོའི་སྟེང་དུ་བབ་པ་དང་། དེ་གདོང་བསྟོད་དེ་བལྟ་བར་བརྩམས་པ་དང་། བདག་ཉིད་ཆེན་པོ་དེ་མཐོང་ནས་དེས་བསམ་པ་། བདག་ཉིད་ཆེན་པོ་འདིས་།
+K01vinv06_u:5757	 tasya mālākārasya	K01D0001-3_H0001-3:30b-16	ཡང་སུ་ཞིག་གི་བཀྲེན་པའི་རྩ་བ་ཕྱུང་བར་གྱུར་སྙམ་མོ་༎
+K01vinv06_u:5758	 yaḥ kālo rājñe puṣpāṇy upanāmayituṃ so 'tikrāntaḥ /	K01D0001-3_H0001-3:30b-17	མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་དེ་རྒྱལ་པོ་ལ་མེ་ཏོག་འབུལ་བའི་དུས་གང་ཡིན་པ་དེ་ལས་ཐེག་གེ་ཙམ་ཞིག་ཡོལ་ལོ་༎
+K01vinv06_u:5759	 rājāpi puṣpāṇi pratīkṣamāṇas tiṣṭhati /	K01D0001-3_H0001-3:30b-18	རྒྱལ་པོ་ཡང་མེ་ཏོག་ལ་སྡོད་ཅིང་འདུག་གོ་།
+K01vinv06_u:5760	 tato mālākāro rājapuruṣair āhūtaḥ sa rājñābhihitaḥ kimarthaṃ tavādya puṣpavelātikrānteti /	K01D0001-3_H0001-3:30b-19	དེ་ནས་མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་དེ་། རྒྱལ་པོའི་ཞོ་ཤས་འཚོ་བ་རྣམས་ཀྱིས་བཀུག་པ་དང་། རྒྱལ་པོས་དེ་ལ་སྨྲས་པ་། ཅིའི་ཕྱིར་ཁྱོད་ཀྱིས་མེ་ཏོག་དེ་རིང་དུས་ལས་ཡོལ་།
+K01vinv06_u:5761	 tena vistareṇa yathābhūtam ākhyātaṃ /	K01D0001-3_H0001-3:31a-0	༄༣༡ཨ་༌༎ དེས་ཇི་ལྟར་གྱུར་པ་རྒྱས་པར་སྨྲས་པ་དང་། དེ་ནས་རྒྱལ་པོས་ཇི་སྙེད་གྱོན་པ་བྱིན་ནོ་༎
+K01vinv06_u:5762	 tato rājñā yathāprāvṛtenācchāditaḥ evaṃ mālākārapatnī [fol._225v1] antaḥpureṇa yathāprāvṛtenācchāditā  mālākāraputro kumārair [GBM_6.1060] mālākārasnuṣā rājavadhūbhis tasya dṛṣṭa eva dharme	K01D0001-3_H0001-3:31a-1	དེ་བཞིན་དུ་མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་ཆུང་མ་ལ་ནི་། བཙུན་མོ་རྣམས་ཀྱིས་ཇི་སྙེད་གྱོན་པ་བྱིན་ནོ་༎ མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་བུ་ལ་ནི་། གཞོན་ནུ་རྣམས་ཀྱིས་སོ་༎ མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་མནའ་མ་ལ་ནི་། རྒྱལ་པོའི་མནའ་མ་རྣམས་ཀྱིས་ཏེ་།
+K01vinv06_u:5764	 dhanaḥ puṣpair abhinirvṛttaḥ adaridraḥ saṃvṛttaḥ kiṃ manyadhve bhikṣavo yo 'sau [GBM_6.1075b]	K01D0001-3_H0001-3:31a-7	དེ་མཐོང་བའི་ཆོས་དེ་ཉིད་ལ་ནོར་གྱི་མེ་ཏོག་མངོན་པར་གྲུབ་པར་གྱུར་ཏེ་། དབུལ་བ་མེད་པར་གྱུར་ཏོ་༎ དགེ་སློང་དག་། ཇི་སྙམ་དུ་སེམས་།
+K01vinv06_u:5765	 mālākāra evāsau dhanikas tena kālena tena samayena mālākārapatnī dhanikapatnī mālākāraputro	K01D0001-3_H0001-3:31a-11	དེའི་ཚེ་དེའི་དུས་ཀྱི་མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གང་ཡིན་པ་དེ་ནི་། ནོར་ཅན་འདི་ཉིད་ཡིན་ནོ་༎ མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་ཆུང་མ་གང་ཡིན་པ་དེ་ནི་། ནོར་ཅན་གྱི་ཆུང་མ་ཡིན་ནོ་༎ མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་བུ་གང་ཡིན་པ་དེ་ནི་། ནོར་ཅན་གྱི་བུ་ཡིན་ནོ་༎
+K01vinv06_u:5766	 dhanikaputro mālākārasnuṣā dhanikasnuṣā yad ebhiḥ pratyekabuddhe kārān kṛtvā praṇidhānaṃ  kṛtaṃ tasya karmaṇo vipākena āḍhye mahādhane mahābhoge kule jātā divyamānuṣi śrīḥ	K01D0001-3_H0001-3:31a-17	མེ་ཏོག་ཕྲེང་རྒྱུད་མཁན་གྱི་མནའ་མ་གང་ཡིན་པ་དེ་ནི་། ནོར་ཅན་གྱི་མནའ་མ་ཡིན་ཏེ་། འདི་དག་གིས་རང་སངས་རྒྱས་ལ་བྱ་བ་བྱས་ཤིང་། སྨོན་ལམ་བཏབ་པ་གང་ཡིན་པ་དེའི་ལས་ཀྱི་རྣམ་པར་སྨིན་པས་། ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ནས་། ཁྱིམ་དུ་ལྷ་དང་མིའི་ག-ཡང་བབས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5768	 gṛhe prādurbhūtā mama cāntike satyāni dṛṣṭāni /	K01D0001-3_H0001-3:31a-23	ངའི་སྤྱན་སྔ་ནས་ཀྱང་བདེན་པ་མཐོང་བར་བྱས་ཏེ་།
+K01vinv06_u:5769	 ahaṃ caibhiḥ pratyekabuddhakoṭīśatasahasrebhyaḥ prativiśiṣṭataraḥ śāstā ārāgito na	K01D0001-3_H0001-3:31a-24	ང་རང་སངས་རྒྱས་བྱེ་བ་བརྒྱ་སྟོང་བས་ཁྱད་པར་དུ་འཕགས་པའི་སྟོན་པ་། འདི་དག་གིས་མཉེས་པར་བྱས་ཀྱི་། མི་མཉེས་པར་ནི་མ་ཡིན་ནོ་༎
+K01vinv06_u:5770	 virāgita iti hi bhikṣavaḥ ekāntakṛṣṇānāṃ karmaṇāṃ pūrvavad yāvad ābhogaḥ karaṇīya	K01D0001-3_H0001-3:31a-27	དགེ་སློང་དག་། དེ་ལྟ་བས་ན་།
+K01vinv06_u:5771	 ity evaṃ vo bhikṣavaḥ śikṣitavyam*	K01D0001-3_H0001-3:31b-1	དགེ་སློང་དག་། ཁྱེད་ཀྱིས་དེ་ལྟ་བུ་ལ་བསླབ་པར་བྱའོ་༎
+K01vinv06_u:5772	 atha vaiśālakā brāhmaṇagṛhapatayo bhūyasyā mātrayābhiprasannā utthāyāsanād yena bhagavāṃs	K01D0001-3_H0001-3:31b-3	ཞེས་པའི་བར་གོང་མ་བཞིན་དུའོ་༎ དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ལྷག་པར་ཡང་མངོན་པར་དད་པར་གྱུར་ནས་སྟན་ལས་ལངས་ཏེ་།
+K01vinv06_u:5773	 tenāṃjaliṃ praṇamayya bhagavantam idam avocan* adhivāsayatv asmākaṃ bhagavāṃs traimāsīṃ  cīvarapiṇḍapātaśayanāsanaglānapratyayabhaiṣajyapariṣkāraiḥ sārdhaṃ bhikṣusaṃghenety	K01D0001-3_H0001-3:31b-5	བཅོམ་ལྡན་འདས་གང་ན་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎ བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ལ་བདག་ཅག་གིས་དགུང་ཟླ་གསུམ་དུ་ན་བཟའ་ཆོས་གོས་དང་། བསོད་སྙོམས་དང་། གཟིམས་ཆ་དང་། སྙུན་དཔྱད་ཀྱི་རྐྱེན་སྨན་དང་ཡོ་བྱད་རྣམས་འབུལ་ཞིང་མཆིས་ན་། གནང་བར་མཛད་དུ་གསོལ་།
+K01vinv06_u:5775	 adhivāsayati bhagavāṃ vaiśālakānāṃ brāhmaṇagṛhapatīnāṃ tūṣṇīṃbhāvena /	K01D0001-3_H0001-3:31b-9	བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ལ་གནང་ངོ་༎
+K01vinv06_u:5776	 atha vaiśālakā brāhmaṇagṛhapatayo bhagavatas tūṣṇīṃbhāvenādhivāsanāṃ viditvā bhagavataḥ pādau śirasā vanditvotthāyāsanāt prakrāntaḥ /	K01D0001-3_H0001-3:31b-10	དེ་ནས་ཡངས་པ་ཅན་གྱི་ཁྱིམ་བདག་དང་། བྲམ་ཟེ་རྣམས་བཅོམ་ལྡན་འདས་ཅང་མི་གསུང་བས་གནང་བར་རིག་ནས་། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་བྱས་ནས་སྟན་ལས་ལངས་ཏེ་དོང་ངོ་༎
+K01vinv06_u:5777	 atha vaiśālakā brāhmaṇagṛhapatayas tām eva rātriṃ śuci praṇītaṃ khādanīyabhojanīyaṃ	K01D0001-3_H0001-3:31b-12	དེ་ནས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་ཁྱིམ་བདག་རྣམས་ཀྱིས་།
+K01vinv06_u:5778	 samudānīya pūrvavad yāvad dhautahastam apanītapātraṃ nīcataram āsanaṃ gṛhītvā bhagavataḥ  purastān niṣaṇṇā dharmaśravaṇāya /	K01D0001-3_H0001-3:31b-13	དེ་ཉིད་ཀྱི་ནུབ་མོ་ནས་གཙང་ཞིང་བསོད་པའི་བཟའ་བ་དང་། བཅའ་བ་དག་སྟ་གོན་བྱས་ཏེ་ཞེས་བྱ་བ་ནས་ཕྱག་བཅབས་ཏེ་ལྷུང་བཟེད་གྱུ་བར་རིག་ནས་། སྟན་ཆེས་དམའ་བ་ཞིག་བླངས་ཏེ་ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ་། ཞེས་བྱ་བའི་བར་གོང་མ་བཞིན་དུའོ་༎
+K01vinv06_u:5780	 atha bhagavān vaiśālakān brāhmaṇagṛhapatīn dharmyayā kathayā saṃdarśya samādāpya samuttejya saṃpraharṣyotthāyāsanāt prakrāntaḥ /	K01D0001-3_H0001-3:31b-16	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ལ་ཆོས་དང་ལྡན་པའི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན་། ༄༣༢ཨ་༌༎ ཡང་དག་པར་འཛིན་དུ་བཅུག་། ཡང་དག་པར་རབ་ཏུ་དགའ་བར་མཛད་ནས་གདན་ལས་བཞེངས་ཏེ་གཤེགས་སོ་༎
+K01vinv06_u:5781	 evaṃ dvau trayo vā divasā atikrāntaḥ vaiśālakā brāhmaṇagṛhapatayo vistīrṇaparivārāḥ sakṛcchraś ca kālo vartate /	K01D0001-3_H0001-3:32a-3	དེ་ཉིད་དུ་ཉི་མ་གཉིས་སམ་། གསུམ་གྱི་བར་དུ་འདས་སོ་༎ ཡངས་པ་ཅན་གྱི་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱི་འཁོར་རྒྱ་ཆེན་པོ་མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་བས་།
+K01vinv06_u:5782	 te teṣāṃ jñātayo bhojanam iti kṛtvā pratyaham upasaṃkrāmanti tair upadrūyamāṇā bhikṣūṇāṃ	K01D0001-3_H0001-3:32a-6	དེ་རྣམས་ཀྱི་ཉེ་དུ་དག་ཟས་ཀྱི་ཕྱིར་ཉི་མ་རེ་རེ་ཞིང་འོང་བས་དེ་དག་གིས་གཙེས་པར་གྱུར་ནས་།
+K01vinv06_u:5783	 kathayanti āryāḥ sakṛcchraḥ kālo vartate 'smākaṃ jñātaya ākāṃkṣamāṇā upasaṃkrāmanti	K01D0001-3_H0001-3:32a-7	དགེ་སློང་རྣམས་ལ་སྨྲས་པ་། འཕགས་པ་དག་། མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་བས་། བདག་ཅག་གི་ཉེ་དུ་དག་སྐྲུར་མཆིས་ཏེ་།
+K01vinv06_u:5784	 teṣāṃ vayaṃ pratyaham anuprayacchāmo na ca śaknumo yuṣmākaṃ teṣāṃ ca saṃpādayitum*	K01D0001-3_H0001-3:32a-11	དེ་རྣམས་ལ་བདག་ཅག་གདུགས་གཅིག་བཞིན་སྩོལ་བས་། ཁྱེད་ཅག་དང་དེ་རྣམས་ལ་ཁྱབ་པར་རྔོ་མི་ཐོགས་ན་།
+K01vinv06_u:5785	 aho vatāryakāḥ pratijāgṛyur vayam upakaraṇāni prayacchāma iti bhikṣavaḥ kathayanti /  bhagavantam avalokayāma iti /	K01D0001-3_H0001-3:32a-13	ཀྱེ་འཕགས་པ་དག་། བདག་ཅག་གིས་ཡོ་བྱད་རྣམས་དབུལ་གྱི་། ཞལ་ཏ་ཁོ་ན་མཛོད་ཅིག་། དགེ་སློང་རྣམས་ཀྱིས་སྨྲས་པ༏་བཅོམ་ལྡན་འདས་ལ་ཞུས་ཏེ་བྱའོ་༎
+K01vinv06_u:5787	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /	K01D0001-3_H0001-3:32a-17	ཞེས་དགེ་སློང་རྣམས་ཀྱིས་སྐབས་དེ་།
+K01vinv06_u:5788	 bhagavān āha //	K01D0001-3_H0001-3:32a-18	བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5789	 tasmād anujānāmi bhikṣubhiḥ pratijāgartavyam iti /	K01D0001-3_H0001-3:32a-19	དེ་ལྟ་བས་ན་། རྗེས་སུ་གནང་སྟེ་། དགེ་སློང་རྣམས་ཀྱིས་ཞལ་ཏ་བྱའོ་༎
+K01vinv06_u:5790	 uktaṃ bhagavatā bhikṣubhir bhaktaṃ pratijāgartavyam iti /	K01D0001-3_H0001-3:32a-22	བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ཀྱིས་ཟས་ཀྱི་ཞལ་ཏ་བྱའོ་ཞེས་གསུངས་པས་།
+K01vinv06_u:5791	 te pratijāgartum ārabdhāḥ /	K01D0001-3_H0001-3:32a-23	དེ་རྣམས་ཀྱིས་ཞལ་ཏ་བྱ་བར་བརྩམས་ཏེ་།
+K01vinv06_u:5792	 yāvad abhyavakāśe pratijāgrati peyā ca sādhyate devaś ca vṛṣṭaḥ sā ca naṣṭā /  etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /	K01D0001-3_H0001-3:32a-24	ཇི་ཙམ་ན་། སྟེང་ག-ཡོགས་མེད་པར་ཐུག་པ་འཚེད་པའི་ཞལ་ཏ་བྱས་པ་ལས་། ལྷས་ཆར་ཕབ་པས་དེས་མ་རུང་བར་གྱུར་པའི་སྐབས་དེ་།
+K01vinv06_u:5794	 bhagavān āha /	K01D0001-3_H0001-3:32a-27	བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5795	 nābhyavakāśe sādhayitavyam* dvārakoṣṭhake prāsāde sādhayanti /  bhagavān āha /	K01D0001-3_H0001-3:32b-0	སྟེང་ག-ཡོགས་༄༣༢བ་མེད་པར་བཙོ་བར་མི་བྱའོ་༎ སྒོ་ཁང་དང་། ཁྱམས་སུ་འཚེད་པར་བྱེད་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5797	 na dvārakoṣṭhake na prāsāde /	K01D0001-3_H0001-3:32b-2	སྒོ་ཁང་དང་། ཁྱམས་སུ་བཙོ་བར་མི་བྱའོ་༎ དགེ་སློང་དག་།
+K01vinv06_u:5798	 tasmāt tarhi bhikṣavo daśemāny akalpikāni  kalpikaśālāvastūni yeṣu bhaktaṃ na pratijāgartavyaṃ katamāni daśa (MSV I 234.6)	K01D0001-3_H0001-3:32b-4	དེ་ལྟ་བས་ན་། རུང་བའི་གནས་ཀྱི་གཞིར་མི་རུང་བ་ནི་། བཅུ་པོ་འདི་དག་སྟེ་། འདི་རྣམས་སུ་ཟས་ཀྱི་ཞལ་ཏ་མི་བྱའོ་༎ བཅུ་གང་ཞེ་ན་།
+K01vinv06_u:5800	 abhyavakāśadvārakoṣṭhakaprāsādāgniśālāyantradhararājāṅganadevasthānagṛhapatikuṭibhikṣuṇīśālā /	K01D0001-3_H0001-3:32b-9	སྟེང་ག-ཡོགས་མེད་པ་དང་། སྒོ་ཁང་དང་། ཁྱམས་དང་། བསྲོ་ཁང་དང་། ཁྲུས་ཁང་དང་རྒྱལ་པོའི་གནས་དང་། མཆོད་རྟེན་གྱི་གནས་དང་། མུ་སྟེགས་ཅན་གྱི་གནས་དང་། ཁྱིམ་བདག་གི་གནས་དང་། དགེ་སློང་མའི་དབྱར་ཁང་ངོ་༎
+K01vinv06_u:5801	 etāni [fol._226r1] śālāvastūni yeṣu bhaktaṃ na pratijāgartavyaṃ /	K01D0001-3_H0001-3:32b-10	གཞི་བཅུ་པོ་འདི་དག་ནི་། རུང་བ་མ་ཡིན་པའི་གནས་ཀྱི་གཞི་ཡིན་ཏེ་། དེ་རྣམས་སུ་དགེ་སློང་གིས་ཟས་ཀྱི་ཞལ་ཏ་མི་བྱའོ་༎
+K01vinv06_u:5802	 pratijāgrati sātiśarā bhavanti /	K01D0001-3_H0001-3:32b-13	ཞལ་ཏ་བྱེད་ན་། འགལ་ཚབས་ཅན་དུ་འགྱུར་རོ་༎
+K01vinv06_u:5803	 uddānam* / ....	K01D0001-3_H0001-3:32b-15	སྡོམ་ནི་། ནད་བུ་ཅན་དང་ཟས་དག་དང་། ག-ཡར་ཚུས་ལྷག་པ་དག་དང་ཡང་༎ ཚལ་གྱི་འབྲས་བུ་ཆུ་སྐྱེས་དང་༎ པདམའི་རྩ་དང་ལུག་དག་གོ་།
+K01vinv06_u:5804	 śrāvastyāṃ nidānam* /	K01D0001-3_H0001-3:32b-17	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎ མཉན་ཡོད་ན་།
+K01vinv06_u:5805	 athānyatamasya bhikṣor glānyam utpannam* /  sa vaidyasakāśam upasaṃkrāntaḥ kathayati /  bhadramukha bhaiṣajyaṃ vyapadiśa /  tena roganidānaṃ pṛṣṭvā abhihitaḥ /	K01D0001-3_H0001-3:32b-20	དགེ་སློང་ནད་བུ་ཅན་ཞིག་ཡོད་པས་དེས་སྨན་པ་ལ་དྲིས་པ་། བཞིན་བཟང་དག་། ཁོ་བོ་ལ་སྨན་སྟོན་ཅིག་། དེས་ནད་ཀྱི་གཞི་དྲིས་ནས་སྨྲས་པ་།
+K01vinv06_u:5809	 ārya peyāṃ piba svastho bhaviṣyasīti /	K01D0001-3_H0001-3:32b-24	འཕགས་པ་། ཐུག་པ་གསོལ་ཅིག་དང་སོས་པར་འགྱུར་རོ་༎
+K01vinv06_u:5810	 sa kathayati /	K01D0001-3_H0001-3:32b-25	དེས་སྨྲས་པ་།
+K01vinv06_u:5811	 bhadramukha bhagavatā nānujñātam* /	K01D0001-3_H0001-3:32b-26	བཞིན་བཟང་། བཅོམ་ལྡན་འདས་ཀྱིས་མ་གནང་ངོ་༎
+K01vinv06_u:5812	 vaidyaḥ kathayati /  ārya kāruṇiko vaḥ śāstā sthānam etad vidyate yad anujñāsyati /	K01D0001-3_H0001-3:32b-27	སྨན་པས་སྨྲས་པ་། འཕགས་པ་། ཁྱོད་ཀྱི་སྟོན་པ་ཐུགས་རྗེ་ཅན་ཡིན་པས་། འདི་ཉིད་ཀྱིས་རྐྱེན་བྱས་ནས་གནང་བར་འགྱུར་བའི་གནས་ཡོད་དོ་༎
+K01vinv06_u:5814	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:33a-1	ལའོ་༎ དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5816	 yadi vaidyaḥ kathayati peyāṃ pibeti /	K01D0001-3_H0001-3:33a-2	གལ་ཏེ་སྨན་པས་ཐུག་པ་འཐུངས་ཤིག་ཅེས་ཟེར་ན༏་སྨན་པས་བསྒོ་བ་བཞིན་ཐུག་པ་བཏུང་བར་བྱ་སྟེ་།
+K01vinv06_u:5817	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:33a-3	དེ་ལ་འགྱོད་པར་མི་བྱའོ་༎
+K01vinv06_u:5818	 bhagavān āha /  vaidyopadeśena peyā pātavvyeti /	K01D0001-3_H0001-3:33a-4	བཅོམ་ལྡན་འདས་ཀྱིས་སྨན་པས་བསྒོ་བ་བཞིན་ཐུག་པ་བཏུང་བར་བྱའོ་༎
+K01vinv06_u:5820	 tasyopasthāpakena śītalā peyā dattā /	K01D0001-3_H0001-3:33a-5	ཞེས་བཀའ་སྩལ་པ་དང་། དེའི་ནད་ག-ཡོག་གིས་ཐུག་པ་གྲང་མོ་ཞིག་ཁྱེར་ཏེ་བྱིན་ནོ་༎
+K01vinv06_u:5821	 sa vaidyasakāśaṃ gatvā kathayati /	K01D0001-3_H0001-3:33a-6	དེ་ནས་སྨན་པ་འོངས་ནས་དྲིས་པ་།
+K01vinv06_u:5822	 bhadramukha kiṃ tayā peyayā nāhaṃ svasthaḥ /	K01D0001-3_H0001-3:33a-7	འཕགས་པ་། ཁྱོད་བདེ་འམ་།
+K01vinv06_u:5823	 vaidyaḥ kathayati /	K01D0001-3_H0001-3:33a-8	དེས་སྨྲས་པ་། བཞིན་བཟང་། མི་བདེའོ་༎
+K01vinv06_u:5824	 ārya kiṃ tvayā peyā na pītā /	K01D0001-3_H0001-3:33a-10	ཅི་། ཁྱོད་ཀྱིས་ཐུག་པ་མ་གསོལ་ཏམ་།
+K01vinv06_u:5827	 kim uṣṇā /  śītalaiva /	K01D0001-3_H0001-3:33a-16	དེས་དེ་བསྲོས་ཏེ་བྱིན་ནོ་༎ དེ་ནས་སྨན་པ་འོངས་ཏེ་དེ་བཞིན་དུ་དྲིས་པ་དང་། དེས་སྨྲས་པ་། མི་བདེའོ་༎ ཅི་། འཐུངས་སོ་༎ ཅི་འདྲ་བ་ཞིག་། གྲང་མོ་ཞིག་བསྲོས་ནས་སོ་༎
+K01vinv06_u:5829	 (MSV I 235) ārya na śobhanaṃ kṛtam* /	K01D0001-3_H0001-3:33a-22	འཕགས་པ་། མ་ལེགས་པ་ཞིག་བགྱིས་སོ་༎
+K01vinv06_u:5830	 uṣṇīkṛtya pātavyā /	K01D0001-3_H0001-3:33a-23	དེ་གྲང་སྟེ་བསྲོས་པ་ལགས་ཀྱི་། སང་ནི་། རང་བཞིན་གྱིས་དྲོན་པོར་མཛོད་ལ་གསོལ་ཅིག་། དེ་ནས་དེའི་ནད་ག-ཡོག་གིས་། འབྲས་དང་སྣོད་སྟ་གོན་བྱས་ནས་། གཙུག་ལག་ཁང་གི་ཕྱི་རོལ་གྱི་ཤིང་དྲུང་ཞིག་ཏུ་བཙོ་བར་བརྩམས་པ་ལས་། དེ་ནས་ཁབ༹འི་རྟུག་པས་། དེ་མ་རུང་བར་བྱས་པས་།
+K01vinv06_u:5831	 bhikṣavo na jānate kutra uṣṇīkartavyā /	K01D0001-3_H0001-3:33b-0	དགེ་སློང་དེ་ཕོངས་པར་གྱུར་པའི་༄༣༣བ་སྐབས་དེ་།
+K01vinv06_u:5832	 bhagavān āha /	K01D0001-3_H0001-3:33b-3	བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5833	 tasmāt tarhi bhikṣavaḥ kalpikaśālā saṃmantavyā /	K01D0001-3_H0001-3:33b-4	དགེ་སློང་དག་། དེ་ལྟ་བས་ན་། རུང་བའི་གནས་བསྐོ་བར་བྱའོ་༎
+K01vinv06_u:5834	 bhikṣavo na jānate kīdṛg iti /	K01D0001-3_H0001-3:33b-8	ཞེས་བཀའ་སྩལ་པ་དང་། དགེ་སློང་རྣམས་ཀྱིས་། ཇི་འདྲ་བ་དང་ཇི་ཙམ་པ་མ་ཤེས་ནས་།
+K01vinv06_u:5835	 bhagavān āha /	K01D0001-3_H0001-3:33b-10	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5836	 paṃca kalpikaśālā bhavanti /	K01D0001-3_H0001-3:33b-11	རུང་བའི་གནས་ལྔ་སྟེ་།
+K01vinv06_u:5837	 ārambhyamāṇāntikā ucchrīyamāṇāntikā goniṣādikā udbhūtavastukā saṃmatikā ca /	K01D0001-3_H0001-3:33b-12	རྩོམ་པའི་མཐའ་ཅན་དང་། སེམས་གཏོད་པའི་མཐའ་ཅན་དང་། བ་ཉལ་བ་ལྟ་བུ་དང་། སྟོང་པའི་གནས་དང་། བསྐོས་པའོ་༎
+K01vinv06_u:5838	 tatra ārambhyamāṇāntikā katamā /	K01D0001-3_H0001-3:33b-13	དེ་ལ་རྩོམ་པའི་མཐའ་ཅན་ནི་།
+K01vinv06_u:5839	 tadyathā navakarmiko bhikṣur yatra prathamataḥ sthitvā saṃghasya kalpikasthānam iti kṛtvā vācayati idaṃ kalpikasthānam iti /	K01D0001-3_H0001-3:33b-14	འདི་ལྟ་སྟེ་། དགེ་སློང་ལག་གི་བླས་གནས་རྩོམ་པ་ན་། དེར་ཐོག་མར་གཞི་འདི་ནི་། དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་འགྱུར་རོ་༎ ཞེས་སེམས་བསྐྱེད་ཅིང་ཚིག་ཏུ་སྨྲས་པ་སྟེ་།
+K01vinv06_u:5840	 idam ārambhyamāṇāntikā ucyate /	K01D0001-3_H0001-3:33b-19	འདི་ནི་། རུང་བའི་གནས་རྩོམ་པའི་མཐའ་ཅན་ཞེས་བྱའོ་༎
+K01vinv06_u:5842	 yathāpi tan navakarmiko bhikṣuḥ śilāyām ucchrīyamāṇāyāṃ tatprathamataḥ śilāyāṃ nyasyamānāyāṃ sāmantakān bhikṣūn āmantrayate /	K01D0001-3_H0001-3:33b-21	འདི་ལྟ་སྟེ་། དགེ་སློང་ལག་གི་བླས་དེར་ཐོག་མར་རྡོ་བ་འདེག་པ་ན་། ཉེ་འཁོར་གྱི་དགེ་སློང་རྣམས་ལ་སྨྲས་པ་།
+K01vinv06_u:5843	 avadhārayantu āyuṣmantaḥ idaṃ saṃghasya kalpikasthānam* /	K01D0001-3_H0001-3:33b-24	ཚེ་དང་ལྡན་པ་དག་། གཞི་འདི་ནི་། དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་འགྱུར་བར་ངེས་པར་ཟུངས་ཤིག་། ངེས་པར་ཟུངས་ཤིག་ཅེས་བྱ་བ་སྟེ་།
+K01vinv06_u:5844	 idam evocchrīyamāṇāntikocyate /	K01D0001-3_H0001-3:33b-28	འདི་ནི་། སེམས་གཏོད་པའི་མཐའ་ཅན་ཞེས་བྱའོ་༎
+K01vinv06_u:5846	 yatra dvārāntas tad goniṣādiketi /	K01D0001-3_H0001-3:33b-30	གང་ལ་སྒོ་ཐ་དད་པར་གསེས་པ་སྟེ་། འདི་ནི་། བ་ཉལ་བ་ལྟ་བུ་ཞེས་བྱའོ་༎
+K01vinv06_u:5848	 prahīṇavastukā iyam ucyate /	K01D0001-3_H0001-3:33b-33	སྤངས་པའི་གནས་ཏེ་། འདི་ནི་། གནས་སྟོང་པ་ཞེས་བྱའོ་༎
+K01vinv06_u:5849	 saṃmatikā katamā /	K01D0001-3_H0001-3:33b-35	བསྐོས་པ་གང་ཞེ་ན་།
+K01vinv06_u:5851	 bhikṣavo na jānate kathaṃ saṃmantavyam iti /	K01D0001-3_H0001-3:34a-2	དགེ་སློང་རྣམས་ཀྱིས་ཇི་ལྟར་བསྐོ་བ་མ་ཤེས་ནས་།
+K01vinv06_u:5852	 bhagavān āha /	K01D0001-3_H0001-3:34a-3	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5853	 yat sthānam adhiṣṭhitam antaḥsīmaṃ bahirvyāmaparivāram [fol._226v1] abhimataṃ saṃghasya tat saṃmantavyam* /	K01D0001-3_H0001-3:34a-4	གནས་གང་ཞིག་ཐམས་ཅད་ཟིན་པར་བྱས་པ་། ནང་མཚམས་དང་། ཕྱི་རོལ་ཉེ་འཁོར་འདོམ་གང་དང་བཅས་པ་ལ་། དགེ་འདུན་གྱིས་འདོད་ན་དེ་བསྐོ་བར་བྱའོ་༎
+K01vinv06_u:5854	 evaṃ ca punaḥ saṃmantavyam* /	K01D0001-3_H0001-3:34a-7	བསྐོ་བ་ཡང་འདི་ལྟར་བྱ་སྟེ་།
+K01vinv06_u:5855	 śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma karaṇīyam* /	K01D0001-3_H0001-3:34a-8	གནས་མལ་བཤམས་ལ་། གནདའི་བརྡུངས་ཏེ་དྲིས་པའི་ཚིག་གིས་དགེ་སློང་རྣམས་ལ་ཡང་དག་པར་བསྒོ་ལ་། དགེ་འདུན་ཐམས་ཅད་འདུག་ཅིང་མཐུན་པར་གྱུར་པ་དང་། དགེ་སློང་གཅིག་གིས་གསོལ་བ་བྱས་ཏེ་ལས་བྱའོ་༎
+K01vinv06_u:5856	 śṛṇotu bhadantaḥ (MSV I 236) saṃghaḥ /	K01D0001-3_H0001-3:34a-11	དགེ་འདུན་བཙུན་པ་རྣམས་གསན་དུ་གསོལ་།
+K01vinv06_u:5857	 idaṃ sarvākārapariniṣṭhitam antaḥsīmaṃ bahirvyāmaparivāraṃ saṃghasya kalpikaśālāṃ saṃmantu /	K01D0001-3_H0001-3:34a-12	གནས་ཐམས་ཅད་ལགས་པ་། ནང་མཚམས་དང་། ཕྱི་རོལ་ཉེ་འཁོར་འདོམ་གང་དང་བཅས་པ་འདི་། དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་བསྐོ་ན་།
+K01vinv06_u:5858	 sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ etat kalpikasthānaṃ saṃmanyate ity eṣā jñaptiḥ /	K01D0001-3_H0001-3:34a-15	གལ་ཏེ་དགེ་འདུན་གྱིས་དུས་ལ་བབ་ཅིང་བཟོད་ན་། དགེ་འདུན་གྱིས་གནང་བར་མཛོད་ཅིག་དང་། དགེ་འདུན་གྱི་གནས་ཐམས་ཅད་ལགས་པ་། འདི་ནི་། གསོལ་པའོ་༎
+K01vinv06_u:5859	 evaṃ ca karma kartavyam* /	K01D0001-3_H0001-3:34a-20	ལས་ནི་། འདི་ལྟར་བྱ་སྟེ་།
+K01vinv06_u:5860	 śṛṇotu bhadantaḥ saṃghaḥ /	K01D0001-3_H0001-3:34a-21	དགེ་འདུན་བཙུན་པ་རྣམས་གསན་དུ་གསོལ་།
+K01vinv06_u:5861	 idaṃ vastu sarvākārapariniṣṭhitam antaḥsīmaṃ bahirvyāmaparivāraṃ saṃghaḥ kalpikasthānaṃ saṃmanyate /	K01D0001-3_H0001-3:34a-22	གནས་ཐམས་ཅད་ལགས་པ་། ནང་མཚམས་དང་། ཕྱི་རོལ་ཉེ་འཁོར་འདོམ་གང་དང་བཅས་པ་འདི་། དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་བསྐོ་བར་བཞེད་དེ་། དེའི་སླད་དུ་དགེ་འདུན་གྱིས་གནས་ཐམས་ཅད་ལགས་པ་།
+K01vinv06_u:5862	 yenāyuṣmatāṃ kṣamante idaṃ vastu kalpikasthānaṃ saṃmantuṃ te tūṣṇīm* /	K01D0001-3_H0001-3:34b-0	ནང་མཚམས་དང་། ཕྱི་༄༣༤བ་རོལ་ཉེ་འཁོར་འདོམ་གང་དང་བཅས་པ་འདི་། དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་བསྐོ་ན་། གང་དག་། གནས་ཐམས་ཅད་ལགས་པ་། ནང་ཚམས་དང་། ཕྱི་རོལ་ཉེ་འཁོར་འདོམ་གང་དང་བཅས་པ་འདི་། དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་བསྐོ་བར་བཟོད་པ་དེ་དག་ནི་།
+K01vinv06_u:5863	 na kṣamante bhāṣantām* /	K01D0001-3_H0001-3:34b-6	ཅང་མ་གསུངས་ཤིག་། གང་དག་མི་བཟོད་པ་དེ་དག་ནི་། གསུངས་ཤིག་། དགེ་འདུན་གྱིས་བཟོད་ཅིང་གནང་ནས་། དགེ་འདུན་གྱིས་གནས་ཐམས་ཅད་བགྱིས་ལགས་པ་། ནང་མཚམས་དང་། ཕྱི་རོལ་ཉེ་འཁོར་འདོམ་གང་དང་བཅས་པ་འདི་།
+K01vinv06_u:5864	 kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm evaitad dhārayāmi /	K01D0001-3_H0001-3:34b-11	དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་བསྐོས་ལགས་ཏེ་། འདི་ལྟར་ཅང་མི་གསུང་པས་དེ་དེ་བཞིན་དུ་འཛིན་ཏོ་༎ གང་དུ་དགེ་འདུན་གྱི་རུང་བའི་གནས་སུ་བསྐོས་པ་དེར་། གཉིས་སྐབས་དབྱེ་སྟེ་། མཚམས་ཀྱི་ནང་དུ་བཙོས་པ་དང་། མཚམས་ཀྱི་ནང་དུ་ཞག་ལོན་པའོ་༎
+K01vinv06_u:5865	 buddho bhagavān vaiśālyāṃ viharati markaṭahradatīre /	K01D0001-3_H0001-3:34b-16	སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཡངས་པ་ཅན་གྱི་སྤྲེའུ་རྫིང་གི་འགྲམ་ན་ཁང་པ་བརྩེགས་པའི་གནས་ན་བཞུགས་སོ་༎
+K01vinv06_u:5866	 vaiśālyāṃ siṃhaḥ senāpatiḥ prativasati /	K01D0001-3_H0001-3:34b-17	ཡངས་པ་ཅན་ན་སྡེ་དཔོན་སེང་གེ་ཞེས་བྱ་བ་ཞིག་གནས་ཏེ་།
+K01vinv06_u:5867	 sa jñātibhir āhṛtaṃ māṃsaṃ paribhuṃkte /	K01D0001-3_H0001-3:34b-18	དེའི་ཉེན་ཀོར་ན་གནས་པ་རྣམས་ཀྱིས་། དེའི་ཚེ་ཆེད་དུ་ཤ་ཁྱེར་ཏེ་འོངས་ནས་།
+K01vinv06_u:5868	 yadā bhagavato 'ntikāt satyāni dṛṣṭāni tadā na paribhuṃkte /	K01D0001-3_H0001-3:34b-20	དེ་ཡང་ཟ་བར་བྱེད་དོ་༎ བཅོམ་ལྡན་འདས་ལས་བདེན་པ་མཐོང་བ་དེའི་ཚེ་མི་ཟ་བས་།
+K01vinv06_u:5869	 āhṛtāni tu bhikṣūṇāṃ prayacchati /	K01D0001-3_H0001-3:34b-23	ཁྱེར་ཏེ་འོངས་ན་ཡང་དགེ་སློང་རྣམས་ལ་སྦྱིན་པར་བྱེད་དོ་༎
+K01vinv06_u:5871	 tīrthikā avadhyāyanti kṣipanti vivācayanti /	K01D0001-3_H0001-3:34b-24	དགེ་སློང་རྣམས་ཀྱིས་ཀྱང་དེ་དག་ཟོས་པ་དང་མུ་སྟེགས་ཅན་རྣམས་སྨོད་པར་བྱེད་། གཞོགས་འཕྱས་བྱེད་། ཁ་ཟེར་བར་བྱེད་དེ་།
+K01vinv06_u:5872	 āyuṣmantaḥ siṃhena senāpatinā uddiśya kṛtaṃ māṃsam āhṛtam* /	K01D0001-3_H0001-3:34b-27	ཤེས་ལྡན་དག་། སྡེ་༄༣༥ཨ་༌༎ དཔོན་སེང་གེའི་ཆེད་དུ་བྱས་ཏེ་ཤ་ཁྱེར་ཏེ་འོངས་ན་ནི་། དེས་དེ་དག་མ་ཟོས་ལ་།
+K01vinv06_u:5873	 tat śramaṇaśākyaputrīyāṇām anuprayacchati /  śramaṇaśākyaputrīyaiḥ uddiśya kṛtaṃ māṃsaṃ paribhuktam iti /	K01D0001-3_H0001-3:35a-2	ཤའཀྱའི་སྲས་ཀྱི་དགེ་སྦྱོང་རྣམས་ལ་བྱིན་པ་དང་། ཤའཀྱའི་སྲས་ཀྱི་དགེ་སྦྱོང་རྣམས་ཀྱིས་ཆེད་དུ་བྱས་པའི་ཤ་ནི་།
+K01vinv06_u:5875	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:35a-3	ཟོས་སོ་༎ ཞེས་བྱ་བའི་སྐབས་དེ་དག་དགེ་སློང་རྣམས་ཀྱིས་བཅོལ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5877	 trīṇi cākalpikāni māṃsāni na paribhoktavyānīti vadāmi /	K01D0001-3_H0001-3:35a-4	ངས་གནས་གསུམ་གྱིས་རུང་བ་མ་ཡིན་པའི་ཤ་བཟའ་བར་མི་བྱའོ་༎
+K01vinv06_u:5878	 katamāni trīṇi /	K01D0001-3_H0001-3:35a-6	གསུམ་གང་ཞེ་ན་།
+K01vinv06_u:5879	 mām uddiśya kṛtam iti saṃmukhaṃ dṛṣṭam akalpikaṃ māṃsaṃ na paribhoktavyam iti vadāmi /	K01D0001-3_H0001-3:35a-7	བདག་གི་ཆེད་དུ་བྱས་པར་མངོན་སུམ་དུ་མཐོང་བ་། རུང་བ་མ་ཡིན་པའི་ཤ་བཟའ་བར་མི་བྱའོ་༎
+K01vinv06_u:5880	 śrutam tvām [fol._227r1] uddiśya kṛtam iti akalpikaṃ māṃsaṃ na paribhoktavyam iti vadāmi /	K01D0001-3_H0001-3:35a-9	ཞེས་གསུངས་པ་དང་། ཡིད་ཆེས་པ་ལས་ཁྱོད་ཀྱི་ཆེད་དུ་བྱས་པ་ཡིན་ནོ་༎ ཞེས་ཐོས་པ་། རུང་བ་མ་ཡིན་པའི་ཤ་བཟའ་བར་མི་བྱའོ་༎
+K01vinv06_u:5882	 mām uddiśya kṛtam iti saṃcintya akalpikaṃ māṃsaṃ na paribhoktavyam (MSV I 237) iti vadāmi /	K01D0001-3_H0001-3:35a-14	བདག་གི་ཆེད་དུ་བྱས་པ་ཡིན་ནོ་༎ སྙམ་དུ་རུང་བ་མ་ཡིན་པའི་ཤ་བཟའ་བར་མི་བྱའོ་༎ ཞེས་གསུངས་པ་ཡིན་ནོ་༎
+K01vinv06_u:5883	 bhikṣavas trīṇi kalpikāni māṃsāni paribhoktavyānīti vadāmi /	K01D0001-3_H0001-3:35a-17	དགེ་སློང་དག་། ངས་གནས་གསུམ་གྱིས་རུང་བའི་ཤ་བཟའ་བར་བྱའོ་༎ ཞེས་གསུངས་པ་།
+K01vinv06_u:5884	 katamāni trīṇi /	K01D0001-3_H0001-3:35a-20	གསུམ་གང་ཞེ་ན་།
+K01vinv06_u:5885	 mām uddiśya kṛtam iti saṃmukham adṛṣṭaṃ kalpikamāṃsaṃ paribhoktavyam iti vadāmi /  aśrutaṃ tvām uddiśya kṛtam iti kalpikamāṃsaṃ paribhoktayam iti vadāmi /	K01D0001-3_H0001-3:35a-21	འདིས་བདག་གི་ཆེད་དུ་བྱེད་པར་མངོན་སུམ་དུ་མ་མཐོང་བ་རུང་བའི་ཤ་བཟའ་བར་བྱའོ་༎ ཞེས་གསུངས་པ་དང་། ཡིད་ཆེས་པ་ལས་འདིས་ཁྱེད་ཀྱི་ཆེད་དུ་བྱས་པ་མ་ཡིན་ནོ་༎ ཞེས་ཐོས་པ་།
+K01vinv06_u:5887	 na svayam eva pūrvavad yāvat kalpikaṃ māṃsaṃ paribhoktavyam iti vadāmi /	K01D0001-3_H0001-3:35a-24	རུང་བའི་ཤ་བཟའ་བར་བྱའོ་༎ ཞེས་གསུངས་པ་དང་། བདག་ཉིད་ཀྱི་བློ་ལ་རྣམ་པར་༄༣༥བ་རྟོག་སྐྱེས་པ་། ཚུལ་ལས་འདི་བདག་གི་ཆེད་དུ་བྱས་པ་ཡིན་ནོ་སྙམ་པ་མ་སྐྱེས་པ་། ཞེས་གསུངས་པ་ཡིན་ནོ་༎༎
+K01vinv06_u:5888	 śrāvastyām nidānam* /	K01D0001-3_H0001-3:35b-4	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5889	 sakṛcchraḥ kālo vartate /	K01D0001-3_H0001-3:35b-6	མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་ནས་།
+K01vinv06_u:5890	 bhikṣavaḥ pārśvaṃ datvā tiṣṭhanti /  te brāhmaṇagṛhapatayaḥ kathayanti /	K01D0001-3_H0001-3:35b-7	དགེ་སློང་དག་ལྟོགས་པར་གྱུར་པས་དེ་རྣམས་གློས་ཕབ་སྟེ་འདུག་པ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5892	 āryā ekāntaghaṭake śāsane kimarthaṃ pārśvaṃ datvā tiṣṭhatha na kuśalapakṣaṃ pratijāgṛtheti /	K01D0001-3_H0001-3:35b-8	འཕགས་པ་དག་། གཅིག་ཏུ་བརྩོན་པར་བྱ་བའི་བསྟན་པ་ལ་། ཅིའི་སླད་དུ་གློས་ཕབ་སྟེ་བཞུགས་ཤིང་། དགེ་བའི་ཕྱོགས་ལ་བརྩོན་པར་མི་མཛད་།
+K01vinv06_u:5893	 te kathayanti /	K01D0001-3_H0001-3:35b-12	དེ་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5894	 sakṛcchraḥ kālo vartate paryāptaṃ piṇḍakaṃ nāsādayāmaḥ /  vayaṃ kṣudhārtā durbalā jātāḥ /  ataḥ pārśvaṃ datvā sthitāḥ /	K01D0001-3_H0001-3:35b-13	མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་བས་། ཁོ་བོ་ཅག་ལྟོགས་ཏེ་ཉམ་ཆུང་བས་དེས་ན་གློས་ཕབ་སྟེ་འདུག་གོ་།
+K01vinv06_u:5897	 te kathayanti /	K01D0001-3_H0001-3:35b-16	དེ་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5898	 kasmān na pratijāgṛtha iti /	K01D0001-3_H0001-3:35b-17	ཅི་སྟེ་ཞལ་ཚུས་མི་གསོལ་།
+K01vinv06_u:5899	 nānujñātaṃ bhagavatā /	K01D0001-3_H0001-3:35b-18	བཅོམ་ལྡན་འདས་ཀྱིས་མ་གནང་ངོ་༎
+K01vinv06_u:5900	 kāruṇiko vaḥ śāstā sthānam etad vidyate yad anujñāsyati /	K01D0001-3_H0001-3:35b-19	ཁྱོད་ཀྱི་སྟོན་པ་ནི་། ཐུགས་རྗེ་ཅན་ཡིན་པས་། གནང་བར་འགྱུར་བ་གང་ཡིན་པའི་གནས་དེ་ཡོད་དོ་༎
+K01vinv06_u:5901	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:35b-23	དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་བ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5903	 tasmāt tarhi bhikṣavo 'nujānāmi /  evaṃvidhe durbhikṣe kṛcchre kāntāre bhikṣavaḥ pratijāgartavyam* /	K01D0001-3_H0001-3:35b-24	དགེ་སློང་དག་། དེའི་ཕྱིར་རྗེས་སུ་གནང་སྟེ་། མུ་གེའི་སྡུག་བསྔལ་དགོན་པ་འདི་ལྟ་བུར་དགེ་སློང་རྣམས་ཀྱིས་ག-ཡར་ཚུས་བཟའ་བར་བྱ་སྟེ་།
+K01vinv06_u:5905	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:35b-27	འདི་ལ་འགྱོད་པར་མི་བྱའོ་༎༎
+K01vinv06_u:5906	 śrāvastyām nidānam* /	K01D0001-3_H0001-3:35b-28	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5907	 sakṛcchraḥ kālo vartate /	K01D0001-3_H0001-3:35b-30	མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་ནས་།
+K01vinv06_u:5908	 bhikṣavaḥ śrāddhair brāhmaṇagṛhapatibhir ucyante /	K01D0001-3_H0001-3:36a-0	དགེ་སློང་རྣམས་ལ་བྲམ་ཟེ་དང་། ༄༣༦ཨ་༌༎ ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5909	 āryā ihaiva bhaktakṛtyaṃ kuruteti /	K01D0001-3_H0001-3:36a-2	འཕགས་པ་དག་། འདི་ཉིད་དུ་ཟས་ཀྱི་བྱ་བ་མཛོད་ཅིག་།
+K01vinv06_u:5910	 te bhaktakṛtyaṃ kṛtvā pūrvalabdhaṃ gṛhītvā vihāraṃ gacchanti durbhikṣakāle bhuṃjiṣyāma iti kṛtvā kin tu kaukṛtyān na paribhuṃjate /	K01D0001-3_H0001-3:36a-4	དེ་རྣམས་ཀྱིས་ཟས་ཀྱི་བྱ་བ་བྱས་ནས་བསོད་སྙོམས་སྔར་རྙེད་པ་ཁྱེར་ནས་གཙུག་ལག་ཁང་དུ་སོང་སྟེ་། དེ་རྣམས་ཀྱིས་མུ་གེའི་སྐྱོན་གྱིས་དེ་ཡང་བཟའ་བར་འདོད་ན་། འོན་ཀྱང་འགྱོད་པས་མ་ཟོས་པའི་སྐབས་དེ་།
+K01vinv06_u:5911	 etat prakaraṇam bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:36a-7	དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5913	 (MSV I 238) tasmād anujānāmi evaṃvidhe durbhikṣe kṛcchre kāntāre ākāṃkṣatā prāggṛhītam iti kṛtvā prāggṛhītaṃ paribhoktavyam* /	K01D0001-3_H0001-3:36a-8	དེའི་ཕྱིར་རྗེས་སུ་གནང་སྟེ་། མུ་གེའི་སྡུག་བསྔལ་དགོན་པ་འདི་ལྟ་བུར་འདོད་ན་། སྔར་བླངས་ཟིན་ཏོ་སྙམ་དུ་སེམས་ལ་། སྔར་རྙེད་པ་ཡང་བཟའ་བར་བྱ་སྟེ་།
+K01vinv06_u:5914	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:36a-12	འདི་ལ་འགྱོད་པར་མི་བྱའོ་༎༎
+K01vinv06_u:5915	 śrāvastyāṃ nidānam* /	K01D0001-3_H0001-3:36a-13	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5916	 sakṛcchraḥ kālo vartate /	K01D0001-3_H0001-3:36a-15	མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་ནས་།
+K01vinv06_u:5917	 śrāddhā brāhmaṇagṛhapatayo bhikṣūn upanimantrya antargṛhe bhojayanti /  teṣāṃ tu bhaktānāṃ khādyakāny avaśiṣyante /	K01D0001-3_H0001-3:36a-16	བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ཀྱིས་། དགེ་སློང་རྣམས་ཁྱིམ་གྱི་ནང་དུ་ཟས་ལ་མགྲོན་དུ་བོས་ནས་དེ་རྣམས་ཀྱིས་ཟོས་པ་དང་། བཅའ་བ་ལས་ལྷག་མ་ཞིག་ལུས་སོ་༎
+K01vinv06_u:5919	 brāhmaṇagṛhapatayaḥ kathayanti /	K01D0001-3_H0001-3:36a-18	བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5920	 āryā yuṣmākaṃ kṛte adhiṣṭhitaṃ bhaktam avaśiṣyate /	K01D0001-3_H0001-3:36a-19	འཕགས་པ་དག་། ཁྱེད་ཀྱི་ཆེད་དུ་སྟ་གོན་བགྱིས་པ་ལགས་ཀྱི་།
+K01vinv06_u:5921	 etat pragṛhyatām* /  te tad gṛhītvā gacchanti /  gatās tam api ākāṃkṣanti paribhoktum* /	K01D0001-3_H0001-3:36a-21	བསྣམས་ཏེ་བཞུད་ལ་ཕྱིས་གསོལ་ཅིག་། དེ་རྣམས་ཀྱིས་ཁྱེར་ཏེ་དོང་ངོ་༎
+K01vinv06_u:5924	 kaukṛtyān na paribhuṃjate /	K01D0001-3_H0001-3:36a-23	དོང་ནས་དེ་བཟའ་བར་འདོད་ནས་འགྱོད་པས་མ་ཟོས་པའི་སྐབས་དེ་།
+K01vinv06_u:5925	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:36a-24	དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5927	 tasmād anujānāmi evaṃvidhe durbhikṣe kṛcchre kāntāre evaṃvidhaṃ dānam iti kṛtvā paribhoktavyam* /	K01D0001-3_H0001-3:36a-25	དེའི་ཕྱིར་རྗེས་སུ་གནང་སྟེ་། མུ་གེའི་སྡུག་བསྔལ་དགོན་པ་འདི་༄༣༦བ་ལྟ་བུར་། འདི་དག་ནི་།
+K01vinv06_u:5928	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:36b-3	སྙམ་དུ་བསམ་ནས་བཟའ་བར་བྱ་སྟེ་། དེ་ལ་འགྱོད་པར་མི་བྱའོ་༎༎
+K01vinv06_u:5929	 śrāvastyāṃ nidānam* /	K01D0001-3_H0001-3:36b-5	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5930	 sakṛcchraḥ kālo vartate /	K01D0001-3_H0001-3:36b-7	མུ་གེ་དང་བཅས་པའི་དུས་བྱུང་ནས་།
+K01vinv06_u:5931	 śrāddhā brāhmaṇagṛhapatayo bhikṣūn upanimantrya bhojayanti /	K01D0001-3_H0001-3:36b-8	བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ཀྱིས་། དགེ་སློང་རྣམས་ཟས་ལ་མགྲོན་དུ་བོས་ཏེ་།
+K01vinv06_u:5932	 teṣāṃ bhuktavatāṃ khādyakāni kiṃcid avaśiṣyante /	K01D0001-3_H0001-3:36b-10	དེ་རྣམས་ཀྱིས་ཟོས་ནས་། བཅའ་བ་ལ་སོགས་པ་ཅུང་ཟད་ཅིག་ལྷག་སྟེ་།
+K01vinv06_u:5933	 bhikṣavaḥ prakrāntāḥ /  brāhmaṇagṛhapatayaḥ kathayanti /	K01D0001-3_H0001-3:36b-12	དགེ་སློང་རྣམས་དོང་བ་དང་། བྲམ་ཟེ་དང་ཁྱིམ་བདག་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5935	 āryāḥ sadya eva prakrāntāḥ /  khādyakāny avaśiṣyante /  durlabhāny etāni /	K01D0001-3_H0001-3:36b-13	འདི་ནི་། བདག་ཅག་གིས་འཕགས་པ་དག་ཁོ་ན་ལ་ཡོངས་སུ་བཏང་བ་ལགས་ཏེ་།
+K01vinv06_u:5938	 gṛhītvā gaccha /  bhikṣavas tad api ākāṃkṣanti paribhoktum* /  kaukṛtyān na paribhuṃjate /	K01D0001-3_H0001-3:36b-15	ཁྱེད་ཁོ་ན་ལ་དབུལ་ལོ་ཞེས་དེ་རྣམས་ཀྱིས་ཁྱེར་ཏེ་འོངས་པ་དང་། དགེ་སློང་རྣམས་དེ་ལ་ཡང་ཟ་བར་འདོད་ནས་འགྱོད་པས་མ་ཟོས་པའི་སྐབས་དེ་།
+K01vinv06_u:5942	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:36b-16	དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5944	 tasmād anujānāmi evaṃvidhe durbhikṣe kṛcchre kāntāre prāgdattam iti kṛtvā paribhoktavyam* /	K01D0001-3_H0001-3:36b-17	དེའི་ཕྱིར་རྗེས་སུ་གནང་སྟེ་། མུ་གེའི་སྡུག་བསྔལ་དགོན་པ་འདི་ལྟ་བུར་། སྔར་ཡོངས་སུ་བཏང་བའོ་༎ སྙམ་དུ་བསམ་ནས་བཟའ་བར་བྱ་སྟེ་།
+K01vinv06_u:5945	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:36b-21	དེ་ལ་འགྱོད་པར་མི་བྱའོ་༎༎
+K01vinv06_u:5947	 śrāvastyām nidānam* /	K01D0001-3_H0001-3:36b-22	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5948	 śrāddhānāṃ brāhmaṇagṛhapatīnām auttarāpathikāni vanāstikāni phalāni saṃpadyante /	K01D0001-3_H0001-3:36b-24	བྲམ་ཟེ་དང་ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ཀྱིས་ནུབ་ཕྱོགས་ཀྱི་ཚལ་ན་ཡོད་པའི་འབྲས་བུ་རྣམས་གྲུབ་ནས་།
+K01vinv06_u:5949	 te saṃlakṣayanti /	K01D0001-3_H0001-3:36b-25	དེ་རྣམས་ཀྱིས་བསམ་པ་།
+K01vinv06_u:5950	 durlabhāny etāni āryāṇāṃ dātavyāni /	K01D0001-3_H0001-3:36b-26	འདི་དག་ནི་། རྙེད་དཀའ་བ་ཡིན་པས་། འཕགས་པ་རྣམས་ལ་དབུལ་ལོ་༎
+K01vinv06_u:5951	 bhikṣūṇāṃ parigrahārthaṃ dattāni /  bhikṣavaḥ pratigrahītavyam iti kṛtvā [fol._227v1] kaukṛtyān na paribhuṃjate /	K01D0001-3_H0001-3:37a-0	ཞེས་དེ་དག་གིས་དགེ་སློང་རྣམས་ཟས་ཟོས་ནས་སྤངས་པ་བྱས་པ་རྣམས་ལ་དེ་དག་བྱིན་པ་དང་། དགེ་སློང་རྣམས་༄༣༧ཨ་༌༎ ཀྱིས་སྤངས་པ་བྱས་ཟིན་ཏོ་༎
+K01vinv06_u:5953	 śrāddhā brāhmaṇagṛhapatayaḥ kathayanti /	K01D0001-3_H0001-3:37a-2	ཞེས་འགྱོད་པས་མ་ཟོས་པ་དང་། བྲམ་ཟེ་དང་ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5954	 ārya yadā bhagavān loke notpannas tadā tīrthyā dakṣiṇīyāḥ /  idānīṃ tu bhagavān loke utpanna idānīṃ bhavanto dakṣiṇīyāḥ /	K01D0001-3_H0001-3:37a-3	འཕགས་པ་དག་། གང་གི་ཚེ་བཅོམ་ལྡན་འདས་འཇིག་རྟེན་དུ་མ་བྱུང་བ་དེའི་ཚེ་། མུ་སྟེགས་ཅན་རྣམས་ལ་ཡོན་གནས་བགྱིད་པ་ལས་། ད་ནི་། བཅོམ་ལྡན་འདས་འཇིག་རྟེན་དུ་བྱུང་ནས་ཁྱེད་རྣམས་ཀྱང་ད་ནི་ཡོན་གནས་སུ་གྱུར་པ་ལགས་ན་། གལ་ཏེ་ཁྱེད་ཀྱིས་མ་བཞེས་ན་།
+K01vinv06_u:5956	 tasmād anukampayā gṛhṇīteti /	K01D0001-3_H0001-3:37a-10	དེ་ལྟ་བས་ན་། ཐུགས་བརྩེ་བས་བཞེས་ཤིག་པའི་སྐབས་དེ་།
+K01vinv06_u:5957	 etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:37a-12	དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5959	 tasmād anujānāmīti /	K01D0001-3_H0001-3:37a-13	དེའི་ཕྱིར་རྗེས་སུ་གནང་སྟེ་།
+K01vinv06_u:5960	 durlabhānīti kṛtvā paribhoktavyāni /	K01D0001-3_H0001-3:37a-14	རྙེད་པར་དཀའ་བ་ཡིན་ནོ་༎ སྙམ་དུ་བསམ་ནས་བཟའ་བར་བྱ་སྟེ་།
+K01vinv06_u:5961	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:37a-16	དེ་ལ་འགྱོད་པར་མི་བྱའོ་༎
+K01vinv06_u:5964	 śrāvastyāṃ nidānam* /	K01D0001-3_H0001-3:37a-21	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5965	 śrāddhā brāhmaṇagṛhapatayo bhikṣūṇāṃ satkurvatāṃ pravārayatāṃ puṣkarāstikāni anuprayacchanti /	K01D0001-3_H0001-3:37a-23	བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ཀྱིས་། དགེ་སློང་རྣམས་ཟས་ཟོས་ཟིན་པ་དང་ཆུ་ནས་སྐྱེས་པ་དག་ཕུལ་༄༣༧བ་བ་དང་། དགེ་སློང་རྣམས་འདོད་ཀྱང་སྤངས་པ་བྱས་ཟིན་ཏོ་༎
+K01vinv06_u:5966	 bhikṣava ākāṃkṣanti kin tu kaukṛtyān na paribhuṃjate /	K01D0001-3_H0001-3:37b-1	ཞེས་འགྱོད་པས་མ་ཟོས་པའི་སྐབས་དེ་།
+K01vinv06_u:5967	 bhikṣavo bhagavata ārocayanti /  bhagavān āha /	K01D0001-3_H0001-3:37b-2	དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་།
+K01vinv06_u:5969	 durlabhānīti kṛtvā paribhoktavyāni /	K01D0001-3_H0001-3:37b-3	རྙེད་དཀའ་བ་ཡིན་ནོ་༎ སྙམ་དུ་བསམ་ནས་བཟའ་བར་བྱ་སྟེ་།
+K01vinv06_u:5970	 nātra kaukṛtyaṃ karaṇīyam* /	K01D0001-3_H0001-3:37b-5	དེ་ལ་འགྱོད་པར་མི་བྱའོ་༎
+K01vinv06_u:5971	 tatremāni puṣkarāstikāni /	K01D0001-3_H0001-3:37b-6	དེ་ལ་། ཆུ་ནས་སྐྱེ་བ་ནི་། འདི་དག་ཡིན་ཏེ་།
+K01vinv06_u:5972	 tālūkaṃ mṛṇālaṃ kumudabījaṃ padmabījaṃ ceti /	K01D0001-3_H0001-3:37b-8	ཨཽཏཔ་ལའི་རྩ་བ་དང་། པདམའི་རྩ་བ་དང་། ཀུ་མུ་དའི་ས་བོན་དང་། པདམའི་ས་བོན་ནོ་༎
+K01vinv06_u:5973	 śrāvastyāṃ nidānam* /	K01D0001-3_H0001-3:37b-9	གླེང་གཞི་ནི་། མཉན་ཡོད་ནའོ་༎
+K01vinv06_u:5974	 āyuṣmataḥ śāriputrasya dhātuvaiṣamyād glānyam utpannam* /	K01D0001-3_H0001-3:37b-11	ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་ཁམས་མ་སྙོམས་པས་ཁྲག་དང་བད་ཀན་འཁྲུགས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:5975	 āyuṣmān mahāmaudgalyāyanaḥ saṃlakṣayati (MSV I 240)	K01D0001-3_H0001-3:37b-12	དེའི་རིམ་གྲོ་བྱེད་པ་ཚེ་དང་ལྡན་པ་མོའུ་འགལ་གྱི་བུ་ཆེན་པོས་བསམ་པ་།
+K01vinv06_u:5976	 bahuśo mayā āyuṣmataḥ śāriputrasya svamatena upasthānaṃ kṛtam* /	K01D0001-3_H0001-3:37b-14	ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་ལ་ལན་མང་དུ་རིམ་གྲོ་བྱས་ཀྱི་།
+K01vinv06_u:5977	 na ca kadācid vaidyaḥ pṛṣṭaḥ yanv ahaṃ pṛccheyam iti /	K01D0001-3_H0001-3:37b-15	ལན་འགའ་ཡང་སྨན་པ་ལ་མ་དྲིས་ཀྱི་། མ་ལ་བདག་གིས་དྲིའོ་སྙམ་ནས་། དེས་སྨན་པ་ལ་དྲིས་པ་།
+K01vinv06_u:5979	 bhadramukha āyuṣmataḥ śāriputrasya dhātuḥ kupitaḥ /	K01D0001-3_H0001-3:37b-18	བཞིན་བཟང་། ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་ཁྲག་དང་བད་ཀན་འཁྲུགས་པར་གྱུར་ན་།
+K01vinv06_u:5980	 bhaiṣajyaṃ vyapadiśa /	K01D0001-3_H0001-3:37b-19	དེའི་སྨན་སྟོན་ཅིག་།
+K01vinv06_u:5981	 sa kathayati /	K01D0001-3_H0001-3:37b-20	དེས་སྨྲས་པ་།
+K01vinv06_u:5982	 ārya padmabījaṃ prayaccha svastho bhaviṣyati /	K01D0001-3_H0001-3:37b-21	འཕགས་པ་། པདམའི་རྩ་བའི་འོ་མ་སྩོལ་ཅིག་དང་སོས་པར་འགྱུར་རོ་༎
+K01vinv06_u:5983	 āyuṣmān mahāmaudgalyāyanaḥ saṃlakṣayati /	K01D0001-3_H0001-3:37b-22	ཚེ་དང་ལྡན་པ་མོའུ་འགལ་གྱི་བུ་ཆེན་པོས་བསམ་པ་།
+K01vinv06_u:5984	 na mama pratirūpaṃ syād yad aham āyuṣmataḥ śāriputrasya kṛte na visakṣīreṇa upasthānaṃ kuryām iti /	K01D0001-3_H0001-3:37b-23	གལ་ཏེ་བདག་གིས་ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་ལ་པདམའི་རྩ་བ་ཕལ་བའི་འོ་མས་རིམ་གྲོ་བྱ་བ་ནི་། བདག་གི་ཆ་མ་ཡིན་ནོ་༎ སྙམ་དུ་བསམ་ནས་།
+K01vinv06_u:5985	 saṃlakṣitamātra eva śrāvastyā antarhito mandākinyāḥ puṣkariṇyās tīre pratyaṣṭhān nāgararājasya bhavanasamīpe /	K01D0001-3_H0001-3:38a-0	ཇི་ལྟར་སེམས་མཉམ་པར་བཞག་པས་མཉན་ཡོད་ནས་མི་སྣང་བར་གྱུར་ཏེ་དལ་གྱིས་འབབ་ཅེས་བྱ་བའི་འགྲམ་དུ་ཕྱིན་པར་འགྱུར་བ་དེ་ལྟ་བུའི་༄༣༨ཨ་༌༎
+K01vinv06_u:5986	 tataḥ supratiṣṭhitena nāgarājena dṛṣṭa uktaś ca /	K01D0001-3_H0001-3:38a-1	ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་པ་དང་། ཀླུའི་རྒྱལ་པོ་རབ་བརྟན་གྱི་གནས་དང་ཉེ་བར་གྱུར་པ་དང་། དེ་ནས་ཀླུའི་རྒྱལ་པོ་རབ་བརྟན་གྱིས་མཐོང་ནས་སྨྲས་པ༏་འཕགས་པ་།
+K01vinv06_u:5987	 kim āryasya āgamane kāraṇam* /	K01D0001-3_H0001-3:38a-2	དགོས་པ་ཅི་ཞིག་གི་ཕྱིར་བྱོན་།
+K01vinv06_u:5988	 sa kathayati /	K01D0001-3_H0001-3:38a-3	དེས་སྨྲས་པ་།
+K01vinv06_u:5989	 āyuṣmataḥ śāriputrasya dhātuḥ kupitaḥ /	K01D0001-3_H0001-3:38a-4	ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་ཁྲག་དང་བད་ཀན་འཁྲུགས་ནས་།
+K01vinv06_u:5990	 tasya vaidyena visakṣīram ādiṣṭam iti /	K01D0001-3_H0001-3:38a-5	དེ་ལ་སྨན་པས་པདམའི་རྩ་བའི་འོ་མ་བསྟན་ཏོ་༎
+K01vinv06_u:5991	 supratiṣṭhito nāgarājaḥ kathayati /	K01D0001-3_H0001-3:38a-6	ཀླུའི་རྒྱལ་པོ་རབ་བརྟན་གྱིས་སྨྲས་པ་།
+K01vinv06_u:5992	 ārya yady evaṃ tiṣṭha tāvad iti /	K01D0001-3_H0001-3:38a-7	འཕགས་པ་། གལ་ཏེ་དེ་ལྟ་ན་རེ་ཞིག་གཞེས་ཤིག་།
+K01vinv06_u:5993	 sa mandākinīṃ puṣkariṇīm avatīrya puruṣapramāṇāni visakṣīrāṇy utpāṭya utpāṭya visakṣīreṇāyuṣmato mahāmaudgalyāyanasya pātraṃ pūritam* /	K01D0001-3_H0001-3:38a-8	དེ་དལ་གྱིས་འབབ་ཀྱི་ནང་དུ་ཞུགས་ནས་མིའི་ཚད་ཙམ་གྱི་པདམའི་རྩ་བ་དག་བཏོན་ཅིང་བཏོན་ཅིང་། པདམའི་རྩ་བའི་འོ་མ་པདམའི་འདབ་མའི་སྐྱོ་རར་གཟར་ནས་ཚེ་དང་ལྡན་པ་མོའུ་འགལ་གྱི་བུ་ཆེན་པོའི་ལྷུང་བཟེད་བཀང་ངོ་༎
+K01vinv06_u:5994	 āyuṣmān mahāmaudgalyāyano 'sya visāni rujyamānāni nirīkṣitum ārabdhaḥ /  supratiṣṭhito nāgarājaḥ kathayati /	K01D0001-3_H0001-3:38a-10	ཚེ་དང་ལྡན་པ་མོའུ་འགལ་གྱི་བུ་ཆེན་པོས་པདམའི་རྩ་བ་གཤགས་པ་ལ་བལྟ་བར་བརྩམས་པ་དང་། དེ་ནས་ཀླུའི་རྒྱལ་པོ་རབ་བརྟན་གྱིས་སྨྲས་པ་། འཕགས་པ་ཅི་གཟིགས་།
+K01vinv06_u:5996	 ārya kim ākāṃkṣase visāni paribhoktum iti /	K01D0001-3_H0001-3:38a-12	པདམའི་རྩ་བ་དག་གསོལ་བར་བཞེད་དམ་།
+K01vinv06_u:5997	 sa tūṣṇīm avasthitaḥ /  sa kathayati /	K01D0001-3_H0001-3:38a-13	དེ་ཅང་མི་སྨྲ་བར་འདུག་པ་དང་། སྨྲས་པ་།
+K01vinv06_u:5999	 ārya gaccha /  svasti te /	K01D0001-3_H0001-3:38a-14	འཕགས་པ་བཞུད་ཅིག་དང་བསྐུར་རོ་༎
+K01vinv06_u:6001	 athāyuṣmān mahāmaudgalyāyano visakṣīreṇa pātraṃ pūrayitvā mandākinyāḥ puṣkariṇyās tīre 'ntarhitaḥ śrāvastyāṃ pratyaṣṭhāt* jetavane 'nāthapiṇḍadasyārame	K01D0001-3_H0001-3:38a-15	དེ་ནས་ཚེ་དང་ལྡན་པ་མོའུ་འགལ་གྱི་བུ་ཆེན་པོས་། པདམའི་རྩ་བའི་འོ་མས་ལྷུང་བཟེད་བཀང་བ་ཁྱེར་ནས་དལ་གྱིས་འབབ་ཀྱི་འགྲམ་ནས་མི་སྣང་བར་བྱས་ཏེ་མཉན་ཡོད་ཀྱི་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་། མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བར་ཕྱིན་ཏོ་༎
+K01vinv06_u:6002	 tata āyuṣmatā śāriputreṇa vaidyopadeśena visakṣīraṃ paribhuktam* /	K01D0001-3_H0001-3:38b-0	དེ་ནས་ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུས་སྨན་པས་བསྟན་པ་བཞིན་༄༣༨བ་པདམའི་རྩ་བའི་འོ་མ་འཐུངས་པས་སོས་པར་གྱུར་ཏོ་༎
+K01vinv06_u:6004	 (fol. 228r1; MSV,Wi 112) + + + + + + + + gaccha śrāvastyāṃ jetavane maṇḍapakariṇyāṃ chorayitvā āgaccheti /	K01D0001-3_H0001-3:38b-2	མཉན་ཡོད་ཀྱི་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་སོང་ལ་། གཙུག་ལག་ཁང་གི་ཁྱིམ་གྱི་མདུན་དུ་ཞོག་ལ་ཤོག་།
+K01vinv06_u:6005	 sa pavanabalavegavāhinā javena śrāvastīm āgamya jetavana ///	K01D0001-3_H0001-3:38b-4	དེ་རླུང་གི་ཤུགས་ལྟར་མགྱོགས་པའི་མཐུས་། མཉན་ཡོད་ཀྱི་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་གྱི་གཙུག་ལག་ཁང་དུ་འོངས་ནས་པདམའི་རྩ་བ་རྣམས་ཁྱམས་ཀྱི་མདུན་དུ་བཞག་ནས་། སླར་ལོག་པ་ལས་། ལམ་གྱི་ཕྱེད་ན་ཚལ་གྱི་བལ་གླང་མོ་ཞིག་ཡོད་པ་དང་ལྷན་ཅིག་འདུས་པར་གྱུར་ཏོ་༎ དུས་གཞན་ཞིག་ན་།
+K01vinv06_u:6006	 (228r2) kalabho jātaḥ tatsamanantaraṃ ca siṃhanādo muktaḥ tataḥ sā hastinī saṃtrastā mūtrapurīṣam utsṛjantī kalabhaṃ chorayitvā prakrāmati ///	K01D0001-3_H0001-3:38b-9	བལ་གླང་མོ་དེ་ལས་བལ་གླང་ཕྲུག་གུ་ཞིག་འབྲངས་ཏེ་། འབྲངས་པའི་མོད་ལ་སེང་གེའི་སྒྲ་འབྱིན་ཏོ་༎ དེ་ནས་བལ་གླང་མོ་དེ་སྐྲག་པས་གཅིན་རྟུག་ཤོར་ནས་། བལ་གླང་ཕྲུག་གུ་པོར་ཏེ་བྲོས་སོ་༎
+K01vinv06_u:6011	 (228r5) bhikṣavo bhagavatā ārocayanti /  bhagavān āha /  durlabhāni bhavanto mānuṣāṇāṃ divyāni visāni tasmād anujānāmi durlabhāni divyāni visānīti / / /  (228r6; cf. MSV I 241.1ff. which has been suplied from Divy 123ff.)  bhadraṃkare nagare ṣaḍ jñātā mahāpuṇyāḥ prativasanti miṇḍhako gṛhapatiḥ miṇḍhakapatnī miṇḍhakaputraḥ miṇḍhakasnuṣā miṇḍhakadāso miṇḍhakadāsī	K01D0001-3_H0001-3:38b-13	དེ་ནས་རྒྱལ་པོའི་ཁབ་ན་གནས་པའི་ཤིང་མཁན་ཞིག་ཤིང་གི་ཆེད་དུ་ཚལ་དུ་སོང་བ་ལས་། བལ་གླང་ཕྲུག་གུ་དེ་མཐོང་ནས་ཁྱིམ་དུ་བླངས་། བསྙུན་གསོས་བསྐྱེད་དེ་། ནོར་གྱིས་བསྐྱངས་པས་། མིང་ནོར་སྐྱོང་ནོར་སྐྱོང་ཞེས་བྱ་བར་གྲགས་སོ་༎
+K01vinv06_u:6017	 evaṃ miṇḍhako gṛhapatir jñāto mahāpuṇyaḥ kathaṃ miṇḍhakapatnī sā ekasyārthāya sthālīṃ sādhayati śatāni sahasrāṇi ca paribhuṃjate evaṃ miṇḍhakapatnī	K01D0001-3_H0001-3:39a-18	ལུག་གི་ཆུང་མ་ཇི་ལྟ་བུ་ཞེ་ན་། དེས་གཅིག་གི་དོན་དུ་སྣོད་དུ་བཙོས་པ་ནི་། བརྒྱ་སྟོང་གི་བཟའ་བ་འབྱུང་སྟེ་། ལུག་གི་ཆུང་མ་ནི་། དེ་ལྟ་བུ་ཡིན་ནོ་༎ ལུག་གི་བུ་ནི་། ཇི་ལྟ་བུ་ཞེ་ན་།
+K01vinv06_u:6018	 (228r8) parityajati tadā pūrṇa eva tiṣṭhati na ca parikṣīyate /	K01D0001-3_H0001-3:39a-25	དེའི་རྐེད་པ་ལ་ལྔ་བརྒྱ་བའི་སྣོད་བཏགས་ཏེ་འདུག་ལ་། དེས་གང་གི་༄༣༩བ་ཚེ་བརྒྱ་འམ་། སྟོང་ཡོངས་སུ་བཏང་བ་དེའི་ཚེ་། ཡོངས་སུ་ཟད་པར་མི་འགྱུར་ཏེ་། ལུག་གི་བུ་ནི་། དེ་ལྟ་བུ་ཡིན་ནོ་༎
+K01vinv06_u:6019	 evaṃ miṇḍhakaputraḥ miṇḍhakasnuṣā ekasyārthāya gatvā saṃpādayati śatasya sahasrasya ca paryāptaṃ bhavati / / /	K01D0001-3_H0001-3:39b-6	ལུག་གི་མནའ་མ་ཇི་ལྟ་བུ་ཞེ་ན་། དེས་གཅིག་གི་དོན་དུ་དྲི་སྦྱར་ན་། བརྒྱ་སྟོང་ཁྱེད་པར་འགྱུར་ཏེ་། ལུག་གི་མནའ་མ་ནི་། དེ་ལྟ་བུ་ཡིན་ནོ་༎ ལུག་གི་བྲན་ཕོ་ཇི་ལྟ་བུ་ཞེ་ན་། ཞིང་ལ་རོལ་བདུན་རྨོས་པར་འགྱུར་ཏེ་།
+K01vinv06_u:6020	 (228r9) evaṃ miṇḍhakadāsaḥ kathaṃ miṇḍhakadāsī mahāpuṇyā /	K01D0001-3_H0001-3:39b-14	ལུག་གི་བྲན་ཕོ་ནི་། དེ་ལྟ་བུ་ཡིན་ནོ་༎ ལུག་གི་བྲན་མོ་ནི་། ཇི་ལྟར་བསོད་ནམས་ཆེ་བར་ཤེས་ཤེ་ན་།
+K01vinv06_u:6021	 sā yadā ekāṃ mātrāṃ pratijāgarti tadā sapta mātrāḥ saṃpadyante /	K01D0001-3_H0001-3:39b-18	དེ་གང་གི་ཚེ་འབྲས་གཏུན་གང་ཙམ་དྲུས་པ་དེའི་ཚེ༏་བདུན་ཙམ་དུ་སྐྱེས་པར་འགྱུར་ཏེ་།
+K01vinv06_u:6022	 evaṃ miṇḍhakadāsī mahāpuṇyā /	K01D0001-3_H0001-3:39b-19	དེ་ལྟར་ན་། ལུག་གི་བྲན་མོ་བསོད་ནམས་ཆེ་བ་ཡིན་ནོ་༎
+K01vinv06_u:6023	 bhagavāṃ saṃlakṣayati /	K01D0001-3_H0001-3:39b-21	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་།
+K01vinv06_u:6024	 ayaṃ miṇḍhako gṛhapatiḥ saparivāro bhadraṃkare nagare prativasati /  tasya vaineyakāla āpannaḥ /	K01D0001-3_H0001-3:39b-22	ཁྱིམ་བདག་ལུག་གདུལ་བའི་དུས་མཁྱེན་ནས་།
+K01vinv06_u:6026	 (MSV I 242) tatra bhagavān āyuṣmantam ānandam āmantrayate /	K01D0001-3_H0001-3:39b-23	ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ་།
+K01vinv06_u:6027	 gaccha tvam ānanda (228r10)	K01D0001-3_H0001-3:39b-24	ཀུན་དགའ་བོ་སོང་ལ་དགེ་སློང་རྣམས་ལ་དགེ་སློང་དག་།
+K01vinv06_u:6028	 bhikṣūṇām ārocaya tathāgato bhikṣavaḥ janapadacārikayā bhadraṃkaraṃ .. + yuṣmākam utsahate tathāgatena sārdhaṃ [MSV,  Wi_114] janapadacārikayā bhadraṃkaraṃ nagaraṃ gantuṃ sa cīvarakāṇi pratigṛhṇātv iti /	K01D0001-3_H0001-3:39b-25	དེ་བཞིན་གཤེགས་པ་ནི་། ལྗོངས་རྒྱུ་ཞིང་གྲོང་ཁྱེར་བཟང་བྱེད་དུ་གཤེགས་ཀྱི་། ཁྱེད་ཅག་ལས་། གང་ཞིག་དེ་བཞིན་གཤེགས་པ་དང་ཐབས་ཅིག་ཏུ་ལྗོངས་རྒྱུ་ཞིང་གྲོང་ཁྱེར་བཟང་བྱེད་དུ་འདོང་བར་སྤྲོ་བ་དེ་ནི་། ཆོས་གོས་རྣམས་ལོངས་ཤིག་།
+K01vinv06_u:6030	 evaṃ bhadantety āyuṣmān ānando bhagavataḥ pratiśrutya bhikṣūṇām ārocayati /	K01D0001-3_H0001-3:39b-31	བཙུན་པ༏་བཀའ་བཞིན་འཚལ་ཞེས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་ནས་། དགེ་སློང་རྣམས་ལ་སྨྲས་པ་།
+K01vinv06_u:6031	 [fol._228v1] bhagavān āyuṣmanto janapadacārikayā bhadraṃkaraṃ + + yuṣmākam utsahate bhagavatā sārdhaṃ janapadacārikayā bhadraṃkaraṃ nagaraṃ gantuṃ sa cīvarakāṇi pratigṛhṇātv iti /	K01D0001-3_H0001-3:39b-33	ཚེ་དང་ལྡན་པ་དག་། བཅོམ་ལྡན་འདས་ལྗོངས་༄༤༠ཨ་༌༎ རྒྱུ་ཞིང་གྲོང་ཁྱེར་བཟང་བྱེད་དུ་གཤེགས་ཀྱི་། ཁྱེད་ཅག་ལས་། གང་ཞིག་དེ་བཞིན་གཤེགས་པ་དང་ཐབས་ཅིག་ཏུ་ལྗོངས་རྒྱུ་ཞིང་གྲོང་ཁྱེར་བཟང་བྱེད་དུ་འདོང་བར་སྤྲོ་བ་དེ་ནི་། ཆོས་གོས་རྣམས་ལོངས་ཤིག་།
+K01vinv06_u:6032	 evam āyuṣmann iti /	K01D0001-3_H0001-3:40a-5	ཚེ་དང་ལྡན་པ་།
+K01vinv06_u:6033	 te bhikṣava āyuṣmata ānandasya pratiśrutya pṛṣṭhataḥ pṛṣṭhataḥ samanubaddhā gacchanti /  atha bhagavān (228v2)	K01D0001-3_H0001-3:40a-6	བཀའ་བཞིན་འཚལ་ཞེས་དགེ་སློང་དེ་རྣམས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལས་མཉན་ཏོ་༎ དེ་ནས་བཅོམ་ལྡན་འདས་དུལ་བ་འཁོར་དུལ་བ་།
+K01vinv06_u:6035	 dāntaparivāraḥ śāntaḥ śāntaparivāraḥ arhann arhaparivāraḥ janapadacārikāṃ caraṃ bhadraṃkaraṃ	K01D0001-3_H0001-3:40a-8	ཞི་བ་འཁོར་ཞི་བ་། དགྲ་བཅོམ་ཕ་འཁོར་དགྲ་བཅོམ་པ་དང་། ལྗོངས་རྒྱུ་ཞིང་གྲོང་ཁྱེར་བཟང་བྱེད་དུ་གཤེགས་སོ་༎
+K01vinv06_u:6036	 nagaraṃ samprasthitaḥ yadā bhagavatā śrāvastyāṃ mahāprātihāryaṃ vidarśitaṃ tadā tīrthyā nirbhartsitāḥ /	K01D0001-3_H0001-3:40a-10	གང་གི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་མཉན་ཡོད་དུ་ཆོ་འཕྲུལ་ཆེན་པོ་བསྟན་པ་དེའི་ཚེ་། མུ་སྟེགས་ཅན་རྣམས་མཐའ་འཁོབ་ཏུ་དོང་བ་ལས་།
+K01vinv06_u:6037	 tataḥ kecid bhadraṃkaraṃ nagaraṃ gatvāvasthitāḥ /	K01D0001-3_H0001-3:40a-12	དེ་ནས་ཁ་ཅིག་གྲོང་ཁྱེར་བཟང་བྱེད་དུ་དོང་ནས་གནས་པ་དེ་རྣམས་ཀྱིས་།
+K01vinv06_u:6038	 taiḥ śrutaṃ śramaṇo (228v3)  gautama āgacchatīti śrutvā ca punar vyathitāḥ pūrvaṃ tāvad vayaṃ śramaṇena gautamena	K01D0001-3_H0001-3:40a-14	ཞེས་ཐོས་སོ་༎ ཐོས་ནས་ཀྱང་རོད་རོད་པོར་གྱུར་ནས་། བདག་ཅག་སྔོན་ནི་། དགེ་སྦྱོང་གོའུ་ཏ་མས་ཡུལ་དབུས་ནས་སྤྱུགས་སོ་༎
+K01vinv06_u:6040	 madhyadeśān nirvāsitāḥ sa yadīhāgamiṣyati niścayenāsmān ito 'pi nirvāsayiṣyati tad	K01D0001-3_H0001-3:40a-18	དེ་གལ་ཏེ་འདིར་འོངས་ན་། གདོན་མི་ཟ་བར་བདག་ཅག་འདི་ནས་སྤྱུགས་པར་འགྱུར་གྱི་།
+K01vinv06_u:6041	 upāyasaṃvidhānaṃ kartavyam iti /	K01D0001-3_H0001-3:40a-20	དེ་ལ་ཐབས་ཤིག་བཤམ་པར་བྱའོ་༎
+K01vinv06_u:6042	 te kulopakaraṇaśālā upasaṃkramya kathayanti (228v4)  dharmalābho dharmalābhaḥ ārya kim idaṃ avalokitā bhavataḥ (MSV I 243)	K01D0001-3_H0001-3:40a-21	སྙམ་མོ་༎ དེ་རྣམས་རིགས་ཀྱི་ཁྱིམ་བདག་ཏུ་དོང་ནས་སྨྲས་པ་། ཆོས་ཐོབ་པར་གྱུར་ཅིག་། ཆོས་ཐོབ་པར་གྱུར་ཅིག་། འཕགས་པ་དག་། དེ་ཅི་ལགས་།
+K01vinv06_u:6044	 gamiṣyāmaḥ kasyārthāya /	K01D0001-3_H0001-3:40a-26	ཤེས་ལྡན་དག་། བལྟས་ཟིན་གྱི་། འགྲོའོ་༎ ཅིའི་སླད་དུ་།
+K01vinv06_u:6045	 dṛṣṭāsmābhir yuṣmākaṃ saṃpattir yāvad vipattin na paśyāmas tāvad gacchāmaḥ āryakā asmākaṃ vipattir bhaviṣyati /	K01D0001-3_H0001-3:40b-0	རེ་ཞིག་ཁྱེད་ཅག་གི་འབྱོར་༄༤༠བ་བ་ཕུན་སུམ་ཚོགས་པ་ནི་། ཁོ་བོ་ཅག་གིས་མཐོང་གི་། ཇི་སྲིད་རྒུད་པ་མ་མཐོང་བ་དེའི་བར་དུ་འདོང་ངོ་༎ འཕགས་པ་དག་། བདག་ཅག་ལ་རྒུད་པ་ཅི་ཞིག་འབྱུང་བར་འགྱུར་ལགས་། ཤེས་ལྡན་དག་།
+K01vinv06_u:6046	 bhavantaḥ śramaṇo gautama kṣurāśaniṃ pātayann anekā aputrikā (228v5)  apatikāni kurvann āgacchati /	K01D0001-3_H0001-3:40b-6	དགེ་སྦྱོང་གོའུ་ཏ་མ་སྤུ་གྲིའི་སེར་བ་འབེབས་ཤིང་། དུ་མ་ཞིག་བུ་མེད་པ་དང་། ཁྱིམ་ཐབ་མེད་པར་བྱེད་ཅིང་འོང་ངོ་༎
+K01vinv06_u:6048	 ārya yady evaṃ yasminn eva kāle sthātavyaṃ tasminn eva kāle 'smākaṃ parityāgaḥ kriyate /	K01D0001-3_H0001-3:40b-8	འཕགས་པ་དང་། གལ་ཏེ་དེ་ལྟ་ན་། གང་གི་དུས་ཁོ་ནར་གཞེས་པར་བགྱི་བ་དེ་ཁོ་ནའི་དུས་སུ་བདག་ཅག་སྤང་བར་བགྱིའམ་།
+K01vinv06_u:6049	 tiṣṭhatha na gantavyam iti /	K01D0001-3_H0001-3:40b-10	བཞུགས་ཤིག་། མ་བཞུད་ཅིག་།
+K01vinv06_u:5320	 tena khalu samayena bhadrā nāma rūpājīvinī prativasati /  mṛṇālaś ca nāma dhūrtapuruṣaḥ /  tena tasyā vastrālaṃkāram anupreṣitaṃ paricāraṇāya /  sā tad vastrālaṃkāraṃ prāvṛtā /	K01D0001-3_H0001-3:398b-21	དེས་དེ་ལ་དགའ་མགུར་སྤྱོད་པའི་ཕྱིར་གོས་དང་རྒྱན་བསྐུར་རོ༏་༏དེས་གོས་དང་རྒྱན་དག་ཐོགས་ནས་ཆས་པ་ལས་།
+K01vinv06_u:5324	 anyatamaś ca puruṣa paṃcakārṣāpaṇaśatāny ādāya upasthitaḥ /	K01D0001-3_H0001-3:398b-22	ཡང་མི་གཞན་ཞིག་ཀརཤ་པ་ན་ལྔ་བརྒྱ་ཐོགས་པ་ཞིག་འོངས་ནས་བཟང་མོ་།
+K01vinv06_u:5325	 kathayati /  bhadre āgaccha paricārayāva iti /	K01D0001-3_H0001-3:398b-23	དགའ་མགུར་སྤྱད་ཀྱི་ཚུར་ཤོག་།
+K01vinv06_u:5327	 sā saṃlakṣayati /	K01D0001-3_H0001-3:398b-24	དེས་བསམ་པ་།
+K01vinv06_u:5328	 yadi gamiṣyāmi paṃca kārṣāpaṇaśatāni na lapsye /	K01D0001-3_H0001-3:399a-0	གལ་ཏེ་༄༣༩༩ཨ་༌༎ བདག་སོང་ན་ཀརཤ་པ་ན་ལྔ་བརྒྱ་ཡང་མི་འཐོབ་ལ་།
+K01vinv06_u:5329	 adakṣiṇyaṃ caitat gṛhāgataṃ pratyākhyāya anyatra gamanam iti /	K01D0001-3_H0001-3:399a-2	ཁྱིམ་དུ་འོངས་པ་སྤངས་ཏེ་གཞན་དུ་འགྲོ་བ་འདི་ནི་། ལེགས་པ་མ་ཡིན་ནོ་༎
+K01vinv06_u:5330	 tayā preṣyadārikā uktā /	K01D0001-3_H0001-3:399a-4	སྙམ་ནས་། དེས་བུ་མོ་མངག་གཞུག་མ་ལ་སྨྲས་པ་།
+K01vinv06_u:5331	 gaccha mṛṇālasya kathaya āryā kathayati na tāvad ahaṃ sajjā paścād āgamiṣyāmīti /	K01D0001-3_H0001-3:399a-5	སོང་ལ་པདམའི་རྩ་ལག་ལ་ཇོ་མོའི་མཆིད་ནས་རེ་ཞིག་བདག་ལ་སྐབས་མ་མཆིས་ཏེ་། སླད་ཀྱིས་མཆིའོ་༎ ཞེས་སྨྲོས་ཤིག་།
+K01vinv06_u:5332	 tayā (MSV I 214) tasmai gatvā ārocitam* /	K01D0001-3_H0001-3:399a-8	དེས་དེའི་གན་དུ་སོང་ནས་སྨྲས་སོ་༎
+K01vinv06_u:5333	 so 'pi puruṣo bahukaraṇīyas tāṃ paricārya prathama eva yāme prakrāntaḥ /	K01D0001-3_H0001-3:399a-9	མི་དེ་ཡང་བྱ་བ་མང་པོ་ཞིག་ཡིན་པས་དེ་དང་དེ་དགའ་མགུར་སྤྱད་ནས་ཐུན་དང་པོ་ཉིད་ལ་སོང་ངོ་༎
+K01vinv06_u:5334	 sā saṃlakṣayati /	K01D0001-3_H0001-3:399a-10	དེས་བསམ་པ་།
+K01vinv06_u:5335	 mahatī velā vartate /  śakṣyāmy ahaṃ tasyāpi cittagrāhaṃ kartum iti /	K01D0001-3_H0001-3:399a-11	ནམ་ཚོད་རིང་དུ་ཡོད་པས་དེའི་སེམས་བདག་གིས་བསྲུང་བར་ནུས་སོ་༎
+K01vinv06_u:5337	 tayā punar apy asau dārikābhihitā /	K01D0001-3_H0001-3:399a-12	སྙམ་ནས་དེས་། ཡང་བུ་མོ་དེ་ལ་བསྒོ་བ་།
+K01vinv06_u:5338	 gaccha mṛṇālasyārocaya /  āryā sajjā saṃvṛttā /	K01D0001-3_H0001-3:399a-14	པདམའི་རྩ་ལག་གི་གན་དུ་སོང་ལ་ཇོ་མོའི་མཆིད་ནས་སྟ་གོན་བགྱིས་ལགས་ན་།
+K01vinv06_u:5340	 kathaya katarad udyānam āgacchatv iti /	K01D0001-3_H0001-3:399a-15	སྐྱེད་མོས་ཚལ་གང་དུ་མཆི་ཞེས་སྨྲོས་ཤིག་།
+K01vinv06_u:5341	 tayā tasmai gatvā ārocitam* /  sa kathayati /	K01D0001-3_H0001-3:399a-16	དེས་དེའི་གན་དུ་སོང་ནས་སྨྲས་པ་དང་། དེས་སྨྲས་པ་།
+K01vinv06_u:5343	 kṣaṇena tavāryā sajjā kṣaṇena na sajjeti /	K01D0001-3_H0001-3:399a-17	ཁྱོད་ཀྱི་ཇོ་མོ་སྐད་ཅིག་ལ་སྐབས་མེད་། སྐད་ཅིག་ལ་སྐབས་ཡོད་ཅེའམ་།
+K01vinv06_u:5344	 sā dārikā tasyāḥ sāntarā /  tayā samākhyātam* /	K01D0001-3_H0001-3:399a-19	བུ་མོ་དེ་། དེ་དང་རིགས་མི་འཕྲོད་པ་ཞིག་པས་དེས་སྨྲས་པ་།
+K01vinv06_u:5346	 āryaputra nāsau sajjā /	K01D0001-3_H0001-3:399a-21	རྗེའི་སྲས་། སྐབས་མ་མཆིས་པ་ནི་།
+K01vinv06_u:5347	 kin tarhi /  tvadīyena vastrālaṃkāreṇa anyena puruṣeṇa sārdhaṃ paricāritam iti /	K01D0001-3_H0001-3:399a-22	མ་ལགས་མོད་ཀྱི་དེས་ཁྱོད་ཀྱི་གོས་དང་རྒྱན་དག་གིས་སྐྱེས་པ་གཞན་དང་ལྷན་ཅིག་དགའ་མགུར་སྤྱད་དོ་༎
+K01vinv06_u:5349	 tasya yat kāmarāgaparyavasthānaṃ tad vigatam* /	K01D0001-3_H0001-3:399a-23	དེའི་འདོད་ཆགས་ཀྱི་ཀུན་ནས་དཀྲིས་པ་གང་ཡིན་པ་དེ་དང་བྲལ་བར་གྱུར་ཅིང་གནོད་སེམས་ཀྱི་ཀུན་ནས་དཀྲིས་པ་སྐྱེས་ཏེ་།
+K01vinv06_u:5351	 saṃjātāmarṣaḥ kathayati /	K01D0001-3_H0001-3:399a-24	དེ་མི་བཟོད་པ་སྐྱེས་ནས་སྨྲས་པ་།
+K01vinv06_u:5352	 dārike bhadrāyā gatvā kathaya amukam udyānaṃ gaccheti /  tayā gatvā bhadrāyā ārocitam* /	K01D0001-3_H0001-3:399a-25	བུ་མོ་། སོང་ལ་བཟང་མོ་ལ་པདམའི་རྩ་ལག་ན་རེ་། སྐྱེད་མོས་ཚལ་ག་གེ་མོ་ཞིག་ཏུ་ཤོག་ཅེས་བྱོས་ཤིག་།
+K01vinv06_u:5354	 sā tad udyānaṃ gatā /  mṛṇālena dhūrtakapuruṣeṇoktā /	K01D0001-3_H0001-3:399b-0	དེས་སོང་ནས་བཟང་མོ་ལ་སྨྲས་པ་དང་། ༄༣༩༩བ་དེ་ནས་དེ་སྐྱེད་མོས་ཚལ་དུ་སོང་བ་དང་། སྐྱེས་བུ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་གིས་སྨྲས་པ་།
+K01vinv06_u:5356	 yuktaṃ nāma tava madīyena vastrālaṃkāreṇa anyena puruṣeṇa sārdhaṃ paricaritum iti /	K01D0001-3_H0001-3:399b-1	ཁྱོད་ཁོ་བོའི་གོས་དང་རྒྱན་གྱིས་སྐྱེས་པ་གཞན་དང་ལྷན་ཅིག་དགའ་མགུར་སྤྱོད་པ་རིགས་སམ་།
+K01vinv06_u:5357	 sā kathayati /	K01D0001-3_H0001-3:399b-2	དེས་སྨྲས་པ་།
+K01vinv06_u:5358	 āryaputra asti eva mamāparādhaḥ /	K01D0001-3_H0001-3:399b-3	རྗེའི་སྲས་། དེ་ནི་། བདག་གིས་ནོངས་ཏེ་།
+K01vinv06_u:5359	 kin tu nityāparādho mātṛgrāmaḥ kṣamasveti /	K01D0001-3_H0001-3:399b-5	འོན་ཀྱང་བུད་མེད་ནི་། རྟག་ཏུ་སྐྱོན་ཅན་ལགས་པས་བཟོད་པར་མཛོད་ཅིག་།
+K01vinv06_u:5360	 tatas tena saṃjātāmarṣeṇa [fol._219r1] niṣkoṣam asiṃ kṛtvā jīvitād vyaparopitā /	K01D0001-3_H0001-3:399b-7	དེ་ནས་དེ་མི་བཟོད་པ་སྐྱེས་ནས་རལ་གྲི་ཤུབས་ནས་ཕྱུང་ནས་བསད་དོ་༎
+K01vinv06_u:5361	 tatas tayā preṣyadārikayā mahān kolāhalaśabdaḥ kṛtaḥ /	K01D0001-3_H0001-3:399b-8	དེ་ནས་བུ་མོ་མངག་གཞུག་མས་ཇོ་མོ་བསད་དོ་༎
+K01vinv06_u:5362	 āryā praghātitā āryā praghātitena śrutvā mahājanakāyaḥ pradhāvito [GBM_6.1071a] yāvat tasminn udyāne surucir nāma pratyekabuddho dhyāyati /	K01D0001-3_H0001-3:399b-9	ཇོ་མོ་བསད་དོ་༎ ཞེས་ཀུ་ཅོའི་སྒྲ་ཆེན་པོ་བཏོན་པ་སྐྱེ་བོའི་ཚོགས་ཀུན་གྱིས་ཐོས་ནས་བརྒྱུགས་པ་དང་། དེ་ཙམ་ན་བསྟི་གནས་དེ་ཉིད་ན་དྲང་སྲོང་གོའུ་ཏ་མ་གནས་སོ་༎
+K01vinv06_u:5363	 tato 'sau mṛṇālo  dhūrtapuruṣaḥ saṃtrasto rudhiramrakṣitam asiṃ suruceḥ pratyekabuddhasya purastāc chorayitvā tasyaiva mahājanakāyasya madhyaṃ praviṣṭaḥ /	K01D0001-3_H0001-3:399b-11	དེ་ནས་སྐྱེས་བུ་ག-ཡོན་ཅན་པདམའི་རྩ་ལག་དེ་སྐྲག་ནས་། རལ་གྲི་ཁྲག་ཅན་དྲང་སྲོང་གོའུ་ཏ་མའི་མདུན་དུ་བོར་ནས་སྐྱེ་བོའི་ཚོགས་ཆེན་པོ་དེ་ཉིད་ཀྱི་ནང་དུ་ཞུགས་སོ་༎
+K01vinv06_u:5365	 mahājanakāyaś ca rudhiramrakṣitam asiṃ dṛṣṭvā anena pravrajitena bhadrā (MSV I 215)	K01D0001-3_H0001-3:399b-13	སྐྱེ་བོའི་ཚོགས་ཆེན་པོས་དེར་རལ་གྲི་ཁྲག་ཅན་མཐོང་ནས་སྨྲས་པ་།
+K01vinv06_u:5366	 jīvitād vyaparopitā /	K01D0001-3_H0001-3:399b-14	རབ་ཏུ་བྱུང་བ་འདིས་བཟང་མོ་བསད་དོ་༎
+K01vinv06_u:5368	 bhoḥ pravrajita ṛṣidhvajaṃ dhārayasi /  īdṛśaṃ nāma karoṣīti /	K01D0001-3_H0001-3:399b-17	ཀབ༹འི་རབ་ཏུ་བྱུང་བ་། དྲང་སྲོང་གི་རྒྱལ་མཚན་བཟུང་ནས་འདི་འདྲ་བའི་ལས་བྱེད་དམ་།
+K01vinv06_u:5370	 sa kathayati /	K01D0001-3_H0001-3:399b-19	དེས་སྨྲས་པ་།
+K01vinv06_u:5371	 kiṃ kṛtam* /  te kathayanti /	K01D0001-3_H0001-3:399b-20	ཅི་བྱས་། དེ་རྣམས་ཀྱིས་སྨྲས་པ་།
+K01vinv06_u:5373	 bhadrayā te sārdhaṃ paricāritam* /  sā jīvitād vyaparopiteti /	K01D0001-3_H0001-3:399b-21	བཟང་མོ་དང་ཁྱོད་ལྷན་ཅིག་དགའ་མགུར་སྤྱད་ནས་དེ་བསད་དོ་༎
+K01vinv06_u:5375	 sa kathayati /	K01D0001-3_H0001-3:399b-22	དེས་སྨྲས་པ་།
+K01vinv06_u:5376	 śāntaṃ nāham asya karmaṇaḥ kārīti /	K01D0001-3_H0001-3:399b-23	ཁོ་བོའི་སྡིག་པ་ཞི་བས་ལས་དེ་མི་བྱེད་དོ་༎

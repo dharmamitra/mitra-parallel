@@ -1,0 +1,480 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+T04D3861:204a-11	སོ་སོ་སྐྱེ་བོའི་དུས་ནའང་སྟོང་པ་ཉིད་ཐོས་ནས་༎ ནང་དུ་རབ་ཏུ་དགའ་བ་ཡང་དང་ཡང་དུ་འབྱུང་༎	T04n2980u_001:68	 pṛthagjanatve 'pi niśamya śūnyatāṁ  pramodam antar labhate muhurmuhuḥ |
+T04D3861:204a-13	རབ་ཏུ་དགའ་བ་ལས་བྱུང་མཆི་མས་མིག་བརླན་ཞིང་༎ ལུས་ཀྱི་བ་སྤུ་ལྡང་བར་འགྱུར་བ་གང་ཡིན་པ་༎	T04n2980u_001:76	 prasādajāsrāvilajātalocanas  tanūruhotphullatanuś ca jāyate || 6.4 (1)
+T04D3861:204a-15	དེ་ལ་རྫོགས་པའི་སངས་རྒྱས་བློ་ཡིས་ས་བོན་ཡོད་༎ དེ་ཉིད་ཉེ་བར་བསྟན་པའི་སྣོད་ནི་དེ་ཡིན་ཏེ་༎	T04n2980u_001:93	 yas tasya saṁbuddhadhiyo 'sti bījaṁ  tattvopadeśasya ca bhājanaṁ saḥ |
+T04D3861:204a-17	དེ་ལ་དམ་པའི་དོན་གྱི་བདེན་པ་བསྟན་པར་བྱ་༎	T04n2980u_001:101	 ākhyeyam asmai paramārthasatyaṁ
+T04D3861:204a-18	དེ་ལ་དེ་ཡི་རྗེས་སུ་འགྲོ་བའི་ཡོན་ཏན་འབྱུང་༎	T04n2980u_001:105	 tadanvayās tasya guṇā bhavanti || 6.5
+T04D3861:204a-19	རྟག་ཏུ་ཚུལ་ཁྲིམས་ཡང་དག་བླངས་ནས་གནས་པར་འགྱུར་༎	T04n2980u_001:112	 śīlaṁ samādāya sadaiva vartate
+T04D3861:204a-20	སྦྱིན་པ་གཏོང་བར་འགྱུར་ཞིང་སྙིང་རྗེ་སྟེན་པར་བྱེད་༎	T04n2980u_001:116	 dadāti dānaṁ karuṇāṁ ca sevate |
+T04D3861:204a-21	བཟོད་པ་སྒོམ་བྱེད་དེ་ཡི་དགེ་བ་བྱང་ཆུབ་ཏུ་༎ འགྲོ་བ་དགྲོལ་བར་བྱ་ཕྱིར་ཡོངས་སུ་བསྔོ་བྱེད་ཅིང་༎	T04n2980u_001:120	 titikṣate tatkuśalaṁ ca bodhaye
+T04D3861:204a-23	རྫོགས་པའི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ལ་གུས་པར་བྱེད་༎	T04n2980u_001:124	 praṇāmayaty eva jagadvimuktaye || 6.6  saṁbodhisattveṣu karoti gauravam
+T04D3861:204a-24	ཟབ་ཅིང་རྒྱ་ཆེའི་ཚུལ་ལ་མཁས་པའི་སྐྱེ་བོས་ནི་༎ རིམ་གྱིས་རབ་ཏུ་དགའ་བའི་ས་ནི་འཐོབ་འགྱུར་བས་༎	T04n2980u_001:135	 udāragambhīranaye vicakṣaṇaḥ |  labheta bhūmiṁ muditāṁ janaḥ kramāt
+T04D3861:204a-26	དེ་ནི་དོན་དུ་གཉེར་བས་ལམ་འདི་མཉན་པར་གྱིས་༎	T04n2980u_001:143	 tadarthinaiṣā padavī niśāmyatām || 6.7
+T04D3861:204a-27	དེ་ཉིད་དེ་ལས་འབྱུང་མིན་གཞན་དག་ལས་ལྟ་ག་ལ་ཞིག་། གཉི་ག་ལས་ཀྱང་མ་ཡིན་རྒྱུ་མེད་པར་ནི་ག་ལ་ཡོད་༎	T04n2980u_001:150	 tebhyas ta eva na bhavanti kutaḥ parebhyo  dvābhyāṁ na cāpi kuta eva vinaiva hetum |
+T04D3861:204a-28	དེ་ནི་དེ་ལས་འབྱུང་ན་ཡོན་ཏན་འགའ་ཡང་ཡོད་མ་ཡིན་༎	T04n2980u_001:164	 tasmād dhi tasya bhavane na guṇo 'sti kaścij
+T04D3861:204a-29	སྐྱེས་པར་གྱུར་པ་སླར་ཡང་སྐྱེ་བར་རིགས་པའང་མ་ཡིན་ཉིད་༎	T04n2980u_001:168	 jātasya janma punar eva ca naiva yuktam || 6.8
+T04D3861:204a-30	སྐྱེས་ཟིན་སླར་ཡང་སྐྱེ་བར་ཡོངས་སུ་རྟོག་པར་འགྱུར་ན་ནི་༎	T04n2980u_001:175	 jātasya janmani punaḥ parikalpyamāne
+T04D3861:204a-31	མྱུ་གུ་ལ་སོགས་རྣམས་ཀྱི་སྐྱེ་བ་འདིར་རྙེད་མི་འགྱུར་ཞིང་༎	T04n2980u_001:179	 naivāṅkurādaya iha prabhavaṁ labheran |
+T04D3861:204a-32	ས་བོན་སྲིད་མཐར་ཐུག་པར་རབ་ཏུ་སྐྱེ་བ་ཉིད་དུ་འགྱུར་༎	T04n2980u_001:183	 bījasya ca prabhava eva bhaved bhavāntaṁ
+T04D3861:204a-4	ཇི་ལྟར་ལོང་བའི་ཚོགས་ཀུན་བདེ་བླག་ཏུ་༎ མིག་ལྡན་སྐྱེས་བུ་གཅིག་གིས་འདོད་པ་ཡི་༏་། ཡུལ་དུ་འཁྲིད་པ་དེ་བཞིན་འདིར་ཡང་བློས་༎ ལུང་དང་གཞན་ཡང་རིགས་པས་ཡིན་པས་ན་༎ དེ་ལྟར་འཕགས་པ་ཀླུ་སྒྲུབ་གཞུང་ལུགས་ལས་༎ ཇི་སྟར་གནས་པའི་ལུགས་བཞིན་བརྗོད་པར་བྱ་༎	T04n2980u_001:57	 tathāryanāgārjunanītitas tān  yathāsthitaprakriyayā bravīmi || 6.3
+T04D3861:204b-0	ཇི་ལྟར་དེ་ཉིད་ཀྱིས་དེ་༄༢༠༤བ་རྣམ་པར་འཇིག་པར་བྱེད་པར་འགྱུར་༎	T04n2980u_001:187	 tenaiva tasya hi kathaṁ ca bhaved vināśaḥ || 6.9
+T04D3861:204b-1	བྱེད་རྒྱུ་ས་བོན་གྱི་ལས་ཐ་དད་མྱུ་གུའི་དབྱིབས་དང་ནི་༎ ཁ་དོག་རོ་ནུས་སྨིན་པའི་ཐ་དད་ཁྱོད་ལ་མེད་པར་འགྱུར་༎	T04n2980u_001:194	 saṁsthānavarṇarasavīryavipākabhedāḥ  syur nāṅkurasya tava kāraṇato vibhinnāḥ |
+T04D3861:204b-10	དེ་དག་གཅིག་པ་ཡིན་ཞེས་འཇིག་རྟེན་གྱིས་ཀྱང་ཁས་མ་ལེན་༎ དེ་ཕྱིར་དངོས་པོ་བདག་ལས་འབྱུང་ཞེས་རབ་ཏུ་བརྟགས་པ་འདི་༎ དེ་ཉིད་དང་ནི་འཇིག་རྟེན་དུ་ཡང་རིགས་པ་མ་ཡིན་ནོ་༎	T04n2980u_001:240	 tasmān na tattvata idaṁ na ca lokataś ca  yuktaṁ svato bhavati bhāva iti prakalpam || 6.12 (2)
+T04D3861:204b-13	བདག་ལས་སྐྱེ་བར་འདོད་ན་བསྐྱེད་པར་བྱ་དང་སྐྱེད་བྱེད་དང་༎ ལས་དང་བྱེད་པ་པོ་ཡང་གཅིག་ཉིད་འགྱུར་ན་དེ་དག་ནི་༎	T04n2980u_001:257	 janyasya caiva janakasya ca karmaṇaś ca  kartuś ca janmani bhavet svata iṣyamāṇe |
+T04D3861:204b-14	གཅིག་ཉིད་མ་ཡིན་པས་ན་བདག་ལས་སྐྱེ་བར་ཁས་བླང་པར་༎	T04n2980u_001:265	 aikyaṁ na caikyam anayor iti nābhyupeyaṁ
+T04D3861:204b-15	བྱ་མིན་རྒྱ་ཆེར་བཤད་པའི་ཉེས་པར་ཐལ་བར་འགྱུར་ཕྱིར་རོ་༎	T04n2980u_001:269	 janma svato vihitavistaradoṣasakteḥ || 6.13
+T04D3861:204b-16	གཞན་ལ་བརྟེན་ནས་གལ་ཏེ་གཞན་ཞིག་འབྱུང་བར་འགྱུར་ན་ནི་༎	T04n2980u_001:276	 anyat pratītya yadi nāma paro 'bhaviṣyaj
+T04D3861:204b-17	འོ་ན་མེ་ལྕེ་ལས་ཀྱང་མུན་པ་འཐུག་པོ་འབྱུང་འགྱུར་ཞིང་༎	T04n2980u_001:280	 jāyeta tarhi bahulaḥ śikhino 'ndhakāraḥ |
+T04D3861:204b-18	ཐམས་ཅད་ལས་ཀྱང་ཐམས་ཅད་སྐྱེ་བར་འགྱུར་ཏེ་གང་གི་ཕྱིར་༎	T04n2980u_001:284	 sarvasya janma ca bhavet khalu sarvataś ca
+T04D3861:204b-19	སྐྱེད་པར་བྱེད་པ་མ་ཡིན་མ་ལུས་ལ་ཡང་གཞན་ཉིད་མཚུངས་༎	T04n2980u_001:288	 tulyaṁ paratvam akhile 'janake 'pi yasmāt || 6.14
+T04D3861:204b-20	རབ་ཏུ་བྱ་བར་ནུས་པ་དེ་ཕྱིར་འབྲས་བུར་དེས་བརྗོད་ཅིང་༎	T04n2980u_001:295	 śakyaṁ prakartum iti kāryam ato niruktaṁ
+T04D3861:204b-21	གང་ཞིག་དེ་སྐྱེད་ནུས་པ་དེ་ནི་གཞན་ནའང་རྒྱུ་ཡིན་ལ་༎ རྒྱུད་གཅིག་གཏོགས་དང་སྐྱེད་པར་བྱེད་ལས་སྐྱེ་བ་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:299	 śaktaṁ yad asya janane sa paro 'pi hetuḥ |
+T04D3861:204b-23	སའ་ལུའི་མྱུ་གུ་ནས་ལ་སོགས་ལས་དེ་ལྟ་མིན་ཞེ་ན་༎ ཇི་ལྟར་ནས་དང་གེ་སར་དང་ནི་ཀེང་ཤུ་ཀ་ལ་སོགས་༎ སའ་ལུའི་མྱུ་གུའི་སྐྱེད་པར་བྱེད་པར་འདོད་མིན་ནུས་ལྡན་མིན་༎	T04n2980u_001:303	 janmaikasantatigatāj janakāc ca tasmāc  chālyaṅkurasya na tathā ca yavāditaś cet || 6.15  iṣṭā yathā na janakā na ca śaktiyuktā
+T04D3861:204b-26	རྒྱུད་གཅིག་ཁོངས་སུ་གཏོགས་མིན་འདྲ་བ་མ་ཡིན་ཉིད་དེ་བཞིན་༎	T04n2980u_001:318	 naivaikasantatigatāḥ sadṛśā na caiva |
+T04D3861:204b-27	སའ་ལུའི་ས་བོན་ཡང་ནི་དེ་ཡི་མིན་ཏེ་གཞན་ཉིད་ཕྱིར་༎	T04n2980u_001:322	 śālyaṅkurasya yavakesarakiṁśukādyā  no śālibījam api tasya tathā paratvāt || 6.16
+T04D3861:204b-28	མྱུ་གུ་ས་བོན་དང་ནི་དུས་མཉམ་ཡོད་པ་མ་ཡིན་ཏེ་༎	T04n2980u_001:333	 asty aṅkuraś ca na hi bījasamānakālo
+T04D3861:204b-29	གཞན་ཉིད་མེད་པར་ལ་བོན་གཞན་པ་ཉིད་དུ་ག་ལ་འགྱུར་༎	T04n2980u_001:337	 bījaṁ kutaḥ paratayāstu vinā paratvam |
+T04D3861:204b-3	གལ་ཏེ་སྔར་གྱི་བདག་གིས་དངོས་པོ་བསལ་ནས་དེ་ལས་གཞན་༎ ངོ་བོར་འགྱུར་ན་དེ་ཚེ་དེ་ཡི་དེ་ཉིད་ཇི་ལྟར་འགྱུར་༎	T04n2980u_001:202	 prāgātmabhāvam avadhūya tadanyarūpam  āpadyate yadi tadāsya kathaṁ hi tattvam || 6.10
+T04D3861:204b-5	གལ་ཏེ་ཁྱོད་ཀྱི་ས་བོན་མྱུ་གུ་འདིར་གཞན་མ་ཡིན་ན་༎	T04n2980u_001:213	 bījād ananya iha te yadi cāṅkuraḥ syād
+T04D3861:204b-6	ས་བོན་བཞིན་དུ་མྱུ་གུ་ཞེས་བྱ་དེ་གཟུང་མེད་པའམ་༎	T04n2980u_001:217	 gṛhyeta naiva hi sa bījam ivāṅkurākhyaḥ |
+T04D3861:204b-7	ཡང་ན་དེ་དག་གཅིག་པས་ཇི་ལྟར་མྱུ་གུ་འདི་བཞིན་དུ་༎ དེ་ཡང་གཟུང་དུ་ཡོད་འགྱུར་དེ་ཕྱིར་འདི་ནི་ཁས་མི་བླང་༎	T04n2980u_001:221	 gṛhyeta vā tad api nāma yathāṅkuro 'yaṁ  tattvāt tayor iti na caitad ato 'bhyupeyam || 6.11  loko 'pi caikyam anayor iti nābhyupaiti
+T04D3861:204b-9	གང་ཕྱིར་རྒྱུ་ཞིག་ན་ཡང་དེ་ཡི་འབྲས་བུ་མཐོང་བའི་ཕྱིར་༎	T04n2980u_001:236	 naṣṭe 'pi paśyati yataḥ phalam eṣa hetau |
+T04D3861:205a-0	དེས་ན་མྱུ་གུ་ས་བོན་ལས་སྐྱེ་འགྲུབ་པར་༄༢༠༥ཨ་༌་༎	T04n2980u_001:341	 janmāṅkurasya na hisidhyati tena bījāt
+T04D3861:205a-10	གལ་ཏེ་མིག་གི་བློ་ལ་རང་གི་སྐྱེ་བྱེད་དུས་གཅིག་པ་༎ མིག་ལ་སོགས་དང་ལྷན་ཅིག་འབྱུང་བ་འདུ་ཤེས་ལ་སོགས་ལས་༎	T04n2980u_001:390	 cakṣurdhiyaḥ svajanakaiḥ khalu cakṣurādyaiḥ  saṁjñādibhiś ca sahabhāvibhir ekakālaiḥ |
+T04D3861:205a-12	གཞན་ཉིད་ཡོད་ན་ཡོད་ལ་འབྱུང་བས་དགོས་པ་ཅི་ཞིག་ཡོད་༎ ཅི་སྟེ་དེ་མེད་ཅེ་ན་འདི་ལ་ཉེས་པ་བཤད་ཟིན་ཏོ་༎	T04n2980u_001:398	 anyatvam asti yadi kiṁ bhavanena satyāṁ  nāsyāḥ satītvam atha ced vihito 'tra doṣaḥ || 6.20
+T04D3861:205a-14	སྐྱེད་པར་འབྱེད་པ་བསྐྱེད་བྱ་གཞན་སྐྱེད་པ་དེ་རྒྱུ་ཡིན་ན་༎	T04n2980u_001:409	 janyaṁ paraṁ ca janayej janakaḥ sa hetuḥ
+T04D3861:205a-15	ཡོད་པའམ་འོན་ཏེ་མེད་དང་གཉི་ག་གཉིས་བྲལ་ཞིག་སྐྱེད་གྲང་༎	T04n2980u_001:413	 sad vātha cāsad ubhayaṁ vigatadvayaṁ vā | (3)
+T04D3861:205a-16	ཡོད་ན་སྐྱེད་བྱེད་ཅི་དགོས་མེད་ལའང་དེས་ནི་ཅི་ཞིག་བྱ་༎	T04n2980u_001:426	 sac cet kim asya janakair asato 'pi kiṁ tair
+T04D3861:205a-17	གཉིས་ཉིད་ལ་དེས་ཅི་བྱ་གཉིས་དང་བྲལ་ལའང་དེས་ཅི་བྱ་༎	T04n2980u_001:430	 dvaite 'pi taiḥ kim atha kiṁ vigatadvaye taiḥ || 6.21  yuktyā kim atra khalu varṇitayā kriyeta
+T04D3861:205a-18	གང་གིས་རང་ལྷ་ལ་གནས་འཇིག་རྟེན་ཚད་མར་འདོད་པས་ན་༎	T04n2980u_001:442	 lokaḥ sthitaḥ svadṛśi yena mataḥ pramāṇam |
+T04D3861:205a-2	གཞན་ལས་སྐྱེ་བ་ཡིན་ཞེས་བྱ་བའི་ཕྱོགས་འདི་གཏང་བར་བྱོས་༎	T04n2980u_001:345	 saṁtyajyatāṁ parata udbhavatīti pakṣaḥ || 6.17
+T04D3861:205a-20	གཞན་ལས་གཞན་འབྱུང་བ་ཡང་འཇིག་རྟེན་པ་ཡིས་རྟོགས་འགྱུར་ཏེ་༎	T04n2980u_001:446	 lokaś ca nāma parataḥ parabhāvam eti
+T04D3861:205a-21	དེས་ན་གཞན་ལས་སྐྱེ་ཡོད་འདིར་ནི་རིགས་པ་ཅི་ཞིག་དགོས་༎	T04n2980u_001:450	 tenāsti janma parataḥ kim ihopapattyā || 6.22
+T04D3861:205a-22	དངོས་ཀུན་ཡང་དག་བརྫུན་པ་མཐོང་བ་ཡིས་༎ དངོས་རྙེད་ངོ་བོ་གཉིས་ནི་འཛིན་པར་འགྱུར་༎	T04n2980u_001:461	 rūpadvayaṁ bibhrati sarvabhāvāḥ |
+T04D3861:205a-24	ཡང་དག་མཐོང་ཡུལ་གང་དེ་དེ་ཉིད་དེ་༎ མཐོང་བ་བརྫུན་པ་ཀུན་རྫོབ་བདེན་པར་གསུངས་༎	T04n2980u_001:465	 samyagdṛśāṁ yo viṣayaḥ sa tattvaṁ  mṛṣādṛśāṁ saṁvṛtisatyam uktam || 6.23
+T04D3861:205a-26	མཐོང་བ་བརྫུན་པའང་རྣམ་པ་གཉིས་འདོད་དེ་༎	T04n2980u_001:476	 mṛṣādṛśe 'pi dvividhā matā hi
+T04D3861:205a-27	དབང་པོ་གསལ་དང་དབང་པོ་སྐྱོན་ལྡན་ནོ་༎	T04n2980u_001:480	 spaṣṭendriyā doṣavadindriyāś ca |
+T04D3861:205a-28	སྐྱོན་ལྡན་དབང་ཅན་རྣམས་ཀྱི་ཤེས་པ་ནི་༎ དབང་པོ་ལེགས་གྱུར་ཤེས་ལྟོས་ལོག་པར་འདོད་༎ གནོད་པ་མེད་པའི་དབང་པོ་དྲུག་རྣམས་ཀྱིས་༎	T04n2980u_001:484	 sadindriyajñānam apekṣya mithyā  jñānaṁ mataṁ doṣavadindriyāṇām || 6.24  vinopaghātena yad indriyāṇāṁ  satyaṁ hi tal lokata eva śeṣaṁ
+T04D3861:205a-3	ཇི་ལྟར་སྲང་གི་མདའ་གཉིས་མཐོ་བ་དང་ནི་དམའ་བ་དག་། དུས་མཉམ་མ་ཡིན་པར་ན་མིན་པར་མཐོང་བ་དེ་བཞིན་དུ་༎	T04n2980u_001:352	 antadvayasya namanonnamane tulāyā  dṛṣṭe yathā na khalu naiva samānakāle |
+T04D3861:205a-32	འཇིག་རྟེན་ཉིད་ལས་བདེན་ཡིན་ལྷག་མ་ནི་༎ འཇིག་རྟེན་ཉིད་ལས་ལོག་པར་རྣམ་པར་བཞག་།	T04n2980u_001:507	 vikalpitaṁ lokata eva mithyā || 6.25
+T04D3861:205a-4	བསྐྱེད་པར་བྱ་དང་སྐྱེད་བྱེད་དག་གི་སྐྱེ་འགག་འགྱུར་ཞེ་ན་༎	T04n2980u_001:360	 syātāṁ tathā janakajanyanirodhajātī
+T04D3861:205a-5	གལ་ཏེ་གཅིག་ཚེ་ཡིན་ན་འདིར་དུས་གཅིག་མེད་དེ་ཡང་མིན་༎	T04n2980u_001:364	 yady ekadā tad asad atra vinaikakālam || 6.18
+T04D3861:205a-6	གལ་ཏེ་སྐྱེ་བཞིན་པ་དེ་སྐྱེ་ལ་ཕྱོགས་པས་ཡོད་མིན་ཞིང་༎ འགག་བཞིན་པ་ནི་ཡོད་ཀྱང་འཇིག་ལ་ཕྱོགས་པར་འདོད་གྱུར་པ་༎	T04n2980u_001:371	 janmonmukhaṁ na sad idaṁ yadi jāyamānaṁ  nāśonmukhaṁ sad api nāma niruddhyamānam |
+T04D3861:205a-9	སྐྱེ་བ་འདི་ནི་བྱེད་པོ་མེད་པར་རིགས་པའི་ངོ་བོའང་མིན་༎	T04n2980u_001:383	 kartrā vinā janir iyaṁ na ca yuktarūpā || 6.19
+T04D3861:205b-1	རྣམས་ཀྱིས་བདག་ཉིད་ཇི་བཞིན་བརྟགས་པ་དང་༎ སྒྱུ་མ་སྨིག་རྒྱུ་སོགས་ལ་བརྟགས་པ་གང་༎	T04n2980u_001:518	 tīrthair yathāsvaṁ parikalpitā ye |  māyāmarīcyādiṣu kalpitāś ca
+T04D3861:205b-13	དེ་ཉིད་བདག་ཉིད་གང་དུ་མིག་དག་པས་༎ མཐོང་དེ་དེ་ཉིད་དེ་བཞིན་འདིར་ཤེས་ཀྱིས་༎	T04n2980u_001:581	 keṣādirūpaṁ vitathaṁ tad eva |  yenātmanā paśyati śuddhadṛṣṭis  tat tattvaṁ ity evam ihāpy avaihi || 6.29
+T04D3861:205b-15	གལ་ཏེ་འཇིག་རྟེན་ཚད་མ་ཡིན་ན་ནི་༎ འཇིག་རྟེན་དེ་ཉིད་མཐོང་བས་འཕགས་གཞན་གྱིས་༎	T04n2980u_001:596	 lokaḥ pramāṇaṁ yadi tattvadarśī  syāl loka evety aparaiḥ kim āryaiḥ |
+T04D3861:205b-17	ཅི་དགོས་འཕགས་པའི་ལམ་གྱིས་ཅི་ཞིག་བྱ་༎ བླུན་པོ་ཚད་མར་རིགས་པའང་མ་ཡིན་ནོ་༎	T04n2980u_001:604	 kim āryamārgeṇa bhavec ca kāryaṁ
+T04D3861:205b-19	རྣམ་ཀུན་འཇིག་རྟེན་ཚད་མིན་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:608	 mūḍhaḥ pramāṇaṁ na hi nāma yuktaḥ || 6.30
+T04D3861:205b-2	དེ་དག་འཇིག་རྟེན་ལས་ཀྱང་ཡོད་མིན་ཉིད་༎	T04n2980u_001:526	 teṣām atattvaṁ khalu lokato 'pi || 6.26
+T04D3861:205b-20	དེ་ཉིད་སྐབས་སུ་འཇིག་རྟེན་གནོད་པ་མེད་༎	T04n2980u_001:615	 lokaḥ pramāṇaṁ na hi sarvathātas  tattvādhikāre na ca lokabādhā |
+T04D3861:205b-21	འཇིག་རྟེན་དོན་ནི་འཇིག་རྟེན་གྲགས་ཉིད་ཀྱིས་༎ གལ་ཏེ་སེལ་ན་འཇིག་རྟེན་གྱིས་གནོད་འགྱུར་༎	T04n2980u_001:623	 syāl lokabādhā yadi laukikārtho  lokapratītyaiva nirākriyeta || 6.31
+T04D3861:205b-23	གང་ཕྱིར་འཇིག་རྟེན་ས་བོན་ཙམ་བཏབ་ནས་༎ བདག་གིས་བུ་འདི་སྐྱེད་ཅེས་སྨྲ་བྱེད་ཅིང་། ཤིང་ཡང་བཙུགས་སོ་སྙམ་དུ་རྟོག་དེས་ན་༎	T04n2980u_001:634	 uptvāpi lokaḥ khalu bījamātraṁ  bravīti putro janito mayaiṣaḥ |  uptas taruś ceti paraiti yasmāj
+T04D3861:205b-26	གཞན་ལས་སྐྱེ་བ་འཇིག་རྟེན་ལས་ཀྱང་མེད་༎	T04n2980u_001:646	 janmānyatas tena na lokato 'pi || 6.32
+T04D3861:205b-27	གང་ཕྱིར་མྱུ་གུ་ས་བོན་ལས་གཞན་མིན་༏་། དེ་ཕྱིར་མྱུག་ཚེ་ས་བོན་ཞིག་པ་མེད་༎	T04n2980u_001:653	 yato na bījāt paratāṅkurasya  saty aṅkure bījam ato na naṣṭam |
+T04D3861:205b-3	མིག་ནི་རབ་རིབ་ཅན་གྱིས་དམིགས་པ་ཡིས་༎ རབ་རིབ་མེད་ཤེས་ལ་གནོད་མིན་ཇི་ལྟར་༎ དེ་བཞིན་དྲི་མེད་ཡེ་ཤེས་སྤངས་པའི་བློས་༎ དྲི་མེད་བློ་ལ་གནོད་པ་ཡོད་མ་ཡིན་༎	T04n2980u_001:533	 na bādhate jñānam ataimirāṇāṁ  yathopalabdhis timirekṣaṇāṇām |  dhiyāsti bādho na dhiyo 'malāyāḥ || 6.27
+T04D3861:205b-30	མྱུག་ཚེ་ས་བོན་ཡོད་ཅེས་བརྗོད་མི་བྱ་༎	T04n2980u_001:665	 saty aṅkure 'stīti na vācyam eva || 6.33
+T04D3861:205b-31	གལ་ཏེ་རང་གི་མཚན་ཉིད་བརྟེན་འགྱུར་ན་༎	T04n2980u_001:672	 svalakṣaṇaṁ ced bhavati pratītya
+T04D3861:205b-32	དེ་ལ་སྐུར་བས་དངོས་པོ་འཇིག་པའི་ཕྱིར་༎	T04n2980u_001:676	 tasyāpavāde sati bhāvanāśāt |
+T04D3861:205b-33	སྟོང་ཉིད་དངོས་པོ་འཇིག་པའི་རྒྱུར་འགྱུར་ན་༎	T04n2980u_001:680	 syāc chūnyatā bhāvavināśahetur
+T04D3861:205b-34	དེ་ནི་རིགས་མིན་དེ་ཕྱིར་དངོས་ཡོད་མིན་༎	T04n2980u_001:684	 yuktaṁ na caitan na tato 'sti bhāvaḥ || 6.34
+T04D3861:205b-35	གང་ཕྱིར་དངོས་པོ་འདི་དག་རྣམ་དཔྱད་ན་༎ གནས་རྙེད་མ་ཡིན་དེ་ཕྱིར་འཇིག་རྟེན་གྱི་༎ ཐ་སྙད་བདེན་ལ་རྣམ་པར་དཔྱད་མི་བྱ་༎	T04n2980u_001:691	 arvāṅ na tattvātmakarūpato 'mī  yataḥ padārthā na tato vicāraḥ  karyo hi lokavyavahārasatye || 6.35
+T04D3861:205b-39	དེ་ཉིད་སྐབས་སུ་རིགས་པ་གང་ཞིག་གིས་༎	T04n2980u_001:710	 tattvādhikāre hi yayaiva yuktyā
+T04D3861:205b-7	གཏི་མུག་རང་བཞིན་སྒྲིབ་ཕྱིར་ཀུན་རྫོབ་སྟེ་༎	T04n2980u_001:552	 mohaḥ svabhāvāvaraṇād dhi saṁvṛtiḥ
+T04D3861:205b-8	དེས་གང་བཅོས་མ་བདེན་པར་སྣང་དེ་ནི་༎	T04n2980u_001:556	 satyaṁ tayā khyāti yad eva kṛtrimam |
+T04D3861:205b-9	ཀུན་རྫོབ་བདེན་ཞེས་ཐུབ་པ་དེས་གསུངས་ཏེ་༎ བཅོས་མར་གྱུར་པའི་དངོས་ནི་ཀུན་རྫོབ་ཏུའོ་༎	T04n2980u_001:560	 jagāda tat saṁvṛtisatyam ity asau  muniḥ padārthaṁ kṛtakañ ca saṁvṛtiḥ || 6.28 (4)
+T04D3861:206a-0	༄༢༠༦ཨ་༌་༎ བདག་དང་གཞན་ལས་སྐྱེ་བ་རིགས་མིན་པའི་༎	T04n2980u_001:714	 svasmāt parasmāc ca na janma yuktam |
+T04D3861:206a-1	རིགས་དེས་ཐ་སྙད་དུ་ཡང་རིགས་མིན་པས་༎ ཁྱོད་ཀྱི་སྐྱེ་བ་གང་གིས་ཡིན་པར་འགྱུར་༎	T04n2980u_001:718	 yuktyā tayaiva vyavahārato 'pi  na yujyate kena tavāstu janma || 6.36
+T04D3861:206a-11	གང་ཕྱིར་རང་བཞིན་གྱིས་དེ་མི་འགག་པ་༎	T04n2980u_001:776	 yasmāt svarūpeṇa na tam niruddhaṁ
+T04D3861:206a-12	དེ་ཕྱིར་ཀུན་གཞི་མེད་ཀྱང་འདི་ནུས་ཕྱིར་༎ ལ་ལར་ལས་འགགས་ཡུན་རིང་ལོན་ལས་ཀྱང་༎ འབྲས་བུ་ཡང་དག་འབྱུང་བར་རིག་པར་གྱིས་༎	T04n2980u_001:780	 ciraṁ niruddhād api karmaṇo 'taḥ |  kvacid vinaivālayam asya śakteḥ  phalaṁ samutpadyata ity avaihi || 6.39
+T04D3861:206a-15	རྨི་ལམ་དམིགས་པའི་ཡུལ་དག་མཐོང་ནས་ནི་༎ སད་ཀྱང་བླུན་ལ་ཆགས་པ་སྐྱེ་འགྱུར་བ་༎	T04n2980u_001:795	 svapnopalabdhān viṣayān avetya  bodhe 'pi mūḍhasya yathaiva saṅgaḥ |
+T04D3861:206a-17	དེ་བཞིན་འགགས་ཤིང་རང་བཞིན་ཡོད་མིན་པའི་༎ ལས་ལས་ཀྱང་ནི་འབྲས་བུ་ཡོད་པ་ཡིན་༎	T04n2980u_001:803	 saṁjāyate tadvad asatsvabhāvāt  phalaṁ niruddhād api karmaṇo 'sti || 6.40
+T04D3861:206a-19	ཇི་ལྟར་ཡུལ་ནི་ཡོད་ཉིད་མིན་མཚུངས་ཀྱང་༎	T04n2980u_001:814	 tulye 'py asattve viṣayasya yadvat
+T04D3861:206a-20	རབ་རིབ་ཅན་གྱིས་སྐྲ་ཤད་རྣམ་པར་ནི་༎	T04n2980u_001:818	 keśākṛtiṁ taimirikaḥ paraiti |
+T04D3861:206a-22	དེ་བཞིན་སྨིན་ལས་སླར་སྨིན་མིན་ཤེས་ཀྱིས་༎	T04n2980u_001:826	 tathā vipakvān na punar vipākam || 6.41
+T04D3861:206a-23	དེ་ཕྱིར་རྣམ་སྨིན་མི་དགེ་ནག་པོའི་ལས་༎	T04n2980u_001:833	 ato hi kṛṣṇād aśubho vipākaḥ
+T04D3861:206a-24	རྣམ་སྨིན་དགེ་ཉིད་དགེ་ལས་ཡིན་མཐོང་ཞིང་༎	T04n2980u_001:837	 śubhād vipākaḥ śubha eva dṛṣṭaḥ |
+T04D3861:206a-25	དགེ་མི་དགེ་མེད་བློ་ཅན་ཐར་འགྱུར་ཏེ་༎	T04n2980u_001:841	 śubhāśubhābhāvadhiyaś ca mokṣaś
+T04D3861:206a-26	ལས་འབྲས་རྣམས་ལ་སེམས་པའང་དགག་པ་མཛད་༎	T04n2980u_001:845	 cintāniṣedhaḥ phalakarmaṇāṁ ca || 6.42
+T04D3861:206a-27	ཀུན་གཞི་ཡོད་ཅིང་གང་ཟག་ཉིད་ཡོད་ལ་༎ ཕུང་པོ་འདི་དག་འབའ་ཞིག་ཉིད་ཡོད་ཅེས་༎ བསྟན་པ་འདི་ནི་ད་ལྟར་ཆེས་ཟབ་དོན་༎	T04n2980u_001:852	 evaṁ hi gambhīratarān padārthān
+T04D3861:206a-3	དངོས་པོ་སྟོང་པ་གཟུགས་བརྙན་ལ་སོགས་པ་༎	T04n2980u_001:729	 śūnyāḥ padārthāḥ pratibimbakādyāḥ
+T04D3861:206a-30	རིག་པར་མི་འགྱུར་དང་ཡིན་དེ་ལའོ་༎ འཇིག་ཚོགས་ལྟར་དང་བྲལ་ཡང་སངས་རྒྱས་ཀྱིས་༎	T04n2980u_001:856	 na vetti yas taṁ prati deśaneyam |  asty ālayaḥ pudgala eva cāsti
+T04D3861:206a-32	ཇི་ལྟར་ང་དང་ང་ཡི་བསྟན་པ་ལྟར་༎	T04n2980u_001:864	 skandhā ime vā khalu kevalāś ca || 6.43  ahaṁ mamety eva yathā dideśa
+T04D3861:206a-33	དེ་བཞིན་དངོས་རྣམས་རང་བཞིན་མེད་མོད་ཀྱི་༎ ཡོད་ཅེས་དྲང་དོན་ཉིད་དུ་བསྟན་པ་ཡིན་༎ གཟུང་བ་མེད་པར་འཛིན་པ་མ་མཐོང་ཞིང་༎ སྲིད་གསུམ་རྣམ་ཤེས་ཙམ་དུ་རབ་རྟོགས་པས་༎	T04n2980u_001:875	 satkāyadṛṣṭer vigame 'pi buddhaḥ |  tathā 'svabhāvān api sarvabhāvān  astīti neyārthatayā dideśa || 6.44 (6)
+T04D3861:206a-37	ཤེས་རབ་ལ་གནས་བྱང་ཆུབ་སེམས་དཔའ་དེས་༎	T04n2980u_001:896	 prajñāvihārī sa hi bodhisattvo
+T04D3861:206a-4	ཚོགས་ལ་ལྟོས་རྣམས་མ་གྲགས་པ་ཡང་མིན་༎	T04n2980u_001:733	 sāmagryapekṣā na hi na prasiddhāḥ | (5)
+T04D3861:206a-5	ཇི་ལྟར་དེར་ནི་གཟུགས་བརྙན་སོགས་སྟོང་ལས་༎ ཤེས་པ་དེ་ཡི་རྣམ་པ་སྐྱེ་འགྱུར་ལྟར་༎	T04n2980u_001:746	 yathā ca śūnyāt pratibimbakādeś  cetas tadākāram upaiti janma || 6.37
+T04D3861:206a-7	དེ་བཞིན་དངོས་པོ་ཐམས་ཅད་སྟོང་ན་ཡང་༎ སྟོང་ཉིད་དག་ལས་རབ་ཏུ་སྐྱེ་བར་འགྱུར་༎	T04n2980u_001:757	 evaṁ hi śūnyā api sarvabhāvāḥ  śūnyebhya eva prabhavaṁ prayānti |
+T04D3861:206a-9	བདེན་པ་གཉིས་སུའང་རང་བཞིན་མེད་པའི་ཕྱིར་༎ དེ་དག་རྟག་པ་མ་ཡིན་ཆད་པའང་མིན་༎	T04n2980u_001:765	 nocchedinas te na ca śāśvatāś ca  satyadvaye 'pi prakṛter abhāvāt || 6.38
+T04D3861:206b-0	ཇི་ལྟར་རླུང་གིས་༄༢༠༦བ་བསྐུལ་བས་རྒྱ་མཚོ་ནི་༎	T04n2980u_001:915	 yathā taraṅgā mahato 'mburāśeḥ  samīraṇapreraṇayodbhavanti |
+T04D3861:206b-10	གང་ཚེ་ང་ལ་རྨི་ལམ་ན་ཡང་སེམས་༎	T04n2980u_001:964	 svapne 'pi me naiva hi cittam asti
+T04D3861:206b-11	ཡོད་མིན་དེ་ཚེ་ཁྱོད་ཀྱི་དཔེ་ཡོད་མིན་༎	T04n2980u_001:968	 yadā tadā nāsti nidarśanaṁ te || 6.48
+T04D3861:206b-12	གལ་ཏེ་སད་ཚེ་རྨི་ལམ་དྲན་ལས་ཡིད་༎	T04n2980u_001:975	 svapnasya bodhe smaraṇān mano 'sti
+T04D3861:206b-13	ཡོད་ན་ཕྱི་རོལ་ཡུལ་ཡང་དེ་བཞིན་འགྱུར་༎	T04n2980u_001:979	 yady astu bāhyo viṣayo 'pi tadvat |
+T04D3861:206b-14	ཇི་ལྟར་ཁྱོད་ཀྱི་ངས་མཐོང་སྙམ་དྲན་པ་༎	T04n2980u_001:983	 yathā mayā dṛṣṭam iti smṛtis te
+T04D3861:206b-15	དེ་འདྲ་ཕྱི་རོལ་ལ་ཡང་ཡོད་པ་ཡིན་༎	T04n2980u_001:987	 bāhye 'pi tadvat smṛtisambhavo 'sti || 6.49
+T04D3861:206b-16	གལ་ཏེ་གཉིད་ནང་མིག་བློ་མི་སྲིད་པས་༎ ཡོད་མིན་ཡིད་ཀྱི་ཤེས་པ་ཁོ་ན་ཡོད་༎	T04n2980u_001:994	 cakṣurdhiyaḥ sambhava eva middhe  nāsty asti vai mānasam eva cetaḥ |
+T04D3861:206b-18	དེ་ཡི་རྣམ་པ་ཕྱི་རོལ་ཉིད་དུ་ཞེན་༎	T04n2980u_001:1002	 tadākṛtau bāhyatayā niveśaḥ
+T04D3861:206b-19	རྨི་ལམ་ཇི་ལྟ་དེ་བཞིན་འདིར་འདོད་ན་༎	T04n2980u_001:1006	 svapne yathehāpi tathā mataṁ cet || 6.50
+T04D3861:206b-2	ཀུན་གྱི་ས་བོན་ཀུན་གཞི་ཞེས་བྱ་ལས་༎ རང་གི་ནུས་པས་རྣམ་ཤེས་ཙམ་ཞིག་འབྱུང་༎	T04n2980u_001:923	 tathālayākhyād api sarvabījād  vijñānamātraṁ bhavati svaśakteḥ || 6.46
+T04D3861:206b-20	ཇི་ལྟར་ཁྱོད་ཀྱི་ཕྱི་ཡུལ་རྨི་ལམ་དུ་༎	T04n2980u_001:1013	 bāhyo yathā te viṣayo na jātaḥ
+T04D3861:206b-21	མ་སྐྱེས་དེ་བཞིན་ཡིད་ཀྱང་སྐྱེས་མ་ཡིན་༎	T04n2980u_001:1017	 svapne tathā naiva mano 'pi jātam |
+T04D3861:206b-22	མིག་དང་མིག་གི་ཡུལ་དང་དེས་སྐྱེད་སེམས་༎	T04n2980u_001:1021	 cakṣuś ca cakṣurviṣayaś ca tajjaṁ
+T04D3861:206b-23	གསུམ་པོ་ཐམས་ཅད་ཀྱང་ནི་བརྫུན་པ་ཡིན་༎	T04n2980u_001:1025	 cittaṁ ca sarvaṁ trayam apy alīkam || 6.51 (7)
+T04D3861:206b-24	རྣ་སོགས་ལྷག་མ་གསུམ་པོའང་སྐྱེ་བ་མེད་༎	T04n2980u_001:1038	 śrotrādiśeṣaṁ trayam apy ajātaṁ
+T04D3861:206b-25	རྨི་ལམ་ཇི་ལྟ་དེ་བཞིན་སད་འདིར་ཡང་༎	T04n2980u_001:1042	 svapne yathehāpi tathā prabodhe |
+T04D3861:206b-26	དངོས་རྣམས་བརྫུན་ཡིན་སེམས་དེ་ཡོད་མ་ཡིན་༎	T04n2980u_001:1046	 mṛṣā padārthā na tad asti cittaṁ
+T04D3861:206b-27	སྤྱོད་ཡུལ་མེད་ཅིང་དབང་པོ་རྣམས་ཀྱང་མེད་༎	T04n2980u_001:1050	 na gocaraḥ santi ca nendriyāṇi || 6.52
+T04D3861:206b-28	འདི་ན་ཇི་ལྟར་སད་བཞིན་ཇི་སྲིད་དུ་༎ མི་སད་དེ་སྲིད་དེ་ལ་གསུམ་པོ་ཡོད་༎ སད་པར་གྱུར་ན་གསུམ་ཆར་ཡོད་མིན་ལྟར་༎	T04n2980u_001:1057	 yāvan na bodhaṁ labhate 'sti tāvat  trayaṁ hi tasyeha yathāprabodhe |  sati prabodhe trayam apy asatyaṁ
+T04D3861:206b-31	གཏི་མུག་གཉིད་ཟད་ལས་དེ་དེ་བཞིན་ནོ་༎	T04n2980u_001:1069	 sa mohanidrākṣayatas tathaiva || 6.53
+T04D3861:206b-32	དབང་པོ་རབ་རིབ་བཅས་པ་བློ་གང་གིས་༎ རབ་རིབ་མཐུ་ལས་སྐྲ་རྣམས་གང་མཐོང་བ་༎	T04n2980u_001:1076	 keśākṛtiṁ yāṁ timiraprabhāvād  dhiyā yayā vetti sa taimirākṣaḥ |
+T04D3861:206b-35	དོན་གསལ་མཐོང་ལ་གཉིས་ཀའང་བརྫུན་པ་ཡིན་༎	T04n2980u_001:1088	 spaṣṭārthadṛṣṭer dvayam apy alīkam || 6.54
+T04D3861:206b-36	གལ་ཏེ་ཤེས་བྱ་མེད་པར་བློ་ཡོད་ན་༎	T04n2980u_001:1095	 jñeyaṁ vinā syād yadi nāma buddhis
+T04D3861:206b-37	སྐྲ་དེའི་ཡུལ་དང་མིག་ནི་རྗེས་འབྲེལ་པའི་༎	T04n2980u_001:1099	 tatkeśadeśānugalocanasya |
+T04D3861:206b-38	རབ་རིབ་མེད་ལའང་སྐྲ་ཤད་བློར་འགྱུར་ན་༎	T04n2980u_001:1103	 vitaimirasyāpi ca keśabuddhiḥ
+T04D3861:206b-39	དེ་ལྟ་མ་ཡིན་དེ་ཕྱིར་དེ་ཡོད་མིན་༎	T04n2980u_001:1107	 syād eva na tv evam ato 'sti naitat || 6.55
+T04D3861:206b-4	དེ་ཕྱིར་གཞན་གྱི་དབང་གི་ངོ་བོ་གང་༎ དངོས་པོ་བཏགས་པར་ཡོད་པའི་རྒྱུར་འགྱུར་ཞིང་༎	T04n2980u_001:941	 prajñaptisadvastunibandhanaṁ yat |
+T04D3861:206b-40	གང་ཕྱིར་མཐོང་བ་དག་ལ་བློ་ནུས་ནི་༎	T04n2980u_001:1114	 dhīśaktipako 'sti na śuddhadṛṣṭer
+T04D3861:206b-41	སྨིན་མེད་དེ་ཕྱིར་དེ་ལ་བློ་མི་འགྱུར་༎	T04n2980u_001:1118	 yatas tato dhīr na hi jāyate 'sya |
+T04D3861:206b-6	ཕྱི་རོལ་གཟུང་བ་མེད་པར་འབྱུང་འགྱུར་ལ་༎	T04n2980u_001:945	 bāhyaṁ vinā grāhyam udeti sac ca
+T04D3861:206b-7	ཡོད་དང་སྤྲོས་ཀུན་ཡུལ་མིན་རང་བཞིན་ཡོད་༎	T04n2980u_001:949	 sarvaprapañcāviṣayasvarūpam || 6.47
+T04D3861:206b-8	ཕྱི་རོལ་མེད་སེམས་དཔེ་ནི་གང་དུ་ཡོད་༎	T04n2980u_001:956	 vinaiva bāhyaṁ kva yathāsti cittaṁ
+T04D3861:206b-9	རྨི་ལམ་ཇི་བཞིན་ཞེ་ན་དེ་བསམ་བྱ་༎	T04n2980u_001:960	 svapne yathā ced idam eva cintyam |
+T04D3861:207a-0	ནུས་དེ་མེད་༄༢༠༧ཨ་༌་༎ པས་འདི་ནི་འགྲུབ་མ་ཡིན་༎	T04n2980u_001:1126	 tacchaktyabhāvān na hi siddham etat || 6.56
+T04D3861:207a-10	གལ་ཏེ་འགགས་པའི་ནུས་སྨིན་ལས་འགྱུར་ན་༎ གཞན་གྱི་ནུས་པ་ལས་གཞན་འབྱུང་བར་འགྱུར་༎ རྒྱུན་ཅན་རྣམས་དེར་ཕན་ཚུན་ཐ་དད་ཡོད་༎	T04n2980u_001:1171	 niruddhaśakteḥ paripākataḥ syād  yady anyaśakteḥ parasambhavaḥ syāt |
+T04D3861:207a-13	དེ་ཕྱིར་ཐམས་ཅད་ཀུན་ལས་འབྱུང་བར་འགྱུར་༎	T04n2980u_001:1183	 sarvasya sarvaprabhavas tataḥ syād || 6.59 (8)
+T04D3861:207a-15	དེ་དག་ལ་རྒྱུན་ཐ་དད་མེད་དེའི་ཕྱིར་༎ ཉེས་མེད་ཅེ་ན་འདི་ནི་བསྒྲུབ་བྱ་ཞིག་། ཐ་མི་དད་རྒྱུན་སྐབས་མི་རིགས་ཕྱིར་རོ་༎	T04n2980u_001:1200	 santānabhedo 'sti hi naiva teṣām |  tato na doṣā iti sādhyam etat  abhedasantānagater ayogāt || 6.60
+T04D3861:207a-17	བྱམས་པ་ཉེར་སྦས་ལ་བརྟེན་ཆོས་རྣམས་ནི་༏	T04n2980u_001:1215	 maitropaguptāśrayiṇo hi dharmā
+T04D3861:207a-18	གཞན་ཉིད་ཕྱིར་ན་རྒྱུད་གཅིག་གཏོགས་མིན་ཏེ་༎	T04n2980u_001:1219	 na hy ekasantānagatāḥ paratvāt |
+T04D3861:207a-19	གང་དག་རང་མཚན་ཉིད་ཀྱིས་སོ་སོ་བ་༎	T04n2980u_001:1223	 svalakṣaṇenāpi pṛthak pṛthag ye
+T04D3861:207a-2	སྐྱེས་ལ་ནུས་པ་སྲིད་པ་ཡོད་མ་ཡིན་༎ མ་སྐྱེས་ངོ་བོ་ལ་ཡང་ནུས་ཡོད་མིན་༎ ཁྱད་པར་མེད་པར་ཁྱད་པར་ཅན་ཡོད་མིན་༎	T04n2980u_001:1133	 jātasya śakter na hi sambhavo 'sti  nājātarūpasya ca śaktir asti |  viśeṣaṇaṁ nāsti vinā viśeṣyaṁ
+T04D3861:207a-20	དེ་དག་རྒྱུད་གཅིག་གཏོགས་པ་རིགས་མ་ཡིན་༎	T04n2980u_001:1227	 te 'py ekasantānagatā na yuktāḥ || 6.61
+T04D3861:207a-21	མིག་བློ་སྐྱེ་བ་རང་ནུས་གང་ཞིག་ལས་༎	T04n2980u_001:1234	 cakṣurdhiyo janma yataḥ svaśakter
+T04D3861:207a-22	དེ་མ་ཐག་ཏུ་ཀུན་ནས་སྐྱེ་འགྱུར་ཞིང་༎	T04n2980u_001:1238	 ājāyate 'nantaram eva tasyāḥ |
+T04D3861:207a-24	། དབང་པོ་གཟུགས་ཅན་མིག་གཅེས་བྱ་བར་རྟོགས་༎	T04n2980u_001:1246	 rūpīndriyaṁ cakṣur iti pratītiḥ || 6.62
+T04D3861:207a-25	འདི་ན་དབང་པོ་ལས་བྱུང་རྣམ་པར་རིག་། ཕྱི་གཟུང་མེད་པར་རང་གི་ས་བོན་ལས་༎ སྔོ་སོགས་སྣང་ཉིད་འབྱུང་བར་མ་རྟོགས་ནས་༎ སྐྱེ་བོས་ཕྱི་རོལ་བཟུང་བར་སེམས་ཁས་ལེན་༎	T04n2980u_001:1253	 bahir vinā rūpam iha svabījān  nīlādinirbhāsitayodbhavantīm |  vijñaptim akṣiprabhavām abuddhvā
+T04D3861:207a-28	རྨི་ལམ་ན་ནི་གཟུགས་དོན་གཞན་མེད་པར་༎	T04n2980u_001:1272	 svapne vinārthāntaram eva rūpaṁ
+T04D3861:207a-29	རང་ནུས་སྨིན་ལས་དེ་ཡི་རྣམ་ཅན་སེམས་༎	T04n2980u_001:1276	 yathā tadākāram udeti cetaḥ |
+T04D3861:207a-30	འབྱུང་བ་ཇི་ལྟ་དེ་བཞིན་སད་ལའང་འདིར་༎	T04n2980u_001:1280	 svaśaktipākād iha jāgrato 'pi
+T04D3861:207a-31	ཕྱིར་རོལ་མེད་པར་ཡིད་ནི་ཡོད་ཅེ་ན་༎	T04n2980u_001:1284	 tathāsti bāhyena vinā manaś cet || 6.64
+T04D3861:207a-33	སྔོ་སོགས་སྣང་བའི་ཡིད་སེམས་འབྱུང་དེ་ལྟར་༎	T04n2980u_001:1291	 nīlādinirbhāsam udeti cetaḥ
+T04D3861:207a-34	མིག་དབང་མེད་པར་རང་གི་ས་བོན་ནི་༎	T04n2980u_001:1295	 svapne yathā mānasam akṣyabhāve |
+T04D3861:207a-35	སྨིན་ལས་ལོང་བ་ལ་འདིར་ཅིས་མི་སྐྱེ་༎	T04n2980u_001:1299	 kasmād ihāndhasya tathākṣyapāye  svabījapākād udayaṁ na yāti || 6.65
+T04D3861:207a-36	གལ་ཏེ་ཁྱོད་ལྟར་རྨི་ལམ་དྲུག་པ་ཡི་༎	T04n2980u_001:1310	 svapne 'sti ṣaṣṭhasya hi śaktipāko
+T04D3861:207a-37	ནུས་པ་སྨིན་ཡོད་སད་པར་མེད་གྱུར་ན་༎ དྲུག་པའི་ནུས་སྨིན་ཇི་ལྟ་འདིར་མེད་པ་༎ དེ་ལྟར་རྨི་ཚེ་མེད་ཅེས་ཅིས་མི་རིགས་༎	T04n2980u_001:1314	 na jāgrato 'stīti sacet tava syāt |  yatheha ṣaṣṭhasya na śaktipākaḥ
+T04D3861:207a-40	ཇི་ལྟར་མིག་མེད་འདི་ཡི་རྒྱུ་མིན་ལྟར་༎ རྨི་ལམ་དུ་ཡང་གཉིད་ནི་༄༢༠༧བ་རྒྱུ་མ་ཡིན་༎	T04n2980u_001:1329	 akṣyor abhāvo 'sya yathā na hetuḥ  svapne 'pi middhaṁ na tathaiva hetuḥ |
+T04D3861:207a-5	མོ་གཤམ་བུ་ལའང་དེ་ནི་ཡོད་པར་ཐལ་༎	T04n2980u_001:1145	 vandhyāsutasyāpi ca tatprasaṅgaḥ || 6.57
+T04D3861:207a-6	གལ་ཏེ་འབྱུང་བར་འགྱུར་བས་བསྙད་འདོད་ན་༎ ནུས་པ་མེད་པར་འདི་ཡི་འབྱུང་འགྱུར་མེད་༎	T04n2980u_001:1152	 bhaviṣyatā ced vyapadeśa iṣṭaḥ  śaktiṁ vinā nāsti hi bhāvitāsya |
+T04D3861:207a-8	ཕན་ཚུན་དོན་ལ་བརྟེན་པའི་འགྲུབ་པ་ནི་༎	T04n2980u_001:1160	 parasparāyāśrayaṇī ca siddhir
+T04D3861:207a-9	གྲུབ་མིན་ཉིད་ཅེས་དམ་པ་རྣམས་ཀྱིས་གསུངས་༎	T04n2980u_001:1164	 asiddhir eveti vadanti santaḥ || 6.58
+T04D3861:207b-1	དེ་ཕྱིར་རྨི་ལམ་དུ་ཡང་དེ་དངོས་མིག་། བརྫུན་པའི་ཡུལ་ཅན་རྟོགས་པའི་རྒྱུར་ཁས་བླང་༎	T04n2980u_001:1337	 svapne 'pi tadrūpam ato 'bhyupeyaṁ  cakṣur mṛṣāgocarabodhihetuḥ || 6.67
+T04D3861:207b-10	ཁྱོད་ཀྱི་དབང་བློའི་ཡུལ་རྣམས་ཇི་ལྟ་བ་༎ དེ་ལྟར་མི་སྡུག་ཡིད་ཀྱི་ཡང་འགྱུར་ན་༎ དེ་བཞིན་ཡུལ་དེར་བློ་གཏད་ཅིག་ཤོས་ཀྱིས་༎	T04n2980u_001:1395	 yathā 'kṣibuddhau viṣayākṛtis te  tathāśubhāyāṁ manaso yadi syāt |  taddeśabuddher itarasya tadvat
+T04D3861:207b-16	མདོར་ན་ཇི་ལྟར་ཤེས་བྱ་མེད་དེ་བཞིན་༎ བློ་ཡང་མེད་ཅེས་དོན་འདི་ཤེས་པར་གྱིས་༎	T04n2980u_001:1422	 saṁkṣepatas tv artham amuṁ paraihi  jñeyaṁ yathā nāsty api dhīs tatheti || 6.71
+T04D3861:207b-18	གལ་ཏེ་གཟུང་མེད་འཛིན་པ་ཉིད་བྲལ་ཞིང་༎ གཉིས་ཀྱིས་སྟོང་པའི་གཞན་དབང་དངོས་ཡོད་ན་༎	T04n2980u_001:1433	 grāhyaṁ vinā grāhakatāviyuktaṁ  dvayena śūnyaṁ paratantrarūpam |
+T04D3861:207b-2	འདི་ཡིས་ལན་ནི་གང་དང་གང་བཏབ་པ་༎	T04n2980u_001:1348	 yaṁ yaṁ parīhāram ayaṁ bravīti
+T04D3861:207b-21	མ་བཟུང་བར་ཡང་ཡོད་ཅེས་བྱར་མི་རུང་༎ དེ་ཉིད་ཀྱིས་དེ་མྱོང་བར་འགྲུབ་མ་ཡིན་༎	T04n2980u_001:1445	 agṛhyamāṇaṁ ca sad ity ayuktam || 6.72  tenaiva tasyānubhavo na siddhaḥ
+T04D3861:207b-23	གལ་ཏེ་ཕྱི་དུས་དྲན་པ་ལས་འགྲུབ་ན་༎	T04n2980u_001:1456	 siddhaḥ smṛter uttarakālataś cet |
+T04D3861:207b-24	མ་གྲུབ་བསྒྲུབ་པར་བྱ་ཕྱིར་བརྗོད་པ་ཡི་༎ མ་གྲུབ་འདི་ནི་སྒྲུབ་པར་བྱེད་པ་མིན་༎	T04n2980u_001:1460	 asiddhasiddhyartham asiddham etan  nirucyamānaṁ na hi sādhanāya || 6.73
+T04D3861:207b-26	རང་རིག་པ་ནི་གྲུབ་ལ་རག་མོད་ཀྱི་༎	T04n2980u_001:1471	 kāmaṁ svasaṁvedanasiddhir astu
+T04D3861:207b-27	དེ་ལྟའང་དྲན་པའི་དྲན་པ་རིགས་མིན་ཏེ་༎	T04n2980u_001:1475	 smartuḥ smṛter naiva tathāpi yuktā |
+T04D3861:207b-28	གཞན་ཕྱིར་མ་ཤེས་རྒྱུད་ལ་སྐྱེས་པ་བཞིན་༎	T04n2980u_001:1479	 ajñānasantānajavat paratvād
+T04D3861:207b-29	གཏན་ཚིགས་འདིས་ནི་ཁྱད་པར་དག་ཀྱང་འཇོམས་༎	T04n2980u_001:1483	 dhetur viśeṣān api caiṣa hanyāt || 6.74
+T04D3861:207b-3	དེ་དང་དེ་ནི་དམ་བཅའ་མཚུངས་མཐོང་བས་༎	T04n2980u_001:1352	 taṁ taṁ pratijñāsamam asya paśyan || (9)
+T04D3861:207b-30	གང་ཕྱིར་གང་གིས་ཡུལ་མྱོང་གྱུར་དེ་ལས་༎	T04n2980u_001:1490	 yenānubhūto viṣayas tato 'sya
+T04D3861:207b-31	དྲན་པ་འདི་གཞན་ང་ལ་ཡོད་མིན་པ་༎	T04n2980u_001:1494	 smartuḥ paratvaṁ na hi me 'sti yasmāt |
+T04D3861:207b-32	དེ་ཕྱིར་ང་ཡིས་མཐོང་སྙམ་དྲན་འགྱུར་ཏེ་༎	T04n2980u_001:1498	 tato mayā dṛṣṭam iti smṛtiḥ syād
+T04D3861:207b-33	འདི་ཡང་འཇིག་རྟེན་ཐ་སྙད་ཚུལ་ལུགས་ཡིན་༎	T04n2980u_001:1502	 eṣā ca lokavyavahāranītiḥ || 6.75
+T04D3861:207b-34	དེ་ཕྱིར་རང་རིག་ཡོད་པ་མ་ཡིན་ན་༎	T04n2980u_001:1509	 tasmāt svasaṁvedanam asti naiva
+T04D3861:207b-35	ཁྱོད་ཀྱི་གཞན་དབང་གང་གིས་འཛིན་པར་འགྱུར་༎	T04n2980u_001:1513	 kenānyatantragrahaṇaṁ tava syāt |
+T04D3861:207b-36	བྱེད་པོ་ལས་དང་བྱ་བ་གཅིག་མིན་པས་༎	T04n2980u_001:1517	 kartuś ca karmakriyayoś ca naikyaṁ
+T04D3861:207b-37	དེ་ཉིད་ཀྱིས་དེ་འཛིན་པར་རིགས་མ་ཡིན་༎	T04n2980u_001:1521	 tenaiva tasya grahaṇaṁ na yuktam || 6.76 (10)
+T04D3861:207b-38	གལ་ཏེ་སྐྱེ་བ་མེད་ཅིང་མ་ཤེས་པའི་༎ བདག་ཅན་གཞན་དབང་ངོ་བོའི་དངོས་ཡོད་ན་༎	T04n2980u_001:1534	 ajñāyamānātmakam apy ajātaṁ  bhāvo yadi syāt paratantrarūpaḥ |
+T04D3861:207b-4	རྩོད་འདི་སེལ་བྱེད་སངས་རྒྱས་རྣམས་ཀྱིས་ནི་༎	T04n2980u_001:1365	 nivārayed vādam amuṁ na buddhā
+T04D3861:207b-6	རྣལ་འབྱོར་པ་ཡིས་བླ་མའི་མན་ངག་ལས་༎	T04n2980u_001:1376	 pūrṇāṁ mahīṁ saṅkalayā ca yogī  gurūpadeśād api yat paraiti |
+T04D3861:207b-9	ལོག་པ་ཡིད་ལ་བྱེད་པ་བསྟན་ཕྱིར་རོ་༎	T04n2980u_001:1388	 mithyāmanaskāratayopadeśāt || 6.69
+T04D3861:208a-0	༄༢༠༨ཨ་༌་༎ གཞན་ལ་མོ་གཤམ་བུས་གནོད་ཅི་ཞིག་བསྐྱལ་༎	T04n2980u_001:1542	 vandhyāsutenāpakṛtaṁ parasya
+T04D3861:208a-10	དེ་ནི་རྣམ་རྟོག་ལོག་པས་ལམ་ངན་ཞུགས་༎	T04n2980u_001:1603	 mithyāvikalpaiḥ sa kumārgayātaḥ | 6.80
+T04D3861:208a-11	ཇི་ལྟར་ཁྱོད་ཀྱིས་གཞན་དབང་དངོས་འདོད་ལྟར་༎ ཀུན་རྫོབ་ཀྱང་ནི་བདག་གིས་ཁས་མ་བླངས་༎	T04n2980u_001:1610	 na saṁvṛtiś cāpi mayābhyupetā  yathā tvayeṣṭaṁ paratantrarūpam |
+T04D3861:208a-13	འབྲས་ཕྱིར་འདི་དག་མེད་ཀྱང་ཡོད་དོ་ཞེས་༎	T04n2980u_001:1622	 satīti kāryārtham ahaṁ bravīmi || 6.81
+T04D3861:208a-14	འཇིག་རྟེན་ངོར་བྱས་བདག་ནི་སྨྲ་བར་བྱེད་༎ ཇི་ལྟར་ཕུང་པོ་སྤངས་ནས་ཞིར་ཞུགས་པ་༎	T04n2980u_001:1629	 skandhān samutsṛjya śivapraveśe  yathārhatāṁ nāsti tathaiva na syāt |  lokasya cet tadvad imāṁ satīti
+T04D3861:208a-17	འཇིག་རྟེན་ལ་ཡང་མེད་ན་དེ་བཞིན་འདི་༎	T04n2980u_001:1641	 brūyām ahaṁ naiva hi lokato 'pi || 6.82
+T04D3861:208a-18	འཇིག་རྟེན་ལས་ཀྱང་ཡོད་ཅེས་བདག་མི་སྨྲ་༎ གལ་ཏེ་ཁྱོད་ལ་འཇིག་རྟེན་མི་གནོད་ན་༎ འཇིག་རྟེན་ཉིད་ལྟོས་འདི་ནི་དགག་པར་གྱིས་༎	T04n2980u_001:1648	 niṣidhyatāṁ lokata eva caiṣā  na lokabādhā bhavato yadi syāt |
+T04D3861:208a-21	ཁྱོད་དང་འཇིག་རྟེན་འདིར་ནི་རྩོད་ཀྱིས་དང་༎ ཕྱི་ནས་སྟོབས་ལྡན་བདག་གིས་བརྟེན་པར་བྱ་༎	T04n2980u_001:1656	 loko bhavāṁś ceha vivādam etu  paścād balīyāṁsam ahaṁ śrayiṣye || 6.83
+T04D3861:208a-22	མངོན་གྱུར་མངོན་ཕྱོགས་བྱང་ཆུབ་སེམས་དཔའ་ཡིས་༎ སྲིད་གསུམ་རྣམ་ཤེས་ཙམ་དུ་གང་རྟོགས་པ་༎	T04n2980u_001:1671	 yad bodhisattvo 'bhimukho 'bhimukhyām |
+T04D3861:208a-24	རྟག་བདག་བྱེད་པོ་བཀག་པ་རྟོགས་ཕྱིར་དེས་༎	T04n2980u_001:1675	 nityātmakartṛpratiṣedhabodhāt
+T04D3861:208a-25	བྱེད་པ་པོ་ནི་སེམས་ཙམ་ཡིན་པར་རྟོགས་༎	T04n2980u_001:1679	 prapadyate kartṛ sa cittamātram || 6.84
+T04D3861:208a-26	དེ་ཕྱིར་བློ་ལྡན་བློ་ནི་འཕེལ་བྱའི་ཕྱིར་༎	T04n2980u_001:1686	 uktaṁ cāto dhīmatāṁ dhīvivṛddhyai
+T04D3861:208a-27	ལང་ཀར་གཤེགས་མདོ་དེ་ལས་ཀུན་མཁྱེན་གྱིས་༎	T04n2980u_001:1690	 sarvajñenottuṅgatīrthyādribhedi | (11)  sūtre tasminn āryalaṁkāvatāre
+T04D3861:208a-28	མུ་སྟེགས་སྤོ་མཐོན་རི་འཇོམས་ངག་རང་བཞིན་༎ རྡོ་རྗེ་འདི་ནི་དགོངས་པ་བཅད་ཕྱིར་གསུངས་༎	T04n2980u_001:1707	 sandhyucchittau vāṅmayaṁ vajram etat || 6.85
+T04D3861:208a-30	ཇི་བཞིན་རང་གི་བསྟན་བཅོས་དེ་དེ་ལས་༎ མུ་སྟེགས་རྣམས་ཀྱིས་གང་ཟག་སོགས་དེ་དག་༎	T04n2980u_001:1714	 tasmin tasmin varṇitāḥ śāstra ete  tīrthyair yuktyā pudgalādyā yathāsvam |
+T04D3861:208a-32	སྨྲས་པ་དེ་དག་བྱེད་པོར་མ་གཟིགས་ནས་༎ རྒྱལ་བས་སེམས་ཙམ་འཇིག་རྟེན་བྱེད་པོར་གསུངས་༎	T04n2980u_001:1722	 kartṛtvenāpaśyatā tān jinena
+T04D3861:208a-34	དེ་ཉིད་རྒྱས་ལ་སངས་རྒྱས་བསྙད་ཇི་བཞིན་༎	T04n2980u_001:1733	 buddho yadvad buddhatattvo niruktas
+T04D3861:208a-35	དེ་བཞིན་སེམས་ཙམ་གཙོར་གྱུར་འཇིག་རྟེན་ལ་༎	T04n2980u_001:1737	 tadval lokaś cittamātrapradhānaḥ |
+T04D3861:208a-4	འཇིག་རྟེན་གྲགས་པའི་རྣམ་བཞག་ཀུན་ཀྱང་བརླག་། སློབ་དཔོན་ཀླུ་སྒྲུབ་ཞབས་ཀྱི་ལམ་ལས་ནི་༎ ཕྱི་རོལ་གྱུར་ལ་ཞི་བའི་ཐབས་མེད་དོ་༎	T04n2980u_001:1572	 ācāryanāgārjunapādamārgād  bahirgatānāṁ na śivābhyupāyaḥ |
+T04D3861:208a-6	དེ་དག་ཀུན་རྫོབ་དེ་ཉིད་བདེན་ལས་ཉམས་༎	T04n2980u_001:1580	 bhraṣṭā hi te saṁvṛtitattvasatyāt
+T04D3861:208a-7	དེ་ལས་ཉམས་པས་ཐར་པ་འགྲུབ་ཡོད་མིན་༎	T04n2980u_001:1584	 tadbhraṁśataś cāsti na mokṣasiddhiḥ || 6.79
+T04D3861:208a-8	ཐ་སྙད་བདེན་པ་ཐབས་སུ་གྱུར་པ་དང་༎ དོན་དམ་བདེན་པ་ཐབས་བྱུང་གྱུར་པ་སྟེ་༎	T04n2980u_001:1591	 upāyabhūtaṁ vyavahārasatyam  upeyabhūtaṁ paramārthasatyam |
+T04D3861:208a-9	དེ་གཉིས་རྣམ་དབྱེ་གང་གིས་མི་ཤེས་པ་༎	T04n2980u_001:1599	 tayor vibhāgaṁ na paraiti yo vai
+T04D3861:208b-0	མདོ་ལས་སེམས་ཙམ་ཞེས་༄༢༠༨བ་གསུངས་གཟུགས་ནི་འདིར་༎ འགོག་པ་དེ་ལྟར་མདོ་ཡི་དོན་མ་ཡིན་༎	T04n2980u_001:1745	 no rūpasyetīha sūtrārtha evam || 6.87
+T04D3861:208b-10	སེམས་བཞིན་བྱེད་པ་པོ་ཉིད་ཡོད་མ་ཡིན་༎	T04n2980u_001:1794	 kartṛtā tu na hi cittavad asti |
+T04D3861:208b-11	དེས་ན་སེམས་ལས་གཞན་པའི་བྱེད་པ་པོ་༎	T04n2980u_001:1798	 tena kartur itarasya hi cittād
+T04D3861:208b-12	བཟློག་གི་གཟུགས་ནི་བཀག་པ་མ་ཡིན་ནོ་༎	T04n2980u_001:1802	 vāraṇaṁ na khalu rūpaniṣedhaḥ || 6.90
+T04D3861:208b-13	འཇིག་རྟེན་པ་ཡི་དེ་ཉིད་ལ་གནས་ལ་༎ ཕུང་པོ་འཇིག་རྟེན་གྲགས་ཏེ་ལྔ་ཆར་ཡོད་༎	T04n2980u_001:1809	 pañcāpy ete santi lokaprasiddhāḥ  skandhās tattve laukike 'vasthitasya |
+T04D3861:208b-16	རྣལ་འབྱོར་པ་ལ་དེ་ལྔ་འབྱུང་མི་འགྱུར་༎	T04n2980u_001:1821	 pañcāpy ete yogināṁ naivajātāḥ || 6.91
+T04D3861:208b-17	གཟུགས་མེད་ན་ནི་སེམས་ཡོད་མ་འཛིན་ཞིག་། སེམས་ཡོད་འདི་ནའང་གཟུགས་མེད་མ་འཛིན་ཞིག་། དེ་དག་ཤེས་རབ་ཚུལ་མདོར་སངས་རྒྱས་ཀྱིས་༎ མཚུངས་པར་སྤངས་ཤིང་མངོན་པའི་ཆོས་ལས་གསུངས་༎	T04n2980u_001:1828	 rūpābhāve mā grahīś cittasattāṁ  rūpābhāvaṁ cittasattve ca mā gāḥ |  prajñānītau sūtra ete samānaṁ  buddhaiḥ kṣiptā varṇitāś cābhidharme || 6.92
+T04D3861:208b-19	བདེན་གཉིས་རིམ་པ་འདི་དག་བཤིག་ནས་ཀྱང་༎	T04n2980u_001:1847	 bhitvāpy etāṁ satyayor ānupūrvīṁ
+T04D3861:208b-2	གལ་ཏེ་འདི་དག་སེམས་ཙམ་ཞེས་མཁྱེན་ནས་༎ དེ་ལས་གཟུགས་ཉིད་དགག་པར་མཛད་ན་ནི་༎	T04n2980u_001:1752	 rūpam eva yadi tatra niṣiddhaṁ  cittamātram idam ity avagamya |
+T04D3861:208b-20	ཁྱོད་ཀྱི་རྫས་ནི་བཀག་པས་འགྲུབ་མི་འགྱུར་༎	T04n2980u_001:1851	 na dravyaṁ te yāti siddhiṁ niṣiddham |
+T04D3861:208b-21	དེ་ཕྱིར་དེ་ལྟའི་རིམ་པས་དངོས་གདོད་ནས་༎ དེ་ཉིད་མ་སྐྱེས་འཇིག་རྟེན་སྐྱེས་རིག་བྱ་༎	T04n2980u_001:1855	 tasmād evaṁprakramād viddhi bhāvān  loke jātāṁs tattvataś cādyajātān || 6.93 (12)
+T04D3861:208b-23	མདོ་སྡེ་གང་ལས་ཕྱི་རོལ་སྣང་ཡོད་མིན་༎ སེམས་ནི་སྣ་ཚོགས་སྣང་ངོ་ཞེས་གསུངས་པ་༎	T04n2980u_001:1872	 yatrāpy uktaṁ nāsti dṛśyaṁ bahir vai  cittaṁ citraṁ dṛśyate ceti sūtre |
+T04D3861:208b-25	གཟུགས་ལ་ཤིན་ཏུ་ཆགས་གང་དེ་དག་ལ་༎	T04n2980u_001:1880	 rūpe 'tyantaṁ ye prasaktā badhāna
+T04D3861:208b-26	གཟུགས་བཟློག་པ་སྟེ་དེ་ཡང་དྲང་དོན་ཉིད་༎	T04n2980u_001:1884	 rūpaṁ tebhyas tac ca neyārtham ehi || 6.94
+T04D3861:208b-27	འདི་ནི་སྟོན་པས་དྲང་དོན་ཉིད་གསུངས་ཤིང་༎	T04n2980u_001:1891	 neyārthatvaṁ cādideśāsya śāstā
+T04D3861:208b-28	འདི་ནི་དྲང་དོན་ཉིད་དུ་རིགས་པས་འཐད་༎	T04n2980u_001:1895	 yuktā yuktyā cāpi neyārthatāsya |
+T04D3861:208b-29	རྣམ་པ་དེ་ལྟའི་མདོ་སྡེ་གཞན་ཡང་ནི་༎ དྲང་དོན་ཉིད་དུ་ལུང་འདིས་གསལ་བར་བྱེད་༎	T04n2980u_001:1899	 sūtrasyānyasyāpi caivaṁvidhasya  neyārthatvaṁ dyotayaty āgamo 'yam || 6.95
+T04D3861:208b-31	ཤེས་བྱ་མེད་ན་ཤེས་པ་བསལ་བ་ནི་༎ བདེ་བླག་རྙེད་ཅེས་སངས་རྒྱས་རྣམས་ཀྱིས་གསུངས་༎	T04n2980u_001:1910	 jñeyaṁ vinā jñānanirākṛtiś ca  labhyā sukheneti vadanti buddhāḥ |
+T04D3861:208b-33	ཤེས་བྱ་མེད་ན་ཤེས་པ་བཀག་འགྲུབ་པས་༎ དང་པོར་ཤེས་བྱ་དགག་པ་མཛད་པ་ཡིན་༎	T04n2980u_001:1918	 jñeyasya pūrvaṁ pratiṣedham eva  jñeya'sati jñānaniṣedhasiddheḥ || 6.96
+T04D3861:208b-35	དེ་ལྟར་ལུང་གི་ལོ་རྒྱུས་ཤེས་བྱས་ཏེ་༎	T04n2980u_001:1929	 evaṁ jñātvā prakriyām āgamasya
+T04D3861:208b-36	མདོ་གང་དེ་ཉིད་མ་ཡིན་བཤད་དོན་ཅན་༎ དྲང་དོན་གསུངས་པའང་རྟོགས་ནས་༄༢༠༩ཨ་༌་༎	T04n2980u_001:1933	 vyākhyātārthaṁ yac ca neyārtham uktam |  sūtraṁ buddhvā nīyatāṁ yan na tattvaṁ
+T04D3861:208b-4	སླར་ཡང་དེ་ལས་བདག་ཉིད་ཆེན་པོས་སེམས་༎ གཏི་མུག་ལས་ལས་སྐྱེས་པར་ཅི་ཕྱིར་གསུངས་༎	T04n2980u_001:1760	 mohakarmajam uvāca kimarthaṁ  cittam atra punar eva mahātmā || 6.88
+T04D3861:208b-6	སེམས་ཉིད་ཀྱིས་ནི་སེམས་ཅན་འཇིག་རྟེན་དང་༎ སྣོད་ཀྱི་འཇིག་རྟེན་ཤིན་ཏུ་སྣ་ཚོགས་འགོད་༎	T04n2980u_001:1771	 sattvalokam atha bhājanalokaṁ  cittam eva racayaty aticitram |
+T04D3861:208b-7	འགྲོ་བ་མ་ལུས་ལས་ལས་སྐྱེས་པར་གསུངས་༎	T04n2980u_001:1779	 karmajaṁ hi jagad uktam aśeṣaṁ
+T04D3861:208b-8	སེམས་སྤངས་ནས་ནི་ལས་ཀྱང་ཡོད་མ་ཡིན་༎	T04n2980u_001:1783	 karma cittam avadhūya ca nāsti || 6.89
+T04D3861:208b-9	གལ་ཏེ་གཟུགས་ཡོད་མོད་ཀྱི་དེ་ལ་ནི་༎	T04n2980u_001:1790	 rūpam asti khalu yady api tasya
+T04D3861:209a-1	དྲང་བྱ་ཞིང་༎ སྟོང་ཉིད་དོན་ཅན་ངེས་དོན་ཤེས་པར་གྱིས་༎	T04n2980u_001:1941	 nītārthaṁ ca jñāyatāṁ śūnyatārtham || 6.97
+T04D3861:209a-11	གལ་ཏེ་འགྲོ་བ་རྒྱུ་ཡིས་སྟོང་པར་གྱུར་ན་ནམ་མཁའ་ཡི་༎	T04n2980u_001:1986	 gṛhyeta naiva ca jagad yadi hetuśūnyaṁ
+T04D3861:209a-12	ཨཽཏཔལ་ཡི་དྲི་མདོག་ཇི་བཞིན་གཟུང་དུ་མེད་ཉིད་ན་༎	T04n2980u_001:1990	 syād yadvad eva gaganotpalavarṇagandhau |
+T04D3861:209a-13	ཤིན་ཏུ་ཆེས་བཀྲའི་འཇིག་རྟེན་འཛིན་པའང་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:1994	 gṛhnāsi lokam aticitrataraṁ ca tasmāl
+T04D3861:209a-14	རང་གི་བློ་བཞིན་འཇིག་རྟེན་རྒྱུ་ལས་ཡིན་པར་ཤེས་པར་གྱིས་༎	T04n2980u_001:1998	 lokaṁ svabuddhim iva kāraṇataḥparaihi || 6.100
+T04D3861:209a-15	འབྱུང་བ་དེ་དག་བདག་ཉིད་གང་ཞིག་གིས་ནི་ཁྱོད་ཀྱི་བློའི་༎ ཡུལ་དུ་འགྱུར་བ་དེ་ཡི་བདག་ཉིད་ཅན་ནི་མ་ཡིན་ན་༎	T04n2980u_001:2005	 bhūtāni tāni na hi nāma tathātmakāni  yenātmanā tava dhiyo viṣayībhavanti |
+T04D3861:209a-17	གང་ལ་ཡིད་ཀྱི་མུན་པ་འཐུག་པོ་འདི་ཉིད་དུ་ཡོད་པ་༎	T04n2980u_001:2013	 atraiva yasya bahulo 'sti mano'ndhakāro
+T04D3861:209a-18	དེས་ནི་ཇི་ལྟར་འཇིག་རྟེན་ཕ་རོལ་ཡང་དག་རྟོགས་པར་འགྱུར་༎	T04n2980u_001:2017	 lokaṁ paraṁ sa katham eṣyati samyag eva || 6.101 (13)
+T04D3861:209a-19	འཇིག་རྟེན་ཕ་རོལ་འགོག་པར་བྱེད་པའི་དུས་སུ་བདག་ཉིད་ནི་༎ ཤེས་བྱའི་རང་བཞིན་ཕྱིན་ཅི་ལོག་ཏུ་ལྟ་བར་རྟོགས་བྱ་སྟེ་༎	T04n2980u_001:2030	 jñeyasvabhāvaviparītadṛśaṁ paraihi  svātmānam eva paralokaniṣedhakāle |
+T04D3861:209a-21	དེ་ཡི་ལྟ་བའི་རྣམ་པའི་རྟེན་མཚུངས་ལུས་དང་ལྡན་ཉིད་ཕྱིར་༎	T04n2980u_001:2038	 taddṛṣṭijātasadṛśāśrayadehavattvād
+T04D3861:209a-22	གང་ཚེ་འབྱུང་བའི་བདག་ཉིད་ཡོད་ཉིད་ཁས་ལེན་དེ་ཚེ་བཞིན་༎	T04n2980u_001:2042	 bhūtātmasattvam upayāsi yadā tadeva || 6.102
+T04D3861:209a-23	འབྱུང་བ་དེ་དག་ཇི་ལྟར་ཡོད་མིན་དེ་ལྟར་བཤད་ཟིན་ཏེ་༎	T04n2980u_001:2049	 bhūtāni tāni na hi santi yathā tathoktaṁ  sāmānyataḥ
+T04D3861:209a-24	གང་གི་ཕྱིར་ན་གོང་དུ་རང་གཞན་ལས་དང་གཉིས་ཀ་ལས་༎ སྐྱེ་དང་རྒྱུ་མེད་ཐུན་མོང་དུ་ནི་བཀག་ཟིན་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:2054	 svaparato dvayataś ca janma |  āhetukaṁ ca khalu yena purā niṣiddhaṁ
+T04D3861:209a-27	གང་གི་ཕྱིར་ན་བདག་དང་གཞན་དང་གཉིས་ཀ་ལས་སྐྱེ་དང་༎ རྒྱུ་ལ་མ་ལྟོས་ཡོད་པ་མིན་པས་དངོས་རྣམས་རང་བཞིན་བྲལ་༎	T04n2980u_001:2069	 bhāvāḥ svabhāvarahitāḥ svaparobhayasmāj
+T04D3861:209a-28	གང་གིས་སྤྲིན་ཚོགས་དང་མཚུངས་གཏི་མུག་སྟུག་པོ་འཇིག་རྟེན་ལ་༎	T04n2980u_001:2073	 janmāsti hetum anapekṣya ca naiva yasmād |  mohas tu yena bahalo ghanavṛndatulyo
+T04D3861:209a-29	ཡོད་པ་དེས་ན་ཡུལ་རྣམས་ལོག་པ་དག་ཏུ་སྣང་བར་འགྱུར་༎	T04n2980u_001:2081	 lokasya tena viṣayāḥ khalu bhānti mithyā || 6.104
+T04D3861:209a-3	གཉིས་ལས་སྐྱེ་བའང་རིགས་པའི་ངོ་བོ་མ་ཡིན་གང་གི་ཕྱིར་༎ བཤད་ཟིན་ཉེས་པ་དེ་དག་ཐོག་ཏུ་འབབ་པ་ཡིན་ཕྱིར་རོ་༎	T04n2980u_001:1948	 dvābhyāṁ na cāpi jananaṁ khalu yuktarūpaṁ  doṣāḥ patanti vihitās tuta eva yasmāt |
+T04D3861:209a-30	ཇི་ལྟར་རབ་རིབ་མཐུ་ཡིས་འགའ་ཞིག་སྐྲ་ཤད་ཟླ་གཉིས་དང་༎ རྨ་བྱའི་མདོངས་དང་སྦྲང་མ་ལ་སོགས་ལོག་པར་འཛིན་བྱེད་པ་༎	T04n2980u_001:2088	 kaścid yathaiva vitathaṁ timiraprabhāvāt  keśadvicandraśikhicandrakamakṣikādi |
+T04D3861:209a-5	འདི་ནི་འཇིག་རྟེན་ལས་མིན་དེ་ཉིད་དུ་ཡང་འདོད་མིན་ཏེ་༎	T04n2980u_001:1956	 na lokato 'pi na ca tattvata iṣṭam etad
+T04D3861:209a-6	གང་ཕྱིར་རེ་རེ་ལས་ནི་སྐྱེ་བ་འགྲུབ་པ་ཡོད་མ་ཡིན་༎	T04n2980u_001:1960	 ekaikato na jananasya yato 'sti siddhiḥ || 6.98
+T04D3861:209a-7	གལ་ཏེ་རྒྱུ་མེད་ཁོ་ནར་སྐྱེ་བར་ལྟ་ཞིག་འགྱུར་ན་ནི་༎	T04n2980u_001:1967	 hetuṁ vinaiva yadi janma bhavet tadānīṁ
+T04D3861:209a-8	དེ་ཚོ་མཐའ་དག་རྟག་ཏུ་ཐམས་ཅད་ལས་ཀྱང་སྐྱེ་འགྱུར་ཞིང་༎	T04n2980u_001:1971	 syāt sarvato 'pi sakalasya sadaiva janma |
+T04D3861:209a-9	འབྲས་འབྱུང་ཆེད་དུ་འཇིག་རྟེན་འདི་ཡི་ས་བོན་ལ་སོགས་ནི་༎ བརྒྱ་ཕྲག་དག་གི་སྒོ་ནས་སྡུད་པར་བྱེད་པར་ཡང་མི་འགྱུར་༎	T04n2980u_001:1975	 bījādikasya śataśaḥ phalasaṁbhavāya  lokaś ca saṁgraham ayaṁ khalu naiva kuryāt || 6.99
+T04D3861:209b-0	དེ་བཞིན་དུ་ནི་གཏི་༄༢༠༩བ་མུག་སྐྱོན་གྱི་དབང་གིས་མི་མཁས་པས་༎ འདུས་བྱས་ལྟ་ཞིག་སྣ་ཚོགས་བློ་གྲོས་ཀྱིས་ནི་རྟོགས་པར་འགྱུར་༎	T04n2980u_001:2096	 gṛhṇāti tadvad abudhaḥ khalu mohadoṣād  buddhyā vicitram avagacchati saṁskṛtaṁ hi || 6.105
+T04D3861:209b-12	རེ་ཞིག་དེ་དག་ཉིད་ལ་བརྩད་བྱ་སྟེ་༎	T04n2980u_001:2149	 ye taimirāder viṣayaṁ prayānti |
+T04D3861:209b-13	ཕྱི་ནས་མ་རིག་རབ་རིབ་རྗེས་འབྲེལ་ལའོ་༎	T04n2980u_001:2153	 ta eva tāvat khalu codanīyāḥ  paścād avidyātimirānujātāḥ || 6.108
+T04D3861:209b-14	གལ་ཏེ་རྨི་ལམ་དྲི་ཟའི་གྲོང་ཁྱེར་བཅས་༎	T04n2980u_001:2164	 svapnaṁ sagandharvapuraṁ marīcyāṁ
+T04D3861:209b-15	སྨིག་རྒྱུའི་ཆུ་དང་མིག་འཕྲུལ་གཟུགས་བརྙན་སོགས་༎	T04n2980u_001:2168	 kam indrajālaṁ pratibimbakādi |
+T04D3861:209b-16	སྐྱེ་མེད་མཐོང་ན་ཡོད་ཉིད་མིན་མཚུངས་ཀྱང་༎ ཁྱོད་ལ་ཇི་ལྟར་དེར་འགྱུར་དེ་མི་རིགས་༎ དེ་ཉིད་དུ་འདི་ཇི་ལྟར་སྐྱེ་མེད་ཀྱང་༎	T04n2980u_001:2172	 paśyasy ajātān yadi tat kathaṁ te  tulye 'py asattvena tu tan na yuktam || 6.109  ete na tattvena yathaiva jātā
+T04D3861:209b-2	གལ་ཏེ་གཏི་མུག་བརྟེན་ནས་ལས་འབྱུང་གཏི་མུག་མེད་པར་དེ་༎	T04n2980u_001:2107	 mohaṁ pratītya yadi karma vinā na mohād
+T04D3861:209b-29	དེ་ཕྱིར་རྟག་ཏུ་སྐྱེ་བ་ཡོད་མ་ཡིན་༎	T04n2980u_001:2239	 yatas tato nāsti sad eva janma || 6.112
+T04D3861:209b-3	མི་འབྱུང་ཞེས་བྱར་མི་མཁས་ཁོ་ནས་རྟོགས་པར་གོར་མ་ཆག་༎	T04n2980u_001:2111	 bhūtaṁ tad ity abudha eva pareti nūnam |
+T04D3861:209b-30	བུམ་སོགས་འདི་དག་དེ་ཉིད་དུ་མེད་ཅིང་༎	T04n2980u_001:2246	 ghaṭādayaḥ santi na tattvato 'mī
+T04D3861:209b-31	འཇིག་རྟེན་རབ་ཏུ་གྲགས་པར་ཡོད་ཅི་བཞིན་༎	T04n2980u_001:2250	 lokaprasiddhyā tu yathā bhavanti |
+T04D3861:209b-32	དེ་བཞིན་དངོས་པོ་ཐམས་ཅད་འབྱུང་བས་ན་༎	T04n2980u_001:2254	 bhāvā bhaviṣyanti tathaiva sarve
+T04D3861:209b-33	མོ་གཤམ་བུ་དང་མཚུངས་པར་ཐལ་མི་འགྱུར་༎	T04n2980u_001:2258	 syān naiva vandhyāsutavatprasaṅgaḥ || 6.113
+T04D3861:209b-36	དེ་ཕྱིར་བརྟེན་ནས་རབ་ཏུ་སྐྱེ་བར་འགྱུར་༎ གང་ཕྱིར་དངོས་པོ་བརྟེན་ནས་རབ་འབྱུང་བས་༎	T04n2980u_001:2273	 utpadyamānā na hi santi bhāvās  tasmāt pratītyaprabhavaṁ prayānti || 6.114
+T04D3861:209b-38	རྟོག་པ་འདི་དག་བརྟག་པར་མི་ནུས་པ་༎	T04n2980u_001:2284	 pratītyabhāvaprabhavena śakyā  na kalpanāḥ kalpayituṁ yad etāḥ |
+T04D3861:209b-39	དེ་ཕྱིར་རྟེན་འབྱུང་རིགས་པ་འདི་ཡིས་ནི་༎	T04n2980u_001:2292	 tasmāt pratītyodayayuktir eṣā
+T04D3861:209b-4	བློ་བཟང་ཉི་མས་མུན་པ་སྟུག་པོ་རྣམ་པར་བསལ་བ་ཡི་༎ མཁས་པ་དག་ནི་སྟོང་ཉིད་ཁོང་དུ་ཆུད་ཅིང་གྲོལ་བར་འགྱུར་༎	T04n2980u_001:2115	 sadbuddhibhāskaravihīnaghanāndhakāro  vidvāṁs tu śūnyam avagacchati mucyate ca || 6.106
+T04D3861:209b-6	གལ་ཏེ་དངོས་རྣམས་དེ་ཉིད་དུ་མེད་ན་༎	T04n2980u_001:2126	 na tattvataś cet khalu santi bhāvās
+T04D3861:209b-7	ཐ་སྙད་དུ་ཡང་མོ་གཤམ་བུ་ཇི་བཞིན་༎ དེ་དག་མེད་པ་ཉིད་འགྱུར་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:2130	 teṣām asattvaṁ vyavahārato 'pi |  syād eva vandhyātanayasya yadvat
+T04D3861:209b-9	དེ་དག་རང་བཞིན་གྱིས་ནི་ཡོད་པ་ཉིད་༎	T04n2980u_001:2138	 svabhāvataḥ sattvam ato 'sti teṣām || 6.107
+T04D3861:210a-0	༄༢༡༠ཨ་༌་༎ ལྟ་ངན་དྲ་བ་མཐའ་དག་གཅོད་པར་བྱེད་༎	T04n2980u_001:2296	 kudṛṣṭijālaṁ sakalaṁ chinatti || 6.115
+T04D3861:210a-1	རྟོག་རྣམས་དངོས་པོ་ཡོད་ན་འགྱུར་བ་སྟེ་༎ དངོས་པོ་ཇི་ལྟར་མེད་པར་ཡོངས་དཔྱད་ཟིན་༎	T04n2980u_001:2303	 syuḥ kalpanā vastuni vidyamāne  parīkṣitaṁ vastu yathā ca nāsti |
+T04D3861:210a-10	མ་མཛད་རྣམ་གྲོལ་ཕྱིར་ནི་དེ་ཉིད་བསྟན་༎ གལ་ཏེ་དེ་ཉིད་རྣམ་པར་བཤད་པ་ན་༎ གཞན་གཞུང་འཇིག་པར་འགྱུར་ན་ཉེས་པ་མེད་༎	T04n2980u_001:2345	 tattvaṁ tu śāstre kathitaṁ vimuktyai |  vyākhyāyamāne yadi nāma tattve  bhidāṁ gatāny anyamatāny adoṣaḥ | 6.118
+T04D3861:210a-13	རང་གི་ལྟ་ལ་ཆགས་དང་དེ་བཞིན་དུ་༎ གཞན་གྱི་ལྟ་ལ་འཁྲུག་གང་རྟོག་པ་ཉིད་༎	T04n2980u_001:2360	 svadṛṣṭirāgo 'pi hi kalpanaiva  tathānyadṛṣṭāv api yaś ca roṣaḥ | (15)
+T04D3861:210a-15	དེ་ཕྱིར་འདོད་ཆགས་ཁོང་ཁྲོ་རྣམ་བསལ་ཏེ་༎	T04n2980u_001:2380	 vidhūya rāgaṁ pratighaṁ ca tasmād
+T04D3861:210a-16	རྣམ་དཔྱོད་པ་ནི་མྱུར་དུ་གྲོལ་བར་འགྱུར་༎	T04n2980u_001:2384	 vicārayan kṣipram upaiti muktim || 6.119
+T04D3861:210a-17	ཉོན་མོངས་སྐྱོན་རྣམས་མ་ལུས་འཇིག་ཚོགས་ལ་༎ ལྟ་ལས་བྱུང་བར་བློ་ཡིས་མཐོང་གྱུར་ཞིང་༎	T04n2980u_001:2391	 satkāyadṛṣṭiprabhavān aśeṣān  kleśāṁś ca doṣāṁś ca dhiyā vipaśyan |
+T04D3861:210a-19	བདག་ནི་འདི་ཡི་ཡུལ་དུ་རྟོགས་བྱས་ནས་༎ རྣལ་འབྱོར་པ་ཡིས་བདག་ནི་འགོག་པར་བྱེད་༎	T04n2980u_001:2399	 ātmānam asyā viṣayaṁ ca buddhvā  yogī karoty ātmaniṣedham eva || 6.120
+T04D3861:210a-21	ཟ་པོ་རྟག་དངོས་བྱེད་པོ་མིན་པའི་བདག་། ཡོན་ཏན་བྱ་མེད་མུ་སྟེགས་རྣམས་ཀྱིས་བརྟགས་༎	T04n2980u_001:2410	 ātmā tīrthyaiḥ kalpyate nityarūpo  'kartābhoktā nirguṇo niṣkriyaś ca |
+T04D3861:210a-22	དེའི་དབྱེ་ཅུང་ཟད་ཅུང་ཟད་ལ་བརྟེན་ནས་༎	T04n2980u_001:2418	 kaṁcit kaṁcid bhedam āśritya tasya
+T04D3861:210a-23	མུ་སྟེགས་ཅན་རྣམས་ལུགས་ནི་ཐ་དད་འགྱུར་༎	T04n2980u_001:2422	 bhedaṁ yātāḥ prakriyās tīrthikānām || 6.121
+T04D3861:210a-24	མོ་གཤམ་བུ་ལྟར་སྐྱེ་བ་དང་བྲལ་ཕྱིར་༎ དེ་ལྟར་གྱུར་པའི་བདག་ནི་ཡོད་མིན་ཞིང་༎ འདི་ནི་དར་འཛིན་རྟེན་དུའང་མི་རིགས་ལ་༎	T04n2980u_001:2429	 itthaṁbhūtasyātmano nāsti sattvaṁ  nāhaṁkārasyāśrayaś caiṣa yuktaḥ |  vandhyāputrasyeva jāter viyogān
+T04D3861:210a-27	འདི་ནི་ཀུན་རྫོབ་ཏུ་ཡང་ཡོད་མི་འདོད་༎ གང་ཕྱིར་བསྟན་བཅོས་བསྟན་བཅོས་ལས་དེའི་ཁྱད་༎	T04n2980u_001:2441	 no saṁvṛtyāpīṣyate sattvam asya || 6.122
+T04D3861:210a-29	མུ་སྟེགས་རྣམས་ཀྱིས་གང་བསྟན་དེ་ཀུན་ལ་༎ རང་གྲགས་མ་སྐྱེས་གཏན་ཚིགས་ཀྱིས་གནོད་པ་༎	T04n2980u_001:2448	 śāstre śāstre ye 'sya tīrthyair viśeṣā  nirdiśyante tān ajātatvahetur |  yasmāt sarvān bādhate svaprasiddhaḥ  santy asyāto nāpi sarve viśeṣāḥ || 6.123
+T04D3861:210a-3	དངོས་པོ་མེད་པར་འདི་རྣམས་མི་འབྱུང་དཔེར་༎ བུད་ཤིང་མེད་པར་མེ་ཡོད་མིན་དེ་བཞིན་༎	T04n2980u_001:2311	 vinendhanaṁ nāsti yathaiva vahnis  tadvad vinā vastu bhavanti naitāḥ || 6.116  yā kalpanānāṁ vinivṛttir etat  phalaṁ vicārasya budhā vadanti |
+T04D3861:210a-32	དེ་ཕྱིར་ཕུང་པོ་ལས་གཞན་བདག་མེད་དེ་༎ ཕུང་པོ་མ་གཏོགས་དེ་འཛིན་མ་གྲུབ་ཕྱིར་༎	T04n2980u_001:2467	 skandhebhyo 'nyo vidyate nāta ātmā  hitvā skandhāṁs tadgrahasyāprasiddheḥ |
+T04D3861:210a-35	མི་འདོད་དེ་རིག་མིན་པའང་བདག་ལྟའི་ཕྱིར་༎	T04n2980u_001:2475	 lokasyāhaṁkārabuddher apīṣṭo  naivādhāro 'tadvidām ātmadṛṣṭeḥ || 6.124
+T04D3861:210a-36	གང་དག་དུད་འགྲོ་བསྐལ་མང་བརྐྱལ་གྱུར་པ་༎	T04n2980u_001:2486	 tiryakto ye kalpaśaḥ saṁpravṛddhā
+T04D3861:210a-37	དེས་ཀྱང་མ་སྐྱེས་རྟག་འདི་མ་མཐོང་ལ་༎ ངར་འཛིན་དེ་དག་ལ་ཡང་འཇུག་མཐོང་སྟེ་༎	T04n2980u_001:2490	 nityājātaṁ te 'pi paśyanti nainam |  dṛṣṭvā teṣām apy ahaṁkāravṛttiṁ
+T04D3861:210a-5	སོ་སོའི་སྐྱེ་བོ་རྣམས་ནི་རྟོག་པས་བཅིངས་༎	T04n2980u_001:2330	 pṛthagjanāḥ kalpanayaiva baddhā
+T04D3861:210a-6	མི་རྟོག་རྣལ་འབྱོར་པ་ནི་གྲོལ་འགྱུར་བས་༎ རྟོག་རྣམས་ལོག་པར་གྱུར་པ་གང་ཡིན་དེ་༎ རྣམ་པར་དཔྱོད་པའི་འབྲས་བུར་མཁས་རྣམས་གསུང་༎	T04n2980u_001:2334	 akalpayan muktim upaiti yogī || 6.117
+T04D3861:210a-9	བསྟན་བཅོས་ལས་དཔྱད་རྩོད་ལ་ཆགས་པའི་ཕྱིར་༎	T04n2980u_001:2341	 na vādalobhād vihito vicāras
+T04D3861:210b-0	དེས་ན་ཕུང་པོ་༄༢༡༠བ་ལས་གཞན་བདག་འགའ་མེད་༎ ཕུང་པོ་ལས་གཞན་བདག་གྲུབ་མེད་པའི་ཕྱིར་༎	T04n2980u_001:2498	 skandhebhyo 'nyas tena nātmāsti kaścit || 6.125
+T04D3861:210b-10	མྱ་ངན་འདས་སྔོན་སྐད་ཅིག་དག་ལ་ནི་༎	T04n2980u_001:2556	 nāśotpādī nirvṛteḥ prāk kṣaṇeṣu |
+T04D3861:210b-13	དེ་ཉིད་དུ་རྒྱུད་ཡོད་ན་སྐྱོན་མེད་ན་༎	T04n2980u_001:2571	 na syād doṣaḥ santatis tattvataś ced
+T04D3861:210b-14	སྔར་རྣམ་དཔྱད་ཚེ་རྒྱུད་ལ་ཉེས་བཤད་ཟིན་༎	T04n2980u_001:2575	 ukto doṣaḥ santateḥ prāgvicāre |
+T04D3861:210b-15	དེ་ཕྱིར་ཕུང་པོ་དང་སེམས་བདག་མི་རིགས་༎ འཇིག་རྟེན་མཐའ་ལྡན་ལ་སོགས་མེད་ཕྱིར་རོ་༎	T04n2980u_001:2579	 skandhā nātmā nāpi cittaṁ ca tasmād  ito lokasyāntavattvādyabhāvāt || 6.129
+T04D3861:210b-17	ཁྱོད་ཀྱི་རྣལ་འབྱོར་བདག་མེད་མཐོང་བ་ལ་༎	T04n2980u_001:2590	 ātmābhāvaṁ paśyato yoginaś ca
+T04D3861:210b-2	བདག་ལྟའི་དམིགས་པ་ཕུང་པོ་ཁོ་ནའོ་༎	T04n2980u_001:2505	 skandhā evālambanaṁ tv ātmadṛṣṭeḥ
+T04D3861:210b-23	གཟུགས་ལ་དམིགས་ནས་འཇུག་ཕྱིར་འདོད་ཆགས་སོགས་༎ སྐྱེ་འགྱུར་དེ་ཡི་ངོ་བོ་རྟོགས་མེད་ཕྱིར་༎	T04n2980u_001:2617	 rāgādīnāṁ rūpam ālambya vṛtteḥ  syād utpattis tatsvarūpāvibodhāt || 6.131
+T04D3861:210b-25	གང་ཕྱིར་སྟོན་པས་ཕུང་པོ་བདག་གོ་ཞེས་༎ གསུངས་པ་དེ་ཕྱིར་ཕུང་པོ་བདག་འདོད་ན་༎	T04n2980u_001:2628	 skandhā ātmety uktavān yena śāstā  skandhā evātmeti tasmān mataś cet |
+T04D3861:210b-27	དེ་ནི་ཕུང་ལས་གཞན་བདག་འགོག་པ་སྟེ་༎	T04n2980u_001:2636	 skandhebhyo 'nyasyātmano 'sau niṣedho
+T04D3861:210b-28	གཟུགས་བདག་མིན་སོགས་མདོ་གཞན་གསུངས་ཕྱིར་རོ་༎	T04n2980u_001:2640	 rūpaṁ nātmetyādisūtrāntarokteḥ || 6.132
+T04D3861:210b-29	གང་ཕྱིར་གཟུགས་ཚོར་བདག་མིན་པ་འདུ་ཤེས་ཀྱང་༎ མ་ཡིན་འདུ་བྱེད་རྣམས་མིན་རྣམ་ཤེས་ཀྱང་༎	T04n2980u_001:2647	 rūpaṁ nātmā vedanā no na saṁjñā  no saṁskārā nāpi vijñānam uktam |
+T04D3861:210b-3	ཁ་ཅིག་བདག་ལྟའི་རྟེན་དུ་ཕུང་པོ་ནི་༎ ལྔ་ཆར་ཡང་འདོད་ཁ་ཅིག་སེམས་གཅིག་འདོད་༎	T04n2980u_001:2509	 skandhebhyo 'nyasyātmanaḥ siddhyabhāvāt |  skandhān pañcāpy eka icchanti kecic
+T04D3861:210b-31	མིན་པར་མདོ་གཞན་ལས་གསུངས་དེ་ཡི་ཕྱིར་༎ མདོར་བསྟན་ཕུང་པོ་བདག་ཅེས་བཞེད་མ་ཡིན་༎	T04n2980u_001:2655	 sūtre 'nyasmin yena tasmān na hīṣṭaḥ  skandhā evātmeti sūtropadeśaḥ || 6.133
+T04D3861:210b-33	ཕུང་པོ་བདག་ཅེས་བརྗོད་ཚེ་ཕུང་རྣམས་ཀྱི་༎ ཚོགས་པ་ཡིན་གྱི་ཕུང་པོའི་ངོ་བོ་མིན་༎	T04n2980u_001:2666	 skandhā ātmety ucyamāne samūhaḥ  skandhānāṁ syān naiva tu skandharūpaḥ |
+T04D3861:210b-39	མདོ་ལས་ཕུང་པོ་བརྟེན་ནས་ཡིན་གསུངས་པ་༎	T04n2980u_001:2702	 skandhāṁś copādāya sūtre niruktas
+T04D3861:210b-40	དེ་ཕྱིར་ཕུང་པོ་འདུས་ཙམ་བདག་མ་ཡིན༎	T04n2980u_001:2706	 tasmān nātmā skandhasaṁhātamātram || 6.135
+T04D3861:210b-5	གལ་ཏེ་ཕུང་པོ་བདག་ན་དེ་ཕྱིར་དེ་༎ མང་བས་བདག་དེ་དག་ཀྱང་མང་བར་འགྱུར་༎	T04n2980u_001:2524	 skandhā ātmā ced atas tadbahutvād  ātmānaḥ syus te 'pi bhūyāṁsa evam || (16)
+T04D3861:210b-7	བདག་ནི་རྫས་སུ་འགྱུར་ཞིང་དེར་ལྟ་བ་༎ རྫས་ལ་འཇུག་པས་ཕྱིན་ཅི་ལོག་མི་འགྱུར་༎	T04n2980u_001:2541	 dravyaṁ cātmā prāpnuyāt taddṛśaś ca  dravye vṛttau vaiparītyaṁ ca na syāt || 6.127
+T04D3861:210b-9	མྱ་ངན་འདས་ཚེ་ངེས་པར་བདག་ཆད་འགྱུར་༎	T04n2980u_001:2552	 ātmocchedī nirvṛtau syād avaśyaṁ
+T04D3861:211a-0	༄༢༡༡ཨ་༌་༎ དབྱིབས་ཤེ་ན་དེ་གཟུགས་ཅན་ལ་ཡོད་ཕྱིར་༎ ཁྱོད་ལ་དེ་དག་ཉིད་བདག་ཅེས་འགྱུར་གྱི་༎	T04n2980u_001:2713	 saṁsthānaṁ ced rūpiṇāṁ tasya sattvāt  teṣām evātmeti saṁjñā tava syāt |
+T04D3861:211a-10	ཁམས་དྲུག་དང་ནི་མིག་སོགས་རེག་པ་ཡི་༎ རྟེན་དྲུག་དག་ལ་བརྟེན་ནས་ཉེར་བརྟེན་ཞིང་༎	T04n2980u_001:2751	 bhūmyambutejāṁsi samīraṇaṁ ca  vijñānam ākāśam iti pratītya |  dhātūn ṣaḍ ātmā muninopadiṣṭaḥ  sparśāśrayāṁ ṣaṭ ca sa cakṣurādīm || 6.138
+T04D3861:211a-12	སེམས་དང་སེམས་བྱུང་ཆོས་རྣམས་ཉེར་བཟུང་ནས་༎	T04n2980u_001:2770	 dharmān upādāya sa cittacaittān
+T04D3861:211a-13	དེས་གསུངས་དེ་ཕྱིར་དེ་ནི་དེ་རྣམས་དང་༎ དེ་ཉིད་མ་ཡིན་ཚོགས་ཙམ་ཉིད་མིན་ཏེ་༎ དེ་ཕྱིར་ངར་འཛིན་བློ་དེ་རྣམས་ལ་མིན་༎	T04n2980u_001:2774	 nirucyate yena tato na tattvam |  tebhyo 'sya no saṁhatimātratā ca  tasmād ahaṁkāramatir na teṣu || 6.139
+T04D3861:211a-15	བདག་མེད་རྟོགས་ཚེ་རྟག་པའི་བདག་སྤོང་ཞིང་༎	T04n2980u_001:2789	 nityātmā ca kṣipyate 'nātmabodhe
+T04D3861:211a-16	འདི་ནི་ངར་འཛིན་རྟེན་དུའང་མི་འདོད་པ་༎ དེ་ཕྱིར་བདག་མེད་ཤེས་པས་བདག་ལྟ་བ་༎ དཔྱིས་ཀྱང་འབྱིན་ཞེས་སྨྲ་བ་ཤིན་ཏུ་མཚར་༎	T04n2980u_001:2793	 nāhaṁkārasyāśrayaś cāyam iṣṭaḥ |  ātmābhāvajñena kiṁ tat svadṛṣṭer  utkhātaś cety ucyate 'tīva citram || 6.140
+T04D3861:211a-19	རང་ཁྱིམ་རྩིག་ཕུག་སྦྲུལ་གནས་མཐོང་བཞིན་དུ་༎	T04n2980u_001:2808	 paśyann ahiṁ chidragataṁ svagehe
+T04D3861:211a-2	སེམས་སོགས་ཚོགས་ནི་བདག་ཉིད་འགྱུར་མིན་ཏེ་༎	T04n2980u_001:2721	 cittādīnāṁ saṁhater ātmatā tu
+T04D3861:211a-20	འདི་ན་གླང་ཆེན་མེད་ཅེས་དོགས་བསལ་ཏེ་༎ སྦྲུལ་གྱི་འཇིགས་པའང་སྤོང་བར་བྱེད་པ་ནི་༏	T04n2980u_001:2812	 gajo 'tra nāstīti nirastaśaṅkaḥ |  jahāti sarpād api nāma bhītim
+T04D3861:211a-23	ཕུང་པོར་བདག་ཡོད་མ་ཡིན་བདག་ལ་ཡང་༎ ཕུང་པོ་དེ་རྣམས་ཡོད་མིན་གང་ཕྱིར་འདིར་༎	T04n2980u_001:2827	 skandheṣv ātmā vidyate naiva cāmī  santi skandhā nātmanītīha yasmāt |
+T04D3861:211a-25	གཞན་ཉིད་ཡོད་ན་རྟོག་པ་འདིར་འགྱུར་ན་༎ གཞན་ཉིད་དེ་མེད་དེ་ཕྱིར་འདི་རྟོག་པའོ་༎	T04n2980u_001:2835	 saty anyatve syād iyaṁ kalpanā vai  tac cānyatvaṁ nāsty ataḥ kalpanaiṣā || 6.142
+T04D3861:211a-27	བདག་ནི་གཟུགས་ལྡན་མི་འདོད་གང་ཕྱིར་བདག་༎	T04n2980u_001:2846	 iṣṭo nātmā rūpavān nāsti yasmād
+T04D3861:211a-28	ཡོད་མིན་དེ་ཕྱིར་ལྡན་དོན་སྦྱོར་བ་མེད་༎	T04n2980u_001:2850	 ātmā matvarthīyayogohi nātaḥ | (18)
+T04D3861:211a-29	གཞན་ན་གནག་ལྡན་གཞན་མིན་གཟུགས་ལྡན་ན་༎ བདག་ནི་གཟུགས་ལས་དེ་ཉིད་གཞན་ཉིད་མེད་༎ གཟུགས་བདག་མ་ཡིན་བདག་ནི་གཟུགས་ལྡན་མིན་༎ གཟུགས་ལ་བདག་མེད་བདག་ལའང་གཟུགས་ཡོད་མིན་༎	T04n2980u_001:2863	 bhede gomān rūpavān apy abhede  tattvānyatve rūpato nātmanaḥ staḥ || 6.143  rūpaṁ nātmā rūpavān naiva cātmā  rūpe nātmā rūpam ātmany asac ca |
+T04D3861:211a-3	གང་ཕྱིར་དེ་དག་ལ་དབྱིབས་ཡོད་མ་ཡིན་༎ ལེན་པོ་རང་ཉེར་ལེན་གཅིག་རིགས་དངོས་མིན་༎ དེ་ལྟ་ན་ལས་བྱེད་པོ་གཅིག་ཉིད་འགྱུར་༎	T04n2980u_001:2725	 na syād yasmāt saṁniveśo 'sti naiṣām || 6.136  nopādātuś caikatā yuktarūpā  svopādānaiḥ kartṛkarmaikataivam |
+T04D3861:211a-33	དེ་ལྟར་རྣམ་བཞིར་ཕུང་ཀུན་ཤེས་བྱ་སྟེ་༎	T04n2980u_001:2882	 skandhān evaṁ viddhi sarvāṁś caturdhā
+T04D3861:211a-34	དེ་དག་བདག་ཏུ་ལྟ་བ་ཉི་ཤུར་འདོད་༎	T04n2980u_001:2886	 viṁśaty aṁśā eta iṣṭāḥ svadṛṣṭeḥ || 6.144
+T04D3861:211a-35	ལྟ་རི་བདག་མེད་རྟོགས་པའི་རྡོ་རྗེ་ཡིས་༎ འཇིག་ཚོགས་ལྟ་རི་ལྷུན་སྟུག་ལ་གནས་པ་༎ རྩེ་མོ་མཐོ་བར་གྱུར་པ་༄༢༡༡བ་འདི་དག་གོ་༎	T04n2980u_001:2893	 etāni tāni śikharāṇi samudgatāni  satkāyadṛṣṭivipulācalasaṁsthitāni |  nairātmyabodhakuliśena vidāritātmā  bhedaṁ prayāti saha tair api dṛṣṭiśailaḥ || 6.145
+T04D3861:211a-6	བྱེད་པོ་མེད་ལས་ཡོད་སྙམ་བློ་ཡིན་ན་༎	T04n2980u_001:2740	 syāt kartāsan karma cāstīti ced dhīr
+T04D3861:211a-7	མ་ཡིན་གང་ཕྱིར་བྱེད་པོ་མེད་ལས་མེད་༎	T04n2980u_001:2744	 no kartāraṁ yad vinā nāsti karma || 6.137
+T04D3861:211b-1	ཁ་ཅིག་དེ་ཉིད་གཞན་ཉིད་རྟག་མི་རྟག་༎ ལ་སོགས་བརྗོད་མེད་གང་ཟག་རྫས་ཡོད་འདོད་༎	T04n2980u_001:2912	 icchanty eke pudgalaṁ dravyasantaṁ  tattvānyatvānityanityādyavācyam |
+T04D3861:211b-10	ངོ་བོ་གཟུགས་སོགས་ལས་བརྗོད་མེད་འགྱུར་བས་༎	T04n2980u_001:2962	 rūpādibhyo 'vācyatāṁ yena yātaḥ || 6.148
+T04D3861:211b-11	བདག་གང་ཕུང་པོ་ལས་བརྗོད་མེད་འགྱུར་ཏེ་༎ རང་གིས་ཡོད་པར་གྲུབ་པར་རྟོགས་མི་བྱ་༎ ཁྱོད་ཀྱི་རྣམ་ཤེས་རང་བདག་ལས་གཞན་ནི་༎	T04n2980u_001:2969	 vijñānaṁ te svātmato 'nanyad iṣṭaṁ
+T04D3861:211b-14	མི་འདོད་གཟུགས་སོགས་ལས་གཞན་དངོས་འདོད་ཅིང་༎	T04n2980u_001:2973	 rūpādibhyo bhinnarūpaṁ mataṁ ca |
+T04D3861:211b-15	དངོས་ལ་རྣམ་པ་དེ་གཉིས་མཐོང་འགྱུར་བ་༎	T04n2980u_001:2977	 vastuny ete dve gatī nāma dṛṣṭe
+T04D3861:211b-16	དེ་ཕྱིར་བདག་མེད་དངོས་ཆོས་དང་བྲལ་ཕྱིར་༎	T04n2980u_001:2981	 nāsty ātmāto vastudharmair viyogāt || 6.149
+T04D3861:211b-17	དེ་ཕྱིར་ངར་འཛིན་རྟེན་ནི་དངོས་པོ་མིན་༎ ཕུང་ལས་གཞན་མིན་ཕུང་པོའི་ངོ་བོ་མིན་༎ ཕུང་པོ་རྟེན་མིན་འདི་ནི་དེ་ལྡན་མིན་༎	T04n2980u_001:2992	 nānyaḥ skandhebhyo 'pi na skandharūpaḥ |  skandādhāro naiva naivaiṣa tadvān  skandhāṁs tūpādāya yāty eṣa siddhim || 6.150
+T04D3861:211b-21	ཤིང་རྟ་རང་ཡན་ལག་ལས་གཞན་འདོད་མིན་༎	T04n2980u_001:3007	 svāṅgebhya iṣṭo na ratho yathānyo
+T04D3861:211b-22	གཞན་མིན་མ་ཡིན་དེ་ལྡན་ཡང་མིན་ཞིང་༎	T04n2980u_001:3011	 na cāpy ananyo na ca nāma tadvān || (19)
+T04D3861:211b-23	ཡན་ལག་ལ་མིན་ཡན་ལག་དག་དེར་མིན་༎ འདུས་པ་ཙམ་མིན་དབྱིབས་མིན་ཇི་བཞིན་ནོ་༎	T04n2980u_001:3024	 nāṅgeṣu nāṅgāny api tatra nāpi  saṁghātamātraṁ na ca sanniveśaḥ || 6.151
+T04D3861:211b-25	གལ་ཏེ་ཚོགས་ཙམ་ཤིང་རྟར་འགྱུར་ན་ནི་༎	T04n2980u_001:3035	 saṁhātamātraṁ hi ratho yadi syāt
+T04D3861:211b-26	སིལ་བུར་གནས་ལ་ཤིང་རྟ་ཉིད་ཡོད་འགྱུར་༎	T04n2980u_001:3039	 kūṭasthiteṣv eva bhaved rathatvam |  saṁsthānamātraṁ ca ratho na yuktaḥ
+T04D3861:211b-27	གང་ཕྱིར་ཡན་ལག་ཅན་མེད་ཡན་ལག་དག་༎	T04n2980u_001:3047	 santy aṅgināṅgāni vinā na yasmād || 6.152
+T04D3861:211b-28	མེད་པས་དབྱིབས་ཙམ་ཤིང་རྟར་རིགས་པའང་མིན་༎ ཇི་བཞིན་ཤིང་རྟར་གཏོགས་ལའང་དེ་བཞིན་ནོ་༎	T04n2980u_001:3054	 saṁsthānam aṅgeṣu yathā purābhūt  pratyekaśas te rathatāṁ gateṣu |  tathaiva cen nāsti ratho 'dhunāpi
+T04D3861:211b-3	རྣམ་ཤེས་དྲུག་གི་ཤེས་བྱར་དེ་འདོད་ཅིང་༎	T04n2980u_001:2920	 ṣaḍvijñānajñeyatā ceṣyate 'sya
+T04D3861:211b-32	དེ་ལྟར་ཡང་ནི་ཤིང་རྟ་ཡོད་མ་ཡིན་༎ ད་ལྟ་གལ་ཏེ་ཤིང་རྟ་ཉིད་དུས་འདིར་༎ འཕང་ལོ་སོགས་ལ་དབྱིབས་ཐ་དད་ཡོད་ན་༎	T04n2980u_001:3073	 saṁsthānabhedo yadi cādhunāsti  cakrādikasyeha rathatvakāle |
+T04D3861:211b-36	དེ་ཕྱིར་དབྱིབས་ཙམ་ཤིང་རྟར་ཡོད་མ་ཡིན་༎	T04n2980u_001:3085	 saṁsthānamātraṁ na ratho 'sti tasmāt || 6.154
+T04D3861:211b-4	དེ་ནི་ངར་འཛིན་གཞིར་ཡང་འདོད་པ་ཡིན་༎	T04n2980u_001:2924	 so 'haṁkārasyaśrayo hīṣyate ca || 6.146
+T04D3861:211b-5	གང་ཕྱིར་གཟུགས་ལས་སེམས་བརྗོད་མེད་མི་རྟོགས་༎ དངོས་ཡོད་བརྗོད་མེད་རྟོགས་པ་མ་ཡིན་ཉིད་༎	T04n2980u_001:2931	 naivāvācyaṁ vastusat saṁpratītaṁ  yac cittasyāvācyatāṁ naiṣi rūpāt |
+T04D3861:211b-7	གལ་ཏེ་བདག་འགའ་དངོས་པོར་གྲུབ་གྱུར་ན་༎	T04n2980u_001:2939	 ātmā kaścid vastusiddho yadi syān
+T04D3861:211b-8	སེམས་ལྟར་གྲུབ་དངོས་བརྗོད་དུ་མེད་མི་འགྱུར་༎	T04n2980u_001:2943	 nāvācyaḥ syāc cittavat siddharūpaḥ || 6.147
+T04D3861:212a-26	ཉེར་ལེན་ལས་ཡིན་འདི་ནི་བྱེད་པོའང་ཡིན་༎	T04n2980u_001:3243	 karmāpy upādānam asau ca kartā || 6.162
+T04D3861:212a-27	དངོས་ཡོད་མིན་ཕྱིར་འདི་ནི་བརྟན་མིན་ཞིང་༎ མི་བརྟན་ཉིད་མིན་འདི་ནི་སྐྱེ་འཇིག་མིན་༎ འདི་ལ་རྟག་པ་ཉིད་ལ་སོགས་པ་ཡང་༎ ཡོད་མིན་དེ་ཉིད་དང་ནི་གཞན་ཉིད་མིན་༎	T04n2980u_001:3250	 nānityatā cāsya na nityatā ca  na jāyate naśyati naiva cāyam |  na śāsvatatvādi ca vidyate 'sya  tattvaṁ na cānyatvam avastusattvāt 6.163
+T04D3861:212a-31	གང་ཕྱིར་རྟག་ཏུ་འགྲོ་རྣམས་ངར་འཛིན་བློ་༎	T04n2980u_001:3269	 ayaṁ sa ātmā jagatāṁ pravṛttā  yasmin ahaṁkāramatiḥ sadaiva |
+T04D3861:212a-32	རབ་ཏུ་འབྱུང་ཞིང་དེ་ཡི་གང་ཡིན་དེར་༎ ང་ཡིར་འཛིན་བློ་འབྱུང་བའི་བདག་དེ་ནི་༎ མ་བརྟགས་གྲགས་པར་གཏི་མུག་ལས་ཡིན་ནོ་༎	T04n2980u_001:3277	 yat tasya tasmin mamakārabuddhir  udeti mohād avicārabuddhyā || 6.164
+T04D3861:212a-35	གང་ཕྱིར་བྱེད་པོ་མེད་ཅན་ལས་མེད་པ་༎	T04n2980u_001:3288	 akartṛkaṁ karma ca nāsti yasmād
+T04D3861:212a-36	དེ་ཕྱིར་བདག་གི་བདག་མེད་པར་ཡོད་མིན་༎	T04n2980u_001:3292	 ātmānam ātmīyam ato vinā 'sat |
+T04D3861:212a-37	དེ་ཕྱིར་བདག་དང་བདག་གི་སྟོང་ལྟ་ཞིང་༎	T04n2980u_001:3296	 ātmānam ātmīyam ataḥ sa śūnyaṁ
+T04D3861:212a-38	རྣལ་འབྱོར་པ་དེ་རྣམ་པར་གྲོལ་བར་འགྱུར་༎	T04n2980u_001:3300	 paśyan vimuktiṁ samupaiti yogī || 6.165
+T04D3861:212b-0	བུམ་པ་སྣམ་བུ་རེ་ལྡེ་དམག་དང་ནགས་ཚལ་ཕྲེང་བ་ལྗོན་ཤིང་དང་༎ ༄༢༡༢བ་ཁང་ཁྱིམ་ཤིང་རྟ་ཕྲན་དང་འགྲོན་གནས་ལ་སོགས་དངོས་རྣམས་གང་དག་དང་༎ དེ་བཞིན་གང་དག་སྒོ་ནས་སྐྱེ་འདིས་བསྙད་པ་དེ་རྣམས་རྟོགས་བྱ་སྟེ་༎	T04n2980u_001:3307	 ghaṭapaṭakaṭasenāḥ kānanaṁ paṅktivṛkṣā  gṛhaśakaṭamaṭhādyā ye ca kecit padārthāḥ |  vyavaharati jano 'yaṁ yais tathā tān pratīhi
+T04D3861:212b-1	གང་ཕྱིར་ཐུབ་དབང་དེ་ནི་འཇིག་རྟེན་ལྷན་ཅིག་རྩོད་མི་མཛད་ཕྱིར་རོ་༎	T04n2980u_001:3319	 vivadati sa munīndro yan na lokena sārddham || 6.166
+T04D3861:212b-10	དེ་དག་ནུས་པ་གཅིག་པས་སྐྱེད་བྱེད་འབྲས་བུ་ཐ་དད་མེད་འགྱུར་ཞིང་༎ སོ་སོར་ན་ནི་རྒྱུ་འདི་རྒྱུ་མིན་རྣམས་དང་ཁྱད་པར་མེད་འགྱུར་ལ་༎	T04n2980u_001:3375	 na janakaphalabhedaḥ syāt tayor aikyaśakteḥ |  pṛthag ayam aviśiṣṭo 'hetubhiḥ syāc ca hetur
+T04D3861:212b-12	གཉིས་པོ་འདི་དག་སྤངས་ནས་རྟོག་པ་གཞན་ཡང་ཡོད་པར་འགྱུར་མ་ཡིན་༎	T04n2980u_001:3383	 dvayam idam avadhūyānyāsatī kalpanā ca || 6.169
+T04D3861:212b-13	ཅི་སྟེ་ཁྱོད་ཀྱི་རྒྱུ་ཡིས་འབྲས་བུ་སྐྱེད་པར་མི་བྱེད་དེ་ཕྱིར་འབྲས་༎ ཞེས་བྱ་ཡོད་མིན་འབྲས་བྲལ་རྒྱུ་ནི་རྒྱུ་མེད་ཅན་འགྱུར་ཡོད་པའང་མིན་༎	T04n2980u_001:3390	 phalam atha tava hetur no karotīty ato 'sat  phalam iti phalahīno 'hetuko san na hetuḥ |
+T04D3861:212b-15	གང་ཕྱིར་འདི་དག་གཉིས་ཆར་ཡང་ནི་སྒྱུ་མ་དང་འདྲ་དེ་ཡི་ཕྱིར་༎ བདག་ལ་སྐྱོན་དུ་མི་འགྱུར་འཇིག་རྟེན་པ་ཡི་དངོས་པོ་རྣམས་ཀྱང་ཡོད་༎	T04n2980u_001:3398	 dvayam idam api māyāsaṁnibhaṁ yena tasmād  bhavati na mama doṣo laukikāḥ santi cārthāḥ || 6.170
+T04D3861:212b-17	སུན་འབྱིན་འདིས་སུན་དབྱུང་བྱ་ཕྲད་ནས་འབྱིན་ནམ་མ་ཕྲད་པར་༎	T04n2980u_001:3409	 dūṣyaṁ vidūṣayati dūṣaṇam āpya caitad  aprāpya ceti nanu caiṣa tavāpi doṣaḥ |
+T04D3861:212b-2	ཡན་ལག་ཡོན་ཏན་འདོད་ཆགས་མཚན་ཉིད་དང་ནི་བུད་ཤིང་ལ་སོགས་དང་༎ ཡོན་ཏན་ཅན་ཡན་ལག་ཅན་ཆགས་དང་མཚན་གཞི་མེ་ལ་སོགས་དོན་དག་༎	T04n2980u_001:3326	 avayavaguṇarāgā lakṣāṇānīndhanādyā  avayaviguṇiraktā lakṣyam agnyādayo 'rthāḥ |
+T04D3861:212b-20	དེ་ཚེ་ཁྱོད་ཀྱིས་སུན་དབྱུང་སུན་ནི་འབྱིན་པར་ནུས་མ་ཡིན་༎	T04n2980u_001:3421	 dūṣyaṁ tadāsi na hi dūṣayituṁ samarthaḥ || 6.171
+T04D3861:212b-21	གང་ཕྱིར་རང་གི་ཚིག་ལའང་ཐལ་བ་མཚུངས་པའི་ལྟག་ཆོད་ཀྱིས་༎	T04n2980u_001:3428	 jātyantaraiḥ svavacane 'pi samaprasaṅgair
+T04D3861:212b-22	རིགས་པ་མེད་པར་དངོས་མཐའ་དག་ལ་སྐུར་འདེབས་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:3432	 nyāyaṁ vinā 'pavadase sakalān padārthān |
+T04D3861:212b-23	ཁྱོད་ནི་སྐྱེ་བོ་དམ་པས་བཞེད་མི་འགྱུར་ཞིང་གང་གི་ཕྱིར་༎	T04n2980u_001:3436	 yasmāt tato na khalu sajjanasaṁmato 'si
+T04D3861:212b-24	ཁྱོད་ལ་རང་ཕྱོགས་མེད་པས་སུན་ཅི་ཕྱིན་དུ་རྒོལ་བའང་ཡིན་༎	T04n2980u_001:3440	 vaitaṇḍiko 'si ca yato 'sti na te svapakṣaḥ || 6.172
+T04D3861:212b-25	སུན་འབྱིན་པས་སུན་དབྱུང་བྱ་མ་ཕྲད་སུན་ནི་འབྱིན་བྱེད་དམ་༎ འོན་ཏེ་༄༢༡༣ཨ་༌་༎	T04n2980u_001:3447	 aprāpya dūṣayati dūṣaṇam eva yasya  prāpyātha dūṣyam iti vā niyamena pakṣaḥ |
+T04D3861:212b-3	དེ་རྣམས་ཤིང་རྟའི་རྣམ་དཔྱད་བྱས་པས་རྣམ་བདུན་ཡོད་པ་མ་ཡིན་ཞིང་༎	T04n2980u_001:3334	 vihitarathavicārāt saptadhā santi naite
+T04D3861:212b-4	དེ་ལས་གཞན་དུ་གྱུར་པར་འཇིག་རྟེན་གྲགས་པའི་སྒོ་ནས་ཡོད་པ་ཡིན་༎	T04n2980u_001:3338	 sati tu taditarasmin santi lokaprasiddhyā || 6.167
+T04D3861:212b-5	གལ་ཏེ་རྒྱུ་ཡིས་བསྐྱེད་པར་བྱ་སྐྱེད་དེ་ལྟ་ན་དེ་རྒྱུ་ཡིན་ཞིང་༎	T04n2980u_001:3345	 janayati yadi hetur janyam evaṁ sa hetur
+T04D3861:212b-6	གལ་ཏེ་འབྲས་བུ་མི་སྐྱེད་ན་ནི་དེ་མེད་རྒྱུ་མེད་ཅན་དུ་འགྱུར་༎	T04n2980u_001:3349	 na janayati phalaṁ cet tadvināhetukaḥ syāt |
+T04D3861:212b-7	འབྲས་བུ་ཡང་ནི་རྒྱུ་ཡོད་གྱུར་ན་སྐྱེ་བར་འགྱུར་བ་དེ་ཡི་ཕྱིར་༎	T04n2980u_001:3353	 phalam api sati hetau jāyate yena tasmāt
+T04D3861:212b-8	གང་ལས་གང་ཞིག་འགྱུར་བ་གང་ཞིག་ལས་སྔར་གང་ཞིག་འགྱུར་བ་སྨྲོས་༎	T04n2980u_001:3357	 kathaya bhavatu pūrvaṁ kiṁ kuto yad yataḥ
+T04D3861:212b-9	གལ་ཏེ་ཁྱོད་ཀྱི་རྒྱུ་ཡིས་ཕྲད་ནས་འབྲས་སྐྱེད་བྱེད་ན་དེ་ཡི་ཚེ་༎	T04n2980u_001:3371	 janayati yadi hetuḥ prāpya kāryaṁ tadā te
+T04D3861:213a-1	ཕྲད་ནས་ཡིན་ཞེས་སྨྲས་ཟིན་ཉེས་པ་འདིར་གང་ལ་༎ ངེས་པར་ཕྱོགས་ཡོད་དེ་ལ་འགྱུར་གྱི་བདག་ལ་ཕྱོགས་འདི་ནི་༎	T04n2980u_001:3455	 syāt tasya doṣa udito 'yam ayaṁ tu pakṣo
+T04D3861:213a-10	སྦྱང་པར་བྱ་ལ་ནུས་པ་མཐོང་བར་འགྱུར་བའི་གཏན་ཚིགས་ནི་༎	T04n2980u_001:3493	 hetoḥ svasādhyagatam ity upapattihīnāt
+T04D3861:213a-12	གལ་ཏེ་རང་གི་བསྒྲུབ་བྱ་གོ་བྱེད་གཏན་ཚིགས་དངོས་གྲུབ་དང་༎ དངོས་སུ་གོ་བྱ་ཉིད་འགྱུར་བསྒྲུབ་བྱའི་ངོ་བོའང་ཡོད་གྱུར་ན་༎ ཕྲད་པ་ལ་སོགས་རིགས་པ་ཉེ་བར་སྦྱོར་བར་འགྱུར་ཞིག་ན་༎	T04n2980u_001:3504	 prāptyādiyuktyupanayo hi bhaved yadi syād  dhetuḥ svasādhyagamakaḥ khalu vastusiddhaḥ | (22)  sādhyasvarūpam api vastuta eva gamyam
+T04D3861:213a-14	དེ་ཡང་ཡོད་པ་མིན་པས་ཁྱེད་ཀྱི་ཡི་ཆད་འབའ་ཞིག་ཡིན་༎	T04n2980u_001:3525	 etac ca nāsti tava kevalam eva khedaḥ || 6.176
+T04D3861:213a-15	དངོས་རྣམས་མཐའ་དག་དངོས་པོ་མེད་པར་རྟོགས་སུ་གཞུག་པར་ནི་༎ ནུས་པར་ཆེས་སླ་ཇི་ལྟ་དེ་ལྟར་རང་བཞིན་གཞན་དག་ལ་༎ ཁོང་དུ་ཆུད་པར་བདེ་བླག་ཏུ་ནི་ནུས་པ་མ་ཡིན་ནོ་༎	T04n2980u_001:3532	 nirvastukā gamayituṁ sakalāḥ padārthāḥ  śakyā yathātisukaraṁ na tathā svabhāvaḥ |
+T04D3861:213a-18	རྟོག་གེ་ངན་པའི་དྲ་བས་འཇིག་རྟེན་ཅི་སྟེ་འདིར་རྩོལ་བྱེད་༎ སུན་འབྱིན་ལྷག་མ་གོང་དུ་བསྟན་པ་ཡང་ནི་ཤེས་བྱས་ནས་༎	T04n2980u_001:3544	 lokaṁ kim aṅga lapasīha kutarkajālam || 6.177  śeṣaṁ ca dūṣaṇam avetya puropadiṣṭaṁ
+T04D3861:213a-22	དེ་སྐད་སྔར་བཤད་ལྷག་མ་ཕྱོགས་འདི་ཉིད་ཀྱིས་རྟོགས་པར་བྱ་༎	T04n2980u_001:3563	 prāg eva śeṣam avagaccha diśānayaiva || 6.178
+T04D3861:213a-23	བདག་མེད་འདི་ནི་འགྲོ་བ་རྣམས་དགྲོལ་ཕྱིར་༎ ཆོས་དང་གང་ཟག་དབྱེ་བ་རྣམ་གཉིས་གསུངས་༎	T04n2980u_001:3570	 nairātmyam etad dvividhaṁ niruktaṁ  dharmātmabhedena jagadvimukteḥ |
+T04D3861:213a-25	དེ་ལྟར་སྟོན་པས་སླར་ཡང་འདི་ཉིད་ནི་༎ གདུལ་བྱ་རྣམས་ལ་ཕྱེ་སྟེ་རྣམ་མང་གསུངས་༎	T04n2980u_001:3578	 tad eva bhitvā bahuśo 'pi bhūyas  tathā vineyebhya uvāca śāstā || 6.179
+T04D3861:213a-27	སྤྲོས་དང་བཅས་པར་སྟོང་པ་ཉིད་༎ བཅུ་དྲུག་བཤད་ནས་མདོར་བསྡུས་ཏེ་༎	T04n2980u_001:3589	 śūnyatāḥ ṣoḍaśākhyāya saprapañcāḥ samāsataḥ |
+T04D3861:213a-29	སླར་ཡང་བཞིར་བཤད་དེ་དག་ནི་༎ ཐེག་ཆེན་དུ་ཡང་བཞེད་པ་ཡིན་༎	T04n2980u_001:3593	 catasraḥ punar ākhyātā mahāyāne ca tā matāḥ || 6.180
+T04D3861:213a-3	ཡོད་པ་མིན་པས་ཐལ་བར་འགྱུར་བ་འདི་ནི་སྲིད་མ་ཡིན་༎	T04n2980u_001:3459	 nāstīti naiṣa mama sambhavati prasaṅgaḥ || 6.173
+T04D3861:213a-31	གང་ཕྱིར་དེ་ཡི་རང་བཞིན་དེ་༎ ཡིན་ཕྱིར་མིག་ནི་མིག་གིས་སྟོང་༎	T04n2980u_001:3600	 cakṣur vai cakṣuṣā śūnyam asyaiṣā prakṛtir yataḥ |
+T04D3861:213a-33	དེ་བཞིན་རྣ་བ་སྣ་དང་ལྕེ་༎ ལུས་༄༢༡༣བ་དང་ཡིད་ཀྱིས་བསྙད་པར་བྱ་༎	T04n2980u_001:3604	 evaṁ śrotraṁ mano jihvā ghrāṇaṁ kāyaś ca
+T04D3861:213a-4	ཇི་ལྟར་ཁྱོད་ཀྱིས་ཉི་མའི་དཀྱིལ་འཁོར་ལ་ཡོད་ཁྱད་པར་རྣམས་༎ གཟུགས་བརྙན་ལ་ཡང་གཟས་བཟུང་ལ་སོགས་རྣམས་ཚེ་མཐོང་འགྱུར་ལ་༎	T04n2980u_001:3466	 dṛṣṭā yathā grahaṇakādiṣu te viśeṣā  ādityamaṇḍalagatāḥ pratibimbake 'pi |
+T04D3861:213a-6	ཉི་མ་དང་ནི་གཟུགས་བརྙན་རྣམ་པར་ཕྲད་དང་མ་ཕྲད་པར་༎	T04n2980u_001:3474	 nāprāpya cāpya ca raviṁ pratibimbajātaṁ
+T04D3861:213a-7	མི་རིགས་མོད་ཀྱི་བརྟེན་ནས་ཐ་སྙད་ཙམ་ཞིག་འབྱུང་འགྱུར་ཞིང་༎	T04n2980u_001:3478	 yuktaṁ pratītya ca bhaved vyavahāramātram || 6.174
+T04D3861:213a-8	མི་བདེན་བཞིན་དུའང་རང་གི་བྱད་བཞིན་མཛེས་པར་བསྒྲུབ་བྱའི་ཕྱིར་༎ དེ་ནི་ཡོད་པ་ཇི་ལྟར་དེ་བཞིན་འདིར་ཡང་ཤེས་རབ་གདོད་༎	T04n2980u_001:3485	 yadvad vyalīkam api tat svamukhopaśobhā-  saṁpādane bhavati tadvad ihāpy avaihi |
+T04D3861:213b-1	ཐེར་ཟུག་གནས་པ་མ་ཡིན་དང་༎ འཇིག་པ་མ་ཡིན་ཉིད་ཀྱི་ཕྱིར་༎	T04n2980u_001:3612	 akūṭasthāvināśitvam upādāyāsvabhāvatā |
+T04D3861:213b-10	གཉིས་ཆར་རང་བཞིན་མེད་ཉིད་ནི་༎ ཕྱི་ནང་སྟོང་པ་ཉིད་ཡིན་ནོ་༎	T04n2980u_001:3640	 ubhayor asvabhāvatvaṁ bahirdhādhyātmaśūnyatā || 6.184 (23)
+T04D3861:213b-12	ཆོས་རྣམས་རང་བཞིན་མེད་པ་ཉིད་༎ མཁས་པས་སྟོང་པ་ཉིད་ཅེས་བསྙད་༎	T04n2980u_001:3653	 dharmāṇāṁ niḥsvabhāvatvaṁ śūnyatety ucyate  budhaiḥ |
+T04D3861:213b-16	སྟོང་ཉིད་ཅེས་བྱའི་སྟོང་ཉིད་གང་༎ སྟོང་ཉིད་སྟོང་ཉིད་དུ་འདོད་དེ་༎ སྟོང་ཉིད་དངོས་པོའི་བློ་ཅན་གྱི་༎	T04n2980u_001:3658	 sā cāpi śūnyatā śūnyā śūnyatārūpato matā || 6.185  śūnyatā śūnyatākhyā yā śūnyatāśūnyatā matā |
+T04D3861:213b-19	འཛིན་པ་བཟློག་ཕྱིར་གསུངས་པ་ཡིན་༎	T04n2980u_001:3669	 śūnyatā bhāvabuddhīnām uktā grāhanivṛttaye || 6.186
+T04D3861:213b-2	མིག་ལ་སོགས་པ་དྲུག་པ་ཡི་༎ དེ་ནི་ནང་སྟོང་ཉིད་དུ་འདོད་༎	T04n2980u_001:3617	 'dhyātmaśūnyatā || 6.182
+T04D3861:213b-20	སེམས་ཅན་སྣོད་ཀྱི་འཇིག་རྟེན་ནི་༎	T04n2980u_001:3676	 sattvabhājanalokasya niḥśeṣavyāpakatvataḥ |
+T04D3861:213b-21	མ་ལུས་ཁྱབ་བྱེད་ཉིད་ཕྱིར་དང་༎ ཚད་མེད་དཔེ་ཡིས་མུ་མཐའ་ནི་༎ མེད་ཕྱིར་ཕྱོགས་རྣམས་ཆེན་པོ་ཉིད་༎ འདི་དག་བཅུ་ཆར་ཕྱོགས་རྣམས་ཀྱིས་༎	T04n2980u_001:3680	 apramāṇopamānena paryantābhāvato diśām || 6.187
+T04D3861:213b-24	སྟོང་པ་ཉིད་ནི་གང་ཡིན་དེ་༎ ཆེན་པོ་སྟོང་པ་ཉིད་ཡིན་དེ་༎ ཆེན་པོར་འཛིན་པ་བཟློག་ཕྱིར་གསུངས༎	T04n2980u_001:3687	 mahattvaṁ digbhir evāsāṁ daśānām api śūnyatā |  yā mahāśūnyatā soktā mahāgrāhanivṛttaye || 6.188
+T04D3861:213b-27	དེ་ནི་དགོས་པ་མཆོག་ཡིན་པས་༎ དོན་དམ་མྱ་ངན་འདས་པ་ཡིན་༎	T04n2980u_001:3698	 paramārtho hi nirvāṇaṁ param etat prayojanam |
+T04D3861:213b-29	དེ་ནི་དེ་ཡིས་སྟོང་ཉིད་གང་༎ དེ་ནི་དོན་དམ་སྟོང་ཉིད་དེ་༎	T04n2980u_001:3702	 tasya yā śūnyatā tena sā paramārthaśūnyatā || 6.189
+T04D3861:213b-31	མྱང་འདས་དངོས་པོའི་བློ་ཅན་གྱི་༎ འཛིན་པ་བཟློག་པར་བྱ་བའི་ཕྱིར་༎ དོན་དམ་མཁྱེན་པས་དོན་དམ་པ་༎ སྟོང་པ་ཉིད་ནི་བསྟན་པར་མཛད་།	T04n2980u_001:3709	 nirvāṇe bhāvabuddhīnāṁ bhāvagrāhanivṛttaye |  deśitā paramārthajñaiḥ śūnyatā pāramārthikā || 6.190
+T04D3861:213b-35	རྐྱེན་ལས་བྱུང་ཕྱིར་ཁམས་གསུམ་པོ་༎ འདུས་བྱས་ཡིན་པར་ངེས་པར་བསྙད་༎	T04n2980u_001:3721	 pratyayodayāt |
+T04D3861:213b-37	དེ་ནི་དེ་ཡིས་སྟོང་ཉིད་གང་༎ དེ་ནི་འདུས་བྱས་སྟོང་ཉིད་གསུངས་༎	T04n2980u_001:3725	 tasya yā śūnyatā tena soktā saṁskṛtaśūnyatā || 6.191
+T04D3861:213b-39	གང་ལ་སྐྱེ་གནས་མི་རྟག་ཉིད་༎	T04n2980u_001:3732	 asaṁskṛtaṁ na yasyaitā utpādasthityanityatāḥ |
+T04D3861:213b-40	དེ་དག་མེད་པ་འདུས་མ་བྱས་༎ དེ་ནི་དེ་ཡིས་སྟོང་ཉིད་གང་༎ དེ་ནི་འདུས་མ་བྱས་སྟོང་ཉིད་༎	T04n2980u_001:3736	 tena yā śūnyatā tasya soktā 'saṁskṛtaśunyatā || 6.192
+T04D3861:213b-43	གང་ལ་མཐའ་ནི་ཡོད་མིན་པ་༎ དེ་ནི་མཐའ་ལས་འདས་པར་བརྗོད་༎	T04n2980u_001:3743	 anto na vidyate yasya tad atyantaṁ nirucyate |
+T04D3861:213b-45	དེ་དེ་ཁོ་ནས་སྟོང་པ་ཉིད་༎ མཐའ་ལས་འདས་པ་སྟོང་ཉིད་བསྙད་༎	T04n2980u_001:3747	 tasya tenaiva śūnyatvaṁ kathyate  'tyantaśūnyatā || 6.193
+T04D3861:213b-47	ཐོག་མ་དང་པོ་ཐ་མ་མཐའ་༎ ཐོག་མ་ཐ་མ་མེད་པར་བརྗོད་༎ འགྲོ་འོང་བྲལ་ཕྱིར་རྨི་༄༢༡༤ཨ་༌་༎	T04n2980u_001:3755	 ādir avaram anto 'graṁ tadabhāvena kathyate |  saṁsāro 'navarāgro hi gatyāgativiyogataḥ || 6.194
+T04D3861:213b-6	ཡིན་ཕྱིར་གཟུགས་ནི་གཟུགས་ཀྱིས་སྟོང་༏	T04n2980u_001:3624	 rūpaṁ rūpeṇa vai śūnyam asyaiṣā prakṛtir yataḥ |
+T04D3861:213b-7	། སྒྲ་དང་དྲི་རོ་རེག་བྱ་དང་༎ ཆོས་རྣམས་ཉིད་ཀྱང་དེ་བཞིན་ནོ་༎	T04n2980u_001:3628	 evaṁ śabdā rasā gandhā dharmāḥ spraṣṭavyam eva
+T04D3861:213b-8	གཟུགས་སོགས་རང་བཞིན་མེད་པ་ཉིད་༎ ཕྱི་རོལ་སྟོང་པ་ཉིད་དུ་འདོད་༎	T04n2980u_001:3636	 rūpāder niḥsvabhāvatvaṁ bahirdhāśūnyatā matā |
+T04D3861:214a-13	གང་ཕྱིར་སློབ་མ་རང་སངས་རྒྱས་༎ རྒྱལ་སྲས་དེ་བཞིན་གཤེགས་རྣམས་ཀྱིས༎	T04n2980u_001:3801	 tathāgataiḥ |
+T04D3861:214a-15	མ་མཛད་དེའི་ཕྱིར་འདུས་བྱས་ལ་༎ སོགས་པ་རྣམས་ཀྱི་ངོ་བོ་ཉིད་༎	T04n2980u_001:3805	 svabhāvaḥ saṁskṛtādīnāṁ yato naiva kṛtas tataḥ || 6.198
+T04D3861:214a-17	རང་བཞིན་ཉིད་དུ་བསྙད་པ་སྟེ་༎	T04n2980u_001:3813	 svabhāvaḥ saṁskṛtādīnāṁ prakṛtitvena kathyate |
+T04D3861:214a-18	དེ་ཉིད་ཀྱིས་དེ་སྟོང་ཉིད་གང་༎ དེ་ནི་རང་བཞིན་སྟོང་པ་ཉིད་༎	T04n2980u_001:3817	 tayaiva śūnyatā tasyā yā sā prakṛtiśūnyatā || 6.199 (24)
+T04D3861:214a-2	དེ་ནི་ཐོག་མ་དང་ཐ་མ་༎ མེད་པ་སྟོང་པ་ཉིད་དོ་ཞེས་༎ བསྟན་བཅོས་ལས་ནི་ངེས་པར་བསྙད་༎	T04n2980u_001:3770	 śūnyatānavarāgreti saiṣā śāstre nirucyate || 6.195
+T04D3861:214a-20	ཁམས་བཅོ་བརྒྱད་དང་རེ་དྲུག་དང་༎ དེ་ལས་བྱུང་བའི་ཚོར་དྲུག་དང་༎ གཟུགས་ཅན་གཟུགས་ཅན་མིན་དེ་བཞིན་༎	T04n2980u_001:3830	 dhātavo 'ṣṭādaśa sparśāḥ ṣaṭ tajjā vedanāś ca ṣaṭ |
+T04D3861:214a-21	འདུས་བྱས་འདུས་མ་བྱས་ཆོས་རྣམས་༎	T04n2980u_001:3834	 rūpiṇo 'rūpiṇo dharmāḥ saṁskṛtāsaṁskṛtās tathā | 6.200
+T04D3861:214a-22	ཆོས་དེ་དག་ནི་ཐམས་ཅད་ཀྱི་༎ དེ་དག་གིས་དབེན་སྟོང་ཉིད་གང་༎	T04n2980u_001:3842	 śūnyatā sarvadharmāṇāṁ yā teṣāṁ tair viyuktatā |
+T04D3861:214a-24	གཟུགས་རུང་ལ་སོགས་དངོས་མེད་གང་༎ དེ་ནི་རང་མཚན་སྟོང་པ་ཉིད་༎	T04n2980u_001:3846	 rūpaṇāder abhāvo yaḥ sā svalakṣaṇaśūnyatā || 6.201
+T04D3861:214a-26	གཟུགས་ནི་གཟུགས་རུང་མཚན་ཉིད་ཅན་༎ ཚོར་བ་མྱོང་བའི་བདག་ཉིད་ཅན་༎ འདུ་ཤེས་མཚན་མར་འཛིན་པ་སྟེ་༎ འདུ་བྱེད་མངོན་པར་འདུ་བྱེད་པའོ་༎	T04n2980u_001:3853	 rūpaṇālakṣaṇaṁ rūpaṁ vedanānubhavātmikā |
+T04D3861:214a-30	ཡུལ་ལ་སོ་སོར་རྣམ་རིག་པ་༎ རྣམ་ཤེས་རང་གི་མཚན་ཉིད་དོ་༎	T04n2980u_001:3865	 viṣayaṁ prati vijñaptir vijñānasya svalakṣaṇam |
+T04D3861:214a-32	ཕུང་པོ་སྡུག་བསྔལ་རང་མཚན་ཉིད་༎ ཁམས་ཀྱི་བདག་ཉིད་སྦྲུལ་གདུག་འདོད་༎	T04n2980u_001:3869	 duḥkhasvalakṣaṇāḥ skandhā dhātvātmāśīviṣaṁ
+T04D3861:214a-34	སྐྱེ་མཆེད་རྣམས་ནི་སངས་རྒྱས་ཀྱིས་༎ སྐྱེ་བའི་སྒོར་གྱུར་ཉིད་དུ་གསུངས་༎	T04n2980u_001:3877	 āyadvāratayoktāni buddhair āyatanāni ca |
+T04D3861:214a-36	རྟེན་ཅིང་འབྲེལ་བར་འགྱུར་བ་གང་༎ དེ་ནི་འདུ་འཕྲོད་མཚན་ཉིད་དོ་༎	T04n2980u_001:3881	 yaḥ pratītyasamutpādaḥ sa sāmagrīsvalakṣaṇaḥ || 6.204
+T04D3861:214a-38	གཏོང་བ་སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་༎ ཚུལ་ཁྲིམས་གདུང་མེད་མཚན་ཉིད་བཟོད་༎ ཁྲོ་མེད་མཚན་ཉིད་བརྩོན་འགྲུས་ཀྱི་༎	T04n2980u_001:3888	 dānapāramitā tyāgaḥ śīlaṁ cādāhalakṣaṇam |  akopalakṣaṇā kṣāntiḥ vīryasya tv anavadyatā || 6.205
+T04D3861:214a-42	བསམ་གཏན་སྡུད་པའི་མཚན་ཉིད་ཅན་༎ ཤེས་རབ་ཆགས་མེད་མཚན་ཉིད་དེ་༎	T04n2980u_001:3899	 saṁgrahalakṣaṇaṁ dhyānaṁ prajñā cāsaṅgalakṣaṇā |
+T04D3861:214a-44	ཕ་རོལ་ཕྱིན་པ་དྲུག་རྣམས་ཀྱི་༎ མཚན་ཉིད་འདི་དག་ཡིན་པར་བརྗོད་༎ བསམ་གཏན་རྣམས་དང་ཚད་མེད་དང་༎ དེ་བཞིན་གཞན་གང་གཟུགས་མེད་པ་༎ དེ་དག་ཡང་དག་༄༢༡༤བ་མཁྱེན་པ་ཡིས་༎ མི་འཁྲུག་མཚན་ཉིད་ཅན་དུ་གསུངས་༎	T04n2980u_001:3904	 idam || 6.206  dhyānāni cāpramāṇāni ye cārūpyāś tathā pare |  akopalakṣaṇā eta uktāḥ samyakprajānatā || 6.207
+T04D3861:214a-5	དོར་བ་ཅེས་བྱ་འཐོར་བ་དང་༎ འབོར་བ་ལ་ནི་ངེས་པར་བརྗོད་༎ དོར་མེད་གཏོང་པ་མེད་པ་སྟེ་༎ འགའ་ཡང་དོར་མེད་གང་ཡིན་པའོ་༎	T04n2980u_001:3777	 avakāro 'vakiraṇaṁ choraṇaṁ hi nirucyate |  na tyāgo 'navakāras tu choraṇaṁ yan na
+T04D3861:214a-8	དོར་བ་མེད་པ་དེ་ཉིད་ཀྱིས་༎ དེ་ཉིད་སྟོང་པ་ཉིད་གང་ཡིན་༎ དེ་དེའི་ཕྱིར་ན་དོར་མེད་པ་༎ སྟོང་པ་ཉིད་ཅེས་བྱ་བར་བརྗོད་༎	T04n2980u_001:3789	 tenaivānavakāreṇa yā tasyaiva hi śūnyatā |  śūnyatānavakārākhyā tasmād eṣā nirucyate || 6.197
+T04D3861:214b-16	བྱམས་པ་ཆེན་པོ་ཞེས་བྱའོ་༎	T04n2980u_001:3959	 jagaddhitopasaṁhāro mahāmaitrī nirucyate || 6.211
+T04D3861:214b-17	སྡུག་བསྔལ་ཅན་རྣམས་ཡོངས་སྐྱོབ་པ་༎ ཐུགས་རྗེ་ཆེན་པོའོ་དགའ་བ་ནི་༎ རབ་དགའི་མཚན་ཉིད་བཏང་སྙོམས་ནི་༎ མ་འདྲེས་མཚན་ཉིད་ཅན་ཞེས་བྱ་༎	T04n2980u_001:3966	 mahākṛpā paritrāṇaṁ duḥkhināṁ muditā khalu |  prāmodyalakṣaṇopekṣā jñeyāsaṁkīrṇalakṣaṇā || 6.212
+T04D3861:214b-2	བྱང་ཆུབ་ཕྱོགས་ཆོས་སུམ་ཅུ་བདུན་༎ ངེས་པར་འབྱུང་བྱེད་རང་མཚན་ཉིད་༎	T04n2980u_001:3922	 saptatriṁśad bodhipakṣyā nairyāṇikasvalakṣaṇāḥ |
+T04D3861:214b-21	སངས་རྒྱས་ཆོས་ནི་མ་འདྲེས་པ་༎ བཅུ་དང་བརྒྱད་དུ་གང་འདོད་དག་༎	T04n2980u_001:3977	 buddhasyāveṇikā dharmā daśa cāṣṭau ca ye matāḥ |
+T04D3861:214b-25	རྣམ་ཀུན་མཁྱེན་ཉིད་ཡེ་ཤེས་ནི་༎ མངོན་སུམ་མཚན་ཉིད་ཅན་དུ་འདོད་༎	T04n2980u_001:3995	 sarvākārajñatājñānaṁ mataṁ pratyakṣalakṣaṇam |
+T04D3861:214b-27	གཞན་ནི་ཉི་ཚེ་བ་ཉིད་ཀྱིས་༎ མངོན་སུམ་ཞེས་བྱར་མི་འདོད་དོ་༎	T04n2980u_001:3999	 anyat prādeśikatvena na pratyakṣam itīṣyate || 6.214
+T04D3861:214b-29	གང་ཞིག་འདུས་བྱས་མཚན་ཉིད་དང་༎ འདུས་མ་བྱས་པའི་མཚན་ཉིད་གང་༎	T04n2980u_001:4006	 yal lakṣaṇaṁ saṁskṛtānāṁ yac cāsaṁskṛtalakṣaṇam |
+T04D3861:214b-30	རེ་རེ་ཁོ་ནས་སྟོང་པ་ཉིད་༎ དེ་ནི་རང་མཚན་སྟོང་པ་ཉིད་༎	T04n2980u_001:4010	 tasya tenaiva śūnyatvaṁ sā svalakṣaṇaśūnyatā || 6.215
+T04D3861:214b-32	ད་ལྟ་བ་འདི་མི་གནས་ཤིང་༎ འདས་དང་མ་འོངས་ཡོད་མ་ཡིན་༎	T04n2980u_001:4017	 asthito vartamāno 'yam atītānāgataṁ na sat |
+T04D3861:214b-34	གང་དུ་དེ་དག་མི་དམིགས་པ་༎ དེ་ལ་མི་དམིགས་པ་ཞེས་བརྗོད་༎	T04n2980u_001:4021	 yatraite nopalabhyante 'nupalambhaḥ sa ucyate || 6.216
+T04D3861:214b-36	མི་དམིགས་པ་དེ་རང་ངོ་བོ་༎ དེ་ཡིས་དབེན་པ་ཉིད་གང་དེ་༎	T04n2980u_001:4029	 yā tasyānupalambhasya tatsvarūpaviyuktatā |
+T04D3861:214b-38	ཐེར་ཟུག་གནས་མིན་འཇིག་མིན་པས་༎ མི་དམིགས་ཞེས་བྱའི་སྟོང་ཉིད་དོ་༎	T04n2980u_001:4033	 sākūṭasthāvināśenānupalambhākhyaśūnyatā || 6.217
+T04D3861:214b-4	སྟོང་པ་ཉིད་ཀྱི་མཚན་ཉིད་ནི་༎ དམིགས་པ་མེད་པས་རྣམ་དབེན་ཉིད་༎ མཚན་མ་མེད་པ་ཞི་ཉིད་དེ་༎	T04n2980u_001:3926	 śūnyatāyā viviktatvaṁ lakṣaṇaṁ nopalambhanāt || 6.208  śāntatā tv animittasya duḥkhāmohas tu lakṣaṇam |
+T04D3861:214b-40	རྐྱེན་ལས་བྱུང་ཕྱིར་དངོས་རྣམས་ལ་༎ འདུས་པ་པ་ཡི་ངོ་བོ་མེད་༎	T04n2980u_001:4040	 nāsti sāṁyogikaṁ rūpaṁ bhāvānāṁ pratyayodayāt |
+T04D3861:214b-42	འདུས་པ་པ་ནི་དེ་ཉིད་ཀྱིས་༎ སྟོང་ཉིད་དངོས་མེད་སྟོང་ཉིད་དོ་༎	T04n2980u_001:4044	 saṁyogasya tu tenaiva śūnyatābhāvaśūnyatā || 6.218
+T04D3861:214b-44	དངོས་པོའི་སྒྲས་ནི་མདོར་བསྡུས་ན་༎ ཕུང་པོ་ལྔ་རྣམས་བརྗོད་པ་ཡིན་༎	T04n2980u_001:4051	 ucyante bhāvaśabdenapañcaskandhāḥ samāsataḥ |
+T04D3861:214b-46	དེ་རྣམས་དེ་ཡིས་སྟོང་ཉིད་གང་༎ དེ་དངོས་སྟོང་པ་ཉིད་དུ་བཤད་༎	T04n2980u_001:4055	 tair eva śūnyatā teṣāṁ yā soktā bhāvaśūnyatā || 6.219
+T04D3861:214b-48	མདོར་བསྡུས་ན་ནི་དངོས་མེད་པ་༎ འདུས་མ་བྱས་ཆོས་རྣམས་ལ་བརྗོད་༎	T04n2980u_001:4062	 abhāvo 'saṁskṛtā dharmā nirdiśyante samāsataḥ |
+T04D3861:214b-7	གསུམ་པའི་མཚན་ཉིད་སྡུག་བསྔལ་དང་༎ གཏི་མུག་མེད་རྣམ་ཐར་རྣམས་ཀྱི་༎ མཚན་ཉིད་རྣམ་པར་གྲོལ་བྱེད་པའོ་༎	T04n2980u_001:3937	 tṛtīyasya vimokṣāṇāṁ lakṣaṇaṁ tu vimocanam || 6.209
+T04D3861:214b-9	སྟོབས་རྣམས་ཤིན་ཏུ་རྣམ་པར་ནི་༎ གཏན་ལ་འབེབས་པའི་རང་བཞིན་གསུངས་༎ སྐྱོབ་པའི་མི་འཇིགས་པ་རྣམས་ནི་༎ ཤིན་ཏུ་བརྟན་པའི་ངོ་བོ་ཡིན་༎ སོ་སོར་ཡང་དག་རིག་རྣམས་ནི་༎ སྤོབས་སོགས་ཚད་མེད་མཚན་ཉིད་ཅན་༎	T04n2980u_001:3944	 suviniścitarūpāṇi balāni kathitāni ca |  supratiṣṭhitarūpāṇi vaiśāradyāni tāyinaḥ || 6.210  pratibhānādyanācchedalakṣaṇāḥ pratisaṁvidaḥ |
+T04D3861:215a-0	དེ་ཉིད་༄༢༡༥ཨ་༌་༎ དངོས་མེད་དེས་སྟོང་ཉིད་༎ རང་བཞིན་ངོ་བོ་ཉིད་མེད་ནི་༎ རང་བཞིན་ཞེས་བྱའི་སྟོང་ཉིད་དེ་༎	T04n2980u_001:4066	 tenābhāvena śūnyatvaṁ tasyaivābhāvaśūnyatā || 6.220  prakṛter niḥsvabhāvatvaṁ svabhāvākhyā tu  śūnyatā |
+T04D3861:215a-25	མདུན་དུ་བདར་ནས་དགེ་བའི་རླུང་གི་ཤུགས་སྟོབས་ཀྱིས་༎ རྒྱལ་བའི་ཡོན་ཏན་རྒྱ་མཚོའི་ཕ་རོལ་མཆོག་ཏུ་འགྲོ་༎	T04n2980u_001:4152	 jinaguṇajaladheḥ paraṁ sa pāraṁ
+T04D3861:215a-5	འདི་ལྟར་རང་བཞིན་མ་བྱས་པས་༎ རང་བཞིན་ཞེས་ནི་བྱ་བར་བསྙད་༎ སངས་རྒྱས་རྣམས་ནི་འབྱུང་བའམ་༎ མ་བྱུང་ཡང་རུང་དངོས་སུ་ནི་༎ དངོས་པོ་ཀུན་གྱི་སྟོང་པ་ཉིད་༎ ཡང་དག་མཐའ་དང་དེ་བཞིན་ཉིད་༎ དེ་བཞིན་དངོས་པོའི་སྟོང་ཉིད་དོ་༎	T04n2980u_001:4089	 śūnyatā sarvabhāvānāṁ paro bhāvaḥ prakīrtitaḥ || 6.222  bhūtakoṭis tathātvaṁ ca sā parabhāvaśūnyatā |

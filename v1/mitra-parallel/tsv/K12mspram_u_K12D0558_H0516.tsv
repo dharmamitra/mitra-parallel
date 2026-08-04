@@ -1,0 +1,893 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K12mspram_u:100	 kharaṭṭe /  kharaṅge /	K12D0558_H0516:508a-24	ཁ་རཏཏེ༏་ཁར་རྒ་ལེ་།
+K12mspram_u:1000	 bherīśaṅkhamṛdaṅgapaṇavavīṇāveṇavaś ca yathā sthāne sthāpitā eva pravādyanti sma /  dāḍimabilvāmalanyagrodhāśvatthaprakṣakapitthodumbaraśālatālatamālatilakacampakavṛkṣā nānāgandhān pramuñcanti sma /	K12D0558_H0516:530b-4	རྔ་བོ་ཆེ་དང་། དུང་དང་། རྫ་རྔ་དང་། རྔ་བྲན་དང་། པི་ཝང་དང་། གླིང་བུ་རྣམས་ཀྱང་ཇི་ལྟར་གནས་སུ་བཀོད་པ་བཞིན་དུ་སྒྲ་བྱུང་ངོ་༎
+K12mspram_u:1002	 devatāsahasraiś ca hīhīkārapramuktaḥ /  antarīkṣāc ca (Msp 30)  puṣpavarṣam abhipraviṣṭam /	K12D0558_H0516:530b-5	བལ་པོ་སེའུ་དང་། བིལ་བ་དང་། སྐྱུ་རུ་ར་དང་། ནྱ་གྲོ་དྷ་དང་། བྱང་ཆུབ་ཀྱི་ཤིང་དང་། སྤྲེའུ་གནས་དང་། བླཀཤ་དང་། ཨཽ་དུམ་བའ་ར་དང་། སའ་ལ་དང་། ཏ་མ་ལའི་ཤིང་ལྗོན་པ་རྣམས་ཀྱང་དྲི་རབ་ཏུ་འབྱིན་ནོ༏་༏ལྷ་བརྒྱ་སྟོང་དག་གིས་ཀྱང་ཨཨ་ལ་ལ་ཞེས་བྱ་བའི་སྒྲ་ཕྱུང་སྟེ་བར་སྣང་ལ་མེ་ཏོག་གི་ཆར་མངོན་པར་ཕབ་བོ་༎
+K12mspram_u:1005	 amānuṣaś ca gandho loke prādurbhūtaḥ //	K12D0558_H0516:530b-6	མི་མ་ཡིན་པའི་དྲི་དག་ཀྱང་འཇིག་རྟེན་དུ་བྱུང་ངོ་༎
+K12mspram_u:1006	 atha catvāro mahārājānaḥ prāñjalayo bhagavantam etad avocat /	K12D0558_H0516:530b-7	དེ་ནས་རྒྱལ་པོ་ཆེན་པོ་བཞིས་ཐལ་མོ་སྦྱར་ཏེ་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K12mspram_u:1007	 idaṃ bhadanta bhagavan mahāsāhasrapramardanī sūtrarājaṃ sarvagrahapramocanīyaṃ buddhamudrā dharmaparyāyam /	K12D0558_H0516:530b-8	བཙུན་པ་བཅོམ་ལྡན་འདས་།
+K12mspram_u:1008	 yaḥ kaścic chikṣāpadaṃ parigṛhītvā kāśāyadhārī udgṛhya dhārayitvā vācayitvā deśayitvā paryavāpya likhitvā granthayitvā dhārayiṣyati /	K12D0558_H0516:531a-1	གཟུང་སྟེ་བཀླགས་ཤིང་བཤད་ལ་ཀུན་ཆུབ་པར་བགྱིས་ཤིང་ཡི་གེར་བྲིས་ནས་མདུད་པ་བོར་ཏེ་འཆད་ན་།
+K12mspram_u:1009	 tasya sarve iti bhayopadravopasargopāyāsāvairakalikalahabhaṇḍanavivādā yāvat paiśūnyakā akuśalā dharmā nābhikramiṣyanti /	K12D0558_H0516:531a-2	དེ་ལ་ཡམས་ཀྱི་ནད་དང་། འཇིགས་པ་དང༏་གནོད་པ་དང་། ནད་འགོ་བ་དང་། འཁྲུག་པ་དང་། ཁྲག་ཁྲུག་དང་། འཐབ་མོ་དང་། བཅིང་བ་དང་། རྩོད་པ་དང་། འགྱེད་པ་ནས་ཕྲ་མའི་བར་གྱི་སྡིག་པ་མི་དགེ་བའི་ཆོས་རྣམས་ཀྱིས་མི་ཚུགས་པར་འགྱུར་ལགས་སོ་༎
+K12mspram_u:1010	 ajayaś ca bhaviṣyanti sarvaviheṭhakebhyaḥ /	K12D0558_H0516:531a-3	རྣམ་པར་འཚེ་བ་ཐམས་ཅད་ལས་རྒྱལ་བར་འགྱུར་ལགས་སོ་༎
+K12mspram_u:1011	 tena rāṣṭrasya sīmābandhayitukāmena susnātena triśuklabhuktena pañcāmiṣaparivarjitena	K12D0558_H0516:531a-4	ཡུལ་འཁོར་མཚམས་གཅད་པར་འཚལ་བ་། ཁྲུས་བགྱིས་པ་། ཟས་དཀར་གསུམ་འཚལ་བ་། ཟས་ངན་པ་རྣམ་པ་ལྔ་སྤངས་པ་།
+K12mspram_u:1012	 sarvamānuṣaśiṣyāpadaparigṛhītena sarvasatvasamācittena vastrābharaṇayuktena grāmanagaranigamaśṛṅgāṭakakulāny	K12D0558_H0516:531a-8	མིའི་བསླབ་པའི་གཞི་ཐམས་ཅད་ཡོངས་སུ་བཟུང་བ་། སེམས་ཅན་ཐམས་ཅད་ལ་སེམས་སྙོམས་པ་།
+K12mspram_u:1013	 apagatasaṃkārakūṭāni kṛtvā madhyamāyāṃ rājadhānyāṃ puṣpāvakīrṇāṃ dharaṇīṃ kṛtvā nānāgandhā dhūpayitavyā /	K12D0558_H0516:531a-10	ཤིན་ཏུ་བརྒྱན་པ་། གོས་དང་། རྒྱན་དང་ལྡན་པ་དེས་གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། ཡུལ་འཁོར་དང་། སུམ་མདོ་དང་། ཁྱིམ་རྣམས་ཉལ་ཉིལ་གྱི་ཕུང་པོ་མ་མཆིས་པར་བགྱིད་ཏེ་རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་གྱི་དབུས་ཀྱི་དོག་ས་རྣམས་སུ་མེ་ཏོག་སིལ་མ་བཀྲམ་ལ་སྤོས་སྣ་ཚོགས་ཀྱིས་རབ་ཏུ་བདུག་པར་བགྱིའོ་༎
+K12mspram_u:1014	 caturdiśaṃ catasraḥ kanyakāḥ susnātavibhūṣitāḥ śastrahastāḥ sthāpayitavyāḥ /  catvāro ghaṇṭāś catvāri ratnabhājanāni gandhodakapuṣpaphalaparipūrṇāni sthāpayitavyāni /	K12D0558_H0516:531a-12	ཕྱོགས་བཞིར་བུ་མོ་ཤིན་ཏུ་ཁྲུས་བགྱིས་པས་བརྒྱན་པ་ལག་ན་མཚོན་ཐོགས་པ་བཞི་དང་། དྲིལ་བུ་བཞི་དང་། རིན་པོ་ཆེའི་སྣོད་བཞི་བཞག་གོ་།
+K12mspram_u:1016	 pūrvāhṇakālasamaye udgate sahasrakiraṇavidyā āvartayitavyā /	K12D0558_H0516:531b-0	སྔ་དྲོའི་དུས་ཀྱི་ཚེ་གདུགས་༄༥༣༡བ་ཤར་བ་དང་། རིག་སྔགས་བཀླགས་པར་བགྱི་སྟེ་མདོ་སྟེ་བཟླས་ཤིང་བཀླག་པར་བགྱིའོ་༎
+K12mspram_u:1017	 palaṣaṣṭhikayā sūtraṃ kartayitavyaṃ likhitvā cīrikāyāṃ mūrdhni mahācaityeṣu mahāvṛkṣeṣu mahādhvajeṣu cocchrāpayitavyā /  nānāpuṣpair nānāgandhaiś ca pakṣamātraṃ pūjā kartavyā /	K12D0558_H0516:531b-1	ཡི་གེར་བྲིས་ཏེ་མཆོད་རྟེན་ཆེན་པོ་དང་། ཤིང་ལྗོན་པ་ཆེན་པོ་དང་། རྒྱལ་མཚན་ཆེན་པོའི་རྩེ་མོ་ལ་བསྟོད་དེ་བཏགས་ལ་མེ་ཏོག་སྣ་ཚོགས་དང་། སྤོས་སྣ་ཚོགས་དག་གིས་དགུང་ཟླ་ཕྱེད་ཀྱི་བར་དུ་མཆོད་པར་བགྱིའོ་༎
+K12mspram_u:1019	 divase divase caikavāraṃ vidyā āvartayitavyā /	K12D0558_H0516:531b-2	གདུགས་རེ་རེ་ཞིང་རིག་སྔགས་ལན་རེ་བཀླག་པར་བགྱིའོ་༎
+K12mspram_u:1020	 evaṃ rāṣṭraḥ parimocito bhaviṣyati /	K12D0558_H0516:531b-3	དེ་ལྟར་ན་ཡུལ་འཁོར་ཡོངས་སུ་ཐར་བར་འགྱུར་རོ་༎
+K12mspram_u:1021	 evaṃ janapadarājadhānīsthānavihāradevakulakṣatraśālāvṛkṣaphalaharitārāmagośālapaśuśālā	K12D0558_H0516:531b-4	དེ་ལྟར་གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། ལྗོངས་དང་། ཡུལ་འཁོར་དང་། ཕོ་བྲང་འཁོར་དང་། གནས་དང༏་གཙུག་ལག་ཁང་དང་། ཁྱིམ་དང་། ཞིང་དང་། ལས་ཁང་དང་། ཤིང་ལྗོན་པ་དང་། འབྲས་བུ་དང་།
+K12mspram_u:1022	 apagatasaṃkārāḥ kṛtvā khadirabadarāgniṃ prajvālya puṣpāvakīrṇāṃ dharaṇīṃ kṛtvā dvāraśālaśobhanāṃ  nānāgandhapradhūpitāṃ kṛtvā sarvabījāni sarpiṣāṃ mrakṣayitvā caturdiśaṃ prakṣeptavyāni /	K12D0558_H0516:531b-5	ནེའུ་སིང་དང་། ཀུན་དགའ་ར་བ་དང་། གནག་ལྷས་དང་། ཕྱུགས་ལྷས་རྣམས་ཉལ་ཉིལ་མ་མཆིས་པར་བགྱིས་ཏེ་སེང་ལྡེང་དང་། རྒྱ་ཤུག་གི་ཞུགས་བལྟམས་ལ་དོག་ས་ལ་མེ་ཏོག་སིལ་མ་བཀྲམ་སྟེ་སྒོ་ཁང་ག-ཡས་ག-ཡོན་ནས་དྲི་སྣ་ཚོགས་ཀྱིས་བདུགས་ལ་ས་བོན་ཐམས་ཅད་མར་གྱིས་བསྐུས་ཏེ་ཕྱོགས་བཞིར་གཏོར་བར་བགྱི་།
+K12mspram_u:1024	 agnau ca prakṣeptavyāni nānāraṅgāni ca sūtrāṇi dvāre bandhanīyāni tiryagyonigatāni niṣkāsya punaḥ praveśayitavyāni /	K12D0558_H0516:531b-6	ཆབ་སྒོར་ཚོན་སྐུད་སྣ་ཚོགས་བྲེ་བར་བགྱིའོ་༎ དུད་འགྲོའི་སྐྱེ་གནས་སུ་གྱུར་པ་དག་ནི་བཏོན་ལ་སླར་ཡང་གཟུད་པར་བགྱིའོ་༎
+K12mspram_u:1025	 vidyā cāvartayitavyāni /	K12D0558_H0516:531b-8	རིག་སྔགས་ཀྱང་བཀླག་པར་བགྱིའོ་༎
+K12mspram_u:1026	 likhitvā granthayitvā cordhvam utthāpya pūjanīyā /	K12D0558_H0516:531b-9	ཡི་གེར་བྲིས་སམ་། མདུད་པ་མདུད་དེ་མཐོན་པོའི་ཁར་བཏགས་ལ་མཆོད་པར་བགྱིའོ་༎
+K12mspram_u:1027	 glānasya purato buddhapratibimbaṃ vā (Msp 31)	K12D0558_H0516:532a-0	ནད་པའི་༄༥༣༢ཨ་༌༎ མདུན་དུ་སངས་རྒྱས་ཀྱི་སྐུ་གཟུགས་སམ་།
+K12mspram_u:1028	 buddhaśarīraṃ vā /	K12D0558_H0516:532a-2	སངས་རྒྱས་ཀྱི་རིང་བསྲེལ་ལམ་།
+K12mspram_u:1029	 samudgatemaṃ cevāpīṭhe vāvaropya brahmapratibimbaṃ vā śakrapratibimbaṃ vā caturmahārājapratibimbaṃ vā catasro mudrāḥ kṛtvā sthāpayitavyāḥ /	K12D0558_H0516:532a-3	ཚངས་པའི་གཟུགས་སམ་། བརྒྱ་བྱིན་གྱི་གཟུགས་སམ་། རྒྱལ་པོ་ཆེན་པོ་བཞིའི་གཟུགས་ཁྲིའུམ་། ཟ་མ་ཏོག་གི་སྟེང་དུ་བཞག་སྟེ་ཕྱག་རྒྱ་བཞི་བགྱིས་ལ་བཞག་པར་བགྱིའོ་༎
+K12mspram_u:1030	 nānāpuṣpair nānādhūpair nānāgandhair brahmaśakracaturmahārājamaheśvarayakṣasenāpatir yakṣamahānagnā hārītī ca namnā trayāṇāṃ ratnānāṃ pūjā kartavyā  teṣāṃ balenaiśvaryādhipatena ca svasty astu mama sarvasatvānāṃ ca muñcantu sarvaglānāḥ sarvavyādhibhyaḥ /	K12D0558_H0516:532a-7	མེ་ཏོག་སྣ་ཚོགས་དང་། སྤོས་སྣ་ཚོགས་དང་། ཚངས་པ་དང་། བརྒྱ་བྱིན་དང༏་རྒྱལ་པོ་ཆེན་པོ་བཞི་དང་། དབང་ཕྱུག་ཆེན་པོ་དང་། གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་དང་། གནོད་སྦྱིན་སྟོབས་པོ་ཆེ་དང་། འཕྲོག་མ་ལ་སོགས་པའི་མིང་གིས་དཀོན་མཆོག་གསུམ་ལ་མཆོད་པར་བགྱིའོ་༎ དེ་རྣམས་ཀྱི་སྟོབས་དང་། དབང་ཕྱུག་དང་། བྱིན་གྱིས་བདག་དགེ་བར་གྱུར་ཅིག་། བདག་ལ་སྲུང་བ་གྱིས་ཤིག་། ནད་ཐམས་ཅད་ལས་ཐར་བར་གྱུར་ཅིག་།
+K12mspram_u:1032	 glānasya cānnapānabhaiṣajyam //  upanāmayatā iyaṃ vidyā āvartayitavyā /	K12D0558_H0516:532a-11	ནད་པའི་ཟས་དང་། སྐོམ་དང་། སྨན་རྣམས་ཀྱང་རིག་སྔགས་འདིས་བཏབ་ཏེ་སྩལ་བར་བགྱིའོ་༎
+K12mspram_u:1034	 vibuddhabodhau saṃbuddhe lokapālāś caturdiśam //	K12D0558_H0516:532a-12	རྫོགས་སངས་རྣམ་པར་སངས་རྒྱས་ཚེ་༎ འཇིག་རྟེན་སྐྱོང་བས་ཕྱོགས་བཞི་ནས་༎
+K12mspram_u:1035	 bhājanāni samānīya catvāri sugatāya vai /	K12D0558_H0516:532a-14	སྣོད་བཞི་དག་ནི་བླངས་ནས་སུ་༎ བདེ་བར་གཤེགས་ལ་ཕུལ་བ་དང་༎ མཐུ་ཡིས་གཅིག་ཏུ་སྤྲུལ་མཛད་པ་༎
+K12mspram_u:1036	 dattāni nirmitaś caiko muninā bhājanottamam //  gṛhītaṃ pāṇinā śāstā bhaiṣajyam amṛtopamam /	K12D0558_H0516:532a-16	ལྷ་ཡི་སྣོད་མཆོག་དེ་དང་ནི་༎ བདུད་རྩི་འདྲ་བའི་སྨན་གྱི་རྣམས་༎ སྟོན་པའི་ཕྱག་ན་བསྣམས་གྱུར་པ་༎
+K12mspram_u:1038	 etena satyavākyena amṛtaṃ bhavantu auṣadham //	K12D0558_H0516:532a-19	བདེན་པའི་ཚིག་ནི་དེ་དག་གིས་༎ སྨན་རྣམས་བདུད་རྩིར་གྱུར་པར་ཤོག་།
+K12mspram_u:1039	 hārītī ca tathā devī gṛhya paśyāṃ tathā śubham /  śāstre dattavatī divyaṃ bhaiṣajyam amṛtopamam //	K12D0558_H0516:532a-21	དེ་བཞིན་ལྷ་མོ་འཕྲོག་མ་ཡིས་༎ ༄༥༣༢བ་ལྷ་རྫས་དགེ་བ་ཨཨ་རུ་ར་༎ བླངས་ནས་སྟོན་ལ་རབ་ཕུལ་བ་༎
+K12mspram_u:1041	 etena satyavākyena āturasya rūjāpaham /	K12D0558_H0516:532b-2	བདུད་རྩི་འདྲ་བའི་སྨན་གྱི་རྣམས་༎ བདེན་པའི་ཚིག་ནི་འདི་དག་གིས་༎ ནད་པ་རྣམས་ཀྱི་ནད་སེལ་ཅིག་། ཉེས་པ་ཐམས་ཅད་འཕྲོག་བྱེད་པ་༎
+K12mspram_u:1042	 sarvam upahāraṃ cāpi bhavatv amṛtam auṣadham //	K12D0558_H0516:532b-6	སྨན་རྣམས་བདུད་རྩིར་གྱུར་པར་ཤོག་།
+K12mspram_u:1043	 vipaśyibuddhatejena śikhinaś ca balena ca /  viśvabhūsatyavākyena krakucchandasamādhinā //  kanakāhvasya jñānena ṛddhyā vai kāśyapasya ca /	K12D0558_H0516:532b-7	སངས་རྒྱས་རྣམ་གཟིགས་གཟི་བརྗིད་དང་༎ གཙུག་ཏོར་ཅན་གྱི་སྟོབས་རྣམས་དང་༎ ཐམས་ཅད་སྐྱོབ་ཀྱི་བདེན་ཚིག་དང་༎ ལོག་དད་སེལ་གྱི་ཏིང་འཛིན་དང་༎ གསེར་ཞེས་བྱ་བའི་ཡེ་ཤེས་དང་༎ འོད་སྲུང་གི་ནི་རྫུ་འཕྲུལ་དང་༎ ཤའཀྱ་སེང་གེའི་མཐུ་རྣམས་ཀྱིས་༎
+K12mspram_u:1046	 śākyasiṃhasya vīryeṇa bhavatv amṛtam auṣadham //	K12D0558_H0516:532b-8	སྨན་རྣམས་བདུད་རྩིར་གྱུར་པར་ཤོག་།
+K12mspram_u:1047	 kṛtvā pūrvāmukhaṃ glānabhaiṣajyam upanāmayet /	K12D0558_H0516:532b-9	ནད་པ་ཤར་ཕྱོགས་ཁ་བསྟན་ལ་༎ སྨན་རྣམས་ཉེ་བར་སྩལ་བར་བགྱི་༎
+K12mspram_u:1048	 imāṃ pāṇitale vidyāṃ tasmin kāle udāharet //  syād yathedam //	K12D0558_H0516:532b-11	དེ་ཡི་ཚེ་ན་རིག་སྔགས་འདི་༎ ལག་མཐིལ་བཞག་སྟེ་བཀླག་པར་བགྱི༏་༏སཡའད་ཡ་ཐེ་ད་ན་། ཁ་ཏེ་། ཁ་ཏེ་།
+K12mspram_u:1050	 khaṭe / khaṭavikhaṭe /	K12D0558_H0516:532b-14	ཁ་ཏེ་། ཁ་ཏེ་བི་ཁ་ཏེ་།
+K12mspram_u:1051	 vimale /	K12D0558_H0516:532b-15	བི་མ་ལེ་།
+K12mspram_u:1052	 vilambe /  bale balavate /	K12D0558_H0516:532b-16	བི་ལམ་བེ་། བ་ལེ་། བ་ལ་བ་ཏི་།
+K12mspram_u:1054	 candre /  caraṇe /	K12D0558_H0516:532b-18	ཙནདྲེ་། ཙ་ར་ནེ་།
+K12mspram_u:1056	 amṛtanirghoṣe svāhā //	K12D0558_H0516:532b-19	ཨཨ་མྲི་ཏ་ནིརགྷོ་ཤེ་སབ༹འ་ཧའ་།
+K12mspram_u:1057	 vātajāḥ pittajā rogāḥ śleṣmajāḥ sannipātajāḥ /	K12D0558_H0516:532b-20	རླུང་ལས་གྱུར་དང་མཁྲིས་ལས་གྱུར་༎ བད་ཀན་ལས་གྱུར་འདུས་ལས་གྱུར་༎
+K12mspram_u:1058	 nihatāḥ sarvarogāś ca svasty astu mama sarvasatvānāṃ ca sarvadā sarvabhayebhyaḥ svāhā //	K12D0558_H0516:532b-22	ནད་རྣམས་ཐམས་ཅད་རབ་བཅོམ་སྟེ་༎ བདག་ལ་རྟག་ཏུ་དགེ་བར་ཤོག་།
+K12mspram_u:1059	 (Msp 32)  sarvakākhordavetāḍasaṃprayukteṣu karmasu tena puruṣeṇa striyā vā 'horātro vapuṣṭena	K12D0558_H0516:532b-25	བུད་མེད་གདུགས་ཞག་གཅིག་སྨྱུང་བ་བགྱིས་པ་། རབ་ཏུ་ཁྲུས་བགྱིས་པ་།
+K12mspram_u:1061	 susnātena subhūṣitena puṣpāvakīrṇāṃ nānāgandhapradhūpitāṃ ca dharaṇīṃ kṛtvā khadiravadarāgniṃ	K12D0558_H0516:533a-0	ཤིན་ཏུ་བརྒྱན་པ་དེས་དོག་ས་ལ་མེ་ཏོག་སིལ་མ་བཀྲམ་སྟེ་སྤོས་སྣ་ཚོགས་ཀྱིས་༄༥༣༣ཨ་༌༎
+K12mspram_u:1062	 prajvālya sarvabījāni caturdiśaṃ prakṣeptavyāni /	K12D0558_H0516:533a-1	བདུགས་ལ་སེང་ལྡེང་དང་། རྒྱ་ཤུགས་རིགས་གཉིས་ཀྱི་ཞུགས་བུས་ཏེ་ས་བོན་ཐམས་ཅད་ཕྱོགས་བཞིར་གཏོར་བར་བགྱིའོ་༎
+K12mspram_u:1063	 nānāraṅgāni ca sūtrāṇi śastreṣu vā śūleṣu vā kunteṣu vā kāṇḍeṣu vā granthayitvā bandhanīyāni sarvamūlāni sarvapuṣpāṇi nānāgandhodakaṃ kṛtvā mahati kuṇḍe prakṣeptavyāni /	K12D0558_H0516:533a-2	ཞུགས་ཀྱི་ནང་དུའང་གཏོར་བར་བགྱིའོ་༎ རྩ་བ་ཐམས་ཅད་དང་། མེ་ཏོག་ཐམས་ཅད་ཚོན་སྐུད་སྣ་ཚོགས་ལ་བརྒྱུས་ཏེ་རལ་གྲིའམ་། མདུང་རྩེ་གསུམ་པའམ་། མདུང་ངམ་། མདའ་ལ་གདགས་པར་བགྱིའོ་༎
+K12mspram_u:1065	 tasya taṃ sūtrakam ābandhya kuṇḍe 'dhiṣṭhāpanīyaḥ śastreṇa taṃ sūtrakaṃ cchitvā agnau prakṣeptavyam /	K12D0558_H0516:533a-7	སྐུད་པའང་རལ་གྲིས་བཅད་དེ་ཞུགས་ཀྱིས་ནང་དུ་དོར་རོ་༎
+K12mspram_u:1066	 idaṃ ca mahāsāhasrapramardanīsūtram udāhartavyam /	K12D0558_H0516:533a-8	སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདིའང་བརྗོད་པར་བགྱིའོ་༎
+K12mspram_u:1067	 buddhāḥ pratyekabuddhāś ca buddhānāṃ śrāvakāś ca ye /	K12D0558_H0516:533a-9	གང་དག་སངས་རྒྱས་རང་སངས་རྒྱས་༎
+K12mspram_u:1068	 brahmendro lokapālāś ca yakṣasenāpatīśvarāḥ //	K12D0558_H0516:533a-10	སངས་རྒྱས་རྣམས་ཀྱི་ཉན་ཐོས་དང་༎ ཚངས་དབང་དང་ནི་འཇིག་རྟེན་སྐྱོང་༎
+K12mspram_u:1069	 tathā yakṣanagnā hārītī ca saputrikā /	K12D0558_H0516:533a-11	གནོད་སྦྱིན་སྡེ་དཔོན་དབང་ཕྱུག་དང་༎ དེ་བཞིན་གནོད་སྦྱིན་སྟོབས་ཆེན་དང༏་༏འཕྲོག་མ་བུ་དང་བཅས་པ་དང་༎ དེ་དག་མཐུ་དང་གཟི་བརྗིད་ཀྱིས་༎
+K12mspram_u:1070	 vīryeṇa tejasā teṣāṃ vetāḍaṃkarma cchidyatu //	K12D0558_H0516:533a-12	རོ་ལངས་ལས་རྣམས་ཆད་གྱུར་ཅིག་།
+K12mspram_u:1071	 bhinnanti vajraratnāni vahnir indhanadāhakaḥ /  vātena śoṣitā meghā bhāskareṇa vanaspatī //	K12D0558_H0516:533a-13	རྡོ་རྗེས་རིན་ཆེན་ཕུག་པ་དང་༎ མེ་ཡིས་བུད་ཤིང་སྲེག་པ་དང་༎ རླུང་གིས་སྤྲིན་ནི་འཐོར་བ་དང་༎ ཉི་མས་ནགས་ཚལ་སྐེམས་བྱེད་པ་༎
+K12mspram_u:1073	 etena satyavākyena kākhordakarma dahatām /	K12D0558_H0516:533a-14	བདེན་པའི་ཚིག་ནི་དེ་དག་གིས་༎ བྱད་སྟེམས་ལས་རྣམས་ཚིག་པར་ཤོག་།
+K12mspram_u:1074	 nānāgandhais tathā puṣpair nirdhūtāḥ sarvapāpakāḥ //	K12D0558_H0516:533b-0	༄༥༣༣བ་སྤོས་དང་མེ་ཏོག་སྣ་ཚོགས་ཀྱིས་༎ སྡིག་པ་ཐམས་ཅད་ངེས་པར་བསལ་༎
+K12mspram_u:1075	 tadyathā /  hume 2 kakhali /	K12D0558_H0516:533b-2	ཏདྱ་ཐའ་། ཧུ་མེ་ཧུ་མེ་། ཀ་ཁ་ལི་། ཀ་ཁ་ལི་།
+K12mspram_u:1077	 kharali /	K12D0558_H0516:533b-5	ཁ་ར་ལེ་།
+K12mspram_u:1078	 jukvini /	K12D0558_H0516:533b-6	ཛུ་ཧབི༹་ནི་།
+K12mspram_u:1079	 javale /	K12D0558_H0516:533b-7	ཛ་བ་ལེ་།
+K12mspram_u:1081	 hariṇi /	K12D0558_H0516:533b-9	ཧ་རི་ནི་ཤའ་བ་རི༏་ཤའནཏི་།
+K12mspram_u:1082	 śāvari śānti /	K12D0558_H0516:533b-10	ཤའནཏི་སབ༹འ་ཧའ་།
+K12mspram_u:1083	 prasānti svāhā //  dhāvani svāhā /  pradhāvani svāhā /	K12D0558_H0516:533b-11	བྷའ་བ་ནི་སབ༹འ་ཧའ་། པྲ་དྷའ་བ་ནི་སབ༹འ་ཧའ་།
+K12mspram_u:1086	 gāndharve svāhā /  palaṅgani svāhā /	K12D0558_H0516:533b-13	གའན་དྷ་ར་བྷེ་སབ༹འ་ཧའ་། པྲ་ལང་གི་ནི་སབ༹འ་ཧའ་།
+K12mspram_u:1088	 sarvakākhordakṛtavetāḍacchedani svāhā //  imair mantrapadair mama sarvasatvānāṃ ca sarvakākhordavetāḍauṣadhimantraviṣayogāḥ sarvadevaiś ccheditāḥ parājitāḥ svāhā //	K12D0558_H0516:533b-15	སརྦ་ཀའ་ཁོར་ཀྲི་ཏ་བེཏའ་རཙཚེ་ད་ནི་སབ༹འ་ཧའ་། ལྷ་ཐམས་ཅད་ཀྱི་གསང་སྔགས་འདི་དག་གིས་བདག་གི་བྱད་སྟེམས་དག་རོ་ལངས་དང་། སྨན་དང་། སྔགས་དང་། དུག་དང་། དུག་སྦྱར་མ་རྣམས་བཅད་དོ་༎ བཤིག་གོ་། ཕམ་པར་བྱས་སོ་༎ ཕ་རོལ་ཕམ་པར་བྱས་སོ་སབ༹འ་ཧའ་།
+K12mspram_u:1090	 galagaṇḍavaisarpātisāronmādagaṇḍapiṭakabhagandaraviṣapītakāt parimocayitukāmena susnātena subhūṣitena bhadrapīṭhāsananiṣaṇṇena iyaṃ vidyā udāhartavyā	K12D0558_H0516:533b-19	ལྦ་བ་དང་། ཤུ་བ་དང་། སྨྱོ་བ་དང་། འབྲས་དང་། འབྲུམ་བུ་དང་། རྐོམ་པོ་དང་། དུག་འཐུངས་པ་ལས་ཐར་བར་འཚལ་བ་། ཤིན་ཏུ་ཁྲུས་བགྱིས་པ༏་ཤིན་ཏུ་བརྒྱན་པ་། སྟན་པ་བཟང་པོའི་སྟེང་དུ་མཆིས་ཏེ་རིག་སྔགས་འདི་བརྗོད་པར་བགྱིའོ་༎
+K12mspram_u:1091	 tejasā sarvabuddhānāṃ pratyekajinatejasā /  arhatāṃ caiva vīryeṇa sarveṣāṃ mantradhāriṇām //  (Msp 33)  prajñayā śāriputrasya maudgalyasya ca ṛddhiyā /  cakṣuṣā cāniruddhasya kāśyapasya dhūtair guṇaiḥ //	K12D0558_H0516:533b-22	སངས་རྒྱས་ཀུན་གྱི་གཟི་བརྗིད་དང་༎ རང་རྒྱལ་དག་གི་གཟི་བརྗིད་དང་༎ དགྲ་བཅོམ་དག་གིས་མཐུ་དག་དང་༎ གསང་སྔགས་འཛིན་པ་ཐམས་ཅད་དང་༎ ཤའ་རིའི་བུ་ཡི་ཤེས་རབ་དང་༎ མོཨོངྒལ་བུ་ཡི་རྫུ་འཕྲུལ་དང་༎ མ་འགགས་པ་ཡི་མིག་དང་ནི༏་༏འོད་སྲུང་སྦྱངས་པའི་ཡོན་ཏན་དང་༎
+K12mspram_u:1096	 kauṇḍinyapūrvaprāptyā ca ānandasya śrutena ca /  maitryā vai brahmaṇā caiva aiśvaryeṇa śatakratoḥ //	K12D0558_H0516:534a-0	ཀོཨོནདི་ནྱས་སྔར་ཐོབ་དང་༎ ཀུན་དགའ་བོ་ཡི་ཐོས་པ་དང་༎ ཚངས་པ་ཡི་ནི་བྱམས་པ་དང་༎ བརྒྱ་བྱིན་གྱི་ནི་དབང་རྣམས་དང་༎ འཇིག་༄༥༣༤ཨ་༌༎
+K12mspram_u:1098	 viṣayair lokapālānāṃ maheśvarabalena ca /  senāpatīnāṃ sauryeṇa hārītyāś ca samṛddhyā //	K12D0558_H0516:534a-1	རྟེན་སྐྱོང་བའི་ཡུལ་རྣམས་དང་༎ དབང་ཕྱུག་ཆེན་པོའི་སྟོབས་དག་དང་༎ སྡེ་དཔོན་རྣམས་ཀྱི་མཐུ་དག་དང་༎ འཕྲོག་མའི་གཟི་བརྗིད་རྫུ་འཕྲུལ་དང༏་༏དེ་དག་རྣམས་ཀྱི་མཐུ་དང་གཟིས་༎
+K12mspram_u:1100	 vīryeṇa tejasā teṣāṃ viṣam astv aviṣaṃ sadā /	K12D0558_H0516:534a-2	བདག་གིས་དུག་ནི་དུག་མེད་ཤོག་།
+K12mspram_u:1101	 tatra mantrapadā bhonti nirviṣā viṣadūṣaṇāḥ //	K12D0558_H0516:534a-3	དུག་མེད་དུག་རྣམས་འཇིགས་བྱེད་པ་༎ གསང་སྔགས་ཚིག་རྣམས་དེ་ལགས་སོ་༎
+K12mspram_u:1102	 syād yathedam /  harikeśi / nakile /  rehile /	K12D0558_H0516:534a-5	སཡའད་ཡ་ཐེ་དན༏་ཧ་རི་ཀེ་ཤི་ན་ཀི་ལི་། ཨཨ་མ་རེ་།
+K12mspram_u:1105	 amare aṇḍare paṇḍare /	K12D0558_H0516:534a-8	ཨཨནད་རེ་། པནད་རེ་།
+K12mspram_u:1106	 kaṭake /	K12D0558_H0516:534a-9	ཀ་ཏ་ཀེ་།
+K12mspram_u:1107	 keyūre /	K12D0558_H0516:534a-10	ཀེ་ཡའུ་རེ་།
+K12mspram_u:1108	 hase hase hase /	K12D0558_H0516:534a-11	ཧ་སེ་ཧ་སེ་ཧ་སེ་།
+K12mspram_u:1109	 khase khase khase /	K12D0558_H0516:534a-12	ཁ་སེ་ཁ་སེ་ཁ་སེ་།
+K12mspram_u:1110	 kharaṅge /	K12D0558_H0516:534a-13	ཁ་རམ་གེ་།
+K12mspram_u:1111	 marugahaṇe svāhā //  mumukṣa svāhā /	K12D0558_H0516:534a-14	མ་རུ་ག་ཧ་ནེ་སབ༹འ་ཧའ་། མུ་མུ་ཀཤུ་སབ༹འ་ཧའ་།
+K12mspram_u:1113	 hile svāhā / mile svāhā //	K12D0558_H0516:534a-16	ཧི་ལེ་སབ༹འ་ཧའ་། མུ་ལེ་སབ༹འ་ཧའ་།
+K12mspram_u:1114	 hatā gaṇḍāḥ kilāsāś ca vaisarpāś ca vicarcikāḥ /  piṭṭakā lohaliṅgāś ca kacchūr bhavati saptamī //	K12D0558_H0516:534a-18	འབྲས་དང་རྨ་དང་ཤུ་བ་དང་༎ ག-ཡན་པ་དང་ནི་འབྲུམ་བུ་དང་༎ ལྷོག་པ་དང་ག-ཡའ་བ་ནི་༎ བདུན་པ་ལགས་ཏེ་རབ་ཏུ་བཅོམ་༎
+K12mspram_u:1116	 rāgo dveṣaś ca mohaś ca ete loke trayo viṣāḥ /	K12D0558_H0516:534a-20	འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་རྣམས་༎ དེ་དག་འཇིག་རྟེན་དུག་གསུམ་སྟེ་༎
+K12mspram_u:1117	 nirviṣo bhagavān buddho buddhatejohataṃ viṣam //	K12D0558_H0516:534a-22	བཅོམ་ལྡན་སངས་རྒྱས་དུག་མི་མངའ༎ སངས་རྒྱས་གཟི་ཡིས་དུག་བཅོམ་མོ་༎
+K12mspram_u:1118	 rāgo dveṣaś ca mohaś ca ete loke trayo viṣāḥ /	K12D0558_H0516:534a-24	འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་རྣམས་༎ དེ་དག་འཇིག་རྟེན་དུག་གསུམ་ཏེ་༎
+K12mspram_u:1119	 nirviṣo bhagavān dharmo dharmatejohataṃ viṣam //	K12D0558_H0516:534a-26	བཅོམ་ལྡན་ཆོས་ནི་དུག་མི་མངའ༎ ཆོས་ཀྱི་གཟི་ཡིས་དུག་བཅོམ་མོ་༎
+K12mspram_u:1120	 rāgo dveṣaś ca mohaś ca ete loke trayo viṣāḥ /	K12D0558_H0516:534a-28	འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་རྣམས་༎ དེ་དག་འཇིག་རྟེན་དུག་གསུམ་སྟེ་༎
+K12mspram_u:1121	 nirviṣo bhagavān saṃghaṃ saṃghatejohataṃ viṣam //	K12D0558_H0516:534a-30	བཅོམ་ལྡན་དགེ་འདུན་དུག་མི་མངའ༎ དགེ་འདུན་གཟི་ཡིས་དུག་བཅོམ་མོ་༎
+K12mspram_u:1122	 viṣasya pṛthivī mātā viṣasya pṛthivī pitā /	K12D0558_H0516:534a-32	ས་ནི་དུག་གི་མ་ཡིན་ཏེ་༎ ས་ནི་དུག་གི་ཕ་ཡང་ཡིན་༎
+K12mspram_u:1123	 etena satyavākyena viṣāḥ sarve syur nirviṣāḥ //	K12D0558_H0516:534b-0	བདེན་༄༥༣༤བ་པའི་བདེན་ཚིག་དེ་དག་གིས་༎ བདག་ནི་དུག་ནི་དུག་མེད་ཤོག་།
+K12mspram_u:1124	 bhūmiṃ saṃkrāmantu viṣaṃ pūrṇapātre vā saṃkrāmantu viṣaṃ svāhā //	K12D0558_H0516:534b-2	དུག་ནི་ས་ཡི་ནང་དུ་སོང་༎ གང་བའི་སྣོད་དུ་དུག་སོང་ཞིག་སབ༹འ་ཧའ་༎
+K12mspram_u:1125	 athātaḥ kalikalahavigrahavivādaparacakraśatrūṇy aparājayitukāmena pūrvaṃ mahācaitye pūjā kartavyā /	K12D0558_H0516:534b-4	དེ་ནས་ཁྲག་ཁྲུག་དང་། འཐབ་པ་དང་། རྩོད་པ་དང༏་འགྱེད་པ་དང་། ཕ་རོལ་གྱི་དམག་ཚོགས་དང་། དགྲ་རྣམས་ལས་རྒྱལ་བར་འཚལ་བས་ཐོག་མར་མཆོད་རྟེན་ཆེན་པོ་ལ་མཆོད་པ་བགྱིའོ་༎
+K12mspram_u:1126	 iyaṃ ca mahāsāhasrapramardanī vidyārājñī pravartayitavyā //	K12D0558_H0516:534b-5	སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་འདིའང་བརྗོད་པར་བགྱིའོ་༎
+K12mspram_u:1127	 buddhena nirjitā mārā dharmeṇa ca adharmatā /	K12D0558_H0516:534b-6	སངས་རྒྱས་ཀྱིས་ནི་བདུད་ཕམ་མཛད་༎ ཆོས་མ་ཡིན་ནི་ཆོས་ཀྱིས་སོ་༎
+K12mspram_u:1128	 saṃghena nirjitā tīrthyā indreṇa asurā jitāḥ /  asurais tu jitaḥ somo vainateyena sāgaraḥ //	K12D0558_H0516:534b-8	དགེ་འདུན་གྱིས་ནི་མུ་སྟེགས་ཕམ་༎ དབང་པོས་ལྷ་མིན་ཕམ་པར་གྱུར་༎ ལྷ་མིན་རྣམས་ཀྱིས་ཟླ་བ་ཕམ་༎ ནམ་མཁའ་ལྡིང་གིས་རྒྱ་མཚོའོ་༎
+K12mspram_u:1131	 agninā ca jitāḥ kāṣṭhā udakenāgniḥ parājitāḥ /	K12D0558_H0516:534b-12	མེ་ཡིས་ཤིང་རྣམས་ཕམ་པར་གྱུར་༎ ཆུས་ནི་མེ་ཡང་ཕམ་པར་འགྱུར་༎
+K12mspram_u:1132	 vātena nirjitā meghā ratnavajreṇa mathyate //	K12D0558_H0516:534b-14	རླུང་གི་སྤྲིན་རྣམས་རབ་ཏུ་ཕམ་༎ རྡོ་རྗེ་ཡིས་ནི་རིན་ཆེན་ཕུག་།
+K12mspram_u:1133	 satyena devās tiṣṭhanti satyena pṛthivī sthitā /	K12D0558_H0516:534b-16	ལྷ་རྣམས་བདེན་པར་རབ་ཏུ་གསུངས་༎ ས་ཡང་བདེན་པར་གནས་པ་ལགས་༎
+K12mspram_u:1134	 satyaṃ buddhaś ca dharmaś ca satyaṃ jayatu mā mṛṣāḥ //	K12D0558_H0516:534b-18	སངས་རྒྱས་དང་ནི་ཆོས་ཀྱང་བདེན་༎ བདེན་པ་རྒྱལ་གྱུར་བརྫུན་མ་ལགས་༎
+K12mspram_u:1136	 amṛte agrapuṣpe /	K12D0558_H0516:534b-21	ཨཨ་མྲི་ཏེ་། ཨཨ་གྲ་པུཤཔེ་།
+K12mspram_u:1140	 dharadharaṇi /  guhyāvarte /  gautame /	K12D0558_H0516:534b-27	བ་ར་ཏེ་དྷ་ར་ནི་། གུ་ཧཡའ་བ་ར་ཏེ༏་གོཨོ་ཏ་མེ་། གུ་གུ་མ་ཏི་།
+K12mspram_u:1143	 guptamati /  jambhani svāhā //  balaprabhañjani svāhā //	K12D0558_H0516:534b-30	ཛམབྷ་ནི་སབ༹འ་ཧའ་། པྲ་ཛམབྷ་ནི་སབ༹འ་ཧའ་། བ་ལ་པྲ་བྷཉཛ་ནི་སབ༹འ་ཧའ་།
+K12mspram_u:1146	 jaye svāhā //  vijaye svāhā /  jaye vijaye svāhā //	K12D0558_H0516:534b-33	ཛ་ཡེ་སབ༹འ་ཧའ་། བི་ཛ་ཡེ་སབ༹འ་ཧའ་། ཛ་ཡ་བི་ཛ་ཡེ་སབ༹འ་ཧའ་།
+K12mspram_u:1149	 jitāḥ pratyarthikāś caiva sarvapāpāḥ parājitāḥ /	K12D0558_H0516:534b-36	ཕྱིར་རྒོལ་བ་ནི་ཀུན་ལས་རྒྱལ་༎ སྡིག་པ་ཐམས་༄༥༣༥ཨ་༌༎ ཅད་རབ་ཏུ་ཕམ་སབ༹འ་ཧའ་།
+K12mspram_u:1150	 tato 'tha śāstā sarvajña imāṃ gāthām abhāṣata //	K12D0558_H0516:535a-2	དེ་ནས་སྟོན་པ་ཀུན་མཁྱེན་གྱིས་༎ ཚིགས་སུ་བཅད་པ་འདི་དག་གསུངས་༎
+K12mspram_u:1151	 akṣobhyarājo avalokiteśvaro 'mitābhanemīratanārcimeruḥ /	K12D0558_H0516:535a-4	མི་འཁྲུགས་པ་དང་སྣང་མཛད་སྤྱན་རས་གཟིགས་ཀྱི་དབང་༎ རིན་ཆེན་འོད་འཕྲོ་རི་རབ་མུ་ཁྱུད་འོད་དཔག་མེད་༎
+K12mspram_u:1152	 vajrasya co nāma gṛhītvā sarvadā naivaṃ bhayaṃ bhonti na chambitatvam //	K12D0558_H0516:535a-6	རྡོ་རྗེ་རྣམས་ཀྱི་མཚན་རྣམས་རྟག་ཏུ་བཟུང་ན་ནི་༎ འཇིགས་པར་འགྱུར་བ་མ་ཡིན་ནོན་པར་མི་འགྱུར་རོ་༎
+K12mspram_u:1153	 ya eṣān aṣṭān mahādyutīnāṃ nāmāni kīrteya anugrahārtham /	K12D0558_H0516:535a-8	གང་གིས་མཐུ་སྟོབས་ཆེན་པོ་བརྒྱད་པོ་འདི་དག་གི་། མཚན་རྣམས་རྗེས་སུ་གཟུང་བའི་ཕྱིར་ནི་རབ་བརྗོད་ཅིང་༎
+K12mspram_u:1154	 na tasya agnir na viṣaṃ na śastraṃ krameṇa kāye kṛta sapavitre //	K12D0558_H0516:535a-10	ཀུན་ཏུ་བསྐྱབ་པ་བྱས་ན་དེ་ཡི་ལུས་ལ་ནི་༎ མེ་དང་དུག་དང་མཚོན་གྱིས་ཚུགས་པར་མི་འགྱུར་རོ་༎
+K12mspram_u:1155	 saced asau āghātane upasthite utkṛṣṭaśastre vadhake ca saṃmukham /	K12D0558_H0516:535a-12	གལ་ཏེ་དེ་ལ་གནོད་པ་བྱེད་པ་ཉེ་བར་གནས་༎ གཤེད་མས་མཚོན་རྣམས་ཀྱིས་ནི་གདབ་པར་གཟས་པ་ལས་༎
+K12mspram_u:1156	 anusmaranto avalokiteśvaraṃ te khaṇḍakhaṇḍaṃ prapateyuḥ śastrāḥ //	K12D0558_H0516:535a-14	སྤྱན་རས་གཟིགས་ཀྱི་དབང་པོ་རྗེས་སུ་དྲན་ན་ནི་༎ མཚོན་ཆ་དེ་དག་དུམ་བུ་དུམ་བུར་ཆག་ཅིང་འབྲུལ་༎
+K12mspram_u:1157	 saced udgṛhītaṃ pi bhaveta śastraṃ bhañjitvā pāṇiṃ dharaṇīṃ pateyuḥ /	K12D0558_H0516:535a-16	གལ་ཏེ་མཚོན་ཆ་རྣམས་ནི་ཐོགས་པར་གྱུར་ན་ཡང་༎ ལག་པ་ཆག་ནས་ས་ལ་རབ་ཏུ་ལྟུང་བར་འགྱུར་༎
+K12mspram_u:1158	 na tasya kāye nipateya kiṃcid anyatra karma pūrimena yat kṛtam //	K12D0558_H0516:535a-18	དེ་ཡི་ལུས་ལ་ཅུང་ཟད་འབབ་པར་མི་འགྱུར་ཏེ་༎ སྔན་ཆད་བྱས་པ་གང་ཡིན་པ་ནི་མ་གཏོགས་སོ་༎
+K12mspram_u:1159	 samagradevā imaṃ gāthāṃ bhāṣiṣuḥ /	K12D0558_H0516:535a-20	ལྷ་རྣམས་ཀྱིས་མཐུན་པར་ཚིགས་སུ་བཅད་པ་འདི་དག་གསོལ་ཏོ་༎
+K12mspram_u:1160	 namo 'stu te buddha anantagocarā namo 'stu te satyaprakāśakā mune /	K12D0558_H0516:535a-21	སངས་རྒྱས་སྤྱོད་ཡུལ་མཐའ་ཡས་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎ བདེན་པ་རབ་སྟོན་ཐུབ་པ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:1161	 satyaṃ pratiṣṭhāya prajāya mocase sarve ca kāmāḥ saphālā bhavantu //  (Msp 35)	K12D0558_H0516:535a-23	དེང་ནི་བདེན་པ་རྣམས་ལ་གནས་ནས་མཆི་བར་བགྱི་༎ བདག་གི་ལས་༄༥༣༥བ་རྣམས་ཐམས་ཅད་འབྲས་བུར་བཅས་གྱུར་ཅིག་།
+K12mspram_u:1163	 mama sarvasatvānāṃ ca svāhā //  tato brahmā mahābrahmā utthito 'tha kṛtāñjaliḥ /	K12D0558_H0516:535b-1	དེ་ནས་ཚངས་པ་ཚངས་ཆེན་གྱིས་༎ ལངས་ཏེ་ཐལ་མོ་སྦྱར་བཏུད་ནས་༎
+K12mspram_u:1165	 subhāṣitā iyaṃ vidyā mahāsāhasrapramardinī //	K12D0558_H0516:535b-4	ལེགས་པར་གསུངས་པའི་རིཨིག་སྔགས་འདི་༎
+K12mspram_u:1166	 vidyām aham pravakṣāmi dārakānāṃ hitaṃkarī /	K12D0558_H0516:535b-5	བྱིས་པ་རྣམས་ལ་ཕན་བགྱིད་པ་༎ རིག་སྔགས་བདག་གིས་བརྗོད་པར་བགྱི་༎
+K12mspram_u:1167	 buddhavīraṃ namasyāmi dharmarājaṃ śubhākaraṃ //  yena prathamato vidyā jaṃbudvīpe prakāśitā /	K12D0558_H0516:535b-7	གང་གིས་དང་པོར་འཛམ་གླིང་དུ་༎ རིག་སྔགས་རབ་ཏུ་སྟོན་མཛད་པ་༎ ཆོས་ཀྱི་རྒྱལ་པོ་སྣང་མཛད་པ་༎ སངས་རྒྱས་དཔལ་ལ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:1169	 dharmāya ca viśiṣṭhāya saṃghāya ca gaṇottame //	K12D0558_H0516:535b-11	ཁྱད་པར་འཕགས་པའི་ཆོས་རྣམས་དང་༎ ཚོགས་ཀྱི་དམ་པ་དགེ་འདུན་དང་༎ སངས་རྒྱས་ཞབས་ལ་ཕྱག་འཚལ་ནས་༎
+K12mspram_u:1170	 buddhasya pādau vanditvā brahmā vacanam abravīt /	K12D0558_H0516:535b-12	ཚངས་པས་འདི་སྐད་ཚིག་གསོལ་ཏོ་༎
+K12mspram_u:1171	 buddhāḥ pratyekabuddhāś ca buddhānāṃ śrāvakāś ca ye //  ṛṣayo lokapālāś ca yāvanto devatāpi ca /	K12D0558_H0516:535b-13	གང་དག་སངས་རྒྱས་རང་སངས་རྒྱས་༎ སངས་རྒྱས་ཀྱི་ནི་ཉན་ཐོས་དང་༎ དྲང་སྲོང་དང་ནི་འཇིག་རྟེན་སྐྱོང་༎ ལྷ་རྣམས་ཇི་སྙེད་མཆིས་པ་དག་།
+K12mspram_u:1173	 ito mānuṣyalokataḥ sarva ete samutthitāḥ //  santīha rākṣasā ghorā garbharakṣā mahāmune /	K12D0558_H0516:535b-16	དེ་ཀུན་མི་ཡི་འཇིག་རྟེན་ན་༎ འདི་ལས་སྐྱེས་པ་ཤ་སྟག་གོ་། གནོད་སྦྱིན་སྲིན་པོ་འདི་ན་མཆིས་༎
+K12mspram_u:1175	 śakyo na te 'pi ca draṣṭuṃ nāpi śakyāś caturdiśam //	K12D0558_H0516:535b-20	རྒྱལ་པོ་རྣམས་ཀྱིས་མཐོང་མི་ནུས་༎ བསྟན་པར་ཡང་ནི་མི་ནུས་སོ་༎
+K12mspram_u:1176	 yāsāṃ putro na jāyante yāsāṃ garbho na tiṣṭhati /  naranārīsaṃprayogena saṃpramuhyanti indriyā //	K12D0558_H0516:535b-22	གང་ལ་བུ་ནི་མི་འཆགས་དང་༎ གང་གི་མངལ་ནི་མི་གནས་དང་༎ སྐྱེས་པ་བུད་མེད་འདུ་བ་ནི་༎ དབང་པོ་རྣམས་ནི་མྱོས་པར་བགྱིད་༎
+K12mspram_u:1178	 putrabījaṃ vināśyanti kalalaṃ vā sabudbudaṃ /	K12D0558_H0516:535b-24	མེར་མེར་པོ་དང་ནུར་ནུར་པོ་༎ བུ་ཡི་ས་བོན་མ་རུང་བགྱིད་༎
+K12mspram_u:1179	 niṣpannā garbhayā ca strī jāyate na viśalyate //	K12D0558_H0516:535b-26	གང་ཡང་མངལ་ནི་ཐུར་དུ་གྱུར་༎ ཤ་མ་མི་འབྱུང་གནོད་བགྱིད་པ་༎
+K12mspram_u:1180	 nāmāni teṣām ākhyāse lokanātha śṛṇohi me /	K12D0558_H0516:535b-28	དེ་རྣམས་ཀྱི་ནི་མིང་བརྗོད་ཀྱི་༎
+K12mspram_u:1190	 apasmāragṛhītas tu pheṇaṃ lālāṃ ca muñcati /	K12D0558_H0516:536a-19	དབུ་བ་དང་ནི་ཁ་ཆུ་འཛག་།
+K12mspram_u:1191	 muṣṭikāpragṛhītasya muṣṭibaddhā na muñcati //	K12D0558_H0516:536a-20	ཁུ་ཚུར་ཅན་གྱིས་རབ་ཟིན་ན་༎ ཁུ་ཚུར་འཆང་ཞིང་འབྱེད་པར་བགྱིད་༎
+K12mspram_u:1192	 mātṛkāsaṃgṛhītasya stanate hasate tathā /	K12D0558_H0516:536a-22	མ་མོ་ཡིས་ནི་ཟིན་གྱུར་ན་༎ རྒོད་ཅིང་དེ་བཞིན་སྒྲ་ཡང་འབྱིན་༎
+K12mspram_u:1194	 jāmikāsaṃgṛhītas tu nābhinandati sa stanau //	K12D0558_H0516:536a-24	ཛ་མི་ཀས་ནི་རབ་ཟིན་ན་༎ ནུ་ཞོ་ནུ་བར་མངོན་མི་དགའ༎
+K12mspram_u:1195	 kāminīpragṛhītas tu prasuptaḥ saṃprarodati /  revatīpragṛhītas tu jihvā dantaiḥ prakhādati //	K12D0558_H0516:536a-26	འདོད་པ་ཅན་གྱིས་རབ་ཟིན་ན་༎ མལ་ན་གཉིད་ལོག་དུ་བར་འགྱུར་༎ ནམ་གྲུས་རབ་ཏུ་ཟིན་གྱུར་ན་༎ ལྕེ་ལ་སོས་ནི་འཆའ་བར་བགྱིད་༎
+K12mspram_u:1197	 pūtanāpragṛhītas tu kāsate bhanate tathā /	K12D0558_H0516:536a-30	སྲུལ་པོས་རབ་ཏུ་ཟིན་གྱུར་ན་༎ ཀུ་ཅོ་འདོན་ཅིང་སྒྲ་ཡང་འབྱིན་༎
+K12mspram_u:1198	 mātṛnandāgṛhītas tu vicitrarūpam ādiśet //	K12D0558_H0516:536b-0	མ་དགའ་བྱེད་༄༥༣༦བ་པས་ཟིན་གྱུར་ན་༎ རྣམ་པ་སྣ་ཚོགས་གཟུགས་སུ་འགྱུར་༎
+K12mspram_u:1199	 śakunīpragṛhītasya gandhipūtiṃ pravāyate /  kaṇṭhapāṇigṛhītasya kaṇṭhaḥ saṃparirudhyate //	K12D0558_H0516:536b-2	བྱ་ཡིས་རབ་ཏུ་ཟིན་གྱུར་ན་༎ མནམ་པའི་དྲི་ནི་འབྱུང་བར་འགྱུར་༎ གཉའ་ལག་ཅན་གྱིས་ཟིན་གྱུར་ན་༎ མགུལ་པ་རབ་ཏུ་འགག་པར་འགྱུར་༎ བཞིན་རྒྱན་གྱིས་ནི་ཟིན་གྱུར་ན་༎
+K12mspram_u:1201	 mukhamaṇḍīgṛhītas tu jvaryate ca viricyate /  ālambāpragṛhītasya hikkāśvāsaś ca jāyate //	K12D0558_H0516:536b-7	རིམས་ཀྱིས་བཏབ་ཅིང་འཁྲུ་བར་འགྱུར་༎ མིག་འཕྱང་བས་ནི་ཟིན་གྱུར་ན་༎ སྐྱིགས་བུ་དང་ནི་སྔམ་པ་འབྱུང་༎
+K12mspram_u:1203	 tatra rūpaṃ samākhyāsye yathā trāsyanti dārakān /	K12D0558_H0516:536b-10	བྱིས་པ་ཇི་ལྟར་སྐྲག་བགྱིད་པ་༎ འཇམ་པ་པོ་ནི་བ་ལང་གཟུགས་༎
+K12mspram_u:1204	 mañjuko gavarūpeṇa mṛgarājo mṛgo yathā //	K12D0558_H0516:536b-13	རི་དགས་རྒྱལ་པོ་རི་དགས་འདྲ་༎
+K12mspram_u:1205	 skandaḥ kumārarūpeṇa apasmāraḥ śṛgālavat /	K12D0558_H0516:536b-14	སྐེམ་བྱེད་པ་ནི་གཞོན་ནུའི་གཟུགས་༎ བརྗེད་བྱེད་པ་ནི་ཝ་འདྲ་འོ་༎
+K12mspram_u:1206	 muṣṭikā kākarūpeṇa chāgarūpeṇa mātṛkā //	K12D0558_H0516:536b-16	ཁུ་ཚུར་ཅན་ནི་བྱ་རོག་གཟུགས་༎ མ་མོ་དེ་ནི་མི་ཡི་གཟུགས་༎
+K12mspram_u:1207	 jāmikā aśvarūpeṇa ghoṣarūpeṇa kāminī /	K12D0558_H0516:536b-18	ཛ་མི་ཀ་ནི་རྟ་ཡི་གཟུགས་༎ འདོད་པ་ཅན་ནི་རྡོ་རྗེའི་གཟུགས་༎
+K12mspram_u:1208	 revatī śvānarūpeṇa śukarūpeṇa pūtanā //	K12D0558_H0516:536b-20	ནམ་གྲུ་ཁྱི་ཡི་གཟུགས་ཀྱིས་ཏེ་༎ སྲུལ་པོ་ཕག་གི་གཟུགས་ཀྱིས་སོ་༎
+K12mspram_u:1209	 mātṛnandā viḍālena śakuni pakṣirūpiṇī /  kaṇṭhapāṇī kaukkuṭena aulūkena mukhamaṇḍikā //  ālambā jatrurūpeṇa etās trāsyanti dārakāḥ /	K12D0558_H0516:536b-22	མ་དགའ་བྱེད་པ་བྱི་ལའི་གཟུགས་༎ བྱ་ནི་འདབ་ཆགས་གཟུགས་ཀྱིས་སོ་༎ གཉའ་ལག་ཅན་ནི་བྱ་གག་གཟུགས་༎ བཞིན་རྒྱན་འུག་པའི་གཟུགས་སུ་ཏེ་༎ མིག་འཕྱང་བ་ནི་ཕ་ཝང་གཟུགས་༎
+K12mspram_u:1212	 etāḥ śukraharā ghorā dārakānāṃ bhayaṃkarāḥ //	K12D0558_H0516:536b-27	འདི་དག་བྱིས་པ་སྐྲག་པར་བགྱིད་༎ འདི་དག་བུ་འཕྲོག་མ་རུངས་པ་༎ བྱིས་པ་རྣམས་ལ་འཇིགས་བགྱིད་པ་༎
+K12mspram_u:1213	 etāḥ samānayiṣyāmi sūtrapāśena karṣitāḥ /	K12D0558_H0516:536b-30	མདོ་སྡེའི་ཞགས་པས་དྲངས་ནས་ནི་༎ འདི་དག་ཤིན་ཏུ་དགུག་པར་བགྱིད་༎
+K12mspram_u:1214	 candano nāma gandharvo yakṣasenāpatir mahān //	K12D0558_H0516:536b-32	གནོད་སྦྱིན་སྡེ་དཔོན་ཆེན་པོ་ནི་༎ དྲི་ཟ་ཙནདན་ཞེས་བགྱི་བ་༎
+K12mspram_u:1215	 tasya lekhaṃ ca mudrāṃ ca datvā dūtyena preṣayet /	K12D0558_H0516:536b-34	ཡི་གེ་ཕྱག་རྒྱ་དེ་སྩལ་དེ་༎ སོང་ལ་གདོན་༄༥༣༧ཨ་༌༎
+K12mspram_u:1216	 ugrān grantha samānehi tvaṃ tān pañcadaśān grahān //	K12D0558_H0516:537a-2	བཅོ་ལྔ་དེ་དག་ཁུག་ཅིག་ཅེས་༎ ཕོ་ཉར་ཡང་ནི་བཏང་བར་བགྱི་༎
+K12mspram_u:1217	 tena tatkṣaṇam ānītāḥ pañcabandhanapīḍitāḥ /  tato 'bravīt mahābrahmā lokanāthaṃ kṛtāñjaliḥ //	K12D0558_H0516:537a-4	དེ་དག་རྣམས་ནི་སྐད་ཅིག་གིས་༎ བཅིང་བ་ལྔ་ཡི་བཅིང་བཞིན་བཀུག་དེ་ནས་འཇིག་རྟེན་མགོན་པོ་ལ་༎ ཚངས་ཆེན་ཐལ་སྦྱར་འདི་སྐད་གསོལ་༎
+K12mspram_u:1219	 etāni tāni bhūtāni bījaṃ nāśenti prāṇinām /	K12D0558_H0516:537a-7	སྲོག་ཆགས་ས་བོན་འཇིག་བགྱིད་པ་༎ འབྱུང་པོ་འདི་དག་རྣམས་ལྷགས་ཏེ་༎
+K12mspram_u:1220	 teṣāṃ daṇḍaṃ praṇeṣyāmi lokanāthasya saṃmukhaṃ //	K12D0558_H0516:537a-9	མགོན་པོ་ཡི་ནི་སྤྱན་སྔ་རུ་༎ འདི་དག་ཆད་པས་བཤད་པར་བགྱིད་༎
+K12mspram_u:1221	 yasyā na jāyate putro jāto vā yasya gṛhyate /	K12D0558_H0516:537a-11	བུད་མེད་གང་དག་བུ་མི་འཚལ་༎ གང་ཞིག་བཙས་པ་འཛིན་འཚལ་བས་༎
+K12mspram_u:1222	 śiṣyā saddharmacaraṇa aṣṭamīṃ sa caturdaśim //	K12D0558_H0516:537a-13	ཚེས་བརྒྱད་དང་ནི་བཅུ་བཞི་ལ་༎ བསླབ་གཟུང་དམ་ཆོས་སྐྱབས་མཆིས་ལ་༎
+K12mspram_u:1223	 caityaṃ saṃpūjayitvā tu susnātāḥ suvibhūṣitāḥ /  (Msp 37)	K12D0558_H0516:537a-15	མཆོད་རྟེན་ལེགས་པར་མཆོད་པར་བགྱི་༎ ཁྲུས་བགྱིས་ཤིན་ཏུ་བརྒྱན་ནས་ནི་༎
+K12mspram_u:1225	 sarṣapāliptadharaṇīṃ puṣpagandhasamākulāḥ //	K12D0558_H0516:537a-17	ས་གཞིར་ཡུངས་ཀར་གཏོར་ནས་སུ་༎ མེ་ཏོག་སྤོས་ཀྱིས་བརྒྱན་པར་བགྱི་༎
+K12mspram_u:1226	 pañcaraṅgena sūtreṇa granthīnāṃ kārayec chatam /	K12D0558_H0516:537a-19	སྣ་ལྔའི་ཚོན་གྱི་སྐུད་པས་ནི་༎ ཁོར་ཡུག་ཏུ་ནི་བསྐོར་བར་བགྱི་༎
+K12mspram_u:1227	 ardharātre sthite kāle mūṣṭiṃ sthitvā tu sarṣapān //  brahmanirmitam ity āhur brahmaṇā ca prakaṃpitāḥ /	K12D0558_H0516:537a-21	ནམ་ཕྱེད་བར་དུ་མཆིས་ནས་ནི་༎ སྤྱི་བོར་ཡུངས་ཀར་བཞག་ནས་སུ༏་༏ཚངས་པས་རབ་ཏུ་བྱས་པ་ཏེ་༎ ཚངས་པས་སྤྲུལ་ཅེས་བརྗོད་པར་བགྱི་༎
+K12mspram_u:1229	 yāvad dvādaśavarṣāṇāṃ kumārāṇāṃ hitaṃkarī //	K12D0558_H0516:537a-24	ལོ་གྲངས་བཅུ་གཉིས་བར་དུ་ནི་༎ གཞོན་ནུ་རྣམས་ལ་ཕན་བགྱིད་པ་༎
+K12mspram_u:123	 vahale /  bhage /  bhagandare /  vaśe vaśavartini / svāhā //  mucyantu sarvasatvāḥ sarvagrahebhyo dhṛtarāṣṭrasya mahārājasya nāmnā balenaiśvaryādhipatyena ca svāhā //	K12D0558_H0516:508a-29	རྒྱལ་པོ་ཆེན་པོ་རྣམ་ཐོས་ཀྱི་བུའི་མིང་དང་། སྟོབས་དང་། དབང་ཕྱུག་དང་། བྱིན་གྱིས་བདག་དགེ་བར་གྱུར་ཅིག་སབ༹འཧའ་།
+K12mspram_u:1230	 yo imām atikramed vidyāsūtraṃ brahmaṇā nirmitām /	K12D0558_H0516:537a-26	ཚངས་པས་སྤྲུལ་པའི་མདོ་སྡེ་ཡི་༎ རིག་སྔགས་འདི་ལ་གང་གདང་བ་༎
+K12mspram_u:1231	 saptadhāsya sphuṭen mūrdhā arjakasyeva mañjarī //	K12D0558_H0516:537a-28	ཨཨརྫ་ཀ་ཡི་དོག་པ་བཞིན་༎ མགོ་བོ་ཚལ་པ་བདུན་དུ་འགས་༎
+K12mspram_u:1232	 syād yathedam /  aṅge vaṅge bhaṅge /	K12D0558_H0516:537a-31	ཨཨམ་གེ་། བམ་གེ་། བམ་གི་ནི་།
+K12mspram_u:1235	 inandi vinandi /	K12D0558_H0516:537b-0	ཨཻ་ནནདེ་། ༄༥༣༧བ་བི་ནནདེ་།
+K12mspram_u:1237	 giri /  garari /  garuṇi /	K12D0558_H0516:537b-2	གི་རི་གི་རི་། ཤ་བ་རི་། ག་རུ་ནི་།
+K12mspram_u:1240	 śaruṇi /	K12D0558_H0516:537b-5	ཤ་རུ་ནི་།
+K12mspram_u:1241	 girigavare /	K12D0558_H0516:537b-6	གི་རི་། ག་བ་རེ་།
+K12mspram_u:1242	 locane /	K12D0558_H0516:537b-7	ལོ་ཙ་ནི་།
+K12mspram_u:1243	 roṣaṇe /	K12D0558_H0516:537b-8	རོ་ཤ་ནི་།
+K12mspram_u:1244	 lasane /	K12D0558_H0516:537b-9	ལ་ས་ནེ་།
+K12mspram_u:1245	 rocane /	K12D0558_H0516:537b-10	རོ་ཙ་ནེ་།
+K12mspram_u:1246	 alabhe /	K12D0558_H0516:537b-11	ཨཨ་ལ་བྷེ་།
+K12mspram_u:1247	 aṅgane /	K12D0558_H0516:537b-12	ཨཨ་ག་ནེ་།
+K12mspram_u:1248	 alaphe talaphe /	K12D0558_H0516:537b-13	ཨཨ་ལ་བྷེ་། ཏ་ལ་བྷེ་།
+K12mspram_u:1249	 prakarṣaṇi svāhā //	K12D0558_H0516:537b-15	པྲ་ཀརཤ་ནི་སབ༹འ་ཧའ་།
+K12mspram_u:1250	 kṣipraṃ saṃtiṣṭhatāṃ garbhaḥ samyag vardhantu indriyā /	K12D0558_H0516:537b-16	མངལ་ན་བདེ་བར་གནས་གྱུར་ཅིག་། དབང་པོ་ཡང་དག་འཕེལ་བར་ཤོག་།
+K12mspram_u:1251	 garbhasthāḥ sukhino bhontu mā ca naśyantu jātakāḥ //	K12D0558_H0516:537b-18	མངལ་ན་འདུག་པ་བདེར་གྱུར་ཅིག་། བཙས་པ་འཇིག་པར་མ་གྱུར་ཅིག་།
+K12mspram_u:1252	 svasthaḥ saṃtiṣṭhatāṃ garbhaḥ kālena parimucyate /	K12D0558_H0516:537b-20	མངལ་ན་བདེ་བར་གནས་གྱུར་ཅིག་། དུས་བཞིན་དུ་ནི་འབྱུང་བར་ཤོག་།
+K12mspram_u:1253	 nānāraṅgāṇi sūtrāṇi akṣatā gaurasarṣapāḥ //	K12D0558_H0516:537b-22	ཚོན་སྐུད་སྣ་ཚོགས་རྣམས་དང་ནི་༎ ཡུངས་ཀར་འབྲུ་ནི་མ་གྲུགས་པ་༎
+K12mspram_u:1254	 eṣā rakṣā samākhyātā ciraṃ jīvantu dārakāḥ /	K12D0558_H0516:537b-24	དེ་དག་བསྲུང་བར་གསུངས་པ་སྟེ་༎ བྱིས་པ་རིང་དུ་འཚོ་བར་ཤོག་།
+K12mspram_u:1255	 tato 'tha śāstā sarvajña imāṃ gāthām udāharet //	K12D0558_H0516:537b-26	དེ་ནས་སྟོན་པ་ཀུན་མཁྱེན་གྱིས་༎ རིག་པའི་སྔགས་ནི་འདི་དག་གསུངས་༎
+K12mspram_u:1256	 rakṣito bhavantu garbhaḥ sukhaṃ modantu dārakāḥ /	K12D0558_H0516:537b-28	མངལ་ན་འདུག་པ་བསྲུང་བར་ཤོག་། བྱིས་པ་རྣམས་ནི་བདེར་གྱུར་ཅིག་།
+K12mspram_u:1258	 bodhi bodhi /	K12D0558_H0516:537b-31	བོ་དྷི་བོ་དྷི་།
+K12mspram_u:1259	 mahābodhi /	K12D0558_H0516:537b-32	མཧའ་བོ་དྷི་།
+K12mspram_u:1260	 bodhānumate /	K12D0558_H0516:537b-33	བྷོ་དྷ་ཨཨ་ནུ་མ་ཏེ་།
+K12mspram_u:1261	 phalini /	K12D0558_H0516:537b-34	ཕ་ལི་ནི་།
+K12mspram_u:1262	 bahuphale /	K12D0558_H0516:537b-35	བ་ཧུ་ཕ་ལེ་།
+K12mspram_u:1263	 śikṣe /  śikṣāsāravate /	K12D0558_H0516:537b-36	ཤིཀཤ་ཤིཀཤ་། སའ་ར་བ་ཏེ་། སའེ་ར་བ་ཏེ་།
+K12mspram_u:1265	 sāgale /	K12D0558_H0516:537b-38	སའ་ག་ལི་།
+K12mspram_u:1266	 durāsade /  dūrāgame /	K12D0558_H0516:537b-39	དུ་རའ་ས་དེ་། དུ་རའ་ག་མེ་།
+K12mspram_u:1268	 śūraprāpte /	K12D0558_H0516:537b-41	ཤའུ་ར་པྲཔཏེ་།
+K12mspram_u:1269	 śūravate /	K12D0558_H0516:537b-42	ཤའུ་ར་བ་ཏེ་།
+K12mspram_u:1270	 bhage /  bhagābhage /  bhagini /  nivāriṇi svāhā //	K12D0558_H0516:537b-43	བྷ་གེ་། བྷ་གའ་བྷ་གེ་། བྷའ་གི་ནི་ནི་བའ་ར་ནི་སབ༹འ་ཧའ་།
+K12mspram_u:1274	 tato grahāḥ pañcadaśāḥ sarvadā rudhirāśinaḥ /	K12D0558_H0516:537b-45	དེ་ནས་གདོན་ནི་བཅོ་ལྔ་པོ་༎ རྟག་ཏུ་ཁྲག་ལ་འཐུང་རྣམས་ཀྱིས་༎
+K12mspram_u:1275	 namaskṛtvāñjalikarā lokanāthaṃ samabruvan //	K12D0558_H0516:537b-47	འཇིག་རྟེན་མགོན་ལ་ཕྱག་བཙལ་ཏེ་༎ ཐལ་མོ་སྦྱར་ནས་འདི་སྐད་གསོལ་༎
+K12mspram_u:1276	 yatredaṃ nagare sūtraṃ grāme vā yadi vā gṛhe /	K12D0558_H0516:537b-49	གྲོང་ངམ་ཁྱིམ་མམ་གྲོང་ཁྱེར་རམ་༎
+K12mspram_u:1277	 nātra bālā mariṣyanti yatra tiṣṭhet subhāṣitaṃ //	K12D0558_H0516:537b-50	གང་ན་ལེགས་པར་གསུངས་པ་ཡི་༎ མདོ་སྡེ་འདི་ནི་བཞུགས་པ་དེར་༎ བྱིས་པ་རྣམས་ནི་འཆི་མི་འགྱུར་༎
+K12mspram_u:1278	 anuvṛṣṭyā bhajiṣyāmo yathā tava mahāmuni /	K12D0558_H0516:538a-0	ཐུབ་ཆེན་ཁྱོད་ནི་༄༥༣༨ཨ་༌༎ ཇི་བཞིན་དུ་༎ རྗེས་སུ་མཐུན་པར་འཇུག་པར་བགྱི་༎
+K12mspram_u:1279	 namo bhagavate buddhāya namo brahmaṇe sidhyantu //  mantrapadās tārayantu imāṃ vidyāṃ brahmā manyatu svāhā //	K12D0558_H0516:538a-3	སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ལོ་༎ ཚངས་པ་ལ་ཕྱག་འཚལ་ལོ་༎ གསང་སྔགས་ཀྱི་ཚིག་རྣམས་གྲུབ་པར་གྱུར་ཅིག་། གྲུབ་པར་གྱུར་ཅིག་། རིག་སྔགས་ཀྱིས་སྒྲོལ་བར་གྱུར་ཅིག་། ཚངས་པས་བསམ་པར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:128	 atha virūḍhako mahārājo 'bhyudgamyāsanād ekāṃsam uttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ  pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃs tenāñjaliṃ kṛtvā bhagavantam eva namasyamāno  bhagavantam etad avocat /	K12D0558_H0516:508b-0	དེ་ནས་རྒྱལ་པོ་ཆེན་པོ་ཡུལ་འཁོར་སྲུང་སྟན་ལས་ལངས་ཏེ་བླ་༄༥༠༨བ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་ག-ཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད
+K12mspram_u:1281	 atha vaiśramaṇo mahārāja ekāṃsam uttarāsaṃgaṃ kṛtvā kṛtāñjalir (Msp 38)  bhagavantaṃ namasyamāno 'vocat /	K12D0558_H0516:538a-9	དེ་ནས་རྒྱལ་པོ་ཆེན་པོ་རྣམ་ཐོས་ཀྱི་བུས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་ཐལ་མོ་སྦྱར་ཏེ་བཅོམ་ལྡན་འདས་ལ་ཕྱག་བཙལ་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K12mspram_u:1283	 yaḥ kaścid bhadanta bhagavan śrāvaka idaṃ mahāsāhasrapramardanīsūtram udgṛhṇayād vārayed vācayed deśayet paryavāpnuyāt tena vā bahuśrutena yogaḥ karaṇīyaḥ /	K12D0558_H0516:538a-10	བཙུན་པ་བཅོམ་ལྡན་འདས་། ཉན་ཐོས་གང་ལ་ལ་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདི་འཛིན་ཏམ་། འཆང་ངམ༏་སྟོན་ཏམ་། ཀློག་གམ་། ཀུན་ཆུབ་པར་བགྱིད་པ་དེས་མང་དུ་ཐོས་པ་ལ་བརྩོན་པར་བགྱིའོ་༎
+K12mspram_u:1284	 caityapūjā pareṇa bhavitavyam /	K12D0558_H0516:538a-14	མཆོད་རྟེན་མཆོད་པ་ལ་བརྩོན་པར་བགྱིའོ་༎
+K12mspram_u:1285	 aṣṭamyāṃ caturdaśyāṃ pañcadaśyāṃ ca tv ete yakṣasyodāracaityapūjāṃ kṛtvā vidyā āvartayitavyā /	K12D0558_H0516:538a-15	ཚེས་བརྒྱད་དང་། བཅུ་བཞི་དང་། བཅོ་ལྔའི་དུས་སུ་མཆོད་རྟེན་ལ་མཆོད་པ་རྒྱ་ཆེན་པོ་བགྱིས་ནས་རིག་སྔགས་བཀླག་པར་བགྱིའོ་༎
+K12mspram_u:1286	 tasyāṣṭamyāṃ catvāro rājapuruṣā mahārājānāṃ purataḥ samanvāharanti nāma codghoṣayanti /	K12D0558_H0516:538a-16	ཚེས་བརྒྱད་ཀྱི་ཚེ་ནི་རྒྱལ་པོ་ཆེན་པོ་བཞིའི་སྐྱེས་བུ་དག་རྒྱལ་པོ་ཆེན་པོ་རྣམས་ཀྱི་མདུན་ན་དེ་ལ་སེམས་པར་བགྱིད་།
+K12mspram_u:1287	 caturdaśyāṃ caturṇāṃ mahārājānāṃ purataḥ samanvāharanti nāma codghoṣayanti /	K12D0558_H0516:538a-18	ཚེས་བཅུ་བཞིའི་ཚེ་ནི་རྒྱལ་པོ་ཆེན་པོ་བཞི་པོ་དག་ཉིད་མདུན་ན་སེམས་པར་བགྱིད་། མིང་ནས་ཀྱང་འདོན་པར་བགྱིད་དོ་༎
+K12mspram_u:1288	 pañcadaśyāṃ svayam eva catvāro mahārājānaḥ samanvāharanti nāma codghoṣayanti //	K12D0558_H0516:538b-0	ཚེས་བཅོ་ལྔའི་ཚེ་ནི་རྒྱལ་པོ་ཆེན་པོ་དག་ཉིད་སེམས་པར་བགྱིད་༄༥༣༨བ་ཅིང་མིང་ནས་ཀྱང་གདོན་པར་བགྱིད་དེ་།
+K12mspram_u:1289	 sarvasatvahitānukaṃpīvatāyaṃ bhagavataḥ śrāvako ya idaṃ mahāsāhasrapramardanīsūtram udgṛhṇati dhārayati vācayati paryavāpnoti /	K12D0558_H0516:538b-1	བཅོམ་ལྡན་འདས་ཀྱི་ཉན་ཐོས་གང་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདི་ལེན་པ་དང་། འཆང་བ་དང་། སྟོན་པ་དང་། ཀློག་པ་དང༏་ཀུན་ཆུབ་པར་བགྱིད་པ་དེ་ནི་སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད་ལ་སྙིང་བརྩེ་ཞིང་ཕན་པར་བགྱིད་ལགས་སོ་༎
+K12mspram_u:1290	 tasya ca bhadanta bhagavan vayaṃ catvāro mahārājānaś cīvarapiṇḍapātaśayanaglānapratyayabhaiṣajyapariṣkārair autsukyaṃ kariṣyāmaḥ /	K12D0558_H0516:538b-2	བཙུན་པ་བཅོམ་ལྡན་འདས་། བདག་ཅག་རྒྱལ་པོ་ཆེན་པོ་བཞིས་ཀྱང་དེ་ལ་གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་མི་བྲེལ་བར་བགྱིའོ་༎
+K12mspram_u:1291	 satkṛtaś ca bhaviṣyati /	K12D0558_H0516:538b-4	སེམས་ཅན་ཐམས་ཅད་ཀྱང་བསྟི་སྟང་བགྱིད་པར་འགྱུར་རོ་༎
+K12mspram_u:1292	 sarvasatvair gurukṛtaś ca mānitaś ca pūjitaś ca rājñāṃ rājamahāmātrāṇāṃ ca bhaviṣyati /	K12D0558_H0516:538b-5	རྒྱལ་པོ་དང་། བློན་པོ་དག་གིས་ཀྱང་བླ་མར་བགྱི་བ་དང་། རིམ་གྲོ་བགྱི་བ་དང་། མཆོད་པར་བགྱིད་པར་འགྱུར་རོ་༎
+K12mspram_u:1293	 anyatīrthakaśravaṇabrāhmaṇaparivrājakānāṃ pūjyo bhaviṣyati mitrāmitramadhyagato 'pi satkṛto bhaviṣyati /	K12D0558_H0516:538b-6	གཞན་མུ་སྟེགས་ཅན་དང་། དགེ་སྦྱོང་དང་། བྲམ་ཟེ་དང་། སྤྱོད་པ་ཅན་དང་། ཀུན་ཏུ་རྒྱུ་དང་། མཛའ་བ་དང་། མི་མཛའ་བ་དག་གི་ནང་དུ་མཆིས་ཀྱང་མཆོད་པར་འགྱུར་རོ་༎
+K12mspram_u:1294	 te ca śrāddhena kulaputreṇa vā kuladuhitrā vā śucinā bhavitavyam /	K12D0558_H0516:538b-8	རིགས་ཀྱི་བུ་མོ་དད་པ་དེས་གཙང་མར་བགྱིས་ཏེ་།
+K12mspram_u:1295	 śucikāyena śucivastrābharaṇaśayanopakaraṇaviśeṣeṇa /	K12D0558_H0516:538b-9	ལུས་གཙང་བ་དང་། གོས་དང་། རྒྱན་དང་། མལ་ཆ་དང་། སྟན་དང་། ཡོ་བྱད་ཁྱད་པར་ཅན་གཙང་མར་བགྱི་།
+K12mspram_u:1296	 na kudeśalābhena na kumitrasaṃsargeṇa na kudeśavāsasaṃprayuktena bhavitavyam /	K12D0558_H0516:538b-10	ཡུལ་ངན་པ་རྙེད་པར་མི་བགྱིད་། ཡུལ་ངན་པའི་མཛའ་བོ་དང་བསྟེན་པར་མི་བགྱི་། ཡུལ་ངན་པ་ན་གནས་པ་ལ་བསྔགས་པར་མི་བགྱིའོ་༎
+K12mspram_u:1297	 yasya ca bhūtagrahagṛhītasya purata idaṃ mahāsāhasrapramardanī nāma sūtraṃ śrāvayiṣyati /  tasya catvāro mahārājānaḥ svayam eva rakṣāvaraṇaguptiṃ saṃvidhāsyanti /	K12D0558_H0516:539a-1	ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདི་དྲན་པར་གྱུར་ན་དེ་ལ་རྒྱལ་པོ་ཆེན་པོ་བཞི་པོ་དག་ཉིད་སྲུང་བ་དང་། སྐྱོབ་པ་དང་། སྦེད་པར་བགྱིད་པར་འགྱུར་རོ༏་༏བཙུན་པ་བཅོམ་ལྡན་འདས་།
+K12mspram_u:1299	 evaṃ maharddhikaṃ bhadanta bhagavan mahāsāhasrapramardanīsūtraṃ yasyāpi gṛhe ekam api rātriṃ divaṃ vāsaṃ kalpayiṣyati /	K12D0558_H0516:539a-2	དེ་ལྟར་ན་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདི་མཐུ་ཆེ་སྟེ་། གང་གིས་རང་གི་ཁྱིམ་དུ་མཚན་གཅིག་གམ་། ཉིན་གཅིག་ཀྱང་རུང་ཡང་དག་པར་བསམས་ན་།
+K12mspram_u:1300	 tasya saṃvatsaraṃ yāvad amanuṣyā avatāraṃ na lapsyanti /	K12D0558_H0516:539a-5	དེ་ལ་ལོ་གཅིག་གི་བར་དུ་མི་མ་ལགས་པས་གླགས་རྙེད་པར་མི་འགྱུར་རོ་༎
+K12mspram_u:1301	 namasyanīyaś ca bhaviṣyati sarvabhūtagaṇasya yaḥ idaṃ mahāsāhasrapramardanīsūtraṃ dhārayiṣyati /	K12D0558_H0516:539a-6	འབྱུང་པོའི་ཚོགས་ཐམས་ཅད་ཀྱིས་ཕྱག་བགྱི་བའི་འོས་སུ་འགྱུར་བ་ལགས་སོ་༎ གང་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདི་འཆང་བ་དེ་འཚལ་ན་།
+K12mspram_u:1302	 tasya kāṅkṣataś catvāro mahārājāno sukham upadarśayanti /	K12D0558_H0516:539a-8	རྒྱལ་པོ་ཆེན་པོ་བཞིའང་བཞིན་སྟོན་པར་འགྱུར་ན་།
+K12mspram_u:1303	 kimaṅga punar itare yakṣarākṣasāḥ /	K12D0558_H0516:539a-9	གནོད་སྦྱིན་དང་། སྲིན་པོ་དང་། ཕལ་པ་གཞན་ལྟ་སྨོས་ཀྱང་ཅི་འཚལ་།
+K12mspram_u:1304	 tat kasya hetor ye kecil loke vidyā (Msp 39)	K12D0558_H0516:539a-10	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K12mspram_u:1305	 saṃvidhāsyanti /  satvānāṃ hitāya /  imāni mantrapadāni tebhyo varapravaraśreṣṭhaviśiṣṭottamāni /	K12D0558_H0516:539a-11	སེམས་ཅན་རྣམས་ལ་སྨན་པའི་སླད་དུ་འཇིག་རྟེན་ལ་གང་སུ་དག་རིག་སྔགས་བགྱིད་པ་དེ་དག་པས་གསང་སྔགས་ཀྱིས་ཚིག་འདི་དག་རབ་མཆོག་། གཙོ་བོ་། ཁྱད་པར་དུ་འཕགས་པ་།
+K12mspram_u:1308	 gaṃbhīravipulo pramāṇāni dūrāvataraṇā asādhāraṇā iyaṃ dharmamudrā //	K12D0558_H0516:539a-13	དམ་པ་། ཟབ་པ་། རྒྱ་ཆེ་བ་། ཚད་མ་མཆིས་པ་། འཇུག་པར་དཀའ་བ་། ཐུན་མོང་མ་ལགས་པའི་སླད་དུ་སྟེ༏་འདི་ནི་ཆོས་ཀྱི་ཕྱག་རྒྱ་ལགས་སོ་༎
+K12mspram_u:1309	 athendraś ca sahasrākṣo devarāja śacīpatiḥ /	K12D0558_H0516:539a-18	དེ་ནས་དབང་པོ་མིག་སྟོང་པོ་༎ ལྷ་ཡི་རྒྱལ་པོ་བདེ་སོགས་ཁྱོད་༎
+K12mspram_u:131	 asmat pariṣado bhadanta bhagavan kumbhāṇḍagrahagṛhītasya īdṛśaṃ rūpalakṣaṇam /	K12D0558_H0516:508b-1	ཅེས་གསོལ་ཏོ༏་༏བཅོམ་ལྡན་འདས་། བདག་གི་འཁོར་དྲི་ཟའི་གདོན་གྱིས་བཏབ་པའི་ཚུལ་གྱིས་མཚན་མ་ནི་འདི་ལྟ་བུ་ལགས་ཏེ་། གླུ་ལེན་ཅིང་ནི་བྲོ་རྡུང་སྟེ་༎
+K12mspram_u:1310	 prāñjalistho namaskṛtvā lokanāthaṃ samabravīt //	K12D0558_H0516:539a-20	ཐལ་མོ་སྦྱར་ཏེ་ཕྱག་བཙལ་ནས་༎ འཇིག་རྟེན་མགོན་ལ་འདི་སྐད་༄༥༣༩བ་གསོལ་༎
+K12mspram_u:1311	 subhāṣitā iyaṃ vidyā sarvalokahitaṃkarī /	K12D0558_H0516:539b-1	འཇིག་རྟེན་ཀུན་ལ་ཕན་བགྱིད་པ་༎
+K12mspram_u:1312	 vidyām aham pravakṣāmi mantrauṣadhisamāyutam //	K12D0558_H0516:539b-3	གསང་སྔགས་སྨན་དང་ལྡན་པ་ཡི་༎ རིག་སྔགས་བདག་གི་བརྗོད་པར་བགྱི་༎
+K12mspram_u:1313	 śirīṣapuṣpam apāmārgam agaruḥ kaṭakāphalaṃ /	K12D0558_H0516:539b-5	ཤིང་ཤ་མེ་ཏོག་ཨཨ་པ་མའརྒ་དང་༎ ཀ་ཏ་ཀཤ་ཡི་འབྲས་བུ་ཨཨ་ག་རུ་༎
+K12mspram_u:1315	 paripelavaṃ rasaṃ vīrā sāmakaṃ tagaraṃ busā /  candanāvartanaṃ kuṣṭhaṃ nakhaṃ patrakataṃ varā //  priyaṃgu rocanā spṛkkā sarṣapāś ca manaḥśilāḥ /  tvacaṃ ca kuṅkumaṃ hiṅgupatrasaṃyuktavarṇakam //	K12D0558_H0516:539b-7	པ་རི་བེ་ལ་ས་ར་བའི་རའ་དང་༎ སའ་མ་ཀ་དང་པུསྤ་རྒྱ་སྤོས་དང་༎ ཙནདན་ཨཨ་བརྟ་ཀ་རུ་རྟ་དང་༎ སྡེར་མོ་ལོ་མ་ཀ་ཏ་མའ་ར་དང་༎ པྲི་ཡང་ཀུ་དང་འབུ་གསུག་སྨིག་བཅུད་དང་༎ ཡུངས་ཀར་དག་དང་ལྡོང་རོས་རྣམས་དང་ནི་༎ ཤིང་ཚ་ཤུ་དག་གུར་གུམ་ཤིང་ཀུན་དང་༎ ལོ་མ་དག་དང་ལྡན་པའི་བརྣ་ཀམ།
+K12mspram_u:1319	 eṣāṃ ca saṃyutāvartiḥ sarvagrahapramocanī /	K12D0558_H0516:539b-9	དེ་དག་སྦྱར་ཏེ་རེང་བུར་བགྱིས་པ་ནི་༎ གདོན་རྣམས་ཀུན་ལས་གྲོལ་བར་བགྱིད་པ་སྟེ་༎
+K12mspram_u:132	 balavatī tṛṣā bhonti vibhrāntaś cāpi prekṣate /  mukhaṃ lohitam ābhāti bhūmau svapiti kuñcitaḥ //	K12D0558_H0516:508b-4	རྒྱན་རྣམས་ལ་ཡང་དགའ་བར་བགྱིད་༎ བརྐམ་པ་མ་མཆིས་མང་པར་སྨྲ་༎ རྒོད་པར་བགྱིད་ཅིང་ཁྲོ་བར་འགྱུར་༎ སྐོམ་པར་འགྱུར་ལ་མིག་དམར་ཏེ་༎
+K12mspram_u:1321	 gṛhītā yena mucyanti bhūtavajraśanīśaraiḥ /	K12D0558_H0516:539b-13	དེ་ནས་འབྱུང་པོ་རྡོ་རྗེ་དང་༎ གནམ་ལྕགས་མདའ་ཡིས་ཟིན་ལས་ཐར་༎
+K12mspram_u:1322	 mahāvṛkṣeṣu leptavyaṃ mahācaitye tathaiva ca //	K12D0558_H0516:539b-14	ལྗོན་ཤིང་ཆེ་དང་དེ་བཞིན་དུ་༎ མཆོད་རྟེན་ཆེ་ལ་བསྐུས་བགྱིད་ན་༎
+K12mspram_u:1323	 yo hi paśyati tat sthānaṃ bhūtebhyo na bhayaṃ tataḥ /	K12D0558_H0516:539b-16	གང་གིས་གནས་དེ་མཐོང་བ་དེ་༎ འབྱུང་པོ་ལ་ནི་འཇིགས་མ་མཆིས་༎
+K12mspram_u:1324	 sthānaṃ na tatra bhūtānāṃ nānyeṣām ahitaiṣiṇām //	K12D0558_H0516:539b-18	དེར་ནི་འབྱུང་པོ་མི་གནས་ཏེ་༎ གནོད་བྱེད་གཞན་ཡང་མ་ལགས་སོ་༎
+K12mspram_u:1325	 bherīśaṅkhamṛdaṅgāni paṇavāṃś cāpi lepayet /	K12D0558_H0516:539b-20	རྔ་ཆེན་དུང་དང་རྫ་རྔ་དང༏་༏རྔ་བྲན་དག་ལའང་བསྐུས་ན་ནི་༎
+K12mspram_u:1326	 yāvac chrūyati śabdo 'dya trasante bhūtamaṇḍalāḥ //	K12D0558_H0516:539b-21	དེ་དག་སྒྲ་ནི་གར་གྲགས་པར་༎ འབྱུང་པོའི་དཀྱིལ་འཁོར་སྐྲག་པར་འགྱུར་༎
+K12mspram_u:1327	 yakṣāṇi lepayed vāpi pakṣiṇāṃ grāmacāriṇām /	K12D0558_H0516:539b-23	གྲོང་དུ་རྒྱུ་བའི་བྱ་རྣམས་ཀྱི་༎ འདབ་མ་དག་ལ་བསྐུས་ན་ནི་༎
+K12mspram_u:1328	 yatrāsau vrajate pakṣī diśaṃ cāpi digantaram //	K12D0558_H0516:540a-0	༄༥༤༠ཨ་༌༎ ཡུལ་དང་ཕྱོགས་ནི་གཞན་དག་ཏུ་༎ བྱ་དེ་གང་དུ་མཆིས་པ་དེར་༎
+K12mspram_u:1329	 sthānaṃ na tatra bhūtānāṃ nānyeṣām ahitaiṣiṇām /	K12D0558_H0516:540a-2	འབྱུང་པོ་རྣམས་ནི་མི་གནས་ཏེ་༎ གནོད་བྱེད་གཞན་ཡང་མ་ལགས་སོ་༎
+K12mspram_u:1330	 saritsrotastaḍāgeṣu prakṣiped yatra tatra vā //	K12D0558_H0516:540a-4	ཆུ་མིག་མཚོ་དང་ལྟེང་ཀ་འམ་༎ གང་དང་གང་དུ་བོར་ཡང་རུང་༎
+K12mspram_u:1331	 samantād yojanaṃ tatra svasti śāntir bhaviṣyati /	K12D0558_H0516:540a-7	བདེ་བ་དང་ནི་ཞི་བར་འགྱུར་༎
+K12mspram_u:1332	 api śastranipāteṣu paracakrasamāgame //	K12D0558_H0516:540a-8	ཕ་རོལ་དམག་ཚོགས་ནང་མཆིས་ཏེ་༎ མཚོན་ཆ་དག་ནི་འབབ་པ་ནི་༎
+K12mspram_u:1333	 sarvamarmeṣu leptavyaṃ svastinā uttariṣyati /	K12D0558_H0516:540a-10	གནས་རྣམས་ཀུན་ཏུ་བྱུགས་བགྱིས་ན་༎ བདེ་བླག་དུ་ནི་ཐར་བར་འགྱུར་༎
+K12mspram_u:1334	 galagaṇḍeṣu cārśeṣu vaisarpapiṭakeṣu ca //	K12D0558_H0516:540a-12	ལྦ་བ་དང་ནི་གཞང་ནད་དང་༎ མེ་དབལ་དང་ནི་འབྲས་བྱུང་དང་༎ གདུག་པས་ཟིན་དང་དུག་འཐུངས་པས་༎
+K12mspram_u:1335	 viṣadaṣṭe viṣapīte pītvā kṣipraṃ pramucyate /  (Msp 40)	K12D0558_H0516:540a-13	འཐུངས་སམ་བྱུགས་ན་ཐར་བར་འགྱུར་༎
+K12mspram_u:1337	 etena lepayed gātraṃ sarvakākhordacchedanam //	K12D0558_H0516:540a-14	ལུས་ལ་དེ་ཡིས་བྱུགས་ན་ནི་༎
+K12mspram_u:1338	 vivādottāraṇaṃ siddhaṃ rājadvāraparimocanam /	K12D0558_H0516:540a-15	བྱད་སྟེམས་ཐམས་ཅད་གཅོད་པར་བགྱི་༎ རྩོད་པ་རྣམས་ལས་ཐར་བར་འགྱུར་༎ རྒྱལ་པོའི་གྱོད་ལས་ཐར་བར་འགྱུར་༎
+K12mspram_u:1339	 asiddhaḥ siddham āpnoti īśvaratvam anīśvaram //	K12D0558_H0516:540a-18	མ་གྲུབ་པ་ཡང་གྲུབ་པར་འགྱུར་༎ དབུལ་པོ་ལས་ནི་ཕྱུག་པོར་འགྱུར་༎
+K12mspram_u:1340	 aputro labhate putram adhano labhate dhanam /	K12D0558_H0516:540a-20	བུ་མ་མཆིས་པ་བུ་རྙེད་འགྱུར་༎ ནོར་མ་མཆིས་པ་ནོར་རྙེད་འགྱུར་༎
+K12mspram_u:1341	 yāvad vidyādharasthānāṃ mantrāṇi tāni sādhayet //	K12D0558_H0516:540a-22	རིག་སྔགས་འཆང་གནས་བར་དུ་ཡང་༎ འདིས་ནི་གསང་སྔགས་གྲུབ་པར་བགྱིད་༎
+K12mspram_u:1342	 tiryagyonigate caiva tat syād vṛkṣaphaleṣu ca /	K12D0558_H0516:540a-24	དུད་འགྲོའི་སྐྱེ་གནས་གྱུར་པ་དང་༎ ལྗོན་ཤིང་རྣམས་ཀྱི་འབྲས་བུ་དང་༎ རིག་སྔགས་འཆང་བ་ཐོབ་ལ་ཡང་༎
+K12mspram_u:1343	 vidyādharasya prajño 'sya śantikaraṃ śubhaṃkaram //	K12D0558_H0516:540a-25	འདི་ནི་ཞི་བའི་ལས་དགེ་བྱེད་༎
+K12mspram_u:1344	 tatra mantrapadāny asti indrasya vacanaṃ yathā /	K12D0558_H0516:540a-26	འདི་ལ་གསང་སྔགས་ཚིག་མཆིས་ཏེ་༎
+K12mspram_u:1345	 syād yathedam /	K12D0558_H0516:540a-27	དཔེར་ན་དབང་པོའི་ཚིག་བཞིན་ནོ་༎ སཡའད་༄༥༤༠བ་ཡ་ཐེད་ན་།
+K12mspram_u:1346	 akrame / vikrame /	K12D0558_H0516:540b-1	ཨཨ་ཀྲ་མེ་། བི་ཀྲ་མེ་།
+K12mspram_u:1347	 bhūtaghoṣe /  bhūtaṃgame /	K12D0558_H0516:540b-3	བྷུ་ཏ་གྷོ་ཤེ་བྷུ་ཏམ་ག་མེ་།
+K12mspram_u:1349	 dahani /  dhadhare /  dharadhare /  dadhini /	K12D0558_H0516:540b-4	ད་ཧ་ནི་དྷ་དྷ་རེ་། དྷ་ར་བ་རེ་། ད་དྷི་ནི་།
+K12mspram_u:1353	 nikhume /	K12D0558_H0516:540b-7	ནི་ཁུ་མེ་།
+K12mspram_u:1354	 khukhume /  khakha khakha /	K12D0558_H0516:540b-8	ཁུ་ཁུ་མེ་། ཁ་ཁ་ཁ་ཁ་།
+K12mspram_u:1356	 sāraṃgame /	K12D0558_H0516:540b-10	སའ་རམ་ག་མེ་།
+K12mspram_u:1357	 candre /  capale /	K12D0558_H0516:540b-11	ཙནདྲེ་། ཙ་པ་ལེ་།
+K12mspram_u:1359	 halime /  hale hariṇi svāhā //	K12D0558_H0516:540b-13	ཧ་ལེ་། ཧའ་རའ་ནི་སབ༹འ་ཧའ་།
+K12mspram_u:136	 tatra mantrapadāny asti lokanātha śṛṇohi me //	K12D0558_H0516:508b-11	དེ་ལ་སྔགས་ཀྱི་ཚིག་མཆིས་ཀྱི་༎ འཇིག་རྟེན་མགོན་པོ་བདག་ལ་གསོན་།
+K12mspram_u:1361	 svasty astu mama sarvasatvānāṃ ca sarvadigvidigbhyaḥ svāhā //  nihatāḥ sarvapāpāni svāhā //	K12D0558_H0516:540b-14	ཕྱོགས་ཐམས་ཅད་ནས་བདག་གི་སྡིག་པ་ཐམས་ཅད་ཞི་བར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:1363	 tato brahmā ca śakraś ca lokapālā maheśvaraḥ /	K12D0558_H0516:540b-15	དེ་ནས་ཚངས་པ་དབང་པོ་དང་༎ འཇིག་རྟེན་སྐྱོང་དང་དབང་ཕྱུག་ཆེ་༎
+K12mspram_u:1364	 yakṣasenāpatayaḥ sarve hārītī ca saputrikā //	K12D0558_H0516:540b-16	གནོད་སྦྱིན་སྡེ་དཔོན་ཐམས་ཅད་དང་༎ འཕྲོག་མ་བུ་དང་བཅས་པ་ཡང་༎
+K12mspram_u:1365	 ekavāgekasvarā avocat prāñjalīkṛtāḥ /	K12D0558_H0516:540b-17	ཐལ་མོ་དག་ནི་རབ་སྦྱར་ནས་༎ སྒྲ་སྐད་གཅིག་ཏུ་འདི་སྐད་གསོལ་༎
+K12mspram_u:1366	 sahasrasūryapradyotaḥ pūrṇacandraprabhāsvaraḥ //	K12D0558_H0516:540b-19	ཉི་མ་སྟོང་ལྟར་གསལ་བ་པོ་༎ ཟླ་བ་ཉ་ལྟར་འོད་གསལ་བ་༎
+K12mspram_u:1367	 sadevamānuṣe loke sadṛśas te na vidyate /	K12D0558_H0516:540b-21	ལྷ་མིར་བཅས་པའི་འཇིག་རྟེན་ན་༎ ཁྱོད་དང་འདྲ་བ་ཡོང་མ་མཆིས་༎
+K12mspram_u:1368	 acintyā suprayuktā ca yakṣarākṣasamardanī //	K12D0558_H0516:540b-23	ལེགས་བསམ་ལེགས་པར་སྦྱར་ན་ནི་༎ གནོད་སྦྱིན་སྲིན་པོ་རྣམས་འཇོམས་པ་༎
+K12mspram_u:1369	 rājapramocanī nāma vidyā vairāgyapālanī /	K12D0558_H0516:540b-25	རྒྱལ་སྲིད་ཐར་བགྱིད་ཅེས་བགྱི་བ་༎
+K12mspram_u:1370	 sāhasrapramardanī nāma mahārājā śubhodayā //  yuddhasaṃgrāmavijayā sarvaśatrupramardanī /	K12D0558_H0516:540b-26	རིག་སྔགས་རྒྱལ་སྲིད་རབ་སྦྱོར་བ་༎
+K12mspram_u:1372	 mahāsāhasrake loke rakṣārthaṃ sūtram uttamam //	K12D0558_H0516:540b-27	སྟོང་ཆེན་གྱི་ནི་འཇིག་རྟེན་ན་༎ བསྲུང་བའི་མདོ་སྡེ་དམ་པ་ལགས་༎
+K12mspram_u:1373	 namas te puruṣavīra namas te puruṣottama /  añjalisthā namaskṛtvā tatraivāntaradhāyiṣu //	K12D0558_H0516:540b-29	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ་༎ ཐལ་མོ་སྦྱར་ཏེ་ཕྱག་བཙལ་ནས་༎ དེ་ཉིད་དུ་ནི་མི་སྣང་གྱུར་༎
+K12mspram_u:1375	 atha bhagavān sāyāhnakālasamaye pratisaṃlayanād utthāya bhikṣūn āmantrayāmāsa /	K12D0558_H0516:540b-33	དེ་ནས་བཅོམ་ལྡན་འདས་ནུབ་ཁའི་དུས་ཀྱི་ཚེ་ནང་དུ་ཡང་དག་འཇོག་ལས་བཞེངས་ནས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ་།
+K12mspram_u:1376	 udgṛhṇadhvaṃ bhikṣavo mahāsāhasrapramardanīśūtraṃ dhārayata vācayata paryavāpnuyāt /  tad bhaviṣyati /	K12D0558_H0516:540b-34	དགེ་སློང་དག་། སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པ་ཞེས་བྱ་བའི་མདོ་སྡེ་ལོངས་ཤིག་། ཆོངས་ཤིག་། ལྷོགས་ཤིག་། སྟོན་ཅིག་། ཀུན་ཆུབ་༄༥༤༡ཨ་༌༎ པར་གྱིས་ཤིག་།
+K12mspram_u:1378	 sadevakasya lokasya (Msp 41)  dīrgharātram arthāya hitāya sukhāya sparśavihāratāyai /	K12D0558_H0516:541a-2	དེ་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་ལ་ཡུན་རིང་པོའི་དོན་དང་། ཕན་པ་དང་། བདེ་བ་དང་། བདེ་བ་ལ་རེག་པར་གནས་པར་འགྱུར་རོ་༎
+K12mspram_u:1380	 yaḥ kaścid bhikṣavo mama śravaka etena mahāsāhasrapramardanīsūtreṇa śuṣkavṛkṣasyāpi paritrāṇaṃ badhnīyāt parigrahaṃ tasya patrapuṣpaphalāni jayeran /	K12D0558_H0516:541a-3	དགེ་སློང་དག་། ངའི་དགེ་སློང་གང་ལ་ལ་ཞིག་གིས་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འདིས་ཤིང་སྐམ་པོ་ལ་སྐུད་པས་བཅིངས་ན་དེ་ལ་ལོ་མ་དང་། མེ་ཏོག་དང་། འབྲས་བུ་རྣམས་སྐྱེ་བར་འགྱུར་ན་།
+K12mspram_u:1381	 kimaṅga punaḥ savijñānasya kāyasyānyatra pūrvakarmavipākena //	K12D0558_H0516:541a-5	རྣམ་པར་ཤེས་པ་དང་བཅས་པའི་ལུས་ལ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ་། སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པ་ནི་མ་གཏོགས་སོ་༎
+K12mspram_u:1382	 evam uktās te bhikṣavo bhagavantam etad avocat /	K12D0558_H0516:541a-7	དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་དེ་དག་གིས་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K12mspram_u:1383	 yānīmāni bhadanta bhagavan pañcamahārakṣāsūtrāṇi bhāṣitāni /	K12D0558_H0516:541a-8	བཙུན་པ་བཅོམ་ལྡན་འདས་ཀྱིས་མདོ་སྡེ་ཆེན་པོ་ལྔ་གསུངས་པ་དེ་དག་ནི་།
+K12mspram_u:1384	 syād yathedam /	K12D0558_H0516:541a-9	འདི་ལྟ་སྟེ་།
+K12mspram_u:1385	 mahāsāhasrapramardanī /  mahāmāyūrī mahāśītavatī mahāpratisarā mahāmantrānusāraṇī ceti /	K12D0558_H0516:541a-10	སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པ་དང་། རྨ་བྱ་ཆེན་མོ་དང་། བསིལ་པའི་ཚལ་ཆེན་མོ་དང་། སོ་སོར་འབྲང་བ་ཆེན་མོ་དང་། གསང་སྔགས་ཀྱི་རྗེས་སུ་འབྲང་བ་ཆེན་མོ་ལགས་ཏེ་།
+K12mspram_u:1387	 tāni ca bhagavatā pañcāmiṣaparivarjinenānujñatāni vācayitavyāni /	K12D0558_H0516:541a-11	བཙུན་པ་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་ཟས་རྣམ་པ་ལྔ་ཡོངས་སུ་སྤོངས་ལ་ཆོངས་ཤིག་ཅེས་ཀྱང་བཀའ་སྩལ་ལ་།
+K12mspram_u:1388	 piṇḍapātraṃ ca bhojanaṃ niśrāya pravrajyā vyākṛtā /	K12D0558_H0516:541a-12	ཟས་བསོད་སྙོམས་ལ་བརྟེན་ཏེ་རབ་ཏུ་བྱུང་ཞིག་ཅེས་ཀྱང་གསུངས་ན་།
+K12mspram_u:1389	 alpaṃ ca bhagavan piṇḍapātraṃ pañcāmiṣaparivarjitam /	K12D0558_H0516:541a-13	བཅོམ་ལྡན་འདས་ཟས་རྣམ་པ་ལྔ་དང་མ་འདྲེས་པའི་བསོད་སྙོམས་ནི་ཉུང་།
+K12mspram_u:139	 khalane /  khalane /	K12D0558_H0516:508b-14	ཨཨ་ཁེ་། ན་ཁེ་།
+K12mspram_u:1390	 idam eva bahutaraṃ yad idaṃ pañcāmiṣasaṃsṛṣṭaṃ tatra vayaṃ bhagavan kathaṃ pratipadyāmaḥ //	K12D0558_H0516:541a-14	འདི་ལྟར་ཟས་རྣམ་པ་ལྔ་དང་འདྲེས་པ་དེ་ནི་མང་ལགས་ན་། བཙུན་པ་བཅོམ་ལྡན་འདས་། དེ་ལ་བདག་༄༥༤༡བ་ཅག་གིས་ཇི་ལྟར་ནན་ཏན་དུ་བགྱི་།
+K12mspram_u:1391	 evam ukte bhagavān tān bhikṣūn etad avocat /	K12D0558_H0516:541b-1	དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་དེ་དག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ་༎
+K12mspram_u:1392	 tena hi bhikṣavo yo hy etat mahāsāhasrapramardanīsūtraṃ dhārayitavyam /  tenākṣateyaṃ dhāraṇī ātmarakṣāyai dhārayitavyā /	K12D0558_H0516:541b-2	དགེ་སློང་དག་། དེ་ཉིད་ཀྱི་ཕྱིར་སུ་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་མདོ་སྡེ་འཆང་བ་དེས་། རྨ་མེད་པའི་ནོར་བུའི་གཟུངས་ཞེས་བྱ་བ་དེ་བདག་ཉིད་བསྲུང་བར་བྱ་བའི་ཕྱིར་ཆོངས་ཤིག་།
+K12mspram_u:1394	 tena hi piṇḍapātraṃ parigṛhītā āhāre pratikūlasaṃjñotpādayitavyā /  pañcāmiṣasaṃsṛṣṭapiṇḍapātre pañcāmiṣaparivarjitasaṃjñotpādayitavyā /	K12D0558_H0516:541b-5	དེས་བསོད་སྙོམས་ལེན་པའི་ཚེ་ཟས་ལ་མི་མཐུན་པ་མེད་པའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ་༎ ཟས་རྣམ་པ་ལྔ་དང་འདྲེས་པའི་བསོད་སྙོམས་ལའང་ཟས་རྣམ་པ་ལྔ་དང་མ་འདྲེས་པའི་འདུ་ཤེས་བསྐྱེད་པར་བྱ་།
+K12mspram_u:1396	 sarvasaṃskṛte anityasaṃjñā /  anitye duḥkhasaṃjñā /  duḥkhe anātmasaṃjñā /  anātmany aśubhasaṃjñotpādayitavyā /	K12D0558_H0516:541b-7	འདུས་བྱས་ཐམས་ཅད་ལ་མི་རྟག་པའི་འདུ་ཤེས་དང་། མི་རྟག་པ་ལ་སྡུག་བསྔལ་བའི་འདུ་ཤེས་དང་། སྡུག་བསྔལ་བ་ལ་བདག་མེད་པའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ་༎
+K12mspram_u:1400	 kutaḥ pañcāmiṣāṇi kasya vā pañcāmiṣāṇi /  ko vā pañcāmiṣāṇi paribhojyante /	K12D0558_H0516:541b-8	ཟས་རྣམ་པ་ལྔ་པོ་དག་ག་ལ་ཡོད་། ཟས་རྣམ་པ་ལྔ་པོ་སུའི་ཡིན་། སུ་ཞིག་ཟས་རྣམ་པ་ལྔ་པོ་ཟ་།
+K12mspram_u:1402	 nāsti satvaḥ kutaḥ satvaḥ /  sa satvo nopalabhyate /	K12D0558_H0516:541b-11	སེམས་ཅན་དམིགས་སུ་མེད་དོ་༎
+K12mspram_u:1404	 tatra cāhāra pañcāmiṣāsaṃsṛṣṭasaṃjñakaraṇīyā /  ātmarakṣā aṣṭamyāṃ caturdaśyāṃ pañcadaśyāṃ ca rājagotrāya kanyāya susnātāya subhūṣitāya	K12D0558_H0516:541b-12	དེ་ལ་ཟས་རྣམ་པ་ལྔ་དང་འདྲེས་ན་ཚེས་བརྒྱད་དང་། བཅུ་བཞི་དང་། བཅོ་ལྔ་ལ་བདག་བསྲུང་བ་བྱས་ཏེ་། རྒྱལ་རིགས་ཀྱི་བུ་མོ་ལེགས་པར་བཀྲུས་པ་། ཤིན་ཏུ་བརྒྱན་པ་།
+K12mspram_u:1406	 ahorātro vapuṣṭāya pañcaśikṣāpadaparigṛhītayā lohitaṃ sūtraṃ caturguṇaṃ kārayitvā  mantradhāreṇa vidyā smarayitavyā /	K12D0558_H0516:541b-16	སྐུད་པ་དམར་པོ་བཞི་སྒྲིལ་དུ་འཁལ་དུ་བཅུག་ལ་གསང་འཛིན་པའི་རིག་སྔགས་དྲན་པར་བྱས་ཏེ་། སྐུད་པ་དེ་མདུད་པ་མདུད་ལ་སྐུད་པ་དེ་མཚོན་གསར་པ་བཅད་དེ་༄༥༤༢ཨ་༌༎
+K12mspram_u:1408	 granthiṃ kṛtvā tat sūtraṃ navena śastreṇa cchitvā dagdhā ratnabhaṇḍo vā udakaparipūrṇaṃ kṛtvā puṣpair ācchādayitvā nānāgandhena dhūpayitvā iyaṃ vidyā āvartayitavyā /	K12D0558_H0516:542a-1	བསྲེགས་ལ་རིན་པོ་ཆེའི་སྣོད་དམ་། ལྕགས་ཀྱི་སྣོད་ཀྱང་རུང་ཆུས་ཁོང་སྟེ་། མེ་ཏོག་གིས་ཁྱབ་པར་ཁྲོམས་ལ་བདུག་པ་སྣ་ཚོགས་ཀྱིས་གདུགས་ཏེ་།
+K12mspram_u:1409	 yāvat taj jātaṃ sūtraṃ bhājane prādurbhavati /	K12D0558_H0516:542a-4	སྣོད་ཀྱི་ནང་ནས་སྐུད་པ་དེ་སླར་འབྱོར་ཏེ་མ་བྱུང་བར་དུ་རིག་སྔགས་འདི་བརྗོད་པར་བྱའོ་༎
+K12mspram_u:141	 khalome /  kharalikhe /  kharakhe /  khaṭine /	K12D0558_H0516:508b-15	བི་ན་ཁེ་། བནདྷེ་། བ་རའངྒེ་།
+K12mspram_u:1410	 tac ca pāṇau bandhayitvā vācyam //  (Msp 42)	K12D0558_H0516:542a-5	དེའང་ལག་པ་ལ་བཅིངས་ལ་ཚིག་འདི་སྐད་བརྗོད་དོ་༎
+K12mspram_u:1412	 brahmaṇair vipralabdhena śākyasiṃhena tāyinā /	K12D0558_H0516:542a-6	བྲམ་ཟེ་རྣམས་ཀྱིས་བསླུས་ནས་སུ་༎ ཤའཀྱ་སེང་གེ་སྐྱོབ་པ་ལ་༎
+K12mspram_u:1413	 sa viṣaṃ giriguptena bhojanam upanāmitam //	K12D0558_H0516:542a-8	དཔལ་སྦས་ཀྱིས་ནི་དུག་ཅན་གྱི་༎
+K12mspram_u:1414	 pratigṛhya tataḥ śāstā nirviṣīkṛtya bhojinām /	K12D0558_H0516:542a-9	བསོད་སྙོམས་དག་ནི་ཕུལ་བ་དང་༎ དེ་ལས་དེ་ནི་བླངས་ནས་སུ་༎ སྟོན་པས་དུག་ནི་བསད་ནས་གསོལ་༎
+K12mspram_u:1415	 etena satyavākyena amṛtaṃ bhontu bhojanam //	K12D0558_H0516:542a-11	བདེན་པའི་ཚིག་ནི་འདི་ཡིས་སུ་༎ ཟས་ནི་བདུད་རྩིར་འགྱུར་བར་ཤོག་།
+K12mspram_u:1418	 kanakākhyadevendrāḥ śrīmataḥ kāśyapasya ca /	K12D0558_H0516:542a-14	སྟོབས་ཆེན་ལྷ་གང་དད་པ་དང་༎ གསེར་དང་དཔལ་ལྡན་འོད་སྲུང་དང་༎ ཤའཀྱ་ཡི་ནི་སེང་གེ་ལ་༎
+K12mspram_u:1419	 prasannāḥ śākyasiṃhasya brahmendrās trideśeśvarāḥ //  catvāro lokapālāś ca māṇibhadro maheśvaraḥ /	K12D0558_H0516:542a-15	རབ་དད་ལྷ་ཡི་དབང་པོ་དང་༎ ཚངས་དབང་སུམ་ཅུའི་དབང་ཕྱུག་དང་༎ འཇིག་རྟེན་སྐྱོང་བ་བཞི་དག་དང་༎ ནོར་བུ་བཟང་དང་དབང་ཕྱུག་ཆེ་༎
+K12mspram_u:1421	 rākṣasī ca mahākālī caṇḍacaṇḍālinī tathā //	K12D0558_H0516:542a-16	སྲིན་མོ་ནག་མོ་ཆེན་མོ་དང་༎ དེ་བཞིན་གདོལ་མ་གཏུམ་མོ་དག་།
+K12mspram_u:1422	 idaṃ puṣpaṃ ca gandhaṃ ca pratigṛhṇantu mamāhutim /	K12D0558_H0516:542a-17	མེ་ཏོག་དང་ནི་བདུག་པ་དང༏། བདག་གི་སྦྱིན་སྲེག་འདི་བཞེས་ཤིག་།
+K12mspram_u:1423	 prīṇitā pūjitā bhūtvā ete śodhantu bhojanam //	K12D0558_H0516:542a-18	དེ་དག་ཚིམ་ཞིང་མཆོད་གྱུར་ནས་༎ བདག་གིས་ཁ་ཟས་བྱང་བར་མཛོད་༎
+K12mspram_u:1424	 pañcāmiṣeṇa saṃsṛṣṭam asaṃsṛṣṭaṃ karontu me /  apañcāmiṣasaṃsṛṣṭaṃ sarvaṃ bhujāmi bhojanam //	K12D0558_H0516:542a-20	ཟས་ལྔ་དག་དང་འདྲེས་པ་ཡང་༎
+K12mspram_u:1426	 sarveṣāṃ bījagrāmāṇāṃ pratiṣṭhā pṛthivīrasāḥ /  sarvabhojanasaṃsṛṣṭam asaṃsṛṣṭaṃ bhavantu me //  chinnaṃ dagdhaṃ yathā sūtraṃ tādṛśaṃ bhavate punaḥ /	K12D0558_H0516:542b-0	བདག་ལ་མ་འདྲེས་༄༥༤༢བ་མཛད་དུ་གསོལ་༎
+K12mspram_u:1429	 tathā bhojanasaṃsṛṣṭam asaṃsṛṣṭaṃ karontu me //	K12D0558_H0516:542b-1	ཁ་ཟས་ལྔ་དང་འདྲེས་པ་ཡང་༎
+K12mspram_u:145	 kharali /	K12D0558_H0516:508b-17	ཙ་པ་ལེ་།
+K12mspram_u:146	 karakhi /  kaśane /  karaṭe /  kāle kāmini /	K12D0558_H0516:508b-18	བ་ཁེ་། བ་ཁ་ནེ་། བ་ཁ་ནེ་། ན་ལོ་ནི་།
+K12mspram_u:15	 āyuṣmatā ca vāgīśena /  āyuṣmatā cāśvajitā /  āyuṣmatā ca subhūtinā /  āyuṣmatā ca suvāhunā /  āyuṣmatā cāniruddhena /  āyuṣmatā ca revatena /  āyuṣmatā ca nandikena /  āyuṣmatā cānandena /	K12D0558_H0516:504b-7	ཚེ་དང་ལྡན་པ་ངག་དབང་དང་། ཚེ་དང་ལྡན་པ་རྟ་ཐུལ་དང་། ཚེ་དང་ལྡན་པ་རབ་འབྱོར་དང་། ཚེ་དང་ལྡན་པ་ལག་བཟང་དང་། ཚེ་དང་ལྡན་པ་མ་འགགས་པ་དང་། ཚེ་དང་ལྡན་པ་ལྟེང་རྒྱས་འོད་སྲུང་དང་།
+K12mspram_u:150	 vidhali /  vidhiye /  vidheye /	K12D0558_H0516:508b-22	བ་ཧུ་ལེ་། བྷ་ཁེ་། བྷ་གནད་ལེ་།
+K12mspram_u:153	 śayane /  samavate /  śami śamini svāhā //  śāmyantu mama sarvasatvānāṃ ca sarvagrahāḥ sarvabhayopadravā virūḍhakasya mahārājasya nāmnā balenaiśvaryādhipatyena ca svāhā //	K12D0558_H0516:508b-24	བ་ཤེ་བ་ཤ་བརྟི་ནི་སབ༹འཧའ༏་རྒྱལ་པོ་ཆེན་པོ་ཡུལ་འཁོར་སྲུང་གི་མིང་དང་། སྟོབས་དང་། དབང་ཕྱུག་དང་། བྱིན་གྱིས་བདག་གདོན་ཐམས་ཅད་ལས་ཐར་བར་གྱུར་ཅིག་སབ༹འཧའ་།
+K12mspram_u:158	 atha virūpākṣo mahārājo 'bhyudgamyāsanād ekāṃsam uttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ	K12D0558_H0516:508b-25	དེ་ནས་རྒྱལ་པོ་ཆེན་པོ་འཕགས་སྐྱེས་པོ་སྟན་ལས་ལངས་ཏེ་། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་ག-ཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་༄༥༠༩ཨ་༌༎ སུ་ཐལ་མོ་སྦྱར་ནས་བཅོམ་ལྡན་འདས་ཉིད་ལ་ཕྱག་འཚལ་ཞིང་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎ བཅོམ་ལྡན་འདས་། བདག་གི་འཁོར་ཡི་དབ༹གས་གྲུལ་བུམ་གྱིས་ཟིན་པའི་ཚུལ་གྱིས་མཚན་མ་ནི་འདི་ལྟ་བུ་ལགས་ཏེ་། ཤིན་ཏུ་སྐོམ་པས་འདེབས་པར་གྱུར་༎
+K12mspram_u:160	 bhagavantam etad avocat /	K12D0558_H0516:509b-2	བཅོམ་ལྡན་འདས་།
+K12mspram_u:161	 asmat pariṣado bhadanta bhagavan nāgasuparṇīgrahagṛhītasya īdṛśaṃ rūpalakṣaṇam /	K12D0558_H0516:509b-3	བདག་གི་འཁོར་ཀླུ་འདབ་བཟང་གི་གདོན་གྱིས་བཏབ་པའི་ཚུལ་གྱི་མཚན་མ་ནི་འདི་ལྟ་བུ་ལགས་ཏེ་། སྐྱིགས་བུས་འདེབས་ཤིང་དབུགས་ཀྱང་འབྱིན་༎
+K12mspram_u:162	 hikkate śvasate cāpi śītalaṃ gātram eva ca /  svidyate phenalālāsya svapate ca punaḥ punaḥ //	K12D0558_H0516:509b-5	དེ་བཞིན་དབུགས་ཀྱང་གྲང་བར་འགྱུར་༎ རྡུལ་ཞིང་དབུ་བ་ཁ་ཆུ་འབྱུང་༎ ཕྱི་ཕྱིར་གཉིད་ཀྱང་ལོག་པར་འགྱུར་༎
+K12mspram_u:164	 varṇavān bhavate śūro vepate dhāvate tathā /  punar nakhān vidarśayati mahīṃ viśati roditi //	K12D0558_H0516:509b-8	ཁ་དོག་ལྡན་ཞིང་དཔའ་བ་སྟེ་༎ དེ་བཞིན་འདར་ཞིང་རྒྱུག་པར་འགྱུར་༎ སེན་མོ་དག་ཀྱང་སྟོན་པར་བགྱིད་༎ དོག་སར་མཆིས་ཤིང་ངུ་བར་བགྱིད་༎
+K12mspram_u:166	 tatra mantrapadāny asti lokanātha śṛṇohi me //  syād yathedam /	K12D0558_H0516:509b-12	དེ་ལ་སྔགས་ཀྱི་ཚིག་མཆིས་ཀྱི་༎ འཇིག་རྟེན་མགོན་པོ་བདག་ལ་གསོན་༎ སཡའད་ཡ་ཐེ་དན་།
+K12mspram_u:168	 kragame / krakamaṇi /	K12D0558_H0516:509b-15	ཀྲ་ཀ་མི་། ཀྲ་ག་མ་ནི་།
+K12mspram_u:169	 krakase /  krakaśase /	K12D0558_H0516:509b-17	ཀྲ་ག་སེ་། ཀྲུ་གྲ་ཤེ་། ཀྲ་ཀྲ་། ཤ་མི་།
+K12mspram_u:171	 kruśume /  krukeke /  krukhume krume /  agale /	K12D0558_H0516:509b-21	ཀྲུཀཀེ་། ཀྲུག་ཀླུ་མ་། ཀྲུ་གེ་། ཨཨ་ག་ལེ་།
+K12mspram_u:175	 nagale /  samaṅgale /	K12D0558_H0516:509b-23	ནའ་ག་ལེ་། ས་མ་ག་ལེ་།
+K12mspram_u:177	 kuhume /	K12D0558_H0516:509b-25	ཀུ་ཧུ་མེ་།
+K12mspram_u:178	 hume /	K12D0558_H0516:509b-26	གུ་མེ་། ཨཨ་ལ་ཀེ་།
+K12mspram_u:179	 aluke /	K12D0558_H0516:509b-27	ཀ་ལུ་ཀེ་།
+K12mspram_u:180	 kalamake /  kalale /	K12D0558_H0516:509b-28	ཀ་ལ་མ་ལེ་། ག་ལ་ལེ་།
+K12mspram_u:182	 ire mire /	K12D0558_H0516:509b-30	ཨཻ་རི་མི་རེ་།
+K12mspram_u:183	 dhire dhire agaruvati svāhā //	K12D0558_H0516:509b-31	དྷི་རེ་། ཨཨ་རུ་ག་བ་ཏི་སབ༹འཧའ་།
+K12mspram_u:184	 svasty astu mama sarvasatvānāṃ ca virūpākṣasya mahārājasya nāmnā balenaiśvaryādhipatyena ca svāhā //	K12D0558_H0516:509b-32	རྒྱལ་པོ་ཆེན་པོ་མིག་མི་བཟང་གི་མིང་དང་། སྟོབས་དང་། བྱིན་གྱིས་བདག་དགེ་བར་གྱུར་ཅིག་སབ༹འཧའ་།
+K12mspram_u:185	 atha bhagavāṃs tāvad eva sarvāvatyāḥ pariṣadaḥ purataḥ siṃhanādaṃ nadati /	K12D0558_H0516:509b-33	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་འཁོར་ཐམས་ཅད་མདུན་དུ་སེང་གེའི་སྒྲ་བསྒྲགས་པ་།
+K12mspram_u:186	 daśabalasamanvāgato 'haṃ caturvaiśāradyaviśāradaḥ pariṣady udāram ārṣabhaṃ samyaksiṃhanādaṃ nadāmi /	K12D0558_H0516:510a-0	ང་ནི་སྟོབས་བཅུ་དང་ལྡན་ཞིང་མི་འཇིགས་པ་བཞིས་འཇིགས་པ་མེད་པ་སྟེ་འཁོར་གྱི་ནང་དུ་སེང་གེ་སྒྲ་ཁྱུ་མཆོག་ལྟ་བུ་རྒྱ་ཆེན་པོ་ཡང་དག་པར་བསྒྲགས་༄༥༡༠ཨ་༌༎
+K12mspram_u:187	 brahmacakraṃ pravartayāmi /	K12D0558_H0516:510a-1	སོ༏་༏ཚངས་པའི་འཁོར་ལོ་བསྐོར་རོ་༎
+K12mspram_u:188	 māro nirjita ekena sasainyabalavāhanaḥ /	K12D0558_H0516:510a-2	སྡེ་དང་མཐུ་དང་བཞོན་བཅས་པའི་༎ བདུད་ཀྱང་གཅིག་གིས་རབ་ཏུ་བཏུལ་༎
+K12mspram_u:189	 rakṣāyai sarvasatvānāṃ sarve vidyāṃ śṛṇātha me //	K12D0558_H0516:510a-4	སེམས་ཅན་ཐམས་ཅད་བསྲུང་བའི་ཕྱིར་༎ རིག་སྔགས་ཐམས་ཅད་ང་ལ་ཉོན་༎ སཡའད་ཡ་ཐེ་དན་།
+K12mspram_u:191	 asaṅge / khaṅgavate /	K12D0558_H0516:510a-14	སྟམབྷེ་། ཛམ་བྷེ་།
+K12mspram_u:209	 tad viditvā mahārājās triguptiṃ samudāharat /	K12D0558_H0516:510a-31	རྒྱལ་པོ་ཆེན་པོས་དེ་ཤེས་ནས་༎ གསང་བ་གསུམ་ནི་ཡང་དག་སྨྲ་༎
+K12mspram_u:210	 aho vidyā mahāvidyā mahāsāhasrapramardanī //	K12D0558_H0516:510a-33	ཀྱེ་མ་རིག་སྔགས་རིག་སྔགས་ཆེ༏་༏སྟོང་ཆེན་རབ་ཏུ་འཇོམས་བྱེད་པ་༎
+K12mspram_u:211	 yasyāṃ trasanti bhūtāni śrutvā buddhasya bhāṣitam /	K12D0558_H0516:510a-34	སངས་རྒྱས་ཀྱིས་ནི་གསུངས་པ་དེ་༎ ཐོས་ནས་འབྱུང་པོ་སྐྲག་གྱུར་ཏེ་༎
+K12mspram_u:212	 yathā prajvalito vahniraśmir vātair apāyitaḥ //	K12D0558_H0516:510b-0	དཔེར་ན་རབ་ཏུ་འབར་མེ་དང་༎ ཏིལ་མར་ངར་བཏགས་༄༥༡༠བ་རལ་གྲི་བཞིན་༎
+K12mspram_u:213	 kṣuradhārāsamā vidyā gautamena prakāśitā /	K12D0558_H0516:510b-1	གོའུ་ཏམས་ནི་རབ་བཤད་པའི་༎ རིག་སྔགས་སྤུ་གྲིའི་སོ་དང་འདྲ་༎
+K12mspram_u:214	 yo hy etan nābhimanyeta ṛṣivākyaṃ subhāṣitam //	K12D0558_H0516:510b-3	དྲང་སྲོང་ཚིག་ནི་ལེགས་བཤད་པ་༎ དེ་ལ་གང་ཞིག་མ་དད་ན་༎
+K12mspram_u:215	 tasyātra brahmaśāpena jyeṣṭhaputro na bheṣyati /	K12D0558_H0516:510b-5	དེ་ཡི་བུ་ཡི་ཐུ་བོ་ནི་༎ ཚངས་པའི་ཞགས་པས་མེད་པར་འགྱུར་༎
+K12mspram_u:216	 agniṃ prajvālayitvā tu gṛhītvāsitasarṣapān //  ghṛtamaṇḍena saṃyuktāḥ prakṣeptavyāhutāśane /  heṣṭham ūrdhvaṃ caturdikṣu kṣiptvā ca varuṇodakam //	K12D0558_H0516:510b-7	མེ་ནི་རབ་ཏུ་འབར་བྱས་ལ་༎ བླ་དང་འོག་དང་ཕྱོགས་བཞིར་ཡང་༎ ནས་དང་ཡུངས་ཀར་བླངས་ནས་སུ་༎ མར་གྱི་སྙིང་པོ་དང་སྦྱར་ནས་༎ མེ་ཡི་ནང་དུ་བླུག་པར་བྱ་༎
+K12mspram_u:219	 yadi kṣipraṃ na muñceyuḥ śrutvā buddhasya bhāṣitam /	K12D0558_H0516:510b-13	ལེགས་པར་གསུངས་པ་འདི་ཐོས་ནས་༎ གལ་ཏེ་མྱུར་དུ་མི་གཏོང་ན་༎
+K12mspram_u:220	 bhavantu jvalitāḥ sarve yathāgnau ghṛtasarṣapāḥ //  kṣemaṃ ca tena lapsyanti yakṣadaṇḍena tarjitāḥ /	K12D0558_H0516:510b-15	ཐམས་ཅད་འབར་བར་འགྱུར་བ་ནི༏་༏མར་དང་ཡུངས་ཀར་མེར་བླུགས་བཞིན་༎ གནོད་སྦྱིན་ཆད་པས་བསྡིགས་ནས་སུ་༎ དེ་དག་བདེ་བ་མི་རྙེད་དེ་༎
+K12mspram_u:222	 teṣāṃ dakṣiṇapārśveṣu mahāgaṇḍo bhaviṣyati //  citrabhūtā bhaviṣyanti yakṣarogena pīḍitāḥ /	K12D0558_H0516:510b-18	དེ་ཡི་རྩིབ་ལོགས་ག-ཡས་པར་ནི་༎ འབྲས་ཆེན་ནད་ཀྱང་འབྱུང་བར་འགྱུར་༎ གནོད་སྦྱིན་ནད་ཀྱིས་བཏབ་པ་ན་༎ ཤ་བཀྲའི་ནད་ཀྱིས་བཏབ་པར་འགྱུར་༎
+K12mspram_u:224	 aḍakavatīṃ rājadhānīṃ na gacchanti kadā cana //	K12D0558_H0516:510b-22	ལྕང་ལོ་ཅན་གྱི་ཕོ་བྲང་དུ་༎ གཞན་ཡང་འགྲོ་བར་མི་འགྱུར་རོ་༎
+K12mspram_u:225	 niveśanaṃ na paśyanti kuberasya yaśasvinaḥ /	K12D0558_H0516:510b-24	ལུས་ངན་གྲོགས་དང་ལྡན་པ་ཡི་༎ ཁྱིམ་ཡང་མཐོང་བར་མི་འགྱུར་ཏེ་༎
+K12mspram_u:226	 āsanaṃ ca na lapsyanti bhūtasaṃghāḥ samāgame //	K12D0558_H0516:510b-26	འབྱུང་པོ་མང་པོ་ཚོགས་པ་ན་༎ སྟན་ཡང་ཐོབ་པར་མི་འགྱུར་རོ་༎
+K12mspram_u:227	 annapānena rahitā jāyante yakṣamaṇḍale /	K12D0558_H0516:510b-28	གནོད་སྦྱིན་དག་གི་དཀྱིལ་འཁོར་དུ་༎ ཟས་སྐོམ་དང་ཡང་འབྲལ་བར་འགྱུར་༎
+K12mspram_u:228	 mahāsāhasrapramardanaṃ sūtraṃ yo yakṣo nānuvartate //	K12D0558_H0516:510b-30	སྟོང་ཆེན་རབ་འཇོམས་མདོ་སྡེ་ལ་༎ གནོད་སྦྱིན་གང་དག་མི་ཕྱོགས་པ་༎
+K12mspram_u:229	 tasya vajradharaḥ kruddho mūrdhānaṃ sphoṭayiṣyati /	K12D0558_H0516:510b-32	དེ་ལ་རྡོ་རྗེ་འཆང་ཁྲོས་ཏེ་༎ སྤྱི་བོ་དག་ནི་འགེམས་པར་འགྱུར་༎
+K12mspram_u:230	 karkaśakṣuradhāreṇa jihvān tasyeha cchetsyati //  tīkṣṇeṇa cāsya śastreṇa karṇau nāsāṃ ca cchetsyati /	K12D0558_H0516:510b-34	སྤུ་གྲིའི་སོ་ནི་རྩུབ་མོ་ཡིས་༎ དེ་༄༥༡༡ཨ་༌༎ ཡི་ལྕེ་ནི་གཅོད་པར་འགྱུར་༎ མཚོན་ཆ་ཤིན་ཏུ་རྣོན་པོ་ཡིས་༎ དེ་ཡི་སྣ་དང་རྣ་བ་གཅོད་༎
+K12mspram_u:232	 prapātayati cakreṇa kṣuradhāreṇa mastakam //  lohamudgarakīlena hṛdayaṃ cāsya pīḍayet /	K12D0558_H0516:511a-3	འཁོར་ལ་སྤུ་གྲིའི་སོ་འདྲ་བས་༎ ཀླད་པ་རབ་ཏུ་གཤགས་པར་བྱེད་༎ ཐོ་བ་ལྕགས་ཀྱིས་དཀྲིས་པ་ཡིས་༎ དེ་ཡི་སྙིང་ཡང་འཇོམས་པར་བྱེད་༎
+K12mspram_u:234	 mukhataḥ sravate cāsya pūyam uṣṇaṃ ca śoṇitam //	K12D0558_H0516:511a-7	རྣག་དང་ཁྲག་ནི་དྲོན་མོ་དག་། དེ་ཡི་ཁ་ནས་འཛག་པར་གྱུར་༎
+K12mspram_u:235	 vidyāpāśena daṇḍena sadā saṃsāragāminaḥ /	K12D0558_H0516:511a-9	རིག་སྔགས་ཞགས་པའི་ཆད་པ་ཡིས་༎ རྟག་ཏུ་འཁོར་བར་འགྲོ་བ་ན་༎
+K12mspram_u:236	 tatraiva saṃsariṣyanti saṃsāre cakramaṇḍale //	K12D0558_H0516:511a-11	འཁོར་བ་གནོད་སྦྱིན་དཀྱིལ་འཁོར་དུ་༎ དེ་ཉིད་དུ་ནི་འཁོར་བར་འགྱུར་༎
+K12mspram_u:237	 (Msp 8)  śriyāviṣṭā mahārājāḥ samāgamya caturdiśam /	K12D0558_H0516:511a-13	རྒྱལ་པོ་ཆེན་པོ་དཔལ་ལྡན་པ་༎ ཕྱོགས་བཞི་དག་ཏུ་སོང་གྱུར་ནས་༎
+K12mspram_u:239	 dharmasaṃnāhasaṃnaddhā niṣaṇṇā bhadrapīṭhake //	K12D0558_H0516:511a-15	ཆོས་ཀྱི་གོ་ཆ་བགོས་གྱུར་ཏེ་༎ བཟང་པོའི་ཁྲི་ལ་འདུག་པ་ནི་༎
+K12mspram_u:240	 dhṛtarāṣṭraś ca pūrvāyāṃ dakṣiṇena virūḍhakaḥ /  paścimena virūpākṣaḥ kuberaś cottarāṃ diśam //	K12D0558_H0516:511a-17	ཤར་ཕྱོགས་ན་ནི་ཡུལ་འཁོར་སྲུང་༎ ལྷོ་ཕྱོགས་ན་ནི་འཕགས་སྐྱེས་པོ་༎ ནུབ་ཕྱོགས་ན་ནི་མིག་མི་བཟང་༎ བྱང་ཕྱོགས་ན་ནི་ལུས་ངན་པོ་༎
+K12mspram_u:242	 rājñāṃ samāgatānāṃ hi jvalatāṃ tejasā śriyā /  antarīkṣaṃ tadā śāśtā sarvajño hi samudgataḥ //	K12D0558_H0516:511a-21	དཔལ་དང་གཟི་བརྗིད་འབར་བ་ཡི་༎ རྒྱལ་པོ་དག་ནི་ཕྱིན་པ་དང་༎ དེ་ཚེ་སྟོན་པ་ཐམས་ཅད་མཁྱེན་༎ བར་སྣང་གནས་ལ་རབ་ཏུ་འཕགས་༎
+K12mspram_u:244	 vajrāsane niṣadyeha vimāne brahmanirmite /	K12D0558_H0516:511a-24	ཚངས་པས་སྤྲུལ་པའི་གཞལ་མེད་ཁང་༎ དེ་ནི་རྡོ་རྗེའི་གདན་ལ་ཞུགས་༎
+K12mspram_u:245	 tato brahmā mahābrahmā prāñjalistho namasyati //	K12D0558_H0516:511a-26	དེ་ནས་ཚངས་དང་ཚངས་ཆེན་རྣམས་༎ ཐལ་མོ་སྦྱར་འཁོད་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:246	 suvarṇaparvataḥ śrīmāṃś taptakāñcanasaṃnibhaḥ /  padmapuṣpavad utphullaḥ śālarājeva puṣpitaḥ //	K12D0558_H0516:511a-28	དཔལ་ལྡན་གསེར་གྱི་རི་བོ་འདྲ་༎ གསེར་གྱི་མཆོད་སྡོང་དང་ཡང་མཚུངས་༎ མེ་ཏོག་པདམ་བཞིན་དུ་རྒྱས་༎ སའ་ལའི་རྒྱལ་བོ་བཞིན་དུ་རྒྱས་༎
+K12mspram_u:248	 pūrṇacandro ravir vāpi nakṣatraiḥ parivāritaḥ /	K12D0558_H0516:511a-32	ཉི་མ་དང་འདྲ་ཟླ་ཉ་ལ་༎ སྐར་མ་རྣམས་ཀྱིས་ཡོངས་བསྐོར་བཞིན་༎
+K12mspram_u:249	 suvarṇavarṇakāyena lakṣaṇair munir āvṛtaḥ //	K12D0558_H0516:511b-0	ཐུབ་སྐུ་༄༥༡༡བ་གསེར་གྱི་ཁ་དོག་ལ་༎ མཚན་རྣམས་ཀྱིས་ནི་ཡོངས་སུ་བསྐོར་༎
+K12mspram_u:250	 saṃstutvā lokapradyotaṃ brahmā lokapitāmahaḥ /  purato lokanāthasya lokapālān athābravīt //	K12D0558_H0516:511b-2	འཇིག་རྟེན་མེས་པོ་ཚངས་པ་ཡིས་༎ འཇིག་རྟེན་སྒྲོན་མ་བསྟོད་བྱས་ཏེ་༎ འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔར་ནི་༎ འཇིག་རྟེན་སྐྱེ་ལ་འདི་སྐད་སྨྲས་༎
+K12mspram_u:252	 na prāptaṃ lokapālānāṃ parṣado nānuśāsanam /	K12D0558_H0516:511b-6	འཇིག་རྟེན་སྐྱོང་གི་འཁོར་རྣམས་ཀྱིས་༎ རྗེས་སུ་བསྟན་པ་མ་ཐོབ་སྟེ་༎
+K12mspram_u:253	 ito buddhā hi jāyante buddhāḥ pratyekajā api //	K12D0558_H0516:511b-8	གང་ཕྱིར་འདི་ལས་སངས་རྒྱས་དང་༎ རང་སངས་རྒྱས་དག་འབྱུང་འགྱུར་ཞིང་༎
+K12mspram_u:254	 itaś ca śrāvakotpattir devāś cāpi samutsthitāḥ /	K12D0558_H0516:511b-9	འདི་ལས་ཉན་ཐོས་རྣམས་ཀྱང་སྟེ་༎ ལྷ་རྣམས་དག་ཀྱང་སྐྱེ་བར་འགྱུར་༎
+K12mspram_u:255	 jāyante brāhmaṇāś cetaḥ ṣaḍaṅgāvedapāragāḥ //	K12D0558_H0516:511b-11	རིག་བྱེད་ཡན་ལག་དྲུག་མཐར་ཕྱིན་༎ བྲམ་ཟེ་རྣམས་ཀྱང་སྐྱེ་བར་འགྱུར་༎
+K12mspram_u:256	 ṛṣayaś ca mahābhāgā itaḥ śramaṇabrāhmaṇāḥ /	K12D0558_H0516:511b-13	དྲང་སྲོང་སྐལ་པ་ཆེན་པོ་དང་༎ དགེ་སློང་བྲམ་ཟེ་འདི་ལས་སྐྱེ་༎
+K12mspram_u:257	 alpotsukānāṃ yuṣmākaṃ badhyate mānuṣīprajā //	K12D0558_H0516:511b-14	ཁྱེད་ཅག་སྙིང་ལས་ཆུང་བྱེད་པ་༎ མི་ཡི་སྐྱེ་དགུ་གནོད་པར་འགྱུར་༎
+K12mspram_u:258	 brahmaṇo vacanaṃ śrutvā lokapālā vaco 'bruvan /	K12D0558_H0516:511b-16	ཚངས་པ་ཡི་ནི་ཚིག་ཐོས་ནས་༎ འཇིག་རྟེན་སྐྱོང་གི་ཚིག་སྨྲས་པ་༎
+K12mspram_u:259	 evam etan mahābrahmann evam etat mahāmune //	K12D0558_H0516:511b-18	ཚངས་པ་ཆེན་པོ་དེ་བཞིན་ནོ༏་༏ཐུབ་པ་ཆེན་པོ་དེ་བཞིན་ནོ་༎
+K12mspram_u:260	 ete viśodhayiṣyāmaḥ samantāt sāgaraṃ vayam /  sumeruṃ kaṃpayitvā tu dhāraṇīṃ parivartya ca //	K12D0558_H0516:511b-19	བདག་གིས་རི་རབ་བསྒུལ་བྱས་ཤིང་༎ ས་ཡང་རབ་ཏུ་བཟློག་བྱས་ལ་༎ རྒྱ་མཚོ་ལ་ནི་ཐུག་པ་རྣམས་༎ རྣམ་པར་སྦྱང་བ་ཉིད་དུ་བྱ་༎
+K12mspram_u:262	 bandhayiṣyāmaḥ pāśena candrasūryau tathānilam /  diśaś cādarśanā bhāgās teṣāṃ neṣyāma sarvadā /	K12D0558_H0516:511b-23	ཞགས་པ་དམ་པོ་མ་ཉམས་པས་༎ ཉི་མ་ཟླ་བ་རླུང་རྣམས་དང་༎ སྐར་མ་དག་ནི་ཐམས་ཅད་ཀྱང་༎ གང་དག་རབ་ཏུ་སྡང་བྱེད་ཅིང་། ཕྱོགས་ཀྱང་སྣང་བར་མི་བྱའོ་༎
+K12mspram_u:265	 ye praduṣṭā bhaviṣyanti na ca lokahitodyataḥ //  lokaḥ sadevako hy eṣa garhate bhūtakāraṇāt /	K12D0558_H0516:511b-30	འཇིག་རྟེན་ལྷ་དང་བཅས་པ་དེ་༎ འབྱུང་བོ་རྣམས་ཀྱི་ཕྱིར་སྨོད་དེ་༎
+K12mspram_u:267	 parābhavanti bhūtāni hiṃsante mānuṣīṃ prajām //  (Msp 9)	K12D0558_H0516:511b-32	འབྱུང་པོ་མི་ཡི་སྐྱེ་དགུ་ལ་༎ གནོད་པར་བྱེད་ཅིང་འཚེ་༄༥༡༢ཨ་༌༎
+K12mspram_u:269	 atra mantradharāḥ kāmaṃ darśayanti parākramam /  atikrāmanti ye vidyāṃ mantrān auṣadham eva vā //	K12D0558_H0516:512a-1	བར་བྱེད་༎ གང་དག་སྔགས་དང་སྨན་རྣམས་དང་༎ རིག་སྔགས་ལས་ནི་འདའ་བྱེད་པ་༎ འདི་ལ་སྔགས་ཀྱི་དམ་པ་ནི་༎
+K12mspram_u:271	 vidyātikrāntāḥ pariṣadaḥ samantād daṇḍatarjitāḥ /	K12D0558_H0516:512a-3	ཕ་རོལ་གནོན་པ་སྟོན་པར་བྱེད་༎ རིག་སྔགས་ལས་ནི་འདའ་བའི་འཁོར་༎ ཀུན་ཏུ་ཆད་པས་བསྡིགས་བྱས་ཏེ་༎
+K12mspram_u:272	 kṛtvā samānayiṣyāmo lokanāthasya cāgrataḥ //	K12D0558_H0516:512a-6	འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔར་ནི་༎
+K12mspram_u:273	 teṣāṃ daṇḍaṃ praṇeṣyāmaḥ sūtraṃ brahmaṇā nirmitam /  yasyedaṃ bhāṣato viśvaṃ tarjate bhūtamaṇḍalam //	K12D0558_H0516:512a-8	གང་གིས་འབྱུང་པོའི་དཀྱིལ་འཁོར་དུ་༎ འདི་བཤད་པ་ནི་མི་ཉན་པ་༎ དེ་དག་ཆད་པ་བཤད་པར་བྱ་༎ ཚངས་པས་སྤྲུལ་པའི་མདོ་སྡེ་འོ་༎
+K12mspram_u:275	 buddhasya pādau vanditvā ālokya ca parasparam /	K12D0558_H0516:512a-12	སངས་རྒྱས་ཞབས་ལ་ཕྱག་བཙལ་ཏེ་༎ ཕན་ཚུན་དུ་ནི་བལྟས་བྱས་ལ་༎
+K12mspram_u:276	 suvarṇarūpyavaiḍūryamuktāyāḥ sphaṭikasya ca //  samusārāśmagarbhasya saptaratnasamākulān /	K12D0558_H0516:512a-14	བེཨེ་དའུརྱ་དང་གསེར་དང་དངུལ་༎ མུ་ཏིག་རྣམས་དང་ཤེལ་དག་དང་༎ སྤུག་དང་རྡོ་ཡི་སྙིང་པོ་དང་༎ རིན་ཆེན་བདུན་གྱིས་བརྒྱན་པ་ཡི་༎
+K12mspram_u:278	 sahasrārān suvarṇāṃś caturaḥ saṃskṛtān rathān //	K12D0558_H0516:512a-16	རྩིབས་སྟོང་ཁ་དོག་གསེར་འདྲ་བའི་༎ བཟོ་རྣམས་ཀུན་དང་ལྡན་པ་སྟེ་༎
+K12mspram_u:279	 viśvakarmasu saṃyuktān ṛddhya vaihāyasaṃgamān /	K12D0558_H0516:512a-19	རྫུ་འཕྲུལ་གྱིས་ནི་མཁའ་ལ་འགྲོ་།
+K12mspram_u:28	 daśadiśaś cākulībhūtāś tamo 'ndhakāraṃ ca prādurbhūtam /  nakṣatrāṇi ca na bhāṣante /	K12D0558_H0516:505a-10	མུན་པ་མུན་ནག་ཆེན་པོའང་བྱུང་སྟེ་སྐར་མ་རྣམས་ཀྱང་མི་སྣང་།
+K12mspram_u:280	 tatrābhiruhya rājānaḥ prakrāntā bhūtamaṇḍalam //	K12D0558_H0516:512a-20	རྒྱལ་པོ་དག་ནི་དེར་བཞུགས་ནས་༎ འབྱུང་པོའི་དཀྱིལ་འཁོར་ཉིད་དུ་དོང་༎
+K12mspram_u:281	 puṣpapūrṇāṃ mahīṃ kṛtvā cūrṇaiś cāpi hiraṇmayaiḥ /  yaṣṭīr ābadhya hi gale sūtrapāśāṃs tathāpi ca //	K12D0558_H0516:512a-22	ས་ནི་གསེར་གྱི་ཕྱེ་མ་དང་༎ མེ་ཏོག་དག་གིས་བཀང་བྱས་ནས་༎ མགུལ་བར་ལྟུང་དང་སྐུད་པ་དང་༎ ཞགས་པ་དག་ཀྱང་གདགས་བྱོས་ལ་༎
+K12mspram_u:283	 yakṣasenāpatīn sarvān preṣayitvā caturdiśam /  ānetha sarvabhūtāni yāvanto 'smadgatā diśi //	K12D0558_H0516:512a-24	ཕྱོགས་ཀྱི་ས་ནི་ཇི་སྙེད་པའི་༎ འབྱུང་པོ་ཐམས་ཅད་ཁྲིད་ཤོག་ཅེས་༎ གནོད་སྦྱིན་གྱི་ནི་སྡེ་དཔོན་ཀུན་༎ ཕྱོགས་བཞི་དག་ཏུ་དགྱེ་བ་བྱས་༎
+K12mspram_u:285	 sāhasrapramardanaṃ hy etet saṃśrautuṃ sūtram uttamam /	K12D0558_H0516:512a-28	སྟོང་ཆེན་རབ་ཏུ་འཇོམས་པ་ཡི་༎ མདོ་སྡེ་ཡི་ནི་དམ་པ་འདི་༎
+K12mspram_u:286	 brahmalokān samuditaṃ sarvalokair vicintitam //	K12D0558_H0516:512b-0	ཚངས་པའི་འཇིག་༄༥༡༢བ་རྟེན་བར་དུ་བྱུང་༎ ལྷ་རྣམས་ཀུན་གྱི་རྣམ་པར་བསམས་༎
+K12mspram_u:287	 mahāsāhasrakāyena marditā yakṣarākṣasāḥ /	K12D0558_H0516:512b-2	སྟོང་ཆེན་པོ་ཡི་ལུས་ཀྱིས་སུ་༎ གནོད་སྦྱིན་དང་ནི་སྲིན་པོ་བཏུལ་༎
+K12mspram_u:288	 śrutvā vākyaṃ kuberasya yakṣasenāpatir gataḥ //  vikramantaś caturdikṣu ghoṣaṃ ghoṣanti guhyakāḥ /	K12D0558_H0516:512b-4	ལུས་ངན་པོ་ཡི་ཚིག་ཐོས་ནས་༎ གནོད་སྦྱིན་གྱི་ནི་སྡེ་དཔོན་དག༏་ཕྱོགས་བཞི་དག་ཏུ་སོང་ནས་སུ་༎ གསང་བ་པོ་ལ་དྲག་ཏུ་བསྒོ་༎
+K12mspram_u:290	 aṣṭāviṃśac ca bhūtāni grahā gandharvajā mune //	K12D0558_H0516:512b-7	ཐུབ་པ་འབྱུང་པོ་ཉི་ཤུ་བརྒྱད་༎ དྲི་ཟ་ལས་བྱུང་གདོན་གྱི་རྣམས་༎
+K12mspram_u:291	 pūrve 'smin diśobhāge bhūtasaṃghāḥ śṛṇontu me /	K12D0558_H0516:512b-9	ཤར་ཕྱོགས་ཆ་ནི་འཁོད་པ་དག་།
+K12mspram_u:292	 sarve te sūtrapāśena pañcabandhanapīḍitāḥ //	K12D0558_H0516:512b-10	མདོ་སྡེའི་ཞགས་པས་དེ་དག་ཀུན་༎ བཅིང་བ་ལྔ་ཡིས་བསྡམས་པ་ཡི་༎
+K12mspram_u:293	 aṣṭāviṃśac ca bhūtāni grahāḥ kumbhāṇḍajā mune /	K12D0558_H0516:512b-12	འབྱུང་པོ་མང་པོ་ང་ལ་ཉོན་༎ ཐུབ་པ་འབྱུང་པོ་ཉི་ཤུ་བརྒྱད་༎
+K12mspram_u:294	 dakṣiṇe 'smin diśobhāge bhūtasaṃghāḥ śṛṇontu me //	K12D0558_H0516:512b-14	གྲུལ་བུམ་ལས་བྱུང་གདོན་གྱི་རིགས་༎ ལྷོ་ཕྱོགས་ཆ་འདིར་འཁོད་པ་དག་།
+K12mspram_u:295	 sarve te sūtrapāśena pañcabandhanapīḍitāḥ /	K12D0558_H0516:512b-16	མདོ་སྡེའི་ཞགས་པས་དེ་དག་ཀུན་༎ བཅིང་བ་ལྔ་ཡིས་བསྡམས་པ་ཡི་༎
+K12mspram_u:296	 aṣṭāviṃśac ca bhūtāni bhonti nāgagrahā mune /	K12D0558_H0516:512b-18	འབྱུང་པོ་མང་པོ་ང་ལ་ཉོན་༎ ཐུབ་པ་འབྱུང་པོ་ཉི་ཤུ་བརྒྱད་༎
+K12mspram_u:297	 paścime 'smin diśobhāge bhūtasaṃghāḥ śṛṇontu me //  sarve te sūtrapāśena pañcabandhanapīḍitāḥ /  (Msp 10)	K12D0558_H0516:512b-20	ཀླུ་ལས་གདོན་དུ་གྱུར་པ་རྣམས་༎ ནུབ་ཕྱོགས་ཆ་འདིར་འཁོད་པ་དང་༎ མདོ་སྡེའི་ཞགས་པས་དེ་དག་ཀུན་༎ བཅིང་བ་ལྔ་ཡིས་བསྡམས་པ་ཡི་༎
+K12mspram_u:3	 gṛdhrakūṭe parvate dakṣiṇe pārśve buddhagocare ratnavṛkṣe prabhāse vanaṣaṇḍe mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ //	K12D0558_H0516:504b-3	བྱ་རྒོད་ཕུང་པོའི་རིའི་ལྷོ་ཕྱོགས་ཀྱི་ངོས་སངས་རྒྱས་ཀྱི་སྤྱོད་ཡུལ་ཤིང་ལྗོན་པ་རབ་ཏུ་སྣང་བའི་ནགས་ཚོགས་ན་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུ་ལ་།
+K12mspram_u:30	 candrasūryau na prabhavato na tapato na virocato na ca prabhāsvarau bhavataḥ //	K12D0558_H0516:505a-11	ཉི་མ་དང་། ཟླ་བ་རྣམས་ཀྱང་འོད་དང་མི་ལྡན་པར་གྱུར་ཏེ་ལྷན་ནེར་མ་ཡིན་ལྷང་དེར་མ་ཡིན་ཞིང་འོད་མི་གསལ་བར་གྱུར་ཏོ་༎
+K12mspram_u:300	 aṣṭāviṃśac ca bhūtāni bhonti yakṣagrahā mune /	K12D0558_H0516:512b-23	འབྱུང་པོ་མང་པོ་ང་ལ་ཉོན་༎ ཐུབ་པ་འབྱུང་པོ་ཉི་ཤུ་བརྒྱད་༎
+K12mspram_u:301	 digbhāge uttare cāpi bhūtasaṃghāḥ śṛṇontu me //	K12D0558_H0516:512b-25	གནོད་སྦྱིན་ལས་ནི་གདོན་གྱུར་པ་༎ བྱང་ཕྱོགས་ཆ་འདིར་འཁོད་པ་དག་།
+K12mspram_u:302	 sarve te sūtrapāśena pañcabandhanapīḍitāḥ /	K12D0558_H0516:512b-27	མདོ་སྡེའི་ཞགས་པས་དེ་དག་ཀུན་༎ བཅིང་བ་ལྔ་ཡིས་བསྡམས་པ་ཡི་༎
+K12mspram_u:303	 jyeṣṭhaputraḥ kuberasya sañjayo naravāhanaḥ //	K12D0558_H0516:512b-29	འབྱུང་པོ་མང་པོ་ང་ལ་ཉོན་༎ ལུས་ངན་པོ་ཡི་བུ་ཐུ་བོ་༎ ཀུན་ཏུ་རྒྱལ་བ་མི་ལ་ཞོན་༎
+K12mspram_u:304	 pādamūle tu tasyaiva yakṣāṇāṃ ṣaṣṭhikoṭayaḥ /	K12D0558_H0516:512b-32	དེ་ཡི་དྲུང་ན་འཁོད་པ་ཡི་༎ གནོད་སྦྱིན་བྱེ་བ་དྲུག་ཅུ་དག་།
+K12mspram_u:305	 ākṛṣṭāḥ sūtrapāśena pañcabandhanapīḍitāḥ //	K12D0558_H0516:512b-34	བཅིང་བ་རྣམ་པ་ལྔས་བསྡམས་ནས་༎ མདོ་སྡེའི་༄༥༡༣ཨ་༌༎ ཞགས་པས་ཀུན་ཏུ་དྲངས་༎
+K12mspram_u:306	 putro dvitīyas tasyaiva janako nāma viśrutaḥ /	K12D0558_H0516:513a-2	དེ་ཉིད་ཀྱི་ནི་བུ་གཉིས་པ་༎ སྐྱེད་པ་པོ་ཞེས་རྣམ་གྲགས་པ་༎
+K12mspram_u:307	 pādamūle tu tasyaiva yakṣāṇāṃ ṣaṣṭhikoṭayaḥ //	K12D0558_H0516:513a-4	དེ་ཡི་དྲུང་ན་འཁོད་པ་ཡི་༎ གནོད་སྦྱིན་བྱེ་བ་དྲུག་ཅུ་དག་།
+K12mspram_u:308	 ākṛṣṭāḥ sūtrapāśena pañcabandhanapīḍitāḥ /	K12D0558_H0516:513a-6	བཅིང་བ་རྣམ་པ་ལྔས་བསྡམས་ནས་༎ མདོ་སྡེའི་ཞགས་པས་ཀུན་ཏུ་དྲངས་༎
+K12mspram_u:309	 putras tritīyas tasyaiva nāmnā cāsau mahāgrahaḥ //	K12D0558_H0516:513a-8	དེ་ཉིད་ཀྱི་ནི་བུ་གསུམ་པ་༎ དེ་ཡི་མིང་ནི་གདོན་པོ་ཆེ་༎
+K12mspram_u:31	 atha bhagavān adrākṣīd divyena cakṣuṣā viśuddhenātikrāntamānuṣyakena vaiśālyāṃ mahānagaryāṃ tāni bhayāni prādurbhūtani /  (Mps_2) apy ekatyānāṃ vaiśālakānāṃ licchavīnāṃ yā grāmāntaḥ purīṣābhūtair adhiṣṭhitā abhisaṃsṛṣṭā /	K12D0558_H0516:505a-12	དེ་ནས་ཡངས་པ་ཅན་གྱི་གྲོང་ཁྱེར་ཆེན་པོར་འཇིགས་པ་དེ་དག་བྱུང་བ་དང་། ཡངས་པ་ཅན་གྱི་ལི་ཙ་བའི་ཁ་ཅིག་གིས་གྲོང་གཞན་དང་། གྲོང་ཁྱེར་གང་ཡིན་པ་དེ་དག་གདོན་འབྱུང་པོས་བཏབ་པར་གྱུར་།
+K12mspram_u:310	 pādamūle tu tasyaiva yakṣāṇāṃ ṣaṣṭhikoṭayaḥ /	K12D0558_H0516:513a-10	དེ་ཡི་དྲུང་ན་འཁོད་པ་ཡི་༎ གནོད་སྦྱིན་བྱེ་བ་དྲུག་ཅུ་རྣམས་༎
+K12mspram_u:311	 ākṛṣṭāḥ sūtrapāśena pañcabandhanapīḍitāḥ //	K12D0558_H0516:513a-12	བཅིང་བ་རྣམ་པ་ལྔས་བསྡམས་ནས་༎ མདོ་སྡེའི་ཞགས་པས་ཀུན་ཏུ་དྲངས་༎
+K12mspram_u:312	 putraś caturthas tasyaiva nāmnāsau kalaśodaraḥ /	K12D0558_H0516:513a-14	དེ་ཉིད་ཀྱི་ནི་བུ་བཞི་པ་༎ དེ་ཡི་མིང་ནི་བུམ་པའི་ལྟོ་༎
+K12mspram_u:313	 pādamūle tu tasyaiva yakṣāṇāṃ ṣaṣṭhikoṭayaḥ //	K12D0558_H0516:513a-16	དེ་ཡི་དྲུང་ན་འཁོད་པ་ཡི་༎ གནོད་སྦྱིན་བྱེ་བ་དྲུག་ཅུ་རྣམས་༎
+K12mspram_u:314	 ākṛṣṭāḥ sūtrapāśena pañcabandhanapīḍitāḥ /	K12D0558_H0516:513a-18	བཅིང་བ་རྣམ་པ་ལྔས་བསྡམས་ནས་༎ མདོ་སྡེའི་ཞགས་པས་ཀུན་ཏུ་དྲངས་༎
+K12mspram_u:315	 maheśvaro mahādevaś caturbāhur mahābalaḥ //	K12D0558_H0516:513a-20	དབང་ཕྱུག་ཆེན་པོ་ལྷ་ཆེན་པོ་༎ ལག་བཞི་པ་ལ་སྟོབས་པོ་ཆེ་༎
+K12mspram_u:316	 pādamūle tu tasyaiva yakṣāṇāṃ ṣaṣṭhikoṭayaḥ /	K12D0558_H0516:513a-22	དེ་ཡི་དྲུང་ན་འཁོད་པ་ཡི་༎ གནོད་སྦྱིན་བྱེ་བ་དྲུག་ཅུ་རྣམས་༎
+K12mspram_u:317	 ākṛṣṭāḥ sūtrapāśena pañcabandhanapīḍitāḥ //	K12D0558_H0516:513a-24	བཅིང་བ་རྣམ་པ་ལྔས་བསྡམས་ནས་༎ མདོ་སྡེའི་ཞགས་པས་ཀུན་ཏུ་དྲངས་༎
+K12mspram_u:318	 āgatya sarvabhūtāni parvate bhūtamardane /	K12D0558_H0516:513a-26	འབྱུང་པོ་འཇོམས་པའི་རི་ལ་ནི་༎ འབྱུང་པོ་ཐམས་ཅད་ལྷགས་ནས་སུ་༎
+K12mspram_u:319	 eṣā udbhāvitā vidyā sarvavidyā śarmakarā //	K12D0558_H0516:513a-28	རིག་སྔགས་ཐམས་ཅད་འབྱུང་བའི་གནས་༎ རིག་སྔགས་འདི་ནི་ཀུན་ཏུ་བསམས་༎
+K12mspram_u:320	 niṣṭhuraṃ puruṣaṃ daṇḍaṃ sarvabuddhair hi bhāṣitam /	K12D0558_H0516:513a-30	ཆད་པ་མི་བཟད་དྲག་པོ་སྟེ་༎ གང་ཕྱིར་སངས་རྒྱས་ཀུན་གྱིས་གསུངས་༎
+K12mspram_u:321	 eṣa gacchāmaḥ śaraṇaṃ sarve gautamam ādarāt //	K12D0558_H0516:513a-32	གོའུ་ཏ་མ་ལ་གུས་པར་ནི་༎ ཐམས་ཅད་དེ་ལ་སྐྱབས་སུ་སོང་༎
+K12mspram_u:322	 aśāṭhyenānuvartetha mā ca sarveṇa bheṣyetha /	K12D0558_H0516:513a-34	ག-ཡོ་མེད་བར་ནི་རྗེས་ཞུགས་ཤིག་། ཐམས་ཅད་མེད་པར་གྱུར་ཏ་རེ་༎
+K12mspram_u:323	 tato muhūrtamātreṇa bhūtasaṃghāḥ samāgatāḥ //	K12D0558_H0516:513b-0	དེ་ནས་ཐང་ཅིག་ཙམ་གྱིས་༄༥༡༣བ་ནི༏་༏འབྱུང་པོ་མང་པོ་ཐམས་ཅད་ལྷགས་༎
+K12mspram_u:324	 parvateṣu prapāteṣu samudreṣu saraḥsu ca /  nadīprasravaṇotseṣu āvarteṣu ca ye sthitāḥ //	K12D0558_H0516:513b-1	རི་རྣམས་དང་ནི་ག-ཡང་ས་དང་༎ རྒྱ་མཚོ་དང་ནི་མཚོ་རྣམས་དང་༎ ཀླུང་དང་འབབ་ཆུ་ལུ་མ་དང་༎ དབང་ཀློང་དག་ན་གང་འཁོད་དང་༎ སྐྱེ་མོས་ཚལ་དང་གཞལ་མེད་ཁང་༎
+K12mspram_u:326	 udyāneṣu vimāneṣu ārāmeṣu vaneṣu ca /  caityasthāneṣu grāmeṣu vṛkṣamūleṣu ye sthitāḥ //  nagarasya praveśeṣu nigamajanapadeṣu ca /  rājakuleṣu dvāreṣu vimāneṣu ca ye sthitāḥ //  maṇḍapeṣu śmaśāneṣu tathā devakuleṣu ca /	K12D0558_H0516:513b-3	ལྗོན་ཤིང་དྲུང་ན་གང་གནས་དང་༎ གྲོང་ཁྱེར་སྒོ་ན་གང་གནས་དང༏་༏གྲོང་རྡལ་དང་ནི་ལྗོངས་རྣམས་དང་༎ རྒྱལ་པོའི་ཕོ་བྲང་སྒོ་རྣམས་དང་༎ གཞལ་མེད་ཁང་ན་གང་གནས་དང་༎ དཀྱིལ་འཁོར་དག་དང་དུར་ཁྲོད་དང་༎ དེ་བཞིན་ལྷ་ཁང་རྣམས་དང་ནི༏་༏མཚམས་དང་ཤོ་གམ་གནས་རྣམས་དང་༎
+K12mspram_u:33	 apy ekatyānāṃ ca grāmakumārakānāṃ gaṇakamahāmātyāmātyāpārṣadyādāsīdāsakarmakarapreṣyaparicārakāḥ	K12D0558_H0516:505a-13	གྲོང་གི་གཞོན་ནུ་རྣམས་དང་། རྩིས་མཁན་རྣམས་དང་། བློན་པོ་དང་། བློན་པོ་ཆེན་པོ་དང་། འཁོར་ན་གནས་པ་དང་། བྲན་ཕོ་དང་། བྲན་མོ་དང་། ལས་བྱེད་པ་དང་། མངག་པ་དང་། ག-ཡོག་ཁ་ཅིག་ཀྱང་གདོན་འབྱུང་པོས་བཏབ་པར་གྱུར་།
+K12mspram_u:332	 sīmāsu śulkaśālāyāṃ śūnyāgāre 'tha jāṅgale //  ūrdhvaṃ heṣṭhaṃ ca ye yakṣāś caturdikṣu vidikṣu ca /	K12D0558_H0516:513b-4	ཁང་སྟོང་དང་ནི་གྲམས་དང་༎ གནོད་སྦྱིན་གང་རྣམས་བླ་འོག་དང་༎ ཕྱོགས་བཞི་དང་ནི་མཚམས་རྣམས་ནས་༎
+K12mspram_u:334	 yakṣakoṭīsahasrāṇi vidyāpāśena karṣitāḥ //	K12D0558_H0516:513b-5	གནོད་སྦྱིན་བྱེ་བ་སྟོང་རྣམས་ནི་༎ རིག་སྔགས་ཞགས་པས་བཀུག་པ་རྣམས་༎
+K12mspram_u:335	 mṛdaṅgavāditaṃ kṛtvā kecid gargaravāditam /	K12D0558_H0516:513b-7	རྫ་རྔ་དག་ནི་བརྡུངས་ནས་སུ་༎ ལ་ལས་རྔ་ཟླུམ་དག་ནི་བརྡུང་༎
+K12mspram_u:336	 vīṇāpaṇavaveṇūś ca vādayanto mahābalāḥ //	K12D0558_H0516:513b-9	པི་ཝང་གླིང་བུ་འཁར་བའི་རྔ་༎ སྟོབས་ཆེ་རྣམས་ནི་སྒྲ་འབྱིན་ཏེ་༎
+K12mspram_u:337	 kṛtvā ca vāditaṃ citraṃ gāndharvaṃ nāṭyam eva ca /	K12D0558_H0516:513b-11	རོལ་མོའི་དབྱངས་སྒྲ་སྣ་ཚོགས་དང་༎ གླུ་དང་གར་རྣམས་བྱས་ནས་སུ་༎
+K12mspram_u:338	 indraḥ somaś ca varuṇo bharadvājaḥ prajāpatiḥ //	K12D0558_H0516:513b-12	དཔང་པོ་ཟླ་བ་ཆུ་ལྷ་དང་༎ བྷ་ར་དབ༹་ཛ་སྐྱེ་དགུ་བདག་།
+K12mspram_u:339	 mātalir lohitākṣaś ca himavantaḥ supūrṇakaḥ /  candanaḥ kāmaśreṣṭhī ca maṇikaṇṭho nikaṇṭhakaḥ //  prajāgurur yatīśaś ca devasūtaś ca mātaliḥ /	K12D0558_H0516:513b-13	མི་ལྡན་པ་དང་ཀུན་ཏུ་ལྟ་༎ མངོན་ཤེས་གངས་ཅན་རྫོགས་པ་དང་༎ ཙནདན་དང་ནི་འདོད་མཆོག་དང་༎ མགུལ་བ་མཛེས་དང་མགུལ་ངེས་དང་༎ སྐྱེ་དགུའི་བླ་མར་གྱུར་པ་དང་༎ ལྷ་ལས་བྱུང་བའི་མ་ལྡན་དང་། ༄༥༡༤ཨ་༌༎
+K12mspram_u:34	 bhūtair abhibhūtāḥ samantataś ca vaiśālījanapade yā bhikṣubhikṣuṇyupāsakopāsikā bhītās  trastāḥ saṃvignāḥ saṃdṛṣṭaromakūpajātā ūrdhvamukhāḥ prakrandanto buddhadharmasaṃghān namasyanti //	K12D0558_H0516:505b-0	ཡུལ་ཡངས་༄༥༠༥བ་པ་ཅན་གྱི་ལྗོངས་ཀུན་གྱི་དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་རྣམས་ཀྱང་འཇིགས་སྐྲག་དངངས་ཏེ་སྐྱི་བུང་ཞེས་བྱེད་ནས་ཁ་གནམ་དུ་བལྟས་ཏེ་དུ་འབོད་ཅིང་སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་ལ་ཕྱག་འཚལ་།
+K12mspram_u:342	 citrasenaś ca gandharvo nararājo jinarṣabhaḥ //  tathā pañcaśikho nāma tumburuḥ sūryavarcasaḥ /	K12D0558_H0516:514a-1	དྲི་ཟ་སྣ་ཚོགས་སྡེ་དང་ནི་༎ མི་རྒྱལ་རྒྱལ་བ་ཁྱུ་མཆོག་དང་༎ དེ་བཞིན་ཕུད་བུ་ལྔ་ཞེས་བྱ་༎
+K12mspram_u:344	 śailaś caivāsiputraś ca viśvāmitro yaśodharaḥ //  āḍavakaḥ sumanaś ca śūcīkarṇo darīmukhaḥ /	K12D0558_H0516:514a-3	ག-ཡེར་མ་དང་ནི་ཉི་ཟེར་དང་༎ ཉ་ལྕིབས་དང་ནི་རབ་གྲི་བུ་༎ ཀུན་གྱི་བཤེས་དང་གྲགས་འཛིན་དང་༎ འབྲོག་གནས་དང་ནི་ཡིད་བཟང་དང་༎ ཁབ་སྣ་དང་ནི་རི་སུལ་ཁ་༎
+K12mspram_u:346	 pañcālagaṇḍaḥ sumukhaḥ sasainyabalavāhanaḥ //	K12D0558_H0516:514a-5	ལྔ་འཛིན་དང་ནི་ཁབ་བཟང་དག་། སྡེ་དག་དཔུང་དང་བཞོན་པར་བཅས་༎
+K12mspram_u:347	 devā nāgāś ca gandharvā asurā yakṣarākṣasāḥ /	K12D0558_H0516:514a-7	ལྷ་དང་ཀླུ་དང་དྲི་ཟ་དང་༎ གནོད་སྦྱིན་སྲིན་པོ་ལྷ་མ་ཡིན་༎
+K12mspram_u:348	 traitīyakaś ca unmādās tathā cāturthako jvarāḥ //	K12D0558_H0516:514a-8	ཉིན་གསུམ་པ་ཡི་སྨྱོ་བྱེད་དང་༎ དེ་བཞིན་བཞི་པའི་རིམས་དག་དང་༎ འཇིག་རྟེན་འཚེ་བ་གང་ཡིན་པ་༎
+K12mspram_u:349	 ye ca lokaṃ viheṭhanti praduṣṭā yakṣarākṣasāḥ /	K12D0558_H0516:514a-9	གནོད་སྦྱིན་སྲིན་པོ་མ་རུངས་རྣམས་༎
+K12mspram_u:350	 caturdikṣu samānīya pañcabandhanapīḍitāḥ //	K12D0558_H0516:514a-10	ཕྱོགས་བཞི་ནས་ནི་བཀུག་ནས་སུ་༎ བཅིང་བ་ལྔ་ཡིས་བསྡམས་པ་རྣམས་༎
+K12mspram_u:351	 prāñjalīkāḥ puraḥ sthitvā lokanātham athābruvan /	K12D0558_H0516:514a-12	འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔ་རུ་༎ ཐལ་སྦྱར་འཁོད་ནས་འདི་སྐད་སྨྲས་༎
+K12mspram_u:352	 namas te puruṣavīra namas te puruṣottama //	K12D0558_H0516:514a-14	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ་༎
+K12mspram_u:353	 prāñjalīkā namasyāmo dharmarāja namo 'stu te /	K12D0558_H0516:514a-16	ཐལ་མོ་སྦྱར་ནས་ཕྱག་འཚལ་ལོ་༎ ཆོས་རྒྱལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎ དེ་དག་གི་ནི་མདུན་རྒྱུག་པ་༎
+K12mspram_u:355	 caturbhujā mahāghorā bahupādekapādaḥ /	K12D0558_H0516:514a-19	འབྱུང་པོ་གནོད་སྦྱིན་ལུས་པོ་ཆེ་༎ ལག་པ་བཞི་པ་མ་རུངས་པ་༎
+K12mspram_u:356	 catuṣpādā dvipādāś ca ūrdhvapādā adhomukhaḥ //  bahukāyaikaśīrṣāś ca ekakāyāś catuḥśirāḥ /	K12D0558_H0516:514a-21	རྐང་མང་དང་ནི་རྐང་གཅིག་པ་༎ རྐང་བཞི་པ་དང་རྐང་གཉིས་པ་༎ རྐང་པ་སྒྲེང་ལ་སྤྱིའུ་ཚུགས་དང་༎ ལུས་མང་མགོ་བོ་གཅིག་པ་དང་༎ ལུས་གཅིག་པ་ལ་མགོ་བཞི་པ་༎
+K12mspram_u:358	 bahunetrā mahākāyāś ca ekākṣā dvādaśodarāḥ //  kharoṣṭhahastiśīrṣāś ca ūrdhvahastā adhaḥśirāḥ /	K12D0558_H0516:514b-0	མིག་མང་པོ་ལ་ལུས་ཕྱེད་དང་༎ མིག་གཅིག་ལྟོ་ནི་བཅུ་༄༥༡༤བ་གཉིས་དང་༎ བོང་བུ་རྔ་མོ་གླང་ཆེན་མགོ་།
+K12mspram_u:36	 ye ca brāhmaṇagṛhapatayo buddhaśāsane nābhipannās te cāpy ekatyā brāhmaṇagṛhapatayo brāhmaṇaṃ namasyanti /	K12D0558_H0516:505b-2	བྲམ་ཟེ་དང་། ཁྱིམ་བདག་གང་དག་སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་མངོན་པར་མ་དད་པའི་བྲམ་ཟེ་དང༏་ཁྱིམ་བདག་དེ་དག་ཁ་ཅིག་ནི་ཚངས་པ་ལ་ཕྱག་འཚལ་།
+K12mspram_u:360	 śastradantāḥ śastrabāhū śastrapādāś ca rākṣasāḥ //	K12D0558_H0516:514b-1	ལག་པ་བསྒྲེང་ལ་མགོ་བཏུད་དང་༎ མཚོན་ཆའི་སོ་དང་མཚོན་ཆའི་ལག་།
+K12mspram_u:362	 tāmrakeśās tāmrahastās tāmrākṣās tāmrapāṇayaḥ /  tāmramudgarapādāś ca tāmranāsā ayomukhāḥ //  ādīptahastapādāś ca manuṣyatanunā sthitāḥ /	K12D0558_H0516:514b-3	ཟངས་ཀྱི་སྐྲ་དང་ཟངས་ཀྱི་སོ་༎ ཟངས་ཀྱི་མིག་དང་ཟངས་ཀྱི་ལག་། ཟངས་ཀྱི་ཐོ་བའི་རྐང་པ་དང་༎ ཟངས་ཀྱི་སྣ་དང་ཟངས་ཀྱི་ཁ་། རྐང་ལག་ཀུན་ཏུ་འབར་བ་དང་༎ མི་ཡི་ལུས་སུ་གནས་པ་རྣམས་༎
+K12mspram_u:365	 kāṇāḥ kubjās tu garuḍā vikṛtākṣā vijṛmbhakāḥ //  makaravyāḍarūpāś ca virūpāś sakalonmukhāḥ /	K12D0558_H0516:514b-6	སྒུར་ཞར་ཝ་བ་གསུམ་ཡོད་པ་༎ མིག་མི་སྡུག་ལ་ཁ་གླལ་བ་༎ ཆུ་སྲིན་སྟག་གི་གཟུགས་དང་ནི་༎ གཟུགས་མི་སྡུག་དང་ཁ་རལ་པོ་༎
+K12mspram_u:367	 lamvoṣṭhā vakradantāś ca praduṣṭā bhṛkuṭīmukhāḥ //	K12D0558_H0516:514b-10	མཆུ་འཕྱངས་པོ་དང་སོ་ཡོན་པོ་༎ རབ་ཏུ་གཏུམ་པོ་ཁྲོ་གཉེར་ཅན་༎
+K12mspram_u:368	 sthūlodarāḥ kumbhakarṇā laṃvakarṇā akarṇakāḥ /  dīrghakarṇā dīrghabāhū dīrghakeśāgrapāṇayaḥ //	K12D0558_H0516:514b-12	གསུས་པོ་ཆེ་དང་བུམ་རྣ་བོ་༎ རྣ་འཕྱངས་པ་དང་རྣ་བ་མེད་༎ ལག་རིང་དང་ནི་རྣ་བ་རིང་༎ སྣ་ཡི་རྩེ་དང་ལ་རྩེ་རིང་༎
+K12mspram_u:37	 kecit punaḥ śakraṃ kecil lokapālān namasyanti /	K12D0558_H0516:505b-3	ཁ་ཅིག་ནི་བརྒྱ་བྱིན་ལ་། ཁ་ཅིག་ནི་འཇིག་རྟེན་སྐྱོང་བ་རྣམས་ལ་ཕྱག་འཚལ་།
+K12mspram_u:370	 śuṣkakāyā dīrghakāyā dīrghakeśāḥ svalaṃkṛtāḥ /  pādabhārāḥ kṛṣagrīvā durgandhāḥ karaśodarāḥ //	K12D0558_H0516:514b-16	ལུས་སྐམ་ལུས་ནི་རིང་བ་དང་༎ སྐྲ་རིང་རབ་ཏུ་བརྒྱན་པ་དང་༎ རྐང་པ་མིད་པ་ཕྲ་བ་དང་༎ དྲི་ང་བ་དང་བུམ་ལྟོ་བོ་༎
+K12mspram_u:372	 makarasya yathā aṃśo muṣalamudgarodarāḥ /  ūrdhvanetrā mahākarṇā ūrdhvakeśāḥ sulohitāḥ //  sthūlaśīrṣā dhanugrīvāḥ kubjakuṃbhodarāḥ kṛṣāḥ /	K12D0558_H0516:514b-17	ཡན་ལག་ཆུ་སྲིན་འདྲ་བ་དང་༎ གཏུན་ཤིང་ཐོ་བ་འདྲ་བའི་ལྟོ་༎ གནམ་ལྟོ་བོ་ལ་རྣ་བོ་ཆེ་༎ མགོ་བོ་ཆེ་ལ་གཞུ་མགྲིན་པོ་༎ སྐམ་པོ་སྒུར་པོ་བུམ་ལྟོ་བོ་༎
+K12mspram_u:375	 vavṛṣur vahnivarṣāṇi merumūrdhaṃ vicārya vai //	K12D0558_H0516:514b-22	རི་རབ་རྩེ་མོ་བསྒུལ་ནས་སུ་༎ མེ་འདག་གི་ནི་ཆར་པ་འབེབས་༎
+K12mspram_u:376	 vṛkṣaparvatapāṣāṇām agrakūṭaṃ samadyutim /  śaṃkhabherīmṛdaṅgānāṃ kuṃbhāṇḍā dundubhisvarāḥ //  pramuñcanti ravaṃ bhīmaṃ mahākaṇṭhāḥ kharasvarāḥ /  kālanīlakapītāś ca haritpiṅgalapiṅgalāḥ //	K12D0558_H0516:514b-24	ལྗོན་ཤིང་རི་དང་རྡོ་བ་དང་༎ སྤྲིན་གྱི་ཚོགས་ཀྱི་མདོག་འདྲ་བ་༎ དུང་དང་རྔ་ཆེན་རྫ་རྔ་དང་༎ གྲུལ་བུམ་རྔ་ཕྲན་རྣམས་ཀྱི་སྒྲ་༎ འཇིགས་པའི་སྒྲ་ནི་རབ་ཏུ་འབྱིན་༎
+K12mspram_u:38	 kecit punar maheśvaramāṇibhadrapūrṇabhadrahārītīcandrasūryagrahanakṣatraparvatavanaṣaṇḍauṣadhivṛkṣanadyutsasarohradakūpataḍāgacaityasthānāny api namasyanti /	K12D0558_H0516:505b-5	ཁ་ཅིག་ནི་དབང་ཕྱུག་ཆེན་པོ་དང་། ནོར་བུ་བཟང་པོ་དང་། གང་བ་བཟང་པོ་དང་། འཕྲོག་མ་དང་། ཉི་མ་དང་། ཟླ་བ་དང་། གཟའ་དང་། སྐར་མ་དང་། རི་དང་། ནགས་ཚོགས་དང་། སྨན་དང༏་ཤིང་ལྗོན་པ་དང་།
+K12mspram_u:382	 hatakṛtyamāṃśarudhiraṃ medamajjān tathāpare /  sūcīlomāsikeśāś ca raktalohitamrakṣitāḥ //	K12D0558_H0516:515a-1	མེ་ལྟར་དམར་སེར་དང༏། ཁ་པ་འདྲའི་སྤུ་དང་རལ་གྲིའི་སྒྲ་༎ དམར་པོ་ཁྲག་གིས་བསྐུས་པ་རྣམས་༎
+K12mspram_u:384	 bhakṣamāṇā vidhāvanti kuṇapaṃ saṃpragṛhya vai /	K12D0558_H0516:515a-3	མི་རོ་དག་ནི་ཁྱེར་ནས་སུ་༎ ཟ་བཞིན་དུ་ནི་རྣམ་པར་རྒྱུག་།
+K12mspram_u:385	 tīkṣudantā raktahastā oṣṭhamrakṣitalohitāḥ //  ardhakhāditagātraiś ca kṛtvā hastau prapūritau /  vṛkkāhṛdayajatrunijaghaṇaṃ bhakṣamāṇakāḥ //  karālā hastapādebhyo harante prāṇināṃ balam /	K12D0558_H0516:515a-5	སོ་རྣོན་ལག་པ་དམར་པོ་དང་༎ མཆུ་ནི་ཁྲག་གིས་བསྐུས་པ་དང་༎ ལུས་ཕྱེད་དག་ནི་ཟོས་པ་དང་༎ མཁལ་མ་སྙིང་དང་ནང་ཁྲོལ་གྱིས་༎ སྙིམ་པ་ཤིན་ཏུ་བཀང་བ་དང་༎ བྱིས་པ་དག་ནི་ཟ་བཞིན་དུ་༎ རྐང་ལག་རྣམས་ཀྱི་སྟོབས་ཀྱང་འཕྲོག་།
+K12mspram_u:389	 asthisaṃkarakāyena trāsayanti janān bahūn //	K12D0558_H0516:515a-9	ཀེང་རུས་ཀྱི་ནི་ལུས་ཀྱིས་སུ་༎ སྐྱེ་བོ་མང་པོ་སྐྲག་པར་བྱེད་༎
+K12mspram_u:39	 kathaṃ nāmaitad syād vayam evaṃrūpād upadravato bhayasthānāt parimucyema iti //	K12D0558_H0516:505b-6	ཀླུང་དང་། ལྟེང་ཀ་དང་། མཚེའུ་དང་། རྫིང་བུ་དང་། རྫིང་དང་། མཆོད་རྟེན་གྱི་གནས་ན་གནས་པ་དག་ལ་ཕྱག་འཚལ་ཞིང་བདག་ཅག་འདི་འདྲ་བའི་གནོད་པས་འཇིགས་པའི་གནས་ནས་ཇི་ལྟར་ཐར་བར་འགྱུར་སྙམ་དུ་སེམས་ཤིང་འཁོད་པ་དག་བཅོམ་ལྡན་འདས་ཀྱིས་མི་ལས་འཕགས་པའི་སྤྱན་རྣམ་པར་དག་པས་གཟིགས་སོ་༎
+K12mspram_u:390	 gṛhītvā mānuṣaṃ carma lohitena prapūritam /	K12D0558_H0516:515a-11	ཁྲག་གིས་རབ་ཏུ་བཀང་བ་ཡིས་༎ མི་ཡི་པགས་པ་ཐོགས་ནས་སུ་༎
+K12mspram_u:391	 viṣeṇogreṇa saṃsṛṣṭaṃ vikṣipanti diśodaśam //	K12D0558_H0516:515a-13	མི་བཟད་དུག་གིས་ཀུན་བསྐུས་ཏེ་༎ ཕྱོགས་ཕྱོགས་དག་ཏུ་རྣམ་པར་རྒྱུག་།
+K12mspram_u:393	 nagarāṇāṃ praveśeṣu vikṣipanti kulākulam /	K12D0558_H0516:515a-15	གྲོང་ཁྱེར་རྣམས་ཀྱི་སྒོ་དག་དང་༎ ཁྱིམ་ནས་ཁྱིམ་དུ་རྣམ་པར་འཐོར་༎
+K12mspram_u:394	 vātaṃ pittaṃ ca śleṣmāṇaṃ kṣobhayanti caturdiśam //	K12D0558_H0516:515a-16	རླུང་དང་བད་ཀན་མཁྲིས་པ་རྣམས་༎ ཕྱོགས་བཞི་དག་ཏུ་འཁྲུག་པར་བྱེད་༎
+K12mspram_u:395	 iti saṃtiṣṭhante tatra rājapīḍā mahābhayāḥ /	K12D0558_H0516:515a-18	དེ་ལྟར་དེ་ན་རྒྱལ་པོ་ཡི་༎ གདོན་དང་འཇིགས་པ་ཆེན་པོ་རྣམས་༎
+K12mspram_u:396	 sarve samāgatās te 'pi vidyāpāśena karṣitāḥ //	K12D0558_H0516:515a-21	རིག་སྔགས་ཞགས་པས་རབ་ཏུ་བསྡམས་༎
+K12mspram_u:397	 namas te puruṣavīra namo 'stu puruṣottama /  namasyāmo 'ñjalikarā dharmarāja namo 'stu te //	K12D0558_H0516:515a-22	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་སྐྱོད་ལ་༎ ཆོས་རྒྱལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:399	 caranti nagaraṃ grāmaṃ rāṣṭrarājakuleṣu ca /	K12D0558_H0516:515a-26	གྲོང་ཁྱེར་གྲོང་དང་ཡུལ་འཁོར་དང་༎ ཕོ་བྲང་འཁོར་ན་རྒྱུ་བ་ནི་༎
+K12mspram_u:4	 tadyathā / āyuṣmatā ca śāriputreṇa /  āyuṣmatā ca mahāmaudgalyāyanena /  āyuṣmatā ca mahākāśyapena /  ayuṣmatā ca gayākāśyapena /  āyuṣmatā ca nadīkāśyapena /	K12D0558_H0516:504b-4	འདི་ལྟ་སྟེ་། ཚེ་དང་ལྡན་པ་ཤའ་རིའི་བུ་དང་། ཚེ་དང་ལྡན་པ་མོཨོངྒལ་གྱི་བུ་ཆེན་པོ་དང་། ཚེ་དང་ལྡན་པ་འོད་སྲུང་ཆེན་པོ་དང་། ཚེ་དང་ལྡན་པ་ག་ཡ་འོད་སྲུང་དང་། ཚེ་དང་ལྡན་པ་ཆུ་ཀླུང་འོད་སྲུང་དང་།
+K12mspram_u:40	 atha bhagavāṃs tathā rūpam ṛddhyabhisaṃskāram akāśīd yathā rūpeṇa ṛddhyabhisaṃskāreṇābhisaṃskṛtena	K12D0558_H0516:506a-0	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་རྫུ་འཕྲུལ་མངོན་པར་འདུ་མཛད་པ་མངོན་པར་འདུ་མཛད་པས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་༄༥༠༦ཨ་༌༎
+K12mspram_u:400	 yakṣā ojoharā ghorā nṛmāṃsarudhirāsinaḥ //	K12D0558_H0516:515b-0	གནོད་སྦྱིན་མ་༄༥༡༥བ་རུངས་མདངས་འཕྲོག་པ་༎ སྙིང་རྗེ་མེད་ཅིང་ཁྲག་འཐུང་བ་༎
+K12mspram_u:401	 mahākāyā mahābhīmā mahābalā maheśvarāḥ /	K12D0558_H0516:515b-2	ལུས་ཆེན་འཇིགས་པ་ཆེན་པོ་སྟེ་༎ སྟོབས་པོ་ཆེ་ལ་སྒྲ་ཡང་ཆེ་༎
+K12mspram_u:402	 daśagrīvāḥ sahasrākṣā mahāgrāsā mahāmukhāḥ //	K12D0558_H0516:515b-4	མགྲིན་བཅུ་པོ་ལ་མིག་སྟོང་པོ་༎ གདོན་ཆེན་མིག་ནི་དམར་པོ་རྣམས་༎
+K12mspram_u:403	 mahatā parivāreṇa śastrahastāḥ subhairavāḥ /	K12D0558_H0516:515b-6	འཁོར་ནི་མང་པོ་རྣམས་བཏང་སྟེ་༎ ལག་ན་མཚོན་ཐོགས་རབ་ཏུ་འཇིགས་༎
+K12mspram_u:404	 ahicarmagṛhītāś ca ulkāhastāś caturbhujāḥ //	K12D0558_H0516:515b-8	སྦྲུལ་གྱི་ཞགས་པ་ཐོགས་པ་དང་༎ ལག་བཞི་ལག་ན་སྒྲོན་མ་ཐོགས་༎
+K12mspram_u:405	 daṇḍahastāḥ śastrahastāḥ śūlino vajrapāṇinaḥ /	K12D0558_H0516:515b-9	ལག་ན་མཚོན་དང་དབྱིག་པ་ཐོགས་༎ རྡོ་རྗེ་མ་དུང་རྩེ་ལག་པར་ཐོགས་༎ རབ་ཏུ་དྲག་པའི་དམག་བརྒལ་ནས་༎
+K12mspram_u:406	 uttrāsenti diśaḥ sarvāyudhvaṃ kṛtvā sudāruṇam //	K12D0558_H0516:515b-12	ཕྱོགས་ཀུན་ཏུ་ནི་སྐྲག་པར་བྱེད་༎
+K12mspram_u:407	 prasannā guhyakāḥ sarve duṣṭānām ālaye sthitāḥ /  grasante mānuṣe loke naranāryas tathetarān //	K12D0558_H0516:515b-13	སྡང་བའི་གནས་ན་འཁོད་པ་ཡི་༎ གསང་བ་པོ་ནི་དད་ཀུན་ཀྱང༏་༏མི་ཡི་འཇིག་རྟེན་འདི་དག་ཏུ་༎ སྐྱེས་པ་བུད་མེད་གཞན་ཡང་འཛིན་༎
+K12mspram_u:409	 uṣṇair māṃsaiś ca rudhirair bhāntāṅgāḥ kāmarūpiṇaḥ /	K12D0558_H0516:515b-16	ཤ་ཁྲག་དྲོན་མོར་བཅས་པ་ལ་༎ རྣམ་པར་འཁྲུལ་ཅིང་འདོད་པའི་གཟུགས་༎
+K12mspram_u:41	 trisāhasramahāsāhasraṃ lokadhātuṃ svareṇa vijñāpya sadevamānuṣāsuraṃ lokaṃ prasādya	K12D0558_H0516:506a-1	འཇིག་རྟེན་གྱི་ཁམས་དབྱངས་ཀྱིས་གོ་བར་གྱུར་ནས་ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་དད་པར་གྱུར་ཏེ་འདུས་པར་གྱུར་པ་རྣམ་པ་དེ་ལྟ་བུའི་རྫུ་འཕྲུལ་མངོན་པར་འདུ་མཛད་པ་།
+K12mspram_u:410	 siṃhavyāghrāś ca mahiṣīgokharoṣṭrebharūpiṇaḥ //  ṛkṣadvīpivṛkanyaṅkuśṛgālaiḍaviḍālakaiḥ /  rūpair ākhukapiprakhyaiḥ khaṅgīśūkaranākulaiḥ //	K12D0558_H0516:515b-18	སེང་གེ་དང་ནི་སྟག་དང་རྟ་། མ་ཧེ་བ་ལང་བོང་བུ་རྔ་༎ གླང་པོ་ཆེ་ཡི་གཟུགས་འདྲ་བ་༎ དོམ་དང་གཟིག་དང་སྤྱང་ཀི་དང་༎ ཁྱི་དང་ཝ་དང་ར་དག་དང་༎ བྱི་ལ་བྱི་བ་སྤྲེའུའི་གཟུགས་༎ བསེ་དང་ཕག་དང་སྲེ་མོང་དང་༎ ཉ་དང་རུས་སྤལ་དག་གི་གཟུགས་༎ ཁ་ཅིག་དག་ནི་སྲམ་གྱི་གཟུགས་༎
+K12mspram_u:414	 ulūkagṛdhrasenyādi tathā timitimiṅgilaiḥ //  māyūrair haṃsakāpotai rūpaiḥ krauñcavihaṅgamaiḥ /	K12D0558_H0516:515b-24	ཁབ༹་དང་འུག་པ་ཁུ་བྱུག་དང་༎ བྱ་རྒོད་ཁྲ་དང་ཉ་མིད་བཅས་༎ རྨ་བྱ་དང་པ་ཐི་བྱ་དང་༎ ཁྲུང་ཁྲུང་དང་ནི་བྱ་རྣམས་དང༏་༏ཁ་ཅིག་བྱ་གག་གཟུགས་རྣམས་སུ་༎
+K12mspram_u:416	 kecit kukkuṭarūpeṇa yakṣāḥ paśyanti mānuṣān //	K12D0558_H0516:515b-26	གནོད་སྦྱིན་རྣམས་ནི་མི་ཡིས་མཐོང་༎
+K12mspram_u:417	 suparṇīpakṣiveṣeṇa saṃtrāsenti janān bahūn /	K12D0558_H0516:515b-28	སྐྱེ་བོ་མང་པོ་སྐྲག་པར་བྱེད་༎
+K12mspram_u:418	 keṣāṃcid mānuṣaṃ śīrṣaṃ śarīraṃ kharakotkaṭam /	K12D0558_H0516:515b-29	ཁ་ཅིག་མི་ཡི་མགོ་ཅན་ལ་༎ ལུས་༄༥༡༦ཨ་༌༎ ནི་བྱ་གག་བོང་བུ་འདྲ་༎
+K12mspram_u:420	 vinagnāḥ kāmaparamā antramālāvaguṇṭhitāḥ //	K12D0558_H0516:516a-3	རྣམ་པར་འཁྲུགས་ཤིང་འདོད་ལ་མོས་༎ རྒྱུ་མའི་ཕྲེང་བས་ཀུན་ཏུ་དཀྲིས་༎
+K12mspram_u:421	 praharanti triśūlena pīḍāṃ kurvanti prāṇinām /	K12D0558_H0516:516a-5	རྩེ་གསུམ་མདུང་གིས་རབ་འདེབས་ཤིང་༎ སྲོག་ཆགས་རྣམས་ལ་གནོད་བར་བྱེད་༎
+K12mspram_u:422	 muñcanti dāruṇaṃ śvāsaṃ saṃtāpenti imāḥ prajāḥ //  (Msp 14)  vicitrarūpā dṛśyante yāvatī prāṇasaṃtatiḥ /	K12D0558_H0516:516a-7	མི་བཟད་གདུག་པའི་དབུགས་འབྱིན་ཅིང་༎ སྐྱེ་དགུ་འདི་དག་སྐྲག་པར་བྱེད༏་༏སྲོག་ཆགས་རྒྱུད་ནི་ཇི་སྙེད་པར་༎ སྣ་ཚོགས་ཀྱི་ནི་གཟུགས་སུ་སྣང་༎
+K12mspram_u:425	 gṛhītaparvataś cānye asicakradharāpare //	K12D0558_H0516:516a-10	ཁ་ཅིག་དག་ནི་རི་ཡང་ཐོགས་༎ ལ་ལ་རལ་གྲི་འཁོར་ལོ་ཐོགས་༎
+K12mspram_u:426	 saṃkhyāśatasahasrāṇi musaladaṇḍatarjitāḥ /	K12D0558_H0516:516a-12	གྲངས་ནི་བརྒྱ་ཕྲག་སྟོང་རྣམས་ཏེ༏་༏དབྱུག་པས་བསྡིགས་ཤིང་ཁ་དྲག་པོ་༎
+K12mspram_u:427	 utpāṭitākṣā vimukhāḥ khaṇḍadantāś ca rākṣasāḥ //  chinnanāsāś chinnakarṇāś chinnajihvā valīmukhaḥ /  saṃchinnahastapādāś ca chinnaśīrṣāś ca rākṣasāḥ //	K12D0558_H0516:516a-13	མིག་ཕྱུང་བ་ལ་བཞིན་མི་སྡུག་། སྲིན་པོ་སོ་ནི་རྣོ་བ་དང་༎ སྣ་དང་རྣ་བ་བཅད་པ་དང་༎ ལྕེ་སྤྱང་གདོང་ནི་གཉེར་མ་ཅན་༎ རྐང་ལག་དང་ནི་བཏུབས་པ་དང་༎ མགོ་བོ་བཅད་པའི་སྲིན་པོ་རྣམས་༎
+K12mspram_u:43	 atha brahmā sahāpatir brahmakāyikāś ca devāḥ śakraś ca devānām indro devāś ca trayastriṃśāś  catvāraś ca mahārājānaś caturmahārājakāyikāś ca devā aṣṭāviṃśatiś ca mahāyakṣasenāpatayo	K12D0558_H0516:506a-3	དེ་ནས་མི་མཛད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། ཚངས་རིས་ཀྱི་ལྷ་རྣམས་དང་། ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་དང་། སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷ་རྣམས་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་དང་། རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷ་རྣམས་དང་།
+K12mspram_u:430	 prekṣanti cāvatāraṃ hi ojo hiṃsanti kilbiṣāḥ /	K12D0558_H0516:516a-16	སྐབས་ནི་རབ་ཏུ་ཚོལ་བར་བྱེད་༎ སྡིག་པ་ཅན་རྣམས་མདངས་ཀྱང་འཕྲོག་།
+K12mspram_u:431	 mānuṣāṇāṃ śarīreṣu suśūkṣmo dṛśyate grahaḥ //	K12D0558_H0516:516a-18	མི་དག་གི་ནི་ལུས་རྣམས་ལ་༎
+K12mspram_u:432	 romāntareṣu marmeṣu tathā vraṇamukheṣu ca /	K12D0558_H0516:516a-20	སྤུ་ཡི་བར་དང་གནད་རྣམས་དང་༎ དེ་བཞིན་རྨ་ཡི་ཁ་རྣམས་སུ་༎
+K12mspram_u:433	 sarve samāgatās te 'pi vidyāpāśena karṣitāḥ //	K12D0558_H0516:516a-21	ལྷགས་པ་དེ་དག་ཐམས་ཅད་ཀྱང་༎ རིག་སྔགས་ཞགས་པས་རབ་ཏུ་དྲངས་༎
+K12mspram_u:434	 namas te puruṣavīra namas te puruṣottama /	K12D0558_H0516:516a-23	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ་༎
+K12mspram_u:435	 namasyāmo 'ñjalikarā dharmarāja namo 'stu te //	K12D0558_H0516:516a-26	ཆོས་རྒྱལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:436	 sumerau girirāje ca cakravāḍe tathaiva ca /	K12D0558_H0516:516b-0	རི་ཡི་རྒྱལ་པོ་རི་རབ་དང་༎ དེ་བཞིན་༄༥༡༦བ་ཁོར་ཁོར་ཡུག་དང་༎ བྱ་རྒོད་ཕུང་པོ་གཤོལ་མདའ་འཛིན་༎
+K12mspram_u:437	 gṛdhrakūṭe iśādhāre himavadgandhamādane //	K12D0558_H0516:516b-1	སྤོས་ངད་ལྡང་དང་གངས་ཀྱི་རི་༎
+K12mspram_u:438	 pāṇḍave citrakūṭe ca nārade parvatadvaye /  śrīparvatasya mūrdhasthāḥ śṛṅgā ye bhṛśam udgatāḥ //	K12D0558_H0516:516b-2	སྣ་ཚོགས་བརྩེགས་དང་པནད་པའ་༎ ན་ལ་དའ་ཡི་རི་གཉིས་དང་༎ དཔལ་གྱི་རི་ཡི་རྩེ་མོ་ནི་༎ གང་དག་ཤིན་ཏུ་མཐོར་འཕགས་དང་༎ རི་པོ་དེ་དག་ཀུན་ལ་ཡང་༎
+K12mspram_u:440	 yās tatra devatādhastā ṛṣayaś ca tathādhikāḥ /	K12D0558_H0516:516b-5	ལྷ་དང་དྲང་སྲོང་གང་གནས་པ་༎
+K12mspram_u:441	 babhūvus te 'pi codvignā āyuś cottrastamānasāḥ //	K12D0558_H0516:516b-6	དེ་དག་ཐམས་ཅད་མི་དགའ་ཞིང་༎ འཇིགས་པའི་ཡིད་ཀྱི་མྱ་ངན་བྱེད་༎
+K12mspram_u:442	 devakoṭīsahasrāṇi devakoṭīśatāni ca /  devakanyā mahābhāgā añjaliṃ saṃpragṛhya vai //	K12D0558_H0516:516b-8	བྱེ་བ་སྟོང་གི་ལྷ་དག་དང་༎ བྱེ་བ་ཕྲག་བརྒྱའི་ལྷ་རྣམས་དང་༎ ལྷ་ཡི་བུ་མོ་སྐལ་ཆེན་དག་། ཐལ་མོ་རབ་ཏུ་སྦྱོར་བར་བྱེད་༎
+K12mspram_u:444	 vemacitrī rāhulaś ca prahlādaś ca samāgatāḥ /	K12D0558_H0516:516b-10	ཐགས་བཟང་རིས་དང་སྒྲ་གཅན་དང༏་༏སིམ་པར་བྱེད་པའང་དེར་ཕྱིན་ཏོ་༎
+K12mspram_u:445	 bhṛtyakoṭīsahasraiś ca bhṛtyakoṭīśatair api //  kanyās teṣām ṛddhimatyo baddhā daśanakhāñjalim /	K12D0558_H0516:516b-11	ལྷ་མིན་བྱེ་བ་ཕྲག་སྟོང་དང་༎ ལྷ་མིན་བྱེ་བ་ཕྲག་བརྒྱ་དང་༎ དེ་དག་བུ་མོ་འཕྲུལ་ལྡན་པ་༎ མང་པོ་ཀུན་ཀྱང་ཐལ་མོ་སྦྱོར་༎
+K12mspram_u:447	 sāgaraḥ supratiṣṭhaś ca nāgarājo manasvy api //  nagendro 'navataptaś ca ubhau nandopanandakau /  vakṣunando vajramatir gaṅgā sindhuś ca sāgaraḥ //	K12D0558_H0516:516b-13	རབ་ཏུ་གནས་དང་རྒྱ་མཚོ་དང་༎ ཀླུ་ཡི་རྒྱལ་པོ་གཟི་ཅན་དང་༎ ཀླུ་ཡི་རྒྱལ་པོ་མ་དྲོས་དང་༎ དགའ་བོ་ཉེ་དགའ་གཉིས་དག་དང་༎ རྡོ་རྗེ་བློ་གྲོས་པཀཤུ་དང་༎ གངྒའ་དགའ་བོ་སིནདྷུ་མཚོ་༎
+K12mspram_u:45	 dvātriṃśac ca mahāyakṣanagnā hārītī ca saputrikā saparivārā atikrāntavarṇā atikrāntāyāṃ  rātrau kevalaṃ kalyaṃ gṛdhrakūṭaṃ parvataṃ svakena varṇānubhāvenodāreṇāvabhāsenāvabhāsya  yena bhagavāṃs tenopasaṃkrāntāḥ /	K12D0558_H0516:506a-4	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཉི་ཤུ་རྩ་བརྒྱད་དང་། གནོད་སྦྱིན་ཆེན་པོ་སྟོབས་པོ་ཆེ་སུམ་ཅུ་རྩ་གཉིས་དང་། འཕྲོག་མ་བུ་དང་བཅས་འཁོར་དང་བཅས་པ་ཁ་དོག་འཕགས་པ་དག་ནུབ་མོ་འདས་པ་དང་། དག་པ་ལྟ་བུའི་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་བདག་གི་ཁ་དོག་དང་མཐུས་སྣང་བ་ཆེན་པོས་སྣང་བར་བྱས་ཏེ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་ནས་ཕྱིན་པ་དང་།
+K12mspram_u:450	 suparṇī pakṣirājānaḥ sāgaraṃ kṣobhayanti ye /  nāgakoṭīsahasrabhir nāgakoṭīśatais tathā //	K12D0558_H0516:516b-14	བྱ་ཡི་རྒྱལ་པོ་འདབ་བཟང་དང་༎ རྒྱ་མཚོ་ཆེན་པོ་འཁྲུག་བྱེད་དང་༎ སྟོང་ཕྲག་བྱེ་བའི་ཀླུ་ཡི་རྣམས་༎
+K12mspram_u:452	 kanyās teṣāṃ mahābhāgā añjaliṃ saṃpragṛhya vai /	K12D0558_H0516:516b-15	བྱེ་བ་བརྒྱ་ཡི་ཀླུ་དག་དང་༎ དེ་དག་བུ་མོ་སྐལ་ཆེན་རྣམས་༎ ཐལ་མོ་རབ་ཏུ་སྦྱོར་བར་བྱེད་༎
+K12mspram_u:453	 ravicandrāv ubhau vāpi nakṣatraparivāritau //	K12D0558_H0516:516b-17	ཉི་མ་ཟླ་བ་གཉིས་ཀ་ཡང་༎ སྐར་མའི་འཁོར་གྱིས་ཡོངས་སུ་བསྐོར་༎
+K12mspram_u:455	 suvarṇavarṇaḥ puṣpeṣu magadheṣu rabheyakaḥ /	K12D0558_H0516:516b-19	གསེར་གྱི་མེ་ཏོག་ཡན་ལག་ན་༎ མ་ག་དྷའ་ན་འཇིགས་བྱེད་པ་༎
+K12mspram_u:457	 śūcīlomā ca madreṣu malleṣu ca yaśodharaḥ /	K12D0558_H0516:517a-3	བཟང་པོའི་ཡུལ་ན་ཁ་སྤུ་ཅན་༎ གྱད་ཀྱི་ཡུལ་ན་གྲགས་པ་འཛིན་༎
+K12mspram_u:461	 pramardanas tu gāndhāre sūryamitraś ca kambuṣu /	K12D0558_H0516:517a-12	དུང་ཡུལ་ན་ནི་ཉི་མའི་གྲོགས་༎
+K12mspram_u:462	 mahājanapadeṣv ete uktā yakṣāś caturdaśa //  vajrapāṇir mahāyakṣo dharmapālaḥ prapuṇḍaraḥ /	K12D0558_H0516:517a-13	ལྗོངས་ཆེན་རྣམས་ཀྱི་གནོད་སྦྱིན་ནི་༎ བརྗོད་པ་བཅུ་དྲུག་དེ་དག་དང་༎ ལག་ན་རྡོ་རྗེ་གནོད་སྦྱིན་ཆེ་༎
+K12mspram_u:464	 kapilaḥ sudarśano viṣṇuḥ piṇḍāraḥ karaśodaraḥ //	K12D0558_H0516:517a-15	ཆོས་སྐྱོང་རབ་ཏུ་དཀར་བ་དང་༎ སེར་སྐྱ་རབ་མཛེས་ཁྱབ་འཇུག་པ་༎
+K12mspram_u:467	 pramardanaḥ śūraseno mahānagno mahābalaḥ /	K12D0558_H0516:517a-17	ལག་པ་བཞི་ཅན་སྟོབས་པོ་ཆེ་༎
+K12mspram_u:468	 yamaś ca yamadūtaś ca māraś cāpi sasainyakaḥ //  harir nāmnā tv asau yakṣo yakṣakoṭīparigrahaḥ /	K12D0558_H0516:517a-18	སྡེ་པ་རབ་ཏུ་འདུལ་བ་ནི་༎ གཤིན་རྗེ་གཤིན་རྗེའི་ཕོ་ཉ་དང་༎ བདུད་རྣམས་སྡེ་དང་བཅས་པ་དང་༎ གནོད་སྦྱིན་བྱེ་བའི་ག-ཡོག་འཆང་བ་༎
+K12mspram_u:470	 hārītī ca sasainyā tu giridāri ca yakṣiṇī //	K12D0558_H0516:517a-21	གནོད་སྦྱིན་དེ་མིང་འཕྲོག་པོ་ཡིན་༎ ཤ་རི་ཏ་ནི་སྡེར་བཅས་དང་༎ རི་ཡི་བུ་མོ་གནོད་སྦྱིན་མ་༎
+K12mspram_u:471	 bhīmarūpā mahātejā hārītī nāma viśrutā /  caṇḍā caṇḍālikā caiva pañcaputraśatair vṛtā //	K12D0558_H0516:517a-23	གཟི་བརྗིད་ཆེན་མོ་འཇིགས་པའི་གཟུགས་༎ འཕྲོག་མ་ཞེས་ཀྱང་གྲགས་པ་དང་༎ གདོལ་པ་མོ་ནི་གཏུམ་པོ་དང་༎ བུ་རྣམས་ལྔ་བརྒྱས་བསྐོར་བ་དང་༎ མི་རྡུང་ནག་མོ་ཀརྐ་ཏེ་༎
+K12mspram_u:473	 ākoṭā karkaṭī kālī padumā padumāvatī /	K12D0558_H0516:517a-25	པདམ་དང་ནི་པདམ་ཅན་༎
+K12mspram_u:474	 puṣpadantī viśālā ca kharakarṇā ca rākṣasī //  candano viṣṇulaś cāpi haripiṅgalapiṅgalaḥ /	K12D0558_H0516:517b-0	མེ་ཏོག་སོ་དང་ས་༄༥༡༧བ་ག་དང་༎ སྲིན་མོ་བོང་བུའི་རྣ་ཅན་དང་༎ ཙནདན་དང་ནི་ཁྱབ་འཇུག་ལེན་༎ སེང་གེ་སེར་སྐྱ་དམར་སེར་པོ་༎
+K12mspram_u:476	 kuñjaro nāgadantaś ca girimitro 'gradaṃṣṭrakaḥ //  rākṣasī bhadradantā ca brahmilā viṣṇulā tathā /	K12D0558_H0516:517b-2	གླང་པོ་ཀླུ་ཡི་སོ་ཅན་དང་༎ རི་བཤེས་དྲག་པོའི་མཆེ་བ་ཅན་༎ སྲིན་པོ་སོ་བཟང་ཡོད་པ་དང་༎ ཚངས་པ་ལེན་དང་ཁྱབ་འཇུག་ལེན་༎
+K12mspram_u:478	 yakṣo hālāhalaś caiva rākṣasaś ca vituṇḍakaḥ //	K12D0558_H0516:517b-4	གནོད་སྦྱིན་ཧ་ལ་ཧ་ལ་དང་༎ གནོད་སྦྱིན་རྣམ་པའི་མཆུ་ཅན་དག་།
+K12mspram_u:479	 śūleṣu te gṛhītvātha gavāś ca mṛgamānuṣān /	K12D0558_H0516:517b-5	མདུང་དང་མདའ་གཞུ་ཀུན་ཐོགས་ཤིང་༎ མི་རྟ་བ་ལང་རི་དབ༹གས་རྣམས་༎
+K12mspram_u:48	 upasaṃkramya bhagavataḥ pādau śirasā vanditvā ekānte sthitā ekavāgekasvaraikapadena bhagavantaṃ gāthābhir abhituṣṭuvuḥ //	K12D0558_H0516:506a-5	བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་བཙལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འཁོད་ནས་ཚིག་གཅིག་དབྱངས་གཅིག་ངག་གཅིག་ཏུ་བཅོམ་ལྡན་འདས་ལ་ཚིགས་སུ་བཅད་དེ་མངོན་པར་བསྟོད་པ་།
+K12mspram_u:480	 bhakṣayantaś ca jīvanto dhāvantaś ca diśodiśaḥ //	K12D0558_H0516:517b-7	ཟ་ཞིང་འཚེ་བ་དེ་དག་ནི་༎ ཕྱོགས་རྣམས་ཀུན་ཏུ་རྒྱུག་ཅིང་འདོང་༎
+K12mspram_u:481	 prakampamānā dhāraṇīṃ śoṣayanto vanaspatīn /	K12D0558_H0516:517b-9	ས་འདི་རབ་ཏུ་ག-ཡོ་བར་བྱེད་༎ ནགས་ཚལ་རྣམས་ཀྱང་རབ་ཏུ་སྐེམས་༎
+K12mspram_u:482	 saṃkocayantaḥ śikharān mardayanta imāḥ prajāḥ //	K12D0558_H0516:517b-11	རི་རྣམས་ཀུན་ནས་ག-ཡོ་བར་བྱེད་༎ སྐྱེ་དགུ་འདི་དག་འཚེ་བྱེད་ཅིང་༎ ཕན་ཚུན་ནས་ནི་འདུ་བ་དག་།
+K12mspram_u:484	 teṣāṃ samāgatānāṃ hi lokanāthasya cāgrataḥ //	K12D0558_H0516:517b-19	འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔ་རུ་༎
+K12mspram_u:486	 tato vaiśramaṇo rājā lokanātham athābravīt /	K12D0558_H0516:517b-20	དེ་དག་ལྷགས་པར་གྱུར་པ་དང་༎ དེ་ནས་རྒྱལ་པོ་རྣམ་ཐོས་བུས་༎ འཇིག་རྟེན་མགོན་ལ་འདི་སྐད་གསོལ་༎
+K12mspram_u:487	 mamāsty uttaradigbhāge rājadhāni sunirmitā //	K12D0558_H0516:517b-22	བདག་གི་ཕྱོགས་ཆ་བྱང་ཕྱོགས་སུ་༎ རྒྱལ་པོའི་གནས་སུ་སྤྲུལ་པ་ནི་༎ ལྕང་ལོར་ལྡན་པ་ཡིད་དུ་མཆི་༎
+K12mspram_u:488	 manoramāḍakavatī tenāham aḍakādhipaḥ /	K12D0558_H0516:517b-25	དེ་བས་བདག་ནི་ལྕང་ལོའི་བདག་།
+K12mspram_u:489	 cintitā sarvadeve hi rājadhāny aḍakāhvayā //	K12D0558_H0516:517b-26	རྒྱལ་པོའི་ཕོ་བྲང་ལྕང་ལོ་ཅན་༎ ལྷ་རྣམས་ཀུན་གྱིས་བསམ་པར་གྱུར་༎
+K12mspram_u:49	 dīptakāñcananirbhāsaḥ pūrṇacandraprabhāsvaraḥ /	K12D0558_H0516:506a-6	ཤིན་ཏུ་འབར་བའི་གསེར་དང་འདྲ་༎ ཟླ་བ་ཉ་བའི་འོད་དང་མཚུངས་༎
+K12mspram_u:490	 samucchritā tu prākārā saptaratnasamākulā /	K12D0558_H0516:517b-28	ཕྱིར་ཤིན་ཏུ་མཐོན་པོ་ཅན་༎ རིན་ཆེན་ཀུན་གྱིས་བརྒྱན་པ་ལགས་༎
+K12mspram_u:491	 kṣomakair yojane dvedhaiḥ saṃskṛtā kāñcanāmayaiḥ //	K12D0558_H0516:518a-1	དཔག་ཚད་བཅུ་དྲུག་སྟེ་༎ གསེར་གྱི་རྒྱུ་ལས་བགྱིས་པ་ལགས་༎
+K12mspram_u:492	 kṣomake caikamekasmin samantād dikcatuṣṭaye /	K12D0558_H0516:518a-3	ཕྱོགས་བཞི་ལྕོག་ནི་རེ་རེ་ལའང་༎ གནོད་སྦྱིན་རྡོ་རྗེ་འཆང་བ་དག་།
+K12mspram_u:493	 sthitā vajradharā yakṣāḥ śastrahastāḥ suvarmitāḥ //  rājadhānyās tu tasyaiva kṛtaṃ dvāracatuṣṭayam /	K12D0558_H0516:518a-5	ཀུན་ནས་རབ་ཏུ་གནས་པར་གྱུར་༎ ལག་ན་མཚོན་ཆ་ལེགས་པར་སྤྲུལ་༎ རྒྱལ་པོའི་ཕོ་བྲང་དེ་ཡི་སྒོ་༎ བཞི་པོ་གཏོད་པར་བགྱིད་པ་ནི་༎
+K12mspram_u:495	 ekaṃ suvarṇamayaṃ dvāraṃ dvitīyaṃ rūpyasaṃskṛtam //	K12D0558_H0516:518a-9	གཅིག་ནི་གསེར་ལས་བགྱིས་པའི་སྒོ་༎ གཉིས་པ་དངུལ་ལས་བགྱིས་པ་སྟེ་༎
+K12mspram_u:496	 tṛtīyaṃ sphāṭikaṃ dvāraṃ caturthaṃ maṇivicitritam /	K12D0558_H0516:518a-11	གསུམ་པ་ཤེལ་གྱི་སྒོ་མོ་ལགས་༎ བཞི་པ་གསེར་གྱིས་རྣམ་པར་སྤྲས་༎
+K12mspram_u:497	 asty antare tu nagare udyāne vanapuṣpite //	K12D0558_H0516:518a-13	གྲོང་ཁྱེར་དེ་ཡི་ནང་དག་ན་༎ སྐྱེད་མོས་ཚལ་གྱིས་མེ་ཏོག་རྒྱས་༎
+K12mspram_u:498	 vimānāni vicitrāṇi saptaratnamayāni vai /	K12D0558_H0516:518a-15	དེ་ཡི་ནང་ན་གཞལ་མེད་ཁང་༎
+K12mspram_u:499	 nānāratnamayā vṛkṣā nānāpakṣiṇikūjitāḥ //	K12D0558_H0516:518a-16	རིན་ཆེན་བདུན་རྒྱུ་སྣ་ཚོགས་མཆིས་༎ རིན་ཆེན་སྣ་ཚོགས་ལྗོན་ཤིང་ཅན་༎ བྱ་ཕྲན་སྣ་ཚོགས་སྐད་ཀྱང་འབྱིན་༎
+K12mspram_u:50	 śrīvaiśramaṇavad vīraratnānām ākāro dṛśi //	K12D0558_H0516:506a-8	དཔལ་ལྡན་རྣམ་ཐོས་བུ་བཞིན་བརྟན་༎ རིན་ཆེན་༄༥༠༦བ་རྣམས་ཀྱིས་འབྱུང་གནས་ལེགས་༎
+K12mspram_u:500	 nānāpuṣpasaṃchannā nānāgandhānulepanāḥ /	K12D0558_H0516:518a-19	མེ་ཏོག་སྣ་ཚོགས་ལེགས་པར་བཀྲམ་༎ སྣ་ཚོགས་སྤོས་ཀྱིས་བྱུགས་པ་ལགས་༎
+K12mspram_u:501	 pakṣiṇīnāṃ vilāsaiś ca gītavādyair alaṃkṛtāḥ //	K12D0558_H0516:518a-21	གནོད་སྦྱིན་མོ་ནི་འཇོམས་པ་དང་༎ གླུ་དང་རོལ་མོས་རབ་ཏུ་བརྒྱན་༎
+K12mspram_u:502	 anubhomi śriyaṃ tv agryāṃ bhūtānāṃ tatra maṇḍale /	K12D0558_H0516:518a-22	དཔལ་གྱི་དམ་པ་ཉམས་སུ་མྱོང་༎ དེར་ནི་འབྱུང་པོའི་དཀྱིལ་འཁོར་དེར་༎
+K12mspram_u:503	 sarvākāravaropetās tatra me paricārakāḥ //	K12D0558_H0516:518a-24	གང་དག་འཁོར་ཞིང་མཆིས་པ་དག་། རྣམ་པའི་མཆོག་ཀུན་ལྡན་པ་སྟེ་༎
+K12mspram_u:504	 dharmacārī dharmakāmā na vihiṃsanti prāṇinām /	K12D0558_H0516:518a-26	ཆོས་འཚལ་བ་དང་ཆོས་སྤྱོད་པ་༎ སྲོག་ཆགས་རྣམས་ལ་འཚེ་མི་བགྱིད་༎
+K12mspram_u:505	 annapānais tu vikalā dāruṇās tv itarāḥ prajāḥ //	K12D0558_H0516:518a-28	ཟས་དང་སྐོམ་གྱིས་མི་བྲེལ་ཏེ་༎ སྐྱེ་དགུ་མི་བཟད་གཞན་དག་ནི་༎
+K12mspram_u:507	 udāraṃ parimārganto viprekṣanti caturdiśaṃ //	K12D0558_H0516:518a-30	ལོངས་སྤྱོད་ཆེན་པོ་ཚོལ་བགྱིད་ཅིང་༎ ཕྱོགས་བཞི་ཀུན་ཏུ་རྣམ་པར་ལྟ་༎
+K12mspram_u:508	 nagaradvārasaṃsthā ye udyāneṣu vaneṣu ca /	K12D0558_H0516:518b-0	གྲོང་ཁྱེར་སྒོ་ཡི་གོམ་ཡོ་དང་༎ བཟའ་༄༥༡༨བ་ཤིང་རབ་ནགས་ཚལ་ན་༎
+K12mspram_u:509	 yakṣarākṣasabhūtānāṃ koṭīsahasrakān gaṇān //	K12D0558_H0516:518b-1	གནོད་སྦྱིན་སྲིན་པོ་འབྱུང་པོའི་ཚོགས་༎ བྱེ་བ་སྟོང་ཕྲག་བརྒྱ་མཆིས་པ་༎
+K12mspram_u:51	 siṃhavāraṇavikrāntamattanāgaparākramaḥ /  parvato vā suvarṇasya niṣkaṃ jambūnadasya vā //	K12D0558_H0516:506b-1	སེངྒེ་གླང་ཆེན་འདྲ་བའི་འགྲོས་༎ གླང་ཆེན་མྱོས་པ་བཞིན་དུ་གནོན་༎ གསེར་གྱི་རི་བོ་དང་ཡང་མཚུངས་༎ ཛམབུ་གླིང་གི་གསེར་རྒྱན་འདྲ༏་༏སྐར་མ་རྣམས་ཀྱིས་ཡོངས་བསྐོར་བའི་༎
+K12mspram_u:510	 sarvāṃs tān ānayiṣyāmi sūtrapāśena karṣitān /	K12D0558_H0516:518b-3	དེ་དག་ཐམས་ཅད་མདོ་སྡེ་ཡི་༎ ཞགས་པས་དྲངས་ཏེ་བརླག་པར་བགྱི་༎
+K12mspram_u:511	 candanānāṃ vanaiś cchannaṃ śītapuṣkariṇīcitam //  madhye tadrājadhānyās tu dharmarājaniveśanaṃ /	K12D0558_H0516:518b-5	རྒྱལ་པོའི་ཕོ་བྲང་དབུས་ན་ནི་༎ ཆོས་ཀྱི་རྒྱལ་པོའི་གནས་གྱུར་པ་༎ བསིལ་བའི་རྫིང་བུས་བསྐོར་བ་སྟེ་༎ ཙནདན་ནགས་ཀྱི་འཁོར་བ་ལགས་༎
+K12mspram_u:513	 samantād yojanaṃ yāvat kūṭāgārās tu nirmitāḥ /	K12D0558_H0516:518b-9	ཀུན་ནས་དཔག་ཚད་དྲུག་ཅུ་སྟེ་༎ ཁང་པ་བརྩེགས་མ་སྤྲུལ་པ་དག་།
+K12mspram_u:514	 suvarnasya bhaved eko dvitīyo rūpyam eva ca /	K12D0558_H0516:518b-11	གཅིག་ནི་གསེར་ལས་བགྱིས་པ་སྟེ་༎ གཉིས་ནི་དངུལ་ལས་བགྱིད་པ་ལགས་༎
+K12mspram_u:515	 vaiḍūryasya tṛtīyas tu caturthaḥ sphāṭikaḥ śuciḥ //  (Msp 17)	K12D0558_H0516:518b-13	གསུམ་པ་བེཨེ་དའུརྱ་ལས་བགྱིས་༎ བཞི་པ་གཙང་དང་ཤེལ་གྱི་རྒྱུ་༎
+K12mspram_u:517	 pañcamo raktamuktāyāḥ ṣaṣṭhaś caivāśmagarbhaḥ /	K12D0558_H0516:518b-15	ལྔ་པ་མུ་ཏིག་དམར་པོ་སྟེ་༎ དྲུག་པ་རྡོ་ཡི་སྙིང་པོ་ལགས་༎
+K12mspram_u:518	 saptamas tu musārasya saptaratnamayo 'ṣṭamaḥ //	K12D0558_H0516:518b-17	བདུན་པ་སྤུག་ལས་བགྱིས་པ་སྟེ་༎ བརྒྱད་པ་རིན་ཆེན་བདུན་ལས་བགྱིས་༎
+K12mspram_u:519	 nāriśatasahasrāṇi ekaikasmin samāgatāḥ /	K12D0558_H0516:518b-19	བུད་མེད་སྟོང་ཕྲག་བརྒྱ་དག་ཀྱང་༎ དེ་དག་རེ་རེ་ཀུན་ན་གནས་༎
+K12mspram_u:520	 citrair ābharaṇair agraiś citrair veśair alaṃkṛtāḥ //  vicitragītavādyeṣu śilpasthāneṣu śikṣitāḥ /	K12D0558_H0516:518b-21	ལྷབ་ལྷུབ་སྣ་ཚོགས་མཆོག་དག་དང་༎ ཆ་བྱད་སྣ་ཚོགས་མང་པོས་བརྒྱན་༎ གླུ་དང་རོལ་མོ་སྣ་ཚོགས་དང་༎ བཟོ་ཡི་གནས་ལ་མཁས་པ་མཆིས་༎
+K12mspram_u:522	 īdṛśena pramodena udagras tuṣṭamānasaḥ //  tatrāhaṃ madhupānena kāmaiś cātyartham ucchritaḥ /	K12D0558_H0516:518b-23	དེ་ལྟའི་རབ་ཏུ་དགའ་བ་ཡིས་༎ བདེ་ཞིང་ཚིམ་པའི་ཡིད་གྱུར་ཅིང་༎ དེ་ན་བདག་ནི་དགུན་སྐྱེམས་དང་༎ འདོད་པ་དག་གིས་རབ་མྱོས་པས་༎
+K12mspram_u:524	 parṣat me prapalāyanti saṃtrāsenti diśodaśaḥ //	K12D0558_H0516:518b-26	བདག་གི་འཁོར་རྣམས་འཕྱན་བགྱིད་ཅིང༏་༏ཕྱོགས་བཅུ་དག་ཏུ་འཇིགས་པ་སྐྱེད་༎
+K12mspram_u:525	 striyaś ca puruṣāś caiva tathā dārakadārikāḥ /  garbhasthā api naśyanti tiryagyonigatā api //	K12D0558_H0516:518b-27	བུད་མེད་དག་དང་སྐྱེས་པ་དང་༎ དེ་བཞིན་ཁྱེའུ་བུ་མོ་དང་༎ མངལ་ན་གནས་པའང་འཇིགས་པར་བགྱིད་༎ དུད་འགྲོའི་སྐྱེ་གནས་༄༥༡༩ཨ་༌༎
+K12mspram_u:527	 nakṣatracandrasūryāś ca grahāḥ pīḍanti dāruṇāḥ /	K12D0558_H0516:519a-1	གཏོགས་ལའང་འཚེ་༎ སྐར་མ་དག་དང་ཉི་ཟླ་དང་༎ གཏུམ་པའི་གཟའ་རྣམས་གནོད་པར་བགྱིད་༎
+K12mspram_u:528	 sasyaṃ bījaṃ phalaṃ puṣpam oṣadhaṃ pānabhojanam //  harante mānuṣīṃ lakṣmīm uccānīcīṃ karonti ca /	K12D0558_H0516:519a-3	ལོ་ཏོག་ས་བོན་འབྲས་བུ་དང་༎ མེ་ཏོག་སྨན་དང་ཟས་སྐོམ་དང་༎ མི་རྣམས་ཀྱི་ནི་དཔལ་འཕྲོག་ཅིང་༎ མཐོན་པོ་རྣམས་ཀྱང་དམའ་བར་བགྱིད་༎
+K12mspram_u:53	 candro vā vimale vyomni nakṣatrebhiḥ puraskṛtaḥ //	K12D0558_H0516:506b-5	ནམ་མཁའི་ཟླ་བ་དྲི་མེད་བཞིན་༎
+K12mspram_u:530	 ye kecid duṣkṛtā loke vairāḥ kalahavigrahāḥ //  dagdhaṃ naṣṭaṃ hataṃ bhinnaṃ tat sarvaṃ bhūtajaṃ smṛtam /	K12D0558_H0516:519a-5	འཇིག་རྟེན་དག་ན་ནོངས་པ་རྣམས་༎ དམག་དང་འཐབ་མོ་ཤར་གཉེར་དང༏་༏ཚིག་གམ་ཞིག་གམ་བསད་ཕྱེ་བ་༎ དེ་ཀུན་འབྱུང་པོའི་རྣམ་པར་གྱུར་༎
+K12mspram_u:532	 oguṇṭhanti niguṇṭhanti paryasyanti sthitanti //	K12D0558_H0516:519a-8	སྦེད་ཅིང་སྟོན་པར་བགྱིད་པ་དང་༎ བཟློག་པར་བགྱིད་ཅིང་རྒོད་པར་བགྱིད་༎
+K12mspram_u:533	 uttrāsenti ca satvānāṃ viprekṣanti dviṣanti ca /	K12D0558_H0516:519a-9	འཇིགས་པར་བགྱིད་ཅིང་ལྟ་བར་བགྱིད་༎ དགྲར་འགྱུར་བ་ཡང་སྟོན་པར་བགྱིད་༎
+K12mspram_u:534	 darśenti pāpakān svapnān prasuptān pīḍayanti ca //	K12D0558_H0516:519a-11	སྡིག་པའི་རྨི་ལམ་མཐོང་བར་བགྱིད་༎ ཉལ་བ་དག་ལ་གནོད་པར་བགྱིད་༎
+K12mspram_u:535	 dvārasthāś cācchaṭāṃ kṛtvā prakrośanti grasanti ca /	K12D0558_H0516:519a-13	སྒོ་ནས་སེ་གོལ་སྒྲ་ཕྱུང་ཞིང་༎ མི་སྙན་བརྗོད་དེ་ཟ་བར་བགྱིད་༎
+K12mspram_u:536	 mitrajñātisarūpāś ca dṛśyante ālapanti ca //	K12D0558_H0516:519a-15	མཛའ་བོ་གཉེན་བཤེས་གཟུགས་དག་ཏུ་༎ གདའ་ཞིང་བཀའ་མཆིད་སྨྲ་བར་བགྱིད་༎
+K12mspram_u:537	 vicitrakanyārūpeṇa dṛśyante kāmarūpiṇaḥ /	K12D0558_H0516:519a-17	བུ་མོ་སྡུག་གུའི་གཟུགས་དག་ཏུ་༎ འདོད་ལ་སྤྱོད་པ་དགའ་བར་བགྱིད་༎
+K12mspram_u:538	 candrarūpeṇa dṛśyante sūryanakṣatrarūpiṇaḥ //	K12D0558_H0516:519a-19	ཉི་མ་སྐར་མའི་གཟུགས་དང་ནི་༎ ཟླ་བའི་གཟུགས་སུ་གདའ་བར་བགྱིད་༎
+K12mspram_u:539	 vātolkāśanirūpeṇa dṛśyante vāyupīḍakāḥ /  ulkākalāpasadṛśāḥ śṛgālasvarabhairavāḥ //  vikramantaś ca dṛśyante vṛkṣacaityālayeṣu ca /	K12D0558_H0516:519a-21	རླུང་དང་སྐར་མདའ་ལྕེ་གཟུགས་སུ་༎ ཚེ་ལ་གནོད་པར་དེ་དག་གདའ༎ སྐར་མདའི་ཚོགས་དང་འདྲ་བ་དག་། འཇིགས་པར་བགྱིད་པ་ཝ་དང་ཁྱིར་༎ རྣམ་པར་སྤྲུལ་ནས་ལྗོན་ཤིང་དང་༎ མཆོད་རྟེན་དག་ནི་གནས་ན་གདའ༎
+K12mspram_u:54	 madhye śrāvakasaṃghasya lakṣaṇaiḥ samalaṃkṛtaḥ //	K12D0558_H0516:506b-6	ཉན་ཐོས་དགེ་འདུན་རྣམས་ཀྱི་དབུས་༎ མཚན་རྣམས་ཀྱིས་ནི་བརྒྱན་པར་གྱུར་༎
+K12mspram_u:542	 kumārarūpeṇa jvalantaḥ śakaṭasvarāḥ //	K12D0558_H0516:519b-0	སྐྱེས་པ་གཞོན་ནུའི་གཟུགས་༄༥༡༩བ་མཛེས་པ་༎ འབར་ཞིང་ཤིང་རྟའི་སྒྲ་ཡང་འབྱིན་༎
+K12mspram_u:543	 sadā citrāṇi darśenti ālayeṣu patheṣu ca /	K12D0558_H0516:519b-2	གནས་རྣམས་དང་ནི་ཤུལ་དག་ཏུ་༎ རྣམ་པ་སྣ་ཚོགས་རྗེས་ཀྱང་སྟོན་༎
+K12mspram_u:544	 gṛhāṇāṃ nagarāṇāṃ ca dvāre muñcanti te grahāḥ /	K12D0558_H0516:519b-4	གྲོང་ཁྱེར་དག་དང་ཁྱིམ་རྣམས་ཀྱི་༎ སྒོ་ཡང་གནོད་སྦྱིན་དེ་དག་འབྱེད་༎
+K12mspram_u:545	 gṛhītvā jīvitaṃ kāyaṃ kupathe grāmayanti ca /	K12D0558_H0516:519b-6	སྲོག་དང་ལུས་ཀྱང་བླངས་བགྱིད་ཅིང་༎ ལམ་ངན་ཀུན་ཏུ་སྐོར་བར་བགྱིད་༎
+K12mspram_u:546	 vicitrāṇi ca rūpāṇi vicitrāṇi svarāṇi ca //  rogān vicitrān darśenti vyādhīn vai kāyasaṃsthitān /	K12D0558_H0516:519b-8	རྣམ་པ་སྣ་ཚོགས་གཟུགས་དག་དང་༎ རྣམ་པ་སྣ་ཚོགས་སྒྲ་རྣམས་དང་༎ རྣམ་པ་སྣ་ཚོགས་ནད་ཀྱིས་རྣམས་༎ ལུས་ལ་ན་བ་གནས་པར་སྟོན་༎
+K12mspram_u:549	 viparītaṃ ca darśenti sarvarogeṣu ca lakṣaṇam //	K12D0558_H0516:519b-10	ནད་རྣམས་ཀུན་གྱི་མཚན་ཉིད་ཀྱང་༎ ཕྱིན་ཅི་ལོག་ཏུ་སྟོན་པར་བགྱིད་༎
+K12mspram_u:55	 lokaḥ sadevako hy eṣa muniṃ śaraṇam āgataḥ /	K12D0558_H0516:506b-8	ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་འདི་༎
+K12mspram_u:550	 yāvatī prakṛti loke sarvān darśenti te 'nyathā /	K12D0558_H0516:519b-12	ཇི་སྙེད་འཇིག་རྟེན་རང་བཞིན་དག་༏ཐམས་ཅད་ལོག་པར་དེ་དག་སྟོན་༎
+K12mspram_u:551	 sarve samāgatās te 'pi vidyāpāśena karṣitāḥ //	K12D0558_H0516:519b-13	རིག་སྔགས་ཞགས་པས་དྲངས་པས་ན་༎
+K12mspram_u:554	 tato vaiśramaṇo rājā utthito 'tha kṛtāñjaliḥ /	K12D0558_H0516:519b-15	དེ་ནས་རྒྱལ་པོ་རྣམ་ཐོས་བུ་༎ ལངས་ཏེ་ཐལ་མོ་རབ་སྦྱར་ནས་༎
+K12mspram_u:555	 cakrāṅkacitracaraṇayaṣṭikāñcanasannibhaḥ //	K12D0558_H0516:519b-17	ཞབས་ལ་འཁོར་ལོའི་མཚན་མངའ་བ་༎ གསེར་གྱི་མཆོད་སྡོང་འབར་བ་བཞིན་༎
+K12mspram_u:556	 lokapradyotakiraṇa agnikalpamahāmune /	K12D0558_H0516:519b-19	འཇིག་རྟེན་སྣང་བར་མཛད་པ་པོ་༎ ཐུབ་པ་ཆེན་པོ་མེ་དང་འདྲ་༎
+K12mspram_u:557	 catuḥṣaṣṭhisahasrāṇi yakṣāṇām atra dāruṇāḥ //	K12D0558_H0516:519b-21	གནོད་སྦྱིན་གསང་སྔགས་མི་བཟད་ཅན་༎ སྟོང་ཕྲག་དྲུག་ཅུ་རྩ་བཞི་དག་།
+K12mspram_u:558	 niśritā hy uttarabhāgaṃ pīḍayanti tadudbhavān /	K12D0558_H0516:519b-23	བྱང་གི་ཕྱོགས་ཆའི་ཕྱོགས་ན་གནས་༎ བྱང་ཕྱོགས་དག་ཏུ་གནོད་པར་བགྱི་༎
+K12mspram_u:559	 teṣāṃ daṇḍaṃ praṇeṣyāmi lokanāthasya saṃmukham //	K12D0558_H0516:519b-25	འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔར་ནི་༎ དེ་དག་ཆད་པ་བདག་གིས་བཤད་༎
+K12mspram_u:56	 manuṣyāṇāṃ hitārthāya rakṣākāla upasthitaḥ //	K12D0558_H0516:506b-10	མི་རྣམས་ལ་ནི་ཕན་པའི་ཕྱིར་༎ སྲུང་བ་དུས་སུ་ཉེ་བར་གནས་༎
+K12mspram_u:57	 sāhasrapramardanaṃ sūtraṃ sarvabuddhaiḥ prakāśitam /	K12D0558_H0516:506b-12	སངས་རྒྱས་སྔ་མས་བཤད་པ་ཡི་༎
+K12mspram_u:577	 dhṛtarāṣṭraś ca rājo 'pi sa kṛtāñjalir utthitaḥ /	K12D0558_H0516:520a-18	རྒྱལ་ཆེན་ཡུལ་འཁོར་སྲུང་བ་ཡང་༎ ལངས་ཏེ་ཐལ་མོ་སྦྱར་བཏུད་ནས་༎
+K12mspram_u:578	 pūrṇarāśir ivotphullaḥ kalaviṅkarutasvaraḥ //  morakokilanirghoṣameghadundubhigarjitaḥ /	K12D0558_H0516:520a-20	མེ་ཏོག་ཚོགས་ལྟར་རྒྱས་གྱུར་ཅིག་། ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ཅན་༎ ཁུ་བྱུག་དང་ནི་རྨ་བྱའི་སྒྲ་༎ རྔ་དང་འབྲུག་གི་སྒྲ་སྒྲོགས་པ་༎
+K12mspram_u:58	 ācakravāṭaparyantaṃ sīmābandhanam uttamam //	K12D0558_H0516:506b-13	སྟོང་ཆེན་རབ་འཇོམས་མདོ་སྡེ་འདི་༎ ཁོར་ཁོར་ཡུག་རི་མཐའི་བར་༎ མཚམས་གཅོད་པ་ཡི་དམ་པ་ལགས་༎
+K12mspram_u:580	 catuḥṣaṣṭhisahasrāṇi gandharvā rākṣasā mune //	K12D0558_H0516:520a-24	ཐུབ་ཆེན་གནོད་སྦྱིན་སྲིན་པོ་དང་༎ དྲི་ཟ་སྟོང་ཕྲག་དྲུག་ཅུ་བཞི་༎
+K12mspram_u:581	 niśritā pūrvadigbhāgaṃ pīḍayanti tadudbhavān /	K12D0558_H0516:520a-25	ཤར་གྱི་ཕྱོགས་ཆའི་ཕྱོགས་ན་གནས་༎ ཤར་ཕྱོགས་པ་ལ་གནོད་པར་བྱེད་༎
+K12mspram_u:582	 (Msp 19)  teṣāṃ daṇḍaṃ praṇeṣyāmi lokanāthasya saṃmukham //	K12D0558_H0516:520a-27	འཇིག་རྟེན་མགོན་གྱི་སྤྱན་སྔར་ནི་༎ དེ་དག་ཆད་པ་བདག་གིས་བཤད་༎
+K12mspram_u:585	 dharaṇi dhāraṇi /	K12D0558_H0516:520a-30	དྷའ་ར་ནི་དྷའ་ར་ནི་།
+K12mspram_u:586	 pradhvaṃsani /  bhañjani /  prabhañjani /  vidhamaṇi /	K12D0558_H0516:520b-1	པྲ་བྷཉཛ་ནི་བི་དྷ་མ་ནི་།
+K12mspram_u:59	 namas te puruṣavīra namas te puruṣottamam /  kṛtāñjalir namasyāmo dharmarājaṃ mahāmunim //	K12D0558_H0516:506b-16	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ༏་༏ཆོས་ཀྱི་རྒྱལ་པོ་ཐུབ་ཆེན་ལ་༎ ཐལ་མོ་སྦྱར་ཏེ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:590	 kiṃpuruṣe /	K12D0558_H0516:520b-2	ཀིམ་པུ་རུ་ཤེ་།
+K12mspram_u:591	 sakale /	K12D0558_H0516:520b-3	ཤ་ཀ་ལེ་།
+K12mspram_u:592	 sārathe /  sāravati /	K12D0558_H0516:520b-4	སའ་ར་ཐེ་། སའ་ར་བ་ཏི་།
+K12mspram_u:594	 śūradhare /  śūradhāriṇi /	K12D0558_H0516:520b-6	ཤའུ་ལ་དྷ་རེ་། ཤའུ་ལ་དྷའརི་ནི་།
+K12mspram_u:596	 śuddhacaraṇe /	K12D0558_H0516:520b-8	ཤུདདྷེ་ཙ་ར་ནེ་།
+K12mspram_u:597	 ghoṣavati /	K12D0558_H0516:520b-9	གྷོ་ཤ་བ་ཏི་།
+K12mspram_u:598	 sarāgre /	K12D0558_H0516:520b-10	ཤའ་རའ་གྲེ་།
+K12mspram_u:599	 śānti svasty astu mama sarvasatvānāṃ ca pūrvasyāṃ diśi svāhā //	K12D0558_H0516:520b-11	ཤའནཏེ་། བདག་ཤར་ཕྱོགས་སུ་དགེ་བར་གྱུར་ཅིག་སབ༹འཧའ་།
+K12mspram_u:600	 brahmā cāpy atha śakraś ca lokapālā maheśvarāḥ /	K12D0558_H0516:520b-12	ཚངས་པ་དེ་བཞི་བརྒྱ་བྱིན་དང་༎ འཇིག་རྟེན་སྐྱོང་དང་དབང་ཕྱུག་ཆེ་༎
+K12mspram_u:601	 yakṣasenāpatayaḥ sarve hārītī ca saputrikā //  idaṃ puṣpaṃ ca gandhaṃ ca pratigṛhṇantu mamāhutiṃ /	K12D0558_H0516:520b-13	གནོད་སྦྱིན་སྡེ་དཔོན་ཐམས་ཅད་དང་༎ འཕྲོག་མ་བུ་དང་བཅས་པ་ཡང༏་༏བདག་གི་མེ་ཏོག་སྤོས་དག་དང་༎ སྦྱིན་སྲེག་འདི་ནི་བླང་བར་གྱིས་༎
+K12mspram_u:603	 vīryeṇa tejasā teṣām aiśvaryeṇa balena ca //	K12D0558_H0516:520b-14	དེ་དག་གི་ནི་བརྩོན་འགྲུས་དང་༎ གཟི་བརྗིད་དབང་ཕྱུག་སྟོབས་ཀྱིས་ཀྱང་༎
+K12mspram_u:604	 nihatāḥ sarvarogāś ca svasty astu mama sarvasatvānāṃ ca sarvabhayopadravebhyaḥ svāhā //	K12D0558_H0516:520b-15	ནད་རྣམས་ཐམས་ཅད་བཅོམ་བར་གྱུར་༎ བདག་འཇིགས་པ་ཐམས་ཅད་དང་། གནོད་པ་ཐམས་ཅད་ལས་དགེ་བར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:605	 namas te puruṣavīra namas te puruṣottama /	K12D0558_H0516:520b-17	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ་༎
+K12mspram_u:606	 namasyāmo 'ñjalikarā dharmarāja namo 'stu te //	K12D0558_H0516:520b-19	ཐལ་མོ་སྦྱར་ཏེ་ཕྱག་འཚལ་ལོ་༎ ཆོས་རྒྱལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:607	 rājā virūḍhakaś cāpi prāñjalīkas tato utthitaḥ /	K12D0558_H0516:520b-21	རྒྱལ་པོ་ཆེན་པོ་འཕགས་སྐྱེས་ཀྱང་༎ ཐལ་མོ་སྦྱར་ཏེ་དེ་ནས་ལངས་༎
+K12mspram_u:608	 sarvajñaḥ sarvadarśī ca sarvavādī pramardanaḥ /  sarvasaṃśayacchetā ca sarvalokavināyakaḥ /	K12D0558_H0516:520b-23	ཐམས་ཅད་མཁྱེན་པ་ཐམས་ཅད་གཟིགས་༎ སྨྲ་བ་ཐམས་ཅད་རབ་འཇོམས་པ་༎ ཐེ་ཚོམ་ཐམས་ཅད་གཅོད་མཛད་པ་༎ འཇིག་རྟེན་ཐམས་ཅད་རྣམ་འདྲེན་པ་༎
+K12mspram_u:61	 atha bhagavān muhūrtaṃ tūṣṇībhavenādhivāsya caturo mahārājān āmantrayāmāsa //	K12D0558_H0516:506b-19	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡུད་ཙམ་ཅིག་ཅང་མི་གསུང་བར་དགོངས་ནས་རྒྱལ་པོ་ཆེན་པོ་དག་ལ་བཀའ་སྩལ་པ་།
+K12mspram_u:610	 catuḥṣaṣṭhisahasrāṇi kumbhāṇḍāḥ pretapūtanāḥ //	K12D0558_H0516:520b-28	སྟོང་ཕྲག་དྲུག་ཅུ་རྩ་བཞི་རྣམས་༎
+K12mspram_u:611	 niśrāya dakṣiṇaṃ deśaṃ pīḍayanti tadudbhavān /	K12D0558_H0516:520b-29	ལྷོ་ཡི་ཕྱོགས་ཆའི་ཕྱོགས་ན་གནས་༎ དེ་ནས་བྱུང་ལ་གནོད་པར་བགྱིད་༎
+K12mspram_u:612	 teṣāṃ daṇḍaṃ praṇeṣyāmi lokanāthasya saṃmukham //	K12D0558_H0516:520b-31	འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔར་ནི་༎ དེ་དག་ཆད་པ་བདག་གིས་༄༥༢༡ཨ་༌༎
+K12mspram_u:613	 syād yathedam /  śānti śāravati /	K12D0558_H0516:521a-1	བཤད་༎ སཡའད་ཡེ་ཐེ་དན་། ཤའནཏི་། ཤའ་ར་བ་ཏི་།
+K12mspram_u:615	 kānti kāravati /	K12D0558_H0516:521a-3	ཀའནཏི་། ཀའ་ར་བ་ཏི་།
+K12mspram_u:616	 kiṃkarasi /	K12D0558_H0516:521a-4	ཀིམ་ཀ་ར་སི་།
+K12mspram_u:618	 kiṃvaḍi /	K12D0558_H0516:521a-8	ཀིམ་བ་ཏེ་།
+K12mspram_u:619	 dharaṇi /	K12D0558_H0516:521a-9	དྷ་ར་ནི་།
+K12mspram_u:62	 naitaṃ te mahārājānaḥ pratirūpaṃ bhaved yad yuṣmat pariṣado 'smat pariṣadaṃ viheṭhayitavyaṃ manyate /	K12D0558_H0516:506b-20	རྒྱལ་པོ་ཆེན་པོ་དག་། གང་ཁྱེད་ཀྱི་འཁོར་ངའི་འཁོར་ལ་འཚེ་བར་སེམས་པ་དེ་ནི་ཚུལ་མ་ཡིན་ནོ་༎
+K12mspram_u:620	 vardhani /  bhūmidhāriṇi /  vibhūmidhāriṇi /	K12D0558_H0516:521a-10	བརདྷ་ནི་། བྷའུ་མི་། དྷའ་རི་ནི་།
+K12mspram_u:623	 himavati /	K12D0558_H0516:521a-12	ཧི་མ་བ་ཏི་།
+K12mspram_u:624	 jyotiścaraṇe /	K12D0558_H0516:521a-13	ཛྱོ་ཏིཤཙ་ར་ནེ་།
+K12mspram_u:625	 mālāgri /	K12D0558_H0516:521a-14	མའ་ལའ་གྲེ་།
+K12mspram_u:626	 svasty astu mama sarvasatvānāṃ ca dakṣiṇāyāṃ diśi svāhā //	K12D0558_H0516:521a-15	བདག་ལྷོ་ཕྱོགས་སུ་དགེ་བར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:627	 brahmā cāpy atha śakraś ca lokapālā maheśvarāḥ /	K12D0558_H0516:521a-16	ཚངས་པ་དང་ནི་བརྒྱ་བྱིན་དང་༎ འཇིག་རྟེན་སྐྱོང་དང་དབང་ཕྱུག་ཆེ་༎
+K12mspram_u:628	 yakṣādhipatayaḥ sarve hārītī ca saputrikā //	K12D0558_H0516:521a-17	གནོད་སྦྱིན་སྡེ་དཔོན་ཐམས་ཅད་དང་༎ འཕྲོག་མ་བུ་དང་བཅས་པ་ཡང་༎
+K12mspram_u:629	 idaṃ puṣpaṃ ca gandhaṃ ca pratigṛhṇantu mamāhutiṃ /	K12D0558_H0516:521a-18	བདག་གི་མེ་ཏོག་སྤོས་དག་དང་༎ སྦྱིན་སྲེག་འདི་ནི་བླང་བར་བགྱི་༎
+K12mspram_u:63	 tat kasya hetoḥ /	K12D0558_H0516:506b-22	དེ་ཅིའི་ཕྱིར་ཞེ་ན་།
+K12mspram_u:630	 vīryeṇa tejasā teṣām aiśvaryeṇa balena ca //	K12D0558_H0516:521a-19	དེ་དག་གིས་ནི་བརྩོན་འགྲུས་དང་༎ གཟི་བརྗིད་དབང་ཕྱུག་སྟོབས་ཀྱིས་ཀྱང་༎
+K12mspram_u:631	 nihatāḥ sarvarogāś ca svasty astu mama sarvasatvānāṃ ca (Msp 20)  sarvabhayopadravopasargebhyaḥ svāhā //	K12D0558_H0516:521a-20	ནད་རྣམས་ཐམས་ཅད་བཅོམ་པར་གྱུར་༎ བདག་འཇིགས་པ་ཐམས་ཅད་དང་། གནོད་པ་ཐམས་ཅད་ལས་དགེ་བར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:633	 namas te puruṣavīra namas te puruṣottama /	K12D0558_H0516:521a-22	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ་༎
+K12mspram_u:634	 namasyāmo 'ñjalikarā dharmarāja namo 'stu te //  virūpākṣo mahārājā gṛhītāñjalir utthitaḥ /	K12D0558_H0516:521a-24	ཐལ་མོ་སྦྱར་ཏེ་ཕྱག་འཚལ་ལོ་༎ ཆོས་རྒྱལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ༏་༏རྒྱལ་པོ་མིག་མི་བཟང་བ་ཡང་༎ ཐལ་མོ་སྦྱར་བ་བྱས་ནས་ལངས་༎
+K12mspram_u:636	 mahāmeghamahāsiṃhaḥ mahāmahamahodadhiḥ /  mahāvādī mahāśūro mahāsaṃgrāmamardakaḥ /	K12D0558_H0516:521a-27	སྤྲིན་ཆེན་སེང་གེ་ཆེན་པོ་པ་༎ ཆེ་བའི་ཆེ་བ་རྒྱ་མཚོ་ཆེ་༎ གསུང་བ་ཆེན་པོ་དཔའ་ཆེན་པོ་༎ ག-ཡུལ་ཆེན་རབ་ཏུ་འཇོམས་མཛད་པ་༎
+K12mspram_u:638	 catuḥṣaṣṭhisahasrāṇi nāgasauparṇiguhyakāḥ /	K12D0558_H0516:521a-31	ཀླུ་དང་འདབ་བཟང་གསང་བ་པོ་༎ སྟོང་ཕྲག་དྲུག་ཅུ་རྩ་བཞི་དག་།
+K12mspram_u:639	 niśrāya paścimaṃ deśaṃ pīḍayanti tadudbhavān /	K12D0558_H0516:521a-33	ནུབ་ཀྱི་ཕྱོགས་ཆའི་ཕྱོགས་ན་གནས་༎ དེ་ནས་བྱུང་ལ་གནོད་པར་བགྱིད་༎
+K12mspram_u:64	 ito hi mānuṣe loke buddhotpādo dharmasvākhyātatā ca saṃghasupratipannatā ca /	K12D0558_H0516:507a-0	མིའི་འཇིག་རྟེན་འདིར་སངས་རྒྱས་བྱུང་བ་དང་། ཆོས་ལེགས་པར་གསུངས་པ་དང་། དགེ་འདུན་ལེགས་པ་སྒྲུབ་པ་དེ་ལ་ས་བོན་འདི་བཏབ་ན་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་དང་། རང་སངས་རྒྱས་༄༥༠༧ཨ་༌༎
+K12mspram_u:640	 teṣāṃ daṇḍaṃ praṇeṣyāmi lokanāthasya saṃmukham //	K12D0558_H0516:521b-0	༄༥༢༡བ་འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔར་ནི་༎ དེ་དག་ཆད་པ་བདག་གིས་བཤད་༎
+K12mspram_u:642	 dharmadharāgre /  balavati /	K12D0558_H0516:521b-3	དྷ་རྨི་བ་རའ་གྲེ་། བ་ལ་པ་ཏེ་།
+K12mspram_u:644	 balini viśāṅge /  vivasi sāgare /	K12D0558_H0516:521b-5	བ་ལི་ནི་། བི་ཤི་གེ་། བི་ཙ་ཤི་། སའ་ག་རེ་།
+K12mspram_u:646	 khari kapile /  caṇḍāli /	K12D0558_H0516:521b-9	ཁའ་རའི་། ཀ་པ་ལི༏་ཙནད་ལི་།
+K12mspram_u:648	 tiriṇi /	K12D0558_H0516:521b-10	ཀི་རི་ནི་།
+K12mspram_u:649	 virājane /	K12D0558_H0516:521b-11	ནའི་རཉཛ་ནེ་།
+K12mspram_u:65	 idam asmin bījam avaropya buddhā bhagavanto loka utpadyante /  pratyekabuddhāś cārhantaḥ śrāvakāś cāsminn ime lokāḥ kuśalamūlāny avaropya sa daśato dvātriṃśatāṃ devanikāyānām anyatarānyatare devanikāye utpadyante	K12D0558_H0516:507a-1	རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། ཉན་ཐོས་རྣམས་འཇིག་རྟེན་དུ་འབྱུང་བར་འགྱུར་། དེ་ལ་འཇིག་རྟེན་དེ་དག་གིས་དགེ་བའི་རྩ་བ་བསྐྱེད་ནས་ལྷའི་རིས་སུམ་ཅུ་རྩ་གཉིས་ལས་ལྷའི་རིས་གང་ཡང་རུང་བ་དག་ཏུ་སྐྱེ་བར་འགྱུར་།
+K12mspram_u:650	 vidhāriṇi /	K12D0558_H0516:521b-12	བི་དྷའ་ར་ནི་།
+K12mspram_u:652	 acare /	K12D0558_H0516:521b-14	ཨཨ་ཙ་ལེ་།
+K12mspram_u:653	 svasty astu mama sarvasatvānāṃ ca paścimāyāṃ diśi svāhā //	K12D0558_H0516:521b-15	བདག་ནུབ་ཕྱོགས་སུ་དགེ་བར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:654	 brahmā cāpy atha śakraś ca lokapālā maheśvarāḥ /	K12D0558_H0516:521b-16	ཚངས་པ་དང་ནི་བརྒྱ་བྱིན་དང་༎ འཇིག་རྟེན་སྐྱོང་དང་དབང་ཕྱུག་ཆེ་༎
+K12mspram_u:655	 yakṣādhipatayaḥ sarve hārītī ca saputrikā //	K12D0558_H0516:521b-17	གནོད་སྦྱིན་སྡེ་དཔོན་ཐམས་ཅད་དང་༎ འཕྲོག་མ་བུ་དང་བཅས་པ་ཡང་༎
+K12mspram_u:656	 idaṃ puṣpaṃ ca gandhaṃ ca pratigṛhṇantu mamāhutiṃ /	K12D0558_H0516:521b-18	བདག་གི་མེ་ཏོག་སྤོས་དག་དང་༎ སྦྱིན་སྲེག་འདི་ནི་བླང་བར་བགྱིས་༎
+K12mspram_u:657	 vīryeṇa tejasā teṣām aiśvaryeṇa balena ca //	K12D0558_H0516:521b-19	དེ་དག་གི་ནི་བརྩོན་འགྲུས་དང་༎ གཟི་བརྗིད་དབང་ཕྱུག་སྟོབས་ཀྱིས་ཀྱང་༎
+K12mspram_u:658	 nihatāḥ sarvarogāś ca svasty astu mama sarvasatvānāṃ ca sarvabhayopadravopasargebhyaḥ svāhā //	K12D0558_H0516:521b-20	ནད་རྣམས་ཐམས་ཅད་བཅོམ་པར་གྱུར་༎ བདག་འཇིགས་པ་དང་། གནོད་པ་ཐམས་ཅད་ལས་དགེ་བར་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:659	 namas te puruṣavīra namas te puruṣottama /	K12D0558_H0516:521b-22	ཕྱག་འཚལ་སྐྱེས་བུ་དཔའ་ཁྱོད་ལ་༎ ཕྱག་འཚལ་སྐྱེས་བུ་མཆོག་ཁྱོད་ལ་༎
+K12mspram_u:660	 namasyāmo 'ñjalikarā dharmarāja namo 'stu te //	K12D0558_H0516:521b-24	ཐལ་མོ་སྦྱར་ཏེ་ཕྱག་འཚལ་ལོ་༎
+K12mspram_u:661	 atha brahmā mahābrahmā prāñjalīkaḥ samutthitaḥ /	K12D0558_H0516:521b-25	ཆོས་རྒྱལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ༏་༏དེ་ནས་ཚངས་པ་ཚངས་ཆེན་ཡང་༎ ཐལ་མོ་སྦྱར་བ་བྱས་ནས་ལངས་༎
+K12mspram_u:662	 brāhmaṇaḥ snātakaḥ śuddhaḥ sarvavedeṣu pāragaḥ /	K12D0558_H0516:521b-27	ཚངས་པས་བཀྲུས་པ་དག་པ་པོ་༎ རིག་བྱེད་ཀུན་གྱི་ཕ་རོལ་ཕྱིན་༎
+K12mspram_u:663	 vaidyarājo janānandaḥ sarvarogacikitsakaḥ /	K12D0558_H0516:521b-29	སྐྱེ་བོ་དགའ་མཛད་སྨན་པའི་རྗེ་༎ འཇིག་རྟེན་ཐམས་ཅད་གསོ་མཛད་པ་༎
+K12mspram_u:664	 ye yakṣarākṣasāś caiva digvidikṣu vyavasthitāḥ /  pātāle heṣṭham ūrdhvaṃ ca ākāśe niśritā grahāḥ /  teṣāṃ daṇḍaṃ praṇeṣyāmi lokanāthasya saṃmukham //	K12D0558_H0516:521b-31	གནོད་སྦྱིན་སྲིན་པོ་གང་གི་རྣམས་༎
+K12mspram_u:67	 rājāno 'pi bhavanti caturaṅginaś caturdvīpeśvarāś cakravartinaḥ /	K12D0558_H0516:507a-3	རྒྱལ་པོ་དག་ཀྱང་དམག་རྣམ་བཞི་དང་ལྡན་པ་ནས་གླིང་བཞི་ལ་དབང་བའི་འཁོར་ལོས་བསྒྱུར་བའི་རྒྱལ་པོར་འགྱུར་རོ་༎
+K12mspram_u:68	 samudraparyante mahāpṛthivīmaṇḍale dharmeṇa rājaṃ kārayanti /	K12D0558_H0516:507a-4	རྒྱ་མཚོ་ལ་ཐུག་པའི་སའི་དཀྱིལ་འཁོར་ཆེན་པོར་ཆོས་ཀྱི་རྒྱལ་སྲིད་བྱེད་པར་འགྱུར་ཏེ་དེ་དག་ལའང་བུ་དཔའ་བ་།
+K12mspram_u:69	 teṣāṃ ca putrasahasraṃ bhavati śūrāṇāṃ vīrāṇāṃ varāṅgarūpiṇāṃ mahānagnabalavegadhārināṃ parasainyapramardakānāṃ saptaratnasamanvāgatānām /	K12D0558_H0516:507a-5	རྟུལ་ཕོད་པ༏་ཡན་ལག་མཆོག་གི་གཟུགས་དང་ལྡན་པ་། ཚན་པོ་ཆེའི་སྟོབས་ཀྱི་ཤུགས་བདོག་པ་། ཕ་རོལ་གྱི་སྡེ་རབ་ཏུ་འཇོམས་པ་། རིན་པོ་ཆེ་སྣ་བདུན་དང་ལྡན་པ་སྟོང་འབྱུང་བར་འགྱུར་རོ་༎
+K12mspram_u:693	 api tu sadevakasya lokasyārthāya samārakasya saśramaṇabrāhmaṇikāyāḥ prajāyāḥ sadevamānuṣāsurāyā buddhā bhagavanto loka utpadyante /	K12D0558_H0516:522b-0	དེ་ནས་བཅོམ་ལྡན་འདས་༄༥༢༢བ་འདི་སྙམ་དུ་དགོངས་ཏེ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་རྒྱལ་སྲིད་གཅིག་གི་ཕྱིར་འཇིག་རྟེན་དུ་བྱུང་བ་མ་ཡིན་། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། ལྗོངས་དང་། གྲོང་དང་། ཁྱིམ་ནས་སེམས་ཅན་གཅིག་གི་བར་གྱི་དོན་གྱི་ཕྱིར་འཇིག་རྟེན་དུ་བྱུང་བ་མ་ཡིན་གྱི་། འཇིག་རྟེན་ལྷ་དང་བཅས་པ་། བདུད་དང་བཅས་པ་། དགེ་སྦྱོང་དང་། བྲམ་ཟེར་བཅས་པའི་སྐྱེ་དགུ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་དོན་དུ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་འཇིག་རྟེན་དུ་བྱུང་སྟེ་།
+K12mspram_u:694	 tadyathā /	K12D0558_H0516:522b-6	དེ་ནི་། དཔེར་ན་།
+K12mspram_u:695	 syād vaidyaś cikitsakaḥ paramācāryaḥ kuśalo bhiṣajjñāneṣu śikṣito naikarājasyārthāya naikasatvasyārthāya loka utpadyante /	K12D0558_H0516:522b-7	སྨན་པ་མཁས་པའི་མཆོག་ཏུ་ཕྱིན་པ་། གསོ་བ་ལ་བརྩོན་པ་། སྨན་པས་ཤེས་པར་བྱ་བ་། ཤིན་ཏུ་བསླབས་པ་རྒྱལ་པོ་གཅིག་གི་དོན་དུ་བྱུང་བ་མ་ཡིན་།
+K12mspram_u:697	 tat kasya hetoḥ /  yasyāṃ diśi buddhā bhagavanto viharanti /  na tatra manuṣyāmanuṣyān viheṭhayitavyān manyate /	K12D0558_H0516:522b-12	དེ་ཅིའི་ཕྱིར་ཞེ་ན༏་ཕྱོགས་གང་ན་སངས་རྒྱས་བཅོམ་ལྡན་འདས་བཞུགས་པའི་ཕྱོགས་དེ་དག་ཏུ་མི་རྣམས་དང་། མི་མ་ཡིན་པ་དག་ཀྱང་རྣམ་པར་འཚེ་བར་མི་བྱ་བར་སེམས་ཀྱི་།
+K12mspram_u:70	 tad yuṣmākam alpotsukavihāreṇa viharatām evaṃrūpāṇām asmin loke notpattir bhaviṣyati //	K12D0558_H0516:507a-9	དེ་བས་ན་འཇིག་རྟེན་འདིར་རྣམ་པ་འདི་ལྟ་བུ་འབྱུང་བར་འགྱུར་བར་ཁྱེད་སྙིང་ལས་ཆུང་དུས་གནས་པས་གནས་པར་གྱིས་ཤིག་།
+K12mspram_u:700	 pañcāhaṃ yena vaiśālī mahānagarī tenopasaṃkrāmeyam /  evaṃ mayā vaiśālyāṃ mahānagaryāṃ mahājanakāyasyārthāya kṛto bhaviṣyati buddhakāryaṃ ca //	K12D0558_H0516:522b-13	ངའང་ཡངས་པ་ཅན་གྱི་གྲོང་ཁྱེར་ཆེན་པོ་ག་ལ་བ་དེར་སོང་བ་དང་། ཡངས་པ་ཅན་གྱི་གྲོང་ཁྱེར་ཆེན་པོའི་སྐྱེ་བོའི་ཚོགས་ཕལ་པོ་ཆེའི་དོན་ཀྱང་བྱས་པར་འགྱུར་། སངས་རྒྱས་ཀྱི་༄༥༢༣ཨ་༌༎ མཛད་པའང་བྱས་པར་འགྱུར་རོ་སྙམ་དུ་དགོངས་ཏེ་།
+K12mspram_u:702	 atha khalu bhagavān pūrvāhṇakālasamaye nivāsya pātracīvaram ādāyārdhatrayodaśabhir bhikṣuśataiḥ sārdhaṃ gṛdhrakūṭāt parvatād avatīrṇaḥ //  atha brahmā sahāpatiḥ pañcamātrāṇi divyāni chatraśatāny ādāya bhagavato dakṣiṇeṇopanāmitavān /	K12D0558_H0516:523a-2	དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ཆོས་གོས་དང་། ཤམ་ཐབས་མན་བས་ནས་ལྷུང་བཟེད་བསྣམས་ཏེ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུ་དང་ཐབས་གཅིག་ཏུ་བྱ་རྒོད་ཕུང་པོའི་རི་ལས་ཤོད་དུ་གཤེགས་པ་དང་། མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ལྷའི་གདུགས་ལྔ་བརྒྱ་ཙམ་བླངས་ཏེ་བཅོམ་ལྡན་འདས་ལ་ག-ཡས་རོལ་ནས་ཕུལ་ལོ་༎
+K12mspram_u:704	 upanāmya bhagavantam (Msp 22)  eva vijayamānaḥ sthito 'bhūt //	K12D0558_H0516:523a-3	ཕུལ་ནས་བཅོམ་ལྡན་འདས་ལ་རྡུལ་ཡབ་ཀྱིས་ག-ཡོབ་ཅིང་འདུག་པར་གྱུར་ཏོ་༎
+K12mspram_u:706	 śakro 'pi devānām indraḥ pañcamātrāṇi chatraśatāny ādāya bhagavato vāmenopanāmitavān /	K12D0558_H0516:523a-4	ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་ཀྱང་གདུགས་ལྔ་བརྒྱ་ཙམ་བླངས་ཏེ་བཅོམ་ལྡན་འདས་ལ་ག-ཡོན་རོལ་ནས་ཕུལ་ལོ་༎
+K12mspram_u:707	 upanāmya bhagavantam eva vijayamānaḥ sthitaḥ //	K12D0558_H0516:523a-5	ཕུལ་ནས་བཅོམ་ལྡན་འདས་ལ་རྡུལ་ཡབ་ཀྱིས་ག-ཡོབ་ཅིང་འདུག་པར་གྱུར་ཏོ་༎
+K12mspram_u:708	 catvāro 'pi mahārājānaḥ ekaiko 'pi divyāni pañcamātrāṇi chatraśatāny ādāya bhagavataḥ pṛṣṭhata upanāmitavanta upanāmya bhagavantam eva vijayamānaḥ sthitaḥ //	K12D0558_H0516:523a-6	རྒྱལ་པོ་ཆེན་པོ་བཞིས་ཀྱང་རེ་རེ་ཞིང་ལྷའི་གདུགས་ལྔ་བརྒྱ་ཙམ་བླངས་ཏེ་བཅོམ་ལྡན་འདས་ལ་སྣམ་ལོགས་ནས་བཅོམ་ལྡན་འདས་ལ་རྡུལ་ཡབ་ཀྱིས་ག-ཡོབ་ཅིང་འདུག་པར་གྱུར་རོ་༎
+K12mspram_u:709	 maheśvaro 'pi devaputro 'ṣṭāviṃśatiś ca mahāyakṣasenāpatayo dvātriṃśac ca mahāyakṣanagnā  hārītī ca saputrikā saparivārā śrāvakānāṃ pratyekaṃ divyaṃ chatram upanāmitavatī	K12D0558_H0516:523a-7	ལྷའི་བུ་དབང་ཕྱུག་ཆེན་པོ་དང་། གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ཉི་ཤུ་རྩ་བརྒྱད་དང་། གནོད་སྦྱིན་མཐུ་བོ་ཆེ་སུམ་ཅུ་རྩ་གཉིས་དང་། འཕྲོག་མའི་བུ་ལྔ་བརྒྱ་འཁོར་དང་བཅས་པས་ཀྱང་སོ་སོ་ནས་ལྷའི་གདུགས་དག་བླངས་ཏེ་། ཉན་ཐོས་རྣམས་ལ་བུལ་ནས་རྡུལ་ཡབ་༄༥༢༣བ་ཀྱིས་ག-ཡོབ་ཅིང་འདུག་པར་གྱུར་ཏོ་༎
+K12mspram_u:71	 atha vaiśramaṇo mahārājo 'bhyudgamyāsanād ekāṃsam uttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ  pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃs tenāñjaliṃ kṛtvā bhagavantam eva namasyamāno	K12D0558_H0516:507a-10	དེ་ནས་རྒྱལ་པོ་ཆེན་པོ་རྣམ་ཐོས་ཀྱི་བུ་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་ག-ཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་བཅོམ་ལྡན་འདས་ལ
+K12mspram_u:711	 vijayantī ca sthitā //  evaṃrūpayośolābhasatkārāgraprāpto bhagavān sabhikṣusaṃgho gṛdhrakūṭāt parvatād avatīrya yena vaiśālī mahānagarī tenopasaṃkrāntaḥ /	K12D0558_H0516:523b-1	དེ་ལྟ་བུའི་གྲགས་པ་དང་། བཀུར་སྟི་དང་། བརྙས་པར་བྱ་བ་བརྙེས་ནས་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་གཅིག་ཏུ་བྱ་རྒོད་ཕུང་པོའི་རི་ལས་ཤོད་དུ་བབས་ཏེ་ཡངས་པ་ཅན་གྱི་གྲོང་ཁྱེར་ཆེན་པོ་ག་ལ་བ་དེར་གཤེགས་པ་དང་།
+K12mspram_u:713	 adrakṣuḥ khalu punar vaiśālikā licchavayo bhagavantaṃ dūrata evāgacchantaṃ prāsādikaṃ	K12D0558_H0516:523b-2	ཡངས་པ་ཅན་གྱི་ལིཙཚ་པའི་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ཤིན་ཏུ་མཛེས་པ་།
+K12mspram_u:714	 prāsādanīyaṃ śāntendriyaṃ śāntamānasaṃ dāntendriyaṃ dāntamānasaṃ paramottamadamaśamathaprāptaṃ	K12D0558_H0516:523b-3	དད་པར་འོས་པ་། དབང་པོ་ཞི་བ་། ཐུགས་ཞི་བ་། དབང་པོ་དུལ་བ་། ཐུགས་དུལ་བ་། དུལ་བ་དང་། ཞི་གནས་ཀྱི་དམ་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྙེས་པ་།
+K12mspram_u:715	 jitendriyaṃ nāgam iva sudāntaṃ hradam ivācchaṃ viprasannam anāvilaṃ dvātriṃśadbhir	K12D0558_H0516:523b-9	དབང་པོ་དབེན་ཞིང་ཁུགས་པ་། གླང་པོ་ཆེན་པོ་ལྟ་བུ་ཤིན་ཏུ་དུལ་བ་། མཚོ་ལྟར་དབ༹ངས་ཤིང་རྙོག་པ་མེད་ལ་རྣམ་པར་གསལ་བ་། སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་ཀྱིས་སྐུ་ལེགས་པར་བརྒྱན་པ་།
+K12mspram_u:716	 mahāpuruṣalakṣaṇaiḥ samalaṃkṛtagātram aśītibhiś cānuvyañjanaiḥ saṃkusumitaṃ vicitritaṃ	K12D0558_H0516:523b-13	དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུས་ཤིན་ཏུ་བརྒྱན་པ་།
+K12mspram_u:717	 gātraṃ tathāgatasya śarīraṃ śālarājeva supuṣpitaḥ sūryo vā divā pramuktaraśmijālaḥ /	K12D0558_H0516:523b-14	ཤིང་སའ་ལའི་རྒྱལ་པོ་ལྟར་དེ་བཞིན་གཤེགས་པའི་སྐུ་རྣམ་པར་སྤྲས་པ་། ཉི་མ་ལྟར་འོད་ཟེར་གྱི་དྲ་བ་ཀུན་ཏུ་འགྱེད་པ་།
+K12mspram_u:719	 prajvālan mahān agniskandhaḥ /  mahān iva cāmīkarācaladharaḥ /	K12D0558_H0516:523b-16	མཚན་མོ་མུན་པའི་ནང་ན་རི་བོའི་སྤོ་ལ་མེའི་ཕུང་པོ་རབ་ཏུ་འབར་བ་དང་འདྲ་ཞིང་བཅོམ་ལྡན་འདས་གསེར་གྱི་རི་བོ་ཆེན་པོ་དམ་པ་ལྟར་ལྷམ་མེ་། ལྷན་ནེ་། ལྷང་ངེ་རྒྱང་རིང་པོ་ནས་གནས་དེར་གཤེགས་པ་མཐོང་ངོ་༎
+K12mspram_u:721	 evam eva bhagavān bhāṣate tapati virocate sahadarśanād eva vaiśālikā licchavayo bhagavato 'ntike cetāṃsi prasādayāmāsuḥ //	K12D0558_H0516:524a-0	མཐོང་མ་ཐག་ཏུ་ཡངས་པ་ཅན་གྱི་ལིཙཚ་བའི་རྣམས་བཅོམ་ལྡན་འདས་ལ་སེམས་དད་པར་གྱུར་ནས་སེམས་༄༥༢༤ཨ་༌༎
+K12mspram_u:722	 te prasannacittā yena mārgeṇa bhagavān vaiśālīṃ mahānagarīṃ praviśati taṃ mārgaṃ śodhayanti sma /	K12D0558_H0516:524a-1	དད་པར་གྱུར་པ་དེ་དག་བཅོམ་ལྡན་འདས་ཡངས་པ་ཅན་གྱི་གྲོང་ཁྱེར་ཆེན་པོར་ལམ་གང་ནས་གཤེགས་པའི་ལམ་དེ་ཕྱགས་ཤིང་ཆག་ཆག་འདེབས་།
+K12mspram_u:723	 saṃmārjayanti sma /	K12D0558_H0516:524a-2	བྱི་དོར་བྱེད་།
+K12mspram_u:724	 puṣpāvakīrṇaṃ ca vareṇyaṃ kurvanti sma /	K12D0558_H0516:524a-3	མེ་ཏོག་འཐོར་།
+K12mspram_u:725	 ucchritavicitrapaṭṭadāmaghaṇṭāchatradhvajapatākānānāgandhāni dhūpitaṃ kṛtvā yena bhagavāṃs tenopasaṃkrāmanti sma /  upasaṃkramya bhagavataḥ pādayoḥ śirāṃsi nipātayanti //	K12D0558_H0516:524a-4	དར་གྱི་ལྡ་ལྡི་དང་། དྲིལ་བུ་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་སྣ་ཚོགས་ཀྱིས་བརྒྱན་ཏེ་བདུག་སྤོས་སྣ་ཚོགས་ཀྱིས་གདུགས་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་ཕྱིན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་བཙལ་ལོ་༎
+K12mspram_u:727	 (Msp 23)  atha bhagavān sahasrāracakraruciracaraṇavilikhitatalena padmabimbagarbhasūkumāreṇa pūrvasucaritalakṣaṇopacitena taruṇadivākarakiraṇātirekaprabheṇa	K12D0558_H0516:524a-5	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཕྱག་གི་མཐིལ་འཁོར་ལོ་རྩིབས་སྟོང་དང་ལྡན་པའི་རི་མོ་ཅན་། མེ་ཏོག་པདམའི་སྙིང་པོ་ལྟར་འཇམ་པ་། སྔོན་ལེགས་པར་སྤྱད་པའི་མཚན་གྱིས་བརྒྱན་པ་།
+K12mspram_u:729	 prasṛtabahuraśmiśatasahasranirmalena kareṇa teṣāṃ licchavīnāṃ śirāṃśi parimārjyotthāpya samanuśāsayati sma //  mā bhaiṣṭha mā bhaiṣṭha āryā ethāham abhyāgato yuṣmākam evānukaṃpām upādāya anuttaraṃ jñānam abhisaṃbuddho 'smi /  sarvasatvānāṃ ca hitāya sukhāya //	K12D0558_H0516:524a-8	གཞོན་ཤ་ཆགས་ཤིང་འཇམ་པ་། ཉི་མའི་འོད་ཟེར་བས་ལྷག་པའི་འོད་དང་ལྡན་པ་། འོད་ཟེར་བརྒྱ་ཕྲག་མང་པོ་ཀུན་ཏུ་འཕྲོ་བ་།
+K12mspram_u:73	 bhagavantam etad avocat //	K12D0558_H0516:507a-11	འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K12mspram_u:732	 atha bhagavān vaiśālīm mahānagarīṃ praviśya madhyame yāme indrakīlam avaṣṭabhya caturdiśam avalokya suvarṇavarṇabāhuṃ prasāryottarāsaṅgaṃ vicaritvovāca  ye kecit paścime kāle paścime samaye sarṣapaphalamātraṃ tathāgatasya śarīradhātuṃ pūjayiṣyanti /	K12D0558_H0516:524a-11	དྲི་མ་མེད་པའི་ཕྱག་གིས་ལིཙཚ་པའི་དག་གི་མགོ་ལ་བྱུགས་ཏེ་རྗེས་སུ་བསྟན་པ་མཛད་དོ་༎ དེ་ནས་བཅོམ་ལྡན་འདས་ཡངས་པ་ཅན་གྱི་གྲོང་ཁྱེར་ཆེན་པོའི་ནང་དུ་གཤེགས་ནས་ནམ་གྱི་གུང་ཐུན་ལ་སྒོ་སྐྱེས་ཀྱི་གཞི་ཞབས་ཀྱིས་མནན་ནས་ཕྱོགས་བཞིར་གཟིགས་ཏེ་། ཕྱག་གསེར་གྱི་མདོག་ཅན་བརྐྱང་ནས་ན་བཟའ་བླ་གོས་གསོལ་ཏེ་བཀའ་སྩལ་པ་། ཕྱི་མའི་དུས་ན་དགེ་སློང་ངམ་། དགེ་སློང་༄༥༢༤བ་མ་འམ་།
+K12mspram_u:734	 imāṃ ca mahāsāhasrapramardanīṃ vidyārājñīṃ sarvagrahaparimocanīyaṃ dharmaparyāyaṃ  gaṅgāsikatāprakhyānāṃ tathāgatānām arhatāṃ samyaksaṃbuddhānāṃ buddhamudrāṃ bhikṣubhikṣuṇyupāsakopāsikā  udgṛhīṣyanti dhārayiṣyanti vācayiṣyanti deśayiṣyanti paryavāpsyanti /	K12D0558_H0516:524b-1	དགེ་བསྙེན་ནམ་། དགེ་བསྙེན་མའམ་། གང་སུ་ཡང་རུང་བ་དག་དེ་བཞིན་གཤེགས་པའི་སྐུ་གདུང་རིང་བསྲེལ་ཡུངས་འབྲུ་ཙམ་ལ་མཆོད་པ་བྱེད་པ་དང་། སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པའི་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གདོན་ཐམས་ཅད་ལས་ཐར་བར་བྱེད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་གངྒའའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཕྱག་རྒྱ་འདི
+K12mspram_u:737	 teṣāṃ sarvatra iti bhayopadravopasargopāyāsāvairakalikalahabandhanavigrahavivādā antaśaḥ paiśūnyapāpakā akuśalā duḥkhadharmā na kramiṣyanti  ajayāś ca bhaviṣyanti sarvaviheṭhakebhyaḥ //	K12D0558_H0516:524b-4	འཛིན་ཅིང་འཆང་བ་དང་། ཀློག་ཅིང་སྟོན་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་ལ་ཡམས་ནད་དང༏་འཇིགས་པ་དང་། འཚེ་བ་དང་། ནད་འགོ་བ་དང་། འཁྲུགས་པ་དང་། འཐབ་པ་དང་། རྩོད་པ་དང་། འཆིང་བ་དང་། ཁ་མཆུ་དང་། ཤགས་དང་། ཐ་ན་ཕྲ་མ་དང༏་སྡིག་པ་མི་དགེ་བའི་སྡུག་བསྔལ་བའི་ལས་ཀྱིས་མི་ཚུགས་ཤིང་འཚེ་བར་བྱེད་པ་ཐམས་ཅད་ཀྱིས་མི་ཐུབ་པར་འགྱུར་རོ་༎
+K12mspram_u:739	 evam ukte brahmā sahāpatir bhagavantam etad avocat /	K12D0558_H0516:524b-6	དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བཅོམ་ལྡན་འདས་ལ་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ་༎
+K12mspram_u:74	 santi bhadanta bhagavann asmākam udārāṇi gṛhasthānabhavanāni nagarodyānavimānakūṭāgāraharmyaniryūhatoraṇagavākṣaśubharucitavividhavicitrapaṭṭadāmaghaṇṭācāmaramuktājālaparikṣiptāni	K12D0558_H0516:507a-12	བཅོམ་ལྡན་འདས་། བདག་ཅག་ལ་གྲོང་དང་། སྐྱེད་མོས་ཚལ་དང་། གཞལ་མེད་ཁང་དང་། ༄༥༠༧བ་ཁང་པ་བརྩེགས་པ་དང་། བསིལ་ཁང་དང་། སྒོ་ཁང་དང་། རྟ་བབས་དང་། སྐར་ཁུང་དང་། དར་གྱི་ལྡ་ལྡི་བཟང་ཞིང་མཛེས་པ་རྣམ་པ་སྣ་ཚོགས་དང་ལྡན་པ་དང་།
+K12mspram_u:741	 dharmaparyāyaṃ gaṅgāsikatāprakhyānāṃ tathāgatānāṃ arhatāṃ samyaksaṃbuddhānāṃ buddhamudrā //	K12D0558_H0516:525a-0	སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པ་ཞེས་བྱ་བའི་གསང་སྔགས་ཀྱི་རྒྱལ་མོ་གདོན་ཐམས་ཅད་ལས་ཐར་བར་བགྱིད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་གངྒའའི་ཀླུང་གི་བྱེ་མ་༄༥༢༥ཨ་༌༎
+K12mspram_u:742	 evam ukte bhagavān brahmāṇaṃ sahāpatim etad avocat /  tena hi tvaṃ brahman śṛṇu sādhu ca suṣṭhu ca manasi kuru bhāṣiṣya hanta /	K12D0558_H0516:525a-1	སྙེད་རྣམས་ཀྱིས་སངས་རྒྱས་ཀྱི་ཕྱག་རྒྱ་དེ་གང་ལགས་དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ་༎
+K12mspram_u:744	 eva bhadanteti brahmā sahāpatir bhagavataḥ pratyaśrauṣīd bhagavāṃs tasyaitad avocat /  syād yathedaṃ /	K12D0558_H0516:525a-3	བཙུན་པ་། དེ་བཞིན་ནོ་ཞེས་གསོལ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་པ་དང་། དེ་ལ་བཅོམ་ལྡན་འདས་ཀྱིས་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ་༎
+K12mspram_u:749	 prakṛtivarṇa /  prakṛtinirghoṣe /	K12D0558_H0516:525a-6	སའ་ར་མ་ཙ་ལེ་། པྲ་ཀྲི་ཏེ་བརྣེ་པྲ་ཀྲི་ཏི་ནིརགྷོ་ཤེ་།
+K12mspram_u:75	 dhūpaghaṭikāni dhūpitāni puṣpāvakīrṇāni yeṣu vayaṃ nārīśatasahasraparivṛtāḥ saṃpūrṇaiḥ pañcabhiḥ kāmaguṇaiḥ samarpitāḥ samanvaṅgībhūtā viharāmaḥ	K12D0558_H0516:507b-1	དྲིལ་བུ་དང་། མུ་ཏིག་གི་དྲ་བས་ཡོངས་སུ་བསྐོར་བ་དང་། པོག་ཕོར་ནས་བདུག་པས་བདུགས་པ་དང་། མེ་ཏོག་གིས་གཏོར་བའི་ཁྱིམ་དང་། གནས་དང་། ཁང་པ་ཆེན་པོ་དག་མཆིས་ཏེ་དེར་བདག་ཅག་བུད་མེད་བརྒྱ་ཕྲག་སྟོང་དག་གིས་ཡོངས་སུ་བསྐོར་ཅིང་འདོད་པའི་ཡོན་ཏན་ལྔ་ཚངས་པར་སྤྱོད་པ་དང་ལྡན་པར་གྱུར་ནས་གནས་ཏེ་།
+K12mspram_u:752	 sthire sthāvare /  vighuṣṭaśabde /	K12D0558_H0516:525a-9	སཐི་རེ་སཐའ་བ་རེ་བི་གྷུཤཏེ་།
+K12mspram_u:758	 bale /  mahābale /  mahānirbhāse svāhā //  tatredam ucyate kāyagatānusmṛtiḥ śamathavipaśyane /  trayaḥ samādhayaḥ /	K12D0558_H0516:525a-11	པའ་རངྒ་མེ་སའ་རའ་སུ་ཏེ་སའ་རངྒ་བ་ཏེ་བ་ལེ་མཧའ་བ་ལེ་མཧའ་ནིརབྷའ་སེ་སབ༹འ་ཧའ་།
+K12mspram_u:76	 teṣām asmākaṃ bhadanta bhagavan pramattānāṃ pramādavihāravihāriṇāṃ viharatāṃ pariṣadaḥ samantād daśadiśo 'nnapānabhojanāni mārgayanti /	K12D0558_H0516:507b-2	བཙུན་པ་བཅོམ་ལྡན་འདས་བདག་ཅག་རབ་ཏུ་མྱོས་པས་བག་མ་མཆིས་པར་གནས་པས་གནས་པ་ན་འཁོར་ཟས་དང་། སྐོམ་ཚོལ་དུ་ཕྱོགས་བཅུ་ཀུན་ཏུ་འབྱེར་ཞིང་སྐྱེས་པ་དང་། བུད་མེད་དང་། ཁྱེའུ་དང་། བུ་མོ་དང་། བཙས་མ་ཐག་པ་དང་།
+K12mspram_u:768	 pañcendriyāṇi /  pañcabalāni /  ṣaḍanusmṛtayaḥ /  saptabodhyaṅgāni /  āryāṣṭāṅgā mārgāḥ /  navānupūrvavihārasamāpattayaḥ /	K12D0558_H0516:525b-0	འཕགས་པའི་བདེན་པ་བཞི་དང་། དབང་པོ་ལྔ་དང་། སྟོབས་ལྔ་དང་། རྗེས་སུ་དྲན་པ་དྲུག་དང་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་དང་། འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་དང་། མཐར་གྱིས་གནས་པའི་༄༥༢༥བ་སྙོམས་པར་འཇུག་པ་དགུ་དང་།
+K12mspram_u:77	 prapalāyamānāḥ strīpuruṣadārakadārikāṇāṃ tiryagjātagarbhānāṃ tiryagyonigatānām api ca prāṇinām ojo haranti viheṭhayanti vighnayanti mārayanti  jīvitād vyaparopayanti /	K12D0558_H0516:507b-3	དུད་འགྲོའི་སྐྱེ་གནས་སུ་གཏོགས་པའི་སྲོག་ཆགས་རྣམས་ཀྱི་མདངས་འཕྲོག་། འཚེ་བར་བགྱིད་། བགེགས་བགྱིད་། འགུམ་པར་བགྱིད་། གསོད་པར་བགྱིད་།
+K12mspram_u:774	 daśatathāgatabalāni /  ekādaśavimuktāyatanāni /  dvādaśāṅgapratītyasamutpādaḥ /  dvādaśakāradharmacakram /  ṣoḍaśākāra anāyānānusmṛtiḥ /	K12D0558_H0516:525b-1	དེ་བཞིན་གཤེགས་པའི་སྟོབས་བཅུ་དང་། རྣམ་པར་གྲོལ་བའི་སྐྱེ་མཆེད་བཅུ་གཅིག་དང་། རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་ཡན་ལག་བཅུ་གཉིས་དང་། རྣམ་པ་བཅུ་གཉིས་དང་ལྡན་པའི་ཆོས་ཀྱི་འཁོར་ལོ་དང་། དབུགས་དབྱུང་བ་དང་། རྡུབ་པ་རྗེས་སུ་དྲན་པ་བཅུ་དྲུག་དང་།
+K12mspram_u:779	 aṣṭādaśāveṇikābuddhadharmāḥ /  dvācatvāriṃśadakṣarāṇi /	K12D0558_H0516:525b-2	སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅོ་བརྒྱད་དང་། ཡི་གེ་བཞི་བཅུ་རྩ་གཉིས་ཏེ་ཚངས་པ་།
+K12mspram_u:781	 iyaṃ sā brahman mahāsāhasrapramardanī nāma mahāvidyārājñī sarvagrahaparimocanīyaṃ sūtraṃ gaṅgāsikatāprakhyānāṃ tathāgatānāṃ arhatāṃ samyaksaṃbuddhānāṃ buddhamudrā /	K12D0558_H0516:525b-3	དེ་ནི་སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པ་ཞེས་བྱ་བའི་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གདོན་ཐམས་ཅད་ལས་ཐར་བར་བྱེད་པའི་མདོ་།
+K12mspram_u:79	 te vayaṃ bhadanta bhagavato 'ntike caturvarṇāṃ pariṣadāṃ purataḥ svakasvakānāṃ pariṣadāṃ rūpalakṣaṇaṃ darśayiṣyāmaḥ /	K12D0558_H0516:507b-7	སྲོག་དང་བྲལ་བར་བགྱིད་དེ་བཙུན་པ་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་བདག་ཅག་གིས་འཁོར་བཞིའི་མདུན་དུ་བདག་ཅག་གི་འཁོར་གྱི་ཚུལ་གྱི་མཚན་མ་བསྟན་པར་བགྱིའོ་༎
+K12mspram_u:80	 yasya pariṣado yo graho bhaviṣyati /  tatas tasya mahārājasyodāracaityapratimā kartavyā /	K12D0558_H0516:508a-0	གང་གི་འཁོར་གྱི་གདོན་བྱུང་བ་དེར་རྒྱལ་པོ་ཆེན་པོ་དེའི་གཟུགས་མཆོད་རྟེན་དང་བཅས་པ་ཆེན་པོ་བགྱིས་ཏེ་ནད་པས་རྒྱལ་པོ་ཆེན་པོ་༄༥༠༨ཨ་༌༎
+K12mspram_u:810	 imasmin lokeṣv imasmin vā punaḥ svargeṣu vā ratnavarāṇi santi /	K12D0558_H0516:526a-4	འཇིག་རྟེན་འདི་འམ་གང་དག་འདས་པ་དང་༎ མཐོ་རིས་དག་ན་རིན་ཆེན་མཆོག་ཡོད་པ་༎
+K12mspram_u:811	 samo 'sti naiveha tathāgatena devātidevena narottamena //	K12D0558_H0516:526a-5	དེ་བཞིན་གཤེགས་པ་ལྷ་ཡི་ལྷར་གྱུར་པ་༎ མི་ཡི་མཆོག་དང་འདིར་ནི་མཚུངས་པ་མེད་༎
+K12mspram_u:812	 tasmād idaṃ ratnavaraṃ praṇītam etena satyena ihāstu svasti /	K12D0558_H0516:526a-7	དེ་བས་འདིར་ནི་རིན་ཆེན་མཆོག་ཏུ་གསུངས་༎ བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:813	 kṣayo virāgo hy amṛtaṃ tv asaṃskṛtam ājñāya sauśākyamuniprabhāvitaḥ //	K12D0558_H0516:526a-9	ཟད་པ་ཆགས་བྲལ་བདུད་རྩི་འདུས་མ་བྱས་༎ ཤེས་པས་ཤའཀྱ་ཐུབ་དེས་རབ་ཏུ་ཕྱེ༏་༏བདུད་རྩི་ཞི་བ་འདུས་བྱས་མ་ཡིན་པ་༎
+K12mspram_u:816	 tasmād idaṃ ratnavaraṃ praṇītam etena satyena ihāstu svasti //	K12D0558_H0516:526a-13	བདེན་པ་དེ་ཡིས་འདི་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:817	 yac chreṣṭham iṣṭaṃ vidhivatprakāśitaṃ śāstā sadānuttarayogavāhakam /	K12D0558_H0516:526a-14	མཆོག་ཏུ་གང་འདོད་ཚུལ་བཞིན་རབ་བསྟན་པ་༎ སྟོན་པའི་རྣལ་འབྱོར་བླ་མེད་རྟག་སྒྲུབ་པ་༎
+K12mspram_u:818	 samādhinā tena samo na vidyate vajropamenādvayamārgadarśinā //	K12D0558_H0516:526a-16	རྡོ་རྗེ་ལྟ་བུའི་མི་གཉིས་ལམ་མཐོང་བ་༎ ཏིང་འཛིན་དེ་དང་མཉམ་པ་ཡོད་མ་ཡིན༏་༏དེ་བས་འདི་ནི་རིན་ཆེན་མཆོག་ཏུ་གསུངས་༎
+K12mspram_u:819	 tasmād idaṃ ratnavaraṃ praṇītam etena satyena ihāstu svasti /	K12D0558_H0516:526a-18	བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:82	 āturasya ca hastena tasya mahārājasya nāmnā nānāgandhadhūpā dhūpayitavyāḥ /	K12D0558_H0516:508a-1	དེའི་མིང་ནས་དབྱུང་ཞིང་དྲི་སྣ་ཚོགས་ཀྱིས་རང་གི་ལག་ནས་བདུག་པར་འགྱིའོ་༎
+K12mspram_u:820	 aṣṭau mahāpudgalaye praśastāḥ khyātāni catvāri yugāni caiva //	K12D0558_H0516:526a-19	གང་ཟག་ཆེན་པོ་བརྒྱད་པོ་རབ་བསྔགས་ཤིང་༎ གང་ཟག་ཟུང་བཞིར་བརྗོད་པ་དེ་དག་ནི་༎
+K12mspram_u:821	 te dakṣiṇīyā sugatena gītā maharṣiṇā hy apratipudgalena /  ebhyaḥ pradānaṃ bhavate mahāphalaṃ bījāni nyastāni yathā sukṣetre //	K12D0558_H0516:526a-21	དྲང་སྲོང་ཆེན་པོ་གང་ཟག་མཚུངས་མེད་པ་༎ བདེ་བར་གཤེགས་པས་སྦྱིན་པའི་གནས་ཞེས་གསུངས་༎ དེ་ལ་བྱིན་ན་འབྲས་བུ་ཆེར་གྱུར་ཏེ་༎ ཞིང་རབ་གཤིན་ལ་༄༥༢༦བ་ས་བོན་བཏབ་པ་བཞིན་༎
+K12mspram_u:823	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti /	K12D0558_H0516:526b-1	འདི་ནི་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས་༎ བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:824	 ye suprasannāmanasā dṛḍhena upasaṃkramī gautamaśāsanaṃ hi //	K12D0558_H0516:526b-3	གང་དག་བརྟན་པའི་ཡིད་ཀྱིས་རབ་བརྩོན་ཞིང་༎ གོཨོ་ཏ་མའི་བསྟན་ལ་འཇུག་བྱེད་པ་༎
+K12mspram_u:825	 te prāptiprāptā amṛtaṃ vigāhya tamonudā nirvṛtim āpnuvanti /	K12D0558_H0516:526b-5	དེ་དག་ཐོབ་ནས་བདུད་རྩི་འཇུག་ཐོབ་སྟེ་༎ མུན་པ་བསལ་ནས་མྱ་ངན་འདས་ཐོབ་པ་༎
+K12mspram_u:826	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti //	K12D0558_H0516:526b-8	བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:827	 sahasrayogād iha darśanasya trayaḥ prahīṇā yugapat kileśāḥ /	K12D0558_H0516:526b-9	ལྟ་བ་འདི་ལ་སྦྱར་མ་ཐག་ཏུ་ནི་༎ འཇིག་ཚོགས་ལྟ་དང་ཚུལ་ཁྲིམས་བརྟུལ་ཞུགས་དང་༎ ཐེ་ཚོམ་དང་ནི་ཉོན་མོངས་གསུམ་པོ་དག་།
+K12mspram_u:829	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti /	K12D0558_H0516:526b-13	བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:83	 puṣpāvakīrṇāṃ dhāraṇīṃ kṛtvā dīpāṃś cādīpya tatra caitye pūjā kartavyā /	K12D0558_H0516:508a-2	དེས་ས་ལ་མེ་ཏོག་བསིལ་མ་བཀྲམ་སྟེ་ཞུགས་མར་བསལ་མཆོད་རྟེན་དེ་ལ་མཆོད་པར་བགྱིའོ་༎
+K12mspram_u:830	 na jātu kuryāt trividhaṃ hi pādaṃ kāyena vācā manasātha vāpi //	K12D0558_H0516:526b-14	ལུས་སམ་ངག་གམ་འོན་ཏེ་ཡིད་ཀྱིས་ཀྱང༏་༏སྡིག་པ་རྣམ་གསུམ་ནམ་ཡང་མི་བྱེད་ཅིང་༎
+K12mspram_u:831	 prachādanīyaṃ sahasā na kṛtvā yathā na dṛṣṭir grahaṇena teṣām /	K12D0558_H0516:526b-15	གློ་བུར་བྱས་ནའང་འཆབ་པར་མི་བྱེད་ལ་༎ དེ་ལྟར་དེ་དག་ལྟ་བས་འཛིན་མི་བྱེད་༎ དེ་བས་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས་༎
+K12mspram_u:832	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti //	K12D0558_H0516:526b-18	བདེན་པ་དེ་ཡིས་འདི་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:833	 yathendrakīlapṛthivīpratiṣṭhitā caturdiśaṃ vāyubhir apy akampya /	K12D0558_H0516:526b-19	ཇི་ལྟར་དབང་པོའི་སྡོང་པོ་སར་བཙུགས་པ་༎ ཕྱོགས་བཞིའི་རླུང་རྣམས་ཀྱིས་ནི་མི་ག-ཡོ་ལྟར་༎
+K12mspram_u:834	 tathopamā pudgalāḥ santi saṃghe yā āryamārgasya darśinaḥ //	K12D0558_H0516:526b-22	གང་ཟག་འཕགས་པའི་དགེ་འདུན་དེ་བཞིན་ནོ་༎ དེས་ན་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས་༎
+K12mspram_u:835	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti /	K12D0558_H0516:526b-24	བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:836	 ya āryasatyāni vibhāvayanti gambhīraprajñena sudeśitāni //	K12D0558_H0516:527a-0	ཤེས་རབ་ཟབ་མོ་ཤིན་༄༥༢༧ཨ་༌༎ ཏུ་བསྟན་པ་ཡི་༎
+K12mspram_u:837	 kāyapradānaṃ ca manasy akṛtvā na te bhayaṃ kaṣṭam avāpnuvanti /	K12D0558_H0516:527a-3	ལུས་ཀྱང་སྦྱིན་པར་ཡིད་ལ་བྱས་པ་ནི་༎ དེ་དག་འཇིགས་པ་བརྒྱད་དང་ཕྲད་མི་འགྱུར་༎
+K12mspram_u:839	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti //	K12D0558_H0516:527a-6	བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:84	 madīyāyāḥ pariṣado bhadanta bhagavan yakṣagrahagṛhītasya īdṛśaṃ rūpalakṣaṇam /	K12D0558_H0516:508a-3	བཙུན་པ་བཅོམ་ལྡན་འདས་། བདག་གི་འཁོར་གནོད་སྦྱིན་གྱི་གདོན་གྱིས་བཏབ་པའི་ཚུལ་གྱི་མཚན་མ་ནི་འདི་ལྟ་བུ་ལགས་ཏེ་།
+K12mspram_u:840	 arcir yathā vāyuvaśād vinaṣṭā astaṃgatā naiva upeti saṃkṣā /	K12D0558_H0516:527a-7	ཇི་ལྟར་མེ་ནི་རླུང་གིས་རབ་གཏོར་བ་༎ ལག་ཏུ་བླངས་ཏེ་བགྲང་དུ་མེད་པ་ཉིད་༎
+K12mspram_u:841	 tathaiva samyojanaviprayuktā adarśanaṃ yānti hi buddhaputrā //	K12D0558_H0516:527a-9	དེ་ལྟར་ཀུན་ཏུ་སྦྱོར་བ་རབ་བཏང་བ་༎ སངས་རྒྱས་སྲས་རྣམས་བསྟན་དུ་མེད་པར་འགྲོ་།
+K12mspram_u:842	 idaṃ praṇītaṃ varasaṃgharatnam etena satyena ihāstu svasti /	K12D0558_H0516:527a-11	དེས་ན་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས་༎ བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་།
+K12mspram_u:843	 ye jaṅgamāś cātra tathaiva sthāvarās te sarvasatvāḥ sukhino bhavantu //	K12D0558_H0516:527a-13	སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ་༎ དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག་།
+K12mspram_u:844	 śāstāram agryaṃ naradevapūjyaṃ buddhaṃ namasyetha ihāstu svasti /	K12D0558_H0516:527a-15	སྟོན་མཆོག་ལྷ་དང་མིས་ནི་མཆོད་འོས་པ་༎ སངས་རྒྱས་ཕྱག་འཚལ་དེང་འདིར་དགེ་བར་ཤོག་།
+K12mspram_u:845	 ye jaṅgamāś cātra tathaiva sthāvarās te sarvasatvāḥ sukhino bhavantu //	K12D0558_H0516:527a-17	སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ་༎ དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག་།
+K12mspram_u:846	 śāntaṃ virāgaṃ naradevapūjyaṃ dharmaṃ namasyetha ihāstu svasti /	K12D0558_H0516:527a-19	ཞི་བ་ཆགས་བྲལ་ལྷ་མིས་མཆོད་འོས་པ་༎ ཆོས་ལ་ཕྱག་འཚལ་དེང་འདིར་དགེ་བར་ཤོག་།
+K12mspram_u:847	 ye jaṅgamāś cātra tathaiva sthāvarās te sarvasatvāḥ sukhino bhavantu //	K12D0558_H0516:527a-21	སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ་༎ དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག་།
+K12mspram_u:848	 gaṇānam agryaṃ naradevapūjyaṃ saṃghaṃ namasyetha ihāstu svasti /	K12D0558_H0516:527a-23	ཚོགས་ཀྱི་དམ་པ་ལྷ་མིས་མཆོད་འོས་པ་༎ དགེ་འདུན་ཕྱག་འཚལ་དེང་འདིར་དགེ་བར་ཤོག་། སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ་༎ དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག་།
+K12mspram_u:849	 yānīha bhūtāni samāgatāni sthitāni bhūmāv atha vāntarīkṣe //	K12D0558_H0516:527a-27	འབྱུང་པོ་གང་དག་འདིར་ནི་ལྷགས་གྱུར་ཏེ་༎ ༄༥༢༧བ་ས་འམ་འོན་ཏེ་བར་སྣང་འཁོད་པ་དག་།
+K12mspram_u:85	 hasati trasate 'bhīkṣṇaṃ pralapaṃś ca vikūpyati /	K12D0558_H0516:508a-5	ཕྱི་ཕྱིར་རྗོད་ཅིང་འཇིགས་པར་འགྱུར་༎ སྨྲ་བར་བགྱིད་ཅིང་ཁྲོ་བར་འགྱུར་༎
+K12mspram_u:850	 kurvantu maitrī satataṃ prajāsu divā ca rātrau ca carantu dharmam /	K12D0558_H0516:527b-1	སྐྱེ་དགུ་རྣམས་ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག་། ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་པར་ཤོག་།
+K12mspram_u:851	 yenaiva satyena jino jitāriḥ sa satyavādī ripus tasya nāsti //	K12D0558_H0516:527b-3	འདི་ནི་རྒྱལ་བ་དགྲ་རྒྱལ་བདེན་གང་གིས་༎ ཤིན་ཏུ་བདེན་པ་གསུང་ཞིང་རྫུན་མེད་པ་༎
+K12mspram_u:852	 tenaiva satyena ihāstu svasti mucyantu sarve 'dya mahābhayebhyaḥ svāhā //  syād yathedam //	K12D0558_H0516:527b-5	བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག་། དེ་ཀུན་འཇིགས་པ་ཆེ་ལས་ཐར་གྱུར་ཅིག་སབ༹འ་ཧའ་། སཡའད་ཡ་ཐེ་དན་།
+K12mspram_u:854	 dhire dhidhire /	K12D0558_H0516:527b-8	དྷི་རེ་དྷི་དྷི་རེ་།
+K12mspram_u:855	 balanirghoṣe /	K12D0558_H0516:527b-9	པ་ལ་ནིརགྷོ་ཤེ་།
+K12mspram_u:856	 balasāre /	K12D0558_H0516:527b-10	པ་ལི་ས་རེ་།
+K12mspram_u:857	 sāravate /	K12D0558_H0516:527b-11	སའ་ར་བ་ཏེ་།
+K12mspram_u:858	 stute /  prabhūtaprāpte /	K12D0558_H0516:527b-12	སྟུ་ཏི་པྲ་སྟུ་ཏི་པརའཔཏེ་།
+K12mspram_u:86	 nidrā cāviśate tasya śūlo vāpy upajāyate //	K12D0558_H0516:508a-7	དེ་ནི་གཉིད་ཀྱང་ལོག་པར་འགྱུར་༎ ཡང་ན་ཤིན་ཏུ་ན་བར་འགྱུར་༎
+K12mspram_u:860	 āradhe /	K12D0558_H0516:527b-13	ཨའ་ར་བེ་།
+K12mspram_u:861	 āraghoṣe /	K12D0558_H0516:527b-14	ཨཨ་ར་ནིརགྷོ་ཤེ་།
+K12mspram_u:862	 sāravati /	K12D0558_H0516:527b-15	ཨའ་ར་བ་ཏི་།
+K12mspram_u:863	 acyute /	K12D0558_H0516:527b-16	ཨཨ་ཙྱུ་ཏེ་།
+K12mspram_u:864	 balavate /	K12D0558_H0516:527b-17	བ་ལ་བ་ཏེ་།
+K12mspram_u:865	 śūraprāpte /	K12D0558_H0516:527b-18	ཤའུ་ར་པརའཔཏེ་།
+K12mspram_u:866	 sāraṃgame /  sūryagame /	K12D0558_H0516:527b-20	སུརྱ་བ་ལེ་།
+K12mspram_u:868	 sūryanirghoṣe svāhā //	K12D0558_H0516:527b-21	སུརྱ་ནིརགྷོ་ཤེ་སབ༹འ་ཧའ་།
+K12mspram_u:869	 iyaṃ sā mahābrahman mahāsāhasrapramardanī nāma vidyārājñī sarvagrahaparimocanīyaṃ sūtraṃ gaṅgāsikatāprakhyānāṃ tathāgatānām arhatāṃ samyaksaṃbuddhānāṃ buddhamudrā /	K12D0558_H0516:527b-22	ཚངས་པ་། སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པ་ཞེས་བྱ་བའི་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གདོན་ཐམས་ཅད་ལས་རབ་ཏུ་ཐར་བར་བྱེད་པ་འདི་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་གངྒའའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི
+K12mspram_u:87	 ūrdhvaṃ saṃprekṣate nityaṃ nakṣatrāṇy anudhāvati /  rātrau praharṣam āyāti vepate stanate sadā //	K12D0558_H0516:508a-9	རྟག་ཏུ་གྱེན་དུ་བལྟ་བར་འགྱུར་༎ སྐར་མ་དག་ལ་སྙེགས་པར་བགྱིད་༎ ནུབ་མོ་ཤིན་ཏུ་དགའ་བར་འགྱུར་༎ རྟག་ཏུ་འདར་ཞིང་སྒྲ་འབྱིན་ཏེ་༎
+K12mspram_u:871	 dharmapadā /	K12D0558_H0516:527b-24	ཆོས་ཀྱི་གནས་སོ་༎
+K12mspram_u:873	 brahmapadā /	K12D0558_H0516:527b-26	ཚངས་པའི་གནས་སོ་༎
+K12mspram_u:874	 indrapadā /	K12D0558_H0516:527b-27	དབང་པོའི་གནས་སོ་༎
+K12mspram_u:875	 lokapālapadā /  (Msp 27) īśvarapadā /	K12D0558_H0516:527b-28	འཇིག་རྟེན་སྐྱོང་བའི་གནས་སོ་༎ དབང་ཕྱུག་གི་གནས་སོ་༎
+K12mspram_u:877	 mahārṣipadā /	K12D0558_H0516:527b-30	དྲང་སྲོང་ཆེན་པོའི་གནས་སོ་༎
+K12mspram_u:879	 āyatipadā /  akṣipadā /  hetupadā /	K12D0558_H0516:527b-33	རྒྱུའི་གནས་སོ་༎ ཕྱོགས་ཀྱི་གནས་སོ་༎ བསྟན་པའི་གནས་སོ་༎
+K12mspram_u:885	 samyaksaṃbuddhaiś ca pratyekabuddhaiś ca sparśitā /  śrāvakair adhiṣṭhitā /	K12D0558_H0516:527b-36	སངས་རྒྱས་རྣམས་ཀྱིས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའོ་༎ ཉན་ཐོས་རྣམས་ཀྱིས་རེག་པའོ་༎
+K12mspram_u:887	 brahmabhiḥ praśaṃsitā /  indreṇa pūjitā /	K12D0558_H0516:527b-38	ཚངས་པས་བྱིན་གྱིས་བརླབས་པའོ་༎ ༄༥༢༨ཨ་༌༎ དབང་པོས་རབ་ཏུ་བསྔགས་པའོ་༎
+K12mspram_u:889	 lokapālair namaskṛtā /	K12D0558_H0516:528a-1	འཇིག་རྟེན་སྐྱོང་བ་རྣམས་ཀྱིས་མཆོད་པའོ་༎
+K12mspram_u:89	 tatra mantrapadāny asti lokanātha śṛṇohi me //  syād yathedam //	K12D0558_H0516:508a-13	དེ་ལ་སྔགས་ཀྱི་ཚིག་མཆིས་ཀྱི་༎ འཇིག་རྟེན་མགོན་པོ་བདག་ལ་གསོན་༎
+K12mspram_u:890	 īśvareṇa pūjitā /	K12D0558_H0516:528a-2	དབང་ཕྱུག་གིས་ཕྱག་བྱས་པའོ་༎
+K12mspram_u:891	 sarvadevair varṇitā /	K12D0558_H0516:528a-3	ལྷ་ཐམས་ཅད་ཀྱིས་ཀུན་ཏུ་མཆོད་པའོ་༎
+K12mspram_u:892	 yogācārair abhinanditā /	K12D0558_H0516:528a-4	རྣལ་འབྱོར་སྤྱོད་པ་རྣམས་ཀྱིས་བསྔགས་པའོ་༎
+K12mspram_u:893	 ṛṣibhir alaṃkṛtā /	K12D0558_H0516:528a-5	མཁས་པ་རྣམས་མངོན་པར་དགའ་བར་གྱུར་པའོ་༎ དྲང་སྲོང་རྣམས་ཀྱིས་རབ་ཏུ་བསྔགས་པའོ་༎
+K12mspram_u:894	 brahmabhir abistutā /  devatābhiś cintitā /	K12D0558_H0516:528a-7	ཚངས་པ་རྣམས་ཀྱིས་རབ་ཏུ་བརྒྱན་པའོ་༎ ལྷ་རྣམས་ཀྱིས་མངོན་པར་བསྟོད་པའོ་༎
+K12mspram_u:898	 gocaraḥ sarvabuddhānām /  udyānaṃ pratyekabuddhānām /	K12D0558_H0516:528a-11	སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྤྱོད་ཡུལ་ལོ་༎ རང་སངས་རྒྱས་རྣམས་ཀྱི་སྐྱེད་མོས་ཚལ་ལོ་༎ དྲང་སྲོང་རྣམས་ཀྱི་གནས་སོ་༎
+K12mspram_u:9	 āyuṣmatā coruvilvākāśyapena /  āyuṣmatā cājñātakauṇḍinyena /  āyuṣmatā ca mahākātyāyanena /  āyuṣmatā ca vakulena /  āyuṣmatā ca vāṣpeṇa /  āyuṣmatā ca koṣṭhilena /	K12D0558_H0516:504b-6	ཚེ་དང་ལྡན་པ་ཅང་ཤེས་ཀོཨོནདི་ནྱ་དང་། ཚེ་དང་ལྡན་པ་དགའ་བྱེད་དང་། ཚེ་དང་ལྡན་པ་ཀའ་ཏྱའི་བུ་ཆེན་པོ་དང་། ཚེ་དང་ལྡན་པ་བཀཀུ་ལ་དང་། ཚེ་དང་ལྡན་པ་རླངས་པ་དང་། ཚེ་དང་ལྡན་པ་གསུས་པོ་ཆེ་དང་།
+K12mspram_u:900	 niryāṇaṃ śrāvakānām /	K12D0558_H0516:528a-14	ཉན་ཐོས་རྣམས་ཀྱི་མྱ་ངན་ལས་འདས་པའོ་༎
+K12mspram_u:901	 āśrayo yogācārāṇām /  ākaro bodhipakṣāṇāṃ dharmāṇām /	K12D0558_H0516:528a-15	རྣལ་འབྱོར་སྤྱོད་པ་རྣམས་ཀྱིས་གནས་སོ་༎ བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས་རྣམས་ཀྱི་འབྱུང་གནས་སོ་༎
+K12mspram_u:903	 pravāhanaṃ saṃkleśānām /	K12D0558_H0516:528a-17	ཉོན་མོངས་པ་རྣམས་འཇོམས་པའོ་༎
+K12mspram_u:904	 utpāṭanam anuśayaśalyānām /  saṃdarśanaṃ mokṣadvārāṇām /	K12D0558_H0516:528a-18	བག་ལ་ཉལ་གྱི་ཟུག་རྔུ་རྣམས་འབྱིན་པའོ༏་༏འཕགས་པའི་ལམ་ཀུན་ཏུ་སྟོན་པའོ་༎ ཐར་པའི་སྒོ་རྣམས་འབྱེད་པའོ་༎
+K12mspram_u:907	 prapātanaṃ mānaparvatasya /  vivaraṇam āryamārgasya /	K12D0558_H0516:528a-20	འཇིག་ཚོགས་ལ་ལྟ་བ་རྣམས་འཇིག་པར་བྱེད་པའོ་༎
+K12mspram_u:91	 siddhe / susiddhe /	K12D0558_H0516:508a-16	སིདདྷེ་སུ་སིདདྷེ་།
+K12mspram_u:910	 saṃśoṣaṇaṃ saṃsārasamudrasya /  uccālanaṃ sarvasaṃsārapatitānām asthiparvatānām /	K12D0558_H0516:528a-21	ང་རྒྱལ་གྱི་རི་རབ་ཏུ་བསྙིལ་བར་བྱེད་པའོ༏་༏འཁོར་བའི་རྒྱ་མཚོ་སྐེམས་པའོ་༎ འཁོར་བའི་རྒྱ་མཚོར་ལྷུང་བའི་སེམས་ཅན་ཐམས་ཅད་སྒྲོལ་བའོ་༎
+K12mspram_u:912	 cchedanī mārapāśasya /  uttrāsanī māraparṣadaḥ /  udgilanī mārabaḍiśasya /	K12D0558_H0516:528a-23	བདུད་ཀྱི་ཞགས་པ་གཅོད་པའོ་༎ བདུད་ཀྱི་འཁོར་སྐྲག་པར་༄༥༢༨བ་བྱེད་པའོ་༎ བདུད་ཀྱི་མཆིལ་མ་འདོར་བའོ་༎
+K12mspram_u:915	 uttrāsanī kleśasaṃgrāmāt /	K12D0558_H0516:528b-2	ཉོན་མོངས་པའི་ག-ཡུལ་ལས་སྒྲོལ་བའོ་༎
+K12mspram_u:916	 praveśanī nirvāṇanagare /  niṣkrāmaṇī saṃsāragṛhād iti //	K12D0558_H0516:528b-3	མྱ་ངན་ལས་འདས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའོ་༎ འཁོར་བའི་ཁྱིམ་ནས་འབྱུང་བར་བྱེད་པའོ་༎
+K12mspram_u:919	 khaṅge / khaṅgaghoṣe /	K12D0558_H0516:528b-6	ཁདགེ་ཁདགེ་། ཁདགེ་གྷོ་ཤེ་།
+K12mspram_u:92	 satve are /	K12D0558_H0516:508a-17	ས་ཏབེ༹་ཨཨ་རེ་།
+K12mspram_u:920	 uṣodhane /	K12D0558_H0516:528b-7	ཨཽ་ཤོ་དྷ་ནེ་།
+K12mspram_u:921	 sārathiprabhede /	K12D0558_H0516:528b-8	སའ་ར་ཐི་། པྲ་བྷེ་དེ་།
+K12mspram_u:922	 vipulaprabhe /	K12D0558_H0516:528b-10	བི་བུ་ལ་པྲ་བྷེ་།
+K12mspram_u:923	 saṃkarṣaṇi /	K12D0558_H0516:528b-11	སང་ཀརཐ་ནི་།
+K12mspram_u:924	 vikarṣaṇi /	K12D0558_H0516:528b-12	བི་ཀརཐ་ནི་།
+K12mspram_u:925	 viṣāgravati /	K12D0558_H0516:528b-13	བི་ཤ་གྲ་བ་ཏེ་།
+K12mspram_u:926	 śuddhasādhane /	K12D0558_H0516:528b-14	ཤུདྷ་སའ་དྷ་ནི་།
+K12mspram_u:927	 varuṇavate /	K12D0558_H0516:528b-15	བ་རུ་ན་བ་ཏེ་།
+K12mspram_u:928	 vāśane /  vibhūṣaṇi /  viṣaṃgame /	K12D0558_H0516:528b-16	བའ་ས་། བེ་བི་བྷུ་ཤེ་ནེ༏་བི་སང་ག་མེ་།
+K12mspram_u:93	 araṇe /	K12D0558_H0516:508a-18	ཨཨ་རེ་ན་།
+K12mspram_u:931	 paśupati /	K12D0558_H0516:528b-17	པ་ཤུ་པ་ཏི་།
+K12mspram_u:932	 puṣpagarbhe /  svasty astu mama sarvasatvānāṃ ca sarvabhayopadravopasargopāyāsebhyaḥ svāhā //	K12D0558_H0516:528b-18	པུཤཔ་གརབྷེ་། བདག་དང་། སེམས་ཅན་ཐམས་ཅད་འཇིགས་པ་དང་། ཉེ་བར་འཚེ་བ་དང་། ངལ་བ་ཐམས་ཅད་ལས་བདེ་ལེགས་སུ་གྱུར་ཅིག་སབ༹འ་ཧའ་།
+K12mspram_u:934	 iyaṃ sā mahābrahman mahāsāhasrapramardanī nāma vidyārājñī sarvagrahapramocanīyaṃ sūtraṃ gaṅgāsikatāprakhyānāṃ tathāgatānām arhatāṃ samyaksaṃbuddhānāṃ buddhamudrā /	K12D0558_H0516:528b-19	སྟོང་ཆེན་པོ་རབ་ཏུ་འཇོམས་པ་ཞེས་བྱ་བའི་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གདོན་ཐམས་ཅད་ལས་ཐར་བར་བྱེད་པའི་མདོ་སྡེ་འདི་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་གངྒའའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི
+K12mspram_u:935	 yayā mudrayā mudritaḥ sadevamānuṣāsuro loko 'nuttaranirvāṇapuraṃ praviṣṭaḥ /	K12D0558_H0516:528b-21	འདིས་ནི་ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་ཕྱག་རྒྱས་བཏབ་པ་སྟེ་མྱ་ངན་ལས་འདས་པའི་གྲོང་ཁྱེར་བླ་ན་མེད་པར་ཞུགས་སོ་༎
+K12mspram_u:936	 yasya cārthāya gaṅgāsikatāprakhyaiḥ samyaksaṃbuddaiḥ pratyekabuddhaiḥ śrāvakaiś ca  pūrvābhisaṃbuddhaiḥ samyaksaṃbuddhāḥ pratyekabuddhāḥ śrāvakāś ca mātāpitṛdakṣiṇīyā	K12D0558_H0516:528b-22	དེའི་དོན་གྱི་ཕྱིར་སྔོན་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཉན་ཐོས་རྣམས་དང་། ཕ་མ་དང་། སྦྱིན་གནས་དང་། བླ་མ་ལྟ་བུ་རྣམས་ལ་བསྙེན་བཀུར་ཏོ་༎
+K12mspram_u:938	 gurusthānīyāḥ paryupāsitā brahmacaryaṃ cīrṇaṃ śīlaṃ rakṣitaṃ (Msp 28)	K12D0558_H0516:528b-23	ཚངས་པར་སྤྱོད་པ་སྤྱད་དོ་༎ ཚུལ་ཁྲིམས་བསྲུངས་སོ་༎
+K12mspram_u:939	 dānaṃ dattaṃ kṛpā pāramitā paripūriḥ /	K12D0558_H0516:529a-0	སྦྱིན་པ་༄༥༢༩ཨ་༌༎ བྱིན་ནོ་༎ སྙིང་རྗེའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཡོངས་སུ་བསྐངས་སོ་༎
+K12mspram_u:94	 bale /  mahābale /	K12D0558_H0516:508a-19	བ་ལེ་། མཧའ་བ་ལེ་།
+K12mspram_u:940	 sādhitā bodhisatvacaryā sādhitā bodhiprāptiprāptā sarvajñatā parājito māraḥ //	K12D0558_H0516:529a-2	བྱང་ཆུབ་ཐོབ་པར་བསྒྲུབས་སོ་༎ བདུད་ཕམ་པར་བྱས་སོ་༎
+K12mspram_u:941	 atha brahmā sahāpatiḥ śakraś ca devānām indraś catvāraś ca mahārājāna ekavāgekamataikasvarā bhagavantaṃ namasyamānā ūcuḥ //	K12D0558_H0516:529a-4	དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་དག་གིས་སྐད་ཅིག་བློ་གྲོས་གཅིག་དང་། དབྱངས་གཅིག་གིས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་བཙལ་ནས་གསོལ་པ་།
+K12mspram_u:942	 aho vidyā mahāvidyā mahāsāhasrapramardanī //	K12D0558_H0516:529a-5	ཀྱེ་མ་རིག་སྔགས་རིག་སྔགས་ཆེ་༎ སྟོང་ཆེན་རབ་ཏུ་འཇོམས་བྱེད་པ་༎
+K12mspram_u:943	 ārakṣā sarvasatvānāṃ buddhamudrāś caturdiśam /	K12D0558_H0516:529a-7	སངས་རྒྱས་ཕྱག་རྒྱ་དེ་ཡིས་ནི་༎ ཕྱོགས་བཞིའི་སེམས་ཅན་ཐམས་ཅད་བསྲུངས་༎
+K12mspram_u:944	 mudrāṃ vayaṃ pradāsyāmaḥ sūtre sāhasrapramardane //  trāsenti sarvabhūtāni mudrayā mudritāyayā /	K12D0558_H0516:529a-9	ཕྱག་རྒྱ་གང་གིས་བཏབ་གྱུར་ན་༎ འབྱུང་པོ་ཐམས་ཅད་སྐྲག་བགྱིད་པ་༎ སྟོང་ཆེན་རབ་ཏུ་འཇོམས་པའི་མདོ་༎ ཕྱག་རྒྱ་བདག་ཅག་སྩལ་བར་བགྱི་༎
+K12mspram_u:946	 ye manuṣyā praduṣṭāś ca trasannāś cātra śāsane //	K12D0558_H0516:529a-13	མི་གང་རབ་ཏུ་སྡང་བ་དང་༎ བསྟན་པ་འདི་ལ་མ་དད་པ་༎
+K12mspram_u:947	 teṣāṃ daṇḍaṃ praṇeṣyāmi vidyāṃ brahmeṇa nirmitām /	K12D0558_H0516:529a-14	དེ་དག་ཚངས་པས་སྤྲུལ་པ་ཡི་༎ རིག་སྔགས་ཆད་པས་གཅད་པར་བགྱི་༎
+K12mspram_u:948	 śakreṇa dhāritā mudrā lokapālaiś ca mudritāḥ //	K12D0558_H0516:529a-16	བརྒྱ་བྱིན་གྱིས་ནི་སྤྱི་བོས་བླངས་༎ འཇིག་རྟེན་སྐྱོང་བས་རྒྱས་བཏབ་བོ་༎
+K12mspram_u:950	 kaliṅge / bhārade /	K12D0558_H0516:529a-19	ཀ་ལིངྒེ་། བ་ར་དེ་།
+K12mspram_u:951	 jūdagre /  jāmale /	K12D0558_H0516:529a-21	ཛའ་མ་ནི་།
+K12mspram_u:953	 siṃhamade /	K12D0558_H0516:529a-22	སིམ་ཧ་བ་དེ་།
+K12mspram_u:954	 sārāgraprāpte /	K12D0558_H0516:529a-23	སའ་རའ་གྲ་པྲཔཏེ་།
+K12mspram_u:955	 haṃsagāmini /	K12D0558_H0516:529a-24	ཧམ་ས་གའ་མི་ནི་།
+K12mspram_u:956	 mālini /	K12D0558_H0516:529a-25	མའ་ལི་ནི་།
+K12mspram_u:957	 hule mihule /  pihule 2 pihulame haham haham haham haham /	K12D0558_H0516:529a-26	ཧུ་ལེ་སི་ཧུ་ལེ་སི་ཧུ་ལེ་སི་ཧུ་ལེ་མེ་། ཧ་ཧ་མ་། ཧ་ཧ་མ་།
+K12mspram_u:959	 sūdani varāgravati /	K12D0558_H0516:529a-29	སུ་ད་ནི་། པ་རའ་གྲ་བ་ཏི་།
+K12mspram_u:96	 jambhe stambhe jaṭile /	K12D0558_H0516:508a-20	ཛམབྷེ་། ཛི་ཏི་ལེ་།
+K12mspram_u:960	 hastine /  necaramati /	K12D0558_H0516:529a-31	ཧསྟི་ནེ་། ནེ་བ་ར་མི་ཏ་།
+K12mspram_u:962	 caṇḍāli /	K12D0558_H0516:529a-32	ཙནད་ལེ་། ཙ་ར་མེ་།
+K12mspram_u:963	 carame /  carācare svāhā //	K12D0558_H0516:529a-33	ཙ་རའ་མེ་ཙ་རའ་རེ་སབ༹འ་ཧའ་།
+K12mspram_u:965	 asyāṃ khalu punar mahāsāhasrapramardanyāṃ vidyārājñyāṃ bhāṣyamānāyām ayaṃ trisāhasramahāsahasro lokadhātuḥ ṣaḍadhikāram akampat /	K12D0558_H0516:529b-0	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་པ་ཞེས་བྱ་བ་རིག་སྔགས་ཀྱི་རྒྱལ་པོ་འདི་བཤད་པའི་ཚེ་སྟོང་གསུམ་གྱི་༄༥༢༩བ་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རྣམ་པ་དྲུག་ཏུ་ག-ཡོས་།
+K12mspram_u:966	 dikṣu vidikṣu bhūtāśatair yakṣarākṣasair nirnādaḥ prakruṣṭaghoṣaṃ codghoṣayanti sma //	K12D0558_H0516:529b-1	རབ་ཏུ་ག-ཡོས་། ཀུན་ཏུ་ག-ཡོས་། ཀུན་ཏུ་རབ་ཏུ་ག-ཡོས་། ཕྱོགས་བཞིའི་གནོད་སྦྱིན་དང་། སྲིན་པོ་ཤ་ཟ་བ་རྣམས་ཀྱིས་སྒྲ་སྐད་དྲག་པོ་ཕྱུང་བ་།
+K12mspram_u:967	 aho duḥkhamaho kaṣṭaṃ naṣṭā bhūtagaṇā vayam /	K12D0558_H0516:529b-5	ཀྱེ་མའོ་སྡུག་བསྔལ་ཀྱེ་མའོ་བརླག་། བདག་ཅག་འབྱུང་པོའི་ཚོགས་ཕུང་ངོ་༎
+K12mspram_u:968	 vinaṣṭā bhūtasaṃghās tā vaśanītāś ca sarvathā //  avaśāḥ prāṇibhūtānāṃ sarveṣām adya saṃvarāḥ /	K12D0558_H0516:529b-7	འབྱུང་པོའི་ཚོགས་ནི་རབ་ཏུ་ཕྲང་༎ བདག་ཅག་རྟག་ཏུ་དབང་གིས་ཁྲིད་༎ སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད་ནི་༎ དེ་རིང་དགྲར་བཅས་དབང་མེད་དོ་༎
+K12mspram_u:97	 akhane /	K12D0558_H0516:508a-21	ཨཨ་ཁ་ནེ་།
+K12mspram_u:970	 te ca bhūmau nipīḍanti saṃprapadyanti duḥkhitāḥ //	K12D0558_H0516:529b-11	དེ་དག་ས་ལ་འཁོད་ནས་ནི་༎ ཞུམ་ཞིང་རྣམ་པར་ཞུམ་གྱུར་ནས་༎ འགྲེ་ཞིང་ལྡོག་པར་རབ་ཏུ་བྱེད་༎
+K12mspram_u:971	 atha bhagavāṃs tāṃ bhūmīṃ vajramayīm abhinirmimīte /	K12D0558_H0516:529b-14	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ས་གཞི་རྡོ་རྗེར་མངོན་པར་སྤྲུལ་པ་དང་། དེ་དག་ཀྱང་ཕྱོགས་བཞིར་བྱེར་རོ་༎
+K12mspram_u:972	 te caturdiśaṃ prapalāyanti atha catvāro mahārājānaḥ //  caturdiśaṃ mahān agnijvālāskandham abhinirmitavantaḥ /  te cākāśe paridhāvanti //	K12D0558_H0516:529b-15	དེ་ནས་རྒྱལ་པོ་ཆེན་པོ་བཞིས་ཕྱོགས་བཞིར་མེ་ལྕེའི་ཕུང་པོ་ཆེན་པོ་མངོན་པར་སྤྲུལ་པ་དང་། དེ་དག་ནམ་མཁའ་ལ་རྒྱུག་གོ་།
+K12mspram_u:975	 atha brahmā sahāpatir ayomayam ākāśam abhinirmimīte /  te (Msp 29) ca saptatālamātraṃ vaihāyasaṃ paridhāvanti /	K12D0558_H0516:529b-16	དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ནམ་མཁའ་ལྕགས་སུ་མངོན་པར་སྤྲུལ་པ་དང་། དེ་དག་ཤིང་ཏ་ལ་བདུན་ཙམ་ནས་ནམ་མཁའ་ལ་ཀུན་ཏུ་རྒྱུག་གོ་།
+K12mspram_u:977	 atha śakro devānām indro 'siśaraśaktikuntatomaravṛkṣaparvatavṛṣṭīr abhipravarṣati /	K12D0558_H0516:529b-17	དེ་ནས་ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་རལ་གྲི་དང་། མདའ་དང་། མདུང་ཐུང་དང་། མདུང་དང་། མདའ་བོ་ཆེ་དང་། ཤིང་ལྗོན་པ་དང་། རིའི་ཆར་མངོན་པར་ཕབ་བོ་༎
+K12mspram_u:978	 tena ca samayena samantataḥ sahāyāṃ lokadhātau pañcayakṣaśatasahasrāṇi sannipatitāni vidyāśāpahatāni jvarāveśonmattāni vipīḍanti /	K12D0558_H0516:530a-0	དེའི་ཚེ་གནོད་སྦྱིན་ལྔ་སྟོང་མི་མཇེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་ཀུན་ནས་འདུས་པ་རྣམས་རིག་སྔགས་ཀྱི་དམོད་པས་༄༥༣༠ཨ་༌༎
+K12mspram_u:979	 bhagavataḥ pādayoḥ śirāṃsi nipatyābruvan //	K12D0558_H0516:530a-1	བཅོམ་སྟེ་། རིམས་ནད་ཀྱིས་བཏབ་ནས་མྱོས་ཏེ་རྨྱ་ཞིང་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་གཏུགས་ཏེ་གསོལ་པ་།
+K12mspram_u:98	 makhame /	K12D0558_H0516:508a-22	མ་ཁ་ནེ་།
+K12mspram_u:980	 sarvasatvahitānukampī śramaṇo gautama /	K12D0558_H0516:530a-2	དགེ་སྦྱོང་གོཨོ་ཏ་མ་ནི་སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པ་དང་། ཐུགས་བརྩེ་བ་ཅན་ལགས་ཀྱི་།
+K12mspram_u:981	 trāyatu naḥ śramaṇo gautama //	K12D0558_H0516:530a-3	དགེ་སྦྱོང་གོཨོ་ཏ་མས་བདག་ཅག་བསྐྱབ་ཏུ་གསོལ་།
+K12mspram_u:982	 atha bhagavāṃs tān guhyakān maitryā spharanti sma /  śikṣāgrahaṇaṃ ca kārayāmāsa /	K12D0558_H0516:530a-4	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་གསང་བ་པའི་བདག་པོ་དེ་དག་ལ་བྱམས་པས་ཁྱབ་པ་མཛད་ནས་བསླབ་པའི་གཞི་འཛིན་དུ་བཙུད་དོ་༎
+K12mspram_u:984	 yā gatir mātṛghāṭīnāṃ pitṛghāṭīnāṃ ca yā gatiḥ /  arhatāṃ ghāṭakasyāpi saṃghabhedī ca yā gatiḥ //  saṃbuddhaduṣṭacittasya lohitotpādakasya ca /  tāṃ gatiṃ pratipadyema yadi mudrāṃ kṣipemahi //	K12D0558_H0516:530a-5	བདག་ཅག་ཕྱག་རྒྱ་སྤོང་གྱུར་ན་༎ མ་བསད་པ་ཡི་འགྲོ་གང་དང་༎ ཕ་བསད་པ་ཡི་འགྲོ་གང་དང་༎ དགྲ་བཅོམ་པ་ཡང་གསོད་གང་དང་༎ དགེ་འདུན་དབྱེན་བགྱིད་འགྲོ་གང་དང་༎ རྫོགས་སངས་རྒྱས་ལ་སྡང་སེམས་ཀྱིས་༎ འགྲོ་བ་གང་ལགས་དེར་མཆིའོ་༎
+K12mspram_u:989	 saṃmṛṣṭā yakṣarogeṇa citragātrā bhavemahi //	K12D0558_H0516:530a-11	གནོད་སྦྱིན་ནད་ཀྱིས་བཏབ་པ་དང་༎ བདག་ལུས་ཤ་བཀྲ་འབྱུང་བར་ཤོག་༏གང་འདི་རྒྱལ་བས་གསུངས་པའི་མདོ་༎
+K12mspram_u:99	 khakhane /	K12D0558_H0516:508a-23	ཁ་ཁ་ནི་།
+K12mspram_u:991	 vidyārājñīm abhikramya vartema svecchayā vayam //	K12D0558_H0516:530a-14	བདག་ཅག་འདོད་བཞིན་མི་འགྱུར་རོ་༎
+K12mspram_u:992	 tena ca samayena vaiśālyāṃ mahānagaryāṃ sarve iti bhayopadravopasargopāyāsāḥ pratiprasrabdhāḥ /	K12D0558_H0516:530a-15	དེའི་ཚེ་གྲོང་ཁྱེར་ཆེན་པོ་ཡངས་པ་ཅན་ན་ཡམས་ཀྱི་ནད་དང་། འཇིགས་པ་དང་། གནོད་པ་དང་། ནད་འགོ་བ་དང་། འཁྲུག་པ་ཐམས་ཅད་རྒྱུན་ཆད་པར་གྱུར་ཏོ་༎
+K12mspram_u:993	 yakṣarākṣasamanuṣyāmanuṣyāḥ svakasvakaṃ gocaram atikrāntāḥ /	K12D0558_H0516:530b-0	གནོད་སྦྱིན་༄༥༣༠བ་དང༏་སྲིན་པོ་དང་། མི་དང་། མི་མ་ཡིན་པ་རྣམས་ཀྱང་རང་རང་གི་སྤྱོད་ཡུལ་ལས་འདས་སོ་༎
+K12mspram_u:994	 vaiśālakā licchavayaś ca sarvarogavyādhibhyo vinirmuktāḥ sarvasukhasamarpitā buddhe 'vetya prasādena samanvāgatā babhūvuḥ /  dharme 'vetya prasādena samanvāgatā babhūvuḥ /  satatasamitaṃ ratnatrayapūjābhiratā mahotsavena viharantaḥ /  haṃsaśukaśārikākokilamayūracakravākakunārajīvañjīvakapakṣigaṇā madhuraṃ nikūjanti sma /	K12D0558_H0516:530b-1	ངང་པ་དང་། ནེ་ཙོ་དང་། རི་སྐེགས་དང་། ཁུ་བྱུག་དང་། རྨ་བྱ་དང་། ངུར་པ་དང་། ཤང་ཤང་ཏེའུ་དང་། བྱའི་ཚོགས་རྣམས་ཀྱང་སྒྲ་སྙན་པ་འབྱིན་ནོ་༎
+K12mspram_u:998	 vigatakāyapīḍāḥ sāṃsara iva kinnarāḥ /	K12D0558_H0516:530b-2	མི་འམ་ཅི་རྣམས་ནི་ལྷའི་བུ་མོ་བཞིན་དུ་ལུས་ལ་གནོད་པ་མེད་དོ་༎
+K12mspram_u:999	 aghāṭitāni ratnabhājanāni raṇanti sma /	K12D0558_H0516:530b-3	རིན་པོ་ཆེའི་ཆ་བྱད་རྣམས་ཀྱང་མ་དཀྲོལ་བར་འཁྲོལ་ལོ་༎

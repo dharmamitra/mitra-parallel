@@ -1,0 +1,407 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+K14bsa052_u:1908	 tṛṣṇābaddhān janān mṛtyuḥ śambūka iva karṣati  matsyān yathā jālabaddhān śambūkaḥ parikarṣati /	K10D0287_H0289:494a-15	ཇི་ལྟར་ཉ་དག་རྒྱས་བཅུས་ན་༎ བདེ་བར་ཡོངས་སུ་དབྱུང་དུ་རུང་༎
+K14bsa052_u:1910	 tṛṣṇābaddhāṃstathā sattvānmṛtyuḥ samupakarṣati // Dhs_8.19 //  tṛṣṇāviṣaṃ kutrāpi na muñcati	K10D0287_H0289:494a-17	དེ་ལྟར་སེམས་ཅན་སྲེད་བཅིངས་པ་༎ འཆི་བདག་གིས་ནི་ཉེ་བར་འདྲེན་༎ དུག་དང་བཅས་པའི་མདས་ཕོག་པའི་༎
+K14bsa052_u:1912	 saviṣaiḥ sāyakairviddho mṛgo yatra (pra)dhāvati /	K10D0287_H0289:494a-20	རི་དབ༹གས་གང་དང་གར་འགྲོ་བ་༎
+K14bsa052_u:1913	 tatra tatra viṣaṃ yāti tathā tṛṣṇāviṣaṃ nṛṇām // Dhs_8.20 //	K10D0287_H0289:494a-21	དེ་དང་དེར་ནི་དུག་འགྲོ་སྟེ་༎ དེ་བཞིན་མིའི་དུག་སྲེད་པ་ཡིན་༎
+K14bsa052_u:1914	 pravāhapravahannadyā gatirgatya'nudhāvinī /  yathā nirdahate bālān śuṣkendhanamivānalaḥ // Dhs_8.21 //	K10D0287_H0289:494a-23	འགྲོ་བ་འགྲོ་བར་རྗེས་འབྲང་བ་༎ སྲེད་པ་དུག་འདྲ་སྤང་བར་གྱིས་༎ ཤིང་སྐམ་མེ་ཡིས་སྲེག་པ་ལྟར་༎
+K14bsa052_u:2372	 mohasyoddīpakaṃ bhūyastasmānmadyaṃ vivarjayet // Dhs_10.6 //  madyamūlamanarthasya hāsasya narakasya ca /  sarvendriyavināśānāṃ hetubhūtaṃ hyanarthakam // Dhs_10.7 //	K10D0287_H0289:315b-18	དོན་མེད་པ་ཡི་རྒྱུར་གྱུར་ཏོ་༎
+K14bsa052_u:2375	 atiharṣābhidhānasya śokasya ca bhayasya ca /  vāgdoṣasyātidamyasya pāruṣyasyāspadaṃ hi tat // Dhs_10.8 //	K10D0287_H0289:316a-0	ཚིག་ལ་ཤིན་ཏུ་དགའ་བ་དང་༎ ཆགས་༄༣༡༦ཨ་༌༎ པ་དང་ནི་འཇིགས་པ་དང་༎ ངག་གི་སྐྱོན་དང་རློམ་པ་དང་༎ ཚིག་རྩུབ་གཞི་ནི་དེ་ཡིན་ནོ་༎
+K14bsa052_u:2377	 madyenākṣiptamanasaḥ puruṣāḥ paśubhiḥ samāḥ /	K10D0287_H0289:316a-2	ཆང་གིས་ཀུན་ཏུ་ག-ཡེངས་པའི་ཡིད་༎
+K14bsa052_u:2378	 kāryākārya na vindanti tasmānmadyaṃ vivarjayet // Dhs_10.9 //	K10D0287_H0289:316a-3	བྱ་དང་མི་བྱ་མི་ཤེས་པ་༎ མི་དེ་ཕྱུགས་དང་མཚུངས་པ་ཡིན་༎ དེ་ལྟ་བས་ན་ཆང་སྤོངས་ཤིག་།
+K14bsa052_u:2379	 madyakṣipto hi puruṣo jīvannapi mṛto mataḥ /	K10D0287_H0289:316a-6	ཆང་གིས་ག-ཡེངས་པའི་མི་དག་ནི་༎ གསོན་ཡང་ཤི་བ་དག་དང་མཚུངས་༎
+K14bsa052_u:2380	 ya icchejjīvitaṃ saukhyaṃ sa madyaṃ varjayet sadā // Dhs_10.10 //	K10D0287_H0289:316a-8	གང་ཞིག་རྟག་ཏུ་གསོན་འདོད་པས་། རྟག་པར་ཆང་ནི་རྣམ་པར་སྤོངས་༎
+K14bsa052_u:2381	 madyaṃ sarvadoṣāspadam	K10D0287_H0289:316a-10	ཆང་ནི་ཉེས་པ་ཀུན་གྱི་གཞི་༎
+K14bsa052_u:2382	 sarvadoṣāspadaṃ madyaṃ sarvānarthakaraṃ sadā /  sarvapāpeṣu sopānaṃ tamasāmālayo mahān // Dhs_10.11 //	K10D0287_H0289:316a-11	རྟག་པར་དོན་ཀུན་མེད་པར་བྱེད་༎ ངན་སོང་གསུམ་གྱི་ཐེམ་སྐས་ཏེ་༎ མུན་ནག་གནས་ནི་ཆེན་པོ་ཡིན་༎
+K14bsa052_u:2384	 madyena pretaloke narake vā patanam  madyena narakaṃ yānti pretalokaṃ tathaiva ca /	K10D0287_H0289:316a-14	ཆང་གིས་སེམས་ཅན་དམྱལ་བར་འགྲོ་༎ དེ་བཞིན་ཡི་དབ༹གས་འཇིག་རྟེན་དང་༎ ཆང་གི་སྐྱོན་གྱིས་བསླུས་པ་ཡི་༎
+K14bsa052_u:2386	 tiryakṣu yānti puruṣā madyadoṣeṇa vañcitāḥ // Dhs_10.12 //	K10D0287_H0289:316a-16	མི་དག་དུད་འགྲོ་རྣམས་སུ་འགྲོ་༎
+K14bsa052_u:2387	 viṣādapi viṣaṃ madyaṃ narakānnarakaṃ tathā /	K10D0287_H0289:316a-17	དུག་གི་ནང་དུ་དུག་ནི་ཆང་༎
+K14bsa052_u:2388	 vyādhīnāṃ ca paraṃ vyādhirmadyamuktaṃ manīṣibhiḥ // Dhs_10.13 //	K10D0287_H0289:316a-19	ནད་ཀྱི་ནང་ན་ནད་མཆོག་ནི་༎
+K14bsa052_u:2389	 madyena hānipradarśanam  buddhīndriyavināśāya dharmaratnaṃ kṣayāya ca /	K10D0287_H0289:316a-22	རིན་ཆེན་ཆོས་ནི་ཟད་བྱེད་ལ་༎
+K14bsa052_u:2391	 yo 'tirekaparaṃ madyaṃ brahmacaryabadhāya ca // Dhs_10.14 //	K10D0287_H0289:316a-23	ཚངས་པར་སྤྱོད་པ་འཇིག་བྱེད་པ་༎ མི་བཟད་ཆང་ནི་སྐྱེས་གནས་གཅིག་།
+K14bsa052_u:2392	 madyena laghutāṃ yānti pārthivā śāstracakṣuṣaḥ /	K10D0287_H0289:316a-25	རྒྱལ་པོ་དང་ནི་བསྟན་བཅོས་མཁས་༎ ཆང་གིས་ཡང་བར་བྱེད་འགྱུར་ན་༎
+K14bsa052_u:2393	 kiṃ punaḥ prākṛtā martyā madyapānavilambitāḥ // Dhs_10.15 //	K10D0287_H0289:316a-27	ཐ་མལ་མི་དག་ཆང་འཐུང་བ༏་༏བསླུས་པར་འགྱུར་བ་ཅི་ཞིག་སྨོས་༎
+K14bsa052_u:2394	 madyasya vināśakaratvam  kuṭhāraḥ sarvadharmāṇāṃ hrīvināśakaraṃ param /	K10D0287_H0289:316a-28	ཆང་ལ་བསྟན་པའི་མི་དག་ནི་༎ ཆོས་རྣམས་ཀུན་གྱི་སྟ་རེ་ཡིན་༎ ངོ་ཚ་མེད་པར་བྱེད་པའི་མཆོག་།
+K14bsa052_u:2396	 madyaṃ niṣevitaṃ martyairvināśāyopakalpyate // Dhs_10.16 //	K10D0287_H0289:316b-0	ཆང་༄༣༡༦བ་གིས་ཕྲོགས་པར་གྱུར་བའི་སེམས་༎
+K14bsa052_u:2397	 madyena jñānājñānavivekaśūnyapradarśanam  na jñānaṃ nāpi vijñānaṃ na kāryāṇi na ca kriyām /	K10D0287_H0289:316b-1	བྱ་བ་དང་ནི་མི་བྱ་བ་༎ མི་ཤེས་རྣམ་པར་མི་ཤེས་ཤིང་༎ ཐམས་ཅད་མི་ཡིས་མི་ཤེས་སོ་༎
+K14bsa052_u:2400	 madyasevanasya paritāpasādhanam	K10D0287_H0289:316b-4	གང་ཞིག་ཆང་ལ་སྟེན་བྱེད་པ་༎
+K14bsa052_u:2404	 madyasya buddhisammohajanakatvam  buddhisammohajanakaṃ lokadvayavināśakam /	K10D0287_H0289:316b-8	བློ་ནི་ཤིན་ཏུ་རྨོངས་སྐྱེད་ཅིང་༎ འཇིག་རྟེན་གཉིས་ནི་རྣམ་འཇིག་བྱེད་༎
+K14bsa052_u:2406	 vahniśca mokṣadharmāṇāṃ madyamekaṃ vyavasthitam // Dhs_10.19 //	K10D0287_H0289:316b-10	ཐར་པའི་ཆོས་ལ་མེ་ལྟ་བུར་༎ སྲེག་བྱེད་ཁོ་ན་ཆང་ཡིན་ནོ་༎
+K14bsa052_u:2424	 manīṣiṇaḥ madyasevanātpatanti	K10D0287_H0289:316b-16	ཆང་འཐུང་བ་ཡིས་བསླུས་པ་དག་དེ་ནི་བྱེད་པ་དམན་པ་ཡིན་༎
+K14bsa052_u:2452	 madyapānamadhamatvasādhanam	K10D0287_H0289:316b-22	ཆང་ཞེས་མཁས་པ་རྣམས་ཀྱིས་བཤད་༎
+K14bsa052_u:2456	 tasmāt sa puruṣo dhīro yo madyaṃ nānusevate // Dhs_10.38 //	K10D0287_H0289:316b-24	བློ་ལྡན་ཆང་ལ་ཡིད་མ་རྟོན་༎
+K14bsa052_u:2457	 madyaniṣeviṇo vihagasadṛśā bhavanti  vihagaiḥ sadṛśaṃ yānti puruṣā madyasevinaḥ /	K10D0287_H0289:316b-25	མྱོང་ན་བསིལ་ཡང་རྣམ་སྨིན་ཚ་༎
+K14bsa052_u:2797	 ekadharmavyatītasya mṛṣāvādasya dehinaḥ /	K10D0287_H0289:321b-1	ཆོས་གཅིག་ལས་ནི་འགལ་བྱས་པ་༎
+K14bsa052_u:2798	 pratīrṇapratilokasya nākārya pāpamastiha // Dhs_12.3 //	K10D0287_H0289:321b-2	འཇིག་རྟེན་ཕ་རོལ་རྣམ་བརྒལ་བའི་༎ སྡིག་པ་དོན་མེད་གང་མེད་མིན་༎
+K14bsa052_u:2799	 mṛṣāvāg na prayoktavyā  mṛṣāvācaṃ na bhāṣeta sarvā pratyayakārikām /	K10D0287_H0289:321b-4	ཀུན་ལ་ཡིད་ཆེས་མི་བྱེད་པ་༎ རྫུན་གྱི་ཚིག་ནི་མ་སྨྲ་ཞིག་།
+K14bsa052_u:2801	 yathā badhyati saṃsāre sugatiṃ naiva paśyati // Dhs_12.4 //	K10D0287_H0289:321b-6	འཁོར་བར་གང་གིས་གནོད་པ་ནི་༎ བདེ་འགྲོ་ཉིད་ནི་མཐོང་མི་འགྱུར་༎
+K14bsa052_u:2802	 sādhupratyayatenīhā sarvavidveṣakārikā /  kāntāraḥ sarvādharmāṇāṃ mṛṣāvāca pravartate // Dhs_12.5 //	K10D0287_H0289:321b-8	རྫུན་ཚིག་རབ་ཏུ་འཇུག་པ་ནི་༎ འཇིག་རྟེན་གཉིས་ལ་གནོད་བྱེད་ཅིང་༎ ཀུན་གྱི་རྣམ་པར་ལྡང་བྱེད་ལ༏་༏ཆོས་རྣམས་ཀུན་གྱི་དགོན་པ་ཡིན་༎ གང་གིས་བདག་ཉིད་གཅོད་བྱེད་པ་༎ ཉེས་སྨྲ་གང་དག་སྨྲས་པ་ནི་༎
+K14bsa052_u:2804	 jātamātrasya martyasya kaṭhārī jāyate mukhe /	K10D0287_H0289:321b-13	མི་དག་སྐྱེས་མ་ཐག་ཏུ་ནི་༎ ཁ་ནས་སྟ་རེ་ལྟ་བུ་འབྱུང་༎
+K14bsa052_u:2805	 paścāt chinattyātmānaṃ vācā durbhāṣitaṃ vadan // Dhs_12.6 //	K10D0287_H0289:321b-15	གང་དག་རྫུན་ཚིག་སྨྲ་བ་ནི་༎ དེ་ནི་དོན་མེད་ཀུན་གྱིས་བརྟགས་༎
+K14bsa052_u:2807	 tamasāṃ yonirekā sā yāṃ vācaṃ bhāṣate mṛṣā // Dhs_12.7 //	K10D0287_H0289:321b-18	དེ་ནི་མུན་ནག་སྐྱེ་གནས་གཅིག་།
+K14bsa052_u:2808	 satyena hīnāḥ puruṣāḥ sarvasādhuvivarjitāḥ /	K10D0287_H0289:321b-19	བདེན་པས་དམན་པའི་མི་དག་ནི་༎ མཁས་པ་ཀུན་གྱིས་རྣམ་པར་སྤངས་༎
+K14bsa052_u:2809	 tṛṇavad yānti loke 'smin pratyapāyeṣu duḥkhitāḥ // Dhs_12.8 //	K10D0287_H0289:321b-21	འཇིག་རྟེན་འདིར་ནི་རཙབ༹་ལྟར་འགྱུར་༎ ཕ་རོལ་ངན་སོང་རྣམས་སུ་འཚེད་༎
+K14bsa052_u:2810	 na vadedanṛtaṃ dhīraḥ kaṣṭā hyanṛtavāditā /	K10D0287_H0289:321b-23	དཔའ་བོ་ཤིན་ཏུ་རྫུན་མི་སྨྲ་༎ ཉོན་མོངས་རྫུན་ཚིག་སྨྲ་བ་དག་།
+K14bsa052_u:2811	 pūtigandhyasukhī cāpi paścāttāpena tapyate // Dhs_12.9 //	K10D0287_H0289:321b-25	ཁ་ནས་རུལ་པའི་དྲི་འབྱུང་ལ་༎ ཕྱི་ནས་ལུས་ཀྱིས་གདུངས་པར་འགྱུར་༎
+K14bsa052_u:2812	 satyamahimā  satyaṃ ca na vivarjeta tasya dharmo na vidyate /	K10D0287_H0289:321b-27	བདེན་པ་རིན་ཆེན་རྣམ་སྤངས་པ་༎ དེ་ལ་ཆོས་ནི་མེད་པ་ཡིན་༎
+K14bsa052_u:2814	 vinivartitadharmasya sthitaṃ duḥkhamanekajam // Dhs_12.10 //	K10D0287_H0289:321b-29	ཆོས་ནི་རྣམ་པར་སྤངས་པ་ལ་༎ སྡུག་བསྔལ་མཐའ་མེད་གནས་པ་ཡིན་༎
+K14bsa052_u:2815	 satyaṃ sarvadharmāṇāṃ pradīpabhūtam	K10D0287_H0289:321b-31	ཆོས་རྣམས་ཀུན་གྱི་སྒྲོན་ཡིན་ཞིང་༎
+K14bsa052_u:2816	 pradīpaḥ sarvadharmāṇāṃ sādhūnāṃ ratnavat priyam /	K10D0287_H0289:321b-32	མཁས་རྣམས་རིན་ཆེན་ལྟ་བུར་དགའ༎
+K14bsa052_u:2817	 svargasya ca paraṃ vartma satyamuktaṃ gatajvaraiḥ // Dhs_12.11 //  satyaṃ na hi divaṃ yāti mokṣasyāsatyavādinaḥ /  satyahīnā hi puruṣāḥ paśutulyāḥ prakīrtitāḥ // Dhs_12.12 //	K10D0287_H0289:321b-33	མཐོ་རིས་ལམ་གྱི་དམ་པ་ནི་༎ བདེན་པ་ཡིན་ཞེས་རིམས་བྲལ་གསུང་༎ བདེན་པ་ཡིས་ནི་མཐོ་རིས་དང་༎ ༄༣༢༢ཨ་༌༎ བདེན་པར་སྨྲ་བ་ཐར་པར་འགྲོ་༎
+K14bsa052_u:2820	 jaghanyānāṃ jaghānyāste yeṣāṃ na vidyate /	K10D0287_H0289:322a-2	བདེན་པས་དམན་པའི་མི་དག་ནི་༎ ཁྱི་དང་འདྲ་བར་རབ་ཏུ་བསྒྲགས་༎ གང་ལ་བདེན་པ་མེད་པ་ནི་༎
+K14bsa052_u:2821	 satyaṃ dharmasya sopānaṃ jyotiṣāmākaro mahān // Dhs_12.13 //	K10D0287_H0289:322a-6	བདེན་པ་ཆོས་ཀྱི་ཐེམ་སྐས་ཏེ་༎ སྣང་བའི་འབྱུང་ཁུངས་ཆེན་པོ་ཡིན་༎
+K14bsa052_u:2822	 panthāśca mokṣadharmāṇāṃ dhanānāṃ dhanamuttamam /	K10D0287_H0289:322a-8	ཐར་པའི་ཆོས་ཀྱི་ལམ་ཡིན་ཞིང་༎
+K14bsa052_u:2824	 trāṇāṃ satyamuktaṃ manīṣibhiḥ // Dhs_12.14 //  satyabhūṣitaṃ vāg bhūṣaṇasyāpi bhūṣaṇam	K10D0287_H0289:322a-9	ནོར་གྱི་ནང་ན་ནོར་མཆོག་ལ་༎ སྐྱབས་ཀྱི་ནང་ན་སྐྱབས་མཆོག་ནི་༎ བདེན་པ་ཡིན་ཞེས་མཁས་པས་བཤད་༎
+K14bsa052_u:2826	 jyotiṣāṃ paramaṃ jyotiścakṣuścakṣuṣmatāmapi /	K10D0287_H0289:322a-12	སྣང་བའི་ནང་ན་སྣང་བ་མཆོག་། མིག་གི་ནང་ནའང་མིག་དང་ལྡན་༎
+K14bsa052_u:2827	 draviṇena vinā satyaṃ bhūṣaṇasyāpi bhūṣaṇam // Dhs_12.15 //  nidhānamatulaṃ satyamahārya (sarvasādhakam) /	K10D0287_H0289:322a-14	ནོར་རྫས་མེད་ལ་ནོར་རྫས་ཏེ་༎ རྒྱན་གྱི་ནང་ནའང་རྒྱན་བཟང་ཡིན་༎ བདེན་པ་མི་ཟད་གཏེར་ཡིན་ཏེ་༎ རྒྱལ་པོ་ཀུན་གྱིས་དབྲོག་མི་ནུས་༎
+K14bsa052_u:2830	 puruṣāḥ paramāṃ gatim // Dhs_12.16 //	K10D0287_H0289:322a-18	མི་དག་གང་གིས་སྨྲ་བ་ནི་༎ འགྲོ་བ་མཆོག་ཏུ་འགྲོ་བ་ཡིན་༎
+K14bsa052_u:2831	 na tathā bhāsate rājā nānālaṅkārabhūṣitaḥ /  satyena bhūṣito dhīmān śobhate devavad yathā // Dhs_12.17 //	K10D0287_H0289:322a-20	ཇི་ལྟར་བདེན་པས་སྐྱེས་བུ་དག་། བརྒྱན་པས་མཛེས་ཏེ་ལྷ་འདྲའོ་༎ སྣ་ཚོགས་རྒྱན་གྱིས་སྐྱེས་བུ་དག་། བརྒྱན་པ་དེ་ལྟར་མཛེས་པ་མིན་༎
+K14bsa052_u:2833	 na mātā na pitā cātha mitrāṇi na ca bāndhavāḥ /	K10D0287_H0289:322a-24	ཇི་ལྟར་འཇིག་རྟེན་ཕ་རོལ་ཏུ་༎ ཕ་མེད་མ་མེད་དོན་མེད་ཅིང་༎
+K14bsa052_u:2834	 trāṇamevaṃ yathā śrutvā tasmāt satyaparo bhavet // Dhs_12.18 //  anṛtanindā	K10D0287_H0289:322a-26	བཤེས་མེད་གཉེན་མེད་སྐྱབས་མེད་པས་༎ དེ་ལྟར་རྟག་ཏུ་བདེན་པ་སྨྲོས་༎
+K14bsa052_u:2836	 vahnīnāṃ paramo vahnirviṣāṇāṃ paramaṃ viṣam /	K10D0287_H0289:338b-7	མེ་ཡི་ནང་ན་མེ་མཆོག་སྟེ་། རྒྱ་མཚོ་དག་ཀྱང་སྲེག་བྱེད་ན་༎
+K14bsa052_u:2846	 satyaṃ tyaktvā mṛṣāvādaṃ yo naraḥ pratipadyate /	K10D0287_H0289:338b-11	མི་གང་བདེན་པ་སྤངས་ནས་སུ་༎ བརྫུན་དུ་སྨྲ་བ་སྒྲུབ་བྱེད་པ་༎
+K14bsa052_u:2847	 ratnaṃ tyaktvā sa pāpātmā pāṣāṇaṃ pratipadyate // Dhs_12.23 //	K10D0287_H0289:338b-13	དེ་ནི་རིན་ཆེན་སྤངས་ནས་སུ་༎ སྡིག་པའི་བདག་ཉིད་རྡོ་འདྲ་སྒྲུབ་༎
+K14bsa052_u:2848	 yasyātmā na bhavet dviṣṭo yasya vā narakaṃ priyam /	K10D0287_H0289:338b-15	བདག་ལ་སྡུག་པར་མི་བྱེད་གང་༎ དེ་ནི་སེམས་ཅན་དམྱལ་ལ་དགའ༎
+K14bsa052_u:2849	 mṛṣāvādaṃ svadehāgnim abuddhiḥ sa niṣevate // Dhs_12.24 //	K10D0287_H0289:338b-17	རྫུན་གྱིས་རང་ལུས་མེ་འབྱུང་སྟེ་༎ བློ་དང་མི་ལྡན་དེ་བསྟེན་ཏོ་༎
+K14bsa052_u:2850	 sadedaṃ satyavacanaṃ bhūṣaṇaṃ sarvadehinām /	K10D0287_H0289:338b-19	བདེན་ཚིག་ལེགས་པར་རྙེད་ཡིན་ཏེ་༎ ལུས་ཅན་ཀུན་གྱི་རྒྱན་ཡིན་ནོ་༎
+K14bsa052_u:2851	 satyaṃ tyaktvā mṛṣāvāde kasmād yānti kubuddhayaḥ // Dhs_12.25 //	K10D0287_H0289:338b-21	བདེན་པ་སྤངས་ནས་རྫུན་སྨྲ་བ་༎ བློ་མེད་ཅི་ཕྱིར་ཆགས་པར་བྱེད་༎
+K14bsa052_u:2852	 satyaṃ guṇānāmagryaṃ vai doṣāṇāmanṛtaṃ smṛtam /	K10D0287_H0289:338b-23	བདེན་པ་ཡོན་ཏན་བདག་ཉིད་མཆོག་། རྫུན་སྨྲ་དྲན་པ་སྐྱོན་ཡིན་ཏེ་༎ རྨོངས་པ་ཡོན་ཏན་བཏང་ནས་སུ་༎
+K14bsa052_u:2853	 guṇāṃstyaktvā kathaṃ mūḍho doṣeṣu paridhāvati // Dhs_12.26 //	K10D0287_H0289:338b-26	ཅི་ཕྱིར་སྐྱོན་ལ་ཡོངས་སུ་རྒྱུག་། སེམས་ཅན་དམྱལ་བར་རྟག་འགྲོ་བ་༎ སྐྱོན་གྱི་འབྲས་བུ་ཉེས་པ་ཡིན་༎ ཁྱེད་ཅག་ཡོན་ཏན་དེ་དང་འགྲས་༎ མི་བཟད་དམྱལ་བར་ཀུན་ཏུ་གནས་༎
+K14bsa052_u:2854	 bījaṃ sarvasya duḥkhasya mṛṣāvādaḥ prakīrtitaḥ /	K10D0287_H0289:338b-31	སྡུག་བསྔལ་ཀུན་གྱི་ས་བོན་ནི་༎ བརྫུན་དུ་སྨྲ་བར་རབ་ཏུ་གྲགས་༎
+K14bsa052_u:2855	 tathā satyaṃ sukhasyaiva tasmānnānṛtako bhavet // Dhs_12.27 //	K10D0287_H0289:338b-33	དེ་བཞིན་བདེ་བ་བདེན་ཡིན་ཏེ་། དེ་བས་སུ་ཞིག་བརྫུན་དུ་སྨྲ་༎
+K14bsa052_u:2856	 satyavādī hi puruṣaḥ priyaḥ sarvasya dehinaḥ /	K10D0287_H0289:338b-35	བདེན་པར་སྨྲ་བའི་མི་དག་ནི་༎ ལུས་ཅན་ཀུན་གྱི་དགའ་བ་ཡིན་༎
+K14bsa052_u:2857	 cakṣurdoṣaimṛṣāvādī tasmānnānṛtako bhavet // Dhs_12.28 //	K10D0287_H0289:338b-37	རྫུན་སྨྲ་མི་དང་འགྲས་པ་སྟེ་༎ དེ་བས་སུ་ཞིག་བརྫུན་དུ་སྨྲ་༎
+K14bsa052_u:2858	 devakalpāḥ sadā kṛṣṭāḥ puruṣāḥ satyavādinaḥ /	K10D0287_H0289:339a-0	བདེན་པར་སྨྲ་བའི་མི་༄༣༣༩ཨ་༌༎ དག་ནི་༎ ལྷ་ལྟར་རྟག་ཏུ་དགའ་བ་ཡིན་༎
+K14bsa052_u:2859	 nārakeyāstathā mūḍhā janā hyanṛtacetasaḥ // Dhs_12.29 //	K10D0287_H0289:339a-2	དམྱལ་བར་དེ་ལྟར་རྨོངས་པ་དང་། དེ་བཞིན་སེམས་ཀྱིས་བརྫུན་དུ་སྨྲ་༎ ལེགས་པའི་ལམ་ནི་མ་བྱས་ལ་༎ སྡིག་པ་དུ་མ་བྱས་པས་ན་༎ སྡུག་བསྔལ་མཐའ་ཡས་སྐྱེས་པ་དག་། ཅི་ཞིག་སྡིག་པས་ཡོངས་སུ་གདུང་༎
+K14bsa052_u:2860	 kalyāṇānāṃ paraṃ satyaṃ doṣāṇāmanṛtaṃ tathā /	K10D0287_H0289:339a-7	དགེ་བའི་འབྲས་བུ་ལེགས་པ་ཡིན་༎ སྡིག་པས་ཉོན་མོངས་འཚེད་པར་བྱེད་༎ བློ་ལྡན་མི་ཡིས་སྡིག་བྱས་ཀྱང་༎ དགེ་བ་རྗེས་སུ་སྟེན་པར་བྱེད་༎ དགེ་བའི་ནང་ན་བདེན་པ་མཆོག་༎
+K14bsa052_u:2861	 doṣavarjī guṇadveṣī puruṣaḥ puruṣottamaḥ // Dhs_12.30 //	K10D0287_H0289:339a-12	སྐྱོན་གྱི་ནང་ན་དེ་བཞིན་རྫུན་༎ སྐྱོན་སྤངས་ཡོན་ཏན་ཚོལ་བྱེད་པ་༎ མི་ཡི་ནང་ན་མི་མཆོག་ཡིན་༎
+K14bsa052_u:2862	 sukhodayaṃ sukhodarkaṃ sukhena paripacyate /	K10D0287_H0289:339a-15	བདེ་འབྱུང་བདེ་བའི་འབྲས་བུ་ནི་༎ བདེན་པས་ཡོངས་སུ་འགྲུབ་པར་འགྱུར་༎
+K14bsa052_u:2863	 sukhena labhate satyaṃ(satyaṃ)	K10D0287_H0289:339a-17	བདེན་པས་བདེ་བ་འཐོབ་འགྱུར་ཏེ་༎
+K14bsa052_u:2864	 nirvāṇagāmikam // Dhs_12.31 //	K10D0287_H0289:339a-18	བདེན་པས་མྱ་ངན་འདས་པར་འགྲོ་༎
+K14bsa052_u:2865	 duḥkhodayaṃ kaṭuphalaṃ duḥkhena saha pacyate /	K10D0287_H0289:339a-19	སྡུག་བསྔལ་འབྱུང་བ་འབྲས་བུ་ཚ་༎ སྡུག་བསྔལ་མོད་ལ་འཚེད་པར་འགྱུར་༎ སྡུག་བསྔལ་ཀུན་མཐའ་རྫུན་ཡིན་ན་༎
+K14bsa052_u:2871	 amṛtañca viṣañcaiva jihvāpāśe sthitaṃ nṛṇām /	K10D0287_H0289:340b-7	མི་རྣམས་ཀྱི་ནི་ལྕེ་ལ་གནས་༎
+K14bsa052_u:2872	 amṛtaṃ satyamityuktaṃ viṣaṃ tūktaṃ mṛṣāvacaḥ // Dhs_12.35 //	K10D0287_H0289:340b-8	བདེན་པ་སྨྲ་བ་བདུད་རྩི་ཡིན་༎ རྫུན་གྱི་ཚིག་ནི་དུག་དང་འདྲ་༎
+K14bsa052_u:2873	 yasyānṛtamabhipretaṃ tasya satyaṃ dhruvaṃ sthitam /	K10D0287_H0289:340b-10	གང་ཞིག་བདུད་རྩི་མངོན་འདོད་པ་༎ དེ་ནི་རྟག་ཏུ་བདེན་ལ་གནས་༎
+K14bsa052_u:2874	 viṣantu yasyābhimataṃ tasyeṣṭaṃ syānmṛṣāvacaḥ // Dhs_12.36 //  viṣeṇa niścitaṃ nāśo mṛṣāvādena niścitaḥ /	K10D0287_H0289:340b-12	གང་ཞིག་དུག་ལ་མངོན་དགའ་བ་༎ དེ་ནི་རྫུན་གྱི་ཚིག་ལ་དགའ༎ དུག་གིས་གནོད་པར་ངེས་མེད་ཀྱི་༎ རྫུན་དུ་སྨྲ་བས་ངེས་པར་འགྱུར་༎
+K14bsa052_u:2876	 mṛtavat sa pumānasti yo mithyātvabhibhāṣate // Dhs_12.37 //	K10D0287_H0289:340b-16	གང་ཞིག་རྫུན་ནི་མངོན་སྨྲ་བ་༎ སྐྱེས་བུ་དེ་ནི་འཆི་བར་འགྱུར་༎
+K14bsa052_u:2877	 nātmano hi hitaṃ pathyaṃ (para)	K10D0287_H0289:340b-18	རྫུན་གྱིས་བདག་ལ་མི་ཕན་ན་༎
+K14bsa052_u:2880	 deśe deśe mayā dṛṣṭaṃ janmamṛtyusahasrakam /  paraḥ sahastraṃ janayennāśayedanṛtaṃ vacaḥ // Dhs_12.39 //	K10D0287_H0289:340b-26	ལུས་གཅིག་འཕྲོག་པ་མཐོང་བ་ནི༏་༏འཆི་བ་དུག་ལས་འབྱུང་འགྱུར་ཏེ་༎ ཚེ་རབས་སྔ་ཕྱི་སྟོང་དག་ཏུ་༎ རྫུན་གྱི་ཚིག་གིས་ཆུད་གཟོན་ཏོ་༎
+K14bsa052_u:2882	 abhijātasa niṣkarṣo dvijātīnāṃ ca bhūṣaṇam /	K10D0287_H0289:340b-29	བཙུན་པའི་རིགས་ལ་མཐོར་བྱེད་ཅིང་༎ དམའ་བའི་རིགས་ལ་རྒྱན་དུ་བྱེད་༎
+K14bsa052_u:2883	 darśanaṃ mokṣamārgasya satyamityabhidhīyate // Dhs_12.40 //	K10D0287_H0289:341a-0	ཐར་པའི་༄༣༤༡ཨ་༌༎ ལམ་དག་སྟོན་བྱེད་པ་༎ བདེན་པ་ཡིན་ཞེས་མངོན་པར་བརྟགས་༎
+K14bsa052_u:3034	 karmāyattaṃ sukham  karmāyattaṃ sukhaṃ dṛṣṭaṃ sukhāyattaṃ manastathā /	K10D0287_H0289:490a-17	བདེ་བ་ལས་ལ་རག་ལས་མཐོང་༎ ཡིད་ནི་དེ་བཞིན་བདེ་བ་ལས་༎
+K14bsa052_u:3036	 mano 'vaboddhayā(ste)  dharmā ye vyutpattivicāriṇaḥ // Dhs_13.33 //  sucaritasya karmaṇaḥ phalam	K10D0287_H0289:490b-1	ཆོས་ནི་ཡིད་དང་རྗེས་སུ་འབྲེལ་༎
+K14bsa052_u:3039	 anityāḥ sarvasaṃskārā jalabud budasannibhāḥ /	K10D0287_H0289:490b-2	འདུ་བྱེད་ཐམས་ཅད་མི་རྟག་སྟེ་༎ ཆུ་ཡི་ཆུ་བུར་ལྟ་བུ་ཡིན་༎
+K14bsa052_u:3040	 tasmāt sucaritaṃ karma loke martya paratra ca // Dhs_13.34 //	K10D0287_H0289:490b-4	འཇིག་རྟེན་འདི་དང་ཕ་རོལ་ཏུ་༎ དེ་ལྟར་ལེགས་པའི་ལས་སྤྱོད་དོ་༎ གང་ཞིག་རྟག་ཏུ་དགེ་བྱེད་པ་༎ ཀུན་ཏུ་མི་དགེ་ཡོང་མི་བྱེད་༎ དེ་ནི་ངན་ལྟ་ལམ་མི་འདོད་༎ མཐོ་རིས་སྐས་ལ་ཀུན་ཏུ་གནས་༎
+K14bsa052_u:3041	 dṛṣṭaṃ karmaphalaṃ loke dṛṣṭā eva vicitratā /	K10D0287_H0289:490b-10	བྱིས་པ་གང་དག་སེམས་མེད་པ་༎ རྟག་ཏུ་ཉེས་པར་སྤྱོད་ལ་དགའ༎ སྡིག་པ་ངེས་པར་རྣམ་སྤངས་པ་༎ འགྲོ་བ་བཟང་པོར་འགྲོ་བར་འགྱུར་༎ འཇིག་རྟེན་ལས་ཀྱི་འབྲས་བུ་མཐོང་༎
+K14bsa052_u:3241	 pāpavirahitāḥ paramaṃ sukhaṃ prāpnuvanti  acetanā dhruvaṃ bālā yeṣāṃ duścaritaṃ priyam /	K10D0287_H0289:490b-10	བྱིས་པ་གང་དག་སེམས་མེད་པ་༎ རྟག་ཏུ་ཉེས་པར་སྤྱོད་ལ་དགའ༎
+K14bsa052_u:3243	 vinivarjitapāpāstu gacchanti paramāṃ gatim // Dhs_15.26 //	K10D0287_H0289:490b-12	སྡིག་པ་ངེས་པར་རྣམ་སྤངས་པ་༎ འགྲོ་བ་བཟང་པོར་འགྲོ་བར་འགྱུར་༎
+K14bsa052_u:3244	 atīva vañcanāghorā niyatā pāpagāminī /	K10D0287_H0289:490b-14	འཇིག་རྟེན་ལས་ཀྱི་འབྲས་བུ་མཐོང་༎ ལྷ་ལ་རྣམ་པ་སྣ་ཚོགས་མཐོང་༎ གང་ཞིག་བག་མེད་ཤིན་ཏུ་རྩུབ་༎ དེ་བདག་ངེས་པར་འཕགས་མི་བྱེད་༎
+K14bsa052_u:3245	 mānuṣyaṃ durlabhaṃ prāpya yasya pāpaṃ priyaṃ bahu // Dhs_15.27 //	K10D0287_H0289:490b-18	གང་གིས་དོན་དུ་ལུས་དང་དག་། ཡིད་ཀྱིས་མང་དུ་སྡིག་བྱས་པ་༎ དེ་དག་ཐམས་ཅད་གཞན་དུ་དོང་༎
+K14bsa052_u:3247	 pāpād virajyate yastu śubhe vātīva rajyate /	K10D0287_H0289:490b-26	གང་ཞིག་སྡིག་ལས་བྲལ་བ་ནི་༎ ཤིན་ཏུ་དགེ་ལ་དགའ་འགྱུར་ཏེ་༎
+K14bsa052_u:3248	 sa sukhāt sukhamāpnoti nivṛttiṃ vā prayāti hi // Dhs_15.28 //	K10D0287_H0289:490b-28	དེ་ནི་བདེ་བས་བདེ་འཐོབ་ཅིང་༎
+K14bsa052_u:3451	 pāpānugaphalaṃ dṛṣṭam  atha pāpāni karmāṇi kṛtavānasi manyase /	K10D0287_H0289:299b-22	སྡིག་པ་དག་གིས་ལས་བྱས་པ་༎ མ་༄༣༠༠ཨ་༌༎ དུ་དེ་ལྟར་ལ་གོར་སྤྱོད་༎
+K14bsa052_u:3453	 durmate tatra mā kranda kiṃ vṛthā paridevase // Dhs_16.36 //	K10D0287_H0289:300a-1	སྨྲེ་སྔགས་དོན་མེད་ཅི་ཞིག་འདོན་༎
+K14bsa052_u:3456	 kasmānna sevito dharmaḥ pāpañca nahi varjitam /	K10D0287_H0289:300a-8	ཐར་ཀྱང་གཏི་མུག་དབང་སོང་བ་༎ ཡང་དང་ཡང་དུ་སྡིག་པ་བྱེད་༎
+K14bsa052_u:3457	 pāpād bahiśca puruṣo narakaṃ naiva paśyati // Dhs_16.38 //	K10D0287_H0289:300a-10	འདི་ཡིས་དམྱལ་བར་མི་འགྲོ་ཞེས་༎ སྡིག་པ་ལ་ནི་ཡིད་མ་རྟོན་༎
+K14bsa052_u:3458	 yo na vindanti mūḍhātmā phalaṃ pāpasya karttṛkam /	K10D0287_H0289:300a-12	མེ་ཆུང་བས་ནི་རི་དང་ཚལ་༎ ལྗོན་པར་བཅས་པ་སྲེག་པ་བཞིན་༎ རྨོངས་པ་སྡིག་པ་བྱེད་འདོད་པ་༎ གནོད་པ་འབྱུང་ལ་འདོད་མི་བྱེད་༎ སྡིག་པའི་རྗེས་སུ་འབྲས་བུ་འཇུག་། རྒྱུ་དང་རྐྱེན་ལས་བྱུང་བ་མཐོང་༎
+K14bsa052_u:3469	 kāruṇyāspadabhūtāḥ smo nāsmākaṃ karuṇāhṛdi // Dhs_16.43 //	K10D0287_H0289:304b-13	བདག་ཅག་སྙིང་རྗེའི་གནས་སུ་གྱུར་༎ ཁྱོད་ལ་སྙིང་རྗེ་མེད་དམ་ཅི་༎ ༄༣༠༥ཨ་༌༎ ཁྱེད་ལ་ཞི་བ་མེད་དམ་ཅི་༎ བདག་ལ་ཁྱེད་ཅག་སྙིང་མི་རྗེ་༎ དེ་དག་གིས་དེ་སྐད་སྨྲས་པ་དང་། གཤིན་རྗེའི་མི་དག་གིས་སླར་སྨྲས་པ་།
+K14bsa052_u:3470	 yathā kṛtaṃ bhavadbhiśca pāpaṃ mohāvṛtairbahu /	K10D0287_H0289:305a-3	ཇི་ལྟར་ཁྱེད་ཅག་གཏི་མུག་གིས་༎ བསྒྲིབས་པའི་སྡིག་ལས་མང་པོ་བྱས་༎
+K14bsa052_u:3471	 tad vaḥ pradhāvate gāḍhaṃ na ca ye tatra hetavaḥ // Dhs_16.44 //	K10D0287_H0289:305a-5	མི་ཟད་པ་ཡིས་ཁྱེད་ཅག་བདས་༎ དེ་ནི་ངེད་ཀྱི་རྒྱུ་མ་ཡིན་༎
+K14bsa052_u:3472	 śīlaṃ na rakṣitaṃ mūḍha pāpaṃ ca bahu sañcitam /  sambhūtasya ca pāpasya phalametadupasthitam // Dhs_16.45 //	K10D0287_H0289:305a-7	རྨོངས་པས་ཚུལ་ཁྲིམས་མ་བསྲུངས་ཤིང་༎ སྡིག་པ་མང་པོ་བསགས་པ་བྱས་༎ སྡིག་པ་མང་པོ་བསགས་པ་ཡི་༎ འབྲས་བུ་དེ་ནི་ཉེ་བར་གནས་༎
+K14bsa052_u:3474	 na vayaṃ kāraṇaṃ tatra yūyameva hi kāraṇam /	K10D0287_H0289:305a-11	དེ་ལ་བདག་ཅག་རྒྱུ་མེད་དེ་༎ འདི་ནི་ཁྱེད་ཅག་ཉིད་ཀྱི་རྒྱུ་༎
+K14bsa052_u:3684	 (17) pretavargaḥ  adānasya kutaḥ sukham?  adāntasya kutaḥ śāntiranuptasya kutaḥ phalam? /  adīpikā prabhā nāsti adānasya kutaḥ sukham // Dhs_17.1 //	K10D0287_H0289:477a-10	མ་བཏབ་འབྲས་བུ་ག་ལ་འབྱུང་༎ སྒྲོན་མ་མེད་ན་འོད་མེད་ལྟར་༎ མ་བྱིན་བདེ་བ་ག་ལ་ཡོད་༎
+K14bsa052_u:3689	 dānena virahāt tadvat sukhaṃ pretairna labhyate // Dhs_17.2 //  kukarmī pretalokaṃ gacchati	K10D0287_H0289:477a-15	སྦྱིན་དང་བྲལ་བ་དེ་འདྲ་སྟེ་༎ ཡི་དབ༹གས་བདེ་བ་མི་རྙེད་དོ་༎
+K14bsa052_u:3691	 yaṃ pretya pretalokasya triloke ca yathādhamāḥ /	K10D0287_H0289:477a-17	ཡི་དབ༹གས་འཇིག་རྟེན་ཡི་དབ༹གས་གང་༎ དེ་བཞིན་ནོར་མེད་འཇིགས་གསུམ་དུ་༎
+K14bsa052_u:3692	 bhrameṇa paramodvignāstanmātsaryakṛtaṃ phalam // Dhs_17.3 //	K10D0287_H0289:477a-19	ཤིན་ཏུ་མི་དགའ་འཁྱམ་བྱེད་པ་༎ དེ་ནི་སེར་སྣའི་འབྲས་བུ་ཡིན་༎
+K14bsa052_u:3693	 na dātrā labhyate kiñcit kṛtanāśo na vidyate /  svakarmaphalabhoktāraḥ prāṇinaḥ karmabhoginaḥ // Dhs_17.4 //	K10D0287_H0289:477a-21	རང་གི་ལས་འབྲས་ཟ་བ་ཡི་༎ སྲོག་ཆགས་ལས་ལ་ལོངས་སྤྱོད་པ་༎ མ་བྱིན་ཅི་ཡང་མི་འཐོབ་སྟེ་༎ བྱས་པ་ཆུད་ནི་ཟ་བ་མེད་༎
+K14bsa052_u:3695	 tava yatkukṛtaṃ dagdhāḥ pretyalokeṣvavasthitāḥ /	K10D0287_H0289:477a-25	ཡི་དབ༹གས་འཇིག་རྟེན་གནས་པ་དག་། ངན་བྱས་རྣམས་ཀྱིས་བདག་༄༤༧༧བ་ཅག་བསྲེགས་༎
+K14bsa052_u:3696	 kṣutpipāsāmayeneha vahninā paridīpitāḥ // Dhs_17.5 //	K10D0287_H0289:477b-1	བཀྲེས་དང་སྐོམ་ལས་བྱུང་བ་ཡི་༎ བདག་ཅག་རྣམས་ནི་སྐོམ་པ་ལས་༎
+K14bsa052_u:3697	 kadā tu viṣayo 'smākaṃ bhaviṣyati sukhodayaḥ /	K10D0287_H0289:477b-4	ནམ་བྲལ་བདེ་བ་འབྱུང་བར་འགྱུར་༎
+K14bsa052_u:3698	 paridāhāt kadā cāsmāt parimokṣo bhaviṣyati // Dhs_17.6 //	K10D0287_H0289:477b-5	ཡོངས་སུ་གདུང་ལས་བདག་ཅག་རྣམས་༎ ནམ་ན་ཡོངས་སུ་ཐར་བར་འགྱུར་༎
+K14bsa052_u:3699	 mārgāmārgavihīno duḥkhita eva jīvati	K10D0287_H0289:477b-7	ལམ་དང་ལམ་མིན་མི་ཤེས་ཤིང་༎
+K14bsa052_u:3700	 mārgāmārgavivikto 'haṃ na jñātaṃ karmaṇaḥ phalam /	K10D0287_H0289:477b-8	ལས་ཀྱི་འབྲས་བུ་དག་མི་ཤེས་༎
+K14bsa052_u:3701	 kṣutpipāsāmayo vahnirajñātaḥ prakaṭodayaḥ // Dhs_17.7 //	K10D0287_H0289:477b-9	བཀྲེས་དང་སྐོམ་ལས་བྱུང་བའི་མེ་༎ ཚ་བ་འབྱུང་བ་མ་ཤེས་སོ་༎
+K14bsa052_u:3702	 kleśāndhakāravadanā nirāśāstyaktajīvikāḥ /	K10D0287_H0289:477b-11	བཞིན་ནི་སྐྲ་ཡིས་མུན་ལྟར་ཁེབས་༎ རེ་བ་མེད་ཅིང་སྲོག་རྣམས་བཏང་༎
+K14bsa052_u:3703	 tvaksnāyujālabaddhāḥ sma jīvāmo bata duḥkhitāḥ // Dhs_17.8 //	K10D0287_H0289:477b-13	པགས་པ་རྒྱུས་པའི་དྲ་བས་སྦྲེལ་༎
+K14bsa052_u:3718	 analaḥ pretalokasya kṣutpipāsāmayo mahān	K10D0287_H0289:498a-5	བཀྲེས་དང་སྐོམ་ལས་བྱུང་བའི་མེས་༎ མི་བཟད་གདུངས་པར་འགྱུར་བ་ལྟར་༎
+K14bsa052_u:3719	 nāgniśastraviṣāṇāṃ hi nipātastādṛśaḥ kaṭuḥ // Dhs_17.15 //  kṣutpipāsāmayāgneśca nipāto yādṛśaḥ (kaṭuḥ) /	K10D0287_H0289:498a-7	མེ་དང་མཚོན་དང་དུག་རྣམས་ཀྱིས་༎ དེ་ལྟར་མི་བཟད་གདུང་མི་འགྱུར་༎ གང་དུ་བདེ་བ་ཆུང་གྱུར་པ་༎
+K14bsa052_u:3721	 na kṣaṇo nāpi hi lavo na muhūrto na śarvarī // Dhs_17.16 //	K10D0287_H0289:498a-10	སྐད་ཅིག་མེད་ཅིང་ཐང་ཅིག་མེད་༎ ཡུད་ཙམ་མེད་ཅིང་མཚན་མོ་མེད་༎
+K14bsa052_u:3722	 duḥkhānvitā vayam	K10D0287_H0289:498a-12	རྟག་ཏུ་བདག་ནི་སྡུག་བསྔལ་བསྒྲིབས་༎
+K14bsa052_u:3725	 duḥkhāt kadācinmokṣaḥ syād bhaviṣyati sukhodayaḥ /	K10D0287_H0289:498a-14	སྡུག་བསྔལ་ལས་ནི་སྡུག་བསྔལ་ཐོབ་༎ སྡུག་བསྔལ་ལས་ནི་རྣམ་གྲོལ་ཏེ་༎
+K14bsa052_u:1391	 varaṃ niśitadhāreṇa kṣureṇa svayamātmanaḥ /	K10D0287_H0289:385b-10	སྤུ་གྲི་རྣོན་པོར་བདར་བ་ཡི་༎ སོ་ཡིས་བདག་རང་བདག་ཉིད་ཀྱི་༎
+K14bsa052_u:1392	 saṃkṣoditā bhavejjihvā na coktaṃ kāmagaṃva(caḥ) // Dhs_7.3 //  rāgeṇa vañcitāḥ sattvā dveṣeṇa paripīḍitāḥ /	K10D0287_H0289:385b-13	སེམས་ཅན་འདོད་ཆགས་ཀྱིས་བསླུས་ཤིང་༎ ཞེ་སྡང་གིས་ནི་ཡོངས་གདུངས་ལ་༎
+K14bsa052_u:1394	 mohasya vaśamāpannā bhāṣante 'madhuraṃ vacaḥ // Dhs_7.4 //	K10D0287_H0289:385b-15	གཏི་མུག་དབང་དུ་སོང་བ་དག་། ཚིག་མི་སྙན་པར་སྨྲ་བར་བྱེད་༎
+K14bsa052_u:1395	 rāgavaśagaḥ sadā duḥkhatamamanubhavati	K10D0287_H0289:385b-17	འདོད་ཆགས་ཆུང་བས་ཟིན་པ་གང་༎
+K14bsa052_u:1396	 alparāgānniruddho yaḥ kurute duṣkṛtaṃ bahu /	K10D0287_H0289:385b-18	ཉེས་པར་བྱེད་པ་མང་དུ་བྱེད་༎
+K14bsa052_u:1397	 sa rāgavaśago mūḍho duḥkhād duḥkhamavāpnuyāt // Dhs_7.5 //	K10D0287_H0289:386a-0	རྨོངས་པ་གཏི་༄༣༨༦ཨ་༌༎ མུག་དབང་སོང་སྟེ་༎
+K14bsa052_u:1859	 (8) tṛṣṇāvargaḥ  tṛṣṇāgnireva narakabhūtaḥ	K10D0287_H0289:382b-12	འབར་བ་དག་ནི་གྲང་ཞེས་བྱ་༎ དམྱལ་བར་དམྱལ་བ་པ་ཡི་མེ་༎
+K14bsa052_u:1861	 bhavotārāya tṛṣṇāgnirjvalanaḥ śīta ucyate /  narake nārake yo 'gnistṛṣṇāgnistriṣu dhātuṣu // Dhs_8.1 //	K10D0287_H0289:383a-0	ཁམས་གསུམ་དག་༄༣༨༣ཨ་༌༎ ནི་སྲེག་པའི་མེ་༎
+K14bsa052_u:1863	 kalpabhūto hyayaṃ vahniḥ yo 'yaṃ narakasambhavaḥ /	K10D0287_H0289:383a-2	སེམས་ཅན་དམྱལ་བར་གང་འབྱུང་བ་༎ མེ་འདི་ཆུང་བར་གྱུར་པ་ཡིན་༎ སྲེད་པའི་རྒྱུ་ལས་བྱུང་བ་ཡི་༎ མེ་འབར་བ་ནི་མང་པོར་མཆེད་༎
+K14bsa052_u:1865	 karmakṣayād vimucyante narakāt pāpakāriṇaḥ /	K10D0287_H0289:383a-6	སེམས་ཅན་དམྱལ་བ་སྡིག་སྤྱད་པ་༎ ལས་ཟད་ནས་ནི་རྣམ་པར་གྲོལ་༎
+K14bsa052_u:1866	 triṣu dhātuṣu dahyante narāstṛṣṇāvaśānugāḥ // Dhs_8.3 //	K10D0287_H0289:383a-8	སྲེད་པའི་དབང་དུ་སོང་བའི་མེ་། ཁམས་གསུམ་དག་ཏུ་སྲེག་པར་བྱེད་༎
+K14bsa052_u:1867	 anādimati saṃsāre tṛṣṇāgniratibandhakaḥ /	K10D0287_H0289:383a-10	འཁོར་བ་ཐོག་མ་མེད་དུས་ནས་༎ སྲེད་པའི་མེ་ཡི་རྗེས་འབྲང་བ་༎
+K14bsa052_u:1868	 tṛṣṇāgnirnarakaṃ tasmānnāgnirnarakasambhavaḥ // Dhs_8.4 //	K10D0287_H0289:383a-12	སེམས་ཅན་དམྱལ་བ་སྲེད་པའི་མེ་༎ ཅི་ཕྱིར་དམྱལ་བའི་མེ་མི་འབྱུང་༎
+K14bsa052_u:1869	 tṛṣṇāgniḥ śarīraṃ manaśca dahati  śārīraṃ mānasaṃ dāhaṃ tṛṣṇāgniḥ kurute nṛṇām // Dhs_8.5 //	K10D0287_H0289:383a-14	སེམས་ཅན་དམྱལ་བ་པ་ཡི་མེ་༎ ལུས་ཡིད་ཤིན་ཏུ་སྲེག་པར་བྱེད་༎
+K14bsa052_u:1872	 tṛṣṇāgniḥ sāmānyāgninā viśiṣyate  tasmād viśiṣyate vahniḥ tṛṣṇāhetusamudbhavaḥ /  nārakeyo 'samaścaiva tṛṣṇāgnirnitarāṃ smṛtaḥ // Dhs_8.6 //  ayamagniḥ trikālasambhavaḥ	K10D0287_H0289:383a-18	དེ་ལྟ་བས་ན་སྲེད་རྒྱུ་ལས་༎ བྱུང་བའི་མེ་ནི་ཁྱད་པར་ཚ་༎ དམྱལ་བ་པ་ཡི་ཁ་བ་འདྲ་༎ སྲེད་པའི་མེ་ནི་ཁྱབ་པར་དྲན་༎
+K14bsa052_u:1876	 tristhānagaḥ trihetuśca trikarmaparidīpakaḥ /	K10D0287_H0289:383a-22	སྲེད་འབྲང་རྒྱུ་ནི་གསུམ་ལས་འབྱུང་༎ ལས་གསུམ་དག་ནི་ཡོངས་སུ་བསྟན་༎
+K14bsa052_u:1877	 trikālasambhavo jñeyastṛṣṇāgniparakastathā // Dhs_8.7 //	K10D0287_H0289:383a-24	དུས་གསུམ་འབྱུང་བར་ཤེས་པར་བྱེད་༎
+K14bsa052_u:1878	 tṛṣṇāgniḥ sadaiva sarvatra dāhakaḥ  rāgāgnirdahyate svarge dveṣāgnistiryage tathā /  mohāgnirdahyate pāpe tṛṣṇāgniḥ sarvadā sthitaḥ // Dhs_8.8 //  tṛṣṇāgneḥ svarūpanirūpaṇam  mānerṣyādhūmaviśikhaḥ saṅkalpe dhanasambhavaḥ /	K10D0287_H0289:423b-13	ང་རྒྱལ་ཕྲག་དོག་མེ་ལྟར་འབར་༎
+K14bsa052_u:1883	 lobhāgnirdahate lokaṃ nāgniḥ kāmasamudbhavaḥ // Dhs_8.9 //  tṛṣṇāgnirviṣayasevanenaiva vardhate	K10D0287_H0289:423b-14	ཤིང་གི་མེས་ནི་མི་སྲེག་གི་། འཇིག་རྟེན་འདོད་པའི་མེས་སྲེག་གོ་།
+K14bsa052_u:1885	 lobhāśīviṣadaṣṭā ye teṣāṃ śarma na vidyate /	K10D0287_H0289:423b-16	འདོད་པའི་དུག་གིས་ཟིན་པ་གང་༎ དེ་དག་ལ་ནི་བདེ་བ་མེད་༎
+K14bsa052_u:1886	 sevito bhāvito lobho bhūya evābhivardhate // Dhs_8.10 //	K10D0287_H0289:424a-0	འདོད་པ་བསྙེན་ཅིང་བསྟེན་༄༤༢༤ཨ་༌༎ བྱས་ན༏་༏ཕྱིར་ཡང་དེ་བཞིན་རབ་ཏུ་འཕེལ་༎
+K14bsa052_u:1888	 yathā yathendhanaṃ prāpyānalo vardhatyanekaśaḥ /  rlobhavahnirna(śakyate) // Dhs_8.11 //	K10D0287_H0289:424a-3	འདོད་པ་དུ་མ་འཕེལ་བར་འགྱུར་༎ མེ་ལས་འབྲོས་པར་ནུས་སྲིད་ཀྱི་༎ འདོད་པའི་མེ་ལས་མི་ནུས་སོ་༎
+K14bsa052_u:1891	 cakravad bhramate loko lobhena parivañcitaḥ /	K10D0287_H0289:424a-6	འདོད་པས་ཡོངས་སུ་བསླུས་པ་ཡིས་༎ འཇིག་རྟེན་འཁོར་ལོ་བཞིན་དུ་འཁྱམ་༎
+K14bsa052_u:1892	 anādinidhane loke nāsti lobhasamo ripuḥ // Dhs_8.12 //	K10D0287_H0289:424a-8	ཐོག་མ་མེད་པའི་འཇིག་རྟེན་ལ་༎ འདོད་པ་ལྟ་བུའི་དགྲ་མེད་དོ་༎
+K14bsa052_u:1893	 viśanti sāgarajale lobhena parivañcitāḥ /	K10D0287_H0289:424a-10	འདོད་པས་ཡོངས་སུ་བསླུས་པ་དག་། རྒྱ་མཚོའི་ཆུ་ནང་འཇུག་པར་བྱེད་༎
+K14bsa052_u:1894	 śastrasaṅghātagahanaṃ yuddhaṃ saṃpraviśanti ca // Dhs_8.13 //	K10D0287_H0289:424a-12	མཚོན་ཆ་ཐིབས་པོ་འབབ་པ་ཡི་༎ ག-ཡུལ་དུ་ཡང་དག་རབ་ཏུ་འཇུག་།
+K14bsa052_u:1895	 lobhahetorhi bhūpālā nāśayanti parasparam /	K10D0287_H0289:424a-14	འདོད་པའི་རྒྱུ་ཡིས་ས་བདག་རྣམས་༎ ཕན་ཚུན་དག་ཏུ་འཇིག་པར་བྱེད་༎
+K14bsa052_u:1896	 śastrāsibhairavaprotā yuddhayante dhanatṛṣṇayā // Dhs_8.14 //	K10D0287_H0289:424a-16	ནོར་ལ་སྲེད་པས་མ་བུ་ཡང་༎ འཐབ་མོའི་ག-ཡུལ་ནི་འགྱེད་པར་བྱེད་༎
+K14bsa052_u:1897	 tṛṣṇāviṣavinirmuktā lobhāṅgāravivarjitā /	K10D0287_H0289:424a-18	སྲེད་པའི་དུག་ལས་རྣམ་གྲོལ་བ་༎ འདོད་པའི་མེ་མ་དག་རྣམ་པར་སྤངས་༎
+K14bsa052_u:2157	 svahite ye na niratāḥ kutasteṣāṃ bhavet sukham // Dhs_9.1 //	K10D0287_H0289:425a-14	དེ་ལ་བདེ་བ་ག་ལ་ཡོད་༎ དོན་མེད་ཆོས་ལ་དགའ་བ་ནི་༎
+K14bsa052_u:2158	 anarthakarmaratayaḥ śāṭhyerṣyābahulāstriyaḥ /	K10D0287_H0289:425a-16	བུད་མེད་ག-ཡོ་དང་ཕྲག་དོག་མང་༎
+K14bsa052_u:2159	 lokadvayavināśāya puruṣāṇāmavasthitāḥ // Dhs_9.2 //	K10D0287_H0289:425a-17	འཇིག་རྟེན་གཉིས་ནི་རྣམ་འཇིག་པ་༎ སྐྱེས་པ་རྣམས་ཀྱི་མདུན་ན་གནས་༎
+K14bsa052_u:2160	 nityaṃ sarāgakuśalā nityaṃ tadvacanāḥ parāḥ /	K10D0287_H0289:425a-19	དེ་ཚིག་ཤིན་ཏུ་མི་བརྟན་ཏེ་༎ རྟག་ཏུ་འདོད་ཆགས་སྐྱེད་ལ་མཁས་༎
+K14bsa052_u:2161	 anyacca hṛdaye tāsāṃ kathayantyanyadeva vā // Dhs_9.3 //	K10D0287_H0289:425b-0	དེ་ཡི་སྙིང་ནི་༄༤༢༥བ་གཞན་སེམས་ལ་༎ གཞན་གྱི་ཚུལ་གྱིས་སྨྲ་བར་བྱེད་༎
+K14bsa052_u:2162	 āpātamadhurāḥ sūkṣmāḥ vipāke vajracetasaḥ /	K10D0287_H0289:425b-2	དང་པོར་མཉེན་ཞིང་སྲུན་བྱེད་ལ་༎ ཕྱི་ནས་སེམས་ནི་རྡོ་རྗེ་འདྲ་༎
+K14bsa052_u:2163	 nopakāreṇa satkāraṃ smaranti laghucetasaḥ // Dhs_9.4 //  striyo vidyutsvabhāvahṛdayā aticañcalāḥ	K10D0287_H0289:425b-4	སེམས་ནི་ཡང་ལ་ཕན་པ་མེད་༎
+K14bsa052_u:2165	 nāśayitvā priyaśataṃ smarantyekaṃ hi vipriyam /	K10D0287_H0289:425b-5	བཀུར་སྟི་དག་ནི་དྲན་མི་བྱེད༏་༏ལེགས་པ་བརྒྱ་ནི་ཆུད་གཟོན་ལ་༎ མ་ལེགས་གཅིག་པུ་དྲན་པར་བྱེད་༎
+K14bsa052_u:2166	 vidyutsvabhāvahṛdayāḥ striyaḥ pāpasya bhūmayaḥ // Dhs_9.5 //	K10D0287_H0289:425b-7	སྡིག་པའི་ས་གཞི་བུད་མེད་ཡིན་༎
+K14bsa052_u:2894	 dahyate 'vikṛta ātmā tailadīptirivānalaḥ /	K10D0287_H0289:432b-2	གནོད་སེམས་མེ་འདྲ་ཡོད་པ་ནི་༎ སྲེག་པ་དག་ལས་སྲེག་པ་ཐོབ་༎ དོན་མེད་ཅི་ཞིག་ཡོངས་སུ་སྨྲེ་༎
+K14bsa052_u:2895	 abhidhyādagdhamanasaḥ kāraṇaṃ nopalabhyate // Dhs_12.45 //  vyāpādaḥ sattvān mohayatyeva	K10D0287_H0289:432b-5	སེམས་ཅན་དམྱལ་བར་སྐྱེ་བ་ཡི༏་༏རྒྱུ་ནི་མི་ཟད་གནོད་སེམས་ཡིན་༎ ཐེག་པ་གང་གིས་བཅིངས་པ་ཡི་༎
+K14bsa052_u:2898	 vyāpādamohitāḥ sattvā nityaṃ tadgatamānasāḥ // Dhs_12.46 //	K10D0287_H0289:432b-8	གནོད་སེམས་དག་གིས་རྨོངས་པའི་མི་༎ རྟག་ཏུ་དེ་ལ་ཡིད་འཇུག་པ་༎
+K14bsa052_u:2899	 na śāntimadhigacchanti sarpā iva bileśayāḥ /	K10D0287_H0289:432b-10	ཞི་བར་ཤིན་ཏུ་མི་འགྱུར་ཏེ་༎ བུ་གའི་ནང་ན་སྦྲུལ་འདུག་བཞིན་༎
+K14bsa052_u:2900	 atha kūrasvabhāvā ye vyāpādaparamā narāḥ // Dhs_12.47 //	K10D0287_H0289:432b-12	མི་གང་གནོད་སེམས་མི་བཟད་ཅིང་༎ ཤིན་ཏུ་དྲག་པའི་ངོ་བོ་ནི་༎
+K14bsa052_u:2901	 na teṣāṃ vidyate saukhyamādityena yathā tamaḥ /	K10D0287_H0289:432b-14	ཉི་མ་ལ་ནི་མུན་པ་བཞིན་༎
+K14bsa052_u:3008	 sādṛśyasya hetuphalaṃ viparītaṃ na jātu hi /	K10D0287_H0289:460b-9	རྒྱུ་དང་འབྲས་བུ་མཐུན་པར་འབྱུང་༎ ནམ་ཡང་ལོག་པར་འབྱུང་མེད་དེ་༎
+K14bsa052_u:3010	 sahetukaṃ sarva karmaphalam	K10D0287_H0289:460b-12	རྒྱུ་དང་འབྲས་བུར་ཤིན་ཏུ་འབྱུང་༎
+K14bsa052_u:3011	 nāhetukaṃ phalaṃ dṛṣṭaṃ narake tu viśeṣataḥ /	K10D0287_H0289:460b-13	རྒྱུ་མེད་འབྲས་བུ་ཡོད་མ་མཐོང་༎
+K14bsa052_u:3012	 hetusaṅghātasaṃsaktaṃ narakeṣu vipacyate // Dhs_13.24 //	K10D0287_H0289:460b-14	སེམས་ཅན་དམྱལ་བར་རྣམ་པར་ཕྱེ་༎ རྒྱུ་སྦྱོར་ལས་ནི་འབྲས་བུར་སྦྱོར་༎ སེམས་ཅན་དམྱལ་བར་རྣམ་པར་འཚེད་༎
+K14bsa052_u:3013	 kṛtoparatagāḍhānāṃ niyataṃ pāpagāminām /	K10D0287_H0289:460b-17	བྱས་ཤིང་བསགས་པ་དྲག་པ་དང་༎ ངེས་པར་ངན་འགྲོར་འགྲོ་བ་ཡི་༎
+K14bsa052_u:3014	 karmaṇā phalasambandho narakeṣu vipacyate // Dhs_13.25 //	K10D0287_H0289:460b-18	ལས་དང་འབྲས་བུར་འབྲེལ་པ་ནི་༎
+K14bsa052_u:3016	 tasya neṣṭaṃ phalaṃ dṛṣṭaṃ tattvamārgavidarśakaiḥ // Dhs_13.26 //	K10D0287_H0289:460b-22	དེ་མི་འདོད་པ་ལམ་དེ་ཉིད་༎ རྣམ་པར་མཐོང་བས་འབྲས་བུ་མཐོང་༎
+K14bsa052_u:3018	 dīpādhīnā prabhā yadvat karmādhīnaṃ phalaṃ tathā /	K10D0287_H0289:460b-24	འོད་གང་སྒྲོན་ལ་རག་ལས་ཏེ་༎ དེ་བཞིན་འབྲས་བུ་ལས་ལ་ཐོགས་༎
+K14bsa052_u:3019	 anyo 'nyaphalasambhūtaḥ saṃskṛtaḥ sarva eva hi // Dhs_13.27 //	K10D0287_H0289:460b-26	གཞན་དང་གཞན་ལས་འབྲས་འབྱུང་སྟེ་༎ འདུས་བྱས་ཐམས་ཅད་དེ་འདྲའོ་༎
+K14bsa052_u:3021	 anyonyahetukā dṛṣṭā hyanyonyavaśavartinaḥ /  sādṛśyasyānubandhena dṛśyante tattvadarśakaiḥ // Dhs_13.28 //	K10D0287_H0289:460b-28	གཞན་དང་གཞན་ལས་དེ་མཐོང་སྟེ་༎ གཞན་དང་གཞན་དུ་དབང་སྦྱོར་རོ་༎ མཐུན་པར་རྗེས་སུ་འབྲེལ་བ་ནི་༎ དེ་ཉིད་མཐོང་བ་དག་གིས་མཐོང་༎
+K14bsa052_u:3023	 nāhetuphalasandhānamīśvarādibhirāsthitam /	K10D0287_H0289:460b-32	རྒྱུད་ལ་རྒྱུ་འབྲས་མེད་མིན་ཏེ་༎ དབང་ཕྱུག་ལ་སོགས་གནས་པ་མེད་༎
+K14bsa052_u:3024	 bhavanti saṃskṛtā dharmā deśitāstattvadarśibhiḥ // Dhs_13.29 //	K10D0287_H0289:460b-34	འདུས་བྱས་ཆོས་ཀུན་འབྱུང་བ་ནི་༎ དེ་ཉིད་མཐོང་བ་༄༤༦༡ཨ་༌༎
+K14bsa052_u:3025	 anādimatisaṃsāre hetupratyayasambhave /	K10D0287_H0289:461a-2	འཁོར་བ་ཐོག་མ་མེད་པ་ནས་༎ རྒྱུ་དང་རྐྱེན་ལས་བྱུང་བ་སྟེ་༎
+K14bsa052_u:3026	 sādṛśyaṃ karmaṇā dṛṣṭaṃ viparītaṃ na kalpyate // Dhs_13.30 //  buddhasya svarūpam	K10D0287_H0289:461a-4	ལས་རྣམས་དང་ནི་མཐུན་པར་མཐོང་༎ ལོག་པར་བརྟག་པར་མི་བྱའོ་༎
+K14bsa052_u:3028	 tatstheṣu karmavaśagāḥ prāṇinaḥ karmahetujāḥ /	K10D0287_H0289:461a-6	གང་འདོད་ལས་ཀྱི་དབང་སོང་བ་༎ སྲོག་ཆགས་ལས་ཀྱི་རྒྱུ་ལས་སྐྱེས་༎
+K14bsa052_u:3029	 sa karmaphalatattvajño (buddha)	K10D0287_H0289:461a-8	ལས་འབྲས་དེ་ཉིད་ཤེས་པ་དེ་༎
+K14bsa052_u:3032	 mārgāmārgaviruddhā ye mūḍhā buddhasya śāsane /	K10D0287_H0289:461a-18	སངས་རྒྱས་བསྟན་ལ་རྨོངས་པ་དང་༎ ལམ་དང་ལམ་མིན་རྨོངས་པ་གང་༎
+K14bsa052_u:3060	 saṃsāre sukhaṃ naivopalabhyate // Dhs_14.5 //	K10D0287_H0289:464b-15	འཁོར་བ་ཁབ་ཀྱི་རྩེ་ཙམ་ཡང་༎ བདེ་བ་ཉིད་ནི་ཅུང་ཟད་མེད་༎
+K14bsa052_u:3061	 duḥkhe duḥkhābhiṣaktānāṃ jantūnāṃ mūḍhacetasām /	K10D0287_H0289:464b-17	རྨོངས་པའི་སེམས་ཀྱིས་སྐྱེ་བོ་དག་། སྡུག་བསྔལ་ལས་ནི་བདེ་ལ་ཆགས་༎
+K14bsa052_u:3062	 sanmārgadeśiko nāsti yo 'smād duḥkhāt pramocayet // Dhs_14.6 //	K10D0287_H0289:464b-19	སྡུག་བསྔལ་འདི་ལས་ཐར་བ་གང་༎ གང་དག་ལམ་ནི་སྟོན་པ་མེད་༎
+K14bsa052_u:3063	 ye na dharmaparā nityaṃ ye na satyaparāḥ sadā /	K10D0287_H0289:464b-21	གང་དག་རྟག་ཏུ་ཆོས་མི་བསྒྲུབ་༎ གང་དག་རྟག་ཏུ་བདེན་མི་བསྒྲུབ་༎
+K14bsa052_u:3064	 ye ca yoniratā nityaṃ teṣāṃ duḥkhaṃ na hīyate // Dhs_14.7 //	K10D0287_H0289:464b-23	བསམ་གཏན་རྟག་ཏུ་མི་བསྒྲུབ་གང་༎ དེ་དག་སྡུག་བསྔལ་བྲལ་མི་འགྱུར་༎
+K14bsa052_u:3065	 dharma iha paratra ca sukhāvahaḥ	K10D0287_H0289:464b-25	འཇིག་རྟེན་འདི་དང་ཕ་རོལ་ཏུ་༎
+K14bsa052_u:3066	 mātṛvat pitṛvaccaiva (mitravad)  bandhuvat sadā /	K10D0287_H0289:464b-26	རྟག་ཏུ་མ་འདྲ་ཕ་འདྲ་ཞིང་༎ གཉེན་དང་འདྲ་ཞིང་སྒྲོན་འདྲ་བ་༎
+K14bsa052_u:3068	 dharmo vai deśito buddhairiha loke paratra ca // Dhs_14.8 //	K10D0287_H0289:464b-28	སངས་རྒྱས་ཀྱིས་ནི་ཆོས་བསྟན་ཏོ་༎
+K14bsa052_u:3069	 trigatyavasthitāḥ sattvāstridoṣavaśamāgatāḥ /  tridhātugatikā nityaṃ trilokyāṃ patitāḥ (janāḥ) // Dhs_14.9 //	K10D0287_H0289:464b-29	རྟག་ཏུ་ཉེས་གསུམ་དབང་སོང་བ་༎ ཕུང་པོ་གསུམ་ནས་སེམས་ཅན་དག་། རྟག་ཏུ་ཁམས་གསུམ་དག་ཏུ་འཇུག་།
+K14bsa052_u:3074	 triratne (na)  pramādyanti tribodhivaśagāśca ye /	K10D0287_H0289:465a-2	གང་ཞིག་དཀོན་མཆོག་མཆོག་གསུམ་དང་༎ གང་ཞིག་བྱང་ཆུབ་གསུམ་དབང་སོང་༎
+K14bsa052_u:3076	 tridṛṣṭivarjakā ye tu teṣāṃ duḥkhaṃ na vidyate // Dhs_14.11 //	K10D0287_H0289:465a-3	གང་ཞིག་ལྟ་བ་གསུམ་སྤངས་པ་༎ དེ་དག་ལ་ནི་སྡུག་བསྔལ་མེད་༎
+K14bsa052_u:3219	 pāpaṃ pāpānugaṃ dṛṣṭaṃ śubhasya ca śubhaṃ tathā // Dhs_15.17 //	K10D0287_H0289:418a-21	སྡིག་པས་སྡིག་པའི་རྗེས་སུ་འགྲོ་༎ དེ་བཞིན་དགེ་བས་དགེ་བར་མཐོང་༎
+K14bsa052_u:3220	 pāpī narakeṣupapadyate	K10D0287_H0289:418a-23	སྡིག་བྱེད་དགེ་ལ་སྡང་བ་ནི་༎ སེམས་ཅན་དམྱལ་བར་སྐྱེ་བར་འགྱུར་༎ མི་དགེའི་བློ་ཡིས་དགེ་བ་དག་། བཏང་ནས་ཅི་ཕྱིར་སྡིག་པར་འགྲོ་༎ རྨོངས་པས་རིན་ཆེན་པོར་ནས་སུ་༎
+K14bsa052_u:3222	 parivarjitapāpasya nityaṃ ca śubhacetasaḥ // Dhs_15.18 //	K10D0287_H0289:418a-32	ཅི་ཕྱིར་མང་དུ་སྤྱད་མི་བྱ་༎ སྡིག་པ་ཡོངས་སུ་སྤངས་པ་ཡིན་༎ སེམས་ནི་རྟག་ཏུ་དགེ་བ་དག་།
+K14bsa052_u:3223	 hastāvalambi nirvāṇamadṛṣṭaṃ tadanāvilam /	K10D0287_H0289:418b-0	མྱ་ངན་འདས་པ་༄༤༡༨བ་ལག་ན་ཡོད་༎ རྟོག་པ་རྣམས་ཀྱིས་མི་མཐོང་ངོ་༎
+K14bsa052_u:3224	 ādimadhyāntakalyāṇā dharmā nityaṃ sukhodayāḥ // Dhs_15.19 //	K10D0287_H0289:418b-2	ཐོག་མ་དབུས་དང་མཐའ་དགེ་བ་༎ བདེ་བའི་ཆོས་ནི་རྟག་ཏུ་འབྱུང་༎
+K14bsa052_u:3226	 ādimadhyāntakaṭukaṃ phalaṃ pāpasya karmaṇaḥ /	K10D0287_H0289:418b-4	ཐོག་མ་དབུས་དང་མཐར་མི་དགེ་།
+K14bsa052_u:3224	 ādimadhyāntakalyāṇā dharmā nityaṃ sukhodayāḥ // Dhs_15.19 //  tasmāt pāpaṃ vivarjayet  ādimadhyāntakaṭukaṃ phalaṃ pāpasya karmaṇaḥ /	K10D0287_H0289:460a-10	སྡིག་པ་བྱེད་ཚེ་བདེ་བ་ནི་༎
+K14bsa052_u:3232	 pāpakārī tu puruṣaḥ sarvaloke vigarhitaḥ /	K10D0287_H0289:460a-12	སྡིག་པ་བྱེད་པའི་མི་དག་ནི་༎ འཇིག་རྟེན་ཀུན་གྱིས་རྣམ་པར་སྨད་༎
+K14bsa052_u:3233	 śubhakārī sadā śāntastasmāt pāpaṃ vivarjayet // Dhs_15.22 //  dhīraistattvanidarśakaiḥ pāpavivarjanam	K10D0287_H0289:460a-14	དགེ་བ་བྱེད་པ་རྟག་ཏུ་བསྟོད་༎ དེ་བས་སྡིག་པ་རྣམ་པར་སྤོངས་༎
+K14bsa052_u:3235	 aniṣṭamahitaṃ dṛṣṭaṃ vipāke kaṭuvedanam /	K10D0287_H0289:460a-16	མི་འདོད་མི་ཕན་སྡང་བ་ཡི་༎ རྣམ་པར་སྨིན་པ་སྡུག་བསྔལ་ཚ་༎
+K14bsa052_u:3236	 pāpaṃ pāpavipākaṃ ca tasmād dhīmān vivarjayet // Dhs_15.23 //	K10D0287_H0289:460a-18	སྡིག་པ་སྡིག་པའི་རྣམ་སྨིན་ཏེ་༎ དེ་ལྟར་བློ་ལྡན་དེ་སྤོངས་ཤིག་།
+K14bsa052_u:3237	 asti pāpaṃ dhruvaṃ pāpe pāpamasti na pātakam /  pāpāceṣṭā kṣayāpekṣā kṛpā cittasugāmitā // Dhs_15.24 //	K10D0287_H0289:460a-20	སྡིག་ལ་རྟག་ཏུ་སྡིག་པ་ཡོད་༎
+K14bsa052_u:3501	 gacchannasi mahat tamaḥ // Dhs_16.57 //	K10D0287_H0289:372b-7	རྫོང་ནི་གཅིག་ཅིག་བརྒལ་བར་འགྱུར་༎ སྐྱེ་བོ་གང་ཞིག་སྐྱེ་བོ་འདོད་༎
+K14bsa052_u:3502	 nānyaḥ śatruryathā karma duṣkṛtaṃ tava pāpakam /  karmaṇā trividhenātha nīyase yamasādhanam // Dhs_16.58 //	K10D0287_H0289:372b-9	ཉེས་པར་བྱས་པ་མང་དུ་བྱེད་༎ སྐྱེ་བོས་སྐྱེ་བོ་སྐྱོབ་མི་ནུས་༎ སྐྱེ་བོ་རང་གིས་བྱས་ལ་སྤྱོད་༎
+K14bsa052_u:3504	 kasmādasi tato mūḍha,  vañcitaḥ putrasaṃjñakaiḥ /	K10D0287_H0289:372b-13	རྨོངས་པ་ཅི་ཡི་ཕྱིར་ན་བསླུས་༎
+K14bsa052_u:3506	 na dānādiṣu buddhistaiḥ kṛtā (te)  mohavañcitā // Dhs_16.59 //	K10D0287_H0289:372b-14	རྨོངས་པས་བསླུས་པ་ཁྱོད་ཀྱིས་སུ་༎
+K14bsa052_u:3508	 asmāṃllokātparaṃ lokaṃ śatrupṛṣṭhorago yathā /	K10D0287_H0289:372b-16	འཇིག་རྟེན་འདི་དང་ཕ་རོལ་གྱི་༎
+K14bsa052_u:3509	 śatrūṇāṃ prathamaḥ śatruḥ sarvapāpanidarśakaḥ // Dhs_16.60 //	K10D0287_H0289:372b-18	དགྲ་ཡི་ནང་ན་དགྲ་དང་པོ་༎ ངན་སོང་ཐམས་ཅད་རྣམ་སྟོན་པ་༎
+K14bsa052_u:3510	 viṣāgniśastrapratima/	K10D0287_H0289:372b-20	དུག་དང་མེ་དང་མཚོན་ལྟ་བུ་༎
+K14bsa052_u:3515	 narakasya dhvaniṃ śrutvā kathaṃ krandasi durmate/ /	K10D0287_H0289:374a-9	ཐོས་ནས་བློ་ངན་ཁྱོད་འཇིགས་སམ་༎
+K14bsa052_u:3516	 kiṃ punaryatra vahnistvāṃ dhakṣyati śuṣkakāṣṭhavat // Dhs_16.63 //	K10D0287_H0289:374a-10	གང་དུ་ཁྱོད་ནི་མེ་ཡིས་སུ་༎ ཤིང་ལྟར་བསྲེགས་ན་ཇི་ལྟར་བྱ་༎
+K14bsa052_u:3517	 na dagdhā vahninā ye ca dagdhāste kukṛtaiḥ svakaiḥ /	K10D0287_H0289:374a-12	མེ་ཡིས་བསྲེགས་པ་བསྲེག་པ་མིན་༎ ངན་པར་བྱས་པས་ཁྱོད་བསྲེགས་སོ་༎
+K14bsa052_u:3518	 vahnistu śāmyate kvāpi duṣkṛtāgnirna śāmyati // Dhs_16.64 //	K10D0287_H0289:374a-14	མེ་ནི་ཞི་བར་འགྱུར་སྲིད་ཀྱི་༎ ནམ་ཡང་ངན་བྱས་མེ་མི་ཞི་༎
+K14bsa052_u:3519	 nāgnirniryāti lokāntaṃ nāgnispṛṣṭo naro (mṛtaḥ) /	K10D0287_H0289:374a-16	མེ་ཡིས་འཇིག་རྟེན་མཐར་མི་ཁྱེར་༎ མེ་ཡི་ཕྱི་བཞིན་མེ་མི་འབྲང་༎
+K14bsa052_u:3520	 kukṛtāgnimayaṃ pāpaṃ yad dhakṣyati hi tattvataḥ // Dhs_16.65 //	K10D0287_H0289:374a-18	ངན་བྱས་སྡིག་པའི་མེ་འདི་ཡིས་༎ ཁྱོད་དང་བཅས་པར་མྱུར་བར་སྲེག་།
+K14bsa052_u:3521	 kukṛtāgnividagdhā ye te dagdhā narake narāḥ /	K10D0287_H0289:374b-0	ངན་༄༣༧༤བ་བྱས་མེ་ཡིས་གང་བསྲེགས་པ་༎ མི་དེ་དག་ནི་དམྱལ་བར་སྲེག་།
+K14bsa052_u:3522	 pāpāgnivarjitā ye tu na teṣāṃ narakodayaḥ /	K10D0287_H0289:374b-2	ངན་བྱས་མེ་ནི་གང་སྤོང་བ་༎ དེ་དག་དམྱལ་བའི་འཇིགས་པ་མེད་༎
+K14bsa052_u:3523	 yadyātmanaḥ priyo nityaṃ vibheṣi narakād yadi // Dhs_16.66 //	K10D0287_H0289:374b-4	གང་དག་བདག་ཏུ་གཅེས་འདོད་དང་༎ གལ་ཏེ་དམྱལ་བར་རྣམ་འཇིགས་ན་༎
+K14bsa052_u:3524	 vivarjaya svapāpāni tato duḥkhaṃ na yāsyasi /	K10D0287_H0289:374b-5	སྡིག་པ་དག་ནི་རྣམ་པར་སྤངས་༎ དེ་ལས་སྡུག་བསྔལ་འབྱུང་མི་འགྱུར་༎
+K14bsa052_u:3525	 yānti pāpamaye nityaṃ(narā)	K10D0287_H0289:374b-7	སྡིག་པ་ཤིན་ཏུ་རྣམ་སྤངས་པ་༎
+K14bsa052_u:3545	 tasmāt saṃmukṣya mā rodi kiṃ vṛthā paridevase /	K10D0287_H0289:374b-13	ཅི་ཕྱིར་རབ་ཏུ་མཆི་མ་འབྱིན་༎ ངན་བྱས་ཐོག་མ་བར་ཐ་མར་༎
+K14bsa052_u:3562	 mayā kṛtāni karmāṇi phaladāni mamaiva hi // Dhs_16.84 //	K10D0287_H0289:390b-13	བདག་གིས་ལས་དག་བྱས་པ་ཡི་༎ འབྲས་བུ་དེ་དགེ་བདག་ཉིད་ཡིན་༎
+K14bsa052_u:3563	 rogeṇa śatruṇā dagdhaḥ paścānnarakamāgataḥ /	K10D0287_H0289:391a-0	འདོད་ཆགས་༄༣༩༡ཨ་༌༎ དགྲ་ཡིད་གདུངས་པ་ནི་༎ ཕྱིས་ནས་སེམས་ཅན་དམྱལ་བར་འོངས་༎
+K14bsa052_u:3564	 pramādabhūmiraśubhā rāgadagdhasya dehinaḥ // Dhs_16.85 //	K10D0287_H0289:391a-3	འདོད་ཆགས་གདུངས་པའི་ལས་ཅན་གྱི་༎ བག་མེད་ས་ན་མི་གཙང་བའི་༎
+K14bsa052_u:3565	 tena pāśena baddho 'haṃ gato 'vasthāmimāṃ bhṛśam /	K10D0287_H0289:391a-5	ཞགས་པ་དེ་ཡིས་བཅིངས་པ་ཡིས་༎ བདག་ནི་གནས་འདི་དག་ཏུ་འོངས་༎
+K14bsa052_u:3567	 ajñānabādhito 'smīti svakṛtaṃ bhujyate mayā /	K10D0287_H0289:391a-9	མི་ཤེས་པ་ཡིས་བདག་བསླུས་པས་༎ འདིར་ནི་བདག་གིས་བྱས་ལ་སྤྱོད་༎
+K14bsa052_u:3568	 nirdayānāṃ sughorāṇāṃ pāpānāṃ vaśamāgataḥ // Dhs_16.87 //  muktiḥ kathaṃ syāt?  muktirasmāt kathaṃ syādvai duḥkhasaṃsārasāgarāt /	K10D0287_H0289:391a-11	བརྩེ་མེད་ཤིན་ཏུ་དྲག་པ་ཡི་༎ སྡིག་པ་དག་གི་དབང་དུ་སོང་༎
+K14bsa052_u:3574	 jīvo 'yaṃ vivaśo bhūtvā vikṛtaiḥ parivāritaḥ /	K10D0287_H0289:416a-1	བས་བཅིངས་ཏེ་གཤིན་རྗེའི་མི་མཆོག་ཏུ་འཇིགས་ཤིང་སྐྲག་པར་བྱེད་པ་དེ་དག་གིས་སྤྱོ་ཞིང་ལྷོ་ཕྱོགས་དག་ཏུ་ཁྲིད་པ་ན་། འདི་ལྟར་སྙིང་རྗེ་རྗེ་སྐད་ཡོངས་སུ་སྨྲེ་སྔགས་འདོན་ཏོ་༎ དེད་དཔོན་མི་མཁས་འཁྲུལ་པ་ལྟར་༎ ག-ཡོན་པའི་ས་ནས་བདག་ཉམས་སོ་༎ བྱད་བཞིན་བསྒྱུར་བས་ཡོངས་བསྐོར་ཅིང་༎
+K14bsa052_u:3575	 jvālāmālākulaṃ sarvamantarikṣaṃ nirantaram // Dhs_16.90 //  diśaśca tridiśaścaiva pṛthi(vī)	K10D0287_H0289:416a-6	དབང་མེད་འཇིགས་པ་དག་ཏུ་ཁྲིད་༎ རྟག་ཏུ་བར་སྣང་ཕྱོགས་དག་དང་༎ ཕྱོགས་མཚམས་ཉིད་དང་ས་རྣམས་དག་།
+K14bsa052_u:3577	 ca nirantarā /	K10D0287_H0289:416a-8	ཐམས་ཅད་བར་ཆད་མེད་པར་ནི་༎
+K14bsa052_u:3578	 kṛpaṇo 'jñānago duḥkhī nivāsaṃ nopalakṣaye // Dhs_16.91 //  kṣuradhārāvitaptasya nṛpasyāsyātibhīṣaṇam /	K10D0287_H0289:416a-9	འབར་བའི་ཕྲེང་བ་དག་གིས་འཁྲུགས་༎ སྡུག་བསྔལ་དབང་མེད་གང་དུ་ཁྲིད་༎ བདག་གིས་གནས་ནི་མི་ཤེས་སོ་༎
+K14bsa052_u:3580	 kāntāre bāhyamānasya niḥ sahāyasya sarvataḥ /	K10D0287_H0289:416a-12	འབྲོག་དགོན་དག་ཏུ་བདས་པ་ན་༎ ཀུན་ནས་གྲོགས་ནི་བྱེད་པ་མེད་༎
+K14bsa052_u:3581	 trātāraṃ nāvagacchāmi yo 'smād duḥkhāt pramocayet // Dhs_16.92 //	K10D0287_H0289:416a-14	སྡུག་བསྔལ་འདི་ལས་རྣམ་གྲོལ་བར་༎ མགོན་སྐྱབས་བྱེད་པ་གང་ཡང་མེད་༎
+K14bsa052_u:3582	 niḥśaktiravaśo duḥkhī vahninā paritāpitaḥ /	K10D0287_H0289:416a-16	ནུས་པ་མེད་ཅིང་དབང་མེད་ལ་༎ སྡུག་བསྔལ་མེ་ཡིས་ཡོངས་གདུངས་སོ་༎
+K14bsa052_u:3583	 nīye 'haṃ vivaśaḥ kvāpi bāhubandhanayantritaḥ // Dhs_16.93 //	K10D0287_H0289:416a-18	བཅིངས་བས་ལག་པ་བཅིངས་ནས་སུ་༎ དབང་མེད་བདག་ནི་གང་དུ་ཁྲིད་༎
+K14bsa052_u:3584	 na vārthā nāpi mitrāṇi na putrā na ca yoṣitaḥ /	K10D0287_H0289:416a-20	དོན་རྣམས་དང་ནི་མཛའ་བ་ཤེས་དང་༎ བུ་དག་དང་ནི་ཆུང་མ་ལ་༎
+K14bsa052_u:3585	 trāyante vyasanādasmāt kṛtaghnā bata te mama // Dhs_16.94 //  adharmacāriṇo na kvāpi śaraṇam	K10D0287_H0289:416a-21	ཀྱི་ཧུད་བདག་དྲིན་ཆུད་ཟོས་ཏེ་༎ སྡུག་བསྔལ་འདི་ལས་སྐྱོབ་མི་བྱེད་༎
+K14bsa052_u:3587	 nirānandasya na sukhaṃ duḥkhaṃ (gṛhṇāmi sarvaśaḥ) /	K10D0287_H0289:416a-23	དགའ་བ་མེད་ཅིང་ཉམས་གྱུར་ལ་༎ སེམས་ནི་སྡུག་བསྔལ་དག་གིས་ཉམས་༎
+K14bsa052_u:3588	 mṛtyupāśena baddhasya śaraṇaṃ nopalakṣyate // Dhs_16.95 //	K10D0287_H0289:416a-25	འཆི་བའི་ཞགས་པས་གཟུང་བ་ཡི་༎ སྐྱབས་ནི་ཉེ་བར་མི་མངོན་ནོ་༎
+K14bsa052_u:3593	 yacca yaccehaṃ paśyāmi jaṅgamaṃ sthāvaraṃ tathā /	K10D0287_H0289:416b-3	བདག་གིས་གང་དང་གང་མཐོང་བ་༎ ཡུལ་དང་དེ་བཞིན་དགོན་པ་སྟེ་༎
+K14bsa052_u:3594	 tat sarva vyākulaṃ caiva vahninā paridīpitam // Dhs_16.97 //	K10D0287_H0289:416b-5	དེ་དང་དེ་དག་ཀུན་གྱི་ནང་༎ ཐམས་ཅད་མེ་ཡིས་ཡོངས་སུ་བསྐོར་༎
+K14bsa052_u:3595	 nādhigacchāmi śaraṇaṃ niḥsahāyo 'smi sarvataḥ /  ghore tamasi majjāsi sāgare ca hṛtaplavaḥ // Dhs_16.98 //	K10D0287_H0289:416b-7	ཕྱོགས་རྣམས་ཀུན་ན་དགའ་མེད་དེ་༎ འཁྲུག་པ་དག་གིས་ཡོངས་སུ་བསྐོར་༎ སྐྱབས་སུ་འགྱུར་བ་ཡོང་མེད་ཅིང་༎ བདག་ལ་ཀུན་ནས་གྲོགས་མེད་དོ༏་༏མུན་གང་མི་བཟད་ནང་དུ་འཇུག་། མེ་མདག་ཕུང་པོར་བཅས་པས་བསྒྲིབས་༎
+K14bsa052_u:3597	 gaganaṃ naiva paśyāmi nakṣatragrahatārakam /	K10D0287_H0289:416b-12	ནམ་མཁའ་རྒྱུ་སྐར་གཟའ་དག་དང་༎ སྐར་མ་དག་ཀྱང་མི་མཐོང་སྟེ་༎
+K14bsa052_u:3598	 viparītamidaṃ sarva tamasā parivāritam // Dhs_16.99 //	K10D0287_H0289:416b-13	འདི་དག་ཐམས་ཅད་ལོག་པ་ཡིན་༎ མུན་གང་དག་གིས་ཡོངས་སུ་བསྐོར་༎
+K14bsa052_u:3599	 pañcendriyāṇi sarvāṇi viratāni hi sarvataḥ /	K10D0287_H0289:416b-15	དབང་པོ་ལྔ་ནི་ཐམས་ཅད་དག་། ཀུན་ནས་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་༎
+K14bsa052_u:3600	 krakacaistu tadā sarva śarīraṃ paripāṭayate // Dhs_16.100 //	K10D0287_H0289:416b-17	བདག་གི་ལུས་ནི་ཐམས་ཅད་དག་། སོག་ལེས་ཡོངས་སུ་གཤེག་པར་བྱེད་༎
+K14bsa052_u:3601	 nādhigacchāmi śaraṇaṃ kāmaṃ bandho bhaviṣyati /  vardhante duḥkhanikarā sarvataḥ parivārataḥ // Dhs_16.101 //	K10D0287_H0289:416b-19	སྐྱབས་སུ་འགྱུར་པ་ཡོང་མེད་དེ་༎ བདག་གི་གནས་ནི་གར་འགྱུར་ཞིག་། སྡུག་བསྔལ་ཚོགས་ནི་འཕེལ་འགྱུར་ཏེ་༎
+K14bsa052_u:2789	 yaiścittaṃ nirjitaṃ dhīraiste loke sukhino matāḥ // Dhs_11.107 //  // iti cittavarga ekādaśaḥ //  (12) vāgvargaḥ  nirvāṇābhilāṣukaḥ pāruṣyaṃ varjayet  pāruṣyaṃ varjayet dhīmān samyagvāg bhīrato bhavet /	K10D0287_H0289:186b-8	ཚིག་སྙན་མངོན་པར་དགའ་བའི་མི་༎
+K14bsa052_u:2794	 mādhuryābhirato jarntunirvāṇasyāntike sthitaḥ // Dhs_12.1 //	K10D0287_H0289:186b-9	མྱ་ངན་འདས་ལ་ཉེ་བར་གནས་༎
+K14bsa052_u:2795	 vācaṃ paśyan sadābhāṣenmalināṃ ca vivarjayet /	K10D0287_H0289:186b-10	ཚིག་ནི་རྟག་ཏུ་སྨྲ་བྱ་ཞིང་༎ དྲི་མ་ཡོད་པ་རྣམ་པར་སྤང་༎
+K14bsa052_u:2796	 vāṅmanenābhibhūtā ye te yānti narakaṃ narāḥ // Dhs_12.2 //	K10D0287_H0289:186b-12	ཚིག་གི་དྲི་མས་ཟིལ་ནོན་པ་༎ མི་གང་དེ་ནི་དམྱལ་བར་འགྲོ་།
+K14bsa052_u:2807	 tamasāṃ yonirekā sā yāṃ vācaṃ bhāṣate mṛṣā // Dhs_12.7 //  satyena hīnāḥ puruṣāḥ sarvasādhuvivarjitāḥ /	K10D0287_H0289:186b-17	དེ་དག་ལ་ནི་མཐོ་རིས་མེད་༎ གང་དག་ཚིག་རྩུབ་མི་སྨྲ་ཞིང་༎ གང་དག་ག-ཡོ་ནི་རྣམ་སྤངས་པ་༎
+K14bsa052_u:4590	 pitṛvat sarvabhūtāni lokastamanupaśyati // Dhs_30.1 //	K10D0287_H0289:206a-8	འབྱུང་བོ་ཀུན་གྱི་ཕ་ལྟ་བུར་༎ དེ་ལ་འཇིག་རྟེན་རྗེས་སུ་ལྟ་༎
+K14bsa052_u:4591	 adattādānavirato nityaṃ jñānī jitendriyaḥ /  praśāntadehakarmā (ca)	K10D0287_H0289:206a-10	མ་བྱིན་ལེན་པ་སྤངས་པ་ནི་༎ རྟག་ཏུ་ཤེས་ལྡན་དབང་པོ་ཐུལ་༎
+K14bsa052_u:4593	 tīrṇasambhavasaṅkramaḥ // Dhs_30.2 //	K10D0287_H0289:206a-12	ལུས་ཀྱི་ལས་མཐའ་དགེ་བ་དང་༎ སྲིད་པ་དག་ལས་དེ་བརྒལ་ལོ་༎
+K14bsa052_u:4594	 nāpyālekhyagatā nāpi cakṣuṣā sā nirīkṣyate /	K10D0287_H0289:206a-13	རི་མོར་བྲིས་པའི་བུད་མེད་ལ་༎ མིག་གིས་ལྟ་བར་མི་བྱེད་དེ་༎
+K14bsa052_u:4595	 hatakāmo dṛṣṭasatyo muktastādṛśa ucyate // Dhs_30.3 //	K10D0287_H0289:206a-15	འཇིག་རྟེན་འདོད་པ་དམ་བཅོམ་པ༏་༏དེ་ལྟ་བུ་ནི་གྲོལ་ཞེས་བྱ་༎
+K14bsa052_u:4596	 samaloṣṭāśmakanakaḥ vītaśokaḥ samāhitaḥ /	K10D0287_H0289:206a-16	དཔའ་ལ་བོང་བ་གསེར་དུ་འདྲ་༎ མྱ་ངན་བྲལ་ཞིང་མཉམ་པར་གཞག་།
+K14bsa052_u:4597	 na kleśoragasampṛktaḥ sa saukhyaṃ dhruvamāpnuyāt // Dhs_30.4 //  kaḥ bhikṣurvidyate?	K10D0287_H0289:206a-18	ཉོན་མོངས་འདོད་ཆགས་མ་འདྲེས་པ་༎ དེ་ནི་མཐའ་ཡས་སྒོ་ཐོབ་བོ་༎
+K14bsa052_u:4599	 arthānarthasamo yasya lābhālābhau tathaiva ca /	K10D0287_H0289:206a-20	གང་ལ་དོན་དང་དོན་མིན་མཉམ་༎
+K14bsa052_u:4600	 sukhaduḥkhasamāyuktaḥ bhikṣuḥ sa khalu kathyate // Dhs_30.5 //	K10D0287_H0289:206a-21	དེ་བཞིན་རྙེད་དང་མ་རྙེད་དང་༎ བདེ་དང་སྡུག་བསྔལ་སེམས་མཉམ་པ་༎ དེ་ནི་དགེ་སློང་ཞེས་བྱའོ་༎
+K14bsa052_u:4601	 mitrāmitraprahīṇo yaḥ samacetā jitendriyaḥ /	K10D0287_H0289:206a-23	མཛའ་བཤེས་མི་བཤེས་གཉིས་ཀ་སྤངས་༎ སེམས་ནི་མཉམ་ཞིང་དབང་པོ་ཐུལ༏་༏གང་དག་ཡུལ་གྱིས་ཉོན་མི་མོངས་༎
+K14bsa052_u:4602	 vibheti yo na viṣayaiḥ vijñeyastādṛśo yatiḥ // Dhs_30.6 //	K10D0287_H0289:206a-25	དེ་འདྲ་བྲམ་ཟེར་ཤེས་པར་བྱ་༎
+K14bsa052_u:4605	 na tasya dūre nirvāṇaṃ samyaksambuddhadeśitam // Dhs_30.7 //	K10D0287_H0289:206a-28	རྫོགས་སངས་རྒྱས་ཀྱིས་བཤད་པ་ཡི་།
+K14bsa052_u:4606	 udayavyayatattvajñaḥ samyagdṛṣṭiralolupaḥ /	K10D0287_H0289:206b-1	སྐྱེ་དང་འཇིག་པའི་དེ་ཉིད་ཤེས་༎ ཡང་དག་ལྟ་ལ་ཆགས་པ་མེད་༎
+K14bsa052_u:4607	 himavāniva niṣkramya saṃsārānmuktahetukaḥ // Dhs_30.8 //  tṛṇacandanatulyo hi samatṛṣṇāmbarāśinaḥ /	K10D0287_H0289:206b-3	གངས་རི་ལྟ་བུར་བློ་མི་ག-ཡོ་༎ དེ་ནི་འཁོར་བ་ལས་གྲོལ་ལོ་༎ ཙནདན་དང་ནི་རལ་གྲིར་མཉམ་༎
+K14bsa052_u:4609	 sa kauśeyasaṅghaṭitatṛṣṇayā naiva bādhate // Dhs_30.9 //	K10D0287_H0289:206b-6	ཟས་ནི་ཞིམ་དང་མི་ཞིམ་མཉམ་༎ ཟབ་དར་སྣམ་བུ་མཉམ་པ་ནི་༎ སྲིད་པས་གནོད་པར་མི་འགྱུར་རོ་༎
+K14bsa052_u:4610	 lābhasatkārasantuṣṭaḥ santuṣṭastṛṇasaṃstaraiḥ /	K10D0287_H0289:206b-9	རྙེད་དང་བཀུར་སྟི་མི་དགའ་ཞིང་༎ རཙབ༹་སྟན་ཙམ་གྱིས་ཆོག་ཤེས་ལ་༎
+K14bsa052_u:4611	 vahnivallābhasatkāraṃ yaḥ paśyati sa paśyati // Dhs_30.10 //  buddhadeśitāḥ bhikṣudharmāḥ	K10D0287_H0289:206b-11	རྙེད་དང་བཀུར་སྟི་མེ་ལྟ་བུར་༎ གང་གིས་མཐོང་བ་དེ་མཐོང་ངོ་༎
+K14bsa052_u:4613	 vāhyate yo na viṣayaistṛṇanadyā na vāhayate /	K10D0287_H0289:206b-13	གང་དག་ཡུལ་གྱི་དབང་མི་འགྱུར་༎ སྲེད་པའི་ཆུ་བོར་མི་འཇུག་ལ་༎
+K14bsa052_u:4614	 svakarmaphalatattvajñaḥ sa bhikṣurbuddhadeśitaḥ // Dhs_30.11 //	K10D0287_H0289:206b-15	རང་གི་ལས་འབྲས་དེ་ཉིད་ཤེས་། ད་།ཨེ་ནི་དགེ་སློང་སངས་རྒྱས་གསུངས་།
+K14bsa052_u:4615	 nātītaṃ śocate yo hi buddhayā (caiva)	K10D0287_H0289:206b-17	གང་དག་འདས་པའི་དུས་མི་འདོད་༎ མ་འོངས་པ་ལ་བློ་མི་དགའ༎
+K14bsa052_u:4617	 pratyutpannakriyāyogī na buddhistasya lipyate // Dhs_30.12 //	K10D0287_H0289:206b-19	རྣལ་འབྱོར་པ་ནི་ད་ལྟར་ལ་༎
+K14bsa052_u:4633	 sarvendriyavighātī yaḥ sarvabhūtahite rataḥ /	K10D0287_H0289:213a-10	གང་དག་དབང་པོ་ཀུན་འཛིན་པ་༎ འབྱུང་པོ་ཀུན་ལ་ཕན་པར་དགའ༎
+K14bsa052_u:4634	 śānto dāntendriyaḥ svastho bhikṣurbhavati tādṛśaḥ // Dhs_30.20 //	K10D0287_H0289:213a-12	དབང་པོ་བདེ་ཞིང་ཞི་ལ་དུལ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4635	 ṣaḍindriyarathārūḍho rāgaśatrunivārakaḥ /	K10D0287_H0289:213a-14	ཇི་ལྟར་དབང་པོ་དུལ་ལ་གནས་༎ འདོད་ཆགས་དགྲ་ནི་ཟློག་པར་བྱེད་༎
+K14bsa052_u:4636	 prajñādhīraḥ kriyāvān yaḥ sa śāntipadamaśnute // Dhs_30.21 //	K10D0287_H0289:213a-16	དཔའ་བོ་ཤེས་རབ་བྱེད་ལྡན་གང་༎ དེ་ནི་ཞི་བའི་གནས་འཐོབ་བོ་༎
+K14bsa052_u:4637	 araṇyavāsī santuṣṭo bhūmivāsī samāhitaḥ /	K10D0287_H0289:213a-18	དགོན་པར་གནས་ལ་དགའ་བྱེད་ཅིང་༎ མཉམ་གཞགས་ལ་གནས་པ་ནི་༎
+K14bsa052_u:4638	 dhunāti pāpako dharmaścāyurmeghānivāmbaraḥ // Dhs_30.22 //	K10D0287_H0289:213a-20	མཁའ་སྤྲིན་རླུང་གིས་གཏོར་བ་ལྟར་༎ སྡིག་པའི་ཆོས་རྣམས་འཇིག་པར་བྱེད་༎
+K14bsa052_u:4639	 śubhaṃ vā dehakarmāntaḥ śubhacaryāsu saṃrataḥ /	K10D0287_H0289:213a-22	ལུས་ངག་ལས་ཀྱི་མཐའ་དགེ་ཞིང་༎ སྤྱོད་པ་དགེ་ལ་ཡང་དག་དགའ༎
+K14bsa052_u:4640	 tattvadṛṣṭiḥ kriyādakṣo nāśayanmārasādhanam // Dhs_30.23 //	K10D0287_H0289:213a-24	དེ་ཉིད་ལྟ་ཞིང་བྱ་བ་མཁས་༎ བདུད་ཀྱིས་སྒྲུབ་པ་འཇིག་པར་བྱེད་༎
+K14bsa052_u:4641	 dayālurbhikṣurnirvāṇamārge sthito bhavati  rāgātyaye na bādheta śubhacittaṃ gatālayam /	K10D0287_H0289:213a-26	འདོད་ཆགས་ལ་སོགས་མི་གནོད་ཅིང་༎ དགེ་བའི་སེམས་ལ་བརྐམ་ཆགས་མེད་༎ བྱམས་དང་སྙིང་རྗེ་མང་བ་ནི་༎
+K14bsa052_u:4644	 yasya rūpādayo neṣṭā viṣayā bandhahetave /  sa yāti paramāṃ śāntiṃ yatra gatvā na śocyate // Dhs_30.25 //	K10D0287_H0289:222a-9	དོན་ཞིབ་ངེས་པར་བྱས་པ་ཡིན་༎ ཐར་པའི་རྒྱུན་ལ་མངོན་དགའ་ན་༎ སྲེད་པས་ཁྱེར་བར་མི་འགྱུར་རོ་༎ ལུས་ཅན་ཐམས་ཅད་ལས་དག་གི་།
+K14bsa052_u:4648	 yo nādatte 'śubhaṃ karma śubhakarmarataḥ sadā /	K10D0287_H0289:222a-15	གང་ཞིག་མི་དགེ་མི་ལེན་ཅིང་༎ རྟག་ཏུ་དགེ་བའི་ལས་དགའ་བ་༎
+K14bsa052_u:4649	 candrāṃśunirmalagatiryogī bhavati tādṛśaḥ // Dhs_30.27 //	K10D0287_H0289:222a-17	ཟླ་འོད་དྲི་མ་མེད་པ་ལྟར་༎ རྣལ་འབྱོར་འགྲོ་བ་དེ་འདྲར་འགྱུར་༎
+K14bsa052_u:4650	 pradahan pāpakān dharmān śuṣkendhanamivānalaḥ /	K10D0287_H0289:222a-19	མེ་ཡིས་ཤིང་སྐམ་བསྲེགས་པ་ལྟར་༎ སྡིག་པའི་ཆོས་རྣམས་རབ་བསྲེགས་པ༏་༏སྡིག་ལས་གྲོལ་ཞིང་ཉོན་མོངས་རྒྱལ་༎
+K14bsa052_u:4651	 vibhrājate tribhuvane muktapāyo gatavyathaḥ // Dhs_30.28 //	K10D0287_H0289:222a-21	ས་གསུམ་དག་ཏུ་རྣམ་པར་མཛེས་༎
+K14bsa052_u:4652	 mokṣe 'sti yasya tu mano na saṃsāre kathañcana /	K10D0287_H0289:222a-22	གང་ཞིག་ཡིད་ནི་ཐར་འདོད་ཅིང་༎ ནམ་ཡང་འཁོར་བར་མི་དགའ་བ་༎
+K14bsa052_u:4653	 nāsau badhnāti saṃsāre muktaḥ pakṣī yathāmbare // Dhs_30.29 //	K10D0287_H0289:222a-24	དེ་ནི་འཁོར་བར་མི་འཆིང་སྟེ་༎ ༄༢༢༢བ་མཁའ་ལ་བྱ་ནི་འགྲོ་བ་བཞིན་༎
+K14bsa052_u:4654	 vedanodayatattvajño vedanāphalaniścayaḥ /	K10D0287_H0289:222b-1	གང་ཞིག་ཚོར་འབྱུང་དེ་ཉིད་ཤེས་༎ ཚོར་བའི་འབྲས་བུ་རག་པ་ནི་།
+K14bsa052_u:4655	 sa mukta iti vijñeyastattvavid ṛtavāṃśca saḥ // Dhs_30.30 //	K10D0287_H0289:222b-3	དེ་ཉིད་གྲོལ་བར་ཤེས་པར་བྱ་༎
+K14bsa052_u:4656	 tathāpyete sukhaduḥkhe mṛṣṭāmṛṣṭairna lipyate /	K10D0287_H0289:222b-4	དེ་ཉིད་རིག་པ་སྲིད་གསུམ་དུ་༎ བདེ་སྡུག་གིས་ནི་དེ་མ་གནོད་༎ ཞིམ་དང་ང་བས་གོས་པ་མེད་༎
+K14bsa052_u:4657	 dīptaṃ paśyati saṃsāraṃ yaḥ sa yogī satāṃ mataḥ // Dhs_30.31 //  bhikṣurbhavati kīdṛśaḥ?	K10D0287_H0289:222b-7	གང་དག་སྲིད་པ་འབར་པ་ལྟར་༎ རྣལ་འབྱོར་དེ་ནི་བསམ་པ་ལྡན་༎
+K14bsa052_u:4659	 athāmūḍhamatirnityaṃ nityaṃ dharmaparāyaṇaḥ /	K10D0287_H0289:222b-9	བློ་གྲོས་རྟག་ཏུ་མི་རྨོངས་ཤིང་༎ རྟག་ཏུ་ཆོས་ཀྱི་ཕ་རོལ་འགྲོ་༎
+K14bsa052_u:4660	 bhikṣuvṛttāvabhirato bhikṣurbhavati tādṛśaḥ // Dhs_30.32 //	K10D0287_H0289:222b-11	དགེ་སློང་སྡོམ་ལ་མངོན་དགའ་བ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4661	 na tṛptirdarśanārāmaiḥ sādhūnāṃ darśane ratiḥ /	K10D0287_H0289:222b-13	གཉེན་ལྟ་བ་ལ་དགའ་མེད་ཅིང་༎ མཁས་པ་དག་ལ་ལྟ་འདོད་ལ་༎
+K14bsa052_u:4662	 niṣkrāntagṛhakalmāṣo bhikṣurbhavati tādṛśaḥ // Dhs_30.33 //	K10D0287_H0289:222b-15	ཁྱིམ་གྱི་སྐྱོན་ལས་ངེས་འབྱུང་བ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4665	 saṃrakṣito śmaśāneṣu bhikṣurbhavati tādṛśaḥ // Dhs_30.34 //	K10D0287_H0289:222b-20	དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎ ཁྲོ་མེད་ཁྱིམ་ལ་སྤྱོད་མེད་ཅིང་༎ ཚོང་ཟོང་ཉོ་འཚང་མི་བྱེད་ལ་༎ སྲང་དང་བཞི་མདོར་མི་དགའ་བ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4666	 ekāhaṃ paramaṃ piṇḍamādatte 'nyatra kāṅkṣati /	K10D0287_H0289:222b-25	གླུ་དང་གར་ལ་མི་ལྟ་ཞིང་༎ ཉེས་རྩོམ་རྣམས་ལ་ཆགས་མེད་ལ་༎ གང་དག་དུར་ཁྲོད་དགའ་བྱེད་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎ ཉི་མ་གཅིག་ལ་བསོད་སྙོམས་མཆོག་། བླངས་ནས་སང་གིར་མི་སེམས་ལ་༎
+K14bsa052_u:4667	 tribhāgakukṣisantuṣṭo bhikṣurbhavati tādṛśaḥ // Dhs_30.35 //	K10D0287_H0289:222b-31	ལྟོ་འདྲངས་ཙམ་གྱིས་ཆོག་བྱེད་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4668	 vastrottamavivarjī yaḥ pāṃsukūleṣu rajyate /	K10D0287_H0289:222b-33	གང་དག་གོས་མཆོག་རྣམ་སྤོང་ཞིང་༎ ཕྱག་དར་ཁྲོད་ཀྱིས་ཆོག་འཛིན་ལ་༎
+K14bsa052_u:4669	 muktāhāravihāro yo bhikṣurbhavati tādṛśaḥ // Dhs_30.36 //	K10D0287_H0289:222b-35	གང་དག་རིགས་ཟས་ཟ་བར་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4670	 karmāṇyārabhate yo na nirāśaḥ sa ca karmasu /	K10D0287_H0289:222b-37	གང་དག་ལས་ནི་མི་རྩོམ་ཞིང་༎ ལས་རྣམས་ཀུན་ལ་བསམ་མེད་ལ་༎
+K14bsa052_u:4671	 niruddhako noparato bhikṣurbhavati tādṛśaḥ // Dhs_30.37 //	K10D0287_H0289:222b-39	སྤྲོ་མེད་འདུད་པ་མེད་པ་ཡིན་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4672	 kāyakoṭivinirmukto mohadhvāntavivarjitaḥ /	K10D0287_H0289:223a-0	འདོད་པའི་ཁྲོ་༄༢༢༣ཨ་༌༎ ལས་རྣམ་གྲོལ་ཞིང་༎ གཏི་མུག་འདམ་ནི་རྣམ་སྤངས་ལ་༎
+K14bsa052_u:4673	 aliptaḥ pāpakairdharmaibhikṣurbhavati tādṛśaḥ // Dhs_30.38 //	K10D0287_H0289:223a-3	སྡིག་པའི་ཆོས་ཀྱིས་མ་གོས་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4675	 sarvāśayavinirmukto bhikṣurbhavati tādṛśaḥ // Dhs_30.39 //	K10D0287_H0289:223a-7	བསམ་པ་ཀུན་ལས་རྣམ་གྲོལ་བ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4676	 āryāṣṭāṅgena mārgeṇa nirvāṇapurataḥ sthitaḥ /	K10D0287_H0289:223a-9	འཕགས་ལམ་ཡན་ལག་བརྒྱད་པ་ཡིས་༎ གང་དག་ཉོན་མོངས་ཀུན་བཅོམ་པ་༎
+K14bsa052_u:4677	 sarvārthadharmatā hyeṣā bhikṣurbhavati tādṛśaḥ // Dhs_30.40 //	K10D0287_H0289:223a-12	དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4678	 śāntendriyo dṛḍhamatiḥ kāmapākavivarjitaḥ /	K10D0287_H0289:223a-13	དབང་པོ་དུལ་ཞིང་བློ་གྲོས་བརྟན་༎ འདོད་པའི་འདམ་ནི་རྣམ་པར་སྤངས་༎
+K14bsa052_u:4679	 ekāgrasaṃsthitamanā bhikṣurbhavati tādṛśaḥ // Dhs_30.41 //	K10D0287_H0289:223a-15	རྩེ་གཅིག་ཡིད་ནི་ལེགས་གནས་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4680	 bhūmisaṅkramaṇajño yo bhūmitattvanidarśakaḥ /	K10D0287_H0289:223a-17	གང་དག་ས་ཡི་རིམ་ཤེས་ལ་༎ སེ་ཡི་དེ་ཉིད་སྟོན་བྱེད་ཅིང་༎
+K14bsa052_u:4681	 bhūmeḥ parāparajño yo bhikṣurbhavati tādṛśaḥ // Dhs_30.42 //	K10D0287_H0289:223a-19	གང་དག་ཕན་ཚུན་ས་ཤེས་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4682	 sambhavāsambhavān dharmān hetupratyayasambhavān /  jānīte vidhivat sarvān bhikṣurbhavati tādṛśaḥ // Dhs_30.43 //	K10D0287_H0289:223a-21	ཟག་བཅས་ཟག་པ་མེད་པའི་ཆོས་༎ རྒྱུ་དང་རྐྱེན་དུ་འབྱུང་བ་དག་། རྣམ་པ་བཞིན་དུ་ཀུན་ཤེས་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4684	 brahmacārī ṛtujñānī styānamiddhavivarjitaḥ /	K10D0287_H0289:223a-25	ཚངས་པར་སྤྱོད་པ་དྲང་ཞིང་ཞི་༎ རྨུགས་དང་གཉིད་ནི་རྣམ་སྤངས་ལ་༎
+K14bsa052_u:4685	 kalpodagro 'vanau dakṣo bhikṣurbhavati tādṛśaḥ // Dhs_30.44 //	K10D0287_H0289:223a-27	ནང་པར་ལྡང་ཞིང་མཁས་གཙང་བ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4686	 śamasthovipaśyanāśca caturdhyānarataśca yaḥ /	K10D0287_H0289:223a-29	གང་ཞིག་ཞི་གནས་ལྷག་མཐོང་ལ་༎ དགའ་ཞིང་བསམ་གཏན་བཞི་ལ་དག་།
+K14bsa052_u:4687	 ālaye muditārāmo bhikṣurbhavati tādṛśaḥ // Dhs_30.45 //	K10D0287_H0289:223a-34	གང་བློ་དམ་པའི་ཆོས་ལ་གནས་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:2514	 eṣa badhnāti puruṣo nṛpateryamaśāsane // Dhs_11.8 //	K10D0287_H0289:270a-3	གཤིན་རྗེའི་གནས་སུ་ཁྲིད་པར་བྱེད་༎
+K14bsa052_u:2515	 viṣayeṣu ratā nityaṃ na sa dharmaḥ kathañcana /	K10D0287_H0289:270a-4	ཡུལ་རྣམས་ལ་ནི་རྟག་རྒྱུག་ཅིང་༎ དམ་པའི་ཆོས་ལ་མི་རྒྱུག་ལ་༎
+K14bsa052_u:2516	 saddharmapathasammūḍho narakaṃ nayate mahat // Dhs_11.9 //	K10D0287_H0289:270a-6	དམ་ཆོས་ལམ་ལ་རྨོངས་པ་ནི་༎ སེམས་ཅན་དམྱལ་བ་ཆེན་པོར་ཁྲིད་༎
+K14bsa052_u:2517	 durdamānāṃ paraṃ cittamanīnāmagniruttamaḥ /  durdāntaṃ śīghragantṛ ca narakaṃ nayate dhruvam // Dhs_11.10 //	K10D0287_H0289:270a-8	གདུལ་བའི་ནང་ན་སེམས་གདུལ་དཀའ༎ མེ་ཡི་ནང་ན་མེ་མཆོག་སྟེ༏་༏གདུལ་དཀའ་མྱུར་དུ་འགྲོ་བ་ནི་༎
+K14bsa052_u:2519	 ye cittasya vaśaṃ yātā yātāste narakaṃ purā /	K10D0287_H0289:270a-10	དམྱལ་བའི་ནང་ན་དམྱལ་བ་ཡིན་༎ གང་དག་སེམས་ཀྱི་དབང་སོང་བ་༎
+K14bsa052_u:3404	 yeṣāṃ tu niṣphalaṃ janma bījamuptaṃ yathoṣare // Dhs_16.16 //	K10D0287_H0289:270a-32	ཚབ༹་སྒོར་ས་བོན་བཏབ་པ་ལྟར་༎ དེ་ལ་དེ་ཡི་འབྲས་བུ་མེད་༎
+K14bsa052_u:3405	 alpamādhuryasaṃyuktān kāmān kaṭuvipākinaḥ /  sevate yastvasau mūḍhaḥ sa yāti tamaso tamaḥ // Dhs_16.17 //	K10D0287_H0289:270b-0	འདོད་༄༢༧༠བ་བ་མངར་བ་ཆུང་ལྡན་པ་༎ རྣམ་པར་སྨིན་པ་ཚ་བ་ཡིན་༎ རྨོངས་པ་གང་ཞིག་དེ་སྟེན་པ་༎ དེ་ནི་མུན་པ་མུན་ནག་འགྲོ་༎
+K14bsa052_u:3407	 kiṃ kṛtaṃ mūḍha bhavatā putradārasukhārthinā /	K10D0287_H0289:270b-4	བུ་དང་ཆུང་མ་བདེ་བྱའི་ཕྱིར་༎
+K14bsa052_u:3408	 dahasye narake caikaḥ svakarmaphalavañcitaḥ // Dhs_16.18 //	K10D0287_H0289:270b-6	སེམས་ཅན་དམྱལ་བར་གཅིག་པུ་སྲེག་། རང་གི་ལས་ཀྱི་འབྲས་བུས་བསླུས་༎
+K14bsa052_u:3409	 keṣāṃ duṣkaraṃ jīvanam?  yaḥ putradāravaśagaḥ sevate duṣkaraṃ naraḥ /	K10D0287_H0289:270b-8	གང་ཞིག་བུ་སྨད་དབང་སོང་བ་༎ མི་ནི་ངན་པར་བྱས་པ་སྟེ་༎
+K14bsa052_u:3411	 sa yāti narakatvaṃ (ca)	K10D0287_H0289:270b-10	དེ་ནི་དམྱལ་བ་འདིར་འགྲོ་སྟེ་༎
+K14bsa052_u:3412	 pāpaṃ tadanubhūyate // Dhs_16.19 //	K10D0287_H0289:270b-11	ཁྱོད་ཀྱིས་དེ་ཡི་རྗེས་སུ་མྱོང་༎
+K14bsa052_u:3413	 na dārā na sutā nārtha na mitrāṇi kathañcana /  mṛtyukāle samutpanne rakṣanti samupasthitāḥ // Dhs_16.20 //	K10D0287_H0289:270b-12	བུ་དང་ཆུང་མའི་དོན་མི་འདོད་༎
+K14bsa052_u:3431	 yadartha kriyate pāpaṃ yuṣmābhiścittavañcitaiḥ // Dhs_16.27 //	K10D0287_H0289:279b-11	གང་གི་དོན་དུ་སྡིག་བྱས་པའི་༎
+K14bsa052_u:3432	 mitrāṇi putrāḥ (pitarau kiṃ)  bandhujanabāndhavāḥ /	K10D0287_H0289:279b-12	བུ་དང་ཆུང་མ་གྲོགས་པོ་དང་༎ གཉེན་འདབ་རྩ་ལག་གང་དུ་སོང་༎
+K14bsa052_u:3434	 yeṣāmarthe kṛtaṃ pāpaṃ bhavadbhirmandabuddhibhiḥ // Dhs_16.28 //  nūnamātmā na te kānto babhūva narabhūmiṣu /	K10D0287_H0289:279b-13	མི་ཡི་སར་ནི་ཁྱོད་ཀྱིས་སུ་༎ བདག་ལ་ངེས་པར་སྡུག་མ་བྱས་༎
+K14bsa052_u:3436	 yena tvayā kṛtaṃ pāpaṃ putrārthena narādhamaḥ // Dhs_16.29 //	K10D0287_H0289:279b-15	མི་ཡི་ཐ་མ་བུ་ཡི་དོན་༎ དེས་ན་སྡིག་པ་ཁྱོད་ཀྱིས་བྱས་༎
+K14bsa052_u:3437	 yena pūrvakṛtaṃ pāpaṃ paścānna paritapyate /	K10D0287_H0289:279b-17	གང་གིས་སྔན་ཆད་སྡིག་བྱས་པ་༎ ཕྱིས་ནི་གནོད་པར་མི་འགྱུར་མིན་༎
+K14bsa052_u:3438	 sa yāti narakaṃ ghoraṃ putrakāraṇavañcitaḥ // Dhs_16.30 //  pāpakarmaphalam	K10D0287_H0289:279b-19	བུ་དང་ཆུང་མས་བསླུས་པ་དེ་༎ སེམས་ཅན་དམྱལ་བ་དྲག་པོར་འགྲོ་༎
+K14bsa052_u:3440	 kiṃ kariṣyanti putrāste kiṃ dārāḥ kiṃ ca bāndhavāḥ /	K10D0287_H0289:279b-21	ཆུང་མ་གཉེན་གྱིས་ཅི་བྱེད་ཅིང་༎ བུ་དེས་ཅི་ཞིག་བྱེད་པར་འགྱུར་༎
+K14bsa052_u:3441	 dahasyanādinarake vahniḥ karma dunotyasau // Dhs_16.31 //	K10D0287_H0289:279b-23	ལས་ཀྱིས་ལམ་རྒྱགས་ཡོད་པ་ནི་༎ གཅིག་པུ་སེམས་ཅན་དམྱལ་བར་སྲེག་།
+K14bsa052_u:3442	 svayaṃ kṛtvāśubhaṃ karmāsukhodayamaninditaḥ /	K10D0287_H0289:279b-25	བདེ་བ་འབྱུང་བ་མ་སྨད་པ་༎ དགེ་བའི་ལས་ནི་མ་བྱས་པས་༎
+K14bsa052_u:3443	 tapyase 'pi vṛthādhānaḥ paścānmohena vañcikaḥ // Dhs_16.32 //	K10D0287_H0289:280a-0	བྱིས་པ་གཏི་མུག་༄༢༨༠ཨ་༌༎ གིས་བསླུས་པ་༎ ཕྱི་ནས་དོན་བྱེད་ཅི་མི་གདུང་༎
+K14bsa052_u:3444	 rāgadveṣānugāḥ pāpaṃ mohena parivañcitāḥ /	K10D0287_H0289:280a-3	གང་ཞིག་གཏི་མུག་གིས་བསླུས་པ་༎
+K14bsa052_u:4704	 mandavīryakusīdānāṃ bhikṣūṇāṃ darśanāya ca /  nānyayogābhirakto yo bhikṣurbhavati tādṛśaḥ // Dhs_30.54 //  kausīdyābhirato bhikṣuḥ nahi kalyāṇamarhati  na śayyāsanasambhogī bhikṣurbuddhena bhāṣitaḥ /  kausīdyabhirato yastu nāsau kalyāṇamarhati // Dhs_30.55 //	K10D0287_H0289:234b-5	གང་ཞིག་ལེ་ལོ་མངོན་དགའ་བ༏་༏དེ་ནི་དགེ་བའི་འོས་མིན་ནོ་༎
+K14bsa052_u:4709	 kleśānāṃ mūlapākaṃ hi kausīdyaṃ yasya vidyate /  tasya duḥkhaṃ mahāghoraṃ saṃsāre sampravartate // Dhs_30.56 //	K10D0287_H0289:234b-6	ཉོན་མོངས་རྣམས་ཀྱི་གཞི་གཅིག་ནི་༎
+K14bsa052_u:4711	 kausīdyameva yasyāsti tasya dharmo na vidyate /	K10D0287_H0289:234b-7	ལེ་ལོ་ཡིན་ཏེ་གང་ལ་ཡོད་༎ དེ་ལ་ཆོས་ནི་མེད་པ་ཡིན་༎
+K14bsa052_u:4712	 kevalaṃ vastramātreṇa 'bhikṣuḥ' sa iti kathyate // Dhs_30.57 //	K10D0287_H0289:234b-10	བགོ་བ་ཙམ་གྱིས་ཆོག་འཛིན་པ༏་༏དེ་ནི་དགེ་སློང་ཡིན་ཞེས་བརྗོད་༎
+K14bsa052_u:4715	 kevalaṃ vastumātreṇa bhikṣurbhavati tādṛśaḥ // Dhs_30.58 //	K10D0287_H0289:234b-13	ཆ་བྱད་ཙམ་གྱིས་ཆོག་འཛིན་པ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་མིན་༎
+K14bsa052_u:4716	 vihārābhirato yastu na rato dharmagocare /	K10D0287_H0289:234b-15	གཙུག་ལག་ཁང་དང་ཀུན་དགར་བརྩོན་༎ ཆོས་ཀྱི་སྤྱོད་ཡུལ་དགའ་མེད་ཅིང་༎
+K14bsa052_u:4717	 strīmadyalolupamatibhikṣurasti na tādṛśaḥ // Dhs_30.59 //	K10D0287_H0289:234b-17	བུད་མེད་ཆང་ལ་ཆགས་པའི་བློ་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་མིན་༎
+K14bsa052_u:4720	 sa bhikṣurdeśito buddhaiḥ na bhoktā svakagocare // Dhs_30.60 //	K10D0287_H0289:234b-20	དགེ་འདུན་སྤྱོད་ཡུལ་མི་སྤྱོད་པ་༎ དེ་ནི་དགེ་སློང་སངས་རྒྱས་གསུངས་༎
+K14bsa052_u:4721	 varamāśīviṣaviṣaṃ kathitaṃ tāmrameva ca /	K10D0287_H0289:234b-22	སྦྲུལ་གདུག་དང་ནི་ཏ་མྲ་དག་། སྨིན་པ་ཟ་བ་ཉིས་ན་རུང་༎
+K14bsa052_u:4722	 bhuktasyātyantaduḥśīlairadhikaṃ pāpabhojanam // Dhs_30.61 //	K10D0287_H0289:234b-24	ཚུལ་ཁྲིམས་འཆལ་པ་དགེ་འདུན་གྱི༏་༏བཟའ་བཏུང་སྤྱོད་པ་མི་རུང་ངོ་༎ གང་ཞིག་ཉོན་མོངས་བསྡུས་པ་ནི་༎
+K14bsa052_u:4723	 yo hi nārhati piṇḍāya nāsau piṇḍāya kalpate /	K10D0287_H0289:234b-26	དེ་ནི་བསོད་སྙོམས་འོས་མིན་ཞིང་༎ དེ་ནི་བསོད་སྙོམས་རིགས་མིན་ཏེ་༎ དེ་ནི་དམྱལ་བའི་འོས་ཡིན་ནོ་༎
+K14bsa052_u:4724	 yasya piṇḍikṛtāḥ kleśāḥ sarpā iva vileśayāḥ // Dhs_30.62 //	K10D0287_H0289:234b-29	སྦྲུལ་གདུག་ཁུང་ན་འདུག་ལྟ་བུའི་༎ ཉོན་མོངས་གང་གིས་བཅོམ་ཞིང་སྤངས་༎
+K14bsa052_u:4725	 sa bhikṣuḥ piṇḍabhojī syānna strīdarśanatatparaḥ /	K10D0287_H0289:234b-31	དགེ་སློང་དེ་ནི་བསོད་སྙོམས་སྤྱོད་༎ དེ་ནི་བུད་མེད་ལྟ་བ་མེད་༎
+K14bsa052_u:4726	 bandhakaṃ yadi cātmānaṃ kṛtvā paraśubhakṣatim // Dhs_30.63 //  bhikṣurdurguṇānāṃ svarūpam	K10D0287_H0289:234b-33	གལ་ཏེ་བདག་ཉིད་གཏར་བཞག་ཅིང་༎ སྡིག་པ་རྣམས་ལ་༄༢༣༥ཨ་༌༎
+K14bsa052_u:4728	 kathaṃ sa bhikṣurvijñeyaḥ saṅgharatnapradūṣakaḥ /	K10D0287_H0289:235a-1	ཆགས་པ་ནི་༎ དགེ་འདུན་རིན་ཆེན་སུན་བྱེད་པ་༎
+K14bsa052_u:4740	 dharmāvabodhābhirato dhyānārāmavihāravān	K10D0287_H0289:241b-3	ཆོས་རྟོགས་པ་ལ་མངོན་དགའ་ཞིང་༎ བསམ་གཏན་ཀུན་དགར་གནས་ལྡན་ལ་༎
+K14bsa052_u:4741	 tattvalakṣaṇasambodhāt prāpnuyāt padamavyayam // Dhs_30.69 //	K10D0287_H0289:241b-5	དེ་ཡི་མཚན་ཉིད་ཤེས་པ་ནི་༎ མྱ་ངན་འདས་པ་མཆོག་འཐོབ་པོ་༎
+K14bsa052_u:4742	 maitryārāmo hi satatamudyukto dharmagocare /	K10D0287_H0289:241b-7	བྱམས་ལ་རྟག་པར་ཀུན་ཏུ་དགའ༎ ཆོས་ཀྱི་སྤྱོད་ཡུལ་བརྩོན་བྱེད་ཅིང་༎
+K14bsa052_u:4743	 tattvalakṣaṇatattvajño bhikṣurbhavati tādṛśaḥ // Dhs_30.70 //	K10D0287_H0289:241b-9	ལུས་ཀྱི་མཚན་ཉིད་དེ་ཤེས་པ་༎ དེ་ཉིད་ཁོ་ན་དགེ་སློང་ཡི་༎
+K14bsa052_u:4744	 yoniśastu matiryasya kāmakrodhairna hanyate /	K10D0287_H0289:241b-11	གང་གི་བློ་གྲོས་ཚུལ་བཞིན་སེམས་༎ འདོད་དང་ཁྲོ་བས་མི་ཉམས་པ་༎
+K14bsa052_u:4745	 sa bhikṣuriti vijñeyo viparītastato 'nyathā // Dhs_30.71 //	K10D0287_H0289:241b-13	དགེ་སློང་དེ་ཡིན་ཤེས་པར་བྱ་༎ དེ་ལས་བཟློག་ན་གཞན་དུ་འགྱུར་༎
+K14bsa052_u:4746	 sarvabhūtadṛḍhaḥ śāntaḥ sarvasaṅgativarjitaḥ /	K10D0287_H0289:241b-15	འབྱུང་པོ་ཀུན་ལ་བརྩེ་ཞིང་ཞི་༎
+K14bsa052_u:4747	 sarvabandhananirmukto bhikṣurbhavati tattvavit // Dhs_30.72 //	K10D0287_H0289:241b-16	ཆགས་པ་ཐམས་ཅད་རྣམ་སྤངས་ལ་༎ འཆིང་བ་ཀུན་ལས་ངེས་གྲོལ་བ་༎ དེ་ཉིད་རིག་པ་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4748	 karmaṇi yasya vijñānaviṣayairyo na hanyate /	K10D0287_H0289:241b-19	གང་གི་རྣམ་ཤེས་ལས་རུང་བཞིན་༎ གང་དག་ཡུལ་གྱིས་མི་ཉམས་པ་༎
+K14bsa052_u:4749	 nirmalaḥ syāt kanakavat santuṣṭo bhikṣurucyate // Dhs_30.73 //	K10D0287_H0289:241b-21	གསེར་ལ་དྲི་མ་མེད་པ་བཞིན་༎ དག་པ་དགེ་སློང་ཞེས་བྱའོ་༎
+K14bsa052_u:4750	 priyāpriye mano yasya na lepamanugacchati /	K10D0287_H0289:241b-23	གང་གི་ཡིད་ལ་དགའ་བ་དང་༎ མི་དགའ་བ་ཡིས་གོས་མེད་ཅིང་༎
+K14bsa052_u:4752	 anyasaṃduṣṭacarito dharmaśīlo jitendriyaḥ /	K10D0287_H0289:241b-26	ཚུལ་ཁྲིམས་ཉེ་བར་ཁྲོ་མེད་ཅིང་༎ ཆོས་སྤྱོད་པ་དག་དབང་པོ་ཐུལ་༎
+K14bsa052_u:4753	 ahīnasatvo matimān bhikṣurbhavati tādṛśaḥ // Dhs_30.75 //	K10D0287_H0289:241b-28	སེམས་ཅན་མི་དམན་བློ་གྲོས་ལྡན་༎ དེ་ལྟ་བུ་ནི་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4754	 śāstre śāstrārthavijñāne matiryasya sadā ratā /	K10D0287_H0289:241b-30	གང་དག་བསྟན་བཅོས་བསྟན་བཅོས་དོན་༎ རྟག་ཏུ་རྣམ་ཤེས་བློ་གྲོས་དགའ༎
+K14bsa052_u:4755	 na pānabhojanarataḥ sa bhikṣuḥ śāntamānasaḥ // Dhs_30.76 //	K10D0287_H0289:241b-32	བཟའ་བཏུང་དག་ལ་དགའ་མེད་པ་༎ ཞི་བའི་ཡིད་དེ་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4756	 bhikṣoḥ svarūpanirūpaṇam  vanāraṇyavihāreṣu śmaśāne tṛṇasaṃstare /	K10D0287_H0289:241b-34	གང་དག་ཚལ་དགོན་གཙུག་ལག་ཁང་༎ དུར་ཁྲོད་དང་ནི་རཙབ༹་བཏིང་ལ་༎ ༄༢༤༢ཨ་༌༎ ཡིད་ནི་དགའ་བར་བྱེད་པ་དག་།
+K14bsa052_u:4759	 doṣāṇāṃ karmatattvajñaḥ phalavit pariśeṣataḥ /  hetupratyayatattvajño bhikṣuḥ syād vītakalmaṣaḥ // Dhs_30.78 //	K10D0287_H0289:242a-3	འབྲས་བུའི་བྱེ་བྲག་རིག་པ་དང་༎ རྒྱུ་དང་རྐྱེན་གྱི་དེ་ཉིད་ཤེས་༎ སྡིག་དང་བྲལ་བ་དགེ་སློང་ཡིན་༎ སྡིག་པའི་དགོན་པ་བཅོམ་བྱས་ཤིང་༎
+K14bsa052_u:4761	 (hata) kilviṣakāntāro hatadoṣo jitendriyaḥ /	K10D0287_H0289:242a-6	སྐྱོན་བཅོམ་དབང་པོ་ཐུལ་བ་དང་༎ ཡང་སྲིད་དམ་པ་ཤེས་པ་ནི་༎
+K14bsa052_u:4762	 punarbhavavidhijño yo bhikṣuḥ śāntamanāḥ (smṛta) // Dhs_30.79 //	K10D0287_H0289:242a-7	ཞི་བའི་ཡིད་དེ་དགེ་སློང་ཡིན་༎
+K14bsa052_u:4763	 notkarṣo hṛṣṭahṛdaye nindayā naiva rūṣyati /	K10D0287_H0289:242a-8	བསྔགས་པས་སྙིང་ལ་དགའ་མེད་ལ་༎ སྨད་པས་ཞུམ་པ་མེད་པ་ནི་༎
+K14bsa052_u:4764	 samudratulyagāmbhīryo yogavān bhikṣurucyate // Dhs_30.80 //	K10D0287_H0289:242a-10	རྒྱ་མཚོ་ལྟ་བུར་ཟབ་པ་སྟེ་༎ རྣམ་རིག་དགེ་སློང་ཞེས་བྱ་འོ་༎
+K14bsa052_u:4765	 āveṇiko dṛḍhamatiḥ sūkṣmavādī na lolupaḥ /	K10D0287_H0289:242a-12	བློ་གྲོས་བརྟན་པ་བདག་མི་བསྟོད་༎ སྙན་པར་སྨྲ་ཞིང་དུས་སུ་སྨྲ་༎
+K14bsa052_u:4766	 kāmavādī samo dakṣaḥ sa bhikṣuḥ śānta ucyate // Dhs_30.81 //	K10D0287_H0289:242a-14	བརྐམ་མེད་གྲགས་པ་མཁས་པ་དག་། དགེ་སློང་དེ་ནི་ཞི་ཞེས་བྱ་༎
+K14bsa052_u:4767	 kāmadhātūpagān hetūn rūpadhātau tathaiva ca /	K10D0287_H0289:242a-16	འདོད་པའི་ཁམས་སུ་འགྲོ་བའི་རྒྱུ་༎ དེ་བཞིན་གཟུགས་ཀྱི་ཁམས་དང་ནི་༎
+K14bsa052_u:4768	 āruṣyeṣu ca tattvajñaḥ śāstrā bhikṣuḥ sa ucyate // Dhs_30.82 //	K10D0287_H0289:242a-18	གཟུགས་མེད་ཁམས་ཀྱི་དེ་ཉིད་ཤེས་༎ བསྟན་རིག་དགེ་སློང་ཞེས་བྱའོ་༎
+K14bsa052_u:4769	 na laukikakathāsaktaḥ śatrudoṣabadhe sadā /  viṣavad yasya viṣayāḥ sa bhikṣurdeśito budhaiḥ // Dhs_30.83 //	K10D0287_H0289:242a-20	འཇིག་རྟེན་གཏམ་ལ་ཆགས་མེད་ཅིང་༎ གང་གི་ཡུལ་དག་དུག་ལྟ་བུ་༎ ཆགས་པའི་སྐྱོན་དག་རྟག་འཇོམས་པ༏་༏དགེ་སློང་དེ་ནི་སངས་རྒྱས་བསྟན་༎
+K14bsa052_u:4771	 śuddhā yasya (hi)  kāmeṣu matirbhavati nityaśaḥ /	K10D0287_H0289:242a-23	གང་གི་བློ་གྲོས་འདོད་རྣམས་ལ་༎ འདམ་ལྟ་བུར་ནི་རྟག་ཏུ་ལྟ་༎
+K14bsa052_u:4773	 sa nirmuktamatirbhikṣurmuktaḥ saṃsārabandhanāt // Dhs_30.84 //	K10D0287_H0289:242a-25	བརྟན་པ་བློ་གྲོས་ངེས་གྲོལ་ཞིང་༎ དེ་ནི་འཁོར་བའི་འཆིང་ལས་གྲོལ་༎
+K14bsa052_u:4774	 dhyānādhyayanakarmaṇyaḥ kausīdyaṃ yasya dūrataḥ /	K10D0287_H0289:242a-27	གང་རིག་ལེ་ལོ་ཐག་བསྲིངས་པ་༎ བསམ་གཏན་ཁ་ཏོན་ལས་རུང་ཞིང་༎
+K14bsa052_u:4775	 hitakārī ca sattvānām āraṇyo bhikṣurucyate // Dhs_30.85 //	K10D0287_H0289:242a-29	སེམས་ཅན་རྣམས་ལ་ཕན་བྱེད་པ་༎ དགོན་གནས་དགེ་སློང་ཞེས་བྱའོ་༎
+K14bsa052_u:4776	 praśnottaramatiryasya pratibhāvan jitendriyaḥ /	K10D0287_H0289:242a-31	གང་གི་བློ་གྲོས་དྲིས་ལན་ལྡོན་༎ ༄༢༤༢བ་སྤོབས་དང་ལྡན་ཞིང་དབང་པོ་ཐུལ་༎
+K14bsa052_u:4777	 sa dharmaḥ kathito jñeyo viparītastṛṇaiḥ samaḥ // Dhs_30.86 //	K10D0287_H0289:242b-1	དེ་ནི་ཆོས་ཀྱི་གཏམ་ཤེས་ཏེ་༎ གང་དག་བཟློག་ན་རཙབ༹་དང་འདྲ་༎
+K14bsa052_u:4778	 buddhaśāsane kīdṛg bhikṣuḥ śastaḥ?  kāyamānasabhīryasya sarvadā naiva khidyate /	K10D0287_H0289:242b-3	གང་གི་བློ་གྲོས་ལུས་དུབ་པས་༎ རྣམ་པ་ཀུན་ཏུ་སྐྱོ་མེད་ཅིང་༎
+K14bsa052_u:4780	 sarvakṛtyakaro jñeyo yaḥ saṅghāya ca tatparaḥ // Dhs_30.87 //	K10D0287_H0289:242b-5	དོན་དུ་བྱ་བ་ཀུན་ཤེས་པ་༎ དེ་ནི་དགེ་འདུན་གསོག་པ་བྱེད་༎
+K14bsa052_u:4781	 na parārtha na lobhārtha yaśo 'rtha kurute na tu /	K10D0287_H0289:242b-7	ཚོད་ཟོང་ཕྱིར་མིན་འོངས་ཕྱིར་མིན་༎ གྲགས་པའི་དོན་དུ་ག་ལ་ཞིག་།
+K14bsa052_u:4782	 saṅghakārye matiryasya sa muktaḥ sarvabandhanaiḥ // Dhs_30.88 //	K10D0287_H0289:242b-9	གང་བློ་དགེ་འདུན་དོན་སེམས་པ་༎ དེ་ནི་འཁོར་བའི་འཆིང་ལས་གྲོལ་༎
+K14bsa052_u:4783	 na svargārtha matiryasya lābhārtha yaśase na vā /	K10D0287_H0289:242b-11	གང་གི་བརྟུལ་ཞུགས་མཐོ་རིས་དང་༎ རྙེད་དང་གྲགས་པའི་དོན་དུ་མིན་༎
+K14bsa052_u:4784	 nirvāṇārtha kriyā sarvā sa bhikṣuḥ srota ucyate // Dhs_30.89 //	K10D0287_H0289:242b-12	ཐམས་ཅད་མྱ་ངན་འདས་དོན་བྱེད་༎ དགེ་སློང་དེ་ནི་ཞི་ཞེས་བྱ་༎
+K14bsa052_u:4785	 pāpebhyo nityavirataḥ satkṛtyeṣu rataḥ sadā /  na pāpamitrasaṃsargī bhikṣuḥ syād buddhaśāsane // Dhs_30.90 //	K10D0287_H0289:242b-14	སྡིག་པ་དག་ནི་རྟག་ཏུ་སྤངས་༎

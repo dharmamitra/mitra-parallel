@@ -1,0 +1,497 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+T02vamvuppu:0	 // oṃ namaḥ sarvajñāya //  adhigataparamārthaḥ śrīghanavyūha eva prati tuṣitajanārthaṃ yo 'bhavac chvetaketuḥ /  tata iha jagadarthaṃ cābhavac chākyaketuḥ sa jayatu jitamṛtyur darśitānantamāyaḥ // VMv_1.1 //	T02D1748:119a-1	དགའ་ལྡན་སྐྱེ་བོའི་དོན་མཛད་ཕྱིར་ནི་དམ་པ་ཏོག་དཀར་གྱུར་༎ དེ་ནས་འདིར་ནི་འགྲོ་བའི་དོན་དུ་ཤའཀྱའི་ཏོག་གྱུར་གང་༎ འཆི་བདག་ལས་རྒྱལ་སྒྱུ་མ་ཀུན་སྟོན་དེ་ནི་རྒྱལ་གྱུར་ཅིག་། རྒ་དང་འཆི་བ་མེད་པ་བརྙེས་༎ རྒ་ཤི་མེད་པར་མཛད་པ་ལས་༎
+T02vamvuppu:10	 upāyair jīvitaṃ dīrghaṃ mṛtyuvañcanam ucyate // VMv_1.5 //	T02D1748:119a-17	ཐབས་ཀྱིས་ཡུན་རིང་འཚོ་བ་ནི་། འཆི་བ་བསླུ་བ་ཞེས་བཤད་དོ་༎
+T02vamvuppu:100	 yadi vedho 'pratīkāro mṛtyuḥ sadyas tadā bhavet // VMv_1.50 //	T02D1748:120b-42	ཟུག་འགྱུར་གལ་ཏེ་ཟློག་མི་བྱེད་༎ དེ་ཚེ་འཕྲལ་དུ་འཆི་བར་འགྱུར་༎
+T02vamvuppu:101	 pādāṅguṣṭhaṃ samārabhya nābhiparyantago bhavet /	T02D1748:120b-44	རྐང་པའི་མཐེའུ་ནས་བརྩམས་ནས་༎ ལྟེ་བ་ཡིན་མཐར་ཐུག་པར་༎
+T02vamvuppu:102	 vedhaḥ sadāho yasyāsau ṣaḍmāsān mriyate dhruvam // VMv_1.51 //	T02D1748:120b-46	ཟུག་ཅིང་ཚ་བར་བཅས་འགྱུར་ཏེ་༎ ཟླ་བ་དྲུག་ན་ངེས་པར་འཆི་༎
+T02vamvuppu:103	 pādāṅguṣṭhād dhṛdayāntaṃ yāvat kaṇṭhaṃ śiro 'thavā /  māsatrayāt pakṣatrayān mṛtyur ekadināt kramāt // VMv_1.52 //	T02D1748:120b-48	རྐང་པའི་མཐེ་བོ་ནས་སྙིང་ག་། ལྐོག་མའམ་ཡང་ན་མགོ་མཐར་ཟུག་། རིམ་བཞིན་ཟླ་ཕྱེད་ཟླ་བ་གསུམ་༎ ཉིན་ཞག་གཅིག་གིས་འཆི་བར་འགྱུར་༎
+T02vamvuppu:105	 nāsāgramāṃsaśaithilyān mṛtyuḥ syāt saptarātrataḥ /	T02D1748:121a-0	སྣ་༄༡༢༡ཨ་༌་༎ རྩེའི་ཤ་ནི་ལྷོད་གྱུར་ན་༎ ཞག་བདུན་ན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:106	 kapolamāṃsavicchedān mṛtyuḥ syāt pañcamāsataḥ // VMv_1.53 //	T02D1748:121a-3	མཁུར་ཚོས་ཤ་ནི་ཆང་གྱུར་ན་༎ ཟླ་བ་ལྔ་ན་འཆི་བར་འགྱུར་༎
+T02vamvuppu:107	 cakṣurnāsikayor madhye spandanaṃ cen na dṛśyate /	T02D1748:121a-5	མིག་དང་སྣ་གོང་དག་གི་བར་༎ མགུལ་པ་མཐོང་བར་མ་གྱུར་ན་༎
+T02vamvuppu:108	 jñātvā pañcadinān mṛtyum ādadyād dharmasaṃvalam // VMv_1.54 //	T02D1748:121a-7	ཞག་ལྔ་ནས་ནི་འཆི་འགྱུར་བས་༎ ཆོས་ཀྱི་རྒྱགས་ནི་བསྐུར་བར་བྱ་༎
+T02vamvuppu:109	 netrayos tārake mliṣṭe sahasā bhavato yadi /	T02D1748:121a-9	མིག་གཉིས་མིག་འབྲས་དྲི་མ་ཆགས་༎ གལ་ཏེ་འཕྲལ་དུ་འབྱུང་འགྱུར་ན་༎
+T02vamvuppu:11	 yāvaj jīvati saṃsāre dharmācārī jitendriyaḥ /	T02D1748:119a-19	ཆོས་སྤྱོད་དབང་པོ་ཐུལ་བ་ནི་༎ འཁོར་བ་རུ་ནི་ཇི་སྲིད་འཚོ་༎
+T02vamvuppu:110	 ṣaḍmāsābhyantare mṛtyuḥ pratikārakriyā na cet // VMv_1.55 //	T02D1748:121a-11	སླར་འཆོས་པར་ནི་མི་བྱེད་ན་༎ ཟླ་བ་དྲུག་གི་ནང་དུ་འཆི་༎
+T02vamvuppu:111	 akasmān nāsikā vakrā karṇau bhraṣṭau svadeśataḥ /	T02D1748:121a-13	གློ་བུར་དུ་ནི་སྣ་ཡོ་ཞིང་༎ རྣ་བ་རང་གི་གནས་ནས་བསྐྱོད་༎
+T02vamvuppu:112	 netre ca vartulībhūte saptāhān mṛtyudarśanāt // VMv_1.56 //	T02D1748:121a-15	མིག་ཀྱང་ཟླུམ་པོར་གྱུར་ན་ནི་༎ ཞག་བདུན་ནས་ནི་འཆི་པར་སྟོན་༏
+T02vamvuppu:113	 akasmād dhṛdayaṃ nimnaṃ syāc cet pakṣāt tadā mṛtiḥ /	T02D1748:121a-17	། གློ་བུར་དུ་ནི་སྙིང་ག་དམའ་༎ དེ་ཆེ་ཟླ་བ་བྱེད་ན་འཆི་༎
+T02vamvuppu:115	 akasmāt kṛṣṇarekhā syāj jihvāyā yadi madhyataḥ /  dṛḍho vā dantasaṃdaṃśas tadā mṛtyur dvirātrataḥ // VMv_1.58 //	T02D1748:121a-19	མགྲིན་པའི་ངོས་གཉིས་རྩ་དག་ནི་༎ ཆད་པ་དག་ཀྱང་ཟླ་ཕྱེད་ནའོ་༎ གལ་ཏེ་ལྕེ་ཡི་དབུས་སུ་ནི་༎ རི་མོ་ནག་པོ་གློ་བུར་བྱུང་༎
+T02vamvuppu:118	 tasminn eva dine mṛtyur athavā pañcavāsaraiḥ // VMv_1.59 //	T02D1748:121a-23	སོ་དག་དམ་དུ་འཐམས་པ་ནི་༎ དེ་ཚེ་ཉིན་ཞག་གཉིས་ན་འཆི་༎ རྣ་བའི་འཁོར་ནང་རྒྱབ་ཀྱི་ནི་༎ རྩ་ནི་ཆད་པར་སྣང་གྱུར་ན་༎ ཉིན་ཞག་དེའམ་ཡང་ན་ནི་༎ ཞག་ལྡན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:119	 nakheṣu raktavarṇeṣu sahasā yady araktatā /	T02D1748:121a-29	སེན་མོའི་ཁ་དོག་དམར་པོ་དག་།འཕྲལ་དུ་མེད་པར་གྱུར་ན་ནི་༎
+T02vamvuppu:12	 tāvat puṇyādisaṃbhāraṃ prasūte bodhisādhakam // VMv_1.6 //	T02D1748:119a-21	དེ་སྲིད་བསོད་ནམས་ལ་སོགས་ཚོགས་༎ བྱང་ཆུབ་སྒྲུབ་བྱེད་རབ་ཏུ་སྐྱེ་༎
+T02vamvuppu:120	 ṣaḍbhir māsais tadā mṛtyur yadi mantrādi nācaret // VMv_1.60 //	T02D1748:121a-30	གལ་ཏེ་སྔགས་སོགས་ལ་མ་སྦྱངས་༎ དེ་ཚེ་ཟླ་བ་དྲུག་ན་འཆི་༎
+T02vamvuppu:121	 akasmāj jāyate sthūlaḥ kṛśaḥ kruddho bhayākulaḥ /	T02D1748:121a-32	གློ་བུར་དུ་ནི་སྦོམ་འགྱུར་དང་༎ རྡེག་ཅིང་ཁྲོ་དང་འཇིགས་པས་འཁྲུགས་༎
+T02vamvuppu:122	 yas tasya mṛtyur varṣeṇa yadi dharmaṃ na sevate // VMv_1.61 //	T02D1748:121a-33	གལ་ཏེ་ཆོས་ནི་མ་བསྟེན་གང་༎ དེ་ནི་ལོ་གཅིག་དག་ན་འཆི་༎
+T02vamvuppu:123	 indriyāṇi na gṛhṇanti yathāsvaṃ yasya gocarān /  muhuḥ skhalati vāṇī ca muhuś ca mativibhramaḥ // VMv_1.62 //	T02D1748:121a-35	དབང་པོ་རྣམས་ནི་རང་གི་ཡུལ་༎ ཇི་བཞིན་འཛིན་པར་མི་བྱེད་དང་༎ ཚིག་ནི་ཡང་ཡང་འཁྲུལ་པ་དང་༎ བློ་ཡང་ཡང་དང་ཡང་དུ་འཁྲུལ་༎
+T02vamvuppu:125	 cakṣuṣī sravato nityaṃ dṛṣṭarūpe 'pi vibhramaḥ /	T02D1748:121a-37	མིག་ལས་རྟག་ཏུ་འཛག་པ་དང་༎ གཟུགས་མཐོང་ན་ཡང་འཁྲུལ་པ་དང་༎ མེ་ལོང་དམ་ནི་ཡང་ན་ཆུར་༎
+T02vamvuppu:126	 darpaṇe salile vāpi svacchāyāṃ yo na paśyati // VMv_1.63 //	T02D1748:121a-38	རང་གི་གྲིབ་མ་མ་མཐོང་དང་༎ མཚན་མོའི་དུས་སུ་གཞའ་དང་ནི་༎
+T02vamvuppu:127	 rātrāv indradhanuḥ paśyed divā nakṣatramaṇḍalam /  ameghe vidyutaṃ paśyet sphurantīṃ dakṣiṇāśritām // VMv_1.64 //  divā chāyāpathaṃ paśyed ulkāyāḥ patanaṃ tathā /	T02D1748:121a-39	ཉིན་པར་སྐར་མའི་ཚོགས་མཐོང་དང་༎ སྤྲིན་མེད་པར་ནི་ལྷོ་ཕྱོགས་ན་། གནས་པའི་གློག་འགྱུར་མཐོང་བ་དང་༎ ཉིན་པར་གྲིབ་མའི་ལམ་དང་ནི་༎ དེ་བཞིན་སྐར་མ་ལྷུང་བ་མཐོང་༎
+T02vamvuppu:13	 na vinā jīvitāt sāraṃ saṃsāre kiṃ cid īkṣyate /	T02D1748:119a-23	འཁོར་བར་སྲོག་ལས་གཅེས་པ་ནི་༎ ཅི་ཡང་ཡོད་པར་མ་མཐོང་སྟེ་༎
+T02vamvuppu:130	 haṃsakākamayūrāṇāṃ paśyed ekatra melakam // VMv_1.65 //  candradvayaṃ dvisūryaṃ vā svaśirojvalanaṃ tathā /	T02D1748:121a-42	དང་པ་བྱ་རོག་རྨ་བྱ་ནི་༎ གཅིག་ནི་འདྲེས་པར་མཐོང་བ་དང་༎ ཟླ་བ་གཉིས་དང་ཉི་མ་གཉིས་༎ དེ་བཞིན་རང་གི་མགོ་བོར་འབར་༎
+T02vamvuppu:132	 gandharvanagaraṃ paśyed vṛkṣāgre śikhare gireḥ // VMv_1.66 //	T02D1748:121b-0	ཤིང་རྩེ་རི་བོའི་རྩ་༄༡༢༡བ་ལ་ནི་༏་། དྲི་ཟའི་གྲོང་ཁྱེར་མཐོང་བ་དང་༎ ཡི་དགས་ཤ་ཟ་འཇིགས་རུང་བའི་༎
+T02vamvuppu:137	 kaṇṭḥoṣṭhatālujihvānāṃ chedaṃ chidraṃ tanau tathā /	T02D1748:121b-6	ལྐོག་མ་མཆུ་དང་རྐན་དང་ལྕེ་༎ ཆོད་དང་བུ་ག་དེ་བཞིན་ལུས་༎
+T02vamvuppu:138	 yaḥ paśyet tasya mṛtyuḥ syāt ṣaḍmāsābhyantare dhruvam // VMv_1.69 //	T02D1748:121b-8	མཐོང་ན་དེ་བཞིན་ཟླ་དྲུག་གི་། ནང་དུ་ངེས་པར་འཆི་བར་འགྱུར་༎
+T02vamvuppu:139	 kaṇṭhoṣṭhatālurasanādantā yasya pṛthakpṛthak /	T02D1748:121b-9	གྲི་བ་མཆུ་དང་རྐན་དང་ལྕེ་༎ རྒྱུན་དུ་སོ་སོར་སྐམས་ན་ནི་༎
+T02vamvuppu:14	 nānopāyair atas tūrṇaṃ mṛtyuvañcanam ārabhet // VMv_1.7 //	T02D1748:119a-25	དེ་བས་མྱུར་དུ་ཐབས་མང་པོས་༎ འཆི་བ་བསླུ་བ་ཀུན་དུ་སྤྱོད་༎
+T02vamvuppu:140	 śuṣyanty abhīkṣṇaṃ ṣaḍmāsān maraṇaṃ tasya nirdiśet // VMv_1.70 //	T02D1748:121b-11	དེ་ནི་ཟླ་དྲུག་ནང་དུ་ནི་༎
+T02vamvuppu:141	 nakṣatracakrasaptarṣidiśāṃ rātrāv adarśanam /	T02D1748:121b-13	སྐར་མའི་ཚོགས་དང་དྲང་སྲོང་བདུན་༎ ཕྱོགས་སུ་མཚན་མོ་མ་མཐོང་ངམ་༎
+T02vamvuppu:142	 saptāhamṛtyor jāyeta jvālā vākasmikī tanau // VMv_1.71 //	T02D1748:121b-15	ལུས་ནི་གློ་བུར་འབར་འགྱུར་ན་༎ ཞག་བདུན་ན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:143	 arundhatīṃ rohiṇīṃ ca dhruvaṃ chāyāpathaṃ tathā /	T02D1748:121b-17	སྒྲིབ་མེད་དང་ནི་སྣར་མ་དང་༎ བསྟན་དང་དེ་བཞིན་གྲིབ་པའི་ལམ་༏་། མཚན་མོ་གློ་བུར་དུ་བ་མཐོང་༎
+T02vamvuppu:144	 rātrāv apaśyato 'kasmāt ṣaḍmāsān mṛtyum ādiśet // VMv_1.72 //	T02D1748:121b-19	ཟླ་བ་དྲུག་ལ་འཆི་བར་འགྱུར་༎
+T02vamvuppu:145	 kalaṅkarahitaṃ candraṃ sūryaṃ raśmivivarjitam /  saraśmikaṃ citrabhānuṃ candraṃ cāpi saraśmikam // VMv_1.73 //  rātrau sūryaṃ divā candraṃ svanetre jvalanaṃ tathā /	T02D1748:121b-20	ཟླ་བ་ར་རི་མེད་པ་དང་༎ ཉི་མ་འོད་དང་བྲལ་བ་དང་༎ མེ་ནི་སྣ་ཚོགས་འོད་བཅས་དང་༎ ཟླ་བ་ཡང་ནི་འོད་ཟེར་བཅས་༎ མཚན་མོ་ཉི་མ་ཉིན་པར་མཚན་༎
+T02vamvuppu:148	 tārāṃ merupramāṇāṃ ca samudraṃ ca nadīm iva // VMv_1.74 //	T02D1748:121b-22	དེ་བཞིན་རང་མིག་འབར་བ་དང་༎ སྐར་མ་རི་རབ་དག་གི་ཚད་༎ རྒྱ་མཚོ་ཆུ་བོ་ལྟ་བུ་དང་༎ ལྟེ་བའི་སྐྱིབས་སུ་བཤད་སྒོ་ལ་༎
+T02vamvuppu:149	 nābhau hikkāṃ gude hañchāṃ varṇaṃ padmopamaṃ mukhe /  galake piṭakān raktān gātre varṇavicitratām // VMv_1.75 //  hṛdaye krandanaṃ sāśru prakampam atha tāluni /	T02D1748:121b-24	སྦྲིད་པ་བཞིན་མདོག་པདམ་དང་༎ ལྐོག་མར་འབྲུམ་པ་དམར་པོ་དང་༎ ལུས་ལ་ཁ་དོག་སྣ་ཚོགས་དང་༎ སྙིང་གནས་སྨྲེ་མཆི་མར་བཅས་༎ ཡང་ན་རྐན་ནི་འགུལ་བ་དང་༎ ཟླ་ཟེར་མེ་ལྟར་འཚེར་བ་དང་༎ ཉི་ཟེར་ཁ་བ་ལྟ་བུར་བསིལ་༎ ཟླ་བ་ཉི་མའི་བུ་ག་དང་༎ ས་དང་གནམ་གྱི་བུ་ག་དང་༎ གང་ཞིག་བདག་ཉིད་ཁོ་ནས་མཐོང་༎
+T02vamvuppu:15	 na duṣkaraṃ yataḥ kiṃ cid upāyair yuktiyojitaiḥ /	T02D1748:119a-27	གང་ཕྱིར་རིགས་པར་ཐབས་སྦྱར་བ་༎ དཀའ་བ་ཅུང་ཟད་ཡོད་མ་ཡིན་༎
+T02vamvuppu:157	 ardhaṃ śītaṃ tathā coṣṇam ardhaṃ yasya kalevaram /	T02D1748:121b-32	གང་གི་ལུས་ནི་ཕྱེད་དག་ནི་༎ གྲང་ཞིང་དེ་བཞིན་ཕྱེད་དྲོན་༎
+T02vamvuppu:158	 saptarātrād bhaven mṛtyuḥ paralokaṃ vicintayet // VMv_1.79 //	T02D1748:121b-34	ཞག་བདུན་ནས་ནི་འཆི་འགྱུར་གྱིས་༎ འཇིག་རྟེན་པ་རོལ་རྣམ་བསམ་བྱ་༎
+T02vamvuppu:159	 hakāraḥ śītasaṃsparśaḥ phukāro vahnisaṃnibhaḥ /	T02D1748:121b-36	ཧ་ཞེས་བྱ་བ་གྲང་བར་ཚོར་༎ ཕུ་ནི་མེ་དང་འདྲ་འགྱུར་ན་༎
+T02vamvuppu:160	 yasyānubhūyate tasya daśāhād yamadarśanam // VMv_1.80 //	T02D1748:122a-0	གང་༄༡༢༢ཨ་༌་༎ གིས་ཉམས་སུ་མྱོང་བ་དེ་༎ ཞག་བཅུ་ནས་ནི་གཤིན་རྗེ་མཐོང་༎
+T02vamvuppu:161	 anāmikānāṃ mūleṣu dṛṣṭayā kṛṣṇarekhayā /	T02D1748:122a-4	རི་མོ་ནག་པོ་མཐོང་འགྱུར་ན་༎
+T02vamvuppu:162	 aṣṭādaśadinād ūrdhvaṃ mṛtyuḥ prākkarmadoṣataḥ // VMv_1.81 //	T02D1748:122a-5	ཞག་ནི་བཅོ་བརྒྱད་འོག་ཏུ་ནི་༎ སྔོན་ལས་ངེས་པར་འཆི་བར་འགྱུར་༎
+T02vamvuppu:163	 yasya mastakam āruhya trivarṇo yāti vegataḥ /	T02D1748:122a-7	གང་གི་མགོ་བོར་རྩངས་པ་ནི་༎ ཁ་དོག་གསུམ་བ་འཛེགས་ནས་སུ་༎
+T02vamvuppu:164	 kṛkalāso mṛtis tasya pañcamāsād viniścitā // VMv_1.82 //	T02D1748:122a-10	ཟླ་བ་ལྔ་ལས་ངེས་པར་འཆི་༎
+T02vamvuppu:165	 śabdo na śrūyate dehād dhastābhyām apamārjitāt /	T02D1748:122a-11	ལག་པ་གཉིས་ཀྱིས་མཉེས་པ་ཡི་༎ ལུས་ཀྱི་སྒྲ་ནི་མི་ཐོས་ཤིང་༎
+T02vamvuppu:166	 sarvāṅgaśītalatvena daśāhān maraṇaṃ dhruvam // VMv_1.83 //	T02D1748:122a-13	ཡན་ལག་ཐམས་ཅད་གྲང་གྱུར་པ་༎ ཞག་བཅུ་ན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:167	 yugapan nirgamo bāhujaṅghayor yasya gacchataḥ /  vināśo brahmasūtrasya mṛtyus tasyaikavarṣataḥ // VMv_1.84 //	T02D1748:122a-15	གང་གི་བྱིན་པ་ལག་པ་ནི་༎ ཅིག་ཅར་བསྐྱོད་ཅིང་འགྲོ་བ་དང་༎ ཚངས་པའི་སྐུད་པ་མེད་གྱུར་ན་༎ དེ་ནི་ལོ་གཅིག་དག་ནས་འཆི་༎
+T02vamvuppu:169	 kardame pāṃśudeśe vā purataḥ pṛṣṭhato 'pi vā /	T02D1748:122a-18	འདམ་མམ་ས་རྡུལ་ཕྱོགས་སུ་ནི་༎ རྐང་པའི་མདུན་ནམ་ཡང་རྒྱབ་ན་༎ རྐང་རྗེས་དུམ་བུ་མ་ཚང་བ་༎
+T02vamvuppu:170	 khaṇḍaṃ pādodaye nyūnaṃ mṛtyur māsacatuṣṭayāt // VMv_1.85 //	T02D1748:122a-21	ཟླ་བ་བཞི་ནས་འཆི་བར་འགྱུར་༎
+T02vamvuppu:171	 akasmāt puruṣaṃ paśyet kṛṣṇapiṅgalavarṇakam /	T02D1748:122a-22	སྐྱེས་བུ་གནག་དང་དམར་སེར་གྱི་༏་། མདོག་ཅན་གློ་བུར་དག་ཏུ་མཐོང་༎
+T02vamvuppu:172	 varṣatrayātyayān mṛtyur yadi bhrāntyā na kalpitaḥ // VMv_1.86 //	T02D1748:122a-24	གལ་ཏེ་འཁྲུལ་འགྱུར་མ་ཡིན་ན་༎ ལོ་གསུམ་འདས་ནས་འཆི་བར་འགྱུར་༎
+T02vamvuppu:173	 dvimāsamṛtyur hṛtpādau snātamātrasya śuṣyataḥ /  trirātramṛtyur durgandho jāyate vikṛtākṛtiḥ // VMv_1.87 //	T02D1748:122a-26	སྙིང་ག་རྐང་པ་བཀྲུས་མ་ཐག་༎ སྐམས་ན་ཟླ་བ་གཉིས་ན་འཆི་༎ མི་སྡུག་པར་སྣང་དྲི་ང་བ་༎ བྱུང་ན་ཉིན་ཞག་གསུམ་ན་འཆི་༎
+T02vamvuppu:175	 kharārkadivase toyair āpūrya mukhakoṭaram /  pratyahaṃ phūtkṛtaṃ kurvan kramāt tanmadhyasaṃsthitam // VMv_1.88 //	T02D1748:122a-30	ཉི་མ་ཚ་བར་ཆུ་ཡིས་ནི་༎ ཁ་ཡི་ནང་ནི་བཀང་ནས་ཀྱང་༎ ཉིན་རེ་ཕུ་ནི་འདེབས་པ་ན་༎ རིམ་གྱིས་དེ་དབུས་གནས་པ་ཡི་༎
+T02vamvuppu:177	 paśyed indradhanuś citraṃ dīrghāyuḥ puruṣaḥ sadā /	T02D1748:122a-34	དབང་པོའི་གཞུ་ནི་སྣ་ཚོགས་མཐོང་༎ སྐྱེས་བུ་རྟག་ཏུ་ཚེ་རིང་ཞིང་༎
+T02vamvuppu:178	 ṣaḍmāsāyur na tat paśyed iti karmavicitratā // VMv_1.89 //	T02D1748:122a-36	ཟླ་དྲུག་ཚེ་ཡོད་དེ་མི་མཐོང་༎
+T02vamvuppu:179	 kharārkadivase paśyet puro gaganamadhyataḥ /	T02D1748:122a-37	དེ་ལྟར་མཚན་མ་སྣ་ཚོགས་ཉིད་༎ མདུན་གྱི་ནམ་མཁའི་དབུས་སུ་ནི་༎
+T02vamvuppu:180	 muktāhārān ivālūnān muktāphalavibhūṣaṇān // VMv_1.90 //  indranīlamaṇicchāyān keśoṇḍukasamākṛtīn /	T02D1748:122a-39	མུ་ཏིག་ཕྲེང་བ་ཆད་པ་འདྲའི་༎ མུ་ཏིག་རྡོག་མས་བརྒྱན་པ་ནི་༎ ཉི་མ་གསལ་བའི་ཚེ་ནི་མཐོང་༎ མཐིང་གའི་ནོར་བུ་མདོག་འདྲ་ལ་༎ སྐྲ་ཤད་འཛེངས་པ་ལྟ་བུ་ནི་༎
+T02vamvuppu:182	 dṛśyadeśaṃ parityajya deśāntaravisarpiṇaḥ // VMv_1.91 //	T02D1748:122a-44	མཐོང་བར་གྱུར་པའི་ཕྱོགས་ནས་ནམ་༎ ཕྱོགས་གཞན་དུ་ནི་འགྲོ་བ་ངང་༏
+T02vamvuppu:183	 nāgān anekaśaḥ paśyet saṃyatān iva saṃtatam /	T02D1748:122a-46	། གླུ་ནི་དུ་མར་གཙེར་བདག་། རྟག་ཏུ་མཐོང་བར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:184	 teṣām adṛṣṭau ṣaḍmāsān maraṇaṃ parikīrtitam // VMv_1.92 //	T02D1748:122a-47	དེ་མ་མཐོང་ན་ཟླ་དྲུག་གིས་༎ འཆི་བ་རུ་ནི་ངེས་པར་བསྒྲགས་༎
+T02vamvuppu:185	 prabhāte vātha sāyāhne jyotsnāyāṃ vā ciraṃ puraḥ /	T02D1748:122a-49	སྔ་དྲོའམ་ཡང་ནི་ཕྱི་དྲོའམ་༎ ཟླ་ཟེར་དག་ལ་ཡུན་རིང་དུ་༎
+T02vamvuppu:186	 vitatya bāhū svacchāyāṃ dṛṣṭvā paśyec chanair nabhaḥ // VMv_1.93 //	T02D1748:122a-51	དཔུང་པ་བརྒྱངས་པའི་གྲིབ་མ་ལ་༎ བལྟས་ཏེ་རིམ་གྱིས་༄༡༢༢བ་མཁའ་ལ་བལྟ་༎
+T02vamvuppu:187	 tatrāpi dṛśyate chāyā dhavalā nararūpiṇī /	T02D1748:122b-1	དེར་ཡང་གྲིབ་མ་མི་གཟུགས་ནི་༎ གྲིབ་མ་སྐྱ་བོ་མཐོང་འགྱུར་ལ་༎
+T02vamvuppu:188	 śiraso 'darśanāt tasya mṛtyuḥ syād varṣamadhyataḥ // VMv_1.94 //	T02D1748:122b-3	དེ་མི་མགོ་བོ་མ་མཐོང་ན་༎ ལོ་གཅིག་གི་ནི་ནང་དུ་འཆི་༎
+T02vamvuppu:189	 putrabhāryāvināśaḥ syād vāmapāṇer adarśanāt /  dakṣiṇādarśanāt pitṛbhrātrādīnāṃ mahīyasām // VMv_1.95 //	T02D1748:122b-5	ལག་པ་ག-ཡོན་པ་མ་མཐོང་ན་༎ བུ་དང་ཆུང་མ་བརླག་པར་འགྱུར་༎ ལག་ག-ཡས་མ་མཐོང་བ་ཡིས་ཀྱང་༎ ཕ་དང་སྤུན་ཟླ་སོགས་ཆེན་འཆི་༎
+T02vamvuppu:191	 jānūpari sthitau bāhū kṛtvā mūrdhni tathāñjalim /	T02D1748:122b-9	ལག་གཉིས་པུས་མོའི་སྟེང་བཞག་པ་༎ བྱས་ནས་སྤྱི་བོར་ཐལ་སྦྱར་བ་༎
+T02vamvuppu:192	 rambhāphalanibhāṃ chāyāṃ lakṣayen madhyatas tayoḥ // VMv_1.96 //	T02D1748:122b-11	དེ་གཉིས་དབུས་ན་ཆུ་ཤིང་གེ་།འབྲས་བུ་ལྟ་བུའི་གྲིབ་མ་མཐོང་༎
+T02vamvuppu:197	 karṇau pidhāya sudṛḍhaṃ gambhīro gulgulo dhvaniḥ /	T02D1748:122b-18	གསུམ་པོ་འདི་དག་བརྟག་པར་བྱ་༎ རྣ་བ་ཤིན་ཏུ་དམ་པོར་དགབ་༎ ཟབ་ཅིང་འུར་འུར་སྒྲ་གྲག་པ་༎
+T02vamvuppu:198	 na śrūyate pañcadinaṃ daśa pañcadaśāthavā // VMv_1.99 //  viṃśatiṃ divasān yāvat pañcaviṃśatim eva vā /	T02D1748:122b-21	ཉིན་ཞག་ལྔའམ་བཅུའམ་ནི་༎ བཅོ་ལྔ་ཉིན་ཞག་ཉི་ཤུའམ་༎ ཉི་ཤུ་རྩ་ལྔ་ཉིད་ཀྱི་ནི་༎ བར་དུ་ཐོས་པར་མ་གྱུར་ན་༎
+T02vamvuppu:20	 kathyate jñāyate yena maraṇaṃ bhāvi tatparaiḥ // VMv_1.10 //  mṛtyor lakṣaṇam ājñātuṃ vāñchā cet kasya cid bhavet /	T02D1748:119a-36	གང་གིས་འཆི་བར་འགྱུར་བ་ནི་༎ ཤེས་འགྱུར་བརྩོན་པས་དེ་ཤེས་བྱ་༎ གལ་ཏེ་འགའ་ཞིག་འཆི་བ་ཡི་༎ མཚན་ཉིད་ཤེས་པར་འདོད་གྱུར་ན་༎
+T02vamvuppu:200	 bāṇābdhiguṇanetrenduvarṣair mṛtyur yathākramam // VMv_1.100 //	T02D1748:122b-25	མདའ་དང་རྒྱ་མཚོ་ཡོན་ཏན་མིག་། ཟླ་ལོར་གོ་རིམས་བཞིན་དུ་འཆི་༎
+T02vamvuppu:201	 eṣām apy antarāleṣu śodhyāḥ ṣoḍaśa vāsarāḥ /	T02D1748:122b-26	འདི་རྣམས་ཀྱི་ཡང་བར་རྣམས་སུ་༎ ཉིན་ཞག་བཅུ་དྲུག་དོར་བར་བྱ་༎
+T02vamvuppu:202	 varṣasyaiva caturthāṃśaiḥ kramaśaś cābhivardhitaiḥ // VMv_1.101 //	T02D1748:122b-28	ལོ་ཉིད་ཀྱི་ནི་ཆ་ལྔ་ཡི་༎ གོ་རིམས་བཞིན་དུ་བསྐྱེད་པས་སོ་།
+T02vamvuppu:203	 mastakopari niryāntīṃ saptāhaṃ dhūmamālikām /  yo na paśyati tasya syān mṛtyur varṣatrayāvadheḥ // VMv_1.102 //	T02D1748:122b-30	སྤྱི་བོའི་སྟེང་ནས་བྱུང་བ་ནི་༎ དུ་བའི་ཕྲེང་བ་ཞག་བདུན་ནི་༎ གང་གིས་མཐོང་བར་མ་གྱུར་དེ་༎ ལོ་གསུམ་ནས་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:205	 svanetrayoś caturdikṣu dṛśyante 'ṅgulipīḍanāt /  mārjāranetratulyāni jyotīṃṣi jhaṭitikramāt // VMv_1.103 //	T02D1748:122b-34	རང་མིག་དག་གི་ཕྱོགས་བཞིར་ནི་༎ སོར་མོས་མནན་ན་བྱི་ལ་ཡི་༎ མིག་དང་འདྲ་བའི་སྣང་བ་ནི་༎
+T02vamvuppu:207	 apīḍane 'pi taddṛṣṭau mṛtyuḥ syāc chatavāsaraiḥ /	T02D1748:122b-37	ཡུད་ཀྱི་རིམ་པས་མཐོང་བར་འགྱུར་༎ མ་བཙིར་བར་ཡང་དེ་མཐོང་ན་༎ ཞག་བརྒྱད་ན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:208	 etat sāmānyato jñeyaṃ viśeṣas tv ayam ucyate // VMv_1.104 //	T02D1748:122b-40	འདི་དག་སྤྱིར་ནི་ཤེས་བྱ་སྟེ་༎ ཁྱད་པར་འདི་ཡང་བརྗོད་པར་བྱ་༎
+T02vamvuppu:209	 candrasyādhas tathordhvaṃ ca karṇanāsopakaṇṭhayoḥ /	T02D1748:122b-42	ཟླ་བའི་འོག་དང་དེ་ཡི་སྟེང་༎ རྣ་བ་སྣ་དང་ཉེ་བར་ནི་༎ སྣང་བ་མ་མཐོང་མདོར་བསྡུ་ན་༎
+T02vamvuppu:210	 naṣṭe jyotiṣi mṛtyuḥ syāt ṣaṭtrinetrendumāsataḥ // VMv_1.105 //	T02D1748:122b-45	དྲུག་གསུམ་གཉིས་གཅིག་ཟླ་བས་འཆི་༎
+T02vamvuppu:211	 sūrye 'pi yadi candrasya kramaḥ syāt pūrvavat tadā /	T02D1748:122b-46	ཉི་མའང་གལ་ཏེ་ཟླ་བ་ཡི་༎ རིམ་འགྱུར་དེ་ཚེ་སྔ་མ་བཞིན་༎
+T02vamvuppu:212	 digbāṇaguṇanetreṣu dineṣu maraṇaṃ bhavet // VMv_1.106 //	T02D1748:122b-49	ཉིན་ཞག་རྣམས་སུ་འཆི་བར་འགྱུར་༎
+T02vamvuppu:213	 svarūpasya viparyāsāt ṣaḍmāsān maraṇaṃ bhavet /	T02D1748:122b-50	རང་གི་རང་བཞིན་འགྱུར་བ་ལས་༎ ཟླ་བ་དྲུག་མ་འཆི་བར་འགྱུར་༎
+T02vamvuppu:214	 pañcamāsād bhaven mṛtyur nāsāgrasya vināśataḥ // VMv_1.107 //	T02D1748:122b-52	སྣ་ལི་རྩེ་མོ་མ་མཐོང་ན་༎ ཟླ་བ་ལྔ་༄༡༢༣ཨ་༌་༎ ན་འཆི་བར་འགྱུར་༎
+T02vamvuppu:215	 bādhirye śrotrayor mṛtyuś caturmāsātyayād bhavet /	T02D1748:123a-2	རྣ་བ་གཉིས་ནི་འོན་གྱུར་ན་༎ ཟླ་བ་བཞི་ནི་འདས་ནས་འཆི་༎
+T02vamvuppu:217	 bhrūmadhye jyotiṣo 'dṛṣṭau dvimāsād yamadarśanam /	T02D1748:123a-4	དབང་པོ་དར་གནས་པ་ལས་འགྱེལ་༎ ཟླ་བ་གསུམ་ན་འཆི་བར་འགྱུར་༎ སྨིན་མཚམས་བར་དུ་སྣང་བ་མཐོང་༎ ཟླ་བ་གཉིས་ན་གཤིན་རྗེ་མཐོང་༎
+T02vamvuppu:218	 ekamāsātyayān mṛtyur vṛṣaṇe golakakṣayāt // VMv_1.109 //	T02D1748:123a-8	འཁྲིག་པའི་འབྲས་བུ་ཟད་འགྱུར་ན་༎ ཟླ་གཅིག་འདས་ནས་འཆི་བར་འགྱུར་༎
+T02vamvuppu:219	 parākṣṇoḥ pratibimbasyādṛṣṭau pakṣād vināśanam /	T02D1748:123a-10	གཞན་གྱི་མིག་ལ་གཟུགས་བརྙན་ནི་༎ མ་མཐོང་ཟླ་བ་ཕྱེད་ན་འཆི་༎
+T02vamvuppu:220	 jihvāyā aparāvṛttau daśāhān mṛtyusaṃgamaḥ // VMv_1.110 //	T02D1748:123a-12	ལྕེ་ནི་བསྐྱོད་པར་མི་ནུས་ན་༎ ཞག་བཅུ་ནས་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:221	 nābher viparyayān mṛtyuḥ pañcāhād upaśliṣyati /	T02D1748:123a-14	ལྟོ་བ་ལྡོག་གྱུར་ཞག་ལྔ་ནས་༎
+T02vamvuppu:222	 pārśvadvayasyākṛṣṭau tu mṛtyuḥ syād vāsaratrayāt // VMv_1.111 //	T02D1748:123a-15	འཆི་བདག་དང་ནི་ཕྲད་པར་འགྱུར་༎ རྩིབ་ལོགས་གཉིས་ལས་དྲངས་སྙམ་ན་༎ ཞག་གསུམ་ནས་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:223	 samastagātrastabdhatve mṛtyur ekāhiko bhavet /	T02D1748:123a-18	ལུས་ཀུན་རེངས་པར་གྱུར་ན་ནི་༎ ཞག་གཅིག་ན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:224	 lalāṭasthatrirekhāṇāṃ nāśān mṛtyur ahastrayāt // VMv_1.112 //	T02D1748:123a-20	དཔྲལ་བར་གནས་པའི་རི་མོ་གསུམ་༎ མེད་འགྱུར་ཞག་ནི་གསུམ་ནས་འཆི་༎
+T02vamvuppu:225	 svasthasya lālājihvā cen niḥsparśā dravavarjitā /  yāvat pañcadinaṃ mṛtyuḥ pañcāśaddivasais tathā // VMv_1.113 //	T02D1748:123a-23	རེག་པ་མི་ཚོར་སྐམས་པ་ནི་༎ ཉིན་ཞག་ལྔ་ཡི་བར་འགྱུར་ཏེ་༎ ཉིན་ཞག་ལྔ་བཅུ་དག་ནི་འཆི་༎ ཁུ་བ་གཅིག་ནི་འགྱུར་བ་ལས་༎
+T02vamvuppu:227	 amlāditvaṃ ca rasato nīlāditvaṃ ca varṇataḥ /  vikāraḥ śukramūtrāṇāṃ ṣaḍmāsān mṛtyudarśanāt // VMv_1.114 //	T02D1748:123a-28	ཟླ་བ་དྲུག་ན་འཆི་བར་འགྱུར་༎ ཅིག་ཅར་རྒྱུན་ནི་ལྔ་པའམ་༎ ག-ཡོན་ནས་འཁོར་ཞིང་དྲི་ད་བར་༎ གང་གི་གཅིག་ནི་འབྱུང་འགྱུར་བ་༎
+T02vamvuppu:229	 yugapatpañcadhāraṃ vā vāmāvartaṃ vigandhi ca /  mūtraṃ yasya bhaven mṛtyus tasya ṣaḍmāsamadhyataḥ // VMv_1.115 //	T02D1748:123a-32	དེ་ནི་ཟླ་བ་དྲུག་ན་འཆི་༎ ཟླ་བ་ཡར་ངོ་འམ་མར་ངོ་ལ་༎ གལ་ཏེ་ཁུ་བ་ནག་པོར་འགྱུར་༎ ཟླ་བ་དྲུག་ན་འཆི་བར་འགྱུར་༎
+T02vamvuppu:23	 dhātuvaiṣamyato rogāt timirādiprabhāvataḥ /	T02D1748:119a-42	ཁམས་མི་སྙོམས་དང་འདོད་ཆགས་དང་༎ རབ་རིབ་ལ་སོགས་དབང་གྱུར་དང་༎ འཇིགས་དང་མྱ་ངན་སོགས་པའི་རྒྱུས་༎
+T02vamvuppu:231	 kṛṣṇe vā yadi vā śukle pakṣe reto 'tikṛṣṇakam /  mṛtyuḥ ṣaḍmāsato no cet tenaiva syāt pratikriyā // VMv_1.116 //	T02D1748:123a-37	ནག་པོའི་ཆ་ནི་ཡོངས་སྤངས་ཏེ་། དཀར་པོའི་ཆ་ནས་བླངས་ནས་སུ་༎ སྣ་བུག་ག-ཡོན་ནས་རླུང་རྒྱུའི་ཚེ་༎ བཅུག་ནས་སླར་གསོར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:233	 kṛṣṇabhāgaṃ parityajya gṛhītvā śuklabhāgakam /  candre prabhañjane vāti praveśāt syāt pratikriyā // VMv_1.117 //  sthiratve 'pi svadehasya tacchāyā cañcalā yadi /	T02D1748:123a-42	གལ་ཏེ་གྲིབ་མ་ཡོན་ནི་༎ ཟླ་བ་བཞིན་འཆི་འགྱུར་ཞེས་༎
+T02vamvuppu:237	 dakṣiṇāśāgatāṃ chāyām ātmano yadi paśyati /	T02D1748:123a-45	གྲིབ་མ་ལྷོ་ཕྱོགས་འགྲོ་བར་ནི་༎ གལ་ཏེ་བདག་ཉིད་ཀྱིས་མཐོང་ན་༎
+T02vamvuppu:238	 adyaiva mṛtyur asmākam iti paśyed anityatām // VMv_1.119 //	T02D1748:123a-47	བདག་ཉིད་དེ་ཉིད་འཆིའོ་ཞེས་༎ དེ་ལྟར་མི་རྟག་པ་ཉིད་མཐོང་༎
+T02vamvuppu:239	 nirarthako visaṃvādī mithyetyādi prakāśanāt /	T02D1748:123a-49	དོན་མེད་པ་དང་བསླུ་བ་དང་༎ ལོག་པ་ལ་སོགས་པར་བཤད་པས་༎
+T02vamvuppu:240	 svapno 'py asatyaḥ sarveṣāṃ nātaḥ śraddhā na yujyate // VMv_1.120 //	T02D1748:123a-50	རྨི་ལམ་ཐམས་ཅད་བདེན་མིན་ཡང་༎ དེ་ལ་མ་དང་རིགས་མ་ཡིན་༎
+T02vamvuppu:241	 devatādarśitaḥ svapnaḥ satyasvapno 'tha yo naraḥ /	T02D1748:123b-0	རྨི་ལམ་དག་ཏུ་ལྷས་བསྟན་དང་༎ ༄༡༢༣བ་ཡང་ན་རྨི་ལམ་བདེན་མཐོང་མིས་༎
+T02vamvuppu:242	 sa svapne pratyayaṃ kṛtvā mṛtyuliṅgāni paśyatu // VMv_1.121 //	T02D1748:123b-1	རྨི་ལམ་ཡིད་ཆེས་བྱས་ནས་སུ་༎ འཆི་བའི་མཚན་མ་བལྟ་བར་བྱ་༎
+T02vamvuppu:243	 kiṃśukaṃ kovidāraṃ ca puṣpitaṃ karavīrakam /	T02D1748:123b-3	རྒྱ་སྐྱེགས་ཀོ་བི་ད་ར་དང་༎ ཀ་ར་བའི་ར་མེ་ཏོག་རྒྱས་༎
+T02vamvuppu:244	 yo 'bhirohati svapnānte sa syāt ṣaḍmāsamṛtyukaḥ // VMv_1.122 //	T02D1748:123b-4	རྨི་ལམ་མཐར་ནི་གང་ཞིག་འཛེག་། དེ་ནི་ཟླ་བ་དྲུག་ན་འཆི་༎
+T02vamvuppu:245	 vihārayaṣṭiṃ svapnānte yo 'bhirohati mānavaḥ /	T02D1748:123b-5	མི་ནི་གང་ཞིག་རྨི་ལམ་མཐར་༎ ལྷ་གང་གི་ནི་མཆོད་སྡོང་ངམ་༎
+T02vamvuppu:246	 vālukābhasmarāśiṃ vā maraṇaṃ tasya pūrvavat // VMv_1.123 //	T02D1748:123b-7	བྱེ་མའམ་ཐལ་ཕུང་ལ་འཛེག་པ་༎ དེ་ནི་སྔ་མ་བཞིན་དུ་འཆི་༎
+T02vamvuppu:247	 gardabhaṃ yaḥ samārūḍhaḥ prayāyād dakṣiṇāṃ diśam /	T02D1748:123b-9	བོང་བུ་ལ་ནི་ཞོན་ནས་སུ་༎ ལྷོ་ཕྱོགས་སུ་ནི་རབ་སོང་ནས་༎
+T02vamvuppu:248	 bhūyaś ca na nivarteta tadvat tasyāpi jīvitam // VMv_1.124 //	T02D1748:123b-11	སླར་ཡང་ལྡོག་པར་མ་གྱུར་པ་༎ དེ་ཡི་སྲོག་ཀྱང་དེ་བཞིན་ནོ་༎
+T02vamvuppu:249	 yaś cāpi vānarārūḍhaḥ prayāyād dakṣiṇāṃ diśam /	T02D1748:123b-13	གང་ཡང་སྤྲེའུ་ལ་ཞོན་ནས་༎ ལྷོ་ཕྱོགས་སུ་ནི་འགྲོ་བྱེད་ཅིང་༏
+T02vamvuppu:25	 daivabhūtobhayakṣobhān mṛtyuṃ trividhalakṣaṇam /	T02D1748:119a-44	ལྷ་དང་འབྱུང་བ་གཉིས་ཀ་ནི་༎ ༄༡༡༩བ་འཁྲུགས་པས་འཆི་བའི་མཚན་ཉིད་གསུམ་༎ འཐོབ་ལས་འཆི་ལྟས་བྱུང་གྱུར་པའི་༎
+T02vamvuppu:250	 tatrasthaś ca vibudhyeta mṛtyuḥ syāt tasya pūrvavat // VMv_1.125 //	T02D1748:123b-15	། དེར་གནས་བཞིན་དུ་སད་ན་ནི་༎ དེ་ནི་སྔ་མ་བཞིན་དུ་འཆི་༎
+T02vamvuppu:252	 vālmīkaṃ pāṃśurāśiṃ vā ṣaḍmāsān na sa jīvati // VMv_1.126 //	T02D1748:123b-18	གྲོག་མཁར་ཕྱག་དར་ཁྲོད་ཕུང་ལ་༎ དེ་ནི་ཟླ་དྲུག་ལས་མི་འཚོ་༎
+T02vamvuppu:253	 kālī kumārī saṃkruddhā yā tu badhnāti bandhanaiḥ /	T02D1748:123b-21	བུ་མོ་ནག་མོ་རབ་ཁྲོས་ནས་༎ གང་ཞིག་བཅིངས་པས་འཆི་བ་ནི་༏
+T02vamvuppu:254	 kālarātrī tu sā jñeyā saptāhān mṛtyukārikā // VMv_1.127 //	T02D1748:123b-23	། དེ་ནི་དུས་མཚན་ཡིན་ཞེས་བྱ་༎ ཞག་བདུན་ནས་ནི་འཆི་བྱེད་ཡིན་༎
+T02vamvuppu:255	 kṛṣṇavastrā tu yā nārī kālī kāmayate naraṃ /	T02D1748:123b-25	བུད་མེད་གང་ཞིག་གོས་གནག་ཅིང་༎ མདོག་གནག་མི་ནི་འདོད་སྤྱོད་ལ་༎ ཀ་ར་བའི་རའི་ཕྲེང་བ་རྨིས་༎
+T02vamvuppu:257	 tamo vā praviśet svapne śvabhraṃ vā cārakaṃ tathā /  vṛkṣād vā prapatet svapne sa mṛtyor antike sthitaḥ // VMv_1.129 //	T02D1748:123b-28	དེ་ནི་གཤིན་རྗེའི་གནས་སུ་འགྲོ་༎ རྨི་ལམ་དུ་ནི་མུན་པའམ་༎ ག-ཡང་སའམ་དེ་བཞིན་བཙོན་རར་འཇུག་། རྨི་ལམ་དུ་ནི་ཤིང་ལས་ལྷུང་༎ དེ་ནི་འཆི་བདག་གན་ན་གནས་༎
+T02vamvuppu:259	 vṛkṣaṃ tṛṇaṃ vā kāṣṭhaṃ vā viphalaṃ yas tu paśyati /	T02D1748:123b-33	ལྗོན་ཤིང་རཙབ༹འམ་ཤིང་དག་ནི་༎ འབྲས་བུ་མེད་པར་གང་གིས་མཐོང་༎
+T02vamvuppu:26	 prāpyāriṣṭasamudbhūtir ato bhedena lakṣayet // VMv_1.13 //	T02D1748:119b-2	དབྱེ་བ་དེ་བས་ཤེས་པར་བྱ་༎
+T02vamvuppu:260	 suptaḥ śīrṣe śarīre vā ṣaḍmāsān na sa jīvati // VMv_1.130 //	T02D1748:123b-35	ཟླ་དྲུག་ལས་ནི་མི་འཚེའོ་༎
+T02vamvuppu:261	 yo vānararathārūḍho gacchet pūrvāṃ diśaṃ naraḥ /	T02D1748:123b-36	མི་ནི་གང་ཞིག་སྤྲེའུ་ཡི་༎ བཞོན་པ་ལ་ཞོན་ཤར་ཕྱོགས་འགྲོ་༎
+T02vamvuppu:262	 pratibuddho vijānīyād rātrir eṣā mamāntimā // VMv_1.131 //	T02D1748:123b-38	སད་པར་གྱུར་ན་དེ་ཡི་ནི་༎ མཚན་མོ་ཐ་མ་ཡིན་ཞེས་བྱ་༎
+T02vamvuppu:263	 śvakākagṛdhragomāyurakṣaḥpretapiśācakaiḥ /  bhakṣyate prohyate cāpi kharapotryuṣṭrasaurabhaiḥ // VMv_1.132 //	T02D1748:123b-40	ཁྱི་ཁབ༹་བྱ་རྒོད་ཅེ་སྦྱང་དང་༎ སྲིན་པོ་ཡི་དགས་ཤ་ཟ་ཡིས་༎ ཟོས་དང་བོང་བུ་ཕག་རྔ་མོ་༎ མ་ཧེ་སྤྱོན་ཏེ་ཁྱེར་བ་ནི་༎
+T02vamvuppu:265	 ekābdavigame nūnaṃ maraṇaṃ tasya nirdiśet /	T02D1748:123b-43	དེ་ནི་ངེས་པར་ལོ་གཅིག་ནས་༎ འཆི་བ་རུ་ནི་སྟོན་པ་ཡིན་༎
+T02vamvuppu:266	 svapnadṛṣṭanimittānāṃ śāntir māyopamā matiḥ // VMv_1.133 //	T02D1748:123b-45	རྨི་ལམ་མཚན་མ་མཐོང་ན་ནི་༎ སྒྱུ་མ་ལྟ་བུའི་བློས་ཞི་བྱ་༎
+T02vamvuppu:267	 lohadaṇḍadharaṃ kṛṣṇaṃ naraṃ kṛṣṇaparicchadam /	T02D1748:123b-47	མི་ནི་ལྕགས་ཀྱི་དབྱིག་པ་ཐོག་། གནག་ཅིང་གོས་ནི་ནག་པོ་གྱོན་༎
+T02vamvuppu:268	 prasuptenāgrato dṛṣṭvā trimāsān mṛtyur āpyate // VMv_1.134 //	T02D1748:123b-48	གཉིད་ལོག་པ་ཡི་མདུན་ན་མཐོང་༎ ཟླ་བ་གསུམ་ན་འཆི་བར་འགྱུར་༎
+T02vamvuppu:269	 raktagandhapraliptāṅgaṃ raktamālyavibhūṣitam /  tailābhyaktam atibhītaṃ muṇḍitaṃ raktavāsasam // VMv_1.135 //	T02D1748:123b-50	ལུས་ནི་དྲི་དམར་གྱིས་བྱུགས་ཤིང་༎ ཕྲེང་བ་དམར་པོས་རྣམ་པར་བརྒྱན་༎ ༄༡༢༤ཨ་༌་༎ ཏིལ་མར་གྱིས་བསྐུས་ཤིན་ཏུ་སྐྲག་། སྐྲ་བྲེགས་གོས་ནི་དམར་པོ་གྱོན་༎
+T02vamvuppu:27	 bāhyābhyantarabhedena daivakṣobho dvidheṣyate /	T02D1748:119b-3	ཕྱི་དང་ནང་གི་དབྱེ་བ་ཡིས་༎
+T02vamvuppu:271	 kharam āruhya vegena vrajantaṃ dakṣiṇāṃ diśam /	T02D1748:124a-1	བོང་བུ་ཞོན་ཏེ་མགྱོགས་པར་ནི་༎ ལྷོ་ཡི་ཕྱོགས་སུ་འགྲོ་འགྱུར་བར་༎ བདག་ཉིད་འདི་འདྲར་རྨི་ལམ་ན་༎ མཐོང་ན་ཟླ་བ་དྲུག་ལ་འཆི་༎ ཡང་ན་གོས་ནི་དམར་པོའམ་༎ གང་གི་རྨི་ལམ་དག་ཏུ་རྙེད་༎
+T02vamvuppu:277	 etāni mṛtyoḥ pratipādakāni liṅgāni bāhyāni yathoditāni /	T02D1748:124a-8	དེ་ནི་ཟླ་བ་བརྒྱད་ན་འཆི་༎ ཕྱི་རོལ་གྱི་ནི་འཆི་བ་ཡི་༎ མཚན་མ་གྲངས་ལས་འདས་པ་ནི་༎ ལོ་བརྒྱད་ཡང་ནི་ཁ་ཅིག་གིས་༎ སྨྲ་བར་ཡང་ནི་སུ་ཡིས་ནུས་༎ འཆི་བར་སྟོན་པར་བྱེད་པ་ཡི་༎ ཕྱི་ཡི་རྟགས་ནི་ཇི་ལྟར་བཤད་༎
+T02vamvuppu:278	 vijñāya tāni tvaritaṃ vidheyo mantrādibhir vañcana eva yatnaḥ // VMv_1.139 //	T02D1748:124a-15	འདི་དག་ཤེས་བྱས་སྔགས་སོགས་ཀྱིས་༎ བསླུ་བའི་འབད་པར་མྱུར་དུ་བྱ་༎
+T02vamvuppu:28	 bhūtakṣobho 'pi dvividhas tathaiveti nirūpayet // VMv_1.14 //	T02D1748:119b-4	ལྷ་འཁྲུགས་པ་ནི་གཉིས་སུ་འདོད་༎ དེ་བཞིན་འབྱུང་བ་འཁྲུགས་པ་ནི་༎ རྣམ་པ་གཉིས་སུ་བརྟག་པར་བྱ་༎
+T02vamvuppu:280	 idānīm āntaraṃ mṛtyor lakṣaṇaṃ kathyate sphuṭam /	T02D1748:124a-18	༎ ། ད་ནི་ནང་གི་འཆི་བ་ཡི་༎ མཚན་ཉིད་གསལ་བར་བརྗོད་པར་བྱ་༎
+T02vamvuppu:281	 tac ca vāyūdayāj jñeyaṃ vāyur ghrāṇāsyagocaraḥ // VMv_2.1 //	T02D1748:124a-20	དེ་ནི་རླུང་བྱུང་ལས་ཤེས་བྱ་༎ རླུང་ནི་ཁ་དང་སྣ་སྤྱོད་ཡུལ་༎
+T02vamvuppu:282	 bāhyalakṣaṇamātrān na mṛtyoḥ samyag viniścayaḥ /  yāvad ādhyātmikaṃ samyag lakṣaṇaṃ naiva niścitam // VMv_2.2 //	T02D1748:124a-22	ཇི་སྲིད་ནང་གི་མཚན་ཉིད་ནི་༎ ལེགས་པར་ངེས་པར་མ་བྱས་པར་༎ ཕྱི་ཡི་མཚན་ཉིད་ཙམ་གྱིས་ནི་༎ འཆི་བའི་ངེས་པ་ལེགས་མི་རྙེད་༎
+T02vamvuppu:284	 ubhayor niścayān mṛtyur niścitaḥ syāt parisphuṭam /	T02D1748:124a-26	འཆི་བའི་ངེས་པ་གཉི་ག་ནི་༎ ངེས་བྱས་ཡོངས་སུ་གསལ་བ་ཡིན་༎
+T02vamvuppu:285	 bāhye buddhiviparyāso rogāder api saṃskṛteḥ // VMv_2.3 //	T02D1748:124a-28	ཕྱི་རོལ་བློ་ནི་ཕྱིན་ཅི་ལོག་། ནད་ལ་སོགས་པའི་དོགས་པ་སྐྱེད་༎
+T02vamvuppu:286	 puṣyādimāsasaṃkrāntau pūrṇamāsyādiparvasu /	T02D1748:124a-29	དགུན་ཟླ་འབྲིང་སོགས་འཕོ་བ་ཡི་༎ ཟླ་བ་ཉ་སོགས་ཐམས་ཅད་ལ་༎
+T02vamvuppu:287	 sāmānyalakṣaṇaṃ mṛtyor lakṣayet prātarāditaḥ // VMv_2.4 //	T02D1748:124a-31	འཆི་བའི་མཚན་ཉིད་སྤྱི་ཡི་ནི་༎ ནང་པར་ཐོག་མར་བརྟག་པར་བྱ་༎
+T02vamvuppu:288	 nirūpakanaro yatra dine kālaṃ nirūpayet /	T02D1748:124a-33	མི་ནི་རྟོག་བྱེད་ཉིན་ཞག་ནི་༎ གང་ལ་ངེས་པར་རྟོག་པར་བྱེད་༎ ཉིན་ཞག་དེ་ནས་བརྩམས་ནས་ནི་༎
+T02vamvuppu:289	 tad ārabhya dinaṃ mṛtyur mitakālātyayād bhavet // VMv_2.5 //	T02D1748:124a-36	དུས་འདས་པ་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:29	 daivasaṃkṣobhato mṛtyur ādhidaivika ucyate /	T02D1748:119b-7	ལྷ་རྣམས་ཀུན་འཁྲུགས་ལས་འཆི་བ་༎ ལྷ་ལས་གྱུར་པ་ཡིན་པར་བཤད་༎
+T02vamvuppu:290	 samaprakṛtiyuktānāṃ sarvaprāṇabhṛtāṃ sadā /	T02D1748:124a-37	རང་བཞིན་ཐ་མལ་དང་ལྡན་པའི་༎ སྲོག་ཆགས་ཀུན་ལ་རྟག་ཏུ་ནི་༎
+T02vamvuppu:292	 vāyur vahati yāmārdhaṃ sūryaśītāṃśusaṃjñake /	T02D1748:124a-39	སྣ་ཁུང་ག-ཡས་དང་ག-ཡོན་པ་ལ་༎ ཉི་མ་ཟླ་བ་ཞེས་བྱ་བ་༎ རླུང་ནི་ཐུན་ཕྱེད་དག་ཏུ་རྒྱུ་༎
+T02vamvuppu:293	 ato viparyayāt kalpyaṃ maraṇādi manīṣibhiḥ // VMv_2.7 //	T02D1748:124a-43	དེ་ལས་བཟློག་པས་འཆི་བ་སོགས་༎ མཁས་པ་རྣམས་ཀྱིས་བརྟག་པར་བྱ་༎
+T02vamvuppu:294	 pratipadaṃ samārabhya śuklāṃ vahati candragaḥ /  dināni trīṇi pavanaḥ tataḥ sūrye dinatrayam // VMv_2.8 //	T02D1748:124a-45	ཚེས་གཅིག་ནས་ནི་བརྩམས་ནས་སུ་༎ ཟླ་བར་གཏོགས་པ་དཀར་པོར་རྒྱུ་༎ རླུང་ནི་ཉི་མ་གསུམ་ཡིན་ཏེ་༎ དེ་ནས་ཞག་གསུམ་ཉི་མ་ཡི་༎
+T02vamvuppu:296	 dinatrayaṃ punaś candre tataḥ sūrye dinatrayam /	T02D1748:124a-49	སླར་ཡང་ཟླ་བས་ཉིན་གསུམ་སྟེ་༎ དེ་ནས་ཉི་མར་ཞག་གསུམ་མོ་༎
+T02vamvuppu:297	 krameṇānena niyamād yāvat pañcadaśī sitā // VMv_2.9 //  evaṃ kṛṣṇaṃ samārabhya sūrye vahati mārutaḥ /	T02D1748:124b-0	༄༡༢༤བ་ཡར་ངོའི་ཟླ་བ་ཉ་ཡི་བར་༎ དེ་བཞིན་མར་ངོ་ནས་བརྩམས་ཏེ་༎ ཉི་མར་རླུང་ནི་རྒྱུ་བ་ཡིན་༎ ཅིག་ཤོས་ཀྱི་ནི་བཅོ་ལྔའི་བར་༎
+T02vamvuppu:299	 dināni trīṇi pūrvavad yāvat pañcadaśītarā // VMv_2.10 //  kramasyāsya viparyāsāt tribhiḥ pakṣaiḥ suniścitāt /	T02D1748:124b-5	ཉི་མ་གསུམ་གསུམ་སྔ་མ་བཞིན་༎ གོ་རིམས་འདི་ལས་བཟློག་པར་བལྟ་༎ ཟླ་བ་ཕྱེད་དང་གཉིས་པར་ངེས་༎
+T02vamvuppu:3	 ajarāmaratāṃ prāptam ajarāmarakārakam /	T02D1748:119a-5	རྒ་ཤི་མེད་པ་ཐོབ་པའི་ཕྱིར་༎
+T02vamvuppu:30	 daivakṣobho 'naśanādivajrapātādilakṣaṇaḥ // VMv_1.15 //	T02D1748:119b-9	ལྷ་འཁྲུགས་པ་ལས་མུ་གེ་སོགས་༎ ཐོག་བབས་ལ་སོགས་མཚན་ཉིད་ཡིན་༎
+T02vamvuppu:301	 ṣaḍbhir māsair bhaven mṛtyur dharmam eva smaret tataḥ // VMv_2.11 //	T02D1748:124b-8	ཟླ་བ་དྲུག་ནས་འཆི་འགྱུར་བ་༎ དེ་ཕྱིར་ཆོས་ནི་དྲན་པར་བྱ་༎
+T02vamvuppu:302	 pakṣadvayaviparyāsāt suhṛdbandhuvipad bhavet /  ekapakṣaviparyāsād dāruṇavyādhisaṃbhavaḥ // VMv_2.12 //	T02D1748:124b-10	ཟླ་བ་གཅིག་ནི་གོ་བཟློག་པས་༎ གཉེན་དང་བཤེས་ནི་རྒུད་པར་འགྱུར་༎ ཟླ་ཕྱེད་ཕྱིན་ཅི་ལོག་གྱུར་པས་༎ ནད་ནི་མི་བཟད་འབྱུང་བར་འགྱུར་༎
+T02vamvuppu:304	 ekadvitricatuḥpañcaṣaḍdināni viparyayāt /	T02D1748:124b-14	ཉིན་གཅིག་ཉིན་གསུམ་བཞི་དང་ལྔ་༎ ཞག་དྲུག་གོ་ནི་བཟློག་པ་རུ་༏
+T02vamvuppu:305	 vahed vāyur yadi tadā kalyudvegādi jāyate // VMv_2.13 //	T02D1748:124b-16	། རླུང་ནི་གལ་ཏེ་རྒྱུ་གྱུར་ན་༎ དེ་ཚེ་རྩོད་དང་སྐྱེ་སོགས་འབྱུང་༎
+T02vamvuppu:306	 trimārgago bhaved vāyuḥ prakṛteḥ parivarjanāt /	T02D1748:124b-18	རང་བཞིན་ཡོངས་སུ་སྤངས་ན་ནི་༎ ལམ་གསུམ་རྟོགས་པར་རླུང་རྒྱུ་ན་༎
+T02vamvuppu:307	 madhyāhnāt parato mṛtyuḥ pratīkāravivarjitaḥ // VMv_2.14 //	T02D1748:124b-20	སླར་གསོ་བ་ནི་ནུས་པ་མིན་༎ ཉི་མ་ཕྱེད་ནི་འདས་ནས་འཆི་༎
+T02vamvuppu:308	 saṃkrāntirahito vāyur ubhayor api mārgayoḥ /	T02D1748:124b-22	རླུང་ནི་འཕོ་བ་མེད་པ་རུ་༎ ལམ་ནི་གཉིས་པོ་དག་ལས་ཀྱང་༎
+T02vamvuppu:309	 vahed yasya daśāhāni saṃkrāntau mriyate hi saḥ // VMv_2.15 //	T02D1748:124b-24	ཞག་བཅུའི་བར་དུ་རྒྱུ་གྱུར་ན་༎ འཕོ་བའི་ཚེ་ན་དེ་འཆི་ཡི་༎
+T02vamvuppu:31	 bhūtasaṃkṣobhato mṛtyur ādhibhautika ucyate /	T02D1748:119b-11	འབྱུང་བ་འཁྲུགས་པས་འཆི་བ་ནི་༎ འབྱུང་བ་ལས་གྱུར་ཞེས་བྱ་བཤད་༎
+T02vamvuppu:310	 viṣuvatkṣaṇasaṃprāptau spandete yasya locane /	T02D1748:124b-26	ཉིན་ཞག་མཉམ་འདྲ་སྐད་ཅིག་འཐོབ་༎ གང་གི་མིག་ནི་འགུལ་གྱུར་པ་༎
+T02vamvuppu:311	 tasya nāśaṃ vijānīyād ahorātrān na saṃśayaḥ // VMv_2.16 //	T02D1748:124b-28	དེ་ཡི་སྲོག་ནི་ཉིན་ཞག་ནི་༎ གཅིག་ན་འཇིག་པར་གདོན་མི་ཟ་༎
+T02vamvuppu:312	 itaś cetaś ca bahudhā yasyārdhapraharaṃ vahet /	T02D1748:124b-30	ཐུན་ཕྱེད་ཀྱི་ནི་བར་དག་ཏུ་༎ ཕན་ཚུན་དུ་ནི་ལམ་མང་ཞིང་༎ རླུང་རྒྱུ་དེ་ལས་མཆོད་པ་དག་། ཐོབ་པ་ཉིད་དུ་ཤེས་པར་བྱ་༎ གང་གི་འཕོ་བ་ལྔ་པོ་ནི་༎ འདས་པར་ཁ་རུ་རྒྱུ་གྱུར་པ་༎
+T02vamvuppu:315	 vāyus tasyārthanāśaḥ syād udvego vā bhayādi vā // VMv_2.18 //	T02D1748:124b-37	སྣ་ཡི་ཁུང་བུ་ག-ཡོན་པའི་རླུང་༎ འཕོ་བ་ཡང་ནི་བཅུ་གསུམ་ནི་༎
+T02vamvuppu:317	 samatītya vahed yasya tasya rogādi jāyate // VMv_2.19 //	T02D1748:124b-39	འདས་པར་གང་གི་རྒྱུ་གྱུར་པ་༎ དེ་ལ་ནད་སོགས་སྐྱེ་བར་འགྱུར་༎
+T02vamvuppu:318	 puṭadvayaṃ parityajya yadā vaktreṇa gacchati /	T02D1748:124b-41	སྣ་ཁུང་གཉི་གའི་ཡོངས་སྤངས་ཏེ་༎ གང་ཚེ་ཁར་ནི་རྒྱུ་གྱུར་ན་༎
+T02vamvuppu:319	 tad ahar jīvitaṃ tasya yadi vajrasamo 'py asau // VMv_2.20 //	T02D1748:124b-43	གལ་ཏེ་རྡོ་རྗེ་འདྲ་ནའང་འདི་༎ ཉིན་ཞག་དེ་ལས་འཚོ་མ་ཡིན་༎
+T02vamvuppu:32	 bhūtakṣobhas tu pittādivahnitoyādyupadravaḥ // VMv_1.16 //	T02D1748:119b-13	འབྱུང་བ་འཁྲུགས་པས་མཁྲིས་སོགས་དང་༎ མེ་དང་ཆུ་སོགས་འཚེ་བ་ཡིན་༎
+T02vamvuppu:320	 mārgaśīrṣasya saṃkrāntikālam ārabhya mārutaḥ /  pañcāhaṃ ced vahet sūrye mṛtyur aṣṭādaśābdataḥ // VMv_2.21 //	T02D1748:124b-45	དགུན་ཟླ་ར་བའི་འཕོ་བ་ཡི་༎ ཉི་མར་ཞག་ལྔ་རྒྱུ་གྱུར་ན༎ ལོ་ནི་བཅོ་བརྒྱད་ཉིད་ནས་འཆི་༎
+T02vamvuppu:322	 aśvayuṅmāsasaṃkrāntikālam ārabhya mārutaḥ /  pañcāhaṃ ced vahen mṛtyur bhavet pañcadaśābdataḥ // VMv_2.22 //	T02D1748:124b-50	དུས་ནས་བརྩམས་ཏེ་རླུང་དག་ནི་༎ ཞག་ལྔའི་བར་དུ་རྒྱུ་གྱུར་ན་༎ ལོ་ནི་བཅོ་ལྔ་ཉིད་ནས་འཆི་༎
+T02vamvuppu:324	 śrāvaṇasyāpi ced evaṃ mṛtyur dvādaśavarṣataḥ /	T02D1748:124b-53	དབྱར་ཟླ་ཐ་ཆུངས་ཡང་དེ་བཞིན་༎ ལོ་ནི་བཅུ་གཉིས་ཉིད་ནས་འཆི་༎
+T02vamvuppu:325	 jyeṣṭhe 'pi ced bhaved evaṃ mṛtyuḥ syān navavarṣataḥ // VMv_2.23 //	T02D1748:124b-55	དབྱར་ཟླ་ར་བའང་དེ་བཞིན་འགྱུར༎ ༄༡༢༥ཨ་༌་༎ ལོ་དགུ་ཉིད་ནས་འཆི་བར་འགྱུར་༎
+T02vamvuppu:326	 caitramāsasya saṃkrāntikālam ārabhya ced vahet /  pañcāhaṃ māruto mṛtyuḥ ṣaḍbhir varṣais tadā bhavet // VMv_2.24 //	T02D1748:125a-1	དཔྱིད་ཟླ་འབྲིང་པོའི་འཕོ་བ་ཡི་༎ ཞག་ལྔའི་བར་དུ་རྒྱུ་གྱུར་ན་༎ དེ་ཚེ་ལོ་དྲུག་ཉིད་ནས་འཆི་༎
+T02vamvuppu:328	 māghamāsasya saṃkrānteḥ pañcāhaṃ ced vahen marut /	T02D1748:125a-6	རླུང་ནི་ཞག་ལྔ་རྒྱུ་གྱུར་ན་༎
+T02vamvuppu:329	 varṣatrayātyayān mṛtyur iti kālavicakṣaṇāḥ // VMv_2.25 //	T02D1748:125a-7	ལོ་གསུམ་འདས་ནས་འཆི་བར་ནི་༎ དེ་ལྟར་དུས་ལ་མཁས་པས་བཤད་༎
+T02vamvuppu:33	 ubhayakṣobhato mṛtyur ubhayājjo nigadyate /	T02D1748:119b-14	གཉི་ག་འཁྲུགས་པས་འཆི་བ་དང་༎ གཉི་ག་ལས་གྱུར་པ་ཞེས་བཤད་༎
+T02vamvuppu:330	 sarvatra dvitricaturo vāyuś ced divasān vahet /	T02D1748:125a-9	ཐམས་ཅད་དུ་ནི་ཞག་གཉིས་གསུམ་༎
+T02vamvuppu:34	 ubhayakṣobho vajrādipittaśleṣmādyupadravaḥ // VMv_1.17 //	T02D1748:119b-15	གཉིས་ཀ་འཁྲུགས་པས་ཐོག་འབབ་སོགས་༎ འཆི་ལྟས་རྣམས་ནི་མཐའ་ཡས་ཕྱིར་༎ ཅིག་ཅར་འབྱུང་བར་མི་འདོད་པ་༏
+T02vamvuppu:342	 sarvatra sūryamārgāntargate satatagāmini /  kālaṃ nirūpayed vidvān itaratra vikālakam // VMv_2.32 //	T02D1748:125a-34	མཁས་པས་དུས་ནི་བརྟག་པར་བྱ་༎
+T02vamvuppu:344	 yatra velākṣaṇe vāyor gatir anyā pravartate /	T02D1748:125a-35	རླུང་ནི་སྐད་ཅིག་དུས་གང་ལ་༎ བགྲོད་པ་གཞན་དུ་འཇུག་འགྱུར་ན་༎ དུས་འདིར་སྐད་ཅིག་རྫོགས་འགྱུར་ན་༎
+T02vamvuppu:345	 tatra velākṣaṇe pūrṇe mṛtyur nāsty atra saṃśayaḥ // VMv_2.33 //	T02D1748:125a-38	འཆི་འགྱུར་འདི་ལ་ཐེ་ཚོམ་མེད་༎
+T02vamvuppu:346	 pauṣṇe kāle vahed vāyur dinārdhaṃ yadi sūryagaḥ /	T02D1748:125a-39	གལ་ཏེ་རླུང་ནི་ཉི་མར་རྟོགས་༎ རྒྱས་པའི་དུས་སུ་ཉིན་ཕྱེད་རྒྱུ་༎
+T02vamvuppu:347	 vatsarair manusaṃkhyātair lakṣayen maraṇaṃ tadā // VMv_2.34 //	T02D1748:125a-41	དེ་ཚེ་ལོ་ནི་བཅུ་བཞི་ནས་༎ འཆི་བ་ཉིད་དུ་ཤེས་པར་བྱ་༎
+T02vamvuppu:348	 dinam ekam ahorātraṃ dinadvitricatuṣṭayam /	T02D1748:125a-43	ཉིན་གཅིག་ཏུ་ནི་ཉིན་མཚན་དང་༎ ཉིན་ཞག་གཉིས་དང་གསུམ་དང་བཞིར་༎
+T02vamvuppu:349	 vahec ced arkadikśailaṣaḍvedābdaiḥ kramān mṛtiḥ // VMv_2.35 //	T02D1748:125a-44	གལ་ཏེ་རྒྱུ་ན་ཉི་མ་ཕྱོགས་༎ རི་བོ་ལོ་དྲུག་རིག་བྱེད་འཆི་༎
+T02vamvuppu:350	 pañcāhaṃ ca daśāhaṃ ca tathā pañcadaśāhakam /	T02D1748:125a-46	ཞག་ལྔ་དེ་བཞིན་ཞག་བཅུ་དང་༎ ཉིན་ཞག་བཅོ་ལྔའི་བར་དུ་ནི་༎
+T02vamvuppu:351	 vahec cet tridvyekavarṣair bhaven mṛtyur yathākramam // VMv_2.36 //	T02D1748:125a-48	ལོ་གསུམ་གཉིས་དང་གཅིག་གིས་འཆི་༎
+T02vamvuppu:352	 tathaiva ced vahed vāyur viṃśatiṃ pañcaviṃśatim /	T02D1748:125a-49	དེ་བཞིན་ཉིད་ཤུ་ཉི་ཤུ་ལྔ་༎ གལ་ཏེ་རླུང་ནི་རྒྱུ་གྱུར་༄༡༢༥བ་ན་༏
+T02vamvuppu:353	 ṣaḍbhir māsais tribhiś caiva yathāsaṃkhyaṃ bhaven mṛtiḥ // VMv_2.37 //	T02D1748:125b-1	། གོ་རིམས་བཞིན་དུ་ཟླ་དྲུག་དང་༎ ཟླ་བ་གསུམ་གྱིས་འཆི་བར་འགྱུར་༎ ཟླ་བ་གཉིས་གཅིག་ཟླ་ཕྱེད་དང་༎ ཞག་བཅུས་རིམ་གྱིས་འཆི་པར་འགྱུར་༎
+T02vamvuppu:356	 triṃśat tu caikatriṃśac ca dvātriṃśad divasān yadi /	T02D1748:125b-5	གལ་ཏེ་ཉིན་ཞག་སུམ་ཅུ་དང་༎ སུམ་ཅུ་གཅིག་དང་སུམ་ཅུ་གཉིས་༎
+T02vamvuppu:357	 pañcatridvidinair mṛtyur yathāsaṃkhyaṃ bhavet tadā // VMv_2.39 //	T02D1748:125b-7	ཉིན་ཞུགས་གསུམ་དང་ཉིད་ནས་འཆི་༎
+T02vamvuppu:358	 trayastriṃśaddinaṃ yāvat sūrye ced vāti mārutaḥ /	T02D1748:125b-8	ཉིན་ཞག་སུམ་ཅུ་རྩ་གསུམ་དང་༎ གལ་ཏེ་ཉི་མར་རླུང་རྒྱུན་༎
+T02vamvuppu:359	 tasminn eva dine mṛtyur viṣṇor api na saṃśayaḥ // VMv_2.40 //	T02D1748:125b-9	ཉིན་ཞག་དེ་ཉིད་ལ་འཆི་བར་༎ ཁྱབ་འཇུག་ཡིན་ཡང་ཐེ་ཚོམ་མེད་༎
+T02vamvuppu:360	 pañcāhapañcaviṃśatyor antarāleṣu vāsarāḥ /	T02D1748:125b-11	ཉིན་ཞག་ལྔ་ནས་ཉི་ཤུ་ལྔར་༎ བར་བར་གྱི་ནི་ཉིན་ཞག་ལ་༎ གྲངས་ནི་བཅུ་དྲུག་མ་བཤད་པར་༎
+T02vamvuppu:362	 ṣaḍdinaṃ cet tribhir varṣaiś caturviṃśativarjitaiḥ /	T02D1748:125b-15	ཞག་གསུམ་རྒྱུ་ན་ལོ་གསུམ་ནས་༎ ཉི་ཤུ་རྩ་བཞིར་དོར་བས་སོ་༎
+T02vamvuppu:363	 saptāhaṃ cet tribhir varṣaiḥ pūrvoktadviguṇonitaiḥ // VMv_2.42 //	T02D1748:125b-17	ཉིན་བདུན་རྒྱུ་བས་ལོ་གསུམ་ནས་༎ སྔར་བཤད་ཉིས་འགྱུར་དབྲི་བས་སོ་༎
+T02vamvuppu:364	 aṣṭāhaṃ cet tribhir varṣair dvāsaptatidinonitaiḥ /	T02D1748:125b-19	གལ་ཏེ་ཞག་བརྒྱད་པར་རྒྱུ་ན་༎ གཉིས་དང་ཞག་ནི་བཅུ་གཉིས་དབྲི་༎
+T02vamvuppu:365	 navāhaṃ cet tribhir varṣaiḥ ṣaṇṇavatidinonitaiḥ // VMv_2.43 //	T02D1748:125b-21	ཞག་དགུ་རྒྱུན་ལོ་གསུམ་ལས་༎ ཉིན་ཞག་དགུ་བཅུ་རྩ་དགུ་དོར་༎
+T02vamvuppu:366	 vahed ekādaśāhaṃ cen mārutaḥ sūryagocaraḥ /  caturviṃśatirātronān mṛtyur varṣadvayād bhavet // VMv_2.44 //  dvādaśāhaṃ varṣadvayāt pūrvoktadviguṇonitāt /	T02D1748:125b-23	རླུང་ནི་ཉི་མའི་སྤྱོད་ཡུལ་དུ་༎ གལ་ཏེ་ཞག་ནི་བཅུ་གཅིག་རྒྱུ་༎ ལོ་གཉིས་ཉིན་ཞག་ཉི་ཤུ་བཞིས་༎ མཚང་བ་ན་འཆི་བར་འགྱུར་༎ སྔ་མ་ཉིས་འགྱུར་གྱིས་ཆུད་བས་༎
+T02vamvuppu:369	 trayodaśāhaṃ dvivarṣād dvāsaptatidinonitāt // VMv_2.45 //	T02D1748:125b-29	ཞག་ནི་བཅུ་གསུམ་ལོ་གཉིས་ལས་༎ ཟླ་གཉིས་ཞག་ནི་བཅུ་གཉིས་དབྲི་༎ ཞག་ནི་བཅུ་གཉིས་ལོ་གཉིས་ལས་༎
+T02vamvuppu:370	 caturdaśāhaṃ dvivarṣāt ṣaṇṇavatidinonitāt /  ṣoḍaśadinavāhena dvādaśonaikavarṣataḥ // VMv_2.46 //	T02D1748:125b-32	ཟླ་གསུམ་ཞག་ནི་དྲུག་གིས་འབྲི་༎ ཉིན་ཞག་བཅུ་དྲུག་རྒྱུན་ནི་༎ ལོ་གཅིག་ཞག་ནི་བཅུ་གཉིས་དབྲི་༎ ཉིན་ཞག་བཅུ་བཅུན་རྒྱུ་གྱུར་ན་༎ ལོ་གཅིག་ཞག་ནི་ཉི་ཤུ་བཞིས་༎
+T02vamvuppu:372	 vahet saptadaśāhaṃ ced vāyuḥ sūryaikagocaraḥ /	T02D1748:125b-38	མ་ཚང་བ་ནི་འཆི་བར་འགྱུར་༎ ཞག་བཅོ་བརྒྱད་ཀྱི་ལོ་གཅིག་ནི་༎ ཟླ་བ་གཅིག་དྲུག་དོར་བས་སོ་༎ བཅུ་དགུ་རྒྱུན་ལོ་གཅིག་ལས་༎ བཞི་བཅུ་རྩ་བརྒྱད་ཕྲི་བས་སོ་༎
+T02vamvuppu:376	 ekaviṃśati ṣaḍmāsāt ṣaḍvāsaraviyojitāt /  dvāviṃśatiṃ cet ṣaḍmāsair dvādaśāhavivarjitaiḥ // VMv_2.49 //	T02D1748:125b-43	ཉི་ཤུ་གཅིག་ཟླ་དྲུག་ལས་ནི་༎ ཞག་དྲུག་མ་ཚང་བ་ཡིས་སོ་༎ ཉི་ཤུ་རྩ་གཉིས་ཟླ་དྲུག་ལས་༎ ཞག་བཅུ་གཉིས་ནི་དོར་བས་སོ་༎
+T02vamvuppu:378	 trayoviṃśatyaharvāhe 'ṣṭādaśāhavivarjitāt /	T02D1748:125b-47	ཉིན་ཞག་ཉི་ཤུ་རྩ་གསུམ་རྒྱུ་༎ བཅོ་བརྒྱད་རྣམ་པར་དོར་བས་སོ་༎
+T02vamvuppu:379	 caturviṃśatyaharvāhe catuḥṣaṭkadinonitāt // VMv_2.50 //	T02D1748:125b-49	ཞག་ནི་ཉི་ཤུ་རྩ་བཞི་རྒྱུ་༎ ཉིན་ཞག་ཉི་ཤུ་རྩ་བཞིས་སོ་༎
+T02vamvuppu:380	 trayastriṃśaddineṣv evaṃ mṛtyulakṣaṇasaṃbhavaḥ /  vāyūdayavaśāj jñeyo nāta ūrdhvam asaṃbhavāt // VMv_2.51 //	T02D1748:126a-0	ཉིན་ཞག་སུམ་ཅུ་གསུམ་༄༡༢༦ཨ་༌་༎ དེ་བཞིན་༎ འཆི་བའི་མཚན་ཉིད་འབྱུང་བ་ཡིན་༎ རླུང་འབྱུང་དབང་ལས་ཤེས་བྱ་བ་༎ དེ་ཡན་ཆད་ནི་ཡོད་མ་ཡིན་༎
+T02vamvuppu:382	 āha cātra /	T02D1748:126a-4	འདིར་བཤད་པ་།
+T02vamvuppu:383	 ādau kṛtvā dinārdhaṃ sakaladinam athā-harniśaṃ yāvad eva tasmād ahnor dvayaṃ ca tridinam atha catur-vāsarān vyāpya yāvat /	T02D1748:126a-5	དང་པོ་ཉི་མ་ཕྱེད་བྱས་ཉི་མ་རངས་པ་ཡང་ནི་ཉིན་མཚན་དག་གི་བར་དུ་རྒྱུ་༎ དེ་ལས་ཞག་གཉིས་དང་ནི་ཞག་གསུམ་འོན་ཏེ་ཞག་བཞི་ཁྱབ་པའི་བར་དུ་ནི་༎
+T02vamvuppu:384	 prāṇo nāḍyāśrito yo vahati dinapater udgame savyahīne tasmin vijñeyam etad bhuvanaravidiśo maṅgalaṃ ṣaṭ catuṣkam // VMv_2.52 //	T02D1748:126a-7	ཉི་མ་ལ་ནི་ག-ཡོན་པ་མིན་ལ་རླུང་ནི་རྔུབས་ལ་བརྟེན་ཏེ་གང་ཞིག་རྒྱུ་གྱུར་ན་༎ དེ་ལས་གནས་དང་ཉི་མ་ཕྱོགས་དང་བཀྲ་ཤིས་དྲུག་དང་བཞི་ནི་འདི་ཤེས་བྱ་༎
+T02vamvuppu:385	 pañcabhyaḥ pañcaviṃśaddivasagatir ihā-rohate pañcavṛddhyā tasmād ekottareṇa triguṇitadaśakaṃ tryuttaraṃ yāvad eva /	T02D1748:126a-9	ལྔ་ལས་ཉི་ཤུ་རྩ་ལྔ་ཉིན་ཞག་ལྔ་ལྔས་འཛེགས་པར་འགྱུར་ལས་ཇི་བཞིན་འཕེལ་༎ དེ་ལས་རེ་རེ་བསྐྱེད་པའི་ཆུ་ནི་སུམ་འགྱུར་བྱས་པ་གསུམ་གྱིས་ལྷག་པ་ཁོ་ནའི་བར་༎
+T02vamvuppu:386	 kāle pauṣṇe samās tās trinayanaśaśinaḥ ṣaṭtriyugmendavo ye māsās te 'hāni śeṣās tithidigiṣuguṇa-dvīndavo jīvitasya // VMv_2.53 //	T02D1748:126a-11	རྒྱས་པའི་དུས་སུ་དེ་ལ་ལོ་ནི་གསུམ་མིག་ཟླ་བ་དྲུག་གསུམ་ཟུང་དང་ཟླ་བ་རུ་༎ ལྷག་མ་ཚེས་དང་ཕྱོགས་དང་ཟླ་བ་ཡོན་ཏན་ཟུང་དང་ཟླ་བར་འཚོ་བ་ཡིན་༎
+T02vamvuppu:387	 tripuṭaṃ cakram ālikhya saptatriṃśadgṛhānvitam /	T02D1748:126a-13	འཁོར་ལོ་རིམ་གསུམ་བྲིས་ནས་ནི་། རེ་མིག་སུམ་ཅུ་རྩ་གསུམ་བཅས་༎
+T02vamvuppu:388	 āyuṣaḥ prāṇavāyoś ca dināny aṅkakramāl likhet // VMv_2.54 //  ity āntarāṇy api mayā kathitāni mṛtyor liṅgāny ariṣṭam iti cāparanāmakāni /	T02D1748:126a-15	ཚེ་དང་སྲོག་གི་རླུང་དག་དང་༎ ཉིན་ཞག་མཚན་མ་རིམ་བཞིན་བྲི་༎ དེ་ལྟར་བདག་གིས་ནང་གའི་འཆི་བའི་མཚན་མ་ནི་༎ མིང་གཞན་འཆི་ལྟས་ཞེས་བྱ་འདིར་ནི་བཤད་པ་ཡིན་༎
+T02vamvuppu:390	 vijñāya tāni sapadi tvaritair vidheyo dhyānādibhir maraṇa-vañcana eva yatnaḥ // VMv_2.55 //	T02D1748:126a-18	དེ་རྣམས་ཤེས་པར་བྱས་ལ་མོད་ལ་མྱུར་དུ་ནི་༎ བསམ་གཏན་སོགས་ཀྱིས་འཆི་བ་བསླུ་ཉིད་འབད་དེ་བྱ་༎
+T02vamvuppu:391	 // iti śrīpaṇḍitavāgīśvarakīrtiviracite mṛtyuvañcano“padeśe dvitīyaḥ paricchedaḥ //	T02D1748:126a-20	སློབ་དཔོན་ངག་གི་དབང་ཕྱུག་གྲགས་པས་སྦྱར་བའི་འཆི་བ་བསླུ་བ་བསྟན་པ་ལས་ལེའུ་གཉིས་པའོ་།
+T02vamvuppu:392	 bāhyam ādhyātmikaṃ caiva jñātvāriṣṭakadambakam /  bāhyaś cādhyātmikaś cāpi jñeyo vañcanasaṃcayaḥ // VMv_3.1 //	T02D1748:126a-21	༎ ། ཕྱི་དང་ནང་གི་བདག་ཉིད་ཅན་༎ འཆི་ལྟས་ཚོགས་ནི་ཤེས་བྱས་ལས་༎ ཕྱི་དང་ནང་གི་བདག་ཉིད་ལའང་༎
+T02vamvuppu:394	 kāyavākkarmabhir bāhyam āntaraṃ dhyānakarmabhiḥ /  maṇimantrauṣadhair bāhyam āntaraṃ yogaśaktibhiḥ // VMv_3.2 //	T02D1748:126a-25	ལུས་དང་ངག་གི་ལས་ཀྱི་ཕྱིར་༎ བསམ་གཏན་ལམ་ཀྱིས་ནང་གི་ཡིན་༎ ནོར་བུ་སྔགས་སྨན་ཕྱི་ཡི་སྟེ་༎ རྣལ་འབྱོར་ནུས་པས་ནང་ཡིན་ནོ་༎
+T02vamvuppu:396	 śraddhayā śakyate kartuṃ mṛtyuvañcanam udyataiḥ /	T02D1748:126a-29	འཆི་བདག་བསླུ་བ་འབད་པ་ནི་༎ དད་པ་ཡིས་ནི་བྱེད་པར་ནུས་༎
+T02vamvuppu:397	 śraddhām ato dṛḍhīkuryād anyathā syāc chramaḥ paraḥ // VMv_3.3 //	T02D1748:126a-31	དེ་བས་དད་པ་བརྟན་པར་བྱ་༎ གཞན་དུ་ངལ་བ་དོན་མེད་འགྱུར་༎ དད་དང་བྲལ་བ་ལྷ་ཡིས་ཀྱང་༎
+T02vamvuppu:398	 kāyakleśair bahuvidhair na cāpy arthasya rāśibhiḥ /	T02D1748:126a-34	ལུས་ཀྱིས་སྡུག་བསྔལ་སྣ་ཚོགས་དང་༎ ནོར་གྱི་ཕུང་པོ་རྣམས་ཀྱིས་ཀྱང་༎
+T02vamvuppu:399	 dharmaḥ saṃprāpyate sūkṣmaḥ śraddhāhīnaiḥ surair api // VMv_3.4 //  śraddhā dharmaḥ paraṃ sūkṣmaḥ śraddhā jñānaṃ tapo hutam /	T02D1748:126a-35	ཆོས་ནི་ཕྲ་མོ་ཐོབ་མི་འགྱུར་༎ དད་པ་མཆོག་ཏུ་ཕྲ་བའི་ཆོས་༎ དཀའ་ཐུབ་སྦྱིན་སྲེག་ཡེ་ཤེས་ལ་༎
+T02vamvuppu:4	 ajarāmaratāprāptyai natvā saṃbuddham ādarāt // VMv_1.2 //	T02D1748:119a-6	རྫོགས་སངས་རྒྱས་ལ་གུས་པར་འདུད་༎
+T02vamvuppu:401	 śraddhā svargaś ca mokṣaś ca śraddhā sarvam idaṃ jagat // VMv_3.5 //	T02D1748:126b-0	དང་༄༡༢༦བ་པ་མཐོ་རིས་ཐར་པ་ཡིན་༎ འགྲོ་བ་འདི་ཀུན་དད་པ་ཡིན་༎
+T02vamvuppu:402	 sarvasvaṃ jīvitaṃ cāpi dadyād aśraddhayā yadi /	T02D1748:126b-2	གལ་ཏེ་ནོར་སྲོག་ཐམས་ཅད་ཀྱང་༎ དེ་བཞིན་དད་པ་མེད་ལས་མིན་༎
+T02vamvuppu:403	 naivāpnuyāt phalaṃ kiṃ cic chraddadhānas tato bhavet // VMv_3.6 //	T02D1748:126b-4	དེ་བས་འབྲས་བུ་ཅུང་ཟད་ཀྱང་༎ དད་པ་མེད་ན་ཐོབ་མི་འགྱུར་༎
+T02vamvuppu:404	 ādau dharmaparo bhūyān mṛtyuvañcanavāñchayā /	T02D1748:126b-6	འཆི་བདག་བསླུ་བར་འདོད་པ་ཡིས་༎ དང་པོར་དད་པ་མཆོག་གཞོལ་བྱ་༏
+T02vamvuppu:405	 dharmo hi trāyate mṛtyor mṛtyur dharmeṇa vañcyate // VMv_3.7 //	T02D1748:126b-8	། ཆོས་ཀྱིས་འཆི་ལས་སྐྱོབ་བྱེད་ཅིང་༎ འཆི་བ་བསླུ་བ་ཡིན་པར་བཤད་༎
+T02vamvuppu:407	 brahmāpi hi vinā dharmaṃ na prabhur mṛtyuvañcane // VMv_3.8 //	T02D1748:126b-11	སྐད་ཅིག་ཀྱང་ནི་གནས་མ་བྱ་༎ ཆངས་པ་ཡང་ནི་ཆོས་མིན་པར་༎ འཆི་བདག་བསླུ་བར་དབང་མ་ཡིན་༎
+T02vamvuppu:408	 viduṣāṃ saṃmato dharmaḥ satyaṃ dānaṃ tapaḥ kṣamā /	T02D1748:126b-14	དམ་པ་རྣམས་ཀྱི་ཆོས་ནི་བདེན་༎ སྦྱིན་དང་དཀའ་ཐུབ་བཟོད་ལ་དགའ་༎ གང་ལ་མཆོག་ཏུ་བརྩེ་ཡོད་དེ་༎
+T02vamvuppu:409	 viśeṣeṇa kṛpā yeṣāṃ kiṃ teṣāṃ dharmavistaraiḥ // VMv_3.9 //	T02D1748:126b-18	གང་ཞིག་རྟག་ཏུ་སེམས་ཅན་ལ་༎
+T02vamvuppu:41	 niścite dūrato mṛtyau prasiddhir mahatī bhavet /	T02D1748:119b-25	། ལ་ལར་འཆི་བ་སྣང་གྱུར་པ་༎ དེར་ནི་ངེས་མེད་པར་ངེས་ཀྱི་༎ མཚན་ཉིད་མེད་པ་ཉིད་མ་ཡིན་༎ འཆི་བ་ཐག་རིང་ནས་དེས་བྱེད་༎ གྲགས་པ་ཆེན་པོ་ཉིད་དུ་གྱུར་༎
+T02vamvuppu:410	 kāruṇyasyandi hṛdayaṃ yeṣāṃ sattveṣu saṃtatam /	T02D1748:126b-19	སྙིང་རྗེས་སྙིང་ནི་འཇག་གྱུར་པ་༎
+T02vamvuppu:411	 teṣāṃ jñānaṃ ca mokṣaś ca kim anyair dharmavistaraiḥ // VMv_3.10 //	T02D1748:126b-20	ཡེ་ཤེས་ཐར་པ་དེ་ཡིན་གྱི་༎ ཆོས་གཞན་མང་པོས་ཅི་ཞིག་བྱ་༎
+T02vamvuppu:412	 ahiṃsā paramo dharmaḥ sarvasiddhāntasaṃmataḥ /	T02D1748:126b-22	མི་ཚེ་ཆོས་ཀྱི་མཆོག་ཡིན་པར་༎ གྲུབ་པའི་མཐའ་ནི་ཀུན་ལས་འདོད་༎
+T02vamvuppu:413	 tām evābhyasyato nityaṃ mṛtyur dūrāyate kramāt // VMv_3.11 //	T02D1748:126b-24	རྟག་ཏུ་དེ་ཉིད་ལ་བསླབས་ན་༎ འཆི་བདག་རིམ་གྱིས་ཐག་བསྲིངས་ཡིན་༎ བྱ་དང་ཉ་དང་རི་དགས་སྦྲུལ་༎ རྐུན་པོ་གསད་པའི་ཕྱོགས་གཏོགས་རྣམས་།
+T02vamvuppu:414	 alpāyur api dīrghāyuḥ sadyaḥ syāj jīvayann imān /	T02D1748:126b-28	སྲོག་སྐྱབས་པ་ཡི་འཕྲལ་དུ་ནི་༎ ཚེ་ཐུང་བ་ཡང་ཚེ་རིང་འགྱུར་༎
+T02vamvuppu:415	 pakṣimatsyamṛgavyāḍacaurādīn vadhyadeśagān // VMv_3.12 //	T02D1748:126b-30	རྐུན་མ་ཉ་དང་རི་དགས་སྦྲུལ་༎
+T02vamvuppu:416	 dīrghāyur api mandāyuḥ sadyaḥ syān mārayann imān /  cauramatsyamṛgavyāḍapakṣiṇo jīvakāṅkṣiṇaḥ // VMv_3.13 //	T02D1748:126b-31	བྱ་སོགས་སྲོག་ནི་འདོད་པ་རྣམས་༎ འདི་དག་བསད་ན་འཕྲལ་དུ་ནི་༎ ཚེ་རིང་པ་ཡང་ཚེ་ཐུང་འགྱུར་༎
+T02vamvuppu:418	 daśākuśalasaṃtyāgāt triratnaśaraṇāt tathā /	T02D1748:126b-34	མི་དགེ་བཅུ་ནི་སྤངས་པ་དང་༎ དེ་བཞིན་གསུམ་ལ་སྐྱབས་འགྲོ་དང་༎ བསླབ་པ་ལ་དང་བརྒྱད་བསྲུངས་ན་༎
+T02vamvuppu:419	 pañcāṣṭaśikṣākaraṇān mṛtyur dūragato bhavet // VMv_3.14 //  bandhanasthān uruvyādhipīḍitān bhayakātarān /	T02D1748:126b-35	འཆི་བདག་ཐག་ནི་བསྲིངས་པར་འགྱུར་༎ བསྐྱབ་བྱས་ན་ནི་ངེས་པ་རུ་༎ ཚེ་རིང་འཆི་བདག་སླུ་བྱེད་འགྱུར་༎ དམན་དང་མགོན་མེད་ངོ་ཚར་བཅས་༎ ཚུལ་ཁྲིམས་ལྡན་ལ་གུས་པར་ནི་༎
+T02vamvuppu:42	 yathāśakti parityāge pratīkāre ca vartanam // VMv_1.21 //	T02D1748:119b-30	ཅི་ནུས་པར་ནི་ཡོངས་གཏོང་དང་༎ གསོ་བའི་ཐབས་ལའང་འཇུག་པར་བྱེད་༎
+T02vamvuppu:421	 trāyamāṇo bhaven nūnaṃ dīrghāyur mṛtyuvañcakaḥ // VMv_3.15 //	T02D1748:126b-42	འདོད་པའི་དོན་ནི་རབ་སྟེར་བས་༎ ཚེ་ནི་ངེས་པར་འཕེལ་པར་འགྱུར་༎ ཕ་དང་མ་དང་བླ་མ་རྒན་༎ ཤེས་པས་རྒན་སོགས་ལ་གུས་ཤིང་༎
+T02vamvuppu:427	 darśanād vandanān nityam āyuṣo vṛddhir āpyate // VMv_3.18 //	T02D1748:126b-46	མཆོད་དང་བཀུར་སྟི་བྱིན་ནས་ཀྱང་༎ འཆི་བ་དག་ནི་ཉེར་མི་འགྱུར་༎ རང་གི་འདོད་ལྷ་དེ་ལ་གུས་༎ དཀའ་ཐུབ་ཅན་ལ་༄༡༢༧ཨ་༌་༎ གུས་པ་ཡིས་༎ རྟག་ཏུ་ནང་པར་ལྷ་དད་ཕྱག་། བྱས་པས་ཚེ་ནི་འཕེལ་བར་འགྱུར་༎
+T02vamvuppu:428	 bhagnasphuṭitacaityādāv iṣṭakādipradānataḥ /	T02D1748:127a-3	མཆོད་རྟེན་གས་དང་འཇིག་པ་ལ་༎ སོ་ཕག་ལ་སོགས་ཀྱིས་བཅོས་ན་༎
+T02vamvuppu:429	 syād alpāyuḥ sudīrghāyuḥ paiṇḍapātikabhikṣuvat // VMv_3.19 //	T02D1748:127a-5	ཚེ་ཐུང་ཚེ་ནི་རིང་འགྱུར་ལ་༎ དགེ་སློང་བསོད་སྙོམས་པ་དང་མཚུངས་༎
+T02vamvuppu:43	 sadā samāhito bhūtvā tadgataikāgramānasaḥ /	T02D1748:119b-31	རྟག་ཏུ་མཉམ་པར་བཞག་གྱུར་པས་༏་། དེ་ལྟར་རྩེ་གཅིག་ཡིད་དུ་བྱ་༎
+T02vamvuppu:430	 vihārastūpabimbādeḥ kriyayārāmaropaṇāt /	T02D1748:127a-7	ལྷ་ཁང་སྐུ་གཟུགས་མཆོད་རྟེན་སོགས་༎ བྱེད་དང་ཀུན་དགའ་ར་བ་འཛུགས་༎
+T02vamvuppu:431	 mahāṣṭasthānapūjābhir āyur nityaṃ vivardhate // VMv_3.20 //	T02D1748:127a-9	མཆོད་རྟེན་ཆེ་བརྒྱད་མཆོད་སོགས་ཀྱིས་༎ རྟག་ཏུ་ཚེ་ནི་འཕེལ་བར་འགྱུར་༎
+T02vamvuppu:432	 chandakabhikṣayopāttair dravyaiḥ saṃghasya bhojanāt /	T02D1748:127a-11	འདུན་པས་སློང་བ་ལ་རྙེད་པ་༎ རྫས་ཀྱིས་དགེ་འདུན་མཆོད་སྟོན་གསོལ་༎
+T02vamvuppu:433	 saptāhāyuś cirāyuḥ syād dharmāśokanarendravat // VMv_3.21 //	T02D1748:127a-13	ཞག་བདུན་ཚེ་རིང་ཚེ་ཐོབ་འགྱུར་༎ ཆོས་རྒྱལ་མྱ་ངན་མེད་དང་མཚུངས་༎
+T02vamvuppu:434	 vālukācaityakaraṇāt tathā sañcakatāḍanāt /	T02D1748:127a-15	བྱེ་མའི་མཆོད་རྟེན་བྱེད་པ་དང་༎ དེ་བཞིན་ཚ་ཚ་འདེབས་པ་དང་༎ མཆོད་རྟེན་ལ་སོགས་ཕྱག་བྱས་པས་༎
+T02vamvuppu:435	 caityādivandanāc caiva dhruvam āyur vivardhate // VMv_3.22 //	T02D1748:127a-16	ཚེ་ནི་ངེས་པར་འཕེལ་བར་འགྱུར་༎
+T02vamvuppu:436	 mahāsamājakaṃ sūtram āṭānāṭīyakaṃ tathā /	T02D1748:127a-17	འདུས་པ་ཆེན་པོའི་མདོ་དང་ནི་༎ ཨཨ་ཏ་ན་ཏི་ཡ་ཀའི་མདོ་༎
+T02vamvuppu:437	 sakṣudrakaṃ mahāmeghaṃ gāthāḥ susvastisaṃjñitāḥ // VMv_3.23 //	T02D1748:127a-19	ཕྲ་མོར་བཅས་དང་སྤྲིན་ཆེན་དང་༎ ཤིན་ཏུ་བཀྲ་ཤིས་ཚིགས་བཅད་རྣམས་༎
+T02vamvuppu:438	 satkṛtya vācayed bhikṣūn svayaṃ vā saṃpravartayet /	T02D1748:127a-20	གུས་པས་དགེ་སློང་འདོན་འཇུག་པའམ་༎ རང་ཉིད་ཀྱིས་ནི་རབ་བཏོན་ན་༎
+T02vamvuppu:439	 dīrgham āyus tathā prāpya mṛtyor bhavati vañcakaḥ // VMv_3.24 //	T02D1748:127a-22	དེ་བཞིན་ཚེ་རིང་འཐོབ་འགྱུར་ཞིང་༎ འཆི་བདག་བསླུ་བར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:44	 bāhyāni prathamaṃ tāval lakṣaṇāny upalakṣayet // VMv_1.22 //	T02D1748:119b-33	དང་པོ་རེ་ཞིག་ཕྱི་ཡི་ནི་༎ མཚན་ཉིད་ཉེ་བར་བརྟག་པར་བྱ་༎
+T02vamvuppu:440	 gaṇḍavyūhādisūtrāntān mahāyānaprakāśakān /	T02D1748:127a-24	ཐེག་པ་ཆེན་པོ་སྟོན་བྱེད་དང་༎ སྡོང་པོས་བརྒྱན་སོགས་མདོ་སྡེ་རྣམས་༎ རྟག་ཏུ་རྩེ་གཅིག་པས་བཀླགས་ན་༎
+T02vamvuppu:441	 ekāgro vācayen nityaṃ mṛtyuvañcanam aśnute // VMv_3.25 //	T02D1748:127a-26	འཆི་བདག་བསླུ་བར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:442	 buddhabhāṣitaniḥśeṣayogatantrādivācanāt /	T02D1748:127a-27	སངས་རྒྱས་ཀྱིས་གསུངས་རྣལ་འབྱོར་གྱི་༎ རྒྱུད་སོགས་མ་ལུས་བཀླགས་པའམ་༎
+T02vamvuppu:443	 pañcarakṣāvidhānād vā mṛtyuvañcanam āpyate // VMv_3.26 //	T02D1748:127a-29	བསྲུང་བ་ལྔ་ཡི་ཆོ་གས་ཀྱང་༎
+T02vamvuppu:447	 sahasrāvartadhāraṇyā ratnolkāyāś ca jāpataḥ // VMv_3.28 //  dhāraṇīsaṃcayādyuktadhāraṇījāpatatparāḥ /	T02D1748:127a-30	འཆི་བདག་བསླུ་བར་འགྱུར་བ་ཡིན་༎ གཙུག་ཏོར་བཙུགས་པའི་མཆོད་རྟེན་སོགས་༎ བསྐོར་བ་དག་ནི་བྱས་པ་དང་༎ གཟུངས་ནི་བཟླས་པར་བྱས་པས་ཀྱང་༎ འཆི་བདག་གི་ནི་བརྩོན་པ་འཇོམས་༎ དེ་ཡི་ཆོ་ག་སྔོན་འགྲོ་བས་༎ གཟའ་སོགས་མ་མོ་བཀླགས་པ་དང་༎ གཟུངས་སྔགས་སྟོང་དུ་ཟློས་པ་དང༎ དཀོན་མཆོག་སྒྲོན་མ་བཟླས་པ་དང་༎ གཟུངས་ཀྱི་ཚོགས་ལས་གསུངས་པ་ཡི་༎ གཟུངས་ཟློས་པ་ལ་བརྩོན་པ་ཡི་༎
+T02vamvuppu:449	 āsannam api dūrasthaṃ mṛtyuṃ kurvanti paṇḍitāḥ // VMv_3.29 //	T02D1748:127a-37	མཁས་པ་རྣམས་ནི་འཆི་བ་དང་༎ ཉི་མའང་རིང་དུ་གནས་པར་བྱེད་༎
+T02vamvuppu:45	 lakṣaṇānāṃ paricchedakālo dvividha iṣyate /	T02D1748:119b-35	མཚན་ཉིད་ཀྱིས་ནི་ཡོངས་ངེས་པའི་༎ དུས་ནི་རྣམ་པ་གཉིས་སུ་འདོད་༎
+T02vamvuppu:450	 maṇḍalālekhanād dhomān mudrāṇāṃ bandhanād api /  balīnāṃ gaṇacakrāṇāṃ pradānān mṛtyuvañcanam // VMv_3.30 //	T02D1748:127b-0	དཀྱིལ་འཁོར་འདྲི་དང་སྦྱིན་སྲེག་དང་༎ ཕྱག་རྒྱ་འཆིང་བར་བྱེད་པ་དང་༎ གཏོར་༄༡༢༧བ་མ་དང་ནི་ཚོགས་འཁོར་ལོ་༎ རབ་སྦྱིན་འཆི་བདག་སླུ་བ་ཡིན་༎
+T02vamvuppu:452	 cāturdiśāryasaṃghāya bhojyaśayyādidānataḥ /	T02D1748:127b-2	ཕྱོགས་བཞིའི་འཕགས་པའི་དགེ་འདུན་ལ་༎
+T02vamvuppu:453	 kāṣāyamātrakaṇṭhebhyo 'pi vā syān mṛtyuvañcanam // VMv_3.31 //	T02D1748:127b-3	མཆོད་སྟོན་མལ་ཆ་ཚོགས་སྦྱིན་དང་༎ ཆོས་གོས་ཙམ་ཞིག་འཆང་བ་ལ་༎ སྦྱིན་པ་འཆི་བདག་སླུ་བྱེད་འགྱུར་༎
+T02vamvuppu:454	 evamādikriyārambhād dharmaḥ syāt puṇyalakṣaṇaḥ /	T02D1748:127b-5	དེ་ལ་སོགས་ཏེ་བྱ་བ་རྩོམ་༎ ཆོས་དང་བསོད་ནམས་མཚན་ཉིད་འགྱུར་༎
+T02vamvuppu:455	 puṇyāt syād āyuṣo vṛddhis tadvṛddher mṛtyuvañcanam // VMv_3.32 //	T02D1748:127b-7	བསོད་ནམས་ཀྱིས་ནི་ཚེ་འཕེལ་ཞིང་༎ དེ་བཞིན་འཆི་བདག་བསླུ་བ་ཡིན་༎
+T02vamvuppu:456	 ityādi leśato dharmaḥ sūcitas tasya vistaraḥ /	T02D1748:127b-9	དེ་ལྟར་ཆོས་ནི་ཅུང་ཟད་ཅིག་། སྟོན་གྱི་དེ་ཡི་རྒྱས་པ་ནི་༎
+T02vamvuppu:458	 evaṃ dharmaparo bhūtvā siddhamantrauṣadhādibhiḥ /	T02D1748:127b-12	དེ་ལྟར་ཆོས་ལ་བརྩོན་བྱས་ནས་༎ གྲུབ་པའི་སྔགས་དང་སྨན་སོགས་ནི་༎
+T02vamvuppu:459	 mṛtyor viṣkambhaṇaṃ kuryāt sadyaḥpratyayakāribhiḥ // VMv_3.34 //	T02D1748:127b-14	འཕྲལ་དུ་ཡིད་ཆེས་བྱེད་པ་ཡིས་༎ འཆི་བདག་རྣམ་པར་བསལ་བར་བྱ་༎
+T02vamvuppu:46	 niyato 'niyataś ceti vijñeyaḥ sa tu yatnataḥ // VMv_1.23 //	T02D1748:119b-38	ཞེས་བྱ་འབད་དེ་ཤེས་པར་བྱ་༎
+T02vamvuppu:460	 maṇimantrauṣadhīsiddharasāyanabalāt svayam /	T02D1748:127b-16	ནོར་བུ་སྔགས་དང་སྨན་གྲུབ་དང་༎ བཅུད་ལེན་སྟོབས་ཀྱིས་རང་ཉིད་ནི་༎
+T02vamvuppu:461	 mṛtyoḥ parājayo dṛṣṭaḥ siddhavidyādharair yathā // VMv_3.35 //	T02D1748:127b-17	འཆི་བདག་ཕ་རོལ་གནོན་མཐོང་སྟེ་༎ རིག་འཛིན་གྲུབ་པ་ཇི་བཞིན་ནོ་༎
+T02vamvuppu:467	 acintyaśaktiyuktatvaṃ maṇīnāṃ sarvasaṃmatam // VMv_3.38 //	T02D1748:127b-27	གང་ཕྱིར་ནོར་བུའི་མཐུ་ལས་ནི་༎ ནོར་བུ་བསམ་གྱིས་མི་ཁྱབ་པའི་༎ མཐུ་དང་ལྡན་པར་ཐམས་ཅད་འདོད་༎
+T02vamvuppu:468	 paṭāder agrataḥ pūjāṃ kṛtvā vijanadeśagaḥ /	T02D1748:127b-31	དབེན་པའི་གནས་སུ་རས་རིས་སོགས་༎ མདུན་དུ་མཆོད་པ་བྱས་ནས་ནི་༎
+T02vamvuppu:469	 jāpamātreṇa mantrāṇāṃ jāyate mṛtyuvañcanam // VMv_3.39 //	T02D1748:127b-33	སྔགས་རྣམས་བཟླས་པ་ཙམ་གྱིས་ཀྱང་༎ འཆི་བ་བསླུ་བ་འབྱུང་བར་འགྱུར་༎
+T02vamvuppu:47	 saṃkrāntipūrṇamāsyādau prabhātādikṣaṇātmakaḥ /  kālo niyata ity ukto 'niyatas tu viparyayāt // VMv_1.24 //  sphuratsaṃdhi kapolaṃ syād atyarthaṃ mṛtyudarśanāt /	T02D1748:119b-39	འཕོ་བ་དང་ནི་བཅོ་ལྔ་སོགས་༎ ནད་པ་ལ་སོགས་སྐད་ཅིག་བདག་། དུས་ནི་ངེས་པ་ཞེས་བཤད་དེ་༎ གོ་བཟློག་པ་ལས་མ་ངེས་པའོ་༎ འགྲམ་པའི་མཚམས་ནི་རབ་ག-ཡོན་༎
+T02vamvuppu:470	 ākāram uccaret pūrvaṃ tato ro lig iti sphuṭam /	T02D1748:127b-35	དང་པོར་ཡི་གེ་ཨའ་བརྗོད་ལ་༎ དེ་ནས་རོ་ལིཀ་ཅེས་གསལ་བ་༎
+T02vamvuppu:471	 trailokyavijayākhyo 'yaṃ vidyādharapiṭoditaḥ // VMv_3.40 //	T02D1748:127b-37	རིག་འཛིན་སྡེ་སྣོད་ལས་གསུངས་ཏེ་༎ འདི་ནི་ཁམས་གསུམ་རྒྱལ་ཞེས་བྱ་༎
+T02vamvuppu:472	 mantraṃ lokeśvarasyāsya japed akṣaralakṣakam /	T02D1748:127b-39	སྔགས་འདིས་འཇིག་རྟེན་དབང་ཕྱུག་ལ་༎
+T02vamvuppu:473	 śrāddhas tadagrato 'vaśyaṃ mṛtyuvañcanam aśnute // VMv_3.41 //	T02D1748:127b-40	དད་པས་དེ་མདུན་ངེས་པར་ནི་༎ ཡི་གེའི་གྲངས་ཀྱིས་འབུམ་བཟླས་ན་༎ འཆི་བ་བསླུ་བ་ཐོབ་པར་འགྱུར་༎
+T02vamvuppu:474	 uktvā vairocanaṃ pūrvaṃ paścāt tāre dvir uccaret /	T02D1748:127b-43	དང་པོ་རྣམ་པར་སྣང་མཛད་བརྗོད་༎ དེ་འོག་ཏའ་རེ་ལན་གསུམ་བརྗོད་༎
+T02vamvuppu:475	 tuttāre dvis ture dviś ca svāhāntaṃ mṛtyuvañcanam // VMv_3.42 //  tārābhyudayatantroktaṃ mantram akṣaralakṣakam /	T02D1748:127b-45	ཏུཏཏའ་རེ་གཉིས་ཏུ་རེ་གཉིས་༎ སབ༹འཧའ་མཐའ་ཅན་འཆི་བ་བསླུ་༎ སྒྲོལ་མ་འབྱུང་༄༡༢༨ཨ་༌་༎ བའི་རྒྱུད་ལས་གསུངས་༎ སྔགས་ནི་ཡི་གེའི་འབུམ་པ་རུ་༎ སྒྲོལ་མའི་སྤྱན་སྔར་བཟླས་ནས་ནི་༎
+T02vamvuppu:477	 japtvāryatārāpurato dadhimadhvaktipūrvakam // VMv_3.43 //  pūrvottaraśikhādūrvāpravālāyutahomataḥ /  pūrvakarmaprabhāvottham api mṛtyuṃ nivārayet // VMv_3.44 //	T02D1748:128a-4	ཞོ་དང་སྦྲང་རྩི་ལས་སྔར་བཏགས་༎ དའུར་བའི་མྱུ་གུ་ཤར་དང་ནི་༎ བྱང་དུ་རྩེ་བསྟན་སྦྱིན་སྲེག་བྱ་༎ སྔོན་གྱི་ལས་མཐའ་ལས་བྱུང་བའི་༎ འཆི་བ་ངེས་པར་ཟློག་པར་བྱེད་༎ སློབ་དཔོན་ལ་ནི་ཡོན་ཕུལ་ནས་༎
+T02vamvuppu:480	 oṃ ādau ruru tato 'taḥ sphurupadam ataḥ param /  jvala tiṣṭha tathā siddhalocaneti padatrayam // VMv_3.45 //  sarvārthasādhani svāhā mantro 'śokadale 'male /	T02D1748:128a-10	ཨཨོམ་ཡིག་དེ་ལས་རུ་རུ་སྟེ་༎ དེ་ནས་སྤུ་རུའི་ཚིག་གི་རྗེས་༎ ཛབ༹་ལ་ཏིཤཐ་སིདདྷ་དང་༎ ལོ་ཙ་ན་ཞེས་བྱ་ཚིག་གསུམ་༎ སརབའ་རཐ་སའ་དྷ་ནི་། སབ༹འ་ཧའའི་སྔགས་ཨཨ་ཤོ་ཀ་འདབ་མར་༎
+T02vamvuppu:487	 niḥśeṣarogasaṃdohaśāntikṛc cāpi jāyate // VMv_3.48 //	T02D1748:128a-17	དག་ཅིང་དད་པའི་ཆོ་ག་ཡིས་༎ ཆུ་མེད་འོ་མས་བཀྲུ་བའམ་༎ འདུར་བ་ལ་སོགས་སྦྱིན་སྲེག་བྱས་༎ འཆི་བསླུ་བ་མ་ལུས་པ་༎ ངེས་པ་ཁོ་ནར་བྱེད་པ་ཡིན་༎ ནད་ཀྱི་ཚིགས་ནི་མ་ལུས་པ་༎
+T02vamvuppu:5	 durbodhaṃ mandabuddhīnāṃ duṣkaraṃ calacetasām /	T02D1748:119a-7	བློ་དམན་རྣམས་ཀྱིས་རྟོགས་དཀའ་ཞིང་༎
+T02vamvuppu:50	 vātaśītādisaṅgāc ca lakṣaṇīyam ataḥ pṛthak // VMv_1.25 //	T02D1748:119b-43	འཆེ་བར་རབ་ཏུ་སྟོན་པ་ཡིན་༎ རླུང་དང་གྲང་སོགས་ཕྲད་པ་ལས་༎ མཚན་ཉིད་འདི་ལས་གཞན་དུ་བརྟག་། དབྱར་ཟླ་འབྲིང་པོ་ཀརྐའི་༄༡༢༠ཨ་༌་༎
+T02vamvuppu:51	 karkaṭo rāśir āṣāḍhaḥ puṣyas tu makaro mataḥ /	T02D1748:120a-1	ཁྱིམ་༏་། དགུན་ཟླ་འབྲིང་པོ་ཆུ་སྲིན་འདོད་༎ ཀརྐ་ཏ་དང་ཆུ་སྲིན་ལའང་༎
+T02vamvuppu:52	 karkaṭe makare cāpi jāyate mṛtyulakṣaṇam // VMv_1.26 //	T02D1748:120a-3	འཆི་བའི་མཚན་ཉིད་འབྱུང་བ་ཡིན་༎
+T02vamvuppu:522	 āha ca /  na tad vastvantaraṃ loke yan na mantraiḥ prasidhyati /  tataḥ sthiravapur bhūtvā mṛtyudvāraṃ na paśyati // VMv_3.68 //	T02D1748:128b-41	དེ་ནས་ལུས་ནི་བརྟན་འགྱུར་ལ་༎ གཤིན་རྗེའི་སྒོ་ནི་མཐོང་མི་འགྱུར་༎
+T02vamvuppu:529	 anyeṣām api divyānāṃ bheṣajānāṃ niṣevaṇāt /	T02D1748:128b-43	གྲུབ་པའི་སྨན་ནི་གཞན་དག་ཀྱང་༎
+T02vamvuppu:53	 āṣāḍhasaṃkrāntidine madhyāhne padamātrikā /  uttarābhimukhasthasya cchāyā svābhāvikī bhavet // VMv_1.27 //	T02D1748:120a-4	དབྱར་ཟླ་འབྲིང་པོ་འཕོ་བའི་ཞག་། ཉི་མ་ཕྱེད་ལ་རྐང་པའི་ཚད་༎ བྱང་དུ་བལྟས་ཏེ་གནས་པ་ཡི་༎ གྲིབ་མ་རང་གི་རང་བཞིན་ཡིན་༎
+T02vamvuppu:530	 āyurvṛddhir jarārogakṣayān mṛtyuṃ na paśyati // VMv_3.69 //	T02D1748:128b-44	ངེས་པར་བསྟེན་པར་གྱུར་པ་ཡིས་༎ ཚེ་འཕེལ་ནད་དང་རྒས་པ་ནི་༎ ཟད་པས་འཆི་བ་མ་མཐོང་ངོ་༎
+T02vamvuppu:531	 vyomahemādibhir baddhān mṛtakād vidhibhakṣitāt /  syān mṛtyuvañcanaṃ siddharasāyanasvabhāvakāt // VMv_3.70 //	T02D1748:128b-47	དངུལ་དང་གསེར་སོགས་ལྡན་པ་ཡི་༎ དངུལ་ཆུ་ཆོ་ག་བཞིན་ཟོས་ན་༎ བཅུད་ཀྱིས་ལེན་གྱི་རང་བཞིན་ཅན་༎ འཆི་བ་བསླུ་བ་འབྱུང་བ་ཡིན་༎
+T02vamvuppu:533	 pratipaccandrayogādiprāptenāntaradhātunā /	T02D1748:128b-51	ཚེས་གཅིག་ཟླ་བའི་ཕྱོགས་སོགས་པར་༎ ༄༡༢༩ཨ་༌་༎ རང་གི་ཁམས་ནི་ཐོབ་པ་ན་༎ སྣ་སྨན་གཏང་བའི་ཆོ་ག་ཡིས་༎
+T02vamvuppu:534	 nasyapradānād vidhinā jāyate mṛtyuvañcanam // VMv_3.71 //	T02D1748:129a-2	འཆི་བ་བསླུ་བ་འབྱུང་བར་འགྱུར་༎
+T02vamvuppu:535	 saṃpuṭādikatantroktapañcāmṛtaprayuktibhiḥ /	T02D1748:129a-3	ཁ་སྦྱོར་ལ་སོགས་རྒྱུད་ལས་གསུངས་༎ མི་འཆི་ལྔ་དང་ལྡན་པ་ནི་༎ མན་ངག་ཇི་བཞིན་བསྟེན་པ་ཡིས་༎
+T02vamvuppu:536	 yathopadeśayuktābhir jāyate mṛtyuvañcanam // VMv_3.72 //	T02D1748:129a-6	འཆི་བ་བསླུ་བ་འབྱུང་བར་འགྱུར་༎
+T02vamvuppu:537	 ūrdhvādhobhyāṃ saṃpuṭayogaṃ yaḥ satataṃ kurute hitayogam /	T02D1748:129a-7	སྟེང་དང་འོག་དང་ཁ་སྦྱར་སྦྱོར་བ་ནི་༎ གང་ཞིག་ཕན་པའི་རྣལ་འབྱོར་དག་ཏུ་བྱེད་༎
+T02vamvuppu:538	 tasya suruṣṭo 'py avihatatejāḥ kiñcitkārī no yamarājā // VMv_3.73 //	T02D1748:129a-9	དེ་ལ་གཤིན་རྗེའི་རྒྱལ་པོ་རྟག་ཏུ་ནི་༎ ལ་ལར་ཐབས་ཀྱིས་འཆི་བ་ཡང་༎ སླར་འཚོ་བར་ཡང་འགྱུར་བ་མཐོང་༎ ལུས་ལྡན་བུ་མོ་མི་དང་ནི་༎
+T02vamvuppu:549	 valīpalitanirmukto vajrakāyaḥ svarūpavān /	T02D1748:129a-31	གཉེར་མ་སྐྲ་དཀར་རྣམས་དང་བྲལ་༎ རྡོ་རྗེ་ལུས་ནི་གཟུགས་བཟང་ལྡན་༎
+T02vamvuppu:55	 puṣyasaṃkrāntidivase saiva saptapadībhavet /	T02D1748:120a-7	དགུན་ཟླ་འབྲང་པོ་འཕོ་བའི་ཞག་། དེ་ཉིད་རྐང་ཚད་བདུན་དུ་འགྱུར་༎
+T02vamvuppu:550	 dhruvaṃ nivārayen mṛtyum api kalpādisaṃkhyayā // VMv_3.79 //	T02D1748:129a-33	བསྐལ་པ་ཡི་ནི་གྲངས་སྙེད་དུ་༎ འཆི་བ་ངེས་པར་བཟློག་པ་ཡིན་༎
+T02vamvuppu:551	 āgamoktam idaṃ siddhaṃ bahūnāṃ vārigandhayoḥ /	T02D1748:129a-35	དྲི་ཆུ་རྣམ་པ་མང་ཞིག་ནི་༎ ལུས་ལ་བསྲུང་བ་གྲུབ་པ་འདིས་༎
+T02vamvuppu:552	 bhakṣaṇālepanāt sadyo bhaven mṛtyunivāraṇam // VMv_3.80 //	T02D1748:129a-37	བཟའ་དང་བསྐུ་བས་འཕྲལ་དུ་ནི་༎ འཆི་བ་བཟློག་པར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:553	 anayoś ca sadābhyāsān madhusarpiḥsamanvitāt /	T02D1748:129a-39	འདི་དག་སྦྲང་རྩི་མར་ལྡན་པས་༎ རྟག་ཏུ་གོམས་པར་བྱས་ན་ནི་༎
+T02vamvuppu:554	 kālākālasamudbhūtam api mṛtyuṃ nivārayet // VMv_3.81 //	T02D1748:129a-41	དུས་དང་དུས་མིན་ལས་བྱུང་བའི་༎ འཆི་བ་ཟློག་པར་བྱེད་པ་ཡིན་༎
+T02vamvuppu:555	 bheṣajasyāpi sāmarthye saṃśayo naiva yujyate /	T02D1748:129a-43	སྨན་རྣམས་ཀྱི་ནི་མཐུ་ལ་ཡང་༎
+T02vamvuppu:556	 acintyauṣadhisāmarthyaṃ yataḥ sarvatra dṛśyate // VMv_3.82 //	T02D1748:129a-45	གང་ཕྱིར་སྨན་གྱི་ནུས་པ་ནི་༎ བསམ་མི་ཁྱབ་པར་ཀུན་ཏུ་སྣང་༎
+T02vamvuppu:557	 iti vidhāya bahiṣkriyam ādarān maraṇavañcanam atra yathābalam /	T02D1748:129a-47	དེ་ལྟར་ཕྱི་ཡི་བྱ་བས་གུས་བྱས་པས་༎ ཇི་བཞིན་སྟོབས་ཀྱིས་འདིར་ནི་འཆི་བདག་བསླུ་༎ འཆི་བ་སྟོབས་ལྡན་འཇིགས་པ་ཆེད་དོགས་ལ་༎ དེ་ལྟར་དེ་༄༡༢༩བ་ཡི་ནང་གི་བྱ་བ་ཡིན་༎
+T02vamvuppu:559	 // iti śrīpaṇḍitācāryavāgīśvarakīrtiviracite mṛtyuvañcanopadeśe tṛtīyaḥ paricchedaḥ //	T02D1748:129b-1	སློབ་དཔོན་ངག་གི་དབང་ཕྱུག་གྲགས་པས་སྦྱར་བའི་འཆི་བ་བསླུ་བ་བསྟན་པ་ལས་ལེའུ་གསུམ་པའོ་།
+T02vamvuppu:56	 vyabhre nabhasi madhyāhne cchāyāyāś ca nirīkṣaṇam // VMv_1.28 //	T02D1748:120a-8	སྤྲིན་མེད་ནམ་མཁར་ཉིན་ཕྱེད་ན་༎
+T02vamvuppu:560	 ādhyātmikam idānīṃ tu mṛtyuvañcanakauśalam /	T02D1748:129b-2	༎ ། ད་ནི་འཆི་བ་བསླུ་བ་ལ་༎ མཁས་པ་ནང་གི་བདག་ཉིད་ཅན་༎
+T02vamvuppu:561	 kathyate yena niyataṃ vañcyate mṛtyur udyataiḥ // VMv_4.1 //	T02D1748:129b-4	གང་གིས་བརྩོན་པས་འཆི་བ་ནི་༎ ངེས་པར་བསླུ་བ་བཤད་པར་བྱ་༎
+T02vamvuppu:562	 rājacauramahāmāravyāghrādibhayavarjite /  saṃsargarahite ramye parvatādau kva cit sthitaḥ // VMv_4.2 //	T02D1748:129b-6	རྒྱལ་པོ་རྐུན་པོ་བདུད་ཆེན་པོ་༎ སྟག་ལ་སོགས་པའི་འཇིགས་དང་བྲལ་༎ འདུ་འཛི་དང་བྲལ་རི་བོ་སོགས་༎ ཡིད་འོང་ལ་ལར་གནས་པར་བྱ་༎
+T02vamvuppu:564	 mātrābhojī mitālāpī nāticaṅkramaṇe priyaḥ /  alpanidro bahudhyāno mantrajāpaparāyaṇaḥ // VMv_4.3 //	T02D1748:129b-10	ཚད་ཙམ་ཟ་ཞིང་སྨྲ་ཉུང་ལ་༎ ཤིན་ཏུ་འཆག་པར་དགའ་མ་ཡིན་༎ གཉིད་ཆུང་བསམ་གཏན་ལ་མང་གནས་༎
+T02vamvuppu:567	 trisaṃdhyabalidānādimaitryacittāditatparaḥ // VMv_4.4 //	T02D1748:129b-13	སྔགས་ཀྱི་བཟླས་པ་ལ་རབ་བརྩོན་༎ རང་གི་འདོད་ལྷ་མཆོད་སོགས་དང་༎ དམ་ཆོས་བཀླག་པའི་བྱ་བ་དང་༎ གཏོར་མ་སྦྱིན་སོགས་བྱམས་པ་ཡི་༎ སེམས་ལ་སོགས་པ་དུས་གསུམ་བརྩོན་༎
+T02vamvuppu:568	 puṇyād eveṣṭasaṃsiddhir iti puṇyakriyāparaḥ /	T02D1748:129b-16	བསོད་ནམས་ཀྱིས་ནི་འདོད་པ་འགྲུབ་༎ དེ་བས་འདུ་འཛི་སྤང་བར་བྱ་༎
+T02vamvuppu:569	 śraddhayā sarvasaṃsiddhir iti śraddhāvivardhakaḥ // VMv_4.5 //	T02D1748:129b-18	དད་པས་ཐམས་ཅད་ཡང་དག་འགྲུབ་༎ དེ་ཕྱིར་དད་པ་རྣམ་འཕེལ་བྱ་༎
+T02vamvuppu:570	 vīryāt prārabdhaniṣpattir iti vīryapuraḥsaraḥ /	T02D1748:129b-20	བརྩོན་འགྲུས་ཀྱིས་ནི་བརྩམས་པ་འགྲུབ་༎ དེ་བས་བརྩོན་འགྲུས་སྔོན་འགྲོ་བྱ་༎
+T02vamvuppu:571	 dhyānād iṣṭaphalasthairyam iti dhyānaikacetanaḥ // VMv_4.6 //  saṅgatyāgād anuṣṭhānam iti saṅgavivarjitaḥ /	T02D1748:129b-22	བསམ་གཏན་གྱིས་འདོད་འབྲས་བརྟན་པས་༎ བསམ་གཏན་ལ་སེམས་གཅིག་ཏུ་འབད་༎ འདུ་འཛི་སྤངས་པས་ཉམས་ལེན་འགྱུར་༎ དེ་བས་འདུ་འཛི་རྣམ་སྤང་བྱ་༎
+T02vamvuppu:573	 samyagjñānavataḥ sarvam iti jñānasamanvitaḥ // VMv_4.7 //	T02D1748:129b-26	ཡང་དག་ཤེས་ལྡན་ཐམས་ཅད་འགྲུབ་༎ དེ་བས་ཤེས་དང་ཀུན་ལྡན་བྱ་༎
+T02vamvuppu:574	 maraṇe duḥkhasaṃdarśī dharmadarśī ca jīvite /	T02D1748:129b-28	འཆི་བ་ལས་ནི་སྡུག་བསྔལ་མཐོང་༎ འཚོ་བ་ལས་ནི་ཆོས་འགྱུར་མཐོང་༎
+T02vamvuppu:575	 vigatāśeṣasaṃdeho mṛtyuvañcanam ārabhet // VMv_4.8 //	T02D1748:129b-30	སོམ་ཉི་མ་ལུས་དང་བྲལ་བས་༎ འཆི་བ་བསླུ་བ་ཀུན་དུ་སྤྱོད་༏
+T02vamvuppu:576	 tatrādau dhyānasahitaṃ vighnārer mantralakṣakam /	T02D1748:129b-32	། དེ་ལ་དང་པོར་བསམ་གཏན་བཅས་༎ བགེགས་དགྲའི་གསང་སྔགས་འབུམ་ཉིད་ནི་༎ ལེགས་བཟླས་སྦྱིན་སྲེག་ཁྲི་བྱས་པས་༎
+T02vamvuppu:577	 saṃjapyāyutahomena sarvavighnān nivārayet // VMv_4.9 //	T02D1748:129b-35	བགེགས་ནི་ཐམས་ཅད་བཟློག་པར་བྱ་༎
+T02vamvuppu:578	 namaḥ samantakāyeti prāg vākcittapadaṃ tataḥ /	T02D1748:129b-36	ན་མ༔་ས་མནཏ་ཀའ་ཡ་༎ དེ་ནས་བའ་ཀཙིཏཏའི་ཚིག་། བཛྲ་ནམ་ན་མོ་བཛྲ་༎
+T02vamvuppu:579	 vajrāṇāṃ ca namo vajrakrodhāyeti padaṃ vadet // VMv_4.10 //	T02D1748:129b-38	ཀྲོ་དྷའ་ཡ་ཞེས་ཚིག་བརྗོད་ལ་༎
+T02vamvuppu:580	 mahādaṃṣṭrotkaṭapadād bhairavāyapadaṃ vadet /	T02D1748:129b-39	མཧའ་དོཤཏྲོཏཀ་ཏའི་རྗེས་༎ བྷི་ར་བ་ཡ་ཨཨ་སི་བརྗོད་༎ མུ་ས་ལ་པ་ར་ཤུ་པ་༎ གྲི་ཧི་ཏ་ཧ་སྟ་ཡ་ཡིན་༎
+T02vamvuppu:582	 oṃ tato 'mṛtakuṇḍali khakhakhāhikhāhipadāt /  tiṣṭhatiṣṭhapadaṃ tasmād bandhadvayaṃ hanadvayam // VMv_4.12 //	T02D1748:129b-43	ཨཨོམ་ཨཨ་མྲི་ཏ་ཀུནད་ལི་༎ ཁ་ཁ་ཁའ་ཧི་ཁའ་ཧིའི་ཚིག་། ཏིཤཐ་ཏིཤཐ་ཚིག་དེ་ནས་༎ བནདྷ་གཉིས་དང་ཧ་ན་གཉིས་༎ ད་ཧ་གཉིས་དང་ག་རྫ་གཉིས་༎ དེ་ནས་༄༡༣༠ཨ་༌་༎ སརྦ་བཛྲ་ཚིག་དང་ནི་༎ བིགྷ་བི་ནའ་ཡ་ཀའན་བརྗོད་༎
+T02vamvuppu:588	 hūṃ hūṃ phaṭ phaṭ svāhā mantro vighnanivāraṇaḥ // VMv_4.14 //	T02D1748:130a-5	ཧའུམ་ཧའུམ་ཕཏ་ཕཏ་སབ༹འ་ཧའ་ཡི་༎ སྔགས་འདི་བགེགས་རྣམས་ཟློག་བྱེད་ཡིན་༎
+T02vamvuppu:589	 hṛdayenāthavāsyaiva sarvavighnān nivārayet /	T02D1748:130a-7	ཡང་ན་འདི་ཡི་སྙིང་པོ་ཡིས་༎ བགེགས་རྣམས་ཐམས་ཅད་ཟློག་པར་བྱེད་༎ སྔོན་བཞིན་བཟླ་དང་སྦྱིན་སྲེག་གིས་༎
+T02vamvuppu:590	 pūrvavaj japahomābhyāṃ śaktir asyāpi tādṛśī // VMv_4.15 //	T02D1748:130a-10	འདི་ཡི་མཐུ་ཡང་དེ་འདྲ་ཡིན་༎
+T02vamvuppu:591	 oṃ prāg uktvā huluhulutiṣṭhatiṣṭhapadaṃ tataḥ /	T02D1748:130a-11	ཨཨོམ་སྔར་ཧུ་ལུ་ཧུ་ལུ་དང་༎ དེ་འོག་ཏིཤཐ་ཏིཤཐའི་ཚིག་། ཧ་ན་གཉིས་དང་ད་ཧ་གཉིས་༎
+T02vamvuppu:593	 visphoṭayadvayād brūyāt sarvavighnavināyakān /	T02D1748:130a-13	བི་སཕོ་ཏ་ཡ་ལན་གཉིས་བརྗོད་། སརྦ་བི་གྷ་བི་ནའ་ཡ་ཀའ་ན་༎
+T02vamvuppu:594	 oṃ amṛta hūṃ hūṃ phaṭ phaṭ mama rakṣāṃ kuru svāhā // VMv_4.17 //	T02D1748:130a-14	ཨཨོམ་ཨཨ་མྲི་ཏ་ཧའུམ་ཧའུམ་ཧའུམ་ཕཏ་ཕཏ་མ་མར་ཀཤ་ཀུ་རུ་སབ༹འ་ཧའ་།
+T02vamvuppu:595	 evaṃ vināśitāśeṣamāravighno nirākulaḥ /	T02D1748:130a-15	དེ་ལྟར་བདུད་དང་བགེགས་རྣམས་ནི་༎ མ་ལུས་རྣམ་བསལ་འཁྲུག་མེད་པས་༎
+T02vamvuppu:596	 yathābhivāñchitaṃ yogaṃ dhyāyād ekam aharniśam // VMv_4.18 //	T02D1748:130a-17	ཇི་ལྟར་མངོན་འདོད་རྣལ་འབྱོར་ནི་༎ གཅིག་ཅིག་ཉིན་མཚན་བསྒོམ་པར་བྱ་༎
+T02vamvuppu:597	 buddhakṛtyakaraṃ śāntaṃ ghanavyūhanivāsinam /	T02D1748:130a-19	སྟུག་པོ་བཀོད་པའི་གནས་བཞུགས་ཏེ་༎ ཞི་པས་སངས་རྒྱས་མཛད་པ་མཛད་༎
+T02vamvuppu:598	 ābaddhavajraparyaṅkaṃ padmacandrāsanopari // VMv_4.19 //	T02D1748:130a-21	པདམ་ཟླ་བའི་གདན་སྟེངས་སུ་༎ རྡོ་རྗེ་སྐྱིལ་ཀྲུང་བཅས་ནས་ནི་༎ བྱང་ཆུབ་མཆོག་གི་ཕྱག་རྒྱར་ལྡན་༎
+T02vamvuppu:599	 bodhyagrīmudrayā yuktaṃ sphuracchvetāṃśumaṇḍalam /	T02D1748:130a-24	འོད་ཟེར་དཀར་པོའི་ཚོགས་འཕྲོ་བ་༎ རྣམ་སྣང་དཀར་པོ་བསྒོམས་ན་ནི་༎ འཁོར་བ་སྲིད་དུ་འཆིར་འོས་མིན་༎ མི་བསྐྱོད་ལ་སོགས་དེ་བཞིན་གཤེགས་༎ རང་མདོག་ཕྱག་རྒྱ་ཆ་ལུགས་ལྡན་༎
+T02vamvuppu:6	 sāriṣṭaṃ vañcanaṃ mṛtyor ucyate śāstrasaṃgatam // VMv_1.3 //  sarvathā vañcanaṃ mṛtyor muktānām eva yujyate /	T02D1748:119a-8	ག-ཡོ་བའི་སེམས་ལ་དཀའ་བ་ཡི་༎ འཆི་བདག་སླུ་བ་འཆི་ལྟས་བཅས་༎ བསྟན་བཅོས་དང་འབྲེལ་བཤད་པར་བྱ་༎ འཆི་བདག་རྣམ་ཀུན་སླུ་བ་ནི་༎ གྲོལ་བ་ཉིད་ལ་རིགས་པ་ཡིན་༎
+T02vamvuppu:60	 ekaikapādyahrāsaḥ syān makarāt karkaṭāvadheḥ // VMv_1.30 //	T02D1748:120a-9	གྲི་བ་མ་དག་ནི་བརྟག་པར་བྱ་༎ ཟླ་བ་རེ་རེ་རྐང་རེ་འཕེལ་༎ ཟླ་བ་རེ་ཞིང་རྐང་རེ་འགྲིབ་༎ འདི་ལས་གཞན་དུ་འགྱུར་ན་ནི་༎ འཆི་བའི་དོགས་པ་རབ་ཏུ་བསྐྱེད་༎ དབྱར་ཟླ་འབྲིང་ནས་ཆུ་སྲིན་པར་༎
+T02vamvuppu:600	 dhyātvā vairocanaṃ śuklam āsaṃsāraṃ na mṛtyubhāk // VMv_4.20 //  svavarṇamudrāveṣāḍhyān akṣobhyāditathāgatān /  dṛḍhāhaṅkārato dhyātvā vajrakāyo bhaved dhruvam // VMv_4.21 //	T02D1748:130a-29	ང་རྒྱལ་བརྟན་པས་བསྒོམས་ན་ནི་༎ རྡོ་རྗེའི་ལུས་སུ་ངེས་པར་འགྱུར་༎ ཉི་ཟླ་ཁ་སྦྱར་ནང་ན་བཞུགས་༎ འཇིག་རྟེན་དབང་ཕྱུག་མི་འཇིགས་པ་༎ ཞི་ཞིང་ཟླ་བ་དང་འདྲ་ལ་༎
+T02vamvuppu:608	 sarvasattvārthasaṃpādikāruṇyasyandivigraham // VMv_4.24 //	T02D1748:130a-38	ཞབས་ཀྱི་པདམ་གཉིས་ཀྱི་སྟེང་༎ ཕྱག་གཉིས་དག་ནི་མི་འཆོལ་བར་༎ ཏིང་འཛིན་ཕྱག་རྒྱར་ལེགས་གནས་པ་༎ སེམས་ཅན་ཀུན་དོན་རྫོགས་མཛད་པའི་༎ སྐུ་ལས་ཐུགས་རྗེའི་རྒྱུན་འཛག་པས་༎
+T02vamvuppu:609	 dhyātvā tasyāpi hṛdaye lokeśam aparaṃ tathā /  punas tasyāpi hṛdaye tathaivaikāgramānasaḥ // VMv_4.25 //	T02D1748:130a-43	བསམས་ལ་དེ་ཡི་ཐུགས་ཀར་ནི་༎ འཇིག་རྟེན་དབང་ཕྱུག་གཞན་དེ་བཞིན་༎ སླར་ཡང་དེ་ཡི་ཐུགས་ཀ་རུ་༎ དེ་བཞིན་རྩེ་གཅིག་ཡིད་ཀྱིས་ནི་༎
+T02vamvuppu:61	 āṣāḍhāt kramaśo vṛddhiḥ puṣyād dhrāsaḥ kramāt tathā /	T02D1748:120a-15	རྐང་པ་རེ་རེ་འཕེལ་བ་ཡིན་༎ ཆུ་སྲིན་ནས་ནི་ཀརྐའི་བར་༎ རྐང་པ་རེ་རེ་འགྲིབ་པར་འགྱུར་༎ དབྱར་ཟླ་འབྲིང་ནས་རིམ་གྱིས་འཕེལ་༎ དེ་བཞིན་དགུན་ཟླ་འབྲིང་རིམ་འགྲིབ་༎
+T02vamvuppu:611	 koṭisaṃkhyā bhaved yāvat tāvad dhyānam idaṃ smaret /	T02D1748:130a-47	ཇི་སྲིད་གྲངས་ནི་བྱེ་བར་འགྱུར་༎ ཇི་སྲིད་བསམ་གཏན་འདི་༄༡༣༠བ་འདྲ་བྱ་༏
+T02vamvuppu:613	 dṛṣṭvā yogeśvaraṃ mṛtyur mriyate svayam eva hi /	T02D1748:130b-1	། དེ་ནས་ཕྲ་ཞིང་རབ་ཕྲའི་མཐའི་༎ འཇིག་རྟེན་དབང་ཕྱུག་ལ་གཏད་སེམས་༎ རྣལ་འབྱོར་དབང་ཕྱུག་གིས་བསམ་ན་༎ འཆི་བདག་རང་ཉིད་འཆི་བར་འགྱུར་༎
+T02vamvuppu:614	 anye 'pi skandhajā doṣāḥ svayam āyanti nāśitām // VMv_4.27 //	T02D1748:130b-5	ཕུང་པོ་ལས་སྐྱེས་ནད་གཞན་ཡང་༎ རང་ཉིད་འཇིག་པར་གྱུར་པ་ཡིན་༎
+T02vamvuppu:615	 sitāravindamadhyasthacandrabimbāsanopari /	T02D1748:130b-7	པདམ་དཀར་པོའི་དབུས་གནས་པའི་༎ ཟླ་བའི་གཟུགས་ཀྱི་གདན་སྟེངས་སུ་༎
+T02vamvuppu:616	 ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // VMv_4.28 //	T02D1748:130b-9	རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་བཅས་ནས་ནི་༎ མཆོག་སྦྱིན་པ་དང་ཨཽཏཔལ་བསྣམས་༎
+T02vamvuppu:617	 śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /  sarvālaṅkārasaṃpūrṇāṃ ṣoḍaśābdavapuṣmatīm // VMv_4.29 //	T02D1748:130b-11	སྟོན་ཀའི་ཟླ་བའི་མདངས་འདྲ་བའི་༎ ཟླ་བ་ལ་ནི་རྒྱབ་བརྟེན་པ་༎ རྒྱན་རྣམས་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་༎ བཅུ་དྲུག་ལོ་ལོན་ལུས་དང་ལྡན་༎
+T02vamvuppu:62	 chāyāvikāram ālocya māsān maraṇam ādiśet // VMv_1.31 //	T02D1748:120a-20	གྲིབ་མའི་འགྱུར་བ་མཐོང་ནས་ནི་༎ ཟླ་བ་གཅིག་ན་འཆི་བར་ངེས་༎
+T02vamvuppu:620	 dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti // VMv_4.30 //	T02D1748:130b-15	རྫོགས་སངས་རྒྱས་ཀུན་དེ་ཡི་སྲས་༎ མཆོག་སྦྱིན་སྐུ་ནི་འཆང་བའི་ཡུམ་༎ འཕགས་མ་སྒྲོལ་མའི་སྙིང་གར་བསྒོམས་༎ དེ་ཡི་འཁོར་ལོའི་འོད་ཟེར་དཀར་༎
+T02vamvuppu:621	 aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam /	T02D1748:130b-19	རྩིབས་བརྒྱད་ལ་ནི་ཡི་གེ་ནི་༎ བརྒྱད་ཀྱིས་ཡོངས་སུ་བསྐོར་བ་ལ་༎
+T02vamvuppu:622	 oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam // VMv_4.31 //	T02D1748:130b-21	ལྟེ་བར་ཨཨོམ་དང་ཧའི་ཡི་གེ་། དབུས་ནས་བསྒྲུབ་བྱའི་མིང་དང་ལྡན་༎
+T02vamvuppu:623	 dhyāyād ekāgracittaḥ san ṣaḍ māsān dṛḍhaniścayaḥ /	T02D1748:130b-22	ཟླ་དྲུག་བརྟན་ཅིང་ངེས་པས་ནི་༎
+T02vamvuppu:624	 japec cākhinnacittaḥ san mantram enaṃ daśākṣaram // VMv_4.32 //	T02D1748:130b-24	ཡི་གེ་བཅུ་པའི་སྔགས་འདི་ནི་༎ སྐྱོ་བར་མ་གྱུར་སེམས་ཀྱིས་བཟླ་།
+T02vamvuppu:625	 oṅkāram ādito dattvā paścāt tāre prayojayet /	T02D1748:130b-26	དང་པོར་ཨཨོམ་ནི་བཞག་ནས་སུ་༎ དེ་འོག་ཏའ་རེ་རབ་ཏུ་སྦྱར་༎
+T02vamvuppu:628	 apy akhaṇḍitaromāgraṃ mṛtyuṃ jayati mṛtyuvat // VMv_4.34 //	T02D1748:130b-31	སྦུ་རྩེ་ཙམ་ཡང་མ་ཉམས་པར་༎ འཆི་བདག་ལྟ་བུར་འཆི་ལས་རྒྱལ་༎
+T02vamvuppu:629	 valīpalitadaurbhāgyavyādhidāridryasaṃkṣayaḥ /  siṃhādyaṣṭamahābhītiduḥkhasaṃdohanāśanam // VMv_4.35 //	T02D1748:130b-33	སྐྲ་དཀར་གཉེར་མ་ངན་པ་དང་༎ ནད་དང་དབུལ་བ་ཀུན་ཟད་བྱེད་༎ སེང་གེ་ལ་སོགས་འཇིགས་ཆེན་བརྒྱད་༎ སྡུག་བསྔལ་ཚོགས་ནི་འཇིག་པར་བྱེད་༎
+T02vamvuppu:63	 kṣayakāle bhaved vṛddhir vṛddhikāle kṣayo yadi /	T02D1748:120a-22	འགྲིབ་པའི་དུས་སུ་འཕེལ་བ་དང་༎ གལ་ཏེ་འཕེལ་བའི་དུས་སུ་འགྲིབ་༎
+T02vamvuppu:631	 ayācitānnapānādiharmyavastrādisaṃgamaḥ /  khaḍgāñjanapādalepabhadrakumbhādisiddhayaḥ // VMv_4.36 //	T02D1748:130b-37	ཁ་ཟས་གོས་ལ་སོགས་པ་རྙེད་༎ རལ་གྲི་མིག་སྨན་རྐང་བྱུག་པ་༎ བུམ་བཟང་སོགས་དང་དངོས་གྲུབ་རྣམས་༎
+T02vamvuppu:633	 kavitā vaktṛtā medhā prajñā caikāntanirmalā /	T02D1748:130b-40	སྙན་དང་གས་སྨྲ་མཁས་ཉིད་ཀྱི་བློ་༎ ཤེས་རབ་གཅིག་བུ་དྲི་མ་མེད་༎
+T02vamvuppu:634	 anyā ca vāñchitā siddhiś cakrād asmāt prajāyate // VMv_4.37 //	T02D1748:130b-42	འདོད་པའི་དངོས་གྲུབ་གཞན་དག་ཀྱང་༎ འཁོར་ལོ་འདི་ནས་འབྱུང་བར་འགྱུར་༎
+T02vamvuppu:635	 locanāṃ māmakīṃ cundāṃ mahāśvetādidevatām /	T02D1748:130b-45	ལྷ་མོ་དཀར་མོ་ཆེན་མོ་ནི་༎
+T02vamvuppu:636	 svavarṇaveṣamudrābhir dhyātvā mṛtyuṃ na paśyati // VMv_4.38 //	T02D1748:130b-46	རང་མདོག་ཆ་ལུགས་ཕྱག་རྒྱ་ཡིས་༎ བསྒོམས་ན་འཆི་བས་མི་ཚུགས་སོ་༎
+T02vamvuppu:637	 sveṣṭadaivatayogād vai dṛḍhāhaṅkārasaṃgatāt /  cintāmaṇer ivāśeṣavāñchitārthaprasādhakāt // VMv_4.39 //	T02D1748:131a-0	རང་གི་འདོད་༄༡༣༡ཨ་༌་༎ ལྷའི་རྣལ་འབྱོར་ཉིད་༎ ང་རྒྱལ་བརྟན་པ་དང་ལྡན་པ་༎ ཡིད་བཞིན་ནོར་ལྟར་མ་ལུས་པའི་༎ འདོད་པའི་དོན་ནི་རབ་སྒྲུབ་བྱེད་༎
+T02vamvuppu:639	 śaṅkhakundendusaṃkāśāt saṃhārakramasaṃsthitāt /	T02D1748:131a-5	དུང་དང་ཀུནད་ཟླ་བ་འདྲ་༎ བསྡུ་བའི་རིམ་གྱིས་ཡང་དག་གནས་༎
+T02vamvuppu:64	 tam eva kālam ārabhya mṛtyur māsād viniścitaḥ // VMv_1.32 //	T02D1748:120a-23	དུས་དེ་ཉིད་ནས་བརྩམས་ནས་ནི་༎ ཟླ་བ་གཅིག་ན་འཆི་བར་ངེས་༎
+T02vamvuppu:640	 anāratakriyābhyāsān mṛtyur āyāti vañcanām // VMv_4.40 //	T02D1748:131a-7	རྒྱུན་མི་འཆད་པར་བསླབས་ན་དེས་༎ འཆི་བ་བསླུ་བར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:641	 cakrasaṃvaratantroktaherukākārabhāvanām /	T02D1748:131a-9	འཁོར་ལོ་བདེ་མཆོག་རྒྱུད་ལས་གསུངས་༎ ཧེ་རུ་ཀ་ཡི་རྣམ་པར་བསྒོམ་༎
+T02vamvuppu:642	 kṛtvā tatpariṇāmena kapālākārabhāvakam // VMv_4.41 //	T02D1748:131a-11	བྱས་ནས་དེ་ཡོངས་གྱུར་པ་ལས་༎ ཀ་པའ་ལ་ཡི་རྣམ་པར་བསྒོམ་༎
+T02vamvuppu:643	 kaṅkālarūpanidhyānaṃ yad vā khaṭvāṅgabhāvakam /	T02D1748:131a-13	ཀམ་ཀ་ལ་ཡི་གཟུགས་བསམས་པའམ་༎ ཁ་ཏབ༹འམ་གར་ནི་རྣམ་པར་བསྒོམ་༎
+T02vamvuppu:644	 mārayitum ayogyatvān mṛtyur naivopasarpati // VMv_4.42 //	T02D1748:131a-15	གསད་པར་འོས་པ་མ་ཡིན་ཕྱིར་༎ འཆི་བ་འབྱུང་བར་མི་འགྱུར་རོ་༎
+T02vamvuppu:645	 mūrdhni candramaso bimbāt kṣaratpīyūṣaśīkarān /	T02D1748:131a-17	སྤྱི་བོ་རུ་ནི་ཟླ་བའི་གཟུགས་༎ བདུད་རྩི་ཐིགས་པ་འཛགས་པ་ཡིས་༎ ཡན་ལག་ཐམས་ཅད་ཚིམ་པར་བྱེད་༎ འདུ་འཛི་ཐམས་ཅད་རྣམ་སྤངས་པ་༎ རྣལ་འབྱོར་པ་ཡིས་ཟླ་དྲུག་བསྒོམ་༎ ནད་ཀུན་ལས་ནི་རྣམ་རྒྱལ་ནས་༎
+T02vamvuppu:649	 śirasy adhomukhaṃ śuklaṃ sahasradalapaṅkajam /	T02D1748:131a-25	མགོ་བོ་པདམོ་འདབ་མ་སྟོང་༎ དཀར་པོའི་ཁ་ནི་ཐུར་དུ་བལྟས་༎
+T02vamvuppu:65	 vṛddhikāle 'py ativṛddhau nānārogād upadravaḥ /	T02D1748:120a-25	འཕེལ་བའི་དུས་སུ་རབ་འཕེལ་ན་༎ སྣ་ཚོགས་ནད་ཀྱིས་གཙེས་པར་འགྱུར་༎
+T02vamvuppu:650	 dhyātvā candrakramān mṛtyuṃ kalpādīṃś ca vināśayet // VMv_4.45 //	T02D1748:131a-27	ཟླ་བའི་རིམ་བསམས་བསྐལ་སོགས་པར་༎ འཆི་བ་འཇིག་པར་བྱེད་པ་ཡིན་༎
+T02vamvuppu:651	 asyaiva kṛṣṇarūpasya kṛṣṇarūpair gabhastibhiḥ /	T02D1748:131a-29	དེ་ཉིད་ནག་པོའི་གཟུགས་ཉིད་པ་༎ ནག་པོའི་གཟུགས་ཀྱི་འོད་རྣམས་ཀྱིས་༎
+T02vamvuppu:652	 saṃplāvayato nidhyānāt palitādivināśanam // VMv_4.46 //	T02D1748:131a-31	ཀུན་དུ་ཁྱབ་པར་བསམས་ན་ནི་༎ སྐྲ་དཀར་ལ་སོགས་འཇིག་པར་བྱེད་༎
+T02vamvuppu:653	 jihvāṃ tālugatāṃ kṛtvā dantair dantān asaṃspṛśan /	T02D1748:131a-33	ལྕེ་ནི་རྐན་ལ་གཞར་བྱ་ཞིང་༎ སོ་ནི་སོ་ལམ་རེག་པར་༎
+T02vamvuppu:654	 acintyahetusāmarthyāc chraddheyam idam ārabhet // VMv_4.47 //	T02D1748:131a-35	རྒྱུ་ཡི་ནུས་པ་བསམ་མི་ཁྱབ་༎ དད་པས་བྱས་པ་འདི་བརྩམ་བྱ་༎
+T02vamvuppu:655	 kaṇṭharandhrordhvasaṃlagnāṃ lālājihvām adhomukhīm /  jihvāgreṇālihed yāvat pīyūṣarasavedanam // VMv_4.48 //	T02D1748:131a-37	ལྐོག་མའི་བུ་གའི་སྟེང་དང་སྦྱར་༏་། ལྕེ་ཆུང་ཐུར་དུ་བསྟན་ནས་ནི་༎ ལྕེ་ཡི་རྩེ་མོར་ཀུན་རེག་པར་༎ བདུད་རྩིའི་རོ་ནི་མྱོང་བར་བྱེད་༎
+T02vamvuppu:657	 tato mṛtyuṃ jayet sadyaḥ palitādīṃś ca nāśayet /  sarvāpadbhayarakṣā ca tatkāryakaraṇād bhavet // VMv_4.49 //	T02D1748:131a-41	དེས་ནི་འཕྲལ་དུ་འཆི་བ་སེལ་༎ སྐྲ་དཀར་ལ་སོགས་པ་ཡང་འཇིག་། དེ་བྱས་ནས་ནི་རྒུད་པ་དང་༎ འཇིགས་པ་ཀུན་ལས་བསྲུང་འགྱུར་བ་༎
+T02vamvuppu:659	 ānāpānasmṛter vātha prakārāntaram ārabhet /	T02D1748:131a-43	དབུགས་དབྱུང་རྔུབ་པ་དྲན་པ་ཡང་༎ རྣམ་པ་གཞན་པ་བརྩམ་པར་བྱ་༎
+T02vamvuppu:66	 kṣayakāle 'py atikṣaye mṛtyur eva na saṃśayaḥ // VMv_1.33 //	T02D1748:120a-27	འགྲིབ་པའི་དུས་སུ་འང་རབ་འགྲིབ་ན་༎ འཆི་བ་ཉིད་དུ་ཐེ་ཚོམ་མེད་༎
+T02vamvuppu:660	 saṃkhyāvṛddhyā tato 'vaśyam ajarāmaratāṃ vrajet // VMv_4.50 //	T02D1748:131a-45	གྲངས་འཕེལ་དེ་ལས་ངེས་པ་ནི་༎ རྒ་དང་འཆི་བ་མེད་པར་འགྲོ་༎
+T02vamvuppu:661	 adhikāni śataiḥ ṣaḍbhiḥ sahasrāṇy ekaviṃśatiḥ /  ahorātreṇa sattvānāṃ prāṇasaṃkhyā prakīrtitā // VMv_4.51 //	T02D1748:131a-47	སེམས་ཅན་རྣམས་ཀྱི་ཉིན་མཚན་དུ་༎ དབུགས་ནི་ཉི་ཁྲི་ཆིག་སྟོང་དང་༎ དྲུག་བརྒྱ་དག་གིས་ལྷག་པར་རྒྱུ་༎
+T02vamvuppu:663	 praveśaḥ śasyate vāyor yataḥ so 'mṛtasaṃcayaḥ /	T02D1748:131b-0	གྲངས་ནི་༄༡༣༡བ་ཡོངས་སུ་བསྒྲགས་པ་ཡིན་༎ གང་ཕྱིར་བདུད་རྩི་སྔགས་ཡིན་པས་༎
+T02vamvuppu:664	 amṛtaṃ jīvanopāyas tena mṛtyur na bādhate // VMv_4.52 //	T02D1748:131b-2	རླུང་ནི་འཇུག་པ་སྔགས་ཡིན་ཏེ་༎ བདུད་རྩི་གསོན་པའི་ཐབས་ཡིན་པས་༎ དེ་ཡིས་འཆི་བས་མི་ཚུགས་སོ་༎
+T02vamvuppu:665	 praveśaṃ gaṇayed vāyoḥ śanair lakṣādisaṃkhyayā /	T02D1748:131b-5	འཇུག་པའི་རླུང་ནི་བགྲང་བྱ་ཞིང་༎ རིམ་གྱིས་འབུམ་སོགས་གྲངས་ཀྱིས་ནི་༎
+T02vamvuppu:666	 ekāgracitto vidhivad aśabdo japa ucyate // VMv_4.53 //  aśabdajapalakṣeṇa vidhinā pūritena tu /	T02D1748:131b-7	རྩེ་གཅིག་སེམས་ཀྱིས་ཆོ་ག་བཞིན་༎ སྒྲ་མེད་པ་ཡི་བཟླས་པར་བཤད་༎ སྒྲ་མེད་བཟླས་པ་འབུམ་དུ་ནི་༎ ཆོ་ག་བཞིན་དུ་རྫོགས་གྱུར་ན་༎
+T02vamvuppu:67	 āṣāḍhapuṣyayor ante pūrvaṃ karkaṭamatsyayoḥ /  yāni ṣaṭ ṣaḍ dināny atra kālākālanirūpaṇam // VMv_1.34 //	T02D1748:120a-29	དབྱར་ཟླ་དགུན་ཟླ་འབྲིང་གི་མཐར་༎ དང་པོ་ཀརྐ་ཏ་དང་ཉའི་༎ ཉི་མ་དྲུག་དྲུག་གང་ཡིན་འདིར་༎
+T02vamvuppu:671	 sahasram ekaṃ satataṃ gaṇayet prātar utthitaḥ /	T02D1748:131b-16	ནང་པར་ལངས་ནས་སྟོང་ཕྲག་གཅིག་། རྟག་ཏུ་ལེགས་པར་བགྲངས་ནས་ནི་༎
+T02vamvuppu:672	 sarvarogavinirmukto jīvec candrārkajīvitam // VMv_4.56 //	T02D1748:131b-17	ནད་ཀུན་ལས་ནི་རྣམ་གྲོལ་ཞིང་༎ ཉི་ཟླ་གནས་ཀྱི་བར་དུ་འཚོ་༎
+T02vamvuppu:673	 nābhyāsarahitas tiṣṭhen muhūrtam api na svapet /	T02D1748:131b-19	བསླབ་ལ་མི་གནས་མི་དགའ་ཞིང་༏་། ཡུད་ཙམ་ཡང་ནི་གཉིད་མ་ལོག་།འབད་དེ་གཉིད་ལས་རྒྱལ་བྱས་ལ་༎
+T02vamvuppu:675	 vāhayed anulomena vāyusaṃcāratatparaḥ /	T02D1748:131b-23	རླུང་རྒྱུ་བ་ལ་བརྩོན་པར་བྱ་༎ ལུགས་མཐུན་ལ་འབད་རྣལ་འབྱོར་པ་༎
+T02vamvuppu:676	 anulomaparo yogī mṛtyuṃ jayati niścitam // VMv_4.58 //	T02D1748:131b-25	ངེས་པར་འཆི་བ་ལས་རྒྱལ་འགྱུར་༎
+T02vamvuppu:677	 mriyante tu vilomena mūḍhā bhogaikatatparāḥ /	T02D1748:131b-26	རྨོངས་ལ་ལོངས་སྤྱོད་ལ་གཅིག་གཞོལ་༎ ལུགས་མི་མཐུན་པས་འཆི་བར་འགྱུར་༎
+T02vamvuppu:678	 svabhāvas tv anulomaḥ syād vilomas tadviparyayāt // VMv_4.59 //	T02D1748:131b-28	རང་གི་ངོ་བོ་ལུགས་མཐུན་འགྱུར་༎ དེ་ལས་བཟློག་པས་ལུགས་མི་མཐུན་༎
+T02vamvuppu:679	 siṃhavikrīḍitāmudrābandhanād vāyurodhataḥ /	T02D1748:131b-30	སེང་གེ་རྣམ་རོལ་ཕྱག་རྒྱ་ནི་༎
+T02vamvuppu:680	 jitakumbhakayogād vā nirodho mṛtyuvañcakaḥ // VMv_4.60 //	T02D1748:131b-32	ཡང་ན་དགག་པར་སྦྱོར་བས་རྒྱལ་༎ དགག་པའི་འཆི་བ་སླུ་བྱེད་ཡིན་༎
+T02vamvuppu:681	 āpādatalaparyantaṃ śanair āpūrya vāyunā /	T02D1748:131b-34	རྐང་མཐིལ་གྱི་ནི་མཐར་ཐུག་པར་༎ རླུང་གིས་རིམ་གྱིས་དགང་བར་བྱ་༎
+T02vamvuppu:682	 nirodhanāt kumbhakaḥ syāt taj japakrama ucyate // VMv_4.61 //	T02D1748:131b-36	དགག་པ་ཀུམབ་ཀ་ཞེས་བྱ་༎ དེ་ཤེས་རིམ་པ་བརྗོད་བྱ་སྟེ་༎
+T02vamvuppu:683	 trividhodghātayogena jito bhavati kumbhakaḥ /	T02D1748:131b-38	སྟེང་གི་དགག་པའི་སྦྱོར་བས་ནི་༎ དགག་པར་བྱེད་པ་རྒྱལ་བར་འགྱུར་༎
+T02vamvuppu:684	 hīnamadhyādibhedena udghātas trividho mataḥ // VMv_4.62 //	T02D1748:131b-40	ཆུང་དང་འབྲིང་སོགས་དབྱེ་བ་ཡིས་༎ སྟེང་དགག་རྣམ་པ་གསུམ་དུ་འདོད་༎
+T02vamvuppu:685	 udghāta iti saṃjñaiṣā vakṣyamāṇārthadarśikā /	T02D1748:131b-42	སྟེང་དགག་ཅེས་ནི་བྱ་བ་འདི་༎ འོག་ནས་བཤད་པས་དོན་སྟོན་བྱེད་༎
+T02vamvuppu:686	 ṣaṭtriṃśanmātriko hīno madhyaḥ syād dviguṇas tathā // VMv_4.63 //	T02D1748:131b-44	ཆུང་བ་ཚད་ནི་སུམ་ཅུ་དྲུག་།འབྲིང་ནི་དེ་བཞིན་ཉིས་འགྱུར་ཡིན་༎
+T02vamvuppu:687	 jyeṣṭhas tu triguṇo jñeyaḥ kumbhakas tena jīyate /	T02D1748:132a-0	ཆེན་པོ་༄༡༣༢ཨ་༌་༎ སུམ་འགྱུར་ཡིན་ཞེས་བྱ་༎ དགག་པས་དེ་ནི་རྒྱལ་བར་འགྱུར་༎
+T02vamvuppu:690	 eṣā mātrocyate kālaparicchedāya paṇḍitaiḥ // VMv_4.65 //	T02D1748:132a-8	དུས་ཀྱི་ཚད་ནི་ཡིན་པར་བཤད་༎
+T02vamvuppu:691	 ṣaṭtriṃśan mātrā yāvat syus tāvad yā kumbhakakriyā /	T02D1748:132a-9	ཇི་སྲིད་སུམ་ཅུ་དྲུག་ཚད་འགྱུར་༎ དེ་སྲིད་དགག་པའི་བྱ་བ་ཡིན་༎
+T02vamvuppu:692	 udghāto 'sau mato hīno madhyamo dviguṇas tataḥ // VMv_4.66 //	T02D1748:132a-11	སྟེང་དགག་འདི་ནི་དམན་པ་སྟེ་༎ དེ་ནས་བར་མ་ཉིས་འགྱུར་ཉིད་༎
+T02vamvuppu:693	 triguṇo jyeṣṭha udghāto 'ṣṭottaraśatamātrikaḥ /	T02D1748:132a-13	སྟེང་དགག་ཆེན་པོ་སུམ་འགྱུར་ཏེ་༎ བརྒྱ་རྩ་བརྒྱད་ནི་ཚད་ཡིན་ནོ་༎
+T02vamvuppu:694	 sa eva jeyo yatnena mṛtyuvañcanavāñchayā // VMv_4.67 //	T02D1748:132a-15	འཆི་བསླུ་བར་འདོད་པ་ཡིས་༎ འབད་པས་དེ་ཉིད་ལས་རྒྱལ་བྱ་༎
+T02vamvuppu:695	 jyeṣṭhodghātāvadhiṃ yāvat kumbhakaś cet pravartate /  nirantaranirodho 'pi tadā bhavati susthiraḥ // VMv_4.68 //	T02D1748:132a-17	སྟེང་དགག་ཆེན་པོའི་མཚན་ཉིད་ནི་༎ ཇི་སྲིད་དག་པར་བ་འཇིགས་པའོ་༎ རྒྱུན་དུ་དགག་པར་འགྱུར་བ་ཡང་༎ དེ་ཚེ་ལེགས་པར་གནས་པ་ཡིན་༎
+T02vamvuppu:697	 martavyadivasaṃ jñātvā yo nirodhena tiṣṭhati /	T02D1748:132a-21	ཉི་མ་དེ་ལས་འཆི་སོགས་ཉིད་༎ དགག་པ་ལ་ནི་གང་གནས་པ་༎
+T02vamvuppu:698	 tasya kalpasahasrāṇi mṛtyur nāyāti saṃnidhim // VMv_4.69 //	T02D1748:132a-23	དེ་ཚེ་བསྐལ་པ་སྟོང་དུ་ཡང་༎ འཆི་བདག་ཉེ་བར་མི་འགྱུར་རོ་༎
+T02vamvuppu:699	 ākāśadhenor ādohāt pīyūṣadravasaṃcayam /  ghaṭāṅkavāruṇākhyena maṇḍalena sphurattviṣā // VMv_4.70 //  nāsāgranirgato vāyur ādāyāsecayen muhuḥ /	T02D1748:132a-25	ནམ་མཁའ་བ་ནི་བཞོས་པ་ལས་༎ བདུད་རྩི་གཤེར་བ་དག་གི་ཚོགས་༎ བུམ་པས་མཚན་པས་ཆུ་ཞེས་བྱའི་༎ དཀྱིལ་འཁོར་ལས་ནི་འོད་ཟེར་འཕྲོས་༎ སྣ་རྩེར་བྱུང་བའི་རླུང་གིས་ནི་༎
+T02vamvuppu:702	 śuṣyaddhṛtpadmasaṃlīnaṃ cittabhramaraśāvakam // VMv_4.71 //	T02D1748:132a-31	སྙིང་གར་པདམར་ཐིམ་པ་ཡིས་༎ སེམས་ཀྱི་བུང་བའི་ཕྲུ་གུ་གསོ་༎
+T02vamvuppu:703	 ākāśadohanadhyānam idaṃ nityaṃ samācaret /	T02D1748:132a-33	ནམ་མཁའ་བཞོ་བའི་བསམ་གཏན་དག་།འདི་ནི་རྟག་ཏུ་སྤྱད་པར་བྱ་༎
+T02vamvuppu:704	 ākāśam iva taṃ mṛtyuḥ paśyann api na paśyati // VMv_4.72 //	T02D1748:132a-34	ནམ་མཁའ་ལྟ་བུར་འཆི་བདག་གི་། མཐོང་བས་མཐོང་བ་མ་ཡིན་ནོ་༎
+T02vamvuppu:705	 saṃtyajya vāyum athavā tattvam eva sadācaret /	T02D1748:132a-35	ཡང་ན་རླུང་ནི་ཡོངས་སྤངས་ལ་༎ དེ་བཞིན་ཉིད་ལ་རྟག་ཏུ་སྤྱད་༎
+T02vamvuppu:706	 tattvena jīyate mṛtyus tathānye māraśatravaḥ // VMv_4.73 //	T02D1748:132a-37	དེ་བཞིན་ཉིད་ཀྱི་འཆི་དང་འདུད་༎ དགྲ་རྣམས་གཞན་ལ་རྒྱལ་བྱེད་ཉིད་༎
+T02vamvuppu:707	 niḥśeṣadoṣapraśamo niḥśeṣaguṇasaṃbhavaḥ /	T02D1748:132a-39	ཉེས་པ་མ་ལུས་རབ་ཏུ་ཞི་༎ ཡོན་ཏན་མ་ལུས་འབྱུང་བར་འགྱུར་༎
+T02vamvuppu:708	 tattvena jīyate puṃsāṃ siddhayaś cābhivāñchitāḥ // VMv_4.74 //	T02D1748:132a-41	སྐྱེས་བུ་དེ་ཉིད་ཀྱིས་རྒྱལ་ཞིང་༎ མངོན་པར་འདོད་པ་རྣམས་ཀྱང་འགྲུབ་༎ དེ་བཞིན་ཉིད་ནི་སྟོང་ཉིད་བཤད་༎ རྣམ་པ་ཀུན་མཆོག་བདག་ཉིད་ཅན་༎
+T02vamvuppu:710	 tām evābhyasyato nityaṃ mṛtyur āyāti vañcanām // VMv_4.75 //	T02D1748:132a-45	དེ་ཁོ་ན་ཉིད་རྟག་བསླབས་ན་༎ འཆི་བ་བསླུ་པར་འགྱུར་བ་ཡིན་༎
+T02vamvuppu:711	 dharmasaṃbhogakāyādidānaśīlādyabhedinī /	T02D1748:132a-47	ཆོས་དང་ལོངས་སྤྱོད་སྐུ་སོགས་དང་༎ སྦྱིན་དང་ཚུལ་ཁྲིམས་སོགས་དབྱེར་མེད་༎
+T02vamvuppu:712	 sarvālambanasaṃyogāt sarvālambanavarjitā /	T02D1748:132a-48	དམིགས་པ་ཀུན་གྱི་སྦྱོར་བ་ནི་༎ དམིགས་པ་ཐམས་ཅད་རྣམ་པར་སྤངས་༎
+T02vamvuppu:713	 sarvākāravaropetā śūnyatā kathitā jinaiḥ // VMv_4.76 //	T02D1748:132a-50	རྣམ་པ་ཀུན་མཆོག་ལྡན་པ་ཡི་༎ སྟོང་བ་རྒྱལ་བ་རྣམས་ཀྱིས་༄༡༣༢བ་གསུངས་༎
+T02vamvuppu:714	 na cintāṃ cintayec cintyām acintyāṃ naiva cintayet /	T02D1748:132b-1	བསམ་བྱ་བསམ་པར་མི་བྱ་ཞིང་༎ བསམ་པ་མིན་པའང་མི་བསམ་མོ་༎ བསམ་དང་བསམ་མིན་མ་བསམས་ན་༎
+T02vamvuppu:715	 cintyācintyāṃ na cintayet tataḥ prāpsyati śūnyatām // VMv_4.77 //	T02D1748:132b-4	དེ་ནས་སྟོང་ཉིད་ཐོབ་པར་འགྱུར་༎
+T02vamvuppu:716	 na bhāvaṃ bhāvayed vidvān nāpy abhāvaṃ vibhāvayet /	T02D1748:132b-5	མཁས་པས་དངོས་པོ་མི་བསམ་ཞིང་༎ དངོས་པོ་མེད་པའང་མི་བསམས་ལ་༎
+T02vamvuppu:717	 bhāvābhāvavinirmuktaṃ bhāvayet tadvivarjitaḥ // VMv_4.78 //	T02D1748:132b-7	དངོས་དང་དངོས་མེད་རྣམ་པར་སྤངས་༎ སྒོམ་པ་དེ་ནི་བསྒོམ་དང་བྲལ་༎
+T02vamvuppu:718	 sarvākāravaropetāṃ śūnyatāgrahavarjitām /	T02D1748:132b-9	རྣམ་པ་ཀུན་གྱི་མཆོག་ལྡན་པ་༎ སྟོང་ཉིད་འཛིན་པ་རྣམ་སྤངས་བའི་༎ སྟོང་པ་ཉིད་ནི་རྟག་བསྒོམས་ན་༎
+T02vamvuppu:719	 śūnyatāṃ bhāvayen nityaṃ mṛtyunā naiva dṛśyate // VMv_4.79 //  vikalpamātrasaṃbhūtaṃ mṛtyuṃ so 'pi na paśyati /	T02D1748:132b-12	འཆི་བདག་གིས་ནི་མཐོང་མི་འགྱུར་༎ ཀུན་རྟོག་ཙམ་ལས་བྱུང་བ་ཡི་༎
+T02vamvuppu:721	 anyāṃś ca bahulān mārān saṃsāraṃ ca na paśyati // VMv_4.80 //	T02D1748:132b-15	གཞན་ཡང་བདུད་ནི་མང་པོ་དང་༎ འཁོར་བ་ཡང་ནི་མི་མཐོང་ངོ་༎
+T02vamvuppu:722	 tad āha /  mṛtyur nāma vikalpo 'yam abhāve sarvavastunaḥ /	T02D1748:132b-16	དེ་ཡང་། འཆི་བ་ཞེས་བྱའི་རྣམ་རྟོག་འདི་༎ དངོས་པོ་ཀུན་ལ་ཡོད་མིན་ཏེ་༎
+T02vamvuppu:724	 hanyate svavikalpena pṛthagjanavijṛmbhitair iti // VMv_4.81 //	T02D1748:132b-19	རྣམ་པར་རྟོག་པས་བཅོམ་པ་ཡིན་༎
+T02vamvuppu:725	 vikalpaḥ sarvaduḥkhāni vikalpo mṛtyur ucyate /	T02D1748:132b-20	རྣམ་རྟོག་སྡུག་བསྔལ་ཐམས་ཅད་དེ་༎ རྣམ་པར་རྟོག་པ་བདུད་ཅེས་བཤད་༎
+T02vamvuppu:726	 vikalpaṃ hānayet tasmān nirvikalpamanā bhavet // VMv_4.82 //	T02D1748:132b-22	དེ་བས་རྣམ་པར་རྟོག་གཞོམ་ཅིང་༎ རྣམ་པར་མི་རྟོག་ཉིད་དུ་བྱ་༎ ཞེས་གསུངས་སོ་༎
+T02vamvuppu:727	 yad yad vibhāvyate 'bhīkṣṇam ādarādiviśeṣitam /  tat tat tu sphuṭatāṃ yāti kāmaśokādibuddhivat // VMv_4.83 //	T02D1748:132b-25	གུས་པ་ལ་སོགས་ཁྱད་པར་གྱིས་༎ རྒྱུན་དུ་བསྒོམས་པ་གང་གང་ཡིན་༎ དེ་དང་དེ་ནི་གསལ་འགྱུར་ཏེ་༎
+T02vamvuppu:732	 anuṣṭhānaparaḥ prājño mṛtyuvañcanabhājanam // VMv_4.85 //	T02D1748:132b-35	འཆི་བ་བསླུ་བའི་སྣོད་ཡིན་ནོ་༎
+T02vamvuppu:733	 śramāt pācanapānāder jaṭharānaladīpanam /  pradīptavahner āhāraḥ pariṇāmo 'pi śaktitaḥ // VMv_4.86 //  pariṇāmāt tanoḥ puṣṭiḥ puṣṭer balavivardhanam /	T02D1748:132b-36	ངལ་དང་སྨིན་དང་བཏུང་སོགས་ཀྱིས་༎ ཕོ་བའི་མེ་ནི་འབར་འགྱུར་ལ་༎ མེ་ནི་རབ་ཏུ་འབར་བའི་ཟས་༎ ཡོངས་ཞུ་བར་ཡང་ནུས་པ་ཡིན་༎ ཡོངས་སུ་ཞུ་བས་ལུས་རྒྱས་ཤིང་༎
+T02vamvuppu:736	 balāt syād āyuṣo vṛddhis tadvṛddheś cirajīvitam // VMv_4.87 //	T02D1748:132b-41	རྒྱས་པས་སྟོབས་ནི་རྣམ་པར་འཕེལ་༎ སྟོབས་ལས་ཚེ་ནི་འཕེལ་འགྱུར་ཞིང་༎ དེ་འཕེལ་བ་ཡིས་རིང་དུ་འཚོ་༎
+T02vamvuppu:737	 pratyakṣasiddhaṃ sarveṣāṃ yathā nāsty atra saṃśayaḥ /	T02D1748:132b-44	ཀུན་གྱིས་མངོན་སུམ་ཉིད་དུ་འགྲུབ་༎ འདི་ལ་སོམ་ཉི་ཇི་ལྟར་ཡོད་༎
+T02vamvuppu:738	 tathopadeśāt kalpādijīvane 'pi na saṃśayaḥ // VMv_4.88 //  nāśonmukho 'pi dīpādis tailavartikṣayādibhiḥ /  punas tailādisaṃprāpteḥ kalpāntam api tiṣṭhati // VMv_4.89 //	T02D1748:132b-46	དེ་བཞིན་མན་ངག་གིས་བསྐལ་སོགས་༎ འཚོ་བར་ཡང་ནི་ཐེ་ཚོམ་མེད་༎ མར་དང་སྙིང་པོ་ཟད་སོགས་ཀྱིས་༎ མར་མེ་ལ་སོགས་༄༡༣༣ཨ་༌་༎ འཇིག་ཕྱོགས་ལ་༎ སླར་ཡང་འབྲུ་མར་ལ་སོགས་ལས་༎ བསྐལ་པའི་བར་དུ་གནས་པ་ཡིན་༎
+T02vamvuppu:741	 yathā tathāyaṃ deho 'pi mriyamāṇo jarādibhiḥ /  siddhopadeśasaṃprāpteḥ kalpāntaṃ kiṃ na tiṣṭhati // VMv_4.90 //	T02D1748:133a-4	དེ་བཞིན་དུ་ནི་ལུས་འདི་ཡང་༎ རྒས་སོགས་ཀྱིས་ནི་འཆི་བཞིན་པ་༎ གྲུབ་པའི་མན་ངག་ལེགས་རྙེད་ན་༎ བསྐལ་པའི་མཐར་ཡང་ཅིས་མི་གནས་༎
+T02vamvuppu:743	 yathā jīrṇasya gehasya saṃskāreṇa cirasthitiḥ /	T02D1748:133a-8	དཔེར་ན་ཁང་པ་རྙིང་པ་དག་། བཅོས་པ་ཡིས་ནི་ཡུན་རིངས་གནས་༎
+T02vamvuppu:744	 tathā jīrṇasya dehasya saṃskāreṇa na kiṃ bhavet // VMv_4.91 //	T02D1748:133a-9	དེ་བཞིན་རྙིང་པའི་ལུས་དག་ཀྱང་༎ བཅོས་པས་གནས་པར་ཅིས་མི་འགྱུར་༎
+T02vamvuppu:745	 na duṣkaraṃ kiṃ cana vikrameṇa tasmād anikṣiptadhurā yatadhvam /	T02D1748:133a-11	འབད་པས་དཀའ་བ་ཅི་ཡང་མེད་༎ དེ་བས་གཅེས་ལ་སྩོལ་བ་དོར་མི་བྱ་༎
+T02vamvuppu:746	 nityapravṛttā vibhinatti kāle śilātalaṃ mṛdv api vāridhārā // VMv_4.92 //	T02D1748:133a-13	རྟག་ཏུ་འབབ་ན་ཆུ་རྒྱུན་འཇམ་པོས་ཀྱང་༎ དུས་སུ་རྡོ་ལེབ་དག་ཀྱང་རྣམ་པར་འབིགས་༎
+T02vamvuppu:747	 kāṣṭhād agnir jāyate mathyamānād bhūmis toyaṃ khanyamānā dadāti /	T02D1748:133a-15	གཙུབས་ན་ཤིང་ལས་མེ་ནི་འབྱུང་འགྱུར་ཞིང་༎ བརྐོས་པར་གྱུར་ན་ས་ལས་ཆུ་འབྱུང་འགྱུར་༎
+T02vamvuppu:748	 sotsāhānāṃ nāsty asādhyaṃ narāṇāṃ nyāyārabdhāḥ sarvayatnāḥ phalanti // VMv_4.93 //	T02D1748:133a-17	མིས་ནི་རྩོལ་བ་བྱས་ན་མི་འགྲུབ་མེད་༎ འབད་པས་རིགས་པས་བརྩམས་ཀུན་འབྲས་བཅས་འགྱུར་༎ འདི་ན་འཆི་བ་བསླུ་བ་རྣམས་༎ ཤིན་ཏུ་མང་པོ་ཤེས་ནས་ཀྱང་༎
+T02vamvuppu:750	 ananuṣṭhānād viṣṭhābhir liptvā śayyāṃ mṛtā vayam // VMv_4.94 //	T02D1748:133a-21	ཉམས་མ་བླངས་ན་མལ་དུ་ནི་༎ བཤང་བས་གོས་ཏེ་ཁྱོད་འཆི་འགྱུར་༎
+T02vamvuppu:751	 prayogakuśalā ye ca paṇḍitāḥ śāstrapāragāḥ /	T02D1748:133a-23	གང་ཞིག་སྦྱོར་བ་ལ་མཁས་ཤིང་༎ བསྟན་བཅོས་ལ་བྱར་མཁས་པ་རྣམས་༎
+T02vamvuppu:752	 ananuṣṭhānadoṣeṇa dantān niṣkāśya te mṛtāḥ // VMv_4.95 //	T02D1748:133a-25	ཉམས་མ་བླངས་པའི་ཉེས་པ་ཡིས་༎
+T02vamvuppu:753	 jñātvāpi yogaśāstrāṇi prayogāṃś cāpy anekaśaḥ /	T02D1748:133a-27	། རྣལ་འབྱོར་གྱི་ནི་བསྟན་བཅོས་དང་༎ སྦྱོར་བ་དུ་མ་ཤེས་ན་ཡང་༎
+T02vamvuppu:754	 adya śvo vā kariṣyāma iti cintāparā mṛtāḥ // VMv_4.96 //	T02D1748:133a-28	དེང་ངམ་སང་ནི་བྱའོ་ཞེས་༎ དེ་ལྟར་སེམས་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:755	 idaṃ kartāsmi śvaḥ punar idam idaṃ cāsya parato vṛthā prāptāśvāso vimṛśati na lolāṃ bhavagatim /	T02D1748:133a-31	དེ་ནས་གཞན་ཡང་འདི་བྱ་ཞེས་༎
+T02vamvuppu:756	 agatvā kāryāntaṃ viṣaya-salilāvartapatitā prajā mṛtyor vaktraṃ makara-mukhavan nauḥ praviśati // VMv_4.97 //	T02D1748:133a-32	སྲིད་པ་ག-ཡོ་བའི་རང་བཞིན་མ་ཤེས་དོན་མེད་ཡིད་རྟོན་ཚོལ་བར་བྱེད་༎ སྐྱེ་དགུ་འཆི་བདག་ཁར་ནི་ཆུ་སྲིན་ཁ་རུ་གྲུ་ནི་ཞུགས་པ་ལྟར་༎ བྱ་བ་མཐར་མ་ཕྱིན་པར་ཡུལ་གྱི་ཆུ་ཡི་དཔའ་ཀློང་དག་ཏུ་ལྷུང་༎
+T02vamvuppu:757	 iti nigaditam etad vañcanaṃ mṛtyuśatroḥ svaparasamayasiddhadhyānakarmaprasādhyam /	T02D1748:133a-35	དེ་ལྟར་འཆི་བདག་དགྲ་བོ་ནི་༎ སླུ་བའི་ཐབས་ནི་བཤད་པ་ཡིན་༎ རང་གཞན་གཞུང་ལས་འགྲུབ་པ་ཡི་༎ བསམ་གཏན་ལས་ནི་རབ་བསྒྲུབ་བྱ་༎
+T02vamvuppu:758	 aghṛṇamaraṇabhīter yatnataḥ saṃvidheyaṃ yata iha kamanīyaṃ jīvitān nānyad asti // VMv_4.98 //	T02D1748:133a-39	བརྩེ་མེད་འཆི་བའི་འཇིགས་པ་ལས་༎ གང་ཕྱིར་འདི་ནི་ཡིད་འོང་བ་༎ སྲོག་ལས་གཞན་པ་ཡོད་མ་ཡིན་༎
+T02vamvuppu:759	 vajraḍākaṃ catuṣpīṭhaṃ buddhapañjarakādi ca /  kālottaraṃ kālāvalīṃ kālapañcāśikām api // VMv_4.99 //	T02D1748:133a-43	རྡོ་རྗེ་མཁའ་འགྲོ་གདན་བཞི་དང་༎ སངས་རྒྱས་བླ་གབ་ལ་སོགས་དང་༎ དུས་ཀྱི་ཕྱི་མ་དུས་ཕྲེང་བ་༎ དུས་༄༡༣༣བ་ཀྱི་ལྔ་བཅུ་པ་དང་ནི་༎ འཚོ་བ་ལྔ་བཅུ་པ་ལ་སོགས་༎ བསྟན་བཅོས་འབད་དེ་བརྟགས་ནས་ནི་༎
+T02vamvuppu:762	 sattvānukampayā proktam idaṃ maraṇavañcanam // VMv_4.100 //	T02D1748:133b-3	འཆི་བདག་རྣམ་པར་བསླུ་བ་འདི་༎ འགྲོ་ལ་རྗེས་སུ་བརྩེ་བས་བཤད་༎
+T02vamvuppu:763	 śāradacandranabhaḥ pariśuddhaṃ śuddhaviyacchaśināpy asamāptam /	T02D1748:133b-5	ནམ་མཁའ་ཡོངས་དག་སྟོན་ཀའི་ཟླ་འདྲ་བར་༎
+T02vamvuppu:766	 granthapramāṇam ākhyātaṃ sāśītikaśatatrayam // VMv_4.102 //	T02D1748:133b-10	གཞུང་འདིའི་ཚད་དུ་གྱུར་པ་ནི་༎ སུམ་བརྒྱ་དྲུག་ཅུ་ཐམ་པའོ་༎
+T02vamvuppu:767	 // iti śrīpaṇḍitācāryavāgīśvarakīrtiviracite mṛtyuvañcanopadeśe caturthaḥ paricchedaḥ samāptaḥ //	T02D1748:133b-12	སློབ་དཔོན་ངག་གི་དབང་ཕྱུག་གྲགས་པས་མཛད་པའི་འཆི་བ་བསླུ་བ་བསྟན་པ་ལས་ལེའུ་བཞི་པའོ་།
+T02vamvuppu:8	 amuktānāṃ ca sarveṣāṃ kiyatkālavilambanam // VMv_1.4 //	T02D1748:119a-13	མ་གྲོལ་བ་ནི་ཐམས་ཅད་ཀྱི་༎ ཅུང་ཟད་དུས་སུ་བསྲིང་བ་ཡིན་༎
+T02vamvuppu:84	 tadā māsād bhaven mṛtyuḥ puṇyam evārjayet tataḥ // VMv_1.42 //	T02D1748:120b-13	དེ་ཚེ་ཟླ་བ་གཅིག་ན་འཆི་༎ དེ་བས་བསོད་ནམས་དག་ནི་བསག་། མཚན་ནི་གཉི་ག་སྦྱོར་བ་ན་༎
+T02vamvuppu:86	 syāc cet tulyaṃ tadā māsaiḥ pañcatvaṃ yāti pañcabhiḥ // VMv_1.43 //	T02D1748:120b-16	ཟླ་བ་ལྔ་ན་འཆི་བར་འགྱུར་༎
+T02vamvuppu:87	 hastayoḥ pādayoś caiva kaniṣṭhānāṃ ca saṃdhayaḥ /	T02D1748:120b-17	ལག་པ་རྐང་པ་ཉིད་དག་གི་། མཐེའུ་ཆུང་དག་གི་ཚིགས་རྣམས་ནི་༎ བཞི་པོ་དུས་གཅིག་ཟུག་སྙམ་པ་༎
+T02vamvuppu:88	 catvāro yasya vidhyanti tulyaṃ māsāt sa mṛtyubhāk // VMv_1.44 //	T02D1748:120b-19	དེ་ནི་ཟླ་བ་གཅིག་ན་འཆི་༎
+T02vamvuppu:89	 hṛtkaṇṭhamadhyayor vedhas tulyakālaṃ yadā bhavet /	T02D1748:120b-20	གང་ཚེ་སྙིང་ག་ལྐོག་མ་ཡི་༎ བར་དུ་དུས་མཚུངས་པར་ཟུག་འགྱུར་༎
+T02vamvuppu:9	 āyurindriyacittānāṃ nirodho mṛtyulakṣaṇam /	T02D1748:119a-15	ཚེ་དང་དབང་པོ་རྣམས་དང་སེམས་༎ འགག་པ་འཆི་བའི་མཚན་ཉིད་ཡིན་༎
+T02vamvuppu:90	 pakṣatrayeṇa mṛtyuḥ syād yadi dharmaṃ na sevate // VMv_1.45 //	T02D1748:120b-23	ཟླ་བ་ཕྱེད་དང་གཉིས་ན་འཆི་༎
+T02vamvuppu:91	 tulyakālaṃ yadā vidhyet tālukānāṃ trayaṃ muhuḥ /	T02D1748:120b-24	གལ་ཏེ་མཐིལ་གསུམ་ཡང་དག་ཡང་༎ དུས་མཚུངས་པར་ནི་ཟུག་འགྱུར་ན་༎
+T02vamvuppu:92	 tribhir dinais tadā mṛtyur yadi śakrasamo bhavet // VMv_1.46 //	T02D1748:120b-27	ཞག་གསུམ་ན་ནི་འཆི་བར་འགྱུར་༎
+T02vamvuppu:93	 vāmākṣiputtalīcchāyāṃ yo na paśyati darpaṇe /	T02D1748:120b-28	གང་གིས་མིག་ནི་ག-ཡོན་པ་ཡི་༎ གཟུགས་ནི་མེ་ལོང་ལ་མ་མཐོང་༎
+T02vamvuppu:94	 saptāhān mriyate nūnaṃ yadi na syāt pratikriyā // VMv_1.47 //	T02D1748:120b-30	གལ་ཏེ་འཆོས་པར་མི་བྱེད་ན་༎ ཞག་བདུན་ན་ནི་ངེས་པར་འཆི་༎
+T02vamvuppu:95	 maithune sati ghaṇṭāyā nādaś cet karṇayor bhavet /	T02D1748:120b-32	འཁྲིག་སྤྱོད་ཚེ་ན་དྲིལ་བུ་ཡི་༎ སྒྲ་ནི་རྣ་བ་དག་གིས་ཐོས་༎
+T02vamvuppu:96	 tribhir māsais tadā mṛtyur yadi brahmasamo bhavet // VMv_1.48 //	T02D1748:120b-35	དེ་ཚེ་ཟླ་བ་གསུམ་གྱིས་འཆི་༎
+T02vamvuppu:97	 kṛṣṇaṃ yadi bhavec chukraṃ śuklāyāṃ pratipattithau /	T02D1748:120b-36	ཡར་ངོ་ཡི་ནི་ཚེས་གཅིག་ལ་༎ གལ་ཏེ་ཁུ་བ་ནག་པོར་མཐོང་༎

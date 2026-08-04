@@ -1,0 +1,484 @@
+src_segmentnr	src_original	tgt_segmentnr	tgt_original
+T02nagpancu:0	 pañcakramaḥ [1]  vajrajāpakramaḥ prathamaḥ  oṃ namo buddhāya  sarvabuddhātmakaṃ nāthaṃ natvā śrīmanmahāsukham /	T02D1802:45a-5	འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ་། མགོན་པོ་སངས་རྒྱས་ཀུན་བདག་ཉིད་༎ དཔལ་ལྡན་བདེ་ཆེན་ལ་བཏུད་དེ་༎
+T02nagpancu:100	 idamevādhyātmikavelāyāṃ dyotayannāha samājottare-	T02D1802:47a-25	ནང་གི་དུས་འདི་ཉིད་གསལ་བར་བྱ་བའི་ཕྱིར་གསང་བ་འདུས་པའི་རྒྱུད་ཕྱི་མ་ལས་།
+T02nagpancu:101	 vidyānayavidhānena catuḥsandhyāprayogataḥ /	T02D1802:47a-26	རིག་པའི་ཆོ་ག་འདི་ཡིས་ནི་༎ ཐུན་མཚམས་བཞི་ནི་རབ་སྦྱོར་བས་༎
+T02nagpancu:102	 japenmantramabhinnāṅgaṃ lakṣamakṣarasaṃkhyayā // Pk_1.45 //	T02D1802:47a-28	གྲངས་འབུམ་གྱི་ནི་མཚན་ཉིད་ཅན་༎ སྔགས་ཀྱི་ཡན་ལག་མ་ཉམས་བཟླས་༎
+T02nagpancu:103	 bāhyajāpaṃ tyajed yogī bhāvanāyāntarāyikam /	T02D1802:47a-30	ཞེས་གསུངས་པ་དང་། བསྒོམ་པ་ཡི་ནི་པར་ཆད་ཅན་༎ རྣལ་འབྱོར་ཕྱི་རོལ་བཟླས་པ་སྤང་༎
+T02nagpancu:104	 mantrārtho bhagavān vajrī vajrātmātra kathaṃ japet // Pk_1.46 //	T02D1802:47a-32	སྔགས་དོན་བཅོམ་ལྡན་རྡོ་རྗེ་ཅན་༎ རྡོ་རྗེ་བདག་ཉིད་ཇི་ལྟར་བཟླས་༎
+T02nagpancu:105	 hastinaṃ labhate sadyo mṛgayeddhastinaḥ padam /	T02D1802:47a-34	གླང་པོ་སྔོན་དུ་རྙེད་གྱུར་ནས་༎ གླང་པོའི་རྗེས་ནི་ཚོལ་བྱེད་ལྟར་༎
+T02nagpancu:106	 mantramūrtiḥ svayaṃ sākṣāt kimanyattu gaveṣate // Pk_1.47 //	T02D1802:47a-36	སྔགས་ལུས་རང་ཉིད་མངོན་གྱུར་ནས་༎ གཞན་དག་ཇི་ག་ཚོལ་བྱེད་དམ་༎
+T02nagpancu:107	 api ca vajradhṛk kaścit trisaṃyogānvito naraḥ /	T02D1802:47a-38	གཞན་ཡང་རྡོ་རྗེ་འཛིན་གང་ཞིག་། སྦྱོར་བ་གསུམ་དང་ལྡན་པ་ཡིས་༎
+T02nagpancu:108	 āvāhanavisarjanaṃ syāt tathā sthāpanameva ca // Pk_1.48 //  āvāhanaṃ praveśena tvaritena visarjanam /	T02D1802:47a-39	སྤྱན་དྲངས་གཤེགས་སུ་གསོལ་གྱུར་དང་དེ་བཞིན་བཞུགས་སུ་གསོལ་བ་དང་༎ བཞུགས་པ་ཡིས་ནི་སྤྱན་དྲངས་ཏེ་༎ མྱུར་བ་ཡིས་ནི་གཤེགས་སུ་གསོལ་༎
+T02nagpancu:11	 vajrajāpasthito mantrī cittanidhyaptimāpnuyāt /	T02D1802:45b-1	རྡོ་རྗེ་བཟླས་ནས་རྣལ་འབྱོར་པ་༎ སེམས་ལ་དམིགས་པ་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:111	 tvarite nibandhake vāṣpe mantraniyojanā kathitā /  karṇamūle tu śiṣyāyācāryeṇa suprayatnataḥ // Pk_1.50 //	T02D1802:47a-43	མྱུར་བ་དང་ནི་རྣམ་བསྡུས་དང་༎ དལ་བ་ཅན་དང་སྔགས་སྦྱོར་བ་༎ བླ་༄༤༧བ་མས་སློབ་མའི་རྣ་དྲུད་དུ་༎ རབ་ཏུ་འབད་དེ་བཤད་པར་བྱ་༎
+T02nagpancu:113	 atha yogeśvarāṇāṃ tu divyopāyaḥ pradarśitaḥ /	T02D1802:47b-2	དེ་ནས་རྣལ་འབྱོར་དབང་ཕྱུག་གི་༎ ཐབས་ཀྱི་དམ་པ་བསྟན་པའི་ཕྱིར་༎
+T02nagpancu:114	 guhyākṣaraṃ pravakṣyāmi yogasiddhiphalapradam // Pk_1.51 //	T02D1802:47b-4	རྣལ་འབྱོར་འབྲས་བུ་རབ་སྟེར་བའི་༎ གསང་བའི་ཡི་གེ་བཤད་པར་བྱ་༎
+T02nagpancu:115	 yena cintitamātreṇa yoginaḥ syurvarapradāḥ /	T02D1802:47b-6	གང་ཞིག་བསམས་པ་ཙམ་གྱིས་ནི་༎ རྣལ་འབྱོར་ཅན་ལ་མཆོག་སྟེར་གྱུར་།
+T02nagpancu:116	 ādyakṣaraprayogeṇa ucchavāsaṃ kurute sadā // Pk_1.52 //  aṣṭāntena samāyuktamukāreṇa sabindukam /	T02D1802:47b-8	དང་པོའི་ཡི་གེའི་སྦྱོར་བ་ཡིས་༎ རྟག་ཏུ་དབུགས་ནི་རྔུ་པར་བྱ་༎ བརྒྱད་པའི་མཐའ་དང་ལྡན་པ་ཡི་༎
+T02nagpancu:118	 niśvāsaṃ kurute yogī rucijāptamihocyate // Pk_1.53 //	T02D1802:47b-12	རྣལ་འབྱོར་པ་ནི་དབུགས་གཏོང་བྱེད་༎ འདི་ནི་ཅི་དགའི་བཟླས་པར་བཤད་༎
+T02nagpancu:119	 ayutadvayaṃ sahasraṃ ca ṣaṭ śatāni tathaiva ca /  ahorātreṇa yogīndro japasaṃkhyāṃ karoti ca // Pk_1.54 //	T02D1802:47b-14	ཁྲི་ཕྲག་གཉིས་དང་ཆིག་སྟོང་དང་༎ དེ་བཞིན་དུ་ནི་བརྒྱ་ཕྲག་དྲུག་རྣལ་འབྱོར་དབང་པོ་ཉིན་མཚན་གྱི་༎ བཟླས་བརྗོད་ཀྱི་ནི་གྲངས་བྱེད་དོ་༎
+T02nagpancu:12	 mayopamasamādhistho bhūtakoṭyāṃ samāviśet // Pk_1.5 //	T02D1802:45b-3	སྒྱུ་མ་ལྟ་བུའི་ཏིང་འཛིན་གནས་༎ ཡང་དག་མཐས་ནི་རྣམ་པར་སྦྱང་༎
+T02nagpancu:121	 tadevaṃ guhyasandhyāyāṃ sūkṣmayogaḥ prakāśitaḥ /	T02D1802:47b-16	དེ་འདིར་གསང་ཞིང་དགོངས་པ་ཡིས་༎ ཕྲ་མོའི་སྦྱོར་བ་བཤད་པ་ཡིན་༎
+T02nagpancu:122	 dhyānādhyayanavītaṃ tu tathāpi jāpa ucyate // Pk_1.55 //	T02D1802:47b-18	ཀློག་དང་བཏོན་མེད་མོད་ཀྱི་༎ འོན་ཀྱང་བཟླས་པར་བཤད་པ་ཡིན་༎
+T02nagpancu:123	 anena vajrajāpena sevāṃ kṛtvā yathāvidhi /	T02D1802:47b-20	རྡོ་རྗེ་བཟླས་པ་འདི་ཡིས་ནི་། ཆོ་ག་ཇི་བཞིན་བསྟེན་བྱ་ཞིང་།
+T02nagpancu:124	 sādhayet sarvakāryāṇi māyopamasamādhinā // Pk_1.56 //	T02D1802:47b-22	སྔ་མ་ལྟ་བུའི་ཏིང་འཛིན་གྱིས་༎ ལས་རྣམས་ཐམས་ཅད་བསྒྲུབ་པར་བྱ་༎
+T02nagpancu:125	 atrāha advayasamatāmahāyogatantre-	T02D1802:47b-24	དེ་བས་ན་གཉིས་སུ་མེད་པ་མཉམ་པ་ཉིད་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བ་རྣལ་འབྱོར་ཆེན་པོའི་རྒྱུད་ལས་ཀྱང་༎
+T02nagpancu:126	 japitvā mantramatulaṃ sādhayet sādhanātmakaḥ /	T02D1802:47b-25	མཉམ་མེད་སྔགས་ནི་བཟླས་ནས་སུ་༎ སྒྲུབ་པའི་བདག་ཉིད་ཅན་གྱིས་བསྒྲུབ་༎
+T02nagpancu:127	 sidhyate tasya trailokyaṃ māsaikena na saṃśayaḥ // Pk_1.57 //	T02D1802:47b-27	དེ་ཡིས་ཟླ་བ་གཅིག་གིས་ནི་༏་། ཁམས་གསུམ་འགྲུབ་པར་གདོན་མི་ཟ་༎
+T02nagpancu:128	 ṣaḍ lakṣāṇi japitvā tu mantraṃ jñānasamudbhavam /	T02D1802:47b-29	རྣམ་ཤེས་ལས་ནི་འབྱུང་བའི་སྔགས་༎ མཚན་ཉིད་དྲུག་ལྡན་བཟས་ནས་ཀྱང་༎
+T02nagpancu:129	 vajrasattvaṃ namaskṛtya pūrṇamāsyāṃ sa sidhyati // Pk_1.58 //	T02D1802:47b-31	རྡོ་རྗེ་སེམས་དཔའ་ཕྱག་བྱས་ན་༎ ཟླ་བ་ཉལ་དེ་འགྲུབ་འགྱུར་༎
+T02nagpancu:13	 bhūtakoṭeḥ samuttiṣṭhannadvayajñānamāpnuyāt /	T02D1802:45b-5	ཡང་དག་མཐའ་ལས་ལངས་ནས་ནི་༎ གཉིས་མེད་ཡེ་ཤེས་འཐོབ་པར་འགྱུར་༎
+T02nagpancu:130	 na tasya vratamākhyātaṃ nākṣasūtraṃ na mantrakam /	T02D1802:47b-33	དེ་ལས་བརྟུལ་བཞུགས་བཤད་པ་མེད་༎ ཕྲེང་བ་མི་དགོས་སྔགས་མི་དགོས་༎
+T02nagpancu:131	 dhāraṇā homakarmāṇi varjyante ca parāparam // Pk_1.59 //	T02D1802:47b-35	གཟུང་དང་སྦྱིན་སྲེག་ལས་རྣམས་དག་། གཅིག་ནས་གཅིག་ཏུ་ལྡོག་པར་འགྱུར་༎
+T02nagpancu:132	 yakārārthena yat kiñcit siddhimicchatā /	T02D1802:47b-36	ཡ་ཡི་དོན་གྱིས་གང་ཅིའང་རུང་༎ དངོས་གྲུབ་འདོད་པས་བྱ་བ་ནི་༎
+T02nagpancu:133	 rephāditritayenaiva jatatkāryaṃ pravartate // Pk_1.60 //	T02D1802:47b-38	རལ་སོགས་པ་གསུམ་ཉིད་ཀྱིས་༎ འགྲོ་བའི་དོན་ལ་འཇུག་པར་བྱ་༎
+T02nagpancu:134	 agnivāyavyamāhendravāruṇe pratimaṇḍale /	T02D1802:47b-40	མེ་དང་རླུང་དང་དབང་ཆེན་དང་༎ ཆུ་སྟེ་སོ་སོའི་དཀྱིལ་འཁོར་དུ༎
+T02nagpancu:135	 ardhayāmikavelāyāṃ dvau dvau karmaṇi tiṣṭhataḥ // Pk_1.61 //	T02D1802:47b-41	ཐུན་ནི་ཕྱེད་དུས་སུ་ནི་༎ ལས་ནི་གཉིས་གཉིས་གནས་པར་འགྱུར་༎
+T02nagpancu:136	 pūjāprāyo bhavet pūjyo jāpaprāyo viśudhyati /  agnihotraparo bhūtiṃ mokṣaṃ dhyānaparo labhet // Pk_1.62 //	T02D1802:47b-43	མཆོད་ལ་བརྩོན་པས་མཆོད་པར་འགྱུར་༎ བཟླས་ལ་བརྩོན་པས་རྣམ་པར་དག་། མེ་ལ་སྦྱིན་སྲེག་བརྩོན་པས་འབྱོར་༎ བསམ་གཏན་བརྩོན་པས་ཐར་པ་འཐོབ་༎
+T02nagpancu:138	 jñātvā itthaṃ tato mantrī jagadbālavadācaret /	T02D1802:47b-46	སྔགས་པས་དེ་ལྟར་ཤེས་ནས་ནི་༎ འགྲོ་ན་བྱིས་པ་བཞིན་༄༤༨ཨ་༌་༎
+T02nagpancu:139	 tataḥ sidhyanti mantrāśca nirvikalpaikadharmataḥ // Pk_1.63 //	T02D1802:48a-1	དུ་སྤྱོད་༎ དེས་ནི་མི་རྟོག་ཆོས་ཅན་གྱིས་༎ གསང་སྔགས་རྣམས་ནི་འགྲུབ་པར་འགྱུར་༎
+T02nagpancu:14	 yuganadvasamādhistho na kiñcicchakṣate punaḥ // Pk_1.6 //	T02D1802:45b-7	ཟུང་འཇུག་ཏིང་འཛིན་ལ་གནས་ནས་༎ སླར་ཞིང་གང་ལའང་མི་སློབ་བོ་༎
+T02nagpancu:140	 mantratattvamidaṃ vyaktaṃ vāgvajrasya prasādhanam /	T02D1802:48a-3	གསུང་གི་རྡོ་རྗེ་སྒྲུབ་པ་སྟེ་༎ འདི་ནི་སྔགས་ཀྱི་དེ་ཉིད་གསལ་༎
+T02nagpancu:141	 jñānatrayaprabhedena cittamātre niyojayed // iti // Pk_1. 64 //	T02D1802:48a-5	ཡེ་ཤེས་གསུམ་གྱི་དབྱེ་བ་ཡིས་༎ སེམས་ཙམ་ལ་ནི་ངེས་པར་སྦྱར་༎
+T02nagpancu:142	 guroravajñāsuśaṭho 'prasanno mantroddhataḥ pustakadṛṣṭigarvaḥ /	T02D1802:48a-7	བླ་མ་ལ་བརྙས་སྒྱུར་ཅན་དད་པ་མེད་༎ སྔགས་ཀྱིས་རློམ་ཞིང་གླེགས་བམ་མཐོང་བས་ཁེངས་༎
+T02nagpancu:143	 aśraddadhānastvabhiṣekahīno vārtā kramasyāpi ca tasya noktā // Pk_1.65 //	T02D1802:48a-9	དད་པ་མེད་ཅིང་དབང་བསྐུར་དམན་པ་ལ་༎ གཏམ་གྱི་རིམ་པའང་དེ་ལ་བརྗོད་མི་བྱ་༎
+T02nagpancu:144	 yaḥ śraddadhāno gurubhaktiraktaḥ śuśrūṣaṇāyāṃ ca sadābhiyuktaḥ /	T02D1802:48a-11	གང་ཞིག་བླ་མ་ལ་གུས་དད་དང་ལྡན་༎ མོས་པས་བ་སྙེན་བཀུར་ལ་ནི་རྟག་ཏུ་བརྩོན་༎
+T02nagpancu:145	 grāhyaḥ śrutiṃ naiva dhanaṃ nirīkṣyaṃ gurupradhāno 'ya guruprasādaḥ // Pk_1.66 //	T02D1802:48a-13	ཐོས་པ་འཛིན་གང་སློབ་མའི་དམ་པ་ཡིས་༎ དེ་ལ་བླ་མའི་དྲིན་སྦྱིན་བརྟག་མི་དགོས་༎
+T02nagpancu:146	 girīndramūrdhnaḥ prapatet tu kaścit neccheccyutiṃ tu cyavate tathāpi /	T02D1802:48a-15	རི་དབང་རྩེ་ནས་འགའ་ཞིག་ལྷུང་གྱུར་ན་༎ ལྷུང་བར་མི་བྱ་སྙམ་ཡང་ལྷུང་བར་འགྱུར་༎
+T02nagpancu:147	 guruprasādāptahitopadeśa icchenna moktaṃ sa tathāpi muktaṃḥ // Pk_1.67 //	T02D1802:48a-17	བླ་མའི་དྲིན་གྱིས་ཕན་པའི་ལུང་ཐོབ་ན་༎ གྲོལ་བར་མི་འགྱུར་སྙམ་ཡང་གྲོལ་བར་འགྱུར་༎
+T02nagpancu:148	 // vajrajāpakramaḥ samāptaḥ //  kṛtiriyaṃ śrīnāgārjunapādānāmiti /	T02D1802:48a-19	རྡོ་རྗེ་བཟླས་པའི་རིམ་པ་སྟེ་སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་ཀྱིས་མཛད་པའི་རིམ་པ་དང་པོའོ་༏
+T02nagpancu:15	 ayaṃ niṣpannayogākhyo mahāvajradharaśca saḥ /	T02D1802:45b-9	འདི་ནི་རྫོགས་པའི་རྣལ་འབྱོར་པ་༎ རྡོ་རྗེ་འཛིན་པ་ཆེན་པོའང་དེ་༎
+T02nagpancu:155	 evaṃ stute namaste 'stu kaḥ stotā kaśca saṃstutaḥ // Pk_2.1 //	T02D1802:48a-21	ཕྱག་འཚལ་ཕྱག་འཚལ་ཕྱག་འཚལ་འདུད་༎ གང་ལ་བསྟོད་ཅིང་གང་གིས་བསྟོད་༎
+T02nagpancu:156	 yathā jalaṃ jale nyastaṃ ghṛtaṃ caiva yathā ghṛte /	T02D1802:48a-24	ཇི་ལྟར་ཆུ་ལ་ཆུ་བཞག་དང་། ཇི་ལྟར་མར་ལ་མར་བཞིན་དུ་༎
+T02nagpancu:157	 svakīyaṃ ca svayaṃ paśyej jñānaṃ yatreha vandanā // Pk_2.2 //	T02D1802:48a-25	རང་གིས་རང་གི་ཡེ་ཤེས་ནི་༎ ལེགས་མཐོང་གང་ཡིན་འདིར་ཕྱག་ཡིན་༎
+T02nagpancu:158	 kintu sarvajñagatibhirvinā tannopalabhyate /	T02D1802:48a-27	འོན་ཀྱང་ཀུན་མཁྱེན་མ་ཐོབ་པར་༎ དེ་ནི་ཉེ་བར་དམིགས་མི་འགྱུར་༎
+T02nagpancu:159	 tamaḥpaṭalasañchannaṃ prasādād dvīpamāpnuyāt // Pk_2.3 //	T02D1802:48a-29	མུན་ནག་རབ་རིབ་ཀྱིས་ཁེབས་པ་༎ དྲིན་གྱིས་སྣང་བ་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:16	 sarvākāravaropetaḥ sarvajño jāyate tataḥ // Pk_1.7 //	T02D1802:45b-11	རྣམ་པ་ཀུན་གྱི་མཆོག་ལྡན་པའི་༎ ཐམས་ཅད་མཁྱེན་པར་དེ་ནས་འགྱུར་༎
+T02nagpancu:160	 śūnyaṃ ca atiśūnyaṃ ca mahāśunyaṃ tṛtīyakam /  caturthaṃ sarvaśūnyaṃ ca phalahetuprabhedataḥ // Pk_2.4 //	T02D1802:48a-31	སྟོང་ཉིད་ཤིན་ཏུ་སྟོང་པ་དང་༎ གསུམ་པ་ཆེན་པོ་སྟོང་པ་དང་༎ བཞི་པ་ཐམས་ཅད་སྟོང་པ་ནི་༎ རྒྱུ་དང་འབྲས་བུའི་བྱ་བྲ་གོ་༎
+T02nagpancu:162	 prajñopāyasamāyogānniṣpannamupalabdhakam /	T02D1802:48a-33	ཤེས་རབ་ཐབས་སུ་སྦྱོར་བ་ལས་༎ རྫོགས་པ་ཉེ་བར་ཐོབ་གྱུར་ནས་༎
+T02nagpancu:163	 upalabdhācca niṣpannāt sarvaśūnyaṃ prabhāsvaram // Pk_2.5 //	T02D1802:48a-36	ཐམས་ཅད་སྟོང་པ་འོད་གསལ་བ་༎
+T02nagpancu:164	 hetukramaviśuddhaṃ tu vijñānatrayayogataḥ /  śūnyatrayasamāyogāllabhyate 'nuttaraṃ padam // Pk_2.6 //	T02D1802:48a-37	རྒྱུ་ཡི་རིམ་པ་རྣམ་དག་པ་༎ རྣམ་ཤེས་གསུམ་པོ་སྦྱོར་བ་དང་༎ སྟོང་པ་གསུམ་ནི་མཉམ་སྦྱོར་བས་༎ བླ་མེད་གོ་འཕང་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:167	 tasyedānīṃ pravakṣyāmi prakṛtispharaṇaṃ sphuṭam // Pk_2.7 //	T02D1802:48a-41	དེ་ཡི་རང་བཞིན་འཕྲོ་གསལ་པ་༎ ད་ནི་རབ་ཏུ་བཤད་པར་བྱ་༎
+T02nagpancu:168	 virāgo madhyamaścaiva adhimātrastathaiva ca /	T02D1802:48a-43	ཆགས་བྲལ་དང་ནི་བར་མ་ཉིད་༎
+T02nagpancu:169	 manogatāgataṃ caiva śokāditṛtīyaṃ tathā // Pk_2.8 //	T02D1802:48b-0	དེ་བཞིན་དུ་ནི་ཆེན་པོ་དག་། ཡིད་ལ་འགྲོ་ཞིང་འོང་བ་དང་༎ མྱ་ངན་ལ་སོགས་༄༤༨བ་གསུམ་དེ་བཞིན་༎
+T02nagpancu:17	 anāgatamatītaṃ ca vartamānaṃ bhavatrayam /	T02D1802:45b-13	འདས་པ་དང་ནི་མ་འོངས་དང་༎ དེ་ལྟར་བྱུང་བའི་སྲིད་གསུམ་ནི་༎
+T02nagpancu:170	 saumyaṃ vikampo bhītaśca madhyabhīto 'tibhītakaḥ /	T02D1802:48b-1	ཞི་དང་རྣམ་རྟོག་འཇིགས་པ་དང་༎ འཇིགས་པ་བར་དང་ཤིན་ཏུ་འཇིགས་༎
+T02nagpancu:171	 tṛṣṇā madhyatṛṣṇā cātitṛosṇoopādānakaṃ tathā // Pk_2.9 //	T02D1802:48b-2	སྲེད་དང་སྲེད་པ་བར་མ་དང་༎ ཤིན་ཏུ་སྲེང་དང་ཉེར་ལེན་པ་༎
+T02nagpancu:172	 niḥśubhaṃ kṣuttṛṣā caiva vedanā samavedanā /	T02D1802:48b-3	མི་དགེ་བཀྲེས་དང་སྐོམ་ཉིད་དང་༎ ཚོར་དང་ཚོར་བ་བར་མ་དང་༎ ཤིན་ཏུ་ཚོར་བའི་སྐད་ཅིག་དང་༎ རིག་པ་པོ་དང་རིག་འཛིན་བཞི་༏
+T02nagpancu:173	 ativedanā kṣaṇaścaiva vettividdhāraṇāpadam // Pk_2.10 //  pratyavekṣaṇaṃ lajjā ca kāruṇyaṃ snehatastrayam /  cakitaṃ saṃśayaścaiva mātsaryaṃ ceti kīrtitāḥ // Pk_2.11 //	T02D1802:48b-4	། སོ་སོར་རྟོག་དང་དོ་ཚ་ཤེས་༎ སྙིང་རྗེ་དང་ནི་བརྩེ་བ་གསུམ་༎ དོགས་དང་བསམ་པ་ཉིད་དང་ནི་༎ ཕྲག་དོག་ཅེས་ནི་བྱ་བར་གྲགས་༎
+T02nagpancu:176	 trayastriṃśat prakṛtayaḥ svasaṃvedyāḥ śarīriṇām /	T02D1802:48b-8	རང་བཞིན་སུམ་ཅུ་རྩ་གསུམ་གང་༎ ལུས་ཅན་རྣམས་ཀྱི་རང་རིག་སྟེ་༎
+T02nagpancu:177	 saṃvṛtisphuṭarupeṇa niśāsaṃjñā pradarśitāḥ // Pk_2.12 //	T02D1802:48b-10	ཀུན་རྫོབ་གསལ་བའི་གཟུགས་ཀྱིས་ནི་༎ མཚན་མོའི་མིང་དུ་ངེས་པར་བཤད་༎
+T02nagpancu:178	 strīsaṃjñā tathā proktā mandākārā tathaiva ca /  vāmasaṃjñā punaścaiva candramaṇḍalapaṅkajam // Pk_2.13 //	T02D1802:48b-12	དེ་བཞིན་བུད་མེད་མིང་དུ་བརྗོད་༎ འཇམ་པོ་ལྟ་བུའང་དེ་བཞིན་ནོ་༎ ག-ཡོན་པའི་མིང་ཡང་དེ་ཉིད་དེ་༎ ཟླ་བའི་དཀྱིལ་འཁོར་པདམ་ཅན་༎
+T02nagpancu:18	 tatkṣaṇāt nikhilaṃ paśyet prabhāsvaraviśuddhitaḥ // Pk_1.8 //	T02D1802:45b-14	འོད་གསལ་བས་ནི་རྣམ་དག་པས་༎ སྐད་ཅིག་དེ་ལ་མ་ལུས་མཐོང་༎
+T02nagpancu:180	 dṛḍhīkaraṇahetutvāt sabinduḥ prathamaḥ svaraḥ /	T02D1802:48b-16	བརྟན་པར་བྱ་བའི་རྒྱུར་གྱུར་པ་༎ དད་པོའི་ཡི་གེ་ཐིག་ལེར་བཅས་༎
+T02nagpancu:181	 niśākarāṃśusaṅkāśa ālokajñānasambhavaḥ // Pk_2.14 //	T02D1802:48b-18	ཟླ་བའི་འོད་ཟེར་ལྟར་སྣང་ཞིང་༎ སྣང་བའི་ཡེ་ཤེས་ཡང་དག་འབྱུང་༎
+T02nagpancu:182	 ālokābhāsamityutkam atiśūnyamupāyakam /	T02D1802:48b-20	ཤིན་ཏུ་སྟོང་པ་ཐབས་ལྡན་པ་༎ སྣང་བ་མཆེད་པ་ཞེས་བརྗོད་དེ་༎
+T02nagpancu:183	 parikalpitaṃ tathā proktaṃ proktaṃ caitasikaṃ tathā // Pk_2.15 //	T02D1802:48b-22	དེ་བཞིན་དུ་ནི་ཀུན་བརྟགས་དང་༎ དེ་བཞིན་སེམས་ལས་བྱུང་བར་བཤད་༎
+T02nagpancu:184	 rāgo raktaṃ tathā tuṣṭaṃ madhyatuṣṭātituṣṭakam /  harṣaṇaṃ caiva prāmodyaṃ vismayo hasitaṃ tathā // Pk_2.16 //  hlādanāliṅganaṃ caiva tathā cumbanacūṣaṇam /  dhairyaṃ vīryaṃ ca mānaśca kartṛhartṛbalāni ca // Pk_2.17 //	T02D1802:48b-23	ཆགས་དང་ཞེན་དང་དེ་བཞིན་དགའ་༎
+T02nagpancu:188	 utsāhaḥ sāhasaṃ caiva tathā cottamasāhasam /  madhyamaṃ sāhasaṃ rādraṃ vilāso vairameva ca // Pk_2.18 //  śubhaṃ ca vāk sphuṭā satyamasatyaṃ niścayastathā /  nirupādānadātṛtve codanaṃ śūratā tathā /  alajjā dhūrtaduṣṭaśca haṭhaḥ kuṭila eva ca /	T02D1802:48b-24	དགའ་བ་བར་མ་ཤིན་ཏུ་དགའ་༎
+T02nagpancu:19	 etattattvaṃ sthitaṃ tantre śrīsamāje sumudritam /	T02D1802:45b-16	དཔལ་ལྡན་འདུས་པའི་རྒྱུད་དུ་ནི་༎ དེ་ཉིད་འདི་དག་རྒྱས་བཏབ་ནས་༎
+T02nagpancu:193	 catvāriṃśat prakṛtayaḥ kṣaṇikāścātiśūnyajjāḥ // Pk_2.20 //	T02D1802:48b-30	མཚན་ཉིད་བཞི་བཅུ་གང་ཡིན་པ་༎ ཤིན་ཏུ་སྟོང་པའི་སྐད་ཅིག་སྟེ་༎ ཉིན་མོ་སྐྱེས་པའི་མིང་དང་ནི་༎ རྩུབ་མོ་ག-ཡས་པར་བསྟན་པ་ཡིན་༎ ཉི་མའི་དཀྱིལ་འཁོར་མིང་དང་ནི་༎
+T02nagpancu:20	 vyākhyātantrānusāreṇa boddhavyaṃ guruvaktrataḥ // Pk_1.9 //	T02D1802:45b-18	བཤད་པའི་རྒྱུད་ཀྱི་རྗེས་འབྲངས་ནས་༎ བླ་མའི་ཁ་ལས་རྟོགས་པར་བྱ་༎
+T02nagpancu:200	 mahāśūnyapadasyaite paryāyāḥ kathitā jinaiḥ /	T02D1802:49a-5	སྟོང་པ་ཆེན་པོའི་ཚིག་གིས་ནི་༎ རྣམ་གྲངས་འདི་དག་རྒྱལ་བས་གསུངས་༎
+T02nagpancu:201	 madhyarāgakṣaṇaścaiva vismṛtirbhrāntireva ca // Pk_2.24 //  tūṣṇīṃbhāvaśca khedaśca ālasyaṃ dandhatā tathā /	T02D1802:49a-7	ཆགས་པ་བར་མའི་སྐད་ཅིག་དང་༎ བརྗེད་ངས་པ་དང་འཁྲུལ་པ་དང་༎ མི་སྨྲ་གྱུར་དང་སྐྱོ་བ་དང་༎ ལེ་ལོ་དེ་བཞིན་ཐེ་ཚེམ་སྟེ་༎
+T02nagpancu:203	 avidyāyāḥ kṣaṇāḥ sapta vijñeyāḥ sukṣmayogibhiḥ // Pk_2.25 //	T02D1802:49a-8	མ་རིག་སྐད་ཅིག་བདུན་པོ་ནི་༎ ཕྲ་མོའི་རྣལ་འབྱོར་བས་ཤེས་བྱ་༎
+T02nagpancu:204	 na bījaṃ vindusaṃyuktaṃ na vāyurdvāranirgataḥ /	T02D1802:49a-10	ས་བོན་ཐིག་ལེ་ལྡན་མིན་ལ་༎ རླུང་གི་སྒོ་ནས་འབྱུང་བ་མིན་༎
+T02nagpancu:205	 yadālokopalabdhaṃ tu tat pariniṣpannalakṣaṇam // Pk_2.26 //	T02D1802:49a-12	གང་ཞི་སྤང་བ་ཐོབ་པ་ནི་། ཡོངས་སུ་རྫོགས་པའི་མཚན་ཉིད་དོ་༎
+T02nagpancu:206	 etāḥ prakṛtayaḥ sūkṣmāḥ śataṃ ṣaṣṭyuttaraṃ divā /	T02D1802:49a-14	རང་བཞིན་ཕྲ་བ་བརྒྱ་དང་ནི་། དྲུག་ཅུ་ཐམ་པ་འདི་དག་ཉིད་༎
+T02nagpancu:207	 rātrau cāpi pravartante vāyuvāhanahetunā // Pk_2.27 //	T02D1802:49a-16	རླུང་གི་བཞོན་པའི་རྒྱུ་ཡིས་ནི་༎ ཉིན་དང་མཚན་དུ་བྱུང་བ་ཡིན་༎
+T02nagpancu:208	 kṣaṇe lave muhūrtte ca nimeṣe mātrake tathā /  kṣaṇa ityacchaṭāvasthā lavaḥ sarṣapavartanam // Pk_2.28 //	T02D1802:49a-18	སྐད་ཅིག་ཐང་ཅིག་ཡུད་ཙམ་དང་༎ མིག་བཙུམས་དེ་བཞིན་ཐལ་མོ་སྟེ་༎ སྐད་ཅིག་སེ་གོལ་གཏོགས་པར་བཤད་༎
+T02nagpancu:21	 tatra prathamataraṃ vāyutattvoddeśapadaṃ mūlasūtrādevāvatāryate-	T02D1802:45b-20	དེ་ལ་དང་པོ་ཁོ་ནར་རླུང་གི་དེ་ཁོ་ན་ཉིད་བསྟན་པའི་ཚིག་རྩ་བའི་རྒྱུད་ལ་འཇུག་བར་བྱ་སྟེ་༏
+T02nagpancu:210	 āśvāsastu muhūrttaṃ syānnimeṣo 'kṣinimeṣaṇam /	T02D1802:49a-20	ཐང་ཅིག་ཡུངས་ཀར་བསྐོར་བ་དང་༎ ཡུད་ཙམ་དབུགས་རྔུབ་འབྱུང་བ་ཙམ་༎
+T02nagpancu:211	 mātrā tu hastatālaṃ syāt kṣaṇādīnāṃ tu lakṣaṇam // Pk_2.29 //	T02D1802:49a-21	མིག་བཙུམས་མིག་ནི་བཙུམས་པའི་བར་༎ ཐལ་མོ་ལག་གཉིས་བརྡབས་པ་སྟེ་༎ སྐད་ཅིག་ལ་སོགས་མཚན་ཉིད་དོ་༎
+T02nagpancu:212	 saṃvittimātrakaṃ jñānamākāśavadalakṣaṇam /	T02D1802:49a-24	རང་རིག་ཙམ་གྱི་ཡེ་ཤེས་ནི་༎ ནམ་མཁའ་ལྟ་བུར་མཚན་ཉིད་མེད་༎
+T02nagpancu:213	 kintu tasya prabhedo 'sti sandhyārātridivātmanā // Pk_2.30 //	T02D1802:49a-26	འོ་ན་ཀྱང་དེ་ཡི་དབྱེ་ཡོད་དེ་༎ མཚན་མོ་ཉིན་མོ་མཚམས་བདག་ཉིད་༎
+T02nagpancu:214	 ālokālokābhāsau ca tathālokopalabdhakam /  cittaṃ trividhamityuktam ādhārastasya kathyate // Pk_2.31 //	T02D1802:49a-28	སྣང་དང་སྣང་བ་མཆེད་པ་དང་༎ དེ་བཞིན་སྣང་བ་ཉེར་ཐོབ་དང་༎ སེམས་ནི་རྣམ་པ་གསུམ་བཤད་ནས་༎ དེ་ཡི་སྒྲུབ་བའི་བརྗོད་པར་བྱ་༎
+T02nagpancu:216	 vāyunā sūkṣmarūpeṇa jñānaṃ saṃmiśratāṃ gatam /	T02D1802:49a-30	རླུང་རྣམས་ཕྲ་བའི་གཟུགས་ཀྱིས་ནི་༎ ཤེས་དང་ཡང་དག་འདྲེས་གྱུར་ནས་༎
+T02nagpancu:217	 niḥsṛtyendriyamārgemyo viṣayānavalambate // Pk_2.32 //  ābhāsena yadā yukto vāyurvāhanatāṃ gataḥ /	T02D1802:49a-31	དབང་པོའི་ལམ་ནས་བྱུང་ནས་ནི་༎ ཡུལ་རྣམས་ལ་ནི་དམིགས་བར་བྱེད་༎ གང་ཚེ་སྣང་བ་ལྡན་གྱུར་ཅིང་༎ རླུང་ནི་བཞོན་པ་ཉིད་གྱུར་པ་༎
+T02nagpancu:219	 tadā tatprakṛtīḥ sarvā astavyastāḥ pravartayet // Pk_2.33 //	T02D1802:49a-35	དེ་ཚེ་རང་བཞིན་དེ་དག་ཀུན་༎ མ་ལུས་ལུས་བ་མེད་པར་འབྱུང་༎
+T02nagpancu:22	 nāsāgre sarṣapaṃ cintet sarṣape sacarācaram /	T02D1802:45b-21	སྣ་ཡི་རྩེ་མོར་ཡུངས་ཀར་བསམ་༎ འགྲོ་དང་མི་འགྲོ་ཡུངས་ཀར་ལ་༎
+T02nagpancu:220	 yatra yatra sthito vāyustāṃ tāṃ prakṛtimudvahet /	T02D1802:49a-37	རླུང་ནི་གང་དང་གར་གནས་པ་༎ རང་བཞིན་དེ་དང་དེ་འབྱུང་འགྱུར་༎
+T02nagpancu:221	 yāvat samīraṇotpādo nābhāso niścalo bhavet // Pk_2.34 //	T02D1802:49a-39	ཇི་སྲིད་རླུང་ནི་མི་རྒྱུ་དང་༎ སྣང་བ་མི་ག-ཡོ་བར་གྱུར་པ་༎
+T02nagpancu:222	 ābhāsadvayahetuḥ syādātmabhāvavikalpanā /  ubhayāṃśikameva syād yadālokopalabdhakam // Pk_2.35 //	T02D1802:49a-40	སྣང་བ་གཉིས་ཀྱི་རྒྱུར་གྱུར་པས་༎ བདག་གི་དངོས་བོ་རྣམ་པར་བརྟག་། ཇི་ལྟར་སྣང་བ་ཐོབ་པ་ལྟར་༎ གཉིས་ཀའི་ཡན་ལག་ཉིད་དུ་འགྱུར་༎
+T02nagpancu:224	 sarvāsāmeva māyānāṃ strīmāyaiva viśiṣyate /	T02D1802:49a-43	སྒྱུ་མ་དག་ནི་ཐམས་ཅད་ལས་༎ བུད་མེད་སྒྱུ་མ་ཁྱད་པར་འཕགས་༎
+T02nagpancu:225	 jñānatrayaprabhedo 'yaṃ sphuṭamatraiva lakṣyate // Pk_2.36 //	T02D1802:49a-45	ཡེ་ཤེས་གསུམ་གྱི་དབྱེ་བ་ནི་༎ གསལ་༄༤༩བ་བར་འདི་ལས་མཚོན་པར་འགྱུར་༎
+T02nagpancu:226	 rāgaścaiva virāgaśca dvarorantariti trayam /	T02D1802:49b-1	འདོད་ཆགས་ཉིད་དང་ཆགས་བྲལ་དང་༎ དེ་ཡི་བར་དེ་གསུམ་པོ་ནི་༎
+T02nagpancu:227	 dvīndriyasya samāpattyā vajrapadmasamāgamāt // Pk_2.37 //	T02D1802:49b-2	དབང་པོ་གཉིས་ནི་མཉམ་སྦྱོར་བའི་༎ རྡོ་རྗེ་པདམ་འདུས་ལས་སོ་༎
+T02nagpancu:228	 jñānadvayasamāyogaḥ samāpattiḥ prakīrtītā /	T02D1802:49b-4	ཡེ་ཤེས་གཉིས་ནི་མཉམ་སྦྱོར་ལས་༎ སྙོམས་པར་འཇུག་པར་བཤད་པ་ཡིན་༎
+T02nagpancu:229	 jñānadvayasamāpattyā yathoktakaraṇena tu // Pk_2.38 //	T02D1802:49b-6	ཡེ་ཤེས་གཉིས་ཀྱི་མཉམ་སྦྱོར་དང་༎ ཇི་སྐད་བཤད་པའི་བྱ་བ་ཡིས་༎
+T02nagpancu:23	 bhāvayejjñānapadaṃ ramyaṃ rahasyaṃ jñānakalpitam // Pk_1.10 //	T02D1802:45b-23	གསང་བའི་སྔགས་ཀྱིས་བརྟགས་པ་ཡིས་༎ ཡེ་ཤེས་མཆོག་གི་གནས་བསྒོམ་མོ་༎
+T02nagpancu:230	 yajjñānaṃ prāpyate yatnāt tadālokopalabdhakam /	T02D1802:49b-7	འབད་པས་ཡེ་ཤེས་གང་ཐོབ་པ་༎ དེ་ནི་སྣང་བ་ཐོབ་བའོ་༎
+T02nagpancu:231	 yasya vajrābjasaṃyogaḥ saṃvṛtyā tu na vidyate // Pk_2.39 //	T02D1802:49b-9	གང་ཞིག་ཆུ་སྐྱེས་རྡོ་རྗེ་སྦྱོར་༎ ཀུན་རྫོབ་ཏུ་ཡང་མེད་གྱུར་ན་༎
+T02nagpancu:232	 sidhyate yogasāmarthyāt sakṛdapyanubhūtavān /	T02D1802:49b-11	ལན་ཅིག་ཙམ་ཞིག་མྱོང་ནས་ཀྱང་༎ རྣལ་འབྱོར་སྟོབས་ཀྱིས་འགྲུབ་པར་འགྱུར་༎
+T02nagpancu:233	 yathā prabhedaṃ vijñāya jñānavṛttiṃ svabhāvataḥ // Pk_2.40 //  lakṣayet satataṃ yogī tāmeva prakṛtiṃ punaḥ /	T02D1802:49b-13	ཡེ་ཤེས་འཇུག་པའི་ངོ་བོ་ཡི་༎ དབྱེ་བ་ཇི་བཞིན་ཤེས་བྱས་ལ་༎ རང་བཞིན་དེ་ཉིད་སླར་ཡང་ནི་༎ རྟག་ཏུ་རྣལ་འབྱོར་བས་མཚོན་བྱ་༎
+T02nagpancu:235	 payodharā yathā naike nānāsaṃsthānavarṇakāḥ // Pk_2.41 //	T02D1802:49b-17	ཇི་ལྟར་སྤྲིན་ནི་སྣ་ཚོགས་ཤིང་༎ མདོག་དང་དབྱིབས་ནི་ཐ་དད་པ་༎
+T02nagpancu:236	 udbhūtā gaganābhogāllayaṃ gacchanti tatra vai /	T02D1802:49b-19	ནམ་མཁའི་དབྱིངས་སུ་བྱུང་ནས་ནི་༎ དེ་ཉིད་དུ་ནི་ཐིམ་པར་འགྱུར་༎
+T02nagpancu:237	 evaṃ prakṛtayaḥ sarvā ābhāsatrayahetukāḥ // Pk_2.42 //	T02D1802:49b-21	དེ་བཞིན་རང་བཞིན་ཐམས་ཅད་ནི་༎
+T02nagpancu:238	 nirviśya viṣayān kṛtsnān praviśanti prabhāsvaram /	T02D1802:49b-23	མ་ལུས་ཡུལ་ལ་ཞུགས་ནས་ནི་༎ འོད་གསལ་བར་ནི་ཞུགས་པར་འགྱུར་༎
+T02nagpancu:239	 eṣāṃ svabhāvābijñānadajñānapaṭalāvṛtāḥ // Pk_2.43 //	T02D1802:49b-25	དེ་འདྲའི་རང་བཞིན་མ་ཤེས་པས་༎ མི་ཤེས་མུན་པས་ཁེབས་པ་ནི་༎
+T02nagpancu:24	 pañcavarṇaṃ mahāratnaṃ sarṣapasthūlamātrakam /	T02D1802:45b-25	རིན་ཆེན་ཁ་དོག་སྣ་ལྔ་པ་༎
+T02nagpancu:240	 kṛtvā śubhāśubhaṃ karma bhramanti gatipañcake /	T02D1802:49b-27	དགེ་དང་མི་དགེའི་ལས་བྱས་ནས་༎ འགྲོ་བ་ལྡར་ནི་འཁོར་བར་འགྱུར་༎
+T02nagpancu:241	 ānantaryādikaṃ kṛtvā narakeṣu vipacyate // Pk_2.44 //	T02D1802:49b-29	མཚམས་མེད་ལ་སོགས་བྱས་ནས་ནི་༎ དམྱལ་ལ་སོགས་པར་འཚེད་པར་བྱེད་༎
+T02nagpancu:242	 śubhaṃ dānādikaṃ kṛtvā svargādiṣu mahīyate /	T02D1802:49b-31	སྦྱིན་སོགས་དགེ་བ་བྱས་ནས་ནི་༎ མཐོ་རིས་ལ་སོགས་དག་ཏུ་མཆོད་༎
+T02nagpancu:243	 anantajanmasāhasraṃ prāpya caivaṃ punaḥ punaḥ // Pk_2.45 //	T02D1802:49b-33	སྐྱེ་བ་དཔག་མེད་སྟོང་ཕྲག་ནི་༎ འདིར་ནི་ཡང་དང་ཡང་འཐོབ་པ་༎
+T02nagpancu:244	 pūrvakarmavipāko 'yamiti śocati mohataḥ /	T02D1802:49b-35	འདི་ནི་སྔོན་ལས་རྣམ་སྨིན་ཞེས་༎ རྨོངས་པ་རྣམས་ནི་མྱ་དན་བྱེད་༎
+T02nagpancu:245	 prakṛtyābhāsayogena yena kliśyanti jantavaḥ // Pk_2.46 //	T02D1802:49b-37	རང་བཞིན་སྣང་བའི་ཚུལ་གྱིས་ནི་༎ གང་གིས་སྐྱེ་བོ་ཉོན་མོངས་པ་༎
+T02nagpancu:246	 jñātvā tameva mucyante jñānino bhavapañjarāt /	T02D1802:49b-39	དེ་ཉིད་ཤེས་ནས་ཡེ་ཤེས་ཅན་༎ སྲིད་པའི་གཟེབ་ལས་རྣམ་གྲོལ་འགྱུར་༎
+T02nagpancu:247	 prajñāsvabhāva evāyaṃ candramaṇḍalakalpanā // Pk_2.47 //  cittameva svayaṃ paśyet svameva śaśibimbavat /	T02D1802:49b-41	ཤེས་རབ་ངོ་བོ་ཉིད་འདི་ནི་༎ ཟླ་བའི་དཀྱིལ་འཁོར་དག་ཏུ་བརྟག་། སེམས་ཉིད་རང་གིས་མཐོང་འགྱུར་ཏེ་༎ རང་ཉིད་ཟླ་བའི་གཟུགས་བཞིན་ནོ་༎
+T02nagpancu:249	 atha candraṃ samālambya vajracinhaṃ prakalpayet // Pk_2.48 //  upāyasūcakaṃ hyetad vajrādyutpattiyoginām /	T02D1802:49b-44	དེ་ནས་ཟླ་བ་ལ་དམིགས་པ་༎ རྡོ་རྗེའི་མཚན་མར་རབ་ཏུ་བརྟག་།འདི་ནི་རྡོ་རྗེ་ལས་བྱུང་བའི་༎ རྣལ་འབྱོར་པ་ཡི་ཐབས་སུ་བཤད་༎
+T02nagpancu:25	 nāsikāgre prayatnena bhāvayed yogataḥ sadā // Pk_1.11 //	T02D1802:45b-26	ཡུངས་ཀར་གྱི་ནི་འབྲུ་ཚོད་ཙམ་༎ སྣ་ཡི་རྩེ་མོར་ནན་ཏན་དུ་༎ རྣལ་འབྱོར་རིག་པས་རྟག་ཏུ་བསྒོམ་༎ འདི་ནི་དགོངས་པས་བཤད་པའོ་༎
+T02nagpancu:251	 candravajrādisaṃyogaścittacaitasasaṅgamaḥ // Pk_2.49 //	T02D1802:49b-47	ཟླ་བ་རྡོ་རྗེ་སོགས་མཉམ་སྦྱོར་༎ སེམས་དང་སེམས་བྱུང་འདུས་བ་སྟེ་༎
+T02nagpancu:252	 prajñopāyasamāyogājjāyate devatākṛtiḥ /	T02D1802:49b-49	ཤེས་རབ་ཐབས་སུ་འདུས་པ་ལས་༎ ༄༥༠ཨ་༌་༎ ལྷ་ཡི་གཟུགས་ནི་འབྱུང་བར་འགྱུར་༎
+T02nagpancu:253	 caturmudrābhirāmudrya devatāgarvamudvahan // Pk_2.50 //  vicaret tu sadā mantrī utpattikramayogavān /	T02D1802:50a-1	ཕྱག་རྒྱ་བཞིས་ནི་རྒྱས་བཏབ་ཅིང་༎ ལྷ་ཡིད་བརྒྱལ་འཆང་བྱེད་དེ་༎ སྔགས་པ་རྟག་ཏུ་སྤྱོད་པར་འགྱུར་༎
+T02nagpancu:255	 yathoktaṃ śrīsamājādau tatra tatra suvistaram // Pk_2.51 //	T02D1802:50a-5	ཇི་སྐད་དུ་དཔལ་ལྡན་འདུས་སོགས་པར་༎ དེ་དང་དེར་ནི་རྒྱས་གསུངས་བའི༎
+T02nagpancu:256	 yāvat syād bhāvanāyogastāvat syādādikarmikaḥ /	T02D1802:50a-7	ཇི་སྲིད་སྒོམ་ལ་སྦྱོར་གྱུར་པ་༎ དེ་སྲིད་དང་པོའི་ལས་ཅན་ཡིན་༎
+T02nagpancu:258	 śūnyatrayaviśuddhiryā prabhāsvaramihocyate /	T02D1802:50a-9	ད་ནི་ཡོངས་རྫོགས་རྣལ་འབྱོར་གྱི་༎ གསལ་བ་རུ་ནི་བཤད་བྱ་སྟེ་༎ སྟོང་བ་གསུམ་གྱི་རྣམ་དག་གང་༎ འོད་གསལ་བར་ནི་འདིར་བཤད་དོ་༎
+T02nagpancu:259	 sarvaśūnyapadaṃ tacca jñānatrayaviśuddhitaḥ // Pk_2.53 //	T02D1802:50a-13	ཐམས་ཅད་སྟོང་བར་དེ་བརྗོད་དོ་༎ ཡེ་ཤེས་གསུམ་ནི་རྣམ་དག་པ་༎
+T02nagpancu:26	 iti sandhābhāṣeyamasya vajrapadasya nirdeśamāha caturdevīvyākhyātantre-	T02D1802:45b-31	རྡོ་རྗེའི་ཚིག་འདིའི་བཤད་པ་ལྷ་མོ་བཞིས་ཞུས་པ་ཞེས་བྱ་བའི་བཤད་པའི་རྒྱུད་ལས་།
+T02nagpancu:260	 jñānaśuddhipadaṃ tattvaṃ sarvajñatvamanuttaram /	T02D1802:50a-15	ཡེ་ཤེས་དག་ནས་དེ་ཉིད་རྟོགས་༎ ཐམས་ཅད་མཁྱེན་པ་བླ་ན་མེད་༎
+T02nagpancu:261	 nirvikāraṃ nirābhāsaṃ nirdvandvaṃ paramaṃ śivam // Pk_2.54 //	T02D1802:50a-17	འགྱུར་བ་མེད་ཅིང་སྣང་བ་མེད་༎ གཉིས་མེད་མཆོག་ཏུ་ཞི་བ་ཉིད་༎
+T02nagpancu:262	 astīti na ca nāstīti na ca vākyagocaram /	T02D1802:50a-19	ཡོད་དང་དེ་བཞིན་མེད་པ་དང་༎ དེ་ནི་ཚིག་གི་སྤྱོད་ཡུལ་མིན་༎
+T02nagpancu:263	 ataḥ prabhāsvarāccūddhājjñānatrayasamudbhavaḥ // Pk_2.55 //	T02D1802:50a-20	དེ་ནས་འོད་གསལ་དག་པ་ལ་༎ ཡེ་ཤེས་གསུམ་ནི་འབྱུང་འགྱུར་ཏེ་༎
+T02nagpancu:264	 dvātriṃśallakṣaṇadharo hyaśītivyañcanānvitaḥ /	T02D1802:50a-22	སུམ་ཅུ་རྩ་གཉིས་མཚན་འཆང་ཞིང་༎ དཔེ་བྱད་བཟང་ཕོ་བརྒྱད་ཅུར་གྱུར་༎
+T02nagpancu:265	 sarvākāravaropetaḥ sarvajño jāyate tataḥ // Pk_2.56 //	T02D1802:50a-24	རྣམ་བ་ཀུན་དུ་མཆོག་ལྡན་བའི་༎ ཐམས་ཅད་མཁྱེན་དེ་ནས་འགྱུར་༎
+T02nagpancu:266	 tathā coktaṃ mahāyānasūtre lalitavistare /	T02D1802:50a-26	དེ་སྐད་དུ་རྒྱ་ཆེར་རོལ་པའི་མདོ་ལས་༎
+T02nagpancu:267	 abhisambodhikāmo 'yaṃ śākyasiṃhastathāgataḥ // Pk_2.57 //	T02D1802:50a-27	ཤའཀྱ་ཐུབ་པ་དེ་བཞིན་གཤེགས་༎ མངོན་པར་བྱང་ཆུབ་འདི་བཞེད་ནས་༎
+T02nagpancu:268	 mahāśūnyena buddhatvaṃ prāpsyāmītyabhimānataḥ /	T02D1802:50a-29	སྟོང་པ་ཆེན་པོ་སངས་རྒྱས་ཉིད་༎ ཐོབ་པར་བྱ་ཞེས་མངོན་པར་དགོངས་༎
+T02nagpancu:269	 nairañcanānadītīre nispādyāsphānakaṃ gataḥ // Pk_2.58 //	T02D1802:50a-31	ནེཨེ་རཉཛ་ནའི་ཆུ་འགྲམ་དུ་༎ མི་ག-ཡོའི་ཏིང་འཛིན་ལ་བཞུགས་ལ་༎
+T02nagpancu:27	 tad devi sampravakṣyāmi sārāt sārataraṃ param /  rahasyaṃ sarvabuddhānāṃ yat tat sarvātmani sthitam // Pk_1.12 //	T02D1802:45b-32	སྙིང་པོ་ལས་ནི་སྙིང་པོ་མཆོག་། སངས་རྒྱས་ཀུན་གྱི་གསང་བ་ནི་༎ གང་དེ་ཐམས་ཅད་བདག་ཉིད་གནས་༎ དེ་ནི་ལྷ་མོ་བཤད་པར་བྱ་༎
+T02nagpancu:270	 tilabimbīva sampūrṇāḥ khamadhyasthā jināstadā /	T02D1802:50a-33	དེའི་ཚེ་རྒྱལ་བ་མཁའ་རྡོ་རྗེ་༎ ཏིལ་གྱིས་གང་བུ་གང་བཞིན་བཞུགས་༎
+T02nagpancu:271	 ekasvareṇa taṃ prāhuracchaṭena jinaurasam // Pk_2.59 //	T02D1802:50a-35	རྒྱལ་བའི་སྲས་ལ་སོ་གོལ་གཏོགས་༎ དེ་ལ་དབྱངས་གཅིག་གིས་གསུངས་པ་༎
+T02nagpancu:272	 aviśuddhamidaṃ dhyānaṃ na caitadiṣṭakāvaham /	T02D1802:50a-37	བསམ་གཏན་འདི་ནི་རྣམ་དག་མིན་༎ འདིས་རྣ་མཐར་ཐུག་མི་འཐོབ་སྟེ་༎
+T02nagpancu:273	 prabhāsvaraṃ ātu ālambyamākāśatalavat param // Pk_2.60 //  prabhāsvarapade prāpte svecchārūpastu jāyase /	T02D1802:50a-39	ནམ་མཁའི་ངོས་ལྟར་མཆོག་གྱུར་བ་༎ འོད་གསལ་བ་ནི་དེ་དམིགས་ཤིང་། འོད་གསལ་བ་ཡི་གནས་ཐོབ་ནས་༎ རབ་དགའི་གཟུགས་སུ་སྐྱེ་བར་འགྱུར་༎
+T02nagpancu:275	 savaiśvaryaṃ tathā prāpya vajrakāye pramodase // Pk_2.61 //	T02D1802:50a-43	དེ་ཚེ་རབ་དགའི་རྡོ་རྗེའི་སྐུ་༎ ཀུན་གྱི་མཆོག་ནི་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:276	 evaṃ śrutvā tu taṃ śbdaṃ visarjyāsphānakaṃ tataḥ /	T02D1802:50a-45	འདི་ལྟར་སྒྲ་དེ་གསན་བ་དང་༎ དེ་ནས་ཏིང་འཛིན་མི་ག-ཡོ་བཏང་༎
+T02nagpancu:277	 niśārdhasamaye tattvamālambyaiva jinaurasaḥ // Pk_2.62 //	T02D1802:50a-46	འདི་ལྟར་ནམ་ཕྱེད་དུས་སུ་ནི་༎ རྒྱལ་བའི་སྲས་ཀྱིས་དེ་ཉིད་དམིགས་༎
+T02nagpancu:278	 ṛjukenaiva kāyena vācāya ṛjureva ca /	T02D1802:50a-48	སྐུ་ནི་དྲང་པོ་མ་ཡིན་ཞིང་༎ མི་དྲང་པ་ཡང་མ་ཡིན་ལ་༎
+T02nagpancu:279	 sāśano nāśano naiva na maunī nāpyamaunavān // Pk_2.63 //  nonmīlitasunetrastu na ca mīlitalocanaḥ /	T02D1802:50b-0	གསུངས་བ་མ་ཡིན་མི་གསུང་༄༥༠བ་མིན་༏་། སྤྱན་བཟང་བཙུམས་པ་མ་ཡིན་ཞིང་༎ སྤྱན་ཕྱེ་བ་ཡང་མ་ཡིན་པས་༎
+T02nagpancu:281	 svacchaṃ vyaktaṃ mahājñānaṃ sarvaśūnyaṃ mahādbhutam // Pk_2.64 //	T02D1802:50b-3	ཐམས་ཅད་སྟོང་པ་རྨད་ཆེན་པོ་༎ དང་ཞིང་གསལ་བའི་ཡེ་ཤེས་ཆེ་༎
+T02nagpancu:282	 atha paśyati tadvayaktaṃ gurupādaprasādataḥ /	T02D1802:50b-5	བླ་མ་ཉིད་ཀྱི་དྲིན་གྱིས་ནི་༎ དེ་ནས་དེ་ནི་གསལ་མཐོང་གྱུར་༎
+T02nagpancu:283	 anāgatamatītaṃ ca vartamānaṃ bhavatrayam // Pk_2.65 //	T02D1802:50b-7	འདས་པ་དང་ནི་མ་འོངས་དང་༎ ད་ལྟར་བྱུང་བའི་སྲིད་པ་གསུམ་།
+T02nagpancu:284	 tatkṣaṇānnikhilaṃ paśyet prabhāsvaraviśuddhadhṛk /	T02D1802:50b-8	སྐད་ཅིག་དེ་ལམ་ལུས་མཐོང་༎ འོད་གསལ་བ་ནི་རྣམ་དག་འཆད་༎ རྡོ་རྗེ་ལྟ་བུའི་ཏིང་འཛིན་གྱིས་༎ སྐྱ་རེངས་འཆར་བའི་དུས་སུ་ནི་།
+T02nagpancu:285	 jalacandramarīcyādimāyāguṇavibhūṣitaḥ // Pk_2.66 //	T02D1802:50b-12	ཆུ་ཟླ་དང་ནི་སྨིག་རྒྱུ་སོགས་༎ སྒྱུ་མའི་ཡོན་ཏན་རྣམས་ཀྱིས་བརྒྱན་༎
+T02nagpancu:286	 aruṇodgamakāle tu vajropamasamādhinā /  niṣadya bodhimūle tu so 'karonmārabhañcanam // Pk_2.67 //	T02D1802:50b-14	བྱང་ཆུབ་སྙིང་པོར་བཞུགས་ནས་ནི་༎ དེ་ནི་བདུད་རྣམས་བཅོམ་པར་མཛད་༎
+T02nagpancu:288	 samprāpya śākyanāthena tattvajñānamanuttaram /	T02D1802:50b-16	ཤའཀྱ་མགོན་པོས་ཡང་དག་པའོ་༎ ཡེ་ཤེས་བླ་མེད་ལེགས་ཐོབ་ནས་༎
+T02nagpancu:289	 jagattrayahitārthāya tadeveha pradarśitam // Pk_2.68 //	T02D1802:50b-18	འགྲོ་བ་གསུམ་ལ་ཕན་པའི་ཕྱིར་། དེ་ཉིད་འདིར་ནི་སྟོན་པར་མཛད་༎
+T02nagpancu:29	 paścajñānamayaṃ tattvaṃ sarṣapasthūlamātrakam /	T02D1802:45b-35	ཡེ་ཤེས་ལྔ་ཡི་དངོས་དེ་ཉིད་༎ ཡུངས་ཀར་གྱི་ནི་འབྲུ་ཚོད་ཙམ་༎
+T02nagpancu:290	 tattvajñānamiti proktamabhisambodhidarśanam /	T02D1802:50b-20	མངོན་པར་བྱང་ཆུབ་སྟོན་པ་ནི་༎ དེ་ཉིད་ཡེ་ཤེས་ཞེས་བྱར་བཤད་༎
+T02nagpancu:291	 pañcānantaryakarmā ca mandapuṇyo 'pi yo naraḥ // Pk_2.69 //	T02D1802:50b-22	མཚམས་མེད་ལྔ་ཡི་ལས་ཅན་དང་༎ མི་གང་བསོད་ནམས་དམན་པས་ཀྱང་།
+T02nagpancu:292	 guruprasādādāpnoti cintāmaṇirivāparam /	T02D1802:50b-23	ཡིད་བཞིན་ནོར་དང་འདྲ་བ་གཞན་༎ བླ་མའི་དྲིན་གྱིས་ཐོབ་བར་འགྱུར་༎
+T02nagpancu:293	 yatheṣṭaṃ kurute caryāṃ saṃbuddho 'yamanāgataḥ // Pk_2.70 //	T02D1802:50b-25	སྤྱོད་པ་ཅི་དགར་སྤྱོད་བྱེད་དེ་༎ འདི་ནི་མ་འོངས་རྫོགས་སངས་རྒྱས་༎
+T02nagpancu:294	 na rāgo na virāgaśca madhyamā nopalabhyate /	T02D1802:50b-27	མ་ཆགས་མིན་ཆགས་དང་བྲལ་བ་མིན་༎ དབུ་མར་ཡང་ནི་མིད་དམིགས་སོ་༎
+T02nagpancu:295	 na śūnyaṃ nāpi cāśūnyaṃ madhyamā nopalabhyate // Pk_2.71 //	T02D1802:50b-29	སྟོང་བ་མ་ཡིན་མི་སྟོང་མིན་༏་། དབུ་མར་ཡང་ནི་མི་དམིགས་སོ་༎
+T02nagpancu:296	 sarvabuddhasamāyoga idameva pradarśitam /	T02D1802:50b-31	སངས་རྒྱས་ཀུན་གྱི་མཉམ་སྦྱོར་བ་༎ འདི་ཉིད་ལྟར་ནི་རབ་སྟོན་ཏེ་༎
+T02nagpancu:297	 trijñānād vyatiriktaṃ yat tattvaṃ sandhyāya bhāṣayā // Pk_2.72 //	T02D1802:50b-33	ཡེ་ཤེས་གསུམ་བྲལ་དེ་ཉིད་གང་༎ དགོངས་པ་ཡིས་ནི་གསུངས་པ་ཡིན་།
+T02nagpancu:298	 abhāvetyādigāthābhiḥ paṭale bodhicittake /	T02D1802:50b-35	དེ་བཞིན་དཔའ་ལྡན་གསང་འདུས་ཀྱི་༎ བྱང་ཆུབ་སེམས་ཀྱི་ལེའུ་ལས་༎ དངོས་མེད་ལ་སོགས་ཚིགས་བཅད་ཀྱི་།
+T02nagpancu:299	 śrīsamāje 'pi tat proktamabhisambodhilakṣaṇam // Pk_2.73 //  rāgādīnāṃ viśuddhiryā paramādye pradarśitā /	T02D1802:50b-38	མངོན་པར་བྱང་ཆུབ་མཚན་ཉིད་གསུངས་༎ འདོད་ཆགས་ལ་སོགས་རྣམས་དག་གང་༎ དཔལ་མཆོག་ལས་ཀྱང་གསུངས་པ་ཡིན་༎
+T02nagpancu:30	 tasya madhye sthito devo hyavyakto vyaktarūpavān // iti / Pk_1.13 //	T02D1802:45b-37	དེ་ཡི་དབུས་ན་གནས་པའི་ལྷ་༎ མི་གསལ་གསལ་བའི་བདག་ཉིད་ཅན་༎
+T02nagpancu:301	 sarvaśūnyaṃ samuddiśya sāpi proktā tathāgataiḥ // Pk_2.74 //	T02D1802:50b-41	དེ་ཉིད་དེ་བཞིན་གཤེགས་པས་ཀྱང་༎ ཐམས་ཅད་སྟོང་བར་གསུངས་པ་ཡིན་༎
+T02nagpancu:302	 nānāsūtreṣu tantreṣu yat tattvamupadarśitam /	T02D1802:50b-43	སྣ་ཚོགས་མདོ་དང་རྒྱུད་ལས་ནི་༎ དེ་ཉིད་གང་ཞིག་ཉེར་བསྟན་པ་༎
+T02nagpancu:303	 sarvaśūnyapadaṃ hyetannānyat tatrābhidhīyate // Pk_2.75 //	T02D1802:50b-45	ཐམས་ཅད་སྟོང་གནས་འདི་ཉིད་ལས་༎ དེར་ནི་གཞན་དག་མ་གསུངས་སོ་༎
+T02nagpancu:304	 caturaśītisāhasre dharmaskandhe mahāmuneḥ /	T02D1802:50b-47	ཆོས་ཕུང་བརྒྱད་ཁྲི་བཞི་སྟོང་ནི་༎ ཐུབ་པ་ཆེན་པོས་གསུངས་པ་ལས་༎
+T02nagpancu:305	 sārāt sārataraṃ proktam abhisambodhilakṣaṇam // Pk_2.76 //	T02D1802:50b-49	མངོན་པར་བྱང་ཆུབ་མཚན་ཉིད་ནི་༎ སྙིང་པོ་ལས་ནི་སྙིང་པོར་གསུངས་༎
+T02nagpancu:307	 taistaiśca vividhairliṅgairabhisambodhikāminaḥ // Pk_2.77 //	T02D1802:51a-3	སྣ་ཚོགས་རྟགས་ཅན་དེ་དག་ནི་༎ མངོན་པར་བྱང་ཆུབ་འདོད་པ་རྣམས་༎
+T02nagpancu:31	 samājottare 'pyamumarthaṃ dyotayannāhaḥ /	T02D1802:45b-39	ཞེས་གསུངས་པ་དང་། གསང་བ་འདུས་པའི་རྒྱུད་ཕྱི་མ་ལས་ཀྱང་དོན་འདི་ཉིད་གསལ་བར་གསུངས་ཏེ་།
+T02nagpancu:318	 āḥ kimabhyāsayogena ādiśuddhiḥ svabhāvikā /	T02D1802:51a-24	གཟོད་ནས་དག་པའི་རང་བཞིན་ཅན་༎ ངོ་བོ་ཉིད་ཀྱིས་དེ་གྲུབ་ན་༎ བསླབ་པའི་སྦྱོར་བས་ཅི་ཞིག་བྱ་༎
+T02nagpancu:319	 prakṛtyaiva hi sā siddhā tathatā na vikalpajā // Pk_2.83 //	T02D1802:51a-27	རྟོག་ལས་དེ་བཞིན་ཉིད་མི་སྐྱེ་༎
+T02nagpancu:32	 pañcajñānamayaṃ śvāsaṃ pañcabhūtasvabhāvakam /	T02D1802:45b-40	ཡེ་ཤེས་ལྔ་ཡི་རང་བཞིན་དབུགས་༎ འབྱུང་བ་ལྔ་ཡི་ངོ་བོ་ཉིད་༎
+T02nagpancu:320	 ya evaṃ kalpayantīha jñānakramamapāsya vai /	T02D1802:51a-28	གང་ཞིག་དེ་ལྟར་འདིར་རྟོག་ན་༎ ཡེ་ཤེས་རིམ་པ་སྤངས་པ་ཉིད་༎
+T02nagpancu:321	 tatprabhedamajānānāḥ punaḥ śaikṣā bhavanti te // Pk_2.84 //	T02D1802:51a-30	དེ་ཡི་དབྱེ་བ་མི་ཤེས་པས་༎ སླར་ཡང་སློབ་པར་འགྱུར་བ་ཡིན་༎
+T02nagpancu:322	 prakṛtyābhāsabhedajñā caturthaṃ tattvamāśritāḥ /	T02D1802:51a-32	རང་བཞིན་སྣང་བའི་དབྱེ་ཤེས་ཤིང་༎ དེ་ཉིད་བཞི་པ་ལ་བརྟེན་ཀྱང་༎
+T02nagpancu:323	 tridhā nābhyasyate yastu na śīghramāpnuyāt phalam // Pk_2.85 //	T02D1802:51a-34	གང་ཞིག་རྣམ་གསུམ་མི་སློབ་ན་༎ དས་ནི་འབྲས་བུ་ཐོབ་མི་འགྱུར་༎
+T02nagpancu:324	 yathāgnirdārugarbhastho nottiṣṭhenmathanād vinā /	T02D1802:51a-36	ཇི་ལྟར་ཤིང་ལ་མེ་གནས་པ་༎ མ་གཙུབ་པར་ནི་འབྱུང་མི་འགྱུར་༎
+T02nagpancu:325	 tathābhyāsād binā bodhirjāyate neha janmani // Pk_2.86 //	T02D1802:51a-38	དེ་བཞིན་བྱང་ཆུབ་བསླབ་བྲལ་བས་༎ ཚེ་འདི་ཉིད་ལ་འབྱུང་མི་འགྱུར་༎
+T02nagpancu:326	 yaḥ śāṭhyabuddhiralaso gurunindakaśca prāptābhiṣeka iti garvitamānasaḥ syāt /	T02D1802:51a-40	གང་ཞིག་ག-ཡོ་སྒྱུའི་བློ་ཅན་ལེ་ལོ་ཅན་དག་དང་༎ བླ་མ་ལ་སྨོད་དབང་བསྐུར་ཐོབ་ཅེས་རློམ་སེམས་འགྱུར་༎
+T02nagpancu:327	 sarvajñatā na sulabheti vihīnacitto doṣān sa paśyati gurorna guṇān varākaḥ // Pk_2.87 //	T02D1802:51a-41	བློ་དམན་སེམས་ལྡན་ཀུན་མཁྱེན་ཡང་དག་ཐོབ་མི་འགྱུར་༎ ཉོན་མོངས་བླ་མའི་སྐྱོན་རྣམས་མཐོང་གི་ཡོན་ཏན་མིན་༎
+T02nagpancu:328	 sūśrūṣayā virahito laghu tattvamicchen neti praśstavacanaṃ calayet saroṣaḥ /	T02D1802:51a-43	བསྙེན་བཀུར་མེད་པར་མྱུར་དུ་དེ་ཉིད་ཐོབ་པར་འདོད་༎ ཡང་དག་ཚིག་མ་ཡིན་ཞེས་ཁྲོ་བཅས་ག-ཡོ་བར་འགྱུར་༎
+T02nagpancu:329	 dṛṣṭvā sabhāsu gurumasya parāṅmukhastu kuryāt praṇāmamatha tasya rahogatasya // Pk_2.88 //	T02D1802:51a-45	ཚོགས་ནང་བླ་མ་མཐོང་ན་རྒྱབ་ཀྱིས་ཕྱོགས་པར་བྱེད་༎ དེ་ནས་དེ་ནི་དབེན་པར་སོང་ནས་ཕྱག་བྱེད་འགྱུར་༎
+T02nagpancu:33	 niścārya padmanāsāgre piṇḍarūpeṇa kalpayet // Pk_1.14 //  pañcavarṇaṃ mahāratnaṃ prāṇāyāmamiti smṛtam /	T02D1802:45b-42	གོང་བུའི་གཟུགས་ཀྱིས་ཕྱུང་ནས་ནི་༎ སྣ་ཡི་རྩེ་མོར་རབ་ཏུ་བརྟག་། རིན་ཆེན་ཁ་དོག་སྣ་ལྔ་པ་༎ སྲོག་དང་རྩེལ་བཞེས་བྱར་བཤད་༎
+T02nagpancu:330	 evaṃ ca daurātmyagataṃ kuśiṣyam svaputramapyaurasamāryagarhyam /	T02D1802:51a-47	དེ་ལྟར་རང་བཞིན་ངན་གྱུར་དམན་པའི་སློབ་མ་ནི་༎ རང་གི་སློབ་བུ་༄༥༡བ་ཡིན་ཡང་གཞན་བཞིན་ཡོངས་སུ་སྤང་༎
+T02nagpancu:331	 vaiśyaṃ tathā pārthivamagrabodhiṃ kuryāt samīpe na hi jātu dhīraḥ // Pk_2.89 //	T02D1802:51b-1	རྒྱལ་རིགས་རྗེའི་རིགས་མཆོག་ལས་སྐྱེས་པར་གྱུར་པ་ཡང་༎ བརྟན་པར་ནམ་ཡང་དེ་ནས་དྲུང་དུ་གཞག་མི་བྱ་༎
+T02nagpancu:332	 śubhaguṇasusameto jñānavān vīryayukto gurujanamatha bhaktyā vīkṣate buddhatulyam /	T02D1802:51b-3	ཡོན་ཏན་མཆོག་ལྡན་ཡེ་ཤེས་བརྩོན་པར་བཅས་པ་དང་༎ ཡང་ན་བླ་མ་ལ་གུས་སངས་རྒྱས་དང་མཉམ་ལྟ་༎
+T02nagpancu:333	 adhigatajinadharmaḥ śāsaneṣu prasannaḥ sa iha bhavati pātraṃ tasya kuryāt prasādam // Pk_2.90 //	T02D1802:51b-4	རྒྱལ་བའི་ཆོས་རྣམས་རྟོགས་ཤིང་བསྟན་ལ་ཤིན་ཏུ་དད་༎ དེ་འདིར་སྣོད་གྱུར་ཡིན་ཕྱིར་དེ་ལ་དྲིན་སྦྱིན་བྱ་༎
+T02nagpancu:334	 śrutabahutaratantro 'uyāgameṣu pravīṇo gurujanaparicaryāhānyalabdhopadeśaḥ /	T02D1802:51b-6	རྒྱུད་མང་རབ་ཏུ་ཐོས་ཤིང་ལུང་ལ་ལེགས་སྦྱངས་ཀྱང་༎ བླ་མའི་བསྙེན་བཀུར་དམན་ཕྱིར་ལུང་ཐོབ་མ་གྱུར་པ་༎
+T02nagpancu:335	 svahitamapi sa kartuṃ na prabhuḥ śāstracañcurbhavati tadapi śāstraṃ kevalaṃ khedahetuḥ // Pk_2.91 //	T02D1802:51b-8	དེ་ནི་བདག་ཕན་ཙམ་ལའང་དབང་མེད་བསྟན་པའི་མཆུ་༎ དེ་ཡི་བསྟན་བཅོས་སྐྱོ་བའི་རྒྱུ་ཙམ་འབའ་ཞིག་ཡིན་༎
+T02nagpancu:336	 atha bhavati sabhāgyaḥ prāptatattvopadeśo jaḍamatirasamartho mīlane 'rthasya yastu /	T02D1802:51b-10	སྐལ་ལྡན་གྱུར་ཅིང་དེ་ཉིད་མན་ངག་ཐོབ་གྱུར་ཀྱང་༎ གང་ཞིག་བློ་གྲོས་བླུན་མིན་དོན་ནི་སྦྱོར་ནུས་པ་༎
+T02nagpancu:337	 parahitakṛtabuddhirdeśanāyāṃ pravṛtto vacanaguṇavihīnaḥ so 'pyavajñāmupaiti // Pk_2.92 //	T02D1802:51b-12	གཞན་དོན་བྱ་བའི་བློ་ཡིས་སྟོན་ལ་རབ་ཏུ་འཇུག་། ཚིག་གི་ཡོན་ཏན་མེད་ན་དེ་ཡང་བརྙས་བཅས་འགྱུར་༎
+T02nagpancu:338	 śrutabahutaratantro jñānavān ṣaṭpadajñaḥ smṛtimatidhṛtimedhāvīryasampatsametaḥ /	T02D1802:51b-13	རྒྱུད་མང་ཐོས་ཤིང་ཤེས་ལྡན་གནས་དྲུག་ཤེས་པ་དང་༎ དྲན་དང་བློ་གྲོས་བརྟན་བློ་བརྩོན་པ་ཕུན་ཚོགས་ལྡན་༎
+T02nagpancu:339	 gurucaṇasaparyāprāptatattvopadeśaḥ prabhavati sa hi vaktuṃ tantrarājopadeśam // Pk_2.93 //	T02D1802:51b-14	བླ་མའི་ཞབས་བཀུར་བཅས་ཤིང་དེ་ཉིད་ལུང་ཐོབ་པ་༎ རྒྱུད་རྒྱལ་མན་ངག་དེ་ལ་བསྟན་པར་འོས་པ་ཡིན་༎
+T02nagpancu:340	 śrutabahutaratantreṇāyavajriprasādāt sphuṭaviracitavācā bodhimārgaṃ vibhajya /	T02D1802:51b-16	འཕགས་པ་རྡོ་རྗེའི་དྲིན་གྱིས་རྒྱུད་རྣམས་མང་པོ་ཐོས་༎ གསལ་བ་རྣམ་སྤྲས་ཚིག་གིས་བྱང་ཆུབ་ལམ་ནི་རྣམ་ཕྱེ་བས་༎
+T02nagpancu:341	 kuśalamupacittaṃ yacchākyamitreṇa tena prakaṭapaṭuvipākād bodhibhājo bhavantu // iti / Pk_2.94 //  anuttarasandhirityaparanāmā  // sarvaśuddhiviśuddhikramaḥ samāptaḥ //  kṛtiriyaṃ śākyamitrapādānām /  granthapramāṇamasya śatamekam /	T02D1802:51b-18	ཤའཀྱ་བཤེས་གཉེན་གྱིས་ནི་དགེ་བ་གང་བསགས་དེས་༎ མཁས་ཤིང་གསལ་བའི་རྣམ་སྨིན་བྱང་ཆུབ་སྣོད་གྱུར་ཤོག་། མིང་གི་ཁྱད་པར་གཞན་ཡང་བླ་ན་མེད་པའི་དགོངས་པ་ཞེས་བྱ་བ་ཐམས་ཅད་དག་ཅིང་རྣམ་པར་དག་པའི་རིམ་པ་སློབ་དཔོན་ཤའཀྱ་བ་ཤེས་གཉེན་གྱིས་མཛད་པ་སྟེ་རིམ་པ་གཉིས་པའོ
+T02nagpancu:35	 svamantraṃ hṛdaye dhyātvā cittaṃ bindugataṃ nyaset // Pk_1.15 /	T02D1802:45b-45	རང་སྔགས་སྙིང་གར་བསམས་ནས་ནི་། སྲོག་ནི་ཐིག་ལེར་གནས་པར་གཞག་། ཅེས་གསུངས་༄༤༦ཨ་༌་༎
+T02nagpancu:352	 tataḥ prasannāya gurave mahatīṃ gaṇapūjāṃ kṛtvā ṣoḍaśābdikāṃ mudrāṃ mahāvajragurave datvā,	T02D1802:51b-24	དེ་ལ་དང་པོར་བསྐྱེད་པའི་རིམ་པའི་རྗེས་སུ་འབྲང་བས་དབང་བསྐུར་བ་ཐོབ་ཅིང་། རྒྱུད་རྣམ་པ་བཞིའི་དགོངས་པ་ཤེས་པ་། ཤེས་རབ་དང་ལྡན་ཞིང་ལུས་དང་། ངག་དང་། ཡིད་རྣམ་པར་དབེན་པའི་ཐོས་པ་འཛིན་པ་། བདེན་པ་རྣམ་པ་གཉིས་ལ་ལྷག་པར་མོས་པས་རྡོ་རྗེ་སློབ་དཔོན་ཡང་དག་པར་མཉེས་པར་བྱས་ཏེ་དེའི་འོག་ཏུ་བླ་མ་མཉེས་པར་གྱུར་ནས་ཚོགས་ཀྱི་མཆོད་པ་ཆེན་༄༥༢ཨ་༌་༎ པོ་བྱས་ལ་ལོ་བཅུ་དྲུག་མ་རྡོ་རྗེ་སློབ་དཔོན་ཆེན་པོ་ལ་ཕུལ་ཏེ་།
+T02nagpancu:353	 tadanantaraṃ guruvaktrād āptasvādhiṣṭhānakramopadeśaḥ,	T02D1802:52a-2	དེའི་འོག་ཏུ་བླ་མའི་ཞལ་སྔ་ནས་བདག་ལ་བྱིན་གྱིས་བརླབ་པའི་རིམ་པའི་མན་ངག་ཐོབ་ནས་།
+T02nagpancu:354	 tato mālodakasambuddhavajraghaṇṭādānadarpaṇanāmācāryānujñā ityebhiḥ saha guhyābhiṣekaṃ labdhvā ebhiḥ śāstāraṃ guruṃ stūyātḥ /	T02D1802:52a-3	དེའི་འོག་ཏུ་ཕྲེང་བ་དང་ཆུ་དང་རྫོགས་པའི་སངས་རྒྱས་དང་རྡོ་རྗེ་དང་དྲིལ་བུ་སྦྱིན་པ་མེ་ལོང་དང་མིང་དང་སློབ་དཔོན་དང་རྗེས་སུ་གནང་བ་སྟེ་། དེ་དག་དང་བཅས་པར་གསང་བའི་དབང་བསྐུར་བ་ཐོབ་ནས་བསྟོད་པ་འདིས་བླ་མ་ལ་བསྟོད་པར་བྱའོ་༎
+T02nagpancu:355	 śauṣīryaṃ nāsti te kāye māṃsāsthirudhiraṃ na ca /	T02D1802:52a-5	ཁོང་སྟོང་ཁྱོད་ཀྱི་སྐུ་ལ་མེད་༎ ཤ་དང་རུས་པ་ཁྲག་མེད་ཀྱང་༎
+T02nagpancu:356	 indrāyudhamivākāśe kāyaṃ darśitavānasi // Pk_3.2 //	T02D1802:52a-7	ནམ་མཁའ་ལ་ནི་འཇའ་ཚོན་ལྟར་༎ ཁྱོད་ཀྱི་སྐུ་ནི་སྟོན་པར་མཛད་༎
+T02nagpancu:357	 nāmayā nāśuciḥ kāye kṣuttṛṣṇāsambhavo na ca /	T02D1802:52a-9	སྐུ་ལ་བསྙུན་མེད་མི་གཙང་མེད་༎ བཀྲེས་དང་སྐོམ་པ་འབྱུང་མེད་ཀྱང་༎
+T02nagpancu:358	 tvayā lokānuvṛttyarthaṃ darśitā laukikī kriyā // Pk_3.3 //	T02D1802:52a-11	ཁྱོད་ནི་འཇིག་རྟེན་རྗེས་འཇུག་ཕྱིར་༎ འཇིག་རྟེན་བྱ་བ་སྟོན་པར་མཛད་༎
+T02nagpancu:359	 dakacandravadagrāhya sarvadharmeṣvaniśrita /  anahaṅkāra nirmoha nirālamba namo 'stu te // Pk_3.4 //	T02D1802:52a-13	ཆུ་ཟླ་བཞིན་དུ་གཟུང་དུ་མེད་༎ ཆོས་རྣམས་ཀུན་ལ་གནས་པ་མེད་༎ ང་རྒྱལ་མེད་ཅིང་རྨོངས་མི་མངའ་༎ དམིགས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+T02nagpancu:36	 ityasyāpi pratinirdeśamāha vajramālānāmni vyākhyātantre-	T02D1802:46a-1	བ་དང་། འདི་ཉིད་ཡང་སླར་བཤད་པ་རྡོ་རྗེ་ཕྲེང་བ་ཞེས་བྱ་བ་བཤད་པའི་རྒྱུད་ལས་།
+T02nagpancu:361	 sadā samāhitaścāsi gacchaṃstiṣṭhan svapaṃstathā /	T02D1802:52a-17	གཤེགས་དང་བཞུགས་དང་དེ་བཞིན་གཟིམས་༎ སྤྱོད་ལམ་དག་ནི་ཐམས་ཅད་དུ་༎ ཁྱོད་ནི་རྟག་ཏུ་མཉམ་འཇོག་པ་༎
+T02nagpancu:363	 vikurvasi mahāṛddhyā māyopamasamādhinā /	T02D1802:52a-21	སྒྱུ་མ་ལྟ་བུའི་ཏིང་འཛིན་གྱིས་༎ རྫུ་འཕྲུལ་ཆེ་ལ་རྣམ་འཕྲུལ་ཞིང་༎
+T02nagpancu:364	 nirnānātvaṃ samāpanna nirālamba namostu te // Pk_3.6 //	T02D1802:52a-23	སྣ་ཚོགས་མིན་ལ་སྙོམས་འཇུག་པ་༎ དམིགས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+T02nagpancu:365	 evaṃ vajraguraṃ sadbhūtaguṇena saṃstutya śravaṇārtham adhyeṣayed anayā gāthayā-	T02D1802:52a-25	དེ་ལྟར་རྡོ་རྗེ་སློབ་དཔོན་ལ་ཡང་དག་པའི་བསྟོད་པས་བསྟོད་ནས་ཚིགས་སུ་བཅད་པ་འདིས་མཉན་པར་བྱ་བའི་ཕྱིར་གསོལ་བ་གདབ་པར་བྱའོ་༎
+T02nagpancu:366	 sarvajña jñānasandoha bhavacakraviśodhaka /	T02D1802:52a-26	ཀུན་མཁྱེན་ཡེ་ཤེས་ཕུལ་པོ་ཅན་༎ སྲིད་པའི་འཁོར་ལོ་རྣམ་སྦྱོང་བ་༎
+T02nagpancu:367	 adya vyākhyānaratnena prasādaṃ kuru me vibho // Pk_3.7 //	T02D1802:52a-28	དེ་རིང་བཤད་པའི་རིན་ཆེན་གྱིས་༎ གཙོ་བོ་བདག་ལ་བཀའ་དྲིན་སྩོལ་༎
+T02nagpancu:368	 tvatpādapaṅkajaṃ muktvā nāstyanyaccharaṇaṃ vibho /	T02D1802:52a-30	ཁྱོད་ཞབས་པདམ་སྤངས་ནས་ནི་༎ གཙོ་བོ་གཞན་ལ་སྐྱབས་མ་མཆིས་༎
+T02nagpancu:369	 tasmāt prasīda buddhāgra jagadvīra mahāmune // Pk_3.8 //	T02D1802:52a-32	འགྲོ་བའི་དཔའ་བོ་ཐུབ་ཆེན་གྱིས་༎ དེ་བས་བློ་མཆོག་མཉེས་པར་མཛོད་༎
+T02nagpancu:37	 nāsāgre sarṣapaṃ nāma prāṇāyāmasya kalpanā /	T02D1802:46a-2	སྣ་རྩེ་ར་ཡུངས་ཀར་ཞེས་བྱ་བ་༎ སྲོག་དང་རྩལ་བའི་བརྟག་པ་སྟེ་༎
+T02nagpancu:370	 evaṃ śrutvā tu tad vākyam adhyeṣaṇaviśāradam /	T02D1802:52a-34	དེ་ལྟར་འཇིགས་མེད་གསོལ་འདེབས་པའི་༎ ཚིག་དག་ཐོས་པར་གྱུར་ནས་ནི་༎
+T02nagpancu:371	 śiṣyakāruṇyamutpādya svādhiṣṭhānamathārabhet // Pk_3.9 //	T02D1802:52a-36	སྙིང་རྗེ་སློབ་མ་ལ་བསྐྱེད་དེ་༎ དེ་ནས་བདག་ལ་བྱིན་བརླབ་བརྩམ་༎
+T02nagpancu:372	 svādhiṣṭhānakramo nāma saṃvṛteḥ satyadarśanam /	T02D1802:52a-38	བདག་བྱིན་བརླབ་པའི་རིམ་ཞེས་པ་༎ ཀུན་རྫོབ་བདེན་པ་བསྟན་པ་སྟེ་༎
+T02nagpancu:373	 gurupādaprasādena labhyate tacca nānyathā // Pk_3.10 //	T02D1802:52a-40	དེ་ནི་བླ་མའི་དྲིན་དག་གིས་༎ འཐོབ་པར་འགྱུར་གྱི་གཞན་དུ་མིན་༎
+T02nagpancu:374	 svādhiṣṭhānakramo yena sādhakena na labhyate /	T02D1802:52a-42	བདག་ལ་བྱིན་གྱིས་བརླབ་པའི་རིམ་༎ གང་གིས་རྙེད་པར་མ་གྱུར་པས་༎
+T02nagpancu:375	 sūtrāntatantrakalpeṣu vṛthā tasya pariśramaḥ // Pk_3.11 //	T02D1802:52a-44	མདོ་སྡེ་རྒྱུད་དང་རྟོག་པ་ལ་༎ དེ་ཡི་ངལ་བ་༄༥༢བ་དོན་མེད་འགྱུར་༎
+T02nagpancu:376	 svādhiṣṭhānakramaṃ labdhvā sarvabuddhāmayaḥ prabhuḥ /	T02D1802:52b-1	བདག་ལ་བྱིན་བརླབ་རིམ་ཐོབ་པའི་༎ གཙོ་བོ་སངས་རྒྱས་ཀུན་བདག་ཉིད་༎
+T02nagpancu:377	 janmanīhaiva buddhatvaṃ niḥsandehaṃ prapadyate // Pk_3.12 //	T02D1802:52b-3	ཚེ་འདི་ཉིད་དུ་སངས་རྒྱས་ནི་༎ ཐེ་ཚོམ་མེད་པར་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:378	 svādhiṣṭhānasamādhiśca prabhāsvarapadaṃ tathā /	T02D1802:52b-5	བདག་བྱིན་བརླབ་པའི་ཏིང་འཛིན་དང་༎ དེ་བཞིན་འོད་གསལ་བ་ཡི་གནས་༎
+T02nagpancu:379	 satyadvayamiti khyātaṃ phalahetuviśeṣataḥ // Pk_3.13 //	T02D1802:52b-6	རྒྱུ་དང་འབྲས་བུའི་ཁྱད་པར་གྱིས་༎ བདེན་པ་གཉིས་སུ་བསྟན་པ་ཡིན་༎
+T02nagpancu:38	 prāṇāyāmasthitāḥ pañca raśmayo buddhabhāvataḥ // Pk_1.16 //	T02D1802:46a-4	སྲོག་དང་རྩོལ་བ་ལ་གནས་པ་༎ འོད་ལྔ་སངས་རྒྱས་རྣམས་སུ་བསྒོམ་༎
+T02nagpancu:380	 svādhiṣṭhānānupūrveṇa prāpyate hi prabhāsvaram /	T02D1802:52b-8	བདག་བྱིན་བརླབ་པའི་རིམ་གྱིས་ནི་༎ འོད་གསལ་བ་ནི་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:381	 tasmād vajraguruḥ pūrvaṃ svādhiṣṭhānaṃ pradarśayet // Pk_3.14 //	T02D1802:52b-10	དེ་བས་རྡོ་རྗེ་སློབ་དཔོན་གྱིས་༎ དང་པོར་བདག་ལ་བྱིན་བརླབ་བསྟན་༎
+T02nagpancu:382	 asvatantraṃ jagat sarvaṃ svatantraṃ naiva jāyate /	T02D1802:52b-12	འགྲོ་ཀུན་རང་དབང་མེད་པ་སྟེ་༎ རང་དབང་དུ་ནི་འབྱུང་མ་ཡིན་༎
+T02nagpancu:383	 hetuḥ prabhāsvaraṃ tasya sarvaśūnyaṃ prabhāsvaram // Pk_3.15 //	T02D1802:52b-14	དེ་ཡི་རྒྱུ་ནི་འོད་གསལ་བ་༎ འོད་གསལ་ཐམས་ཅད་སྟོང་པའོ་༎
+T02nagpancu:384	 yena cittena bālāśca saṃsāre bandhanaṃ gatāḥ /	T02D1802:52b-16	སེམས་གང་གིས་ནི་བྱིས་པ་རྣམས་༎ འཁོར་བར་འཆིང་བས་བཅིངས་གྱུར་པ་༎
+T02nagpancu:385	 yoginastena cittena sugatānāṃ gatiṃ gatāḥ // Pk_3.16 //	T02D1802:52b-18	སེམས་དེ་ཉིད་ཀྱིས་རྣལ་འབྱོར་བ་༎ བདེ་གཤེགས་གནས་སུ་འགྲོ་བར་འགྱུར་༎
+T02nagpancu:386	 na cātrotpadyate kaścin maraṇaṃ nāpi kasyacit /	T02D1802:52b-20	འདིར་ནི་གང་ཡང་སྐྱེ་བ་མེད་༎ གང་ཡང་འཆི་བ་ཡོད་མ་ཡིན་༎
+T02nagpancu:387	 saṃsāra eva jñātavyaścittarūpākṛtiṣṭhitaḥ // Pk_3.17 //	T02D1802:52b-22	སེམས་ཀྱི་རང་བཞིན་རྣམ་གནས་པར་༎ འཁོར་བ་ཉིད་ནི་ཤེས་པར་བྱ་༎
+T02nagpancu:388	 vāyuyogād vinā cittasvarūpaṃ naiva gṛhyate /	T02D1802:52b-24	རླུང་གི་སྦྱོར་བ་མེད་པར་ནི་༎ སེམས་ཀྱི་རང་བཞིན་གཟུང་དུ་མེད་༎
+T02nagpancu:389	 cittāt prakṛtihetutvāt karmajanmasamudbhavaḥ // Pk_3.18 //	T02D1802:52b-26	སེམས་ཀྱི་རང་བཞིན་རྒྱུར་གྱུར་པ་༎ ལས་དང་སྐྱེ་བ་ཀུན་དུ་འབྱུང་༎
+T02nagpancu:39	 ūrdhvaṃ ghrāṇād viniṣkrānto vāmadakṣiṇadvandvataḥ /	T02D1802:46a-6	སྟིང་གི་སྣ་ལས་ངེས་འབྱུང་བ་༎ ག-ཡོན་དང་ག-ཡས་དང་གཉིས་ཀ་དང་༎ དལ་བར་རྒྱུ་དང་རྣམ་བཞིར་འགྱུར་༎
+T02nagpancu:390	 tadeva vāyusaṃyuktaṃ vijñānatritayaṃ punaḥ /	T02D1802:52b-28	དེ་ཉིད་རླུང་དང་ཡང་དག་ལྡན་༎ རྣམ་ཤེས་གསུམ་པོ་སླར་ཡང་ནི་༎
+T02nagpancu:391	 jāyate yogināṃ mūrttirmāyādehastaducyate // Pk_3.19 //	T02D1802:52b-30	རྣལ་འབྱོར་པ་ཡི་ལུས་སུ་འབྱུང་༎ སྒྱུ་མའི་ལུས་ཞེས་དེ་ལ་བཤད་༎
+T02nagpancu:392	 tasmādeva jagat sarvaṃ māyopama ihocyate /	T02D1802:52b-32	དེ་བས་འདི་ལྟར་འགྲོ་བ་ཀུན་༎ སྒྱུ་མ་ལྟ་བུར་འདིར་བཤད་དེ་༎
+T02nagpancu:393	 māyopamasamādhiṣṭhaḥ sarvaṃ paśyati tādṛśam // Pk_3.20 //	T02D1802:52b-34	སྒྱུ་མ་ལྟ་བུའི་ཏིང་འཛིན་གནས་༎ ཐམས་ཅད་དེ་དང་འདྲ་བར་མཐོང་༎
+T02nagpancu:394	 rūpaṃ ca vedanā caiva saṃjñā saṃskāra eva ca /	T02D1802:52b-36	གཟུགས་དང་ཚོར་བ་ཉིད་དང་ནི་༎ འདུ་ཤེས་དང་ནི་འདུ་བྱེད་རྣམས་།
+T02nagpancu:395	 vijñānaṃ pañcamaṃ caiva catvāro dhātavastathā // Pk_3.21 //  akṣāṇi viṣayāścaiva jñānapañcakameva ca /	T02D1802:52b-38	ལྔ་པ་རྣམ་པར་ཤེས་བ་དང་༎ དེ་བཞིན་ཁམས་ནི་བཞི་པོ་དང་༎ མིག་ལ་སོགས་དང་ཡུལ་རྣམས་ཉིད་༎ ཤེས་པ་ལྔ་པོ་ཉིད་དག་སྟེ་༎
+T02nagpancu:397	 adhyātmabāhyato bhinnaṃ sarvaṃ māyaiva nānyathā // Pk_3.22 //	T02D1802:52b-40	ཕྱི་དང་ནང་དུ་རྣམ་ཕྱེ་བ་༎ ཐམས་ཅད་སྒྱུ་མ་ལས་གཞན་མིན་༎
+T02nagpancu:398	 darpaṇapratibimbena māyādehaṃ ca lakṣayet /	T02D1802:52b-42	མེ་ལོང་ནང་གི་གཟུགས་བརྙན་གྱིས་༎ སྒྱུ་མའི་ལུས་ནི་ཤེས་པར་བྱ་༎
+T02nagpancu:399	 varṇān indrāyudheneva vyāpitvamudakendunā // Pk_3.23 //	T02D1802:52b-44	ཁ་དོག་རྣམས་ནི་འཇའ་ལྟ་བུ་༎ ཁྱབ་པ་ཆུ་ཡི་ཟླ་བས་སོ་༎
+T02nagpancu:4	 vajrajāpakramaṃ vakṣye yogatantrānusārataḥ // Pk_1.1 //	T02D1802:45a-7	རྣལ་འབྱོར་རྒྱུད་ཀྱི་རྗེས་འབྲངས་ནས་༎ རྡོ་རྗེ་བཟླས་པའི་རིམ་བཤད་བྱ་༎
+T02nagpancu:40	 stabdhaśceti caturdhāsmād velā ādhyātmikā smṛtā // Pk_1.17 //	T02D1802:46a-8	ནང་གི་དུས་ནི་ཡིན་པར་བཤད་༎
+T02nagpancu:400	 darpaṇe vimale vyaktaṃ dṛśyate pratibimbavat /  bhāvābhāvāvinirmukto vajrasattvaḥ sucitritaḥ // Pk_3.24 //	T02D1802:52b-46	དངོས་དང་དངོས་མིན་ལས་གྲོལ་བ་༎ རྡོ་རྗེ་སེམས་དཔའ་ལེགས་བྲིས་པ་༎ མེ་ལོང་དྲི་མ་མེད་པ་ལ་༎ གཟུགས་བརྙན་གསལ་བར་སྣང་དང་མཚུངས་༎
+T02nagpancu:402	 sarvākāravaropeto asecanakavigrahaḥ /	T02D1802:52b-50	རྣམ་པ་ཀུན་གྱི་མཆོག་ལྡན་པའི་༎ སྐུ་ནི་བལྟ་བས་མི་ངོམས་པ་༎
+T02nagpancu:403	 darśayet taṃ suśiṣyāya svādhiṣṭhānaṃ taducyate // Pk_3.25 //	T02D1802:52b-52	སློབ་མ་བཟང་པོ་དེ་ལ་བསྟན༎ ༄༥༣ཨ་༌་༎ བདག་བྱིན་བརླབ་ཅེས་དེ་བཤད་དོ་༎
+T02nagpancu:404	 iyameva hi saṃlakṣyā māyā nirdoṣalakṣaṇā /	T02D1802:53a-1	སྒྱུ་མར་བསྟན་པའི་མཚན་ཉིད་ཀྱིས་༎ འདི་ཉིད་ཉེ་བར་མཚོན་པ་སྟེ་༎
+T02nagpancu:405	 māyaiva saṃvṛteḥ satyaṃ kāyaḥ sāmbhogikaśca saḥ // Pk_3.26 //	T02D1802:53a-3	ཀུན་རྫོབ་བདེན་པའི་སྒྱུ་མ་ཉིད་༎ ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ཡང་དེ་༎
+T02nagpancu:406	 saiva gandharvasattvaḥ syād vajrakāyaḥ sa eva hi /	T02D1802:53a-5	དེ་ཉིད་དྲི་ཟའི་སེམས་ཅན་གྱུར་༎ རྡོ་རྗེའི་སྐུ་ཡང་དེ་ཉིད་ཡིན་༎
+T02nagpancu:407	 vajrasattvaḥ svayaṃ tasmāt svasya pūjāṃ pravartayet // Pk_3.27 //  ātmā vai sarvabuddhatvaṃ sarvasauritvameva ca /	T02D1802:53a-7	རྡོ་རྗེ་སེམས་དཔའ་བདག་ཉིད་དེ་༎ དེ་བས་བདག་ཉིད་མཆོད་ལ་འཇུག་། བདག་ཉིད་སངས་རྒྱས་ཐམས་ཅད་དང་༎ བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཉིད་༎
+T02nagpancu:409	 tasmāt sarvaprayatnena hyātmānaṃ pūjayet sadā // Pk_3.28 //	T02D1802:53a-9	དེ་བས་ཀུན་ནས་འབད་པ་ཡིས་༎ བདག་ཉིད་རྟག་ཏུ་མཆོད་པར་བྱ་༎
+T02nagpancu:41	 kaṇṭhahṛnnābhiguhyābje gatyāgatī vinirdiśet /	T02D1802:46a-9	ལྐོག་མ་སྙིང་ག་ལྟེ་བ་དང་༎ གསང་བའི་པདམར་འགྲོ་འོད་སྟོན་༎
+T02nagpancu:410	 mantramudrāprayogaṃ ca maṇḍalādivikalpanam /  balihomakriryāṃ sarvāṃ kuryān māyopamāṃ sadā // Pk_3.29 //	T02D1802:53a-11	སྔགས་དང་ཕྱག་རྒྱའི་སྦྱོར་བ་དང་༎ དཀྱིལ་འཁོར་ལ་སོགས་རྣམ་རྟོག་དང་༎ སྦྱིན་སྲེག་གཏོར་མ་ལ་སོགས་ཀུན་༎ རྟག་ཏུ་སྒྱུ་མ་བཞིན་དུ་བྱ་༎
+T02nagpancu:412	 śāntikaṃ pauṣṭikaṃ cāpi tathā vaśyābhicārikam /	T02D1802:53a-13	ཞི་བ་དང་ནི་རྒྱས་པ་དང་༎ དེ་བཞིན་དབང་དང་མངོན་སྤྱོད་དང་༎ དགུག་སོགས་གང་ཅིའང་རུང་བ་ཀུན་༎
+T02nagpancu:413	 ākarṣaṇādi yat sarvaṃ kuryād indrāyudhopamam // Pk_3.30 //	T02D1802:53a-14	དབང་པོའི་གཞུ་དང་མཚུངས་པར་བྱ་༎
+T02nagpancu:414	 śṛṅgārādyupabhogaṃ ca gītavādyādisevanam /	T02D1802:53a-15	སྒེག་དང་ཉེ་བར་ལོངས་སྤྱོད་དང་༎ ཀླུ་དང་རོལ་མོ་སོགས་བསྟེན་དང་༎ སྒྱུ་རྩལ་རྣམས་ལ་རབ་འཇུག་པ་༎
+T02nagpancu:415	 kalāsu ca pravṛttiṃ ca kuryād udakacandravat // Pk_3.31 //	T02D1802:53a-16	ཆུ་ཟླ་དག་དང་མཚུངས་པར་བྱ་༎
+T02nagpancu:416	 rūpe śabde tathā gandhe rase spraṣṭavya eva ca /	T02D1802:53a-17	གཟུགས་དང་སྒྲ་དང་དེ་བཞིན་དྲི་༎ རོ་དང་རེག་བྱ་ཉིད་དག་ལ་༎
+T02nagpancu:417	 cakṣurādipravṛttiṃ ca māyāvad upalakṣayet // Pk_3.32 //	T02D1802:53a-19	མིག་ལ་སོགས་པ་འཇུག་འགྱུར་བ་༎ སྒྱུ་མ་ལྟ་བུར་ཉེ་བར་བརྟག་། རྡོ་རྗེ་ཐེག་པ་དེ་ཉིད་དུ་༎
+T02nagpancu:418	 bahunātra kimuktena vajrayāne tu tattvataḥ /	T02D1802:53a-21	འདིར་ནི་མང་དུ་བཤད་ཅི་དགོས་༎
+T02nagpancu:419	 yad yad ālambayed yogī tad tad māyaiva kalpayet // Pk_3.33 //  darpaṇe pratibimbaṃ ca svapnaṃ māyāṃ ca budbudam /  indrajālaṃ ca sādṛśyaṃ yaḥ paśyed sa prabhuḥ smṛtaḥ // Pk_3.34 //	T02D1802:53a-22	རྣལ་འབྱོར་པས་ནི་གང་གང་དམིགས་༎ དེ་དེ་སྒྱུ་མ་བཞིན་དུ་བརྟག་། མེ་ལོང་གི་ནི་གཟུགས་བརྙན་དང་༎ རྨི་ལམ་སྒྱུ་མ་ཆུ་བུར་དང་༎ མིག་འཕྲུལ་མཚུངས་པར་གང་གིས་མཐོང་༎ དེ་ནི་གཙོ་བོ་ཡིན་པར་བཤད་༎
+T02nagpancu:42	 vihared ardhayāmikāṃ velāṃ paripāṭyā yathākramam // Pk_1.18 //	T02D1802:46a-10	ཐུན་ཕྱེད་ཀྱི་ནི་དུས་རྟག་ཏུ་༎ གོ་རིམས་ཇི་བཞིན་གནས་བར་བསྟན་༎
+T02nagpancu:422	 dṛśyate spṛśyate caiva yathā māyā jagat sadā /	T02D1802:53a-25	མཐོང་བ་དང་ནི་རེག་པ་ཉིད་༎ འགྲོ་བ་སྒྱུ་མ་ཇི་བཞིན་ཏེ་༏
+T02nagpancu:423	 na copalambhaḥ saṃvṛtyā māyāvat parikīrtitaḥ // iti // Pk_3.35 //	T02D1802:53a-27	། དམིགས་མེད་ཀུན་རྫོབ་དག་ཏུ་ནི་༎ སྒྱུ་མ་ལྟ་བུར་རབ་ཏུ་བཤད་༎
+T02nagpancu:424	 yad yad indriyamārgatvaṃ māyā tattat svabhāvataḥ /	T02D1802:53a-29	དབང་པོ་གང་དང་གང་ལམ་གྱུར་༎ དེ་དང་དེ་ཡི་ངོ་བོར་བྱ་༎
+T02nagpancu:425	 asamāhitayogena sarvaṃ buddhamayaṃ vahet // Pk_3.36 //	T02D1802:53a-31	མཉམ་པར་མ་གཞག་སྦྱོར་བ་ཡིས་༎ སངས་རྒྱས་ཀུན་དང་མཉམ་པར་སྦྱོར་༎
+T02nagpancu:426	 sarvatra sarvataḥ sarvaṃ sarvathā sarvadā svayam /	T02D1802:53a-33	ཀུན་དུ་ཀུན་ནས་ཐམས་ཅད་དང་༎ བདག་ཉིད་རྟག་ཏུ་རྣམ་པ་ཀུན་༎
+T02nagpancu:427	 sarvabuddhamayaṃ siddhaṃ svamātmānaṃ sa paśyati // Pk_3.37 //	T02D1802:53a-34	སངས་རྒྱས་ཀུན་བདག་དངོས་གྲུབ་ནི་༎ རང་ཉིད་ཀྱིས་ནི་དེ་མཐོང་འགྱུར་༎
+T02nagpancu:428	 gacchaṃstiṣṭhan mahāsattvaḥ sarvasaukhamayaḥ prabhuḥ /	T02D1802:53a-36	གཙོ་བོ་བདེ་བ་ཀུན་རང་བཞིན་༎ སེམས་དཔའ་ཆེན་པོ་འགྲོ་དང་བཞུགས་༎
+T02nagpancu:429	 vihārāhārapānādīnākāśāllabhate kṣaṇāt // Pk_3.38 //	T02D1802:53a-38	གནས་དང་ཟད་དང་གོས་ལ་སོགས་༎ མཁའ་ལ་སྐད་ཅིག་དག་གིས་རྙེད་༎
+T02nagpancu:43	 dakṣiṇād vinirgato raśmirhutabhuṅmaṇḍalaṃ ca tat /	T02D1802:46a-12	ག-ཡས་བ་ནས་ནི་འབྱུང་བའི་ཁམས་༎ མེ་ཡི་དཀྱིལ་འཁོར་ཉིད་ཡིན་ཏེ་༎
+T02nagpancu:430	 bhaveyurbhavacchettāraḥ śāstāraḥ pravare jane /	T02D1802:53b-0	སྲིད་པ་གཅོད་པར་༄༥༣བ་འགྱུར་བ་དང་༎ འགྲོ་ལ་རབ་མཆོག་སྟོན་པར་འགྱུར་༎
+T02nagpancu:431	 pūjyante sasuraiḥ sarvaiḥ praṇipatya muhurmuhuḥ // Pk_3.39 //	T02D1802:53b-1	ལྷ་དང་བཅས་པ་ཀུན་གྱིས་མཆོད་༎ ཡང་དང་ཡང་དུ་ཕྱག་བྱེད་འགྱུར་༎
+T02nagpancu:432	 yathā śāstari sambaddhe lokayātrāhitaiṣiṇi /	T02D1802:53b-3	ཇི་ལྟར་སྟོན་པ་རྫོགས་སངས་རྒྱས་༎ འཇིག་རྟེན་ཕན་པར་བཞེད་པས་གཤེགས་༎
+T02nagpancu:433	 evameva mahāyogī viśvajñānārthasaṅgrahād // Pk_3.40 //	T02D1802:53b-5	དེ་བཞིན་རྣལ་འབྱོར་ཆེན་པོ་ནི་༎ སྣ་ཚོགས་ཡེ་ཤེས་རྗེས་སུ་སྡུད་༎
+T02nagpancu:434	 nāsti kiñcid asādhyaṃ vai vajrasattvena lakṣitam /	T02D1802:53b-7	རྡོ་རྗེ་སེམས་དཔའ་མཚོན་པས་ན་༎ བསྒྲུབ་པར་མི་བྱ་ཅི་ཡང་མེད་༎
+T02nagpancu:435	 svayaṃ pratyusidhyanti sarvamudrā mahāsukhāḥ // Pk_3.41 //	T02D1802:53b-9	བདེ་ཆེན་ཕྱག་རྒྱ་ཆེན་པོ་ནི་༎ རང་ཉིད་རྗེས་སུ་འགྲུབ་པར་འགྱུར་༎
+T02nagpancu:436	 kleśāḥ karmapathā dehaḥ kartāraśca phalaṃ ca vai /	T02D1802:53b-11	ལས་དང་ཉོན་མོངས་ལས་ཅན་ལུས་༎ བྱེད་པ་པོ་དང་འབྲས་བུ་ཉིད་༎
+T02nagpancu:437	 marīcisvapnasaṅkāśā gandharvanagaropamāḥ // Pk_3.42 //	T02D1802:53b-13	སྨིག་རྒྱུ་རྨི་ལམ་ལྟ་བུ་དང་༎ དྲི་ཟའི་གྲོང་ཁྱེར་དག་དང་མཚུངས་༎
+T02nagpancu:438	 imaṃ samādhimajñātvā saṃvṛtāvupalambhataḥ /	T02D1802:53b-14	འདི་འདྲའི་ཏིང་འཛིན་མི་ཤེས་པས་༎ དངོས་པོ་ལ་ནི་ཉེར་དམིགས་ཏེ་༎
+T02nagpancu:439	 jāyante vividhā rogāsteṣāṃ māyā bhiṣagjitam // Pk_3.43 //	T02D1802:53b-16	འདོད་ཆགས་སྣ་ཚོགས་སྐྱེས་པ་རྣམས་༎ དེ་དག་སྒྱུ་མའི་སྨན་གྱིས་གསོ་༎
+T02nagpancu:44	 raktavarṇamidaṃ vyaktaṃ padmanātho 'tra devatā // Pk_1.19 //	T02D1802:46a-14	ཁ་དོག་དམར་ཞིང་གསལ་བ་འདི་༎ པདམ་མགོན་པོའི་རྒྱུ་བའོ་༎
+T02nagpancu:440	 svādhiṣṭhānopadeśastu yena nāsādyate guroḥ /	T02D1802:53b-18	བདག་བྱིན་བརླབ་པའི་མན་ངག་དག་། གང་གིས་བླ་མ་ལས་མ་བསྒྲུབས་༎
+T02nagpancu:441	 śāśvatocchedamālambya sa vaivartī bhavet punaḥ // Pk_3.44 //	T02D1802:53b-19	རྟག་དང་ཆད་པ་ལ་དམིགས་པས་༎ མི་དེ་ཕྱིར་ལྡོག་འགྱུར་བ་ཡིན་།
+T02nagpancu:442	 sarvapūjāṃ parityajya gurupūjāṃ samārabhet /	T02D1802:53b-21	མཆོད་པ་ཐམས་ཅད་སྤངས་ནས་ནི་༎ བླ་མ་ལ་མཆོད་ཡང་དག་བརྩམ་༎
+T02nagpancu:443	 tena tuṣṭena tallabhyaṃ sarvajñajñānamuttamam // Pk_3.45 //	T02D1802:53b-23	དེ་མཉེས་པས་ནི་ཀུན་མཁྱེན་པའི་༎ ཡེ་ཤེས་མཆོག་ནི་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:444	 kiṃ tena na kṛtaṃ puṇyaṃ kiṃ vā nopāsitaṃ tapaḥ /  anuttarakṛdācāryavajrasattvaprapūjanāt // Pk_3.46 //	T02D1802:53b-25	བླ་མེད་བྱེད་པ་སློབ་དཔོན་གྱི་༎ རྡོ་རྗེ་སེམས་དཔའ་མཆོད་བྱས་ནས་༎ དེ་ཡི་བསོད་ནམས་མ་བྱས་ཅི་༎ དཀའ་ཐུབ་མ་བསྟེན་གང་ཞིག་ཡོད༎
+T02nagpancu:446	 yad yadiṣṭataraṃ kiñcid viśiṣṭatarameva ca /  tat taddhi gurave deyaṃ tadevākṣayamicchatā // Pk_3.47 //	T02D1802:53b-29	དེ་ཉིད་མི་ཟད་འདོད་པ་ཡིས་༎ ཤིན་ཏུ་དགའ་བ་གང་དང་གང་༎ ཤིན་ཏུ་ཁྱད་པར་ཅན་ཉིད་དེ་༎ དེ་དང་དེ་ནི་བླ་མར་སྦྱིན་༎
+T02nagpancu:448	 ācāryo harate pāpam ācāryo harate bhayam /	T02D1802:53b-33	སློབ་དཔོན་གྱིས་ནི་སྡིག་པ་འཕྲོག་། སློབ་དཔོན་གྱིས་ནི་འཇིགས་པ་སེལ་༎
+T02nagpancu:449	 ācāryastārayet pāraṃ duḥkhārṇavamahābhayāt // Pk_3.48 //	T02D1802:53b-34	སློབ་དཔོན་གྱིས་ནི་སྡུག་བསྔལ་གྱི་༎ རྒྱ་མཚོའི་འཇིགས་ལས་ཕ་རོལ་བསྒྲལ་༎
+T02nagpancu:45	 vāmād vinirgato raśmirvāyumaṇḍalasaṃjñitaḥ /	T02D1802:46a-16	ག-ཡོན་བ་ལས་ནི་འབྱུང་བའི་ཁམས་༎ རླུང་གི་དཀྱིལ་འཁོར་ཞེས་བྱ་བ་༎
+T02nagpancu:450	 yo 'haṅkāra[ma]lāliptaḥ sadbhūtakramadharṣakaḥ /	T02D1802:53b-36	གང་ཞིག་ང་རྒྱལ་གྱིས་སྦགས་ཤིང་༎ ཡང་དག་རིམ་པ་སུན་འབྱིན་དང་༎ དེ་ཉིད་ཆོས་ལ་བརྙས་བཅས་པ་༎
+T02nagpancu:451	 sāvajñastattvadharmeṣu tasya tattvaṃ na darśayet // Pk_3.49 //	T02D1802:53b-38	དེ་ལས་དེ་ཉིད་བསྟན་མི་བྱ་༎ བླ་མ་ལ་གུས་བདེན་པར་སྨྲ་༎
+T02nagpancu:458	 namaḥ śrīvajrasattvāya  vajrasattvaṃ namaskṛtya sarvaśūnyopadeśakam /	T02D1802:53b-44	རྡོ་རྗེ་སེམས་དཔའ་ཕྱག་བྱས་ཏེ་༎
+T02nagpancu:46	 haritaśyāmasaṅkāśaḥ karmanātho 'tra devatā // Pk_1.20 //	T02D1802:46a-18	ལྗང་སེར་དག་ཏུ་སྣང་བ་སྟེ་༎ ལས་ཀྱི་མགོན་པོའི་རྒྱུ་བའོ་༎
+T02nagpancu:460	 caturtho hyābhisambodhikramo 'yaṃ vakṣyate mayā // Pk_4.1 //	T02D1802:53b-45	བཞི་བ་མངོན་པར་བྱང་ཆུབ་པའི་༎ རིམ་འདི་བདག་གིས་བཤད་པར་བྱ་༎
+T02nagpancu:461	 asau svayambhūrbhagavān eka evādhidaivataḥ /	T02D1802:53b-47	འདི་ནི་རང་བྱུང་བཅོམ་ལྡན་འདས་༎ གཅིག་པུ་བདག་ཉིད་༄༥༤ཨ་༌་༎ ཆེ་བའི་ལྷ་༎
+T02nagpancu:462	 upadeśapradānāt tu vajrācāryo 'dhikastataḥ // Pk_4.2 //	T02D1802:54a-2	མན་ངག་རྣམས་ནི་རབ་སྟེར་བས་༎ རྡོ་རྗེ་སློབ་དཔོན་དེ་བས་ལྷག་། དེ་ནི་ཡང་དག་མཉེས་བྱས་ཏེ་༎
+T02nagpancu:463	 tatsamārādhanaṃ kṛtvā varṣaṃ māsamathāpi vā /	T02D1802:54a-4	ལོ་འམ་ཡང་ན་ཟླ་བ་ལ་༎
+T02nagpancu:464	 tasmai tuṣṭāya gurave pūjāṃ kuryāt tu śaktitaḥ // Pk_4.3 //	T02D1802:54a-5	བླ་མ་དེ་ནི་མཉེས་བྱས་ལ་༎ ཅི་ནུས་པས་ནི་མཆོད་པར་བྱ་༎
+T02nagpancu:466	 gaṇamaṇḍalamadhye tu kuryāt pūjāṃ yathāvidhi // Pk_4.4 //	T02D1802:54a-9	ཚོགས་ཀྱི་དཀྱིལ་འཁོར་དབུས་སུ་ནི་༎ ཆོ་ག་ཇི་བཞིན་མཆོད་པར་བྱ་༎
+T02nagpancu:467	 tatastuṣṭo mahāyogī pañcakāmopabhogataḥ /	T02D1802:54a-11	དེ་ནས་འདོད་ཡོན་ལྔ་སྤྱོད་པས་༎ རྣལ་འབྱོར་ཆེན་པོ་མཉེས་གྱུར་ཏེ་༎
+T02nagpancu:468	 ālokasyodayaṃ kuryāt samāpattividhānataḥ // Pk_4.5 //  kalaśādau susaṃsthāpya bodhicittaṃ prayatnataḥ /	T02D1802:54a-13	སྙོམས་པར་འཇུག་པའི་ཆོ་ག་ཡིས་༎ སྣང་བདག་ནི་བསྐྱེད་པར་བྱ་༎ བྱང་ཆུབ་སེམས་ནི་རབ་འབད་པས་༎
+T02nagpancu:47	 dvābhyāṃ vinirgato raśmiḥ pītavarṇo mahādyutiḥ /	T02D1802:46a-20	གཉིག་ལས་ནི་བྱུང་བའི་ཁམས་༎ མདངས་ཆེན་ཁ་དོག་སེར་པོ་སྟེ་༎
+T02nagpancu:470	 ardharātre cābhisiñcet suśiṣyaṃ kṛpayā guruḥ // Pk_4.6 //  abhiṣekaṃ tu samprāpya pratyūṣamaye punaḥ /  sampūjyārādhayet stotrairguruṃ śiṣyaṃ kṛtāñjaliḥ // Pk_4.7 //	T02D1802:54a-16	ཀ་ལ་ཤ་སོགས་དག་ཏུ་གཞག་། སློབ་མ་བཟང་ལ་བླ་མ་ཡིས་༎ བརྩེ་བས་ནམ་ཕྱེད་དུས་དབང་བསྐུར་༎ དབང་བསྐུར་ཡང་དག་ཐོབ་ནས་ནི་༎ སློབ་མས་ཐལ་སྦྱར་བླ་མ་ལ་༎ མཆོད་ཅིང་བསྟོད་པས་མཉེས་པར་བྱ་༎
+T02nagpancu:473	 traidhātukavinirmukta ākāśasamatāṃ gataḥ /	T02D1802:54a-22	ཁམས་གསུམ་ལས་ནི་རྣམ་གྲོལ་ཞིང༎ ནམ་མཁའ་དང་ནི་མཉམ་གྱུར་ལ་༎
+T02nagpancu:474	 nopariṣyasi kāmeṣu nirālamba namo 'stu te // Pk_4.8 //	T02D1802:54a-24	འདོད་པ་རྣམས་ཀྱིས་མ་གོས་པ་༎ དམིགས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+T02nagpancu:475	 aniḥśrito 'si skandheṣu dhātuṣvāyataneṣu ca /	T02D1802:54a-26	ཕུང་པོ་རྣམས་དང་ཁམས་རྣམས་དང་༎ སྐྱེ་མཆེད་རྣམས་ལ་མི་བརྟེན་ཅིང་༎
+T02nagpancu:476	 viparyāsavinirmukta nirālamba namo 'stu te // Pk_4.9 //	T02D1802:54a-27	ཕྱིན་ཅི་ལོག་ལས་རྣམ་གྲོལ་བ་༎ དམིགས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+T02nagpancu:477	 avikalpitasaṅkalpa apratiṣṭhitamānasa /	T02D1802:54a-29	རྣམ་རྟོག་མེད་ཅིང་ཀུན་རྟོག་མེད་༎ ཐུགས་ནི་རབ་ཏུ་མི་གནས་པ་༎
+T02nagpancu:478	 acintyamanasikāra nirālamba namo 'stu te // Pk_4.10 //	T02D1802:54a-31	བསམ་གྱིས་མི་ཁྱབ་པ་ཡི་ཐུགས་༎ དམིགས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+T02nagpancu:479	 anālayaṃ yathākāśaṃ niṣprapañcaṃ nirañcanam /	T02D1802:54a-33	ཇི་ལྟར་ནམ་མཁའ་གནས་མེད་ཅིང་༎ སྦྲོས་མེད་གོས་པ་མེད་པ་ལྟར་༎
+T02nagpancu:48	 māhendramaṇḍalaṃ caitad ratnanātho 'tra devatā // Pk_1.21 //	T02D1802:46a-22	དབང་ཆེན་གྱི་ནི་དཀྱིལ་འཁོར་ཉིད་༎ རིན་ཆེན་མགོན་པོའི་རྒྱུ་བའོ་༎
+T02nagpancu:480	 ākāśasamacitto 'si nirālamba namo 'stu te // Pk_4.11 //	T02D1802:54a-35	མཁའ་དང་མཉམ་པའི་ཐུགས་མངའ་བ་༎ དམིགས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༎
+T02nagpancu:481	 draṣṭukāmo 'bhisambodhiṃ sarvaśūnyasvabhāvikām /	T02D1802:54a-37	ཐམས་ཅད་སྟོང་པའི་རང་བཞིན་ཅན་༎ མངོན་པར་བྱང་ཆུབ་ལྟ་བར་འཚལ་༎
+T02nagpancu:482	 stutvā kṛtāñjaliḥ śiṣyo guraṃ sañcodayet punaḥ // Pk_4.12 //	T02D1802:54a-39	སློབ་མས་ཐལ་སྦྱར་བླ་མ་ལ་༎ བསྟོད་ནས་སླར་ཡང་བསྐུལ་བར་བྱ་༎
+T02nagpancu:483	 prayaccha me mahānātha abhisambodhidarśanam /  karmajanmavinirmuktam ābhāsatrayavarjitam // Pk_4.13 //	T02D1802:54a-41	ལས་དང་སྐྱེ་ལས་རྣམ་གྲོལ་ཞིང་༎ སྣང་བ་གསུམ་པོ་སྤངས་པ་ཡི་༎ མངོན་པར་བྱང་ཆུབ་མཐོང་བར་ནི་༎ མགོན་པོ་ཆེན་པོ་བདག་འཚལ་ལོ་༎
+T02nagpancu:485	 prayaccha me mahācārya vajrajñānamanuttaram /  sarvabuddhamahājñānaṃ sarvatāthāgatālayam // Pk_4.14 //	T02D1802:54a-45	སངས་རྒྱས་ཀུན་གྱི་ཡེ་ཤེས་ཆེ་༎ དེ་བཞིན་གཤེགས་པ་ཀུན་གྱི་གནས་༎ རྡོ་རྗེ་ཡེ་ཤེས་བླ་ན་མེད་༎ སློབ་དཔོན་ཆེན་པོ་བདག་འཚལ་ལོ་༎
+T02nagpancu:487	 prayaccha me mahāvajra kāyavākcittaśodhanam /  anādinidhanaṃ śāntaṃ sarvakleśaviśodhanam // Pk_4.15 //	T02D1802:54a-49	ཐོག་མཐའ་མེད་ཅིང་ཞི་བ་དང་༎ ཉོན་མོངས་ཐམས་ཅད་རྣམ་སྦྱོང་ཞིང་༎ ལུས་དང་ངག་དང་༄༥༤བ་སེམས་སྦྱོང་བ་༎ རྡོ་རྗེ་ཆེན་པོ་བདག་འཚལ་ལོ་༎
+T02nagpancu:489	 evamārādhito yogī sadbhūtaguṇakīrtanaiḥ /	T02D1802:54b-2	དེ་ལྟར་ཡོན་ཏན་ཡང་དག་པ་༎ བརྗོད་པས་རྣལ་འབྱོར་པས་མཉེས་བྱ་༎
+T02nagpancu:49	 stabdho mandrapracārastu sitakundendusannibhaḥ /	T02D1802:46a-24	དལ་ཞིང་རྒྱུ་བ་མེད་པའི་ཁམས་༎ དག་ཅིང་ཤེལ་ལྟར་སྣང་བ་ནི་༎
+T02nagpancu:490	 śiṣye kāruṇyamutpādya kramamevamathārabhet // Pk_4.16 //	T02D1802:54b-4	སྙིང་རྗེ་སློབ་མ་ལ་བསྐྱེད་དེ་༎ དེ་ནས་རིམ་པ་འདི་ཉིད་བརྩམ་༎
+T02nagpancu:491	 āloko rātribhāgaḥ sphuṭaravikiraṇaḥ syād divālokabhāsaḥ /	T02D1802:54b-6	མཚན་མོ་སྣང་བའི་ཆ་སྟེ་གསལ་བ་ཉི་མའི་ཟེར་འགྱེད་སྣང་བ་མཆེད་པ་ཡིན་༎
+T02nagpancu:492	 sandhyālokopalabdhaḥ prakṛtibhirasakṛd yujyate svābhiretat /	T02D1802:54b-7	མཚམས་ནི་སྣང་བ་ཐོབ་པར་རང་གི་རང་བཞིན་རྣམས་ཀྱིས་ལན་ཅིག་མིན་པར་འགྲོ་༎
+T02nagpancu:493	 no rātrirnāpi sandhyā na ca bhavati divā yaḥ prakṛtyā vimuktaḥ	T02D1802:54b-8	མཚན་མིན་ཉིན་པར་མ་ཡིན་མཚམས་མིན་གང་ཞིག་རང་བཞིན་རྣམས་དང་རྣམ་བྲལ་བ་༎
+T02nagpancu:494	 sa syād bodhikṣaṇo 'yaṃ varagurukathito yogināmeva gamyaḥ // Pk_4.17 //	T02D1802:54b-9	དེ་ནི་བྱང་ཆུབ་སྐད་ཅིག་ཡིན་པར་བླ་མ་མཆོག་བཤད་རྣལ་འབྱོར་པ་ཉིད་ཡུལ་༎
+T02nagpancu:495	 naiśaṃ dhvāntaṃ vinaṣṭaṃ vyapagatamakhilaṃ sāndhyatejastu yasmin  bhāsvānnodeti yāvat kṣaṇa iha vimale darśayed bhūtakoṭim /	T02D1802:54b-10	མཚམས་ཀྱི་མཐའ་ནི་འཇིག་མིན་མུན་ནག་ཚོགས་ནི་མ་ལུས་གང་དུ་འདས་པ་དང་༎ ཇི་སྲིད་ཉི་མ་མ་ཤར་སྐད་ཅིག་འདིར་ནི་དྲི་མེད་ཡང་དག་མཐའ་རུ་བཤད་༎
+T02nagpancu:497	 śiṣyāyācāryamukhyo vinihatatimiro bāhyasambodhidṛṣṭyā /	T02D1802:54b-11	སློབ་དཔོན་མཆོག་ནི་རབ་རིབ་བྲལ་བས་སློབ་མ་ལ་ནི་ཕྱི་རོལ་བྱང་ཆུབ་བསྟན་༎
+T02nagpancu:498	 prāpnotyadhyātmasaukhyaṃ vyapagatakaluṣaṃ buddhabodhiṃ kṣaṇena // Pk_4.18 //	T02D1802:54b-12	ནང་གི་བདེ་བ་རྙོག་བྲལ་སངས་རྒྱས་བྱང་ཆུབ་སྐད་ཅིག་དག་གིས་ཐོབ་པར་འགྱུར་༎
+T02nagpancu:5	 utpattikramasaṃsthānāṃ niṣpannakramakāṅkṣiṇām /	T02D1802:45a-9	བསྐྱེད་པའི་རིམ་ལ་ལེགས་གནས་ཤིང་༎ རྫོགས་པའི་རིམ་པ་འདོད་རྣམས་ལ་༎
+T02nagpancu:50	 maṇḍalaṃ vāruṇaṃ caitad vajranātho 'tra devatā // Pk_1.22 //	T02D1802:46a-26	ཆུ་ཡི་དཀྱིལ་འཁོར་ཉིད་ཡིན་ཏེ་༎ རྡོ་རྗེ་མགོན་པོའི་རྒྱུ་བའོ་༎
+T02nagpancu:508	 samīlitākṣo 'pi vibuddhanetraḥ samāhitaḥ sanna samāhitau'sau // Pk_4.23 //	T02D1802:54b-27	མི་ཟད་ལུས་ཐོབ་མ་ལུས་འགྲོ་བའི་རྒྱུ་༎ དེ་ནི་ཡོན་པོའི་ལུས་ཀྱང་དྲང་པོ་ཡིན་༎ སྟན་ལ་གནས་མེད་གྱུར་ཀྱང་གནས་པ་ཡིན་༎ དེ་ནི་མིག་བཙུམས་གྱུར་ཀྱང་རྣམ་རྒྱས་ཡིན་༎ དེ་ནི་མཉམ་མ་བཞག་ཀྱང་མཉམ་བཞག་ཡིན་༎
+T02nagpancu:509	 sa vāgyuto vāgasamanvito 'pi bhogānvitaḥ so 'pi virupavṛttiḥ /  sa lokanāthaḥ parabhṛtyabhūto yastattvavit kṣīṇasamastadoṣaḥ // Pk_4.24 //	T02D1802:54b-32	དེ་ནི་ཚིག་དང་ལྡན་ཡང་བརྗོད་བྲལ་ཡིན་༎ དེ་ནི་ལོངས་སྤྱོད་ལྡན་ཡང་གཟུང་བྲལ་ཡིན་༎ དེ་ནི་འཇིག་རྟེན་མགོན་ཡང་གཞན་བྲལ་འགྱུར་༎ གང་ཞིག་དེ་ཉིད་རྟོགས་ཤིང་ཉེས་ཀུན་ཟད་༎
+T02nagpancu:51	 sarvadehānugo vāyuḥ sarvaceṣṭāpravartakaḥ /	T02D1802:46a-28	ལུས་ཀུན་ལ་ནི་གནས་བའི་རླུང་༎ བྱ་བ་ཀུན་ལ་འཇུག་བ་པོ་༎
+T02nagpancu:511	 prāptopadeśakaḥ śiṣyo dvidhā yogamathābhyaset /	T02D1802:55a-0	༄༥༥ཨ་༌་༎ མན་ངག་ཐོབ་པའི་སློབ་མ་ཡིས་༎ དེ་ནས་རྣལ་འབྱོར་རྣམ་གཉིས་བསླབ་༎
+T02nagpancu:512	 piṇḍagrāhakrameṇaiva tathā caivānubhedataḥ // Pk_4.25 //	T02D1802:55a-2	རིལ་པོར་འཛིན་པའི་རིམ་པ་དང་༎ དེ་བཞིན་རྗེས་སུ་གཞིག་པའོ་༎
+T02nagpancu:513	 śirasaḥ pādato cāpi yāvaddhṛdayamāgataḥ /	T02D1802:55a-3	མགོ་བོ་ནས་ནི་རྐང་པའི་བར་༎ ཇི་སྲིད་སྙིང་གར་ཕྱིན་པའི་བར་༎
+T02nagpancu:514	 bhūtakoṭiṃ viśed yogī piṇḍagrāha iti smṛtaḥ // Pk_4.26 //	T02D1802:55a-5	རྣལ་འབྱོར་ཡང་དག་མཐའ་ལ་འཇུག་། རིལ་པོར་འཛིན་པ་ཞེས་བཤད་དོ་༎
+T02nagpancu:515	 sthāvaraṃ jaṅgamaṃ caiva pūrvaṃ kṛtvā prabhāsvaram /	T02D1802:55a-6	རྒྱུ་བ་དང་ནི་མི་རྒྱུ་ཉིད་༎ དང་པོ་འོད་གསལ་བར་བྱ་སྟེ་༎
+T02nagpancu:516	 paścāt kuryāt tathātmānam anubhedakramo hyayam // Pk_4.27 //	T02D1802:55a-8	ཕྱི་ནས་དེ་བཞིན་བདག་ཉིད་བྱེད་༎ རྗེས་སུ་གཞག་པའི་རིམ་པ་ཡིན་༎
+T02nagpancu:517	 śvāsavāto yathādarśe layaṃ gacchati sarvataḥ /	T02D1802:55a-10	དབུགས་ཀྱི་རླུང་ནི་མེ་ལོང་ལ་༎
+T02nagpancu:518	 bhūtakoṭiṃ tathā yogī praviśocca muhurmuhuḥ // Pk_4.28 //	T02D1802:55a-12	དེ་བཞིན་རྣལ་འབྱོར་ཡང་དག་མཐར་༎ ཡང་དང་ཡང་དུ་འཇུག་པར་བྱེད་༎
+T02nagpancu:519	 gacchaṃstiṣṭhan svapan bhuñjannunmiṣan nimiṣan hasan /	T02D1802:55a-14	འགྲོ་དང་འདུག་དང་ཉལ་དང་ཟ་༎ མིག་བཙུམས་འབྱེད་དང་དགོད་པ་ན་༎
+T02nagpancu:52	 vairocanasvabhāvo 'sau mṛtakāyād viniścaret // Pk_1.23 //	T02D1802:46a-30	འདི་ནི་རྣམ་སྣང་ངོ་བོ་སྟེ་༎ འཆི་བའི་ལུས་ལས་འབྱུང་བར་འགྱུར་༎
+T02nagpancu:520	 anena dhyānayogena sadā tiṣṭhati tattvavit // Pk_4.29 //	T02D1802:55a-16	བསམ་གཏན་སྦྱོར་བ་འདི་ཡིས་ནི་༎ དེ་ཉིད་རིག་པ་རྟག་ཏུ་གནས་༎
+T02nagpancu:521	 sattvārtho 'pi kadācit syāt tattatsārūpyaraśminā /  vāyuvijñānayuktena svādhiṣṭhānakrameṇa tu // Pk_4.30 //	T02D1802:55a-18	གཟུགས་བཅས་འོད་ཟེར་དེ་དང་དེ་༎ རྣམ་ཤེས་རླུང་དང་ལྡན་པ་ཡི་༎ བདག་བྱིན་བརླབ་པའི་རིམ་གྱིས་ཀྱང་༎ སེམས་ཅན་དོན་དུའང་ལན་འགའ་འགྱུར་༎
+T02nagpancu:523	 yathā nadījalāt svacchānmīnamuttiṣṭhate drutam /	T02D1802:55a-22	ཇི་ལྟར་དང་བའི་ཆུ་ཀླུང་ལས་༎ ཉ་དག་མྱུར་དུ་ལྡང་བ་ལྟར་༎
+T02nagpancu:524	 sarvaśūnyāt tathā svacchānmāyājālamudīryate // Pk_4.31 //	T02D1802:55a-24	དེ་བཞིན་ཐམས་ཅད་སྟོང་གསལ་ལས་༎ སྐྱུ་འཕྲུལ་དྲ་བ་འབྱུང་བར་འགྱུར་༎
+T02nagpancu:525	 pañcabuddhakulāyattā mahāmudrādikalpanā /	T02D1802:55a-26	རིགས་ལྔའི་སངས་རྒྱས་ལ་ལྟོས་པའི་༎ ཕྱག་རྒྱ་ཆེན་པོར་བརྟག་པ་ནི་༎
+T02nagpancu:526	 pañcaraśmisamucchreyā gagane śakracāpavat // Pk_4.32 //	T02D1802:55a-28	འོད་ཟེར་ལྔ་ཡི་འབྱུང་བ་དག་། ནམ་མཁའི་འཇའ་ཚོན་དག་དང་མཚུངས་༎
+T02nagpancu:527	 mudrābandhaṃ prakuryād vā mantraṃ cāpi japed yadi /	T02D1802:55a-29	ཕྱག་རྒྱ་འཆིང་བར་བྱེད་བའམ་༎ གལ་ཏེ་གསང་སྔགས་ཟློས་པའམ་༎
+T02nagpancu:528	 sarvamanyat prakuryācca sarvaśūnyapade sthitaḥ // Pk_4.33 //	T02D1802:55a-31	གང་གཞན་ཐམས་ཅད་བྱེད་པ་ན་༎ ཐམས་ཅད་སྟོང་པའི་གཞི་ལ་གནས་༎
+T02nagpancu:529	 sarvabhuk sarvapaścaiva sarvavandī ca sarvagaḥ /	T02D1802:55a-33	ཐམས་ཅད་ཟ་ཞིང་ཀུན་ལ་ལྟ་༎ ཀུན་ལ་ཕྱག་བྱེད་ཀུན་དུ་འགྲོ་༎
+T02nagpancu:53	 vāyutattvamidaṃ vyaktaṃ pañcajñānasvabhāvakam /	T02D1802:46a-32	རླུང་གི་དེ་ཉིད་གསལ་བ་འདི་༎ ཡེ་ཤེས་ལྔ་ཡི་ངོ་བོ་ཉིད་༎
+T02nagpancu:530	 sarvakṛt sarvaliṅgī ca sarvaśūnyena sidhyati // Pk_4.34 //	T02D1802:55a-35	ཐམས་ཅད་བྱེད་པའི་མཚན་མ་ཅན་༎ ཐམས་ཅད་སྟོང་པས་འགྲུབ་པར་འགྱུར་༎
+T02nagpancu:531	 prāptopadeśaḥ subhagaḥ suśiṣyo baudhau hi cittaṃ paramārthanāma /	T02D1802:55a-37	བྱང་ཆུབ་སེམས་ནི་དོན་དམ་ཞེས་བྱ་བ་༎ སྐལ་བཟང་སློབ་མ་བཟང་པོས་མན་ངག་ཐོབ་༎
+T02nagpancu:532	 guroḥ sakāśāt punarādadīta kṛtāñjalirdhāritapuṣpahastaḥ // Pk_4.35 //	T02D1802:55a-39	ཐལ་མོ་སྦྱར་ནས་མེ་ཏོག་འཛིན་པ་ཡི་༎ བླ་མ་ལས་ནི་སླར་ཡང་བླང་བར་བྱ་༎
+T02nagpancu:533	 sarvabhāvavigataṃ skandhadhātvāyatanagrāhyagrāhakavarjitaṃ dharmanairātmyasamatayā svacittam ādyanutpannaṃ śūnyatāsvabhāvamiti /	T02D1802:55a-41	དངོས་པོ་ཀུན་དང་རྣམ་བྲལ་ཞིང་༎ ཕུང་པོ་ཁམས་དང་སྐྱེ་མཆེད་དང་༏་། གཟུང་དང་འཛིན་པ་རྣམ་སྤངས་པ་༎ ཆོས་བདག་མེད་དང་མཉམ་མེད་པ་༎ རང་སེམས་གཟོད་ནས་མ་སྐྱེས་པ་༎ སྟོང་པ་ཉིད་ཀྱི་ངོ་བོ་ཉིད་༎
+T02nagpancu:534	 tatastu gurave dadyād dakṣiṇāṃ tvanurūpataḥ /	T02D1802:55a-46	དེ་ནས་རྗེས་སུ་མཐུན་པའི་ཡོན་༎ བླ་མ་ལ་ནི་དབུལ་བྱ་སྟེ་༎
+T02nagpancu:535	 ratnaṃ gṛhaṃ vā hastyaśvaṃ grāmaṃ vā śayanāsanam // Pk_4.36 //	T02D1802:55a-48	རིན་ཆེན་ཁྱིམ་དང་གླང་པོ་རྟ་༎ ཡུལ་དང་མལ་སྟན་དག་དང་ནི་༎
+T02nagpancu:536	 dāsaṃ dāsīṃ priyāṃ bhāryāṃ putrīṃ cāpyativarṇabhām /	T02D1802:55b-0	བྲན་ཕོ་བྲན་༄༥༥བ་ཆུང་མ་སྡུག་། བུ་མོ་ཤིན་ཏུ་ཡིད་འོང་དང་༎ གང་གིས་བདག་ཀྱང་དབུལ་བྱ་ན་༎
+T02nagpancu:537	 ātmānaṃ cāpi yaddadyāt kimanyadavaśiṣyate // Pk_4.37 //	T02D1802:55b-1	ལྷག་མ་རྣམས་ལྟ་སྨོས་ཅི་དགོས་༎
+T02nagpancu:538	 prāptācāryaprasādo vimaladṛḍhamatiḥ sarvabhāvasvabhāvaḥ  svacchaṃ śuddhaṃ susūkṣmaṃ paramaśivamayaṃ buddhanirvāṇadhātum /	T02D1802:55b-2	སློབ་དཔོན་ལ་ནི་དྲིན་ཐོབ་དྲི་མེད་བརྟན་པའི་བློ་ལྡན་དངོས་ཀུན་བདག་། གསལ་དག་ཤིན་ཏུ་ཕྲ་བ་མཆོག་ཞིའི་རང་བཞིན་སངས་རྒྱས་མྱ་ངན་འདས་པའི་ཁམས་༎
+T02nagpancu:54	 tārkikā na prajānanti agamyaṃ bālayoginām // Pk_1.24 //	T02D1802:46a-34	རྣལ་འབྱོར་བྱིས་པའི་ཡུལ་མིན་ཞིང་༎ རྟོག་གེ་བ་ཡིས་མི་ཤེས་སོ་༎
+T02nagpancu:540	 nirdvandvaṃ nirvikalpaṃ satatasukhamayaṃ bhāvayet tattvayogī	T02D1802:55b-3	གཉིས་མེད་རྟོག་བྲལ་རྟག་ཏུ་བདེ་བའི་རང་བཞིན་དེ་ཉིད་རྣལ་འབྱོར་པས་བསྒོམ་བྱ་༎
+T02nagpancu:541	 puṇyāpuṇyād vimuktaḥ svayamiha bhagavān jāyate vajrasattvaḥ // Pk_4.38 //	T02D1802:55b-4	བསོད་ནམས་བསོད་ནམས་མིན་གྲོལ་རང་ཉིད་འདིར་ནི་བཅོམ་ལྡན་རྡོ་རྗེ་སེམས་དཔའི་འགྱུར་༎
+T02nagpancu:542	 / paramarahasyasukhābhisambodhikramaścaturthaḥ samāptaḥ //  kṛtiriyam ācāryanāgārjunapādānām /	T02D1802:55b-5	མཆོག་ཏུ་གསང་བའི་བདེ་བ་མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པ་སྟེ་སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པ་སྟེ་རིམ་པ་བཞི་པའོ་།
+T02nagpancu:548	 praṇamya likhyate samyag yuganaddhakramottamaḥ // Pk_5.1 //	T02D1802:55b-8	ཕྱག་འཚལ་ནས་ནི་ཟུང་འཇུག་པའི་༎ རིམ་པ་ཐ་མ་བྲི་བར་བྱ་༎
+T02nagpancu:549	 saṃsāro nirvṛtiśceti kalpanādvayavarjanāt /	T02D1802:55b-10	འཁོར་བ་དང་ནི་མྱ་ངན་འདས་༎ རྟོག་པ་གཉིས་པོ་སྤངས་པས་ན་༎ གང་དུ་དངོས་པོ་གཅིག་གྱུར་པ་༎ ཟུང་དུ་འཇུག་ཅེས་དེ་ལ་བཤད་༎
+T02nagpancu:55	 ityevaṃ vāyuttatvaṃ pratipādyedānīṃ mantratattvasyoddeśapadaṃ mūlasūtrādavatāryate-	T02D1802:46a-36	དེ་ལྟར་རླུང་གི་དེ་ཁོ་ན་ཉིད་བསྟན་ནས་། ད་ནི་སྔགས་ཀྱི་དེ་ཁོ་ན་ཉིད་སྟོན་པའི་ཚིག་རྩ་བའི་རྒྱུད་ཉིད་ལ་འཇུག་པར་བྱ་སྟེ་།
+T02nagpancu:551	 saṅkleśaṃ vyavadānaṃ ca jñātvā tu paramārthataḥ /	T02D1802:55b-14	ཀུན་ཉོན་མོངས་དང་རྣམ་པར་བྱང་༎ དོན་དམ་ཉིད་དུ་ཤེས་ནས་ནི་༎
+T02nagpancu:552	 ekībhāvaṃ tu yo vettiṃ sa vetti yuganaddhakam // Pk_5.3 //	T02D1802:55b-16	གང་གིས་གཅིག་ཏུ་ཤེས་གྱུར་པ་༎ དེ་ཡིས་ཟུང་དུ་འཇུག་པར་ཤེས་༎
+T02nagpancu:553	 sākārabhāvasaṅkalpaṃ nirākāratvakalpanām /	T02D1802:55b-18	དངོས་པོ་རྣམ་བཅས་ཀུན་རྟོག་དང་༎ དངོས་པོ་མེད་པར་རྟོག་པ་དག་། དངོས་བོ་མེད་པར་རྟོག་པ་དག་། རྣལ་འབྱོར་པས་ནི་ཅིག་ཅར་སྤྱོད་༎
+T02nagpancu:554	 ekīkṛtya cerad yogī sa vetti yuganaddhakam // Pk_5.4 //	T02D1802:55b-19	དེ་ནི་ཟུང་འཇུག་ཤེས་པའོ་༎
+T02nagpancu:555	 grāhyaṃ ca grāhakaṃ caiva dvidhā buddhirna vidyate /	T02D1802:55b-20	གཟུང་བ་དང་ནི་འཛིན་པ་ཞེས་༎ རྣམ་གཉིས་བློ་ནི་ཡོད་མིན་གྱི་༎
+T02nagpancu:556	 abhinnatā bhaved yatra tadāha yuganaddhakam // Pk_5.5 //	T02D1802:55b-22	གང་དུ་མི་ཕྱེད་བློ་ཡོད་པ་༎ དེ་ནི་ཟུང་འཇུག་ཅེས་བྱར་བཤད་༎
+T02nagpancu:557	 śāśvatocchedabuddhī tu yaḥ prahāya pravartate /  yuganaddhakramākhyaṃ vai tattvaṃ vetti sa paṇḍitaḥ // Pk_5.6 //	T02D1802:55b-24	རྟག་དང་ཆད་པའི་བློ་དག་ནི་༎ གང་གིས་སྤངས་ནས་གནས་པ་ཡི་༎ ཟུང་དུ་འཇུག་པའི་རིམ་འདི་ཡི་༎ དེ་ཉིད་ཤེས་ཏེ་མཁས་པ་ཡིན་༎
+T02nagpancu:559	 prajñākaruṇayoraikyaṃ jñātvā yatra pravartate /	T02D1802:55b-28	ཤེས་རབ་སྙིང་རྗེ་གཅིག་པར་ནི་༎ ཤེས་ནས་གང་དུ་འཇུག་གྱུར་པ་༎
+T02nagpancu:56	 sarvatathāgatakāyavākcittarahasyaṃ sarvatantrahṛdayasañcodanaṃ nāma paramaguhyaṃ svakāyavākcittavajrebhyo vākpathaniruktyā mantrasamuccayamudājahāra oṃ āḥ hūṃ /	T02D1802:46a-38	དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྐུ་དང་གསུང་དང་ཐུགས་ཀྱི་གསང་སྔགས་ཐམས་ཅད་ཀྱི་སྙིང་པོ་ཀུན་དུ་སྐུལ་བར་བྱེད་བ་ཞེས་བྱ་བ་མཆོག་ཏུ་གསང་བ་ཉིད་ཀྱི་སྐུ་དང་གསུང་དང་ཐུགས་རྡོ་རྗེ་ལས་ཚིག་གི་ལམ་ངེས་བར་བརྗོད་པས་སྔགས་བསྡུས་པ་འདེ་ལྟ་བུ་གསུངས་སོ་༎
+T02nagpancu:560	 yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ // Pk_5.7 //	T02D1802:55b-30	ཟུང་འཇུག་ཅེས་བྱར་བཤད་པ་སྟེ་༎ རིམ་འདི་སངས་རྒྱས་སྤྱོད་ཡུལ་ལོ་༎
+T02nagpancu:561	 prajñopāyasamāpattyā jñātvā sarvaṃ samāsataḥ /	T02D1802:55b-32	ཐབས་དང་ཤེས་རབ་སྙོམས་འཇུག་པར་༎ ཐམས་ཅད་བསྡུས་ལས་ཤེས་གྱུར་པ་༎
+T02nagpancu:562	 yatra sthito mahāyogī tad bhaved yuganaddhakam // Pk_5.8 //	T02D1802:55b-34	རྣལ་འབྱོར་ཆེན་པོ་གང་དུ་གནས་༎ དེ་ནི་ཟུང་དུ་འཇུག་པར་འགྱུར་༎
+T02nagpancu:563	 yatra sopadhiśeṣaṃ ca tathānupadhiśeṣakam /	T02D1802:55b-36	གང་དུ་ལྷག་མར་བཅས་པ་དང་༎ དེ་བཞིན་ལྷག་མ་མེད་པ་ཞེས་༎
+T02nagpancu:564	 ityevaṃ kalpanā nāsti tat taddhi yuganaddhakam // Pk_5.9 //	T02D1802:55b-37	འདི་ལྟའི་རྟོག་པ་མེད་གྱུར་པ་༎ དེ་ནི་ཟུང་དུ་འཇུག་པའོ་༎
+T02nagpancu:565	 yatra pudgalanairātmyaṃ dharmanairātmyamityapi /	T02D1802:55b-39	གང་དུ་གང་ཟག་བདག་མེད་དང་༎ ཆོས་ལ་བདག་མེད་པ་དག་གོ་། རྟོག་པ་གཉིས་ལས་རྣམ་གྲོལ་བ་༎
+T02nagpancu:566	 kalpanāyā viviktatvaṃ yuganaddhasya lakṣaṇam // Pk_5.10 //	T02D1802:55b-40	ཟུང་དུ་འཇུག་པའི་མཚན་ཉིད་དོ་༎
+T02nagpancu:567	 jñātvā krameṇa tattvajñaḥ svādhiṣṭhānaprabhāsvaram /	T02D1802:55b-41	དེ་ཉིད་ཤེས་པའི་རིམ་ཤེས་ནས༎ ༄༥༦ཨ་༌་༎ བདག་བྱིན་བརླབ་པའི་འོད་གསལ་ལ་༎
+T02nagpancu:568	 tayoreva samājaṃ yad yuganaddhakramo hyayam // Pk_5.11 //	T02D1802:56a-1	དེ་ཉིད་ལ་ནི་འདུས་པ་གང་༎ ཟུང་དུ་འཇུག་པའི་རིམ་འདི་ཡིན་༎
+T02nagpancu:570	 utthānaṃ ca tato yatra samantād yuganaddhakam // Pk_5.12 //	T02D1802:56a-3	རིལ་པོར་འཛིན་དང་རྗེས་ཞིག་དང་༎ འཇུག་དང་དེ་བཞིན་གནས་པ་དང་༎ དེ་ནས་གང་དུ་ལྡང་གྱུར་པ་༎ མཉམ་གྱུར་ཟུང་དུ་འཇུག་པའོ་༎
+T02nagpancu:571	 saṃvṛtiṃ paramārthaṃ ca pṛthag jñātvā vibhāgataḥ /	T02D1802:56a-5	ཀུན་རྫོབ་དང་ནི་དོན་དམ་དག་། སོ་སོའི་ཆར་ནི་ཤེས་གྱུར་པ་༎
+T02nagpancu:572	 saṃmīlanaṃ bhaved yatra yuganaddhaṃ taducyate // Pk_5.13 //	T02D1802:56a-6	གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ་༎ ཟུང་དུ་འཇུག་པར་དེ་བཤད་དོ་༎
+T02nagpancu:573	 tathātalambanaṃ naiva vyutthānaṃ yatra naiva hi /	T02D1802:56a-8	དེ་བཞིན་ཉིད་ལ་དམིགས་ཉིད་དང་༎ གང་དུ་ལྡང་བར་གྱུར་པ་ནི་༎
+T02nagpancu:574	 yuganaddhaṃ bhavet tacca yogināṃ padamavyayam // Pk_5.14 //	T02D1802:56a-9	ཟུང་དུ་འཇུག་པ་དེ་ཡིན་ཏེ་༎ མི་ཟད་རྣལ་འབྱོར་པ་ཡི་གནས་༎
+T02nagpancu:575	 suptaḥ prabuddha ityetadavasthādvayavarjitam /	T02D1802:56a-11	གཉིད་ལོག་དང་ནི་སད་པ་སྟེ་༎ གནས་སྐབས་དེ་གཉིས་སྤངས་པ་ནི་༎
+T02nagpancu:576	 yuganaddhaṃ vadecchāstā svāpabodhavivarjitam // Pk_5.15 //	T02D1802:56a-13	གཉིད་ལོག་སད་དང་རྣམ་བྲལ་བ་༎ ཟུང་འཇུག་ཡིན་པར་སྟོན་པས་གསུངས་༎
+T02nagpancu:578	 yuganaddhe sthito yogī bhāvābhāvavivarjitaḥ // Pk_5.16 //	T02D1802:56a-15	མཉམ་པར་བཞག་དང་མ་བཞག་པ་༎ གང་ལ་འདི་དག་ཐམས་ཅད་མེད་༎ དངོས་དང་དངོས་མེད་རྣམ་སྤངས་པ་༎ རྣལ་འབྱོར་པ་ནི་ཟུང་འཇུག་གནས་༎
+T02nagpancu:579	 asmṛtismṛtinirmuktaḥ satatodayalakṣaṇaḥ /	T02D1802:56a-19	དྲན་དང་མི་དྲན་ལས་གྲོལ་ཞིང་༎ རྟག་ཏུ་འབྱུང་བའི་མཚན་ཉིད་ཅན་༎
+T02nagpancu:580	 vicaredicchayā yogī yuganaddhakrame sthitaḥ // Pk_5.17 //	T02D1802:56a-21	རྣལ་འབྱོར་བ་ནི་འདོད་བཞིན་སྤྱོད་༎ ཟུང་འཇུག་རིམ་པ་ལ་གནས་པའོ་༎
+T02nagpancu:581	 rāgārāgavinirmuktaḥ paramānandamūrtimān /	T02D1802:56a-23	ཆགས་དང་ཆགས་མིན་ལས་གྲོལ་ཞིང་༎ མཆོག་ཏུ་དགའ་བའི་ལུས་དང་ལྡན་༎
+T02nagpancu:582	 āsaṃsāraṃ sthitiṃ kuryād yuganaddhavibhāvakaḥ // Pk_5.18 //	T02D1802:56a-25	འཁོར་བ་སྲིད་དུ་གནས་བྱེད་པ་༎ ཟུང་འཇུག་རྣམ་པར་བསྒོམ་པའོ་༏
+T02nagpancu:583	 kāryaṃ ca kāraṇaṃ caiva kṛtvābhinnaṃsvabhāvataḥ /	T02D1802:56a-27	། བྱ་བ་དང་ནི་བྱེད་པ་དང་༎ མི་བྱེད་པ་ཡི་ངོ་བོ་ཉིད་༎
+T02nagpancu:584	 yā sthitiryogināṃ buddhā yuganaddhaṃ vadanti tat // Pk_5.19 //	T02D1802:56a-28	གནས་གང་རྣལ་འབྱོར་པས་ཤེས་པ་༎ ཟུང་དུ་འཇུག་པར་དེ་བཤད་དོ་༎
+T02nagpancu:585	 utpattikrama eko 'yam utpannakrama ityapi /	T02D1802:56a-30	བསྐྱེད་པའི་རིམ་པ་འདི་གཅིག་ཡིན་༎
+T02nagpancu:586	 ekatvaṃ tu dvayoryatra yuganaddhastaducyate // Pk_5.20 //	T02D1802:56a-31	གཞན་ཡང་རྫོགས་པའི་རིམ་པ་དག་། གཉིས་པོ་གང་དུ་གཅིག་གྱུར་པ་༎ དེ་ནི་ཟུང་དུ་འཇུག་པར་བཤད་༎
+T02nagpancu:587	 devatā pariśuddheyam aśuddheyaṃ bhavediti /	T02D1802:56a-33	ཡོངས་སུ་དག་པའི་ལྷ་དང་ནི་༎ འདིར་ནི་མ་དག་པར་གྱུར་ཞེས་༎
+T02nagpancu:588	 iti yā kalpanābhinnā yatra tad yuganaddhakam // Pk_5.21 //	T02D1802:56a-35	གང་ཞིག་མི་ཕྱེད་པར་རྟོག་པ་༎ གང་ཡིན་དེ་ནི་ཟུང་འཇུག་པའོ་༎
+T02nagpancu:589	 rūpīti cāpyarūpīti kalpanādvayavarjanāt /  yaḥśāntiṃ vetti yogīndraḥ sa prāpto yuganaddhakam // Pk_5.22 //	T02D1802:56a-37	གཟུགས་ཅན་དང་ནི་གཟུགས་མེད་ཅེས་༎ རྟོག་པ་གཉིས་པོ་སྤངས་པས་ན་༎ གང་ཞིག་ཞི་རྟོགས་རྣལ་འབྱོར་དབང་༎ དེ་ནི་ཟུང་འཇུག་ཐོབ་པའོ་༎
+T02nagpancu:591	 evaṃ vai yaḥ sthito yogī yuganaddhakrame sthitaḥ /	T02D1802:56a-41	ད་ལྟར་གང་གནས་རྣལ་འབྱོར་པའོ་༎ ཟུང་འཇུག་རིམ་ལ་གནས་པ་སྟེ་༎
+T02nagpancu:592	 ucyate sa hi sarvajñaḥ tattvadarśī ca viśvadhṛk // Pk_5.23 //	T02D1802:56a-43	དེ་ནི་ཀུན་མཁྱེན་དེ་ཉིད་མཐོང་༎ སྣ་ཚོགས་འཛིན་ཅེས་བརྗོད་པ་ཡིན་༎
+T02nagpancu:593	 māyājālābhisambuddhaḥ saṃsārārṇavapāragaḥ /	T02D1802:56a-45	སྒྱུ་འཕྲུལ་དྲ་བས་མངོན་སངས་རྒྱས་༎ འཁོར་བའི་རྒྱ་མཚོའི་ཕ་རོལ་སོ་ན་༎
+T02nagpancu:594	 kṛtakṛtyo mahāyogī satyadvayanaye sthitaḥ // Pk_5.24 //	T02D1802:56a-47	བྱ་བ་བྱས་པའི་རྣལ་འབྱོར་ཆེ་༎ བདེན་པ་གཉིས་ཀྱི་ཚུལ་ལ་གནས་༎
+T02nagpancu:595	 etadevādvayaṃ jñānam apratiṣṭhitanirvṛtiḥ /	T02D1802:56b-0	དེ་༄༥༦བ་ཉིད་གཉིས་མེད་ཡེ་ཤེས་ཏེ་༎ མི་གནས་མྱ་ངན་འདས་པ་ཡིན་༎
+T02nagpancu:596	 buddhatvaṃ vajrasattvatvaṃ sarvaiśvaryaṃ tathaiva ca // Pk_5.25 /	T02D1802:56b-2	སངས་རྒྱས་རྡོ་རྗེ་སེམས་དཔའ་ཉིད་༎ དེ་བཞིན་ཀུན་གྱི་དབང་ཕྱུག་ཡིན་༎
+T02nagpancu:597	 vajropamasamādhistu niṣpannakrama eva ca /	T02D1802:56b-4	རྡོ་རྗེ་ལྟ་བུའི་ཏིང་འཛིན་ཡང་༎ རྫོགས་པའི་རིམ་གནས་དེ་ཉིད་དེ་༎
+T02nagpancu:598	 vajropamasamādhiścāpyadvayaṃ tacca kathyate // Pk_5.26 //	T02D1802:56b-6	སྒྱུ་མ་ལྟ་བུའི་ཏིང་འཛིན་དང་༎ གཉིས་སུ་མེད་པར་དེ་བཤད་དོ་༎
+T02nagpancu:599	 anutpādādayaḥ śabdā advayajñānasūcakāḥ /	T02D1802:56b-7	སྒྲ་གང་སྐྱེ་མེད་ལ་སོགས་པ་༎ གཉིས་མེད་ཡེ་ཤེས་སྟོན་པ་རྣམས་༎
+T02nagpancu:6	 upāyaścaiṣa saṃbuddhaiḥ sopānamiva nirmitaḥ // Pk_1.2 //	T02D1802:45a-11	ཐབས་འདི་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་༎ སྐས་ཀྱི་རིམ་པ་ལྟ་བུར་གསུངས་༎
+T02nagpancu:600	 asyaiva vācakāḥ sarve nānyat tatrābhidhīyate // Pk_5.27 //	T02D1802:56b-9	ཐམས་ཅད་འདི་ཡི་ཚིག་ཡིན་ཏེ་༎ དེར་ནི་གཞན་དག་མེད་པར་བཤད་༎
+T02nagpancu:601	 mahāmudrātmikāṃ siddhiṃ sadasatpakṣavarjitām /  anenaiva gatā buddhā gaṅgāyāḥ sikatopamāḥ // Pk_5.28 //	T02D1802:56b-11	གངགའ་ཀླུང་གི་བྱེ་སྙེད་ཀྱི་༎ སངས་རྒྱས་རྣམས་ཀྱིས་འདི་དག་ཉིད་༎ ཐུགས་ཆུད་ཡོད་མེད་ཕྱོགས་སྤངས་པ་༎ ཕྱག་རྒྱ་ཆེན་པོའི་བདག་ཉིད་སྒྲུབ་༎
+T02nagpancu:603	 ghaṭamāno mahāyogī yuganaddhapade sthitaḥ /	T02D1802:56b-15	ཟུང་འཇུག་གོ་འཕང་ལ་གནས་པའི་༎ སློབ་བཞིན་པ་ཡི་རྣལ་འབྱོར་ཆེ་༎
+T02nagpancu:604	 bhāvayed yuganaddhaṃ tu caryāṃ cāpi tadanvayām // Pk_5.29 //	T02D1802:56b-17	ཟུང་དུ་འཇུག་པ་བསྒོམས་གྱུར་པས་༎ སྤྱོད་པའང་དེ་དང་གཉིས་སུ་མེད་༎
+T02nagpancu:605	 yathātmani tathā śatrau yathā bhāryā tathātmajā /  yathā mātā tathā vaiśyā yathā ḍombī tathā dvijā // Pk_5.30 //	T02D1802:56b-19	ཇི་ལྟར་བདག་ཉིད་དེ་བཞིན་དགྲ་༎ ཆུང་མ་དེ་བཞིན་མནའ་མ་དང་༎ ཇི་ལྟར་སྨད་འཚོང་དེ་བཞིན་མ་༎ ཇི་ལྟར་བྲམ་ཟེ་དེ་བཞིན་གདོལ་༎
+T02nagpancu:607	 yathā vastraṃ tathā carma yathā ratnaṃ tathā tuṣam /	T02D1802:56b-22	ཇི་ལྟར་པགས་པ་དེ་བཞིན་གོས་༎ ཇི་ལྟར་རིན་ཆེན་ཕུབ་མ་དང་༎ ཇི་ལྟར་ཆང་དང་དེ་བཞིན་གཅི་༎
+T02nagpancu:608	 yathā mūtraṃ tathā madyaṃ yathā bhaktaṃ tathā śakṛt // Pk_5.31 //	T02D1802:56b-24	ཇི་ལྟར་བཟའ་བ་དེ་བཞིན་བཤད་༎
+T02nagpancu:609	 yathā sugandhi karpūraṃ tathā gandhamamedhyajam /	T02D1802:56b-25	ཇི་ལྟར་དྲི་བཟང་ག་པུར་དག་། དེ་བཞིན་བཤང་ལས་བྱུང་བའི་དྲི་༎
+T02nagpancu:610	 yathā stutikaraṃ vākyaṃ tathā vākyaṃ jugupsitam // Pk_5.32 //	T02D1802:56b-26	ཇི་ལྟར་བསྟོད་པ་བྱེད་པའི་ཚིག་། དེ་བཞིན་དུ་ནི་སྨོད་པའི་ཚིག་། དྲག་པོ་རྡོ་རྗེ་ཅན་དེ་བཞིན་༎
+T02nagpancu:611	 yathā rudrastathā vajrī yathā rātrīstathā divā /	T02D1802:56b-27	ཇི་ལྟར་ཉིན་མོ་དེ་བཞིན་མཚན་༎
+T02nagpancu:612	 yathā svapnaṃ tathā dṛṣṭaṃ yathā naṣṭaṃ tathā sthitam // Pk_5.33 //	T02D1802:56b-28	ཇི་ལྟར་རྨི་ལམ་དེ་བཞིན་མཐོང་༎ ཇི་ལྟར་འཇིག་པ་དེ་བཞིན་གནས་༎
+T02nagpancu:613	 yathā saukhyaṃ tathā duḥkhaṃ yathā duṣṭastathā sutaḥ /	T02D1802:56b-30	ཇི་ལྟར་བདེ་བ་དེ་བཞིན་སྡུག་། ཇི་ལྟར་སྡང་བ་དེ་བཞིན་བུ་༎
+T02nagpancu:614	 yathāvīcistathā svargastathā puṇyaṃ tu pāpakam // Pk_5.34 //	T02D1802:56b-31	མནར་མེད་མཐོ་རིས་དེ་བཞིན་ཏེ་༎ དེ་བཞིན་སྡིག་དང་བསོད་ནམས་སོ་༎
+T02nagpancu:615	 evaṃ jñātvā cared jñānī nirviśaṅkastu sarvakṛt /	T02D1802:56b-33	དེ་ལྟར་ཤེས་ནས་ཡེ་ཤེས་ཅན་༎ རྟོག་པ་མེད་པར་ཐམས་ཅད་བྱེད་༎
+T02nagpancu:616	 pracchannavratamāsādya sidhyante sarvasampadaḥ // Pk_5.35 //	T02D1802:56b-35	སྤས་པའི་བརྟུལ་ཞུགས་ཀུན་བསྒྲུབས་ན་༎ ཕུན་སུམ་ཚོགས་པ་ཐམས་ཅད་འགྲུབ་༎
+T02nagpancu:617	 prakāśya puṇyaṃ yat prāptaṃ pañcakramamanuttaram /	T02D1802:56b-37	མཆོག་གྱུར་རིམ་པ་ལྔ་པ་འདི་༎
+T02nagpancu:67	 sādhanopāyitāmātraṃ jñātvā tantre vipañcitam // Pk_1.29 //	T02D1802:46b-13	སྒྲུབ་པ་ཡི་ནི་ཐབས་ཙམ་ཞིག་། ཤེས་ནས་རྒྱུད་རྣམས་འཆད་པར་བྱེད་༎
+T02nagpancu:68	 ācāryā vayamityevaṃ vadantyāgāmikā vibho /	T02D1802:46b-14	འདི་ལྟར་བདག་ནི་སློབ་དཔོན་ཞེས་༎ མ་འོངས་པ་ན་སྨྲ་པར་འགྱུར་༎
+T02nagpancu:69	 yad vākyaṃ mametyevamuktvā kṣipanti bāliśāḥ /  sandhyāya bodhicittaṃ te na vidanti yathārthataḥ // iti / Pk_1.30 //	T02D1802:46b-16	བདག་གི་ཚིག་ནི་འདི་ཉིད་དག་། ཡིན་ཞེས་སྨྲ་ཞིང་བྱིས་བ་འཇིག་། དེ་ནི་དགོངས་བའི་བྱང་ཆུབ་སེམས་༎ ཇི་བཞིན་དོན་དུ་མི་ཤེས་སོ་༎
+T02nagpancu:7	 prāṇabhūtaśca sattvānāṃ vāyvākhyaḥ sarvakarmakṛt /	T02D1802:45a-13	སེམས་ཅན་རྣམས་ཀྱི་སྲོག་གྱུར་པ་༎ རླུང་ཞེས་བྱ་བ་ལས་ཀུན་བྱེད་༎
+T02nagpancu:71	 yathedaṃ bhagavān svāmī mahāvairocano vibhuḥ /	T02D1802:46b-18	དེ་ནས་བདག་པོ་བཅོམ་ལྡན་འདས༎ རྣམ་པར་སྣང་མཛད་ཐུབ་ཆེན་གྱིས་༎
+T02nagpancu:72	 triṣkṛtvā sādhuvacanaṃ vajrapāṇiṃ vadedidam // Pk_1.31 //	T02D1802:46b-20	ལེགས་ཞེས་ལན་གསུམ་གསུངས་མཛད་ནས་༎ ལག་ན་རྡོ་རྗེ་ལ་འདི་གསུངས་༎
+T02nagpancu:73	 kathayamāmi prabhedena nirvikalpārthatattvataḥ /	T02D1802:46b-22	མི་རྟོག་དོན་གྱི་དེ་ཉིད་ནི་༎ རབ་ཏུ་ཕྱེ་ནས་བཤད་པར་བྱ་༎
+T02nagpancu:74	 pravyāhāropalambhākhyaṃ sāṅketaṃ pāramārthikam // Pk_1.32 //  pravyāhāro hi sāmānyaṃ buddharūpopalambhakam /	T02D1802:46b-24	བརྗོད་དང་དམིགས་པར་བཅས་པ་དང་༎ བརྡར་གྱུར་དང་ནི་དོན་དམ་མོ་༎ ཚིག་གི་བརྗོད་པ་ཐུན་མོང་སྟེ་༎ དམིགས་པར་བཅས་པ་སངས་རྒྱས་ཉིད་༎
+T02nagpancu:76	 sāṅketaṃ mantratattvākhyaṃ tathatā pāramārthikam // Pk_1.33 //	T02D1802:46b-27	སྔགས་ཀྱི་དེ་ཉིད་བརྡ་རུ་བཤད་༎ དོན་དམ་དེ་བཞིན་ཉིད་ཡིན་ནོ་༎
+T02nagpancu:77	 ekādirnavamadhye tu daśabhiryo na badhyate /	T02D1802:46b-29	དང་པོ་གཅིག་ནི་དགུ་དབུས་ན་༎ གང་ཞིག་བཅུ་ཡིས་མ་བཅིངས་པ་༎
+T02nagpancu:78	 tamabaddhaṃ vijānīyāt sa vetti parasampadam // Pk_1.34 //	T02D1802:46b-31	དེ་ཉིད་བཅིང་མེད་ཅེས་བྱ་སྟེ་༎ དེ་ཤེས་བ་ནི་མཆོག་གི་གནས་༎
+T02nagpancu:79	 svaravyañcanavarṇāśca navasaṃkhyānuvartinaḥ /	T02D1802:46b-33	དབྱངས་དང་གསལ་བྱེད་ཡི་གེ་སྟེ༎ གྲངས་དགུ་ཡི་ནི་རྗེ་འཇུག་པ་༎ ཨཨས་བཅིངས་ཕན་ཚུན་ཡང་དག་སྦྱོར་༎
+T02nagpancu:8	 vijñānavāhanaścaiṣa pañcātmā daśadhā punaḥ // Pk_1.3 //	T02D1802:45a-15	འདི་ནི་རྣམ་ཤེས་བཞོན་པ་སྟེ་༎ ལྔ་ཡི་བདག་ཉིད་བཅུ་མིང་ཅན་༎
+T02nagpancu:80	 ' abaddhānyonyasaṃyoogād yo vetti sa jagadguruḥ // Pk_1.35 //	T02D1802:46b-36	གང་གིས་ཤེས་དེ་འགྲོ་བའི་བླ་༎
+T02nagpancu:81	 bhūtāntena samāyuktaṃ kalādiṣoḍaśe sthitam /	T02D1802:46b-37	འབྱུང་བའི་མཐའ་དང་ཡང་དག་ལྡན་༎ ཆ་ལ་སོགས་པ་བཅུ་དྲུག་གནས་༎
+T02nagpancu:82	 pañcapañcakasaṃyuktaṃ catustrayaniyojitam // Pk_1.36 //	T02D1802:46b-39	ལྔ་པ་ལྔ་དང་ཡང་དག་ལྡན་༎ བཞི་ནི་གསུམ་དུ་ངེས་པར་སྦྱར་༎
+T02nagpancu:84	 hrasvaṃ samastavākyaṃ syānna cānekaṃ na caikakam // Pk_1.37 //	T02D1802:46b-43	ཐུང་དུ་མ་ལས་དག་ཏུ་འགྱུར་༎ གཅིག་མིན་དུ་མའང་མ་ཡིན་ན་༎
+T02nagpancu:85	 ye varṇāḥ pṛṣṭhataḥ proktā abhimukhāśca ye punaḥ /	T02D1802:46b-45	ཡི་གེ་གང་ཞིག་སྡར་བཤད་པ་༎ གང་ཡང་མངོན་པར་ཕྱོགས་པ་རྣམས་༎
+T02nagpancu:86	 strī-puṃ-napuṃsakāste ca dhātvādiparikalpitāḥ // Pk_1.38 //	T02D1802:46b-47	བུད་མེད་སྐྱེས་པ་མ་ནིང་སྟེ་༎ ཁམས་ལ་སོགས་པར་རབ་ཏུ་བརྟག་།འོག་དང་སྟེང་༄༤༧ཨ་༌་༎
+T02nagpancu:87	 adha-ūrdhvasamāyuktaṃ jñātvā buddhyā niyojayet /	T02D1802:47a-1	དུ་བཅས་པར་ནི་༎ ཤེས་ནས་བློས་ནི་ངེས་པར་སྦྱར་༎
+T02nagpancu:88	 pravyāhāramidaṃ mantraṃ niḥsvabhāvasvabhāvajam // Pk_1.39 //	T02D1802:47a-3	བརྗོད་པ་ཡི་ནི་སྔགས་འདི་དག་། དངོས་མེད་ངོ་བོ་ལས་བྱུང་བའི་༎
+T02nagpancu:89	 tataḥ pariṇataṃ rūpaṃ yaddevatopalambhikam /	T02D1802:47a-4	དེ་ནི་ཡོངས་སུ་གྱུར་པའི་གཟུགས་༎ ལྷར་རུ་ཉེ་བར་མཚོན་པ་གང་༎ དེ་ནི་ཉེ་བར་དམིགས་པའོ་༎
+T02nagpancu:9	 vāyutattvānupūrveṇa mantratattvaṃ samāviśet /  mantranidhyaptimāgamya vajrajāpaḥ suśikṣyate // Pk_1.4 //	T02D1802:45a-17	རླུང་གི་དེ་ཉིད་རིམ་གྱིས་ནི་༎ སྔགས་ཀྱི་དེ་ཉིད་ཡང་དག་འཇུག་། སྔགས་ཀྱི་དམིགས་པ་རྟོགས་ནས་ནི་༎ རྡོ་རྗེ་༄༤༥བ་བཟླས་པ་རྣམས་ལ་སློབ་༎
+T02nagpancu:90	 sāṅketikaṃ tritattvasthaṃ prakṛtijāpalapakṣaṇam // Pk_1.40 //	T02D1802:47a-7	བརྡ་ནི་དེ་ཉིད་གསུམ་གནས་པ་༎ རང་བཞིན་བཟླས་པའི་མཚན་ཉིད་དོ་༎
+T02nagpancu:91	 akāroddeśakaṃ jñānaṃ buddhasya hṛdayaṃ bhavet /	T02D1802:47a-9	ཨཨ་ཡིག་བཤད་པའི་ཡེ་ཤེས་ནི་༎ སངས་རྒྱས་ཀུན་གྱི་སྙིང་པོར་གྱུར་༎
+T02nagpancu:92	 oṃkāraḥ saṃsṛjet sattvān buddharūpāgrakalpitān // Pk_1.41 //  hūṃkāraḥsaṃharet sattvān āḥkāraḥ sthāpako bhavet /	T02D1802:47a-11	ཨཨོམ་གྱིས་སེམས་ཅན་ཡང་དག་སྡུད་༎ སངས་རྒྱས་སྐུར་ནི་རབ་ཏུ་བརྟག་། ཧའུམ་གིས་སེམས་ཅན་ཡང་དག་སྤྲོ་༎ སངས་རྒྱས་ཐུགས་སུ་རབ་ཏུ་བརྟག་། ཨའ༔་ནི་གནས་པར་གྱུར་པའོ་༎
+T02nagpancu:94	 praveśaśva sthitiścaiva vyutthānaṃ ca krameṇa ca // Pk_1.42 //	T02D1802:47a-14	སངས་རྒྱས་གསུང་དུ་རབ་ཏུ་བརྟག་།འཇུག་པ་ཉིད་དང་གནས་པ་དང་༎ ལྡང་བ་ཡི་ནི་རིམ་གྱིས་ཀྱང་༎
+T02nagpancu:95	 japen mantramabhinnāṅgaṃ prajñopāyapade sthitaḥ /	T02D1802:47a-15	ཤེས་རབ་ཐབས་ཀྱི་གཞིར་གནས་ཏེ་༎ སྔགས་ཀྱི་ཡན་ལག་མ་ཉམས་བཟླས་༎
+T02nagpancu:96	 pāṇḍarādijapaḥ praktaḥ pañcaviṃśacchatadvayam // Pk_1.43 //	T02D1802:47a-17	གོས་དཀར་ལ་སོགས་བཟླས་བཤད་པ་༎ བརྒྱ་ཕྲག་གཉིས་དང་ཉི་ཤུ་ལྔ་༎
+T02nagpancu:97	 caturbhirguṇitaṃ samyak caturyogaśataṃ nava /	T02D1802:47a-19	བཞི་པོ་ལེགས་པར་བསྡུས་པ་ནི་༎ སྦྱོར་བཞི་བསྡུས་པ་བརྒྱ་ཕྲག་དགུ་༎
+T02nagpancu:98	 navaśataṃ tu yad dṛṣṭaṃ caturviṃśatparikramaiḥ /	T02D1802:47a-21	དགུ་བརྒྱ་དག་ཏུ་གང་བསྟན་པ་༎ ཉི་ཤུ་རྩ་བཞིའི་རིམ་གྱིས་ནི་༎
+T02nagpancu:99	 pratyutpādād bhavet tatra dvyayutaṃ śataṣoḍaśam // Pk_1.44 //	T02D1802:47a-23	དེ་ནི་སོ་སོར་འབྱུང་བ་ལས་༎ ཉི་ཁྲི་ཆིག་སྟོང་དྲུག་བརྒྱའོ་༎

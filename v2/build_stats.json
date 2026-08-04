@@ -1,0 +1,32 @@
+{
+ "bo-sa": {
+  "kept": 555558,
+  "dropped_contaminated": 93,
+  "dropped_duplicate": 14862
+ },
+ "sa-bo": {
+  "kept": 555558,
+  "dropped_contaminated": 93,
+  "dropped_duplicate": 14862
+ },
+ "bo-zh": {
+  "kept": 836559,
+  "dropped_contaminated": 4686,
+  "dropped_duplicate": 35312
+ },
+ "zh-bo": {
+  "kept": 836559,
+  "dropped_contaminated": 4686,
+  "dropped_duplicate": 35312
+ },
+ "sa-zh": {
+  "kept": 301613,
+  "dropped_contaminated": 1228,
+  "dropped_duplicate": 6916
+ },
+ "zh-sa": {
+  "kept": 301613,
+  "dropped_contaminated": 1228,
+  "dropped_duplicate": 6916
+ }
+}
