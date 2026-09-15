@@ -27,6 +27,10 @@ numbering), `root_segtext` / `par_segtext` (segment texts), `root_string` /
 `par_string` (concatenations), position fields, `root_length` / `par_length`
 (character lengths).
 
+The held-out MITRA-MT evaluation suite (17 translation directions, 33k sentence
+pairs, 1.9k paragraph blocks) is in [`evaluation/`](evaluation/); see its
+README for files, formats and source attribution.
+
 ## Provenance and cleaning
 
 - Mined from the DharmaNexus corpora with the spanmine pipeline
