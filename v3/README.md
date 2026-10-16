@@ -43,7 +43,3 @@ plus position fields kept for DharmaNexus compatibility.
    Also dropped: 576 records from Tibetan lines that are mixed into one Sanskrit source file
    (Ḍākārṇavatantra, Sugiki 2022).
 
-The Prajñāpāramitā corpus was left out of the triangle fill (step 4) because its many near-identical
-versions make implied links unreliable. Its directly mined alignments are included. Build statistics
-for step 7 are in `build_stats.json`. Pāli is not part of this release. License and citation follow the
-repository root README.
