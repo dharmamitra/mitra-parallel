@@ -3,7 +3,11 @@
 Parallel corpora of classical Buddhist literature, mined and released by the
 [Dharmamitra](https://dharmamitra.org) project.
 
-- **[`v2/`](v2/)** — current release (2026): trilingual Sanskrit–Tibetan,
+- **[`v3/`](v3/)** — current release (October 2026): 1,690,655 aligned
+  records (Sanskrit–Tibetan, Sanskrit–Chinese, Chinese–Tibetan), every
+  alignment checked pair by pair by a trained post-corrector, plus spans that
+  v2 missed. See [`v3/README.md`](v3/README.md).
+- **[`v2/`](v2/)** — previous release (2026): trilingual Sanskrit–Tibetan,
   Sanskrit–Chinese, and Chinese–Tibetan corpus of 1,693,730 aligned records
   (2,338,400 segment pairs), mined with a pivot-free embedding-based
   span-mining pipeline, decontaminated against the published evaluation

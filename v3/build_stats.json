@@ -1,0 +1,32 @@
+{
+ "sa-bo": {
+  "kept": 625148,
+  "dropped_contaminated": 156,
+  "dropped_tibetan_in_sanskrit": 531
+ },
+ "bo-sa": {
+  "kept": 625148,
+  "dropped_contaminated": 156,
+  "dropped_tibetan_in_sanskrit": 531
+ },
+ "sa-zh": {
+  "kept": 355738,
+  "dropped_contaminated": 1185,
+  "dropped_tibetan_in_sanskrit": 45
+ },
+ "zh-sa": {
+  "kept": 355738,
+  "dropped_contaminated": 1185,
+  "dropped_tibetan_in_sanskrit": 45
+ },
+ "bo-zh": {
+  "kept": 709769,
+  "dropped_contaminated": 2254,
+  "dropped_tibetan_in_sanskrit": 0
+ },
+ "zh-bo": {
+  "kept": 709769,
+  "dropped_contaminated": 2254,
+  "dropped_tibetan_in_sanskrit": 0
+ }
+}
